@@ -1,0 +1,64 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #6000bf;
+  --ifm-color-primary-dark: #5600ac;
+  --ifm-color-primary-darker: #5200a2;
+  --ifm-color-primary-darkest: #430086;
+  --ifm-color-primary-light: #6a00d2;
+  --ifm-color-primary-lighter: #6e00dc;
+  --ifm-color-primary-lightest: #7d00f8;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #9f7aea;
+  --ifm-color-primary-dark: #895be5;
+  --ifm-color-primary-darker: #7e4ce3;
+  --ifm-color-primary-darkest: #5e22d7;
+  --ifm-color-primary-light: #b599ef;
+  --ifm-color-primary-lighter: #c0a8f1;
+  --ifm-color-primary-lightest: #e2d6f9;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.footer--dark {
+  --ifm-footer-background-color: #2E3032FF;
+}
+
+.img-center {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+/* Target each blog post preview */
+.blog-list-page article {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: var(--ifm-global-shadow-lw);
+  background-color: var(--ifm-background-surface-color);
+  transition: box-shadow 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+}
+
+/* Highlight on hover */
+.blog-list-page article:hover {
+  background-color: var(--ifm-color-emphasis-100);
+  box-shadow: var(--ifm-global-shadow-md);
+  border-color: var(--ifm-color-primary);
+}
+
+
+
+
+
