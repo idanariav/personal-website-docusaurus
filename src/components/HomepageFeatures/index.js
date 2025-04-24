@@ -17,7 +17,7 @@ const FeatureList = [
   },
   {
     title: 'Knowledge is power',
-    link: '/docs/notes', // todo - fix pointer
+    link: '/docs/notes/intro', // todo - fix pointer
     Svg: require('@site/static/general/knowledge_illusration.svg').default,
     description: (
       <>

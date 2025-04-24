@@ -15,15 +15,16 @@ const config = {
   favicon: 'general/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://idanariav.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/personal-website-docusaurus/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'idanariav', // Usually your GitHub org/user name.
+  projectName: 'personal-website-docusaurus', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -96,15 +97,15 @@ const config = {
             items: [
               {
                 label: 'Notes',
-                to: '/docs/notes', // todo - fix pointer
+                to: '/docs/notes/intro', // todo - fix pointer
               },
               {
                 label: 'Books',
-                to: 'docs/books', // todo - fix pointer
+                to: 'docs/books/test_book_summary', // todo - fix pointer
               },
               {
                 label: 'Maps of Content',
-                to: 'docs/mocs', // todo - fix pointer
+                to: 'docs/mocs/stress_moc', // todo - fix pointer
               }
             ],
           },
