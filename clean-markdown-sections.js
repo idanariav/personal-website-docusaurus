@@ -19,7 +19,7 @@ const forbiddenHeadings = [
 
 // Helper function: check if a line is a heading (any level)
 function isHeading(line) {
-  return /^#{1,6}\s/.test(line.trim());
+  return /^#{1,6}\s/.test(line);
 }
 
 // Helper: check if a line matches any forbidden heading
@@ -50,7 +50,7 @@ function cleanMarkdownContent(content) {
     }
 
     if (skip || skippingCommentBlock) {
-      if (isHeading(line) && !isForbiddenHeading(line)) {
+      if (isHeading(trimmed) && !isForbiddenHeading(trimmed)) {
         // Found a new heading, stop skipping
         skip = false;
         cleanedLines.push(line);
