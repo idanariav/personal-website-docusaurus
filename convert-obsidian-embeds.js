@@ -1,65 +1,88 @@
-// convert-obsidian-embeds.js
+// smart-convert-obsidian-embeds.js
 import fs from 'fs-extra';
 import path from 'path';
-import glob from 'glob';
 import { fileURLToPath } from 'url';
+import glob from 'glob';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const docsPath = path.resolve(__dirname, 'docs'); // no leading slash
+const docsPath = path.resolve(__dirname, 'docs'); // Now search entire docs!
 
-function normalizeLink(fileName) {
-  const hasExtension = /\.[^.\s]+$/.test(fileName);
-  const isWebp = fileName.toLowerCase().endsWith('.webp');
+// STEP 1: Build a smarter file cache with full relative paths
+let fileCache = new Map();
 
-  if (!hasExtension) {
-    return `${fileName}.md`;
-  } else if (isWebp) {
-    return fileName; // keep webp as-is
-  } else {
-    return fileName; // already has an extension like .md, .pdf etc.
-  }
+function buildFileCache() {
+  const files = glob.sync(`${docsPath}/**/*.{md,webp,png,jpg,jpeg,gif}`, { nodir: true });
+  files.forEach(file => {
+    const relativeToDocs = path.relative(docsPath, file).replace(/\\/g, '/'); // normalize Windows paths
+    const fileNameOnly = path.basename(file).toLowerCase(); // cache by filename only
+    if (!fileCache.has(fileNameOnly)) {
+      fileCache.set(fileNameOnly, relativeToDocs);
+    }
+  });
+  console.log(`📚 Cached ${fileCache.size} files for quick lookup`);
 }
 
-function findFilePath(fileName) {
-  const normalizedName = normalizeLink(fileName);
-  const matches = glob.sync(`${docsPath}/**/${normalizedName}`);
-
-  if (matches.length > 0) {
-    // Found a matching file
-    const relativePath = path.relative(path.resolve(__dirname), matches[0]);
-    return relativePath.replace(/\\/g, '/'); // ensure forward slashes for links
-  } else {
-    console.warn(`⚠️  File not found for [[${fileName}]]`);
-    return null;
-  }
+// STEP 2: Normalize input link
+function normalizeLinkName(raw) {
+  // Remove parentheses with "::", e.g. (jump:: [[link]]) => [[link]]
+  const cleaned = raw.replace(/\([^)]+::\s*/, ''); // remove (something::
+  return cleaned.trim();
 }
 
+// STEP 3: Convert embeds using smart file lookup
 function convertEmbeds(content) {
-  return content.replace(/\[\[(.+?)\]\]/g, (match, fileName) => {
-    const filePath = findFilePath(fileName.trim());
-    if (filePath) {
-      return `[${fileName.trim()}](${filePath})`;
+  return content.replace(/!\[\[(.+?)\]\]/g, (match, rawLink) => {
+    const cleanedLink = normalizeLinkName(rawLink);
+
+    let filename = cleanedLink.trim();
+
+    // Assume images if they already have image extensions
+    const isImage = filename.match(/\.(webp|png|jpg|jpeg|gif)$/i);
+
+    // If no extension, assume it's a markdown
+    if (!isImage && !filename.endsWith('.md')) {
+      filename += '.md';
+    }
+
+    const lowerFilename = filename.toLowerCase();
+    const cachedPath = fileCache.get(lowerFilename);
+
+    if (cachedPath) {
+      const linkPath = `/docs/${cachedPath}`;
+
+      if (isImage) {
+        return `![${path.basename(filename)}](${linkPath})`;
+      } else {
+        const title = path.basename(filename, '.md');
+        return `[${title}](${linkPath})`;
+      }
     } else {
-      return match; // Leave the original if file not found
+      console.warn(`⚠️ File not found for link: ${cleanedLink}`);
+      // fallback: show plain text title
+      return cleanedLink.replace(/\.(md|webp|png|jpg|jpeg|gif)$/i, '');
     }
   });
 }
 
+// STEP 4: Process markdown files
 function processMarkdownFiles() {
-  const files = glob.sync(`${docsPath}/**/*.md`);
+  buildFileCache();
 
-  files.forEach(file => {
-    const content = fs.readFileSync(file, 'utf8');
+  const allFiles = glob.sync(`${docsPath}/**/*.md`);
+
+  allFiles.forEach(file => {
+    let content = fs.readFileSync(file, 'utf8');
     const updated = convertEmbeds(content);
+
     if (content !== updated) {
       fs.writeFileSync(file, updated, 'utf8');
       console.log(`✅ Converted embeds in: ${path.relative(docsPath, file)}`);
     }
   });
 
-  console.log(`🛠 Finished converting ${files.length} markdown file(s).`);
+  console.log(`🏁 Finished processing ${allFiles.length} markdown file(s).`);
 }
 
 processMarkdownFiles();
