@@ -33,9 +33,15 @@ function cleanMarkdownContent(content) {
   const lines = content.split('\n');
   let cleanedLines = [];
   let skip = false;
+  let skippingCommentBlock = false;
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
+
+    if (trimmed.startsWith('%%')) {
+      skippingCommentBlock = !skippingCommentBlock;
+      continue; // Skip the %% line itself
+    }
 
     if (isForbiddenHeading(line)) {
       console.log(`🚫 Skipping from forbidden heading: "${line.trim()}"`);
@@ -43,7 +49,7 @@ function cleanMarkdownContent(content) {
       continue; // skip the forbidden heading line itself
     }
 
-    if (skip) {
+    if (skip || skippingCommentBlock) {
       if (isHeading(line) && !isForbiddenHeading(line)) {
         // Found a new heading, stop skipping
         skip = false;
