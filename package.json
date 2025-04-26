@@ -4,6 +4,9 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
+    "convert:embeds": "node convert-obsidian-embeds.js",
+    "prepare:docs": "npm run convert:embeds",
+    "prebuild": "npm run prepare:docs",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
