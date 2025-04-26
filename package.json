@@ -4,9 +4,11 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "convert:embeds": "node convert-obsidian-embeds.js",
-    "prepare:docs": "npm run convert:embeds",
+    "convert:links": "node convert-obsidian-embeds.js",
+    "remove:sections": "node scripts/clean-markdown-sections.js",
+    "prepare:docs": "npm run convert:links && npm run remove:sections",
     "prebuild": "npm run prepare:docs",
+    "prestart": "npm run prepare:docs",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",

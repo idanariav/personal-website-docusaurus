@@ -1,56 +1,73 @@
-// clean-markdown-sections.js
+// scripts/cleanup-markdown.js
 import fs from 'fs-extra';
 import path from 'path';
-import { fileURLToPath } from 'url';
 import glob from 'glob';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const docsPath = path.resolve('docs'); // Adjust if needed
 
-const docsPath = path.resolve(__dirname, 'docs');
-
-// The headings that should trigger removal of their sections
-const headingsToRemove = [
+// Forbidden headings - exact text match
+const forbiddenHeadings = [
   '## Connections',
   '# Excalidraw Data',
   '## Development',
   '### 📥Unsorted notes',
-  '## Text Elements',
-  '## Embedded Files',
-  '## Drawing'
 ];
 
-// This regex matches the headings and captures everything until the next heading
-function createRemoveRegex(heading) {
-  // Match heading + anything until the next heading (## or ### or #)
-  return new RegExp(`${heading.replace(/([#*+?^${}()|[\]\\])/g, '\\$1')}[\\s\\S]*?(?=^#{1,3}\\s|\\Z)`, 'gm');
+// Helper function: check if a line is a heading (any level)
+function isHeading(line) {
+  return /^#{1,6}\s/.test(line.trim());
 }
 
-function cleanMarkdown(content) {
-  let updatedContent = content;
-
-  headingsToRemove.forEach(heading => {
-    const regex = createRemoveRegex(heading);
-    updatedContent = updatedContent.replace(regex, '');
-  });
-
-  return updatedContent.trim(); // Clean up extra space
+// Helper: check if a line matches any forbidden heading
+function isForbiddenHeading(line) {
+  const trimmed = line.trim();
+  return forbiddenHeadings.includes(trimmed);
 }
 
-function cleanMarkdownFiles() {
+// Main cleanup function
+function cleanMarkdownContent(content) {
+  const lines = content.split('\n');
+  let cleanedLines = [];
+  let skip = false;
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+
+    if (isForbiddenHeading(line)) {
+      console.log(`🚫 Skipping from forbidden heading: "${line.trim()}"`);
+      skip = true;
+      continue; // skip the forbidden heading line itself
+    }
+
+    if (skip) {
+      if (isHeading(line)) {
+        // Found a new heading, stop skipping
+        skip = false;
+        cleanedLines.push(line);
+      }
+      // Otherwise, still skipping (don't push line)
+    } else {
+      cleanedLines.push(line);
+    }
+  }
+
+  return cleanedLines.join('\n');
+}
+
+function processMarkdownFiles() {
   const files = glob.sync(`${docsPath}/**/*.md`);
 
   files.forEach(file => {
     const content = fs.readFileSync(file, 'utf8');
-    const updated = cleanMarkdown(content);
+    const updated = cleanMarkdownContent(content);
 
     if (content !== updated) {
       fs.writeFileSync(file, updated, 'utf8');
-      console.log(`✅ Cleaned unwanted sections in: ${path.relative(docsPath, file)}`);
+      console.log(`✅ Cleaned file: ${path.relative(docsPath, file)}`);
     }
   });
 
-  console.log(`🧹 Finished cleaning ${files.length} markdown file(s).`);
+  console.log(`🛠 Finished cleaning ${files.length} markdown file(s).`);
 }
 
-cleanMarkdownFiles();
+processMarkdownFiles();
