@@ -11,6 +11,10 @@ const forbiddenHeadings = [
   '# Excalidraw Data',
   '## Development',
   '### 📥Unsorted notes',
+  '## Text Elements',
+  '## Embedded Files',
+  '## Drawing',
+  '## Sources'
 ];
 
 // Helper function: check if a line is a heading (any level)
