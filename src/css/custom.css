@@ -58,13 +58,22 @@
   border-color: var(--ifm-color-primary);
 }
 
-strong {
+html[data-theme='light'] em {
+  color: #f5a4dffd; 
+}
+
+/* For italic text in dark mode */
+html[data-theme='dark'] em {
+  color: #F5C2E7; 
+}
+
+html[data-theme='light'] strong {
+  color: #f4c45b; 
+}
+
+/* For italic text in dark mode */
+html[data-theme='dark'] strong {
   color: #F9E2AF; 
 }
-
-em {
-  color: #F5C2E7;
-}
-
 
 
