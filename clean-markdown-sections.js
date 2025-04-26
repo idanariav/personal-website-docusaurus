@@ -54,7 +54,7 @@ function cleanMarkdownContent(content) {
   return cleanedLines.join('\n');
 }
 
-function processMarkdownFiles() {
+function cleanMarkdownSections() {
   const files = glob.sync(`${docsPath}/**/*.md`);
 
   files.forEach(file => {
@@ -70,4 +70,4 @@ function processMarkdownFiles() {
   console.log(`🛠 Finished cleaning ${files.length} markdown file(s).`);
 }
 
-processMarkdownFiles();
+cleanMarkdownSections();

@@ -47,7 +47,7 @@ function convertEmbeds(content) {
   });
 }
 
-function processMarkdownFiles() {
+function convertObsidianEmbeds() {
   const files = glob.sync(`${docsPath}/**/*.md`);
 
   files.forEach(file => {
@@ -62,4 +62,4 @@ function processMarkdownFiles() {
   console.log(`🛠 Finished converting ${files.length} markdown file(s).`);
 }
 
-processMarkdownFiles();
+convertObsidianEmbeds();
