@@ -24,8 +24,7 @@ function isHeading(line) {
 
 // Helper: check if a line matches any forbidden heading
 function isForbiddenHeading(line) {
-  const trimmed = line.trim();
-  return forbiddenHeadings.includes(trimmed);
+  return forbiddenHeadings.includes(line);
 }
 
 // Main cleanup function
@@ -37,13 +36,14 @@ function cleanMarkdownContent(content) {
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
+    const trimmed = line.trim();
 
     if (trimmed.startsWith('%%')) {
       skippingCommentBlock = !skippingCommentBlock;
       continue; // Skip the %% line itself
     }
 
-    if (isForbiddenHeading(line)) {
+    if (isForbiddenHeading(trimmed)) {
       console.log(`🚫 Skipping from forbidden heading: "${line.trim()}"`);
       skip = true;
       continue; // skip the forbidden heading line itself
