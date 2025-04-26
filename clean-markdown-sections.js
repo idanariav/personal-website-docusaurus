@@ -44,7 +44,7 @@ function cleanMarkdownContent(content) {
     }
 
     if (skip) {
-      if (isHeading(line)) {
+      if (isHeading(line) && !isForbiddenHeading(line)) {
         // Found a new heading, stop skipping
         skip = false;
         cleanedLines.push(line);

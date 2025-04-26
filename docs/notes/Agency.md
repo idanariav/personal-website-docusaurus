@@ -41,6 +41,7 @@ here would be some additional links
 %%
 # Excalidraw Data
 ## Text Elements
+
 Agency ^CxbC2DhD
 
 Choose for yourself,
@@ -55,11 +56,13 @@ priorities ^OkoAzsvr
 Continue Wacthing ^ju0W2mq7
 
 ## Embedded Files
+
 3711cf586aa73539a527fadf8c6006873c8cd5ff: [[Icon - Choice, dilema, desicion.webp]]
 
 0e39f1f3b2133b11e4f179af5beb25cbcbec3f5e: [[icon - compass, goal, target.webp]]
 
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBWbQBGGjoghH0EDihmbgBtcDBQMBLoeHF0KCwoVJLIRhZ2LjQAFgBmflKG1k4AOU4xbhaADmGeAE5xgAYpjsLIQg5iLG4I
 
