@@ -58,7 +58,13 @@
   border-color: var(--ifm-color-primary);
 }
 
+strong {
+  color: #F9E2AF; 
+}
 
+em {
+  color: #F5C2E7;
+}
 
 
 
