@@ -5,8 +5,8 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "convert:links": "node convert-obsidian-embeds.js",
-    "remove:sections": "node scripts/clean-markdown-sections.js",
-    "prepare:docs": "npm run convert:links && npm run remove:sections",
+    "remove:sections": "node clean-markdown-sections.js",
+    "prepare:docs": "npm run remove:sections && npm run convert:links",
     "prebuild": "npm run prepare:docs",
     "prestart": "npm run prepare:docs",
     "start": "docusaurus start",
