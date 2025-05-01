@@ -9,6 +9,8 @@
   font-weight: bold;
   position: relative;
   overflow: hidden;
+  background-color: var(--ifm-color-primary-welcome);
+  color: var(--ifm-font-base-color);
 }
 
 @media screen and (max-width: 996px) {
@@ -33,12 +35,12 @@
 }
 
 .shapeFill {
-  fill: var(--ifm-color-primary);
+  fill: var(--ifm-color-primary-welcome);
 }
 
 
 .shapeFillBlack {
-  fill: #2E3032FF;
+  fill: var(--ifm-color-primary-welcome);
 }
 
 .topShape{

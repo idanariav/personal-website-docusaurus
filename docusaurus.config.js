@@ -58,6 +58,22 @@ const config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
+        sitemap: {
+          lastmod: 'date',
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+          createSitemapItems: async (params) => {
+            const {defaultCreateSitemapItems, ...rest} = params;
+            const items = await defaultCreateSitemapItems(rest);
+            return items.filter((item) => !item.url.includes('/page/'));
+          },
+        },
+        gtag: {
+          trackingID: 'G-G5X7Y587HZ',
+          anonymizeIP: true,
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -90,7 +106,6 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
         links: [
           {
             title: 'Knowledge Vault',
@@ -147,7 +162,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Idan Ariav. Built with Docusaurus.`,
       },
       prism: {
-        theme: prismThemes.github, // todo - how do I change a theme?
+        theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
     }),
