@@ -1,11 +1,7 @@
-// convert-obsidian-embeds.js
-import fs from 'fs-extra';
-import path from 'path';
-import glob from 'glob';
-import { fileURLToPath } from 'url';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+// convert-obsidian-embeds.cjs
+const fs = require('fs-extra');
+const path = require('path');
+const glob = require('glob');
 
 const docsPath = path.resolve(__dirname, 'docs'); // no leading slash
 
@@ -27,9 +23,8 @@ function findFilePath(fileName) {
   const matches = glob.sync(`${docsPath}/**/${normalizedName}`);
 
   if (matches.length > 0) {
-    // Found a matching file
-    const relativePath = path.relative(path.resolve(__dirname), matches[0]);
-    return relativePath.replace(/\\/g, '/'); // ensure forward slashes for links
+    const relativePath = path.relative(__dirname, matches[0]);
+    return relativePath.replace(/\\/g, '/');
   } else {
     console.warn(`⚠️  File not found for [[${fileName}]]`);
     return null;
@@ -42,7 +37,7 @@ function convertEmbeds(content) {
     if (filePath) {
       return `[${fileName.trim()}](${filePath})`;
     } else {
-      return match; // Leave the original if file not found
+      return match;
     }
   });
 }

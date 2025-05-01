@@ -1,7 +1,7 @@
 // scripts/cleanup-markdown.js
-import fs from 'fs-extra';
-import path from 'path';
-import glob from 'glob';
+const fs = require('fs-extra');
+const path = require('path');
+const glob = require('glob');
 
 const docsPath = path.resolve('docs'); // Adjust if needed
 
