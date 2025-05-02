@@ -42,7 +42,6 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
     }
 
     if (isForbiddenHeading(trimmed)) {
-      console.log(`❌ Skipping from forbidden heading: "${line.trim()}"`);
       skip = true;
       continue;
     }
