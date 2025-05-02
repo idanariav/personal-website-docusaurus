@@ -87,6 +87,7 @@ const config = {
       // todo Replace with updated photo after finishing the webside
       image: "general/website-social-card.png",
       navbar: {
+        hideOnScroll: true,
         title: 'Welcome',
         items: [{to: '/about', label: 'About me', position: 'left'}, // todo - create an about me page
           {
