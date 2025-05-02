@@ -91,7 +91,7 @@ const config = {
         title: 'Welcome',
         items: [{to: '/about', label: 'About me', position: 'left'}, // todo - create an about me page
           {
-            to: '/docs/notes/welcome',
+            to: '/docs/welcome',
             position: 'left',
             label: 'Knowledge Vault',
           },
@@ -112,7 +112,7 @@ const config = {
             items: [
               {
                 label: 'Notes',
-                to: '/docs/notes/welcome', // todo - fix pointer
+                to: '/docs/welcome', // todo - fix pointer
               },
               {
                 label: 'Books',
