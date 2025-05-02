@@ -1,7 +1,9 @@
 {
   "label": "Book summaries",
-  "position": 2,
+  "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Summary of non fiction books including key takeaways and by chapter notes"
   }
+  
 }
