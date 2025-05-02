@@ -22,4 +22,4 @@ Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://
 - Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
 - Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
 
-here is a [[test]] for the embedding test
+here is a [[welcome]] for the embedding test
