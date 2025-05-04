@@ -2,6 +2,7 @@
 const fs = require('fs-extra');
 const path = require('path');
 const glob = require('glob');
+const matter = require('gray-matter'); // For parsing frontmatter
 
 const docsPath = path.resolve(__dirname, 'docs');
 
@@ -55,10 +56,12 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
     }
 
     // Process obsidian embed conversion inline
-    line = line.replace(/\(([^\s]+)::\s*\[\[(.+?)\]\]\)/g, (match, _prefix, fileName) => {
-      return convertToLink(fileName, cache) || match;
+    // Replace (word:: [[obsidian link]]) with [[obsidian link]]
+    line = line.replace(/\(\w+::\s*\[\[(.+?)\]\]\)/g, (match, fileName) => {
+      return `[[${fileName}]]`;
     });
 
+    // Replace [[obsidian link]] with a converted link if applicable
     line = line.replace(/\[\[(.+?)\]\]/g, (match, fileName) => {
       return convertToLink(fileName, cache) || match;
     });
@@ -109,11 +112,29 @@ function processMarkdownFiles() {
 
   files.forEach(file => {
     const content = fs.readFileSync(file, 'utf8');
-    const updated = cleanAndConvertMarkdown(content, cache);
+    const { data: frontmatter, content: markdownContent } = matter(content);
 
-    if (content !== updated) {
-      fs.writeFileSync(file, updated, 'utf8');
-      console.log(`✅ Processed file: ${path.relative(docsPath, file)}`);
+    // Skip processing if "SiteProcssed" is true in frontmatter
+    if (frontmatter.SiteProcssed === true) {
+      console.log(`⏩ Skipping already processed file: ${path.relative(docsPath, file)}`);
+      return;
+    }
+
+    // Handle "publish" field: convert to "draft" and reverse the value
+    if (frontmatter.publish !== undefined) {
+      frontmatter.draft = !frontmatter.publish; // Reverse the value
+      delete frontmatter.publish; // Remove the "publish" field
+    }
+
+    const updatedContent = cleanAndConvertMarkdown(markdownContent, cache);
+
+    if (markdownContent !== updatedContent || frontmatter.draft !== undefined) {
+      // Add "SiteProcssed: true" to the frontmatter
+      const updatedFrontmatter = { ...frontmatter, SiteProcssed: true };
+      const updatedFile = matter.stringify(updatedContent, updatedFrontmatter);
+
+      fs.writeFileSync(file, updatedFile, 'utf8');
+      console.log(`✅ Processed and updated file: ${path.relative(docsPath, file)}`);
     }
   });
 
