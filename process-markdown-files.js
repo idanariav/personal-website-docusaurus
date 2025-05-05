@@ -61,9 +61,11 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
       return `[[${fileName}]]`;
     });
 
-    // Replace [[obsidian link]] with a converted link if applicable
-    line = line.replace(/\[\[(.+?)\]\]/g, (match, fileName) => {
-      return convertToLink(fileName, cache) || match;
+    // Replace [[obsidian link|alias]] or [[obsidian link]] with a converted link
+    line = line.replace(/\[\[(.+?)(\|(.+?))?\]\]/g, (match, fileName, _aliasPart, alias) => {
+      const linkText = alias || fileName; // Use alias if present, otherwise use file name
+      const linkPath = convertToLink(fileName, cache); // Convert file name to link path
+      return linkPath ? `[${linkText}](${linkPath})` : match; // Return formatted link or original match
     });
 
     cleanedLines.push(line);
@@ -101,7 +103,7 @@ function findFilePath(fileName, cache) {
 function convertToLink(fileName, cache) {
   const filePath = findFilePath(fileName.trim(), cache);
   if (filePath) {
-    return `[${fileName.trim()}](${filePath})`;
+    return filePath; // Return the file path for the link
   }
   return null;
 }
