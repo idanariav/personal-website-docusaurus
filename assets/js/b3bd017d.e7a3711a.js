@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkidans_personal_website=self.webpackChunkidans_personal_website||[]).push([[6940],{260:e=>{e.exports=JSON.parse('{"tags":[{"label":"Type/Note","permalink":"/personal-website-docusaurus/docs/tags/type-note","count":1},{"label":"Source/Wiki","permalink":"/personal-website-docusaurus/docs/tags/source-wiki","count":1}]}')}}]);
