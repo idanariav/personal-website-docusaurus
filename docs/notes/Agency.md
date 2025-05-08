@@ -20,12 +20,24 @@ aliases:
 
 ## Notes
 
-some example text here
+Agency is the ability of the individual to logically connect between desires and actions, and become the inner, causal factor of those actions. Meaning, **a person with agency usually feels (Jump:: [[Responsibility|responsible]]) for their actions. They are aware of the decisions they are making, and their actions are lining up with their desires** (Related:: [[Second order thinking]]).
+
+**The main case where we don't implement our agency is when there is no filter, thought or a conscious decision about the conversion between desire and action** (Weakens:: [[Impulsivity]]). For example, a person who sees an ad and immediately goes and buys something without thinking is not considered as a person with agency. Similarly, a person that is being shouted on and immediately shouts back is also not considered as a person with agency.
+
+It is important to note that agency is matter of following the right (Supports:: [[Trust the Process|process]]), not a matter of which choices you make. A good process is one that:
+1. **Free of external influence** - By (Supported:: [[Rest|Pausing]]), taking a moment to (Supported:: [[Zoom out]]), and allowing ourselves to (Supported:: [[introspection|reflect]]) on our thoughts and feelings, we can make sure that our choices are free of any (Opposes:: [[External Influence]]).
+2. **Aligns with values** - Our choices should reflect our (Jump:: [[Core Values]])
+
+Making decisions without following the right process can lead to a false sense of agency due to:
+1. **Rationalization** - Without even meaning to, we can mistakenly justify our actions after having done them to avoid cognitive misalignment, while beforehand we might have chosen differently (Jump:: [[Rationalization]])
+2. **Surrendering to pressure** - Making choices without internal deliberation can cause us to feel like our choices are our own, while in reality we end up being a puppet in others' hands (Aka:: [[Social Environment|Peer Pressure]])
+
+Remember that in the space **between the pressure, stimulus and triggers we get from the external world, and the action we do as a response, we are always free to choose**.
 
 
 ## Visual
 
-here would be a link to the visual
+![[Agency.webp]]
 
 ## Connections
 
@@ -36,12 +48,14 @@ dv.executeJs(queryContent);
 ```
 
 ## Overview
-here would be some additional links
+🔼Topic:: [[Free Will (MOC)]]
+🔼Topic:: [[Wellbeing (MOC)]]
+◀Origin:: [[How to think like a roman emperor (book)]]
+🔗Link::
 
 %%
 # Excalidraw Data
 ## Text Elements
-
 Agency ^CxbC2DhD
 
 Choose for yourself,
@@ -56,13 +70,11 @@ priorities ^OkoAzsvr
 Continue Wacthing ^ju0W2mq7
 
 ## Embedded Files
-
 3711cf586aa73539a527fadf8c6006873c8cd5ff: [[Icon - Choice, dilema, desicion.webp]]
 
 0e39f1f3b2133b11e4f179af5beb25cbcbec3f5e: [[icon - compass, goal, target.webp]]
 
 ## Drawing
-
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBWbQBGGjoghH0EDihmbgBtcDBQMBLoeHF0KCwoVJLIRhZ2LjQAFgBmflKG1k4AOU4xbhaADmGeAE5xgAYpjsLIQg5iLG4I
 

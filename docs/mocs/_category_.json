@@ -1,6 +1,6 @@
 {
   "label": "Maps of Content",
-  "position": 4,
+  "position": 3,
   "link": {
     "type": "generated-index",
     "description": "Pages that serve as a gathering point for all notes referecing the same topic"
