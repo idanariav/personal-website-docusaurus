@@ -1,19 +1,19 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+obsidian:
+  label: Obsidian
+  permalink: /obsidian
+  description: Articles about using Obsidian
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+growth:
+  label: Growth
+  permalink: /growth
+  description: Practical philosophy for self growth and improved wellbeing
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+knowledge_management:
+  label: Knowledge Management
+  permalink: /knowledge_management
+  description: Tools to leverage knowledge in your favor, both personally and in your organization
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+philosophy:
+  label: Philosophy
+  permalink: /philosophy
+  description: Spark your curiosity with the big questions of life

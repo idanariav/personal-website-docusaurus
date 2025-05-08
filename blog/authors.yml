@@ -1,23 +1,9 @@
-yangshun:
+idan_ariav:
   name: Idan Ariav
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+  title: Data Analyst, Lifelong Learner
+  url: https://idanariav.github.io/personal-website-docusaurus
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: https://github.com/idanariav/Idans_portfolio
+    linkedin: https://www.linkedin.com/in/idan-ariav/
+    newsletter: https://philosophers-code.kit.com/76943a7d9d
