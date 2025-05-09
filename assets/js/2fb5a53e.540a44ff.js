@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkidans_personal_website=self.webpackChunkidans_personal_website||[]).push([[874],{2815:s=>{s.exports=JSON.parse('{"tags":[{"label":"Type/Synthesis","permalink":"/personal-website-docusaurus/blog/tags/type-synthesis","count":1}]}')}}]);

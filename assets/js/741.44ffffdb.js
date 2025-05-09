@@ -1,0 +1,1 @@
+(self.webpackChunkidans_personal_website=self.webpackChunkidans_personal_website||[]).push([[741],{5741:()=>{}}]);
