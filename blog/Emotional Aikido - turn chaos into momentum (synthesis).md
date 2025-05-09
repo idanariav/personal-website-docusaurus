@@ -106,7 +106,7 @@ But when combined, these two approaches create a powerful synergy that is greate
 
 ![[emotional_aikido_post.png]]
 
-# Further Reading:
+# Further Reading
 [[Ego Is The Enemy (book)]]
 [[The Obstacle Is the Way (book)]]
 [[Mindset (book)]]

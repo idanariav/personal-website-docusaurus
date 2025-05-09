@@ -5,7 +5,9 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "process:markdown": "node process-markdown-files.js",
-    "prepare:docs": "npm run process:markdown",
+    "process:blogs": "node process-blogs.js",
+    "rename:files": "node rename-files.js",
+    "prepare:docs": "npm run rename:files && npm run process:markdown && npm run process:blogs",
     "prebuild": "npm run prepare:docs",
     "prestart": "npm run prepare:docs",
     "start": "docusaurus start",

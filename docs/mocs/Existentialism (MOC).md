@@ -36,7 +36,7 @@ Small tips and reminders on your search for meaning:
 3. quality beats quantity every time ([[Slowing down]] )
 4. Life's meaning is not about you, is about what you bring to the world, to others 
 
-### 📥Unsorted Notes
+### Unsorted Notes
 ```dataview
 LIST FROM [[Existentialism (MOC)]] AND -outgoing([[Existentialism (MOC)]])
 AND  !#Type/MOC 
@@ -71,5 +71,3 @@ sort file.name asc
 
 [[Personal Identity (MOC)]]
 [[Wellbeing (MOC)]]
-
-### Overview

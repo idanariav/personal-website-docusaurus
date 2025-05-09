@@ -5,13 +5,15 @@ const glob = require('glob');
 const matter = require('gray-matter'); // For parsing frontmatter
 
 const docsPath = path.resolve(__dirname, 'docs');
+const imagesPath = path.resolve(__dirname, 'static');
 
 // --- Settings for forbidden content cleanup ---
 const forbiddenHeadings = [
   '## Connections',
+  '# Further Reading',
   '# Excalidraw Data',
-  '## Development',
-  '### 📥Unsorted notes',
+  '# Development',
+  '### Unsorted notes',
   '## Text Elements',
   '## Embedded Files',
   '## Drawing',
@@ -31,6 +33,10 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
   let cleanedLines = [];
   let skip = false;
   let skippingCommentBlock = false;
+  let inAdmonition = false;
+  const admonitionType = "note" // default type
+  let admonitionTitle = '';
+  let admonitionContent = [];
 
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i];
@@ -55,20 +61,51 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
       continue;
     }
 
-    // Process obsidian embed conversion inline
-    // Replace (word:: [[obsidian link]]) with [[obsidian link]]
-    line = line.replace(/\(\w+::\s*\[\[(.+?)\]\]\)/g, (match, fileName) => {
-      return `[[${fileName}]]`;
-    });
+    // Handle Admonition conversion
+    if (trimmed.startsWith('> [!') && trimmed.includes(']')) {
+      // Start of an admonition
+      inAdmonition = true;
+      const match = trimmed.match(/> \[!(.+?)\]-\s*(.+)?/);
+      if (match) {
+        admonitionTitle = match[2] || ''; // Optional title
+      }
+      continue;
+    }
 
-    // Replace [[obsidian link|alias]] or [[obsidian link]] with a converted link
-    line = line.replace(/\[\[(.+?)(\|(.+?))?\]\]/g, (match, fileName, _aliasPart, alias) => {
-      const linkText = alias || fileName; // Use alias if present, otherwise use file name
-      const linkPath = convertToLink(fileName, cache); // Convert file name to link path
-      return linkPath ? `[${linkText}](${linkPath})` : match; // Return formatted link or original match
-    });
+    if (inAdmonition) {
+      if (trimmed.startsWith('>')) {
+        // Admonition content line
+        admonitionContent.push(trimmed.slice(2).trim()); // Remove "> " prefix
+      } else {
+        // End of admonition
+        inAdmonition = false;
+        cleanedLines.push(
+          `:::${admonitionType}${admonitionTitle ? `[${admonitionTitle}]` : ''}`
+        );
+        cleanedLines.push('');
+        cleanedLines.push(...admonitionContent);
+        cleanedLines.push('');
+        cleanedLines.push(':::');
+        cleanedLines.push('');
+        admonitionContent = [];
+      }
+    }
 
-    cleanedLines.push(line);
+    if (!inAdmonition) {
+      // Process obsidian embed conversion inline
+      // Replace (word:: [[obsidian link]]) with [[obsidian link]]
+      line = line.replace(/\(\w+::\s*\[\[(.+?)\]\]\)/g, (match, fileName) => {
+        return `[[${fileName}]]`;
+      });
+
+      // Replace [[obsidian link|alias]] or [[obsidian link]] with a converted link
+      line = line.replace(/\[\[(.+?)(\|(.+?))?\]\]/g, (match, fileName, _aliasPart, alias) => {
+        const linkText = alias || fileName; // Use alias if present, otherwise use file name
+        const linkPath = findFilePath(fileName, cache); // Convert file name to link path
+        return `[${linkText}](${linkPath})` // Return formatted link 
+      });
+      cleanedLines.push(line);
+    }
   }
 
   return cleanedLines.join('\n');
@@ -84,28 +121,36 @@ function normalizeLink(fileName) {
 }
 
 function findFilePath(fileName, cache) {
-  if (cache.has(fileName)) return cache.get(fileName);
+  // Preprocess the filename: replace spaces with hyphens and remove parentheses
+  const cleanFileName = fileName.replace(/ /g, '-').replace(/\(/g, '').replace(/\)/g, '').toLowerCase();
+  if (cache.has(cleanFileName)) return cache.get(cleanFileName);
 
-  const normalizedName = normalizeLink(fileName);
-  const matches = glob.sync(`${docsPath}/**/${normalizedName}`);
-
-  if (matches.length > 0) {
-    const relativePath = path.relative(__dirname, matches[0]).replace(/\\/g, '/');
-    cache.set(fileName, relativePath);
-    return relativePath;
-  } else {
-    console.warn(`⚠️ File not found for [[${fileName}]]`);
-    cache.set(fileName, null);
-    return null;
+  const normalizedName = normalizeLink(cleanFileName);
+  const extension = path.extname(normalizedName);
+  if (extension === '.md') {
+    const matches = glob.sync(`${docsPath}/**/${normalizedName}`);
+    if (matches.length > 0) {
+      const relativePath = path.relative(__dirname, matches[0]).replace(/\\/g, '/');
+      cache.set(cleanFileName, relativePath);
+      return relativePath;
+    } else {
+      const uncreatedNotePath = path.join('notes', normalizedName).replace(/\\/g, '/');
+      cache.set(cleanFileName, uncreatedNotePath);
+      return uncreatedNotePath;
+    }
+  } else if (extension === '.webp') {
+    const matches = glob.sync(`${imagesPath}/**/${normalizedName}`);
+    if (matches.length > 0) {
+      const relativePath = path.relative(imagesPath, matches[0]).replace(/\\/g, '/');
+      const staticPath = `/${relativePath}`;
+      cache.set(cleanFileName, staticPath);
+      return staticPath;
+    } else {
+      const uncreatedImagePath = path.join('notes', normalizedName);
+      cache.set(cleanFileName, uncreatedImagePath);
+      return uncreatedImagePath;
+    }
   }
-}
-
-function convertToLink(fileName, cache) {
-  const filePath = findFilePath(fileName.trim(), cache);
-  if (filePath) {
-    return filePath; // Return the file path for the link
-  }
-  return null;
 }
 
 function processMarkdownFiles() {
@@ -128,9 +173,12 @@ function processMarkdownFiles() {
       delete frontmatter.publish; // Remove the "publish" field
     }
 
+    // Empty the "tags" field
+    frontmatter.tags = [];
+
     const updatedContent = cleanAndConvertMarkdown(markdownContent, cache);
 
-    if (markdownContent !== updatedContent || frontmatter.draft !== undefined) {
+    if (markdownContent !== updatedContent || frontmatter.draft !== undefined || frontmatter.id || frontmatter.tags) {
       // Add "SiteProcssed: true" to the frontmatter
       const updatedFrontmatter = { ...frontmatter, SiteProcssed: true };
       const updatedFile = matter.stringify(updatedContent, updatedFrontmatter);

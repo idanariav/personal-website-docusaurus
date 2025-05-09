@@ -84,6 +84,37 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      // Declare some <meta> tags
+      metadata: [
+        { name: 'keywords', content: 'personal website, knowledge management, data analyst, practical philosophy' },
+        { name: 'description', content: 'A site about self growth, practical philosophy, and knowledge management.' },
+        { name: 'author', content: 'Idan Ariav' },
+        { name: 'robots', content: 'index, follow' }, // Allow indexing
+        { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }, // Helps with responsive design
+        { name: 'og:title', content: 'Philosopher\'s Code – Practical Philosophy for everyday life' },
+        { name: 'og:description', content: 'Turning complex ideas into tools for happiness, growth, and clarity.' },
+        //{ name: 'og:image', content: 'https://yoursite.com/social-preview.png' },
+        { name: 'og:url', content: 'https://idanariav.github.io/personal-website-docusaurus/' },
+        { name: 'og:type', content: 'website' }],
+      headTags: [
+        // Declare some json-ld structured data
+        {
+      tagName: 'script', // Tells Docusaurus to create a <script> tag
+      attributes: {
+        type: 'application/ld+json', // Specifies this is JSON-LD (structured data, not executable JS)
+      },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org', // Tells the parser to use Schema.org's vocabulary
+        '@type': 'Person',               // You're describing a "Person" type (vs Organization, Article, etc.)
+        name: 'Idan Ariav',               // Your full name
+        url: 'https://idanariav.github.io/personal-website-docusaurus/',     // Your personal website or portfolio
+        sameAs: [                        // Other web profiles associated with you
+          'https://www.linkedin.com/in/idan-ariav/',
+          'https://github.com/idanariav/Idans_portfolio'
+        ],
+        jobTitle: 'Data Analyst, Knowledge Management Consultant',        // Your role or profession
+      })
+    }],
       // todo Replace with updated photo after finishing the webside
       image: "general/website-social-card.png",
       navbar: {
@@ -116,11 +147,11 @@ const config = {
               },
               {
                 label: 'Books',
-                to: 'docs/books/test_book_summary', // todo - fix pointer
+                to: 'docs/books/Atomic Habits (book)', // todo - fix pointer
               },
               {
                 label: 'Maps of Content',
-                to: 'docs/mocs/stress_moc', // todo - fix pointer
+                to: 'docs/mocs/Existentialism (MOC)', // todo - fix pointer
               }
             ],
           },
