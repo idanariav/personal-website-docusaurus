@@ -120,7 +120,7 @@ const config = {
       navbar: {
         hideOnScroll: true,
         title: 'Welcome',
-        items: [{to: '/about', label: 'About me', position: 'left'}, // todo - create an about me page
+        items: [{to: '/about', label: 'About me', position: 'left'}, 
           {
             to: '/docs/welcome',
             position: 'left',
@@ -143,15 +143,11 @@ const config = {
             items: [
               {
                 label: 'Notes',
-                to: '/docs/welcome', // todo - fix pointer
+                to: '/docs/welcome', 
               },
               {
-                label: 'Books',
-                to: 'docs/books/Atomic Habits (book)', // todo - fix pointer
-              },
-              {
-                label: 'Maps of Content',
-                to: 'docs/mocs/Existentialism (MOC)', // todo - fix pointer
+                label: 'About me',
+                to: '/about', 
               }
             ],
           },
