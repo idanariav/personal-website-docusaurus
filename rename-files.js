@@ -1,6 +1,16 @@
 const fs = require('fs');
 const path = require('path');
 
+// Specify the list of folder paths
+const folderPaths = [
+    'docs/mocs', // Replace with your folder paths
+    'docs/books',
+    'docs/notes',
+    'static/books',
+    'static/notes',
+    'static/posts'
+];
+
 function renameFilesInFolder(folderPath) {
     try {
         // Read all files in the specified folder
@@ -38,15 +48,5 @@ function renameFilesInFolders(folderPaths) {
         renameFilesInFolder(folderPath);
     });
 }
-
-// Specify the list of folder paths
-const folderPaths = [
-    'docs/mocs', // Replace with your folder paths
-    'docs/books',
-    'docs/notes',
-    'static/books',
-    'static/notes',
-    'static/posts'
-];
 
 renameFilesInFolders(folderPaths);

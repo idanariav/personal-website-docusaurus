@@ -2,28 +2,13 @@ const fs = require('fs-extra');
 const path = require('path');
 const glob = require('glob');
 const matter = require('gray-matter'); // For parsing frontmatter
+const {isHeading, isForbiddenHeading, blogPath, handleCommentBlocks, handleForbiddenHeading,
+  obsidianLinkPattern, skipFile, frontmatterEditor, shouldUpdateFile} = require('utility.js');
 
-const blogPath = path.resolve(__dirname, 'blog');
-
-const forbiddenHeadings = [
-  '## Connections',
-  '# Further Reading',
-  '# Excalidraw Data',
-  '# Development',
-  '### Unsorted notes',
-  '## Text Elements',
-  '## Embedded Files',
-  '## Drawing',
-  '## Sources'
-];
-
-function isHeading(line) {
-  return /^#{1,6}\s/.test(line);
-}
-
-function isForbiddenHeading(line) {
-  return forbiddenHeadings.includes(line);
-}
+const blogFrontmatterConfig = {
+  publish: true,
+  permalink: true,
+  publishDate: true};
 
 function removeObsidianLinks(content) {
   const lines = content.split('\n');
@@ -36,17 +21,12 @@ function removeObsidianLinks(content) {
     const trimmed = line.trim();
 
     // Handle %% comment blocks
-    if (trimmed.startsWith('%%')) {
-      skippingCommentBlock = !skippingCommentBlock;
-      continue;
-    }
+    skippingCommentBlock = handleCommentBlocks(trimmed, skippingCommentBlock);
+    if (skippingCommentBlock) continue;
 
-    if (isForbiddenHeading(trimmed)) {
-      skip = true;
-      continue;
-    }
-
-    if (skip || skippingCommentBlock) {
+    // Handle forbidden headings
+    skip = handleForbiddenHeading(trimmed, skip);
+    if (skip) {
       if (isHeading(trimmed) && !isForbiddenHeading(trimmed)) {
         skip = false;
         cleanedLines.push(line);
@@ -55,7 +35,7 @@ function removeObsidianLinks(content) {
     }
 
     // Replace [[obsidian link|alias]] or [[obsidian link]] with plain text
-    line = line.replace(/\[\[(.+?)(\|(.+?))?\]\]/g, (match, fileName, _aliasPart, alias) => {
+    line = line.replace(obsidianLinkPattern, (match, fileName, _aliasPart, alias) => {
       return alias || fileName; // Use alias if present, otherwise use file name
     });
 
@@ -73,36 +53,17 @@ function processBlogFiles() {
     const { data: frontmatter, content: markdownContent } = matter(content);
 
     // Skip processing if "SiteProcssed" is true in frontmatter
-    if (frontmatter.SiteProcssed === true) {
+    if (skipFile(frontmatter)) {
       console.log(`⏩ Skipping already processed file: ${path.relative(blogPath, file)}`);
       return;
     }
 
-    // Convert "publish" to "draft" and reverse its boolean value
-    if (frontmatter.publish !== undefined) {
-      frontmatter.draft = !frontmatter.publish; // Reverse the value
-      delete frontmatter.publish; // Remove the "publish" field
-    }
-
-    // Convert "permalink" to "slug"
-    if (frontmatter.permalink !== undefined) {
-      frontmatter.slug = frontmatter.permalink; // Copy the value
-      delete frontmatter.permalink; // Remove the "permalink" field
-    }
-
-    // Convert "PublishDate" to "date"
-    if (frontmatter.PublishDate !== undefined) {
-      frontmatter.date = frontmatter.PublishDate; // Copy the value
-      delete frontmatter.PublishDate; // Remove the "PublishDate" field
-    }
-
-    // Add "SiteProcssed: true" to the frontmatter
-    frontmatter.SiteProcssed = true;
-    frontmatter.tags = [];
+    // Process frontmatter
+    frontmatterEditor(frontmatter, blogFrontmatterConfig);
 
     const updatedContent = removeObsidianLinks(markdownContent);
 
-    if (markdownContent !== updatedContent || frontmatter.draft !== undefined || frontmatter.slug !== undefined || frontmatter.date !== undefined || frontmatter.tags) {
+    if (shouldUpdateFile(markdownContent, updatedContent, frontmatter, blogFrontmatterConfig)) {
       const updatedFile = matter.stringify(updatedContent, frontmatter);
 
       fs.writeFileSync(file, updatedFile, 'utf8');
@@ -114,5 +75,7 @@ function processBlogFiles() {
 }
 
 processBlogFiles();
+
+
 
 

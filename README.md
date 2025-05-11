@@ -1,41 +1,41 @@
-# Website
+# Personal Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to the source code for my personal website, built with [Docusaurus](https://docusaurus.io/). 
+You can view the published version [here](https://idanariav.github.io/personal-website-docusaurus/)
 
-### Installation
+This site serves as a hub for my professional profile, knowledge vault, and newsletter content.
 
-```
-$ yarn
-```
+Docusaurus is a simple tool for converting your markdown notes into a high quality website.
 
-### Local Development
+For using Docusaurus, I recommend going over the documention, or watching this video:
+[Docusaurus Tutorial Video](https://youtu.be/QfqLQwPxFWw?si=DiwNy4Md8BnJBXYW)
 
-```
-$ yarn start
-```
+After years of writing, refining and sharpening my Obsidian vault, I wanted a place to display my vast vault of interconnect ideas. Having done the research, Docusaurus was the answer.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+At first I had three separate sites, one for my notes, another for the newsletter, and one for my professional profile. I couldn't be happier finding a tool that combined them all into one.
 
-### Build
+## Features
 
-```
-$ yarn build
-```
+A few things that I created using Docusaurus:
+1. Landing page - a fully customaisable landing page including photos and links
+2. Knowledge vault - a collection of all my notes, including non fiction book summaries and high level "maps of content" pages
+3. Blog - A feed-like blog pages showing recent articles, or sorted by date or tags
+4. Site optimization - added plugins/features such as sitemap, google analytics, SEO optimization
+5. custom scripts - I created the following scripts to convert my Obsidian vault into Docusaurus format:
+    A. rename-files.js
+    B. process-blogs.js
+    C. process-markdown-files.js
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-### Deployment
+## Contact
 
-Using SSH:
+I’d love to hear from you!
 
-```
-$ USE_SSH=true yarn deploy
-```
+Whether you're:
+ - Exploring potential job opportunities or collaborations,
+ - Seeking guidance in setting up personal or organizational knowledge management systems,
+ - Or just want to share feedback, ask questions, or start a conversation
+ 
+ Feel free to [reach out](https://docs.google.com/forms/d/e/1FAIpQLSegq_JHmtPSa7oXblPg4866E72IuEFVFZEeAKgGBqPQJo97RA/viewform?usp=sf_link) through this form
+ or contact me through [Linkedin](https://www.linkedin.com/in/idan-ariav/)
 
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

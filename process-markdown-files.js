@@ -3,29 +3,29 @@ const fs = require('fs-extra');
 const path = require('path');
 const glob = require('glob');
 const matter = require('gray-matter'); // For parsing frontmatter
+const {isHeading, isForbiddenHeading, docsPath, imagesPath, handleCommentBlocks, handleForbiddenHeading,
+  handleAdmonitionStart, handleAdmonitionContent, skipFile,
+DataviewLinkPattern, obsidianLinkPattern, frontmatterEditor, shouldUpdateFile} = require('utility.js');
 
-const docsPath = path.resolve(__dirname, 'docs');
-const imagesPath = path.resolve(__dirname, 'static');
+const notesFrontmatterConfig = {
+  publish: true,
+  permalink: false,
+  publishDate: false};
 
-// --- Settings for forbidden content cleanup ---
-const forbiddenHeadings = [
-  '## Connections',
-  '# Further Reading',
-  '# Excalidraw Data',
-  '# Development',
-  '### Unsorted notes',
-  '## Text Elements',
-  '## Embedded Files',
-  '## Drawing',
-  '## Sources'
-];
+function processObsidianLinks(line, cache) {
+  // Replace (word:: [[obsidian link]]) with [[obsidian link]]
+  line = line.replace(DataviewLinkPattern, (match, fileName) => {
+    return `[[${fileName}]]`;
+  });
 
-function isHeading(line) {
-  return /^#{1,6}\s/.test(line);
-}
+  // Replace [[obsidian link|alias]] or [[obsidian link]] with a converted link
+  line = line.replace(obsidianLinkPattern, (match, fileName, _aliasPart, alias) => {
+    const linkText = alias || fileName; // Use alias if present, otherwise use file name
+    const linkPath = findFilePath(fileName, cache); // Convert file name to link path
+    return `[${linkText}](${linkPath})`; // Return formatted link
+  });
 
-function isForbiddenHeading(line) {
-  return forbiddenHeadings.includes(line);
+  return line;
 }
 
 function cleanAndConvertMarkdown(content, cache = new Map()) {
@@ -34,7 +34,7 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
   let skip = false;
   let skippingCommentBlock = false;
   let inAdmonition = false;
-  const admonitionType = "note" // default type
+  const admonitionType = "note"; // default type
   let admonitionTitle = '';
   let admonitionContent = [];
 
@@ -43,17 +43,12 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
     const trimmed = line.trim();
 
     // Handle %% comment blocks
-    if (trimmed.startsWith('%%')) {
-      skippingCommentBlock = !skippingCommentBlock;
-      continue;
-    }
+    skippingCommentBlock = handleCommentBlocks(trimmed, skippingCommentBlock);
+    if (skippingCommentBlock) continue;
 
-    if (isForbiddenHeading(trimmed)) {
-      skip = true;
-      continue;
-    }
-
-    if (skip || skippingCommentBlock) {
+    // Handle forbidden headings
+    skip = handleForbiddenHeading(trimmed, skip);
+    if (skip) {
       if (isHeading(trimmed) && !isForbiddenHeading(trimmed)) {
         skip = false;
         cleanedLines.push(line);
@@ -61,49 +56,27 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
       continue;
     }
 
-    // Handle Admonition conversion
-    if (trimmed.startsWith('> [!') && trimmed.includes(']')) {
-      // Start of an admonition
-      inAdmonition = true;
-      const match = trimmed.match(/> \[!(.+?)\]-\s*(.+)?/);
-      if (match) {
-        admonitionTitle = match[2] || ''; // Optional title
-      }
-      continue;
-    }
+    // Handle Admonition start
+    const admonitionStartResult = handleAdmonitionStart(trimmed, inAdmonition, admonitionTitle);
+    inAdmonition = admonitionStartResult.inAdmonition;
+    admonitionTitle = admonitionStartResult.admonitionTitle;
+    if (inAdmonition) continue;
 
-    if (inAdmonition) {
-      if (trimmed.startsWith('>')) {
-        // Admonition content line
-        admonitionContent.push(trimmed.slice(2).trim()); // Remove "> " prefix
-      } else {
-        // End of admonition
-        inAdmonition = false;
-        cleanedLines.push(
-          `:::${admonitionType}${admonitionTitle ? `[${admonitionTitle}]` : ''}`
-        );
-        cleanedLines.push('');
-        cleanedLines.push(...admonitionContent);
-        cleanedLines.push('');
-        cleanedLines.push(':::');
-        cleanedLines.push('');
-        admonitionContent = [];
-      }
-    }
+    // Handle Admonition content
+    const admonitionContentResult = handleAdmonitionContent(
+      trimmed,
+      inAdmonition,
+      admonitionContent,
+      cleanedLines,
+      admonitionType,
+      admonitionTitle
+    );
+    inAdmonition = admonitionContentResult.inAdmonition;
+    admonitionContent = admonitionContentResult.admonitionContent;
 
     if (!inAdmonition) {
       // Process obsidian embed conversion inline
-      // Replace (word:: [[obsidian link]]) with [[obsidian link]]
-      line = line.replace(/\(\w+::\s*\[\[(.+?)\]\]\)/g, (match, fileName) => {
-        return `[[${fileName}]]`;
-      });
-
-      // Replace [[obsidian link|alias]] or [[obsidian link]] with a converted link
-      line = line.replace(/\[\[(.+?)(\|(.+?))?\]\]/g, (match, fileName, _aliasPart, alias) => {
-        const linkText = alias || fileName; // Use alias if present, otherwise use file name
-        const linkPath = findFilePath(fileName, cache); // Convert file name to link path
-        return `[${linkText}](${linkPath})` // Return formatted link 
-      });
+      line = processObsidianLinks(line, cache);
       cleanedLines.push(line);
     }
   }
@@ -127,29 +100,34 @@ function findFilePath(fileName, cache) {
 
   const normalizedName = normalizeLink(cleanFileName);
   const extension = path.extname(normalizedName);
+
+  // Use the helper function to handle both cases
+  return findPathByExtension(normalizedName, extension, cache);
+}
+
+function findPathByExtension(normalizedName, extension, cache) {
+  let folderPath, defaultFolder;
+
   if (extension === '.md') {
-    const matches = glob.sync(`${docsPath}/**/${normalizedName}`);
-    if (matches.length > 0) {
-      const relativePath = path.relative(__dirname, matches[0]).replace(/\\/g, '/');
-      cache.set(cleanFileName, relativePath);
-      return relativePath;
-    } else {
-      const uncreatedNotePath = path.join('notes', normalizedName).replace(/\\/g, '/');
-      cache.set(cleanFileName, uncreatedNotePath);
-      return uncreatedNotePath;
-    }
+    folderPath = docsPath;
+    defaultFolder = 'notes';
   } else if (extension === '.webp') {
-    const matches = glob.sync(`${imagesPath}/**/${normalizedName}`);
-    if (matches.length > 0) {
-      const relativePath = path.relative(imagesPath, matches[0]).replace(/\\/g, '/');
-      const staticPath = `/${relativePath}`;
-      cache.set(cleanFileName, staticPath);
-      return staticPath;
-    } else {
-      const uncreatedImagePath = path.join('notes', normalizedName);
-      cache.set(cleanFileName, uncreatedImagePath);
-      return uncreatedImagePath;
-    }
+    folderPath = imagesPath;
+    defaultFolder = 'notes';
+  } else {
+    return null; // Unsupported extension
+  }
+
+  const matches = glob.sync(`${folderPath}/**/${normalizedName}`);
+  if (matches.length > 0) {
+    const relativePath = path.relative(extension === '.md' ? __dirname : imagesPath, matches[0]).replace(/\\/g, '/');
+    const resultPath = extension === '.webp' ? `/${relativePath}` : relativePath;
+    cache.set(normalizedName, resultPath);
+    return resultPath;
+  } else {
+    const uncreatedPath = path.join(defaultFolder, normalizedName).replace(/\\/g, '/');
+    cache.set(normalizedName, uncreatedPath);
+    return uncreatedPath;
   }
 }
 
@@ -162,26 +140,17 @@ function processMarkdownFiles() {
     const { data: frontmatter, content: markdownContent } = matter(content);
 
     // Skip processing if "SiteProcssed" is true in frontmatter
-    if (frontmatter.SiteProcssed === true) {
+    if (skipFile(frontmatter)) {
       console.log(`⏩ Skipping already processed file: ${path.relative(docsPath, file)}`);
       return;
     }
 
-    // Handle "publish" field: convert to "draft" and reverse the value
-    if (frontmatter.publish !== undefined) {
-      frontmatter.draft = !frontmatter.publish; // Reverse the value
-      delete frontmatter.publish; // Remove the "publish" field
-    }
-
-    // Empty the "tags" field
-    frontmatter.tags = [];
+    frontmatterEditor(frontmatter, notesFrontmatterConfig);
 
     const updatedContent = cleanAndConvertMarkdown(markdownContent, cache);
 
-    if (markdownContent !== updatedContent || frontmatter.draft !== undefined || frontmatter.id || frontmatter.tags) {
-      // Add "SiteProcssed: true" to the frontmatter
-      const updatedFrontmatter = { ...frontmatter, SiteProcssed: true };
-      const updatedFile = matter.stringify(updatedContent, updatedFrontmatter);
+    if (shouldUpdateFile(markdownContent, updatedContent, frontmatter, notesFrontmatterConfig)) {
+      const updatedFile = matter.stringify(updatedContent, frontmatter);
 
       fs.writeFileSync(file, updatedFile, 'utf8');
       console.log(`✅ Processed and updated file: ${path.relative(docsPath, file)}`);
@@ -192,3 +161,5 @@ function processMarkdownFiles() {
 }
 
 processMarkdownFiles();
+
+
