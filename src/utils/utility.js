@@ -1,3 +1,5 @@
+const path = require('path');
+
 // --- Settings for forbidden content cleanup ---
 const forbiddenHeadings = [
   '## Connections',
@@ -123,3 +125,7 @@ function shouldUpdateFile(markdownContent, updatedContent, frontmatter, config) 
 
   return condition;
 }
+
+module.exports = { isHeading, isForbiddenHeading, docsPath, imagesPath, handleCommentBlocks, handleForbiddenHeading,
+  handleAdmonitionStart, handleAdmonitionContent, skipFile,
+DataviewLinkPattern, obsidianLinkPattern, frontmatterEditor, shouldUpdateFile, blogPath };

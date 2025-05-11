@@ -5,7 +5,7 @@ const glob = require('glob');
 const matter = require('gray-matter'); // For parsing frontmatter
 const {isHeading, isForbiddenHeading, docsPath, imagesPath, handleCommentBlocks, handleForbiddenHeading,
   handleAdmonitionStart, handleAdmonitionContent, skipFile,
-DataviewLinkPattern, obsidianLinkPattern, frontmatterEditor, shouldUpdateFile} = require('utility.js');
+DataviewLinkPattern, obsidianLinkPattern, frontmatterEditor, shouldUpdateFile} = require('./src/utils/utility.js');
 
 const notesFrontmatterConfig = {
   publish: true,

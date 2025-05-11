@@ -37,6 +37,17 @@ const config = {
     locales: ['en'],
   },
 
+  customFields: {
+    newsletter: {
+      action:
+        "https://app.kit.com/forms/7368246/subscriptions",
+      method: "post",
+      emailFieldName: "email_address",
+      firstNameFieldName: "first_name",
+      submitButtonName: "subscribe",
+    },
+  },
+
   presets: [
     [
       'classic',
