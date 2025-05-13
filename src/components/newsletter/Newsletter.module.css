@@ -37,10 +37,16 @@
     padding: calc(var(--ifm-button-padding-vertical))
       calc(var(--ifm-button-padding-horizontal) / 2);
     font-size: calc(0.875rem * var(--ifm-button-size-multiplier));
+    background-color: #a953ff;
     display: block;
+    color: var(--ifm-font-color-base);
     border-radius: 20px;
     margin-top: 1rem; /* Add spacing between the button and inputs */
   }
+}
+
+[data-theme="dark"] .form > button {
+  background-color: var(--ifm-color-primary); /* Set a different background color for dark mode */
 }
 
 .newsIcon {
