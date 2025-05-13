@@ -1,22 +1,45 @@
 .newsWrapper {
-  background-color: var(--ifm-color-emphasis-100);
+  background-color: var(--ifm-footer-background-color);
   padding: 2rem 0;
+}
+
+.newsWrapper h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.newsWrapper p {
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 0;
 }
 
 .form {
   > input {
     line-height: 1.5;
+    margin-top: 1rem;
     padding: calc(var(--ifm-button-padding-vertical))
       calc(var(--ifm-button-padding-horizontal) / 2);
     font-size: calc(0.875rem * var(--ifm-button-size-multiplier));
     border: 1px solid var(--ifm-color-emphasis-300);
-    border-radius: var(--ifm-button-border-radius);
+    border-radius: 20px;
     margin-right: 0.5rem;
 
     width: 100%;
     display: block;
     margin-bottom: 1rem;
     margin-right: 0;
+  }
+
+  > button {
+    width: 100%; /* Make the button match the width of the form */
+    padding: calc(var(--ifm-button-padding-vertical))
+      calc(var(--ifm-button-padding-horizontal) / 2);
+    font-size: calc(0.875rem * var(--ifm-button-size-multiplier));
+    display: block;
+    border-radius: 20px;
+    margin-top: 1rem; /* Add spacing between the button and inputs */
   }
 }
 

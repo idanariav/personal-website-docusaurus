@@ -14,8 +14,9 @@ export const Newsletter = ({ data }) => {
   return (
     <div className={styles.newsWrapper}>
       <div className="container padding-vert--lg">
-        <h2>Subscribe to the Newsletter</h2>
-        <p>Get my latest content by email. Unsubscribe at any time.</p>
+        <h2>Join the Journey</h2>
+        <p>Philosophers Code offers practical philosophy for everyday life: turning complex ideas into tools for happiness, growth, and clarity.</p>
+        <p>Unsubscribe at any time.</p>
 
         <form
           action={action}
@@ -25,11 +26,11 @@ export const Newsletter = ({ data }) => {
         >
           <input
             name={emailFieldName}
-            placeholder="Your email"
+            placeholder="Email Address"
             type="email"
             required
           />
-          <input name={firstNameFieldName} placeholder="Your first name" />
+          <input name={firstNameFieldName} placeholder="First Name (optional)" />
           <div
             style={{ position: "absolute", left: "-5000px" }}
             aria-hidden="true"
