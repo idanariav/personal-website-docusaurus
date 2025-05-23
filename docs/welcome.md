@@ -20,3 +20,9 @@ This folder has three main sesctions:
 1. **Notes** - core atomic ideas, the basic building block of knowledge
 2. **Maps of Content** - Each note is an overview of a given topic. For example the Existentialism Map of content (or MOC for short) links to all the notes that are related to that topic.
 3. **Book Summaries** - A detailed summary for non-fiction books, including a general summary and analysis, and a chapter by chapter summary.
+
+## Feeling inspired?
+
+You are more than welcomed to download my free [Obsidian starter kit](https://ko-fi.com/s/8e6f6ccefc)
+so you could spend less time setting up systems,
+and more time exploring your ideas

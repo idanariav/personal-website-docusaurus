@@ -8,7 +8,8 @@ const {isHeading, isForbiddenHeading, blogPath, handleCommentBlocks, handleForbi
 const blogFrontmatterConfig = {
   publish: true,
   permalink: true,
-  publishDate: true};
+  publishDate: true,
+  retag: true};
 
 function removeObsidianLinks(content) {
   const lines = content.split('\n');

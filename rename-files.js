@@ -34,8 +34,9 @@ function renameFilesInFolder(folderPath) {
             const newFilePath = path.join(folderPath, newFileName);
 
             // Rename the file
-            fs.renameSync(oldFilePath, newFilePath);
-            console.log(`Renamed: "${file}" -> "${newFileName}"`);
+            if (newFilePath !== oldFilePath) {
+                fs.renameSync(oldFilePath, newFilePath);
+                console.log(`Renamed: "${file}" -> "${newFileName}"`);}
         });
     } catch (error) {
         console.error(`An error occurred in folder "${folderPath}": ${error.message}`);

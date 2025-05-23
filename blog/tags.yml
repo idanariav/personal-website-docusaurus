@@ -17,3 +17,109 @@ philosophy:
   label: Philosophy
   permalink: /philosophy
   description: Spark your curiosity with the big questions of life
+
+control:
+  label: Self-Control
+  permalink: /self-control
+  description: How to take control of your life and make better decisions
+
+identity:
+  label: Personal-Identity
+  permalink: /personal-identity
+  description: Who are you? What is your identity? How do you define yourself?
+
+reflection:
+  label: Reflection
+  permalink: /reflection
+  description: Reflect on your life, your decisions, and your future
+
+accountability:
+  label: Accountability
+  permalink: /accountability
+  description: Take responsibility for your actions and decisions
+
+challenges:
+  label: Challenges
+  permalink: /challenges
+  description: Overcoming obstacles and challenges in life
+
+change:
+  label: Change
+  permalink: /change
+  description: Embracing change and adapting to new situations
+
+communication:
+  label: Communication
+  permalink: /communication
+  description: Understanding and improving communication skills
+
+Cooperation:
+  label: Cooperation
+  permalink: /cooperation
+  description: Working together for a common goal
+
+creativity:
+  label: Creativity
+  permalink: /creativity
+  description: Exploring and enhancing your creative abilities
+
+emotions:
+  label: Emotions
+  permalink: /emotions
+  description: Understanding and managing your emotions
+
+ethics:
+  label: Ethics
+  permalink: /ethics
+  description: Exploring moral principles and values
+
+focus:
+  label: Focus
+  permalink: /focus
+  description: Improving concentration and focus in your life
+
+habits:
+  label: Habits
+  permalink: /habits
+  description: Building and maintaining good habits
+
+kindness:
+  label: Kindness
+  permalink: /kindness
+  description: Cultivating kindness in our lives
+
+mindset:
+  label: Mindset
+  permalink: /mindset
+  description: Developing a positive mindset
+
+
+minimalism:
+  label: Minimalism
+  permalink: /minimalism
+  description: Simplifying your life and decluttering your mind
+
+recharge:
+  label: Recharge
+  permalink: /recharge
+  description: Methods recharge and rejuvenate
+
+motivation:
+  label: Motivation
+  permalink: /motivation
+  description: Finding and maintaining motivation in your life
+
+stilness:
+  label: Stillness
+  permalink: /stillness
+  description: Finding peace and stillness in a busy world
+
+writing:
+  label: Writing
+  permalink: /writing
+  description: The art and craft of writing
+
+perspective:
+  label: Perspective
+  permalink: /perspective
+  description: Changing your perspective to see the world differently

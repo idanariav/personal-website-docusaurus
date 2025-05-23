@@ -10,7 +10,8 @@ DataviewLinkPattern, obsidianLinkPattern, frontmatterEditor, shouldUpdateFile} =
 const notesFrontmatterConfig = {
   publish: true,
   permalink: false,
-  publishDate: false};
+  publishDate: false,
+  retag: false};
 
 function processObsidianLinks(line, cache) {
   // Replace (word:: [[obsidian link]]) with [[obsidian link]]

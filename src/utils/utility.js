@@ -102,7 +102,15 @@ function frontmatterEditor(frontmatter, config){
   }
   // Add "SiteProcssed: true" to the frontmatter
   frontmatter.SiteProcssed = true;
-  frontmatter.tags = [];
+  
+
+  if (config.retag){
+    frontmatter.tags = frontmatter.docotags;
+    delete frontmatter.docotags;
+  }
+  else {
+    frontmatter.tags = [];
+  }
 }
 
 function shouldUpdateFile(markdownContent, updatedContent, frontmatter, config) {

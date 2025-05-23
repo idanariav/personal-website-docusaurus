@@ -5,7 +5,7 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
-
+require('dotenv').config();
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
@@ -46,6 +46,7 @@ const config = {
       firstNameFieldName: "first_name",
       submitButtonName: "subscribe",
     },
+    formAPI: process.env.FORM_SPREE
   },
 
   presets: [
@@ -144,7 +145,7 @@ const config = {
             label: "Portfolio",
           },
           
-          {href: 'https://docs.google.com/forms/d/e/1FAIpQLSegq_JHmtPSa7oXblPg4866E72IuEFVFZEeAKgGBqPQJo97RA/viewform?usp=sf_link', label: 'Contact', position: 'left'} 
+          {to: '/contactPage', label: 'Contact', position: 'left'} 
         ],
       },
       footer: {
@@ -157,9 +158,9 @@ const config = {
                 to: '/docs/welcome', 
               },
               {
-                label: 'About me',
-                to: '/about', 
-              }
+                label: 'Obsidian Starter Kit',
+                href: 'https://ko-fi.com/s/8e6f6ccefc', 
+              },
             ],
           },
           {
@@ -180,19 +181,19 @@ const config = {
             ],
           },
           {
-            title: 'Newsletter',
+            title: 'Profile',
             items: [
+              {
+                label: 'About me',
+                to: '/about', 
+              },
               {
                 label: 'Blog',
                 to: '/blog',
               },
               {
-                label: 'Signup',
-                href: 'https://philosophers-code.kit.com/76943a7d9d', 
-              },
-              {
                 label: "Contact",
-                href: 'https://docs.google.com/forms/d/e/1FAIpQLSegq_JHmtPSa7oXblPg4866E72IuEFVFZEeAKgGBqPQJo97RA/viewform?usp=sf_link'
+                to: '/contactPage',
               }
             ],
           },

@@ -1,0 +1,35 @@
+.form-group {
+  display: flex;
+  flex-direction: column; /* Stack elements vertically */
+  gap: 1rem; /* Add spacing between elements */
+}
+
+.form-control {
+  width: 100%; /* Ensure inputs take full width */
+  padding: 0.5rem; /* Add padding for better appearance */
+  font-size: 1rem; /* Adjust font size */
+  border-radius: 8px; /* Rounded corners */
+}
+
+.contact-form h3 {
+  text-align: center;
+}
+
+.contact-form p {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.submit-btn {
+  align-self: center; 
+  padding: 0.5rem 1rem;
+  width: 100%; 
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 8px; /* Rounded corners */
+  background-color: #a953ff;
+}
+
+[data-theme="dark"] .submit-btn {
+  background-color: var(--ifm-color-primary); /* Set a different background color for dark mode */
+}

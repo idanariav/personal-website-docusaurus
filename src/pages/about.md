@@ -15,7 +15,7 @@ My work centers around three main pillars:
 
 With a background in data analysis, I’ve spent the last few years helping organizations turn messy data into clear decisions. From building dashboards and automating reports to leading data science projects, I love bringing structure and clarity to complex problems.
 
-> **Tools I frequently use**: Python, Pyspark, Airflow, Tableau.
+> **Tools I frequently use**: Python, Pyspark, Airflow, Tableau. [My Portfolio](https://github.com/idanariav/Idans_portfolio)
 
 ---
 
@@ -23,7 +23,7 @@ With a background in data analysis, I’ve spent the last few years helping orga
 
 Outside of my day job, I design systems to capture, organize, and resurface ideas. Whether it’s developing personal knowledge management (PKM) workflows or helping teams retain institutional wisdom, I believe that how we manage knowledge directly impacts what we can create.
 
-> **Examples**: note-taking workflows, project management, and smart content retrieval.
+> **Examples**: note-taking workflows, project management, and smart content retrieval. [Obsidian starter kit](https://ko-fi.com/s/8e6f6ccefc)
 
 ---
 
@@ -44,5 +44,5 @@ Whether you're:
  - Seeking guidance in setting up personal or organizational knowledge management systems,
  - Or just want to share feedback, ask questions, or start a conversation
  
- Feel free to [reach out](https://docs.google.com/forms/d/e/1FAIpQLSegq_JHmtPSa7oXblPg4866E72IuEFVFZEeAKgGBqPQJo97RA/viewform?usp=sf_link) through this form
+ Feel free to [reach out](https://idanariav.github.io/personal-website-docusaurus/contactPage)
  or contact me through [Linkedin](https://www.linkedin.com/in/idan-ariav/)
