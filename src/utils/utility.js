@@ -6,16 +6,16 @@ const forbiddenHeadings = [
   '# Further Reading',
   '# Excalidraw Data',
   '# Development',
-  '### Unsorted notes',
+  '### Unsorted Notes',
   '## Text Elements',
   '## Embedded Files',
   '## Drawing',
   '## Sources'
 ];
 
-const docsPath = path.resolve(__dirname, 'docs');
-const imagesPath = path.resolve(__dirname, 'static');
-const blogPath = path.resolve(__dirname, 'blog');
+const docsPath = path.resolve('docs');
+const imagesPath = path.resolve('static');
+const blogPath = path.resolve('blog');
 const DataviewLinkPattern = /\(\w+::\s*\[\[(.+?)\]\]\)/g;
 const obsidianLinkPattern = /\[\[(.+?)(\|(.+?))?\]\]/g;
 

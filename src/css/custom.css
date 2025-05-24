@@ -76,24 +76,6 @@ html[data-theme="dark"] .main-wrapper {
   margin-bottom: 1rem;
 }
 
-/* Target each blog post preview */
-.blog-list-page article {
-  border: 1px solid var(--ifm-color-emphasis-300);
-  border-radius: 12px;
-  padding: 1.5rem;
-  margin-bottom: 2rem;
-  box-shadow: var(--ifm-global-shadow-lw);
-  background-color: var(--ifm-background-surface-color);
-  transition: box-shadow 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
-}
-
-/* Highlight on hover */
-.blog-list-page article:hover {
-  background-color: var(--ifm-color-emphasis-100);
-  box-shadow: var(--ifm-global-shadow-md);
-  border-color: var(--ifm-color-primary);
-}
-
 html[data-theme='light'] em {
   color: #f5a4dffd; 
 }
@@ -104,7 +86,7 @@ html[data-theme='dark'] em {
 }
 
 html[data-theme='light'] strong {
-  color: #f4c45b; 
+  color: #f7bf47; 
 }
 
 /* For italic text in dark mode */
