@@ -1,4 +1,5 @@
 const path = require('path');
+const glob = require('glob');
 
 // --- Settings for forbidden content cleanup ---
 const forbiddenHeadings = [
@@ -77,6 +78,53 @@ function skipFile(frontmatter) {
   return frontmatter.SiteProcssed === true;
 }
 
+function findFilePath(fileName, cache) {
+  // Preprocess the filename: replace spaces with hyphens and remove parentheses
+  const cleanFileName = fileName.replace(/ /g, '-').replace(/\(/g, '').replace(/\)/g, '').toLowerCase();
+  if (cache.has(cleanFileName)) return cache.get(cleanFileName);
+
+  const normalizedName = normalizeLink(cleanFileName);
+  const extension = path.extname(normalizedName);
+
+  // Use the helper function to handle both cases
+  return findPathByExtension(normalizedName, extension, cache);
+}
+
+function normalizeLink(fileName) {
+  const hasExtension = /\.[^\.\s]+$/.test(fileName);
+  const isWebp = fileName.toLowerCase().endsWith('.webp');
+
+  if (!hasExtension) return `${fileName}.md`;
+  if (isWebp) return fileName;
+  return fileName;
+}
+
+function findPathByExtension(normalizedName, extension, cache) {
+  let folderPath, defaultFolder;
+
+  if (extension === '.md') {
+    folderPath = docsPath;
+    defaultFolder = 'notes';
+  } else if (extension === '.webp') {
+    folderPath = imagesPath;
+    defaultFolder = 'notes';
+  } else {
+    return null; // Unsupported extension
+  }
+
+  const matches = glob.sync(`${folderPath}/**/${normalizedName}`);
+  if (matches.length > 0) {
+    const relativePath = path.relative(extension === '.md' ? __dirname : imagesPath, matches[0]).replace(/\\/g, '/');
+    const resultPath = extension === '.webp' ? `/${relativePath}` : relativePath;
+    cache.set(normalizedName, resultPath);
+    return resultPath;
+  } else {
+    const uncreatedPath = path.join(defaultFolder, normalizedName).replace(/\\/g, '/');
+    cache.set(normalizedName, uncreatedPath);
+    return uncreatedPath;
+  }
+}
+
 function frontmatterEditor(frontmatter, config){
   // Convert "publish" to "draft" and reverse its boolean value
   if (config.publish){
@@ -94,7 +142,6 @@ function frontmatterEditor(frontmatter, config){
   }
     // Convert "PublishDate" to "date"
     if (config.publishDate){
-        // Convert "permalink" to "slug"
       if (frontmatter.PublishDate !== undefined) {
             frontmatter.date = frontmatter.PublishDate; // Copy the value
             delete frontmatter.PublishDate; // Remove the "PublishDate" field
@@ -103,7 +150,7 @@ function frontmatterEditor(frontmatter, config){
   // Add "SiteProcssed: true" to the frontmatter
   frontmatter.SiteProcssed = true;
   
-
+// convert "docotags" to "tags"
   if (config.retag){
     frontmatter.tags = frontmatter.docotags;
     delete frontmatter.docotags;
@@ -136,4 +183,4 @@ function shouldUpdateFile(markdownContent, updatedContent, frontmatter, config) 
 
 module.exports = { isHeading, isForbiddenHeading, docsPath, imagesPath, handleCommentBlocks, handleForbiddenHeading,
   handleAdmonitionStart, handleAdmonitionContent, skipFile,
-DataviewLinkPattern, obsidianLinkPattern, frontmatterEditor, shouldUpdateFile, blogPath };
+DataviewLinkPattern, obsidianLinkPattern, frontmatterEditor, shouldUpdateFile, blogPath, findFilePath};

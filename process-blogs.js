@@ -3,15 +3,16 @@ const path = require('path');
 const glob = require('glob');
 const matter = require('gray-matter'); // For parsing frontmatter
 const {isHeading, isForbiddenHeading, blogPath, handleCommentBlocks, handleForbiddenHeading,
-  obsidianLinkPattern, skipFile, frontmatterEditor, shouldUpdateFile} = require('./src/utils/utility.js');
+  obsidianLinkPattern, skipFile, frontmatterEditor, shouldUpdateFile, findFilePath} = require('./src/utils/utility.js'); // <-- Add findFilePath
 
 const blogFrontmatterConfig = {
   publish: true,
   permalink: true,
   publishDate: true,
-  retag: true};
+  retag: true
+};
 
-function removeObsidianLinks(content) {
+function removeObsidianLinks(content, cache = new Map()) {
   const lines = content.split('\n');
   let skippingCommentBlock = false;
   let skip = false;
@@ -35,9 +36,15 @@ function removeObsidianLinks(content) {
       continue;
     }
 
-    // Replace [[obsidian link|alias]] or [[obsidian link]] with plain text
+    // Replace [[obsidian link|alias]] or [[obsidian link]] with plain text or image reference
     line = line.replace(obsidianLinkPattern, (match, fileName, _aliasPart, alias) => {
-      return alias || fileName; // Use alias if present, otherwise use file name
+      const linkText = alias || fileName
+      if (fileName.toLowerCase().endsWith('.webp')) {
+        // Use findFilePath to get the correct image path
+        const imagePath = findFilePath(fileName, cache);
+        return `![${linkText}](${imagePath})`;
+      }
+      return linkText; // Use alias if present, otherwise use file name
     });
 
     cleanedLines.push(line);
@@ -48,6 +55,7 @@ function removeObsidianLinks(content) {
 
 function processBlogFiles() {
   const files = glob.sync(`${blogPath}/**/*.md`);
+  const cache = new Map();
 
   files.forEach(file => {
     const content = fs.readFileSync(file, 'utf8');
@@ -62,7 +70,7 @@ function processBlogFiles() {
     // Process frontmatter
     frontmatterEditor(frontmatter, blogFrontmatterConfig);
 
-    const updatedContent = removeObsidianLinks(markdownContent);
+    const updatedContent = removeObsidianLinks(markdownContent, cache);
 
     if (shouldUpdateFile(markdownContent, updatedContent, frontmatter, blogFrontmatterConfig)) {
       const updatedFile = matter.stringify(updatedContent, frontmatter);
