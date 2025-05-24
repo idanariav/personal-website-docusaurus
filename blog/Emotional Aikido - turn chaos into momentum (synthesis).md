@@ -13,10 +13,17 @@ Version: 1.01
 PublishDate: 2025-02-02
 aliases: 
 permalink: chaos-into-momentum
+docotags:
+  - motivation
+  - emotions
 ---
 
 # Emotional Aikido - Turn Chaos into Momentum
 
+**Do you ever feel like you're fighting with yourself?**  
+That inner conflict between your rational goals and emotional impulses might be holding you back more than you realize. In this post, we explore how bridging that internal divide can lead to clarity, energy, and real progress, without the burnout or guilt.
+
+<!-- truncate -->
 ## Introduction
 
 We have all faced struggles in our lives, especially internal ones. It's as if we are made up of two distinct selves: the "[[System 2|Rational]] " side that strives for action without excuses, and the "[[System 1|emotional]]" side that prefers the easier, more enjoyable path.
@@ -104,9 +111,9 @@ But when combined, these two approaches create a powerful synergy that is greate
 
 ## Visualization
 
-![[emotional_aikido_post.png]]
+![[emotional_aikido_post.webp]]
 
-# Further Reading
+# Further Reading:
 [[Ego Is The Enemy (book)]]
 [[The Obstacle Is the Way (book)]]
 [[Mindset (book)]]
