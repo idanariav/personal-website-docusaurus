@@ -17,7 +17,7 @@ docotags:
   - communication
 ---
 
-# Don't Be a Black Box, Give Us a Hint
+# Dont Be a Black Box - Give Us a Hint
 
 **Ever tried coding without knowing the inputs?**  
 It's messy, frustrating, and bound to fail, just like expecting others to read our minds in real life. Clear communication is our real-world "type hint", and if we really want to avoid confusion, a good "docstring" helps too.
