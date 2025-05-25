@@ -23,6 +23,8 @@ docotags:
 **Do you ever feel like you're fighting with yourself?**  
 That inner conflict between your rational goals and emotional impulses might be holding you back more than you realize. In this post, we explore how bridging that internal divide can lead to clarity, energy, and real progress, without the burnout or guilt.
 
+![[emotional_aikido_post.webp]]
+
 <!-- truncate -->
 ## Introduction
 
@@ -109,9 +111,8 @@ We've explored two models of thinking-to-action: one based on rationality and th
 
 But when combined, these two approaches create a powerful synergy that is greater than the sum of its parts. The rational side offers direction and structure, while the emotional side provides the fuel. By merging them, you can work smart, not hard. And as a bonus, this blend not only enhances productivity but also fosters balance and well-being in life. 😊
 
-## Visualization
 
-![[emotional_aikido_post.webp]]
+
 
 # Further Reading:
 [[Ego Is The Enemy (book)]]
