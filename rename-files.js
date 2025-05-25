@@ -34,7 +34,7 @@ function renameFilesInFolder(folderPath) {
                 .replace(/ /g, '-')
                 .replace(/\(/g, '')
                 .replace(/\)/g, '')
-                .replace(/[',.:]/g, '') // Remove ', . or :
+                .replace(/[',:]/g, '') // Remove ', . or :
                 .toLowerCase();
             const newFilePath = path.join(folderPath, newFileName);
 
