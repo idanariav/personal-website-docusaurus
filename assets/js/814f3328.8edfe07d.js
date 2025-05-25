@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkidans_personal_website=self.webpackChunkidans_personal_website||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Emotional Aikido - Turn Chaos into Momentum","permalink":"/personal-website-docusaurus/blog/chaos-into-momentum","unlisted":false,"date":"2025-02-02T00:00:00.000Z"}]}')}}]);
