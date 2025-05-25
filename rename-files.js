@@ -29,8 +29,13 @@ function renameFilesInFolder(folderPath) {
                 return;
             }
 
-            // Replace spaces with hyphens and remove parentheses
-            const newFileName = file.replace(/ /g, '-').replace(/\(/g, '').replace(/\)/g, '').toLowerCase();
+            // Replace spaces with hyphens, remove parentheses, and remove special characters ', . or :
+            const newFileName = file
+                .replace(/ /g, '-')
+                .replace(/\(/g, '')
+                .replace(/\)/g, '')
+                .replace(/[',.:]/g, '') // Remove ', . or :
+                .toLowerCase();
             const newFilePath = path.join(folderPath, newFileName);
 
             // Rename the file
