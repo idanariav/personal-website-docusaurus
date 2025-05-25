@@ -42,7 +42,7 @@ function removeObsidianLinks(content, cache = new Map()) {
       if (fileName.toLowerCase().endsWith('.webp')) {
         // Use findFilePath to get the correct image path
         const imagePath = findFilePath(fileName, cache);
-        return `![${linkText}](${imagePath})`;
+        return `[${linkText}](${imagePath})`;
       }
       return linkText; // Use alias if present, otherwise use file name
     });
