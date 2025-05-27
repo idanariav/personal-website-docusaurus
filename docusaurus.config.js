@@ -204,7 +204,11 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-    }),
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false, // Allow users to switch between light and dark mode
+      respectPrefersColorScheme: false, // Respect user's system preference
+    }}),
     themes: [
       [
         "@easyops-cn/docusaurus-search-local",
