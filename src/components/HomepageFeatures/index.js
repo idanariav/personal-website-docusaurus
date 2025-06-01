@@ -7,12 +7,11 @@ const FeatureList = [
   {
     title: 'How can I help you?',
     link: 'https://docs.google.com/forms/d/e/1FAIpQLSegq_JHmtPSa7oXblPg4866E72IuEFVFZEeAKgGBqPQJo97RA/viewform?usp=sf_link',
-    Svg: require('@site/static/general/resume_illusration.svg').default,
+    Svg: require('@site/static/general/mind_map_illusration.svg').default,
     description: (
       <>
-        My goal is to help you make sense of the information that matters most to you.<br />
-        I specialize in knowledge management systems that transforms information into clear, actionable insights.<br />
-        Feel free to reach out if you have any questions or need assistance.
+        I help you turn important information into clear, actionable insights through effective knowledge management systems — reach out anytime.
+
       </>
     ),
   },
@@ -22,9 +21,8 @@ const FeatureList = [
     Svg: require('@site/static/general/knowledge_illusration.svg').default,
     description: (
       <>
-        I believe in the power of sharing knowledge to create a positive impact.<br />
-        My knowledge vault is a collection of resources, insights, and tools that I have found valuable.<br />
-        I invite you to explore and learn from my experiences.
+        I share my knowledge vault — a collection of valuable resources and insights — to inspire learning and positive impact.
+
       </>
     ),
   },
@@ -34,9 +32,7 @@ const FeatureList = [
     Svg: require('@site/static/general/newsletter_illusation.svg').default,
     description: (
       <>
-      Practical philosophy for everyday life, turning complex ideas
-      into tools for happiness, growth and clarity.<br />
-      Expand your mind and join the journey of self-discovery.
+      I explore practical philosophy to turn complex ideas into tools for happiness, growth, and clarity - join me on the journey of self-discovery.
       </>
     ),
   },
