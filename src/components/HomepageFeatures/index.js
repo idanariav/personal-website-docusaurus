@@ -7,7 +7,7 @@ const FeatureList = [
   {
     title: 'How can I help you?',
     link: 'https://docs.google.com/forms/d/e/1FAIpQLSegq_JHmtPSa7oXblPg4866E72IuEFVFZEeAKgGBqPQJo97RA/viewform?usp=sf_link',
-    Svg: require('@site/static/general/mind_map_illusration.svg').default,
+    Svg: require('@site/static/general/mind_map_illustration.svg').default,
     description: (
       <>
         I help you turn important information into clear, actionable insights through effective knowledge management systems — reach out anytime.
@@ -18,7 +18,7 @@ const FeatureList = [
   {
     title: 'Knowledge is power',
     link: '/docs/welcome', // todo - fix pointer
-    Svg: require('@site/static/general/knowledge_illusration.svg').default,
+    Svg: require('@site/static/general/knowledge_illustration.svg').default,
     description: (
       <>
         I share my knowledge vault — a collection of valuable resources and insights — to inspire learning and positive impact.
@@ -29,7 +29,7 @@ const FeatureList = [
   {
     title: 'Join the Journey',
     link: 'https://philosophers-code.kit.com/76943a7d9d',
-    Svg: require('@site/static/general/newsletter_illusation.svg').default,
+    Svg: require('@site/static/general/newsletter_illustration.svg').default,
     description: (
       <>
       I explore practical philosophy to turn complex ideas into tools for happiness, growth, and clarity - join me on the journey of self-discovery.
