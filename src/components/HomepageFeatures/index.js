@@ -10,8 +10,7 @@ const FeatureList = [
     Svg: require('@site/static/general/mind_map_illustration.svg').default,
     description: (
       <>
-        I help you turn important information into clear, actionable insights through effective knowledge management systems — reach out anytime.
-
+        I specialize in knowledge management systems that convert information into clear, valuable insights  - reach out anytime.
       </>
     ),
   },
@@ -21,8 +20,7 @@ const FeatureList = [
     Svg: require('@site/static/general/knowledge_illustration.svg').default,
     description: (
       <>
-        I share my knowledge vault — a collection of valuable resources and insights — to inspire learning and positive impact.
-
+        Dive into my knowledge vault - a collection of valuable resources and insights, from philosophy to productivity.
       </>
     ),
   },
@@ -32,7 +30,7 @@ const FeatureList = [
     Svg: require('@site/static/general/newsletter_illustration.svg').default,
     description: (
       <>
-      I explore practical philosophy to turn complex ideas into tools for happiness, growth, and clarity - join me on the journey of self-discovery.
+      "Philosopher's Code" newsletter explores practical philosophy - join me on the journey of happiness, growth, and clarity.
       </>
     ),
   },
