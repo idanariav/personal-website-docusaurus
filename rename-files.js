@@ -8,7 +8,8 @@ const folderPaths = [
     'docs/notes',
     'static/books',
     'static/notes',
-    'static/posts'
+    'static/posts',
+    'blog'
 ];
 
 function renameFilesInFolder(folderPath) {

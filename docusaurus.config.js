@@ -11,7 +11,7 @@ require('dotenv').config();
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Idan Ariav',
-  tagline: 'Data Analyst, Knowledge Management, "Philosophers Code" Blog',
+  tagline: 'Helping you convert information into actionable knowledge',
   favicon: 'general/favicon.ico',
 
   // Set the production url of your site here

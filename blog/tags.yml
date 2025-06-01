@@ -123,3 +123,8 @@ perspective:
   label: Perspective
   permalink: /perspective
   description: Changing your perspective to see the world differently
+
+environment:
+  label: Environment
+  permalink: /environment
+  description: Understanding your environment and using it to your advantage

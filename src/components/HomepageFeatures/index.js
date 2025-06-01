@@ -10,8 +10,9 @@ const FeatureList = [
     Svg: require('@site/static/general/resume_illusration.svg').default,
     description: (
       <>
-        My goal is to help you make sense of the data that matters most to you.
-        I specialize in transforming complex data into clear, actionable insights.
+        My goal is to help you make sense of the information that matters most to you.<br />
+        I specialize in knowledge management systems that transforms information into clear, actionable insights.<br />
+        Feel free to reach out if you have any questions or need assistance.
       </>
     ),
   },
@@ -21,9 +22,9 @@ const FeatureList = [
     Svg: require('@site/static/general/knowledge_illusration.svg').default,
     description: (
       <>
-        I aim to share my knowledge and insights in a way that is
-        engaging and easy to understand.
-        Feel free to explore and learn from my experiences.
+        I believe in the power of sharing knowledge to create a positive impact.<br />
+        My knowledge vault is a collection of resources, insights, and tools that I have found valuable.<br />
+        I invite you to explore and learn from my experiences.
       </>
     ),
   },
@@ -34,7 +35,7 @@ const FeatureList = [
     description: (
       <>
       Practical philosophy for everyday life, turning complex ideas
-      into tools for happiness, growth and clarity.
+      into tools for happiness, growth and clarity.<br />
       Expand your mind and join the journey of self-discovery.
       </>
     ),
