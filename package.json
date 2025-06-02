@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "process:markdown": "node process-markdown-files.js",
-    "process:blogs": "node process-blogs.js",
-    "rename:files": "node rename-files.js",
+    "process:markdown": "node scripts/process-markdown-files.js",
+    "process:blogs": "node scripts/process-blogs.js",
+    "rename:files": "node scripts/rename-files.js",
     "prepare:docs": "npm run rename:files && npm run process:markdown && npm run process:blogs",
     "prebuild": "npm run prepare:docs",
     "prestart": "npm run prepare:docs",
@@ -20,11 +20,11 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "3.7.0",
-    "@docusaurus/plugin-google-gtag": "^3.7.0",
-    "@docusaurus/plugin-ideal-image": "^3.7.0",
-    "@docusaurus/plugin-sitemap": "^3.7.0",
-    "@docusaurus/preset-classic": "3.7.0",
+    "@docusaurus/core": "3.8.0",
+    "@docusaurus/plugin-google-gtag": "^3.8.0",
+    "@docusaurus/plugin-ideal-image": "^3.8.0",
+    "@docusaurus/plugin-sitemap": "^3.8.0",
+    "@docusaurus/preset-classic": "3.8.0",
     "@easyops-cn/docusaurus-search-local": "^0.49.2",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
@@ -43,8 +43,8 @@
     "sass": "^1.89.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.7.0",
-    "@docusaurus/types": "3.7.0",
+    "@docusaurus/module-type-aliases": "3.8.0",
+    "@docusaurus/types": "3.8.0",
     "@types/glob": "^8.1.0"
   },
   "browserslist": {

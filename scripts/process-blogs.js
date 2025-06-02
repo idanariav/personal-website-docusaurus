@@ -3,7 +3,7 @@ const path = require('path');
 const glob = require('glob');
 const matter = require('gray-matter'); // For parsing frontmatter
 const {isHeading, isForbiddenHeading, blogPath, handleCommentBlocks, handleForbiddenHeading,
-  obsidianLinkPattern, skipFile, frontmatterEditor, shouldUpdateFile, findFilePath} = require('./src/utils/utility.js'); // <-- Add findFilePath
+  obsidianLinkPattern, skipFile, frontmatterEditor, shouldUpdateFile, findFilePath} = require('./utility.js');
 
 const blogFrontmatterConfig = {
   publish: true,

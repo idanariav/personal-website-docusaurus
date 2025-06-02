@@ -10,6 +10,10 @@ require('dotenv').config();
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  future: {
+    experimental_faster: true,
+    v4: true
+  },
   title: 'Idan Ariav',
   tagline: 'Helping you convert information into actionable knowledge',
   favicon: 'general/favicon.ico',
@@ -55,9 +59,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          sidebarPath: './scripts/sidebars.js',
         },
         blog: {
           showReadingTime: true,
