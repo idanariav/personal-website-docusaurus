@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "3.8.0",
+    "@docusaurus/faster": "^3.8.0",
     "@docusaurus/plugin-google-gtag": "^3.8.0",
     "@docusaurus/plugin-ideal-image": "^3.8.0",
     "@docusaurus/plugin-sitemap": "^3.8.0",
