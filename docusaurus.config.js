@@ -129,69 +129,58 @@ const config = {
         jobTitle: 'Data Analyst, Knowledge Management Consultant',        // Your role or profession
       })
     }],
-      // todo Replace with updated photo after finishing the webside
       image: "general/website-social-card.png",
       navbar: {
         hideOnScroll: true,
         title: 'Welcome',
-        items: [{to: '/about', label: 'About me', position: 'left'}, 
+        items: [
+          {
+            to: '/about', 
+            label: 'About me', 
+            position: 'left'
+          }, 
           {
             to: '/docs/welcome',
-            position: 'left',
             label: 'Knowledge Vault',
+            position: 'left',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: '/blog', 
+            label: 'Newsletter', 
+            position: 'left'
+          },
+          {
+            to: '/contactPage', 
+            label: 'Contact', 
+            position: 'left'},
           {
             href: 'https://github.com/idanariav/Idans_portfolio', 
-            position: 'left',
             label: "Portfolio",
+            position: 'left',
           },
-          
-          {to: '/contactPage', label: 'Contact', position: 'left'} 
         ],
       },
       footer: {
         links: [
           {
-            title: 'Knowledge Vault',
+            title: 'Into my "Second Brain"',
             items: [
               {
-                label: 'Notes',
-                to: '/docs/welcome', 
-              },
-              {
-                label: 'Obsidian Starter Kit',
+                label: 'Free Obsidian Starter Kit',
                 href: 'https://ko-fi.com/s/8e6f6ccefc', 
               },
             ],
           },
           {
-            title: 'Portfolio',
+            title: 'Lets connect',
             items: [
               {
                 label: 'Linkedin',
                 href: 'https://www.linkedin.com/in/idan-ariav/', 
               },
               {
-                label: 'Github',
-                href: 'https://github.com/idanariav/Idans_portfolio',
-              },
-              {
-                label: 'Tableau',
-                href: 'https://public.tableau.com/app/profile/idan.ariav', 
-              },
-            ],
-          },
-          {
-            title: 'Profile',
-            items: [
-              {
-                label: 'About me',
-                to: '/about', 
-              },
-              {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Threads',
+                href: 'https://www.threads.com/@idan_ariav',
               },
               {
                 label: "Contact",

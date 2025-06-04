@@ -6,31 +6,31 @@ import Link from "@docusaurus/Link";
 const FeatureList = [
   {
     title: 'How can I help you?',
-    link: 'https://docs.google.com/forms/d/e/1FAIpQLSegq_JHmtPSa7oXblPg4866E72IuEFVFZEeAKgGBqPQJo97RA/viewform?usp=sf_link',
+    link: '/contactPage',
     Svg: require('@site/static/general/mind_map_illustration.svg').default,
     description: (
       <>
-        I specialize in knowledge management systems that convert information into clear, valuable insights  - reach out anytime.
+        I specialize in knowledge management systems that convert information into clear, valuable insights  - reach out anytime
       </>
     ),
   },
   {
     title: 'Knowledge is power',
-    link: '/docs/welcome', // todo - fix pointer
+    link: '/docs/welcome',
     Svg: require('@site/static/general/knowledge_illustration.svg').default,
     description: (
       <>
-        Dive into my knowledge vault - a collection of valuable resources and insights, from philosophy to productivity.
+        Dive into my knowledge vault - a collection of valuable resources and insights, from philosophy to productivity
       </>
     ),
   },
   {
     title: 'Join the Journey',
-    link: 'https://philosophers-code.kit.com/76943a7d9d',
+    link: '/blog',
     Svg: require('@site/static/general/newsletter_illustration.svg').default,
     description: (
       <>
-      "Philosopher's Code" newsletter explores practical philosophy - join me on the journey of happiness, growth, and clarity.
+      "Philosopher's Code" newsletter explores practical philosophy - join me on the journey of happiness, growth, and clarity
       </>
     ),
   },
