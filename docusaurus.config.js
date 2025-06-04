@@ -188,6 +188,27 @@ const config = {
               }
             ],
           },
+          {
+            title: 'Navigation',
+            items: [
+              {
+                label: 'Home',
+                to: '/',
+              },
+              {
+                label: 'Ideas',
+                to: '/docs/notes',
+              },
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'Book Summaries',
+                to: '/docs/books',
+              },
+            ],
+          }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Idan Ariav. Built with Docusaurus.`,
       },
