@@ -152,11 +152,7 @@ const config = {
           {
             to: '/contactPage', 
             label: 'Contact', 
-            position: 'left'},
-          {
-            href: 'https://github.com/idanariav/Idans_portfolio', 
-            label: "Portfolio",
-            position: 'left',
+            position: 'left'
           },
         ],
       },
@@ -177,6 +173,10 @@ const config = {
               {
                 label: 'Linkedin',
                 href: 'https://www.linkedin.com/in/idan-ariav/', 
+              },
+              {
+                label: "GitHub",
+                href: 'https://github.com/idanariav', 
               },
               {
                 label: 'Threads',

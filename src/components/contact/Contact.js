@@ -44,7 +44,7 @@ const Contact = () => {
         </h3>
         <p>Whether you're:</p>
         <ul>
-          <li>Exploring potential job opportunities or collaborations</li>
+          <li>Exploring potential collaborations or opportunities</li>
           <li>Seeking guidance in setting up personal or organizational knowledge management systems</li>
           <li>Wishing to share feedback, ask questions, or start a conversation</li>
         </ul>
