@@ -168,7 +168,7 @@ const config = {
             ],
           },
           {
-            title: 'Lets connect',
+            title: "Let's connect",
             items: [
               {
                 label: 'Linkedin',
@@ -197,7 +197,7 @@ const config = {
               },
               {
                 label: 'Ideas',
-                to: '/docs/notes',
+                to: '/docs/category/notes',
               },
               {
                 label: 'Blog',
@@ -205,7 +205,7 @@ const config = {
               },
               {
                 label: 'Book Summaries',
-                to: '/docs/books',
+                to: '/docs/category/book-summaries',
               },
             ],
           }
