@@ -2,8 +2,8 @@ const fs = require('fs-extra');
 const path = require('path');
 const glob = require('glob');
 const matter = require('gray-matter'); // For parsing frontmatter
-const {isHeading, isForbiddenHeading, blogPath, handleCommentBlocks, handleForbiddenHeading,
-  obsidianLinkPattern, skipFile, frontmatterEditor, shouldUpdateFile, findFilePath} = require('./utility.js');
+const {isHeading, isForbiddenHeading, blogPath, handleForbiddenHeading,
+  obsidianLinkPattern, skipFile, frontmatterEditor, shouldUpdateFile, findFilePath, obsidianCommentPattern} = require('./utility.js');
 
 const blogFrontmatterConfig = {
   publish: true,
@@ -23,7 +23,10 @@ function removeObsidianLinks(content, cache = new Map()) {
     const trimmed = line.trim();
 
     // Handle %% comment blocks
-    skippingCommentBlock = handleCommentBlocks(trimmed, skippingCommentBlock);
+    if (trimmed.startsWith(obsidianCommentPattern)) {
+      skippingCommentBlock = !skippingCommentBlock;
+      continue; // Always skip the line with %%
+    }
     if (skippingCommentBlock) continue;
 
     // Handle forbidden headings

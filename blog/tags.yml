@@ -53,7 +53,7 @@ communication:
   permalink: /communication
   description: Understanding and improving communication skills
 
-Cooperation:
+cooperation:
   label: Cooperation
   permalink: /cooperation
   description: Working together for a common goal
@@ -92,7 +92,6 @@ mindset:
   label: Mindset
   permalink: /mindset
   description: Developing a positive mindset
-
 
 minimalism:
   label: Minimalism

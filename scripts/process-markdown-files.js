@@ -3,9 +3,9 @@ const fs = require('fs-extra');
 const path = require('path');
 const glob = require('glob');
 const matter = require('gray-matter'); // For parsing frontmatter
-const {isHeading, isForbiddenHeading, docsPath, handleCommentBlocks, handleForbiddenHeading,
-  handleAdmonitionStart, handleAdmonitionContent, skipFile,
-DataviewLinkPattern, obsidianLinkPattern, frontmatterEditor, shouldUpdateFile, findFilePath} = require('./utility.js');
+const {isHeading, isForbiddenHeading, docsPath, handleAdmonitionStart, handleForbiddenHeading, skipFile,
+DataviewLinkPattern, obsidianLinkPattern, frontmatterEditor, shouldUpdateFile, findFilePath, obsidianCommentPattern,
+isIframeLine, handleAdmonitionContent, admonitionHeadingPattern} = require('./utility.js');
 
 const notesFrontmatterConfig = {
   publish: true,
@@ -44,8 +44,14 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
     const trimmed = line.trim();
 
     // Handle %% comment blocks
-    skippingCommentBlock = handleCommentBlocks(trimmed, skippingCommentBlock);
+    if (trimmed.startsWith(obsidianCommentPattern)) {
+      skippingCommentBlock = !skippingCommentBlock;
+      continue; // Always skip the line with %%
+    }
     if (skippingCommentBlock) continue;
+
+    // Skip lines containing <iframe>
+    if (isIframeLine(trimmed)) continue;
 
     // Handle forbidden headings
     skip = handleForbiddenHeading(trimmed, skip);
@@ -58,28 +64,33 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
     }
 
     // Handle Admonition start
-    const admonitionStartResult = handleAdmonitionStart(trimmed, inAdmonition, admonitionTitle);
-    inAdmonition = admonitionStartResult.inAdmonition;
-    admonitionTitle = admonitionStartResult.admonitionTitle;
-    if (inAdmonition) continue;
+    if (handleAdmonitionStart(trimmed, inAdmonition)) {
+      const match = trimmed.match(admonitionHeadingPattern);
+      admonitionTitle = match ? (match[2] || '') : '';
+      inAdmonition = true;
+      admonitionContent = [];
+      continue;
+    }
 
     // Handle Admonition content
-    const admonitionContentResult = handleAdmonitionContent(
-      trimmed,
-      inAdmonition,
-      admonitionContent,
-      cleanedLines,
-      admonitionType,
-      admonitionTitle
-    );
-    inAdmonition = admonitionContentResult.inAdmonition;
-    admonitionContent = admonitionContentResult.admonitionContent;
-
-    if (!inAdmonition) {
-      // Process obsidian embed conversion inline
-      line = processObsidianLinks(line, cache);
-      cleanedLines.push(line);
+    if (inAdmonition) {
+      if (trimmed.startsWith('>')) {
+        admonitionContent.push(trimmed.slice(2).trim());
+        continue;
+      } else {
+        // End of admonition block
+        ({ inAdmonition, admonitionContent, admonitionTitle } = handleAdmonitionContent(inAdmonition, admonitionContent, cleanedLines, admonitionType, admonitionTitle));
+      }
     }
+
+    // Process obsidian embed conversion inline
+    line = processObsidianLinks(line, cache);
+    cleanedLines.push(line);
+  }
+
+  // If file ends while still in admonition, close it
+  if (inAdmonition) {
+     ({ inAdmonition, admonitionContent, admonitionTitle } = handleAdmonitionContent(inAdmonition, admonitionContent, cleanedLines, admonitionType, admonitionTitle));
   }
 
   return cleanedLines.join('\n');

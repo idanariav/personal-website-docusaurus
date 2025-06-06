@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-
+const {fileRename} = require('./utility.js');
 // Specify the list of folder paths
 const folderPaths = [
     'docs/mocs', // Replace with your folder paths
@@ -31,12 +31,7 @@ function renameFilesInFolder(folderPath) {
             }
 
             // Replace spaces with hyphens, remove parentheses, and remove special characters ', . or :
-            const newFileName = file
-                .replace(/ /g, '-')
-                .replace(/\(/g, '')
-                .replace(/\)/g, '')
-                .replace(/[',:!]/g, '') // Remove ', . or :
-                .toLowerCase();
+            const newFileName = fileRename(file);
             const newFilePath = path.join(folderPath, newFileName);
 
             // Rename the file
