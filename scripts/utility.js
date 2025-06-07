@@ -111,7 +111,7 @@ function findPathByExtension(normalizedName, extension, cache) {
   const matches = glob.sync(`${folderPath}/**/${normalizedName}`);
   if (matches.length > 0) {
     const relativePath = path.relative(extension === '.md' ? docsPath : imagesPath, matches[0]).replace(/\\/g, '/');
-    const resultPath = extension === '.webp' ? `/${relativePath}` : relativePath;
+    const resultPath = `/${relativePath}`
     cache.set(normalizedName, resultPath);
     return resultPath;
   } else {
