@@ -95,7 +95,7 @@ function normalizeLink(fileName) {
   return fileName;
 }
 
-function findPathByExtension(normalizedName, extension, cache) {
+function findPathByExtension(normalizedName, extension, cache, currentFilePath = null) {
   let folderPath, defaultFolder;
 
   if (extension === '.md') {
@@ -110,12 +110,32 @@ function findPathByExtension(normalizedName, extension, cache) {
 
   const matches = glob.sync(`${folderPath}/**/${normalizedName}`);
   if (matches.length > 0) {
-    const relativePath = path.relative(extension === '.md' ? docsPath : imagesPath, matches[0]).replace(/\\/g, '/');
-    const resultPath = `/${relativePath}`
+    const matchPath = matches[0];
+    const relativePath = path.relative(folderPath, matchPath).replace(/\\/g, '/');
+
+    let resultPath;
+    if (extension === '.webp') {
+      // Always absolute for images
+      resultPath = `/${relativePath}`;
+    } else if (currentFilePath) {
+      // Compare folders for markdown files
+      const currentFolder = path.dirname(currentFilePath);
+      const matchFolder = path.dirname(matchPath);
+      if (path.resolve(currentFolder) === path.resolve(matchFolder)) {
+        resultPath = `/${relativePath}`;
+      } else {
+        resultPath = `../${relativePath}`;
+      }
+    } else {
+      // Default to absolute if currentFilePath not provided
+      resultPath = `/${relativePath}`;
+    }
+
     cache.set(normalizedName, resultPath);
     return resultPath;
   } else {
-    const uncreatedPath = path.join(defaultFolder, normalizedName).replace(/\\/g, '/');
+    // Not found, return absolute path in defaultFolder
+    const uncreatedPath = `/${defaultFolder}/${normalizedName}`.replace(/\\/g, '/');
     cache.set(normalizedName, uncreatedPath);
     return uncreatedPath;
   }
