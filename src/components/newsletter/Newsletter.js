@@ -15,7 +15,7 @@ export const Newsletter = ({ data }) => {
     <div className={styles.newsWrapper}>
       <div className="container padding-vert--lg">
         <h2>Join the Journey</h2>
-        <p>Philosopher's Code offers practical philosophy for everyday life: turning complex ideas into tools for happiness, growth, and clarity</p>
+        <p>Philosopher's Code offers practical philosophy for everyday life</p>
         <p>Unsubscribe at any time</p>
 
         <form
