@@ -1,135 +1,46 @@
 ---
 UUID: 20230321064703
-Created: 2023-03-21 06:47
-Modified: 2024-12-03 20:30
-tags:
-  - Type/Note
-  - Source/Wiki
+Created: '2023-03-21 06:47'
+Modified: '2024-12-03 20:30'
+tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-publish: true
 Version: 1.01
 aliases:
   - Autonomy
   - freedom of choice
   - Freedom of response
+draft: false
+SiteProcssed: true
 ---
 
 # Agency
 
 ## Notes
 
-Agency is the ability of the individual to logically connect between desires and actions, and become the inner, causal factor of those actions. Meaning, **a person with agency usually feels (Jump:: [[Responsibility|responsible]]) for their actions. They are aware of the decisions they are making, and their actions are lining up with their desires** (Related:: [[Second order thinking]]).
+Agency is the ability of the individual to logically connect between desires and actions, and become the inner, causal factor of those actions. Meaning, **a person with agency usually feels [responsible](/notes/responsibility.md) for their actions. They are aware of the decisions they are making, and their actions are lining up with their desires** [Second order thinking](/notes/second-order-thinking.md).
 
-**The main case where we don't implement our agency is when there is no filter, thought or a conscious decision about the conversion between desire and action** (Weakens:: [[Impulsivity]]). For example, a person who sees an ad and immediately goes and buys something without thinking is not considered as a person with agency. Similarly, a person that is being shouted on and immediately shouts back is also not considered as a person with agency.
+**The main case where we don't implement our agency is when there is no filter, thought or a conscious decision about the conversion between desire and action** [Impulsivity](/notes/impulsivity.md). For example, a person who sees an ad and immediately goes and buys something without thinking is not considered as a person with agency. Similarly, a person that is being shouted on and immediately shouts back is also not considered as a person with agency.
 
-It is important to note that agency is matter of following the right (Supports:: [[Trust the Process|process]]), not a matter of which choices you make. A good process is one that:
-1. **Free of external influence** - By (Supported:: [[Rest|Pausing]]), taking a moment to (Supported:: [[Zoom out]]), and allowing ourselves to (Supported:: [[introspection|reflect]]) on our thoughts and feelings, we can make sure that our choices are free of any (Opposes:: [[External Influence]]).
-2. **Aligns with values** - Our choices should reflect our (Jump:: [[Core Values]])
+It is important to note that agency is matter of following the right [process](/notes/trust-the-process.md), not a matter of which choices you make. A good process is one that:
+1. **Free of external influence** - By [Pausing](/notes/rest.md), taking a moment to [Zoom out](/notes/zoom-out.md), and allowing ourselves to [reflect](/notes/introspection.md) on our thoughts and feelings, we can make sure that our choices are free of any [External Influence](/notes/external-influence.md).
+2. **Aligns with values** - Our choices should reflect our [Core Values](/notes/core-values.md)
 
 Making decisions without following the right process can lead to a false sense of agency due to:
-1. **Rationalization** - Without even meaning to, we can mistakenly justify our actions after having done them to avoid cognitive misalignment, while beforehand we might have chosen differently (Jump:: [[Rationalization]])
-2. **Surrendering to pressure** - Making choices without internal deliberation can cause us to feel like our choices are our own, while in reality we end up being a puppet in others' hands (Aka:: [[Social Environment|Peer Pressure]])
+1. **Rationalization** - Without even meaning to, we can mistakenly justify our actions after having done them to avoid cognitive misalignment, while beforehand we might have chosen differently [Rationalization](/notes/rationalization.md)
+2. **Surrendering to pressure** - Making choices without internal deliberation can cause us to feel like our choices are our own, while in reality we end up being a puppet in others' hands [Peer Pressure](/notes/social-environment.md)
 
 Remember that in the space **between the pressure, stimulus and triggers we get from the external world, and the action we do as a response, we are always free to choose**.
 
 
 ## Visual
 
-![[Agency.webp]]
-
-## Connections
-
-```dataviewjs
-const queryPath = "Extras/Queries/connections_query.js"
-const queryContent = await dv.io.load(queryPath)
-dv.executeJs(queryContent);
-```
+![Agency.webp](/notes/agency.webp)
 
 ## Overview
-🔼Topic:: [[Free Will (MOC)]]
-🔼Topic:: [[Wellbeing (MOC)]]
-◀Origin:: [[How to think like a roman emperor (book)]]
+🔼Topic:: [Free Will (MOC)](/mocs/free-will-moc.md)
+🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+◀Origin:: [How to think like a roman emperor (book)](/books/how-to-think-like-a-roman-emperor-book.md)
 🔗Link::
 
-%%
-# Excalidraw Data
-## Text Elements
-Agency ^CxbC2DhD
-
-Choose for yourself,
-before someone else will ^38gQVmtu
-
-Your
-preferences ^4t1mZre2
-
-Others
-priorities ^OkoAzsvr
-
-Continue Wacthing ^ju0W2mq7
-
-## Embedded Files
-3711cf586aa73539a527fadf8c6006873c8cd5ff: [[Icon - Choice, dilema, desicion.webp]]
-
-0e39f1f3b2133b11e4f179af5beb25cbcbec3f5e: [[icon - compass, goal, target.webp]]
-
-## Drawing
-```compressed-json
-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
-```
-%%
