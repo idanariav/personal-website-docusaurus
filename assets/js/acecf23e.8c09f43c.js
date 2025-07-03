@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkidans_personal_website=self.webpackChunkidans_personal_website||[]).push([["27627"],{47548:function(s){s.exports=JSON.parse('{"blogBasePath":"/personal-website-docusaurus/blog","blogTitle":"Blog","authorsListPath":"/personal-website-docusaurus/blog/authors"}')}}]);
