@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkidans_personal_website=self.webpackChunkidans_personal_website||[]).push([["14471"],{21869:function(e){e.exports=JSON.parse('{"metadata":{"permalink":"/personal-website-docusaurus/blog","page":1,"postsPerPage":10,"totalPages":2,"totalCount":18,"nextPage":"/personal-website-docusaurus/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
