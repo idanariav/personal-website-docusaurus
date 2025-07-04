@@ -1,7 +1,7 @@
 # Personal Website
 
 Welcome to the source code for my personal website, built with [Docusaurus](https://docusaurus.io/). 
-You can view the published version [here](https://idanariav.github.io/personal-website-docusaurus/)
+You can view the published version [here](https://idanariav.com/)
 
 This site serves as a hub for my professional profile, knowledge vault, and newsletter content.
 
@@ -36,6 +36,6 @@ Whether you're:
  - Seeking guidance in setting up personal or organizational knowledge management systems,
  - Or just want to share feedback, ask questions, or start a conversation
  
- Feel free to [reach out](https://idanariav.github.io/personal-website-docusaurus/contactPage) through this form
+ Feel free to [reach out](https://idanariav.com/contactPage) through this form
  or contact me through [Linkedin](https://www.linkedin.com/in/idan-ariav/)
 

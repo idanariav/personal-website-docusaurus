@@ -44,5 +44,5 @@ Whether you're:
  - Seeking guidance in setting up personal or organizational knowledge management systems,
  - Or just want to share feedback, ask questions, or start a conversation
  
- Feel free to [reach out](https://idanariav.github.io/personal-website-docusaurus/contactPage)
+ Feel free to [reach out](https://idanariav.com/contactPage)
  or contact me through [Linkedin](https://www.linkedin.com/in/idan-ariav/)

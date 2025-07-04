@@ -108,7 +108,7 @@ const config = {
         { name: 'og:title', content: 'Philosopher\'s Code – Practical Philosophy for everyday life' },
         { name: 'og:description', content: 'Turning complex ideas into tools for happiness, growth, and clarity.' },
         //{ name: 'og:image', content: 'https://yoursite.com/social-preview.png' },
-        { name: 'og:url', content: 'https://idanariav.github.io/personal-website-docusaurus/' },
+        { name: 'og:url', content: 'https://idanariav.com/' },
         { name: 'og:type', content: 'website' }],
       headTags: [
         // Declare some json-ld structured data
@@ -121,7 +121,7 @@ const config = {
         '@context': 'https://schema.org', // Tells the parser to use Schema.org's vocabulary
         '@type': 'Person',               // You're describing a "Person" type (vs Organization, Article, etc.)
         name: 'Idan Ariav',               // Your full name
-        url: 'https://idanariav.github.io/personal-website-docusaurus/',     // Your personal website or portfolio
+        url: 'https://idanariav.com/',     // Your personal website or portfolio
         sameAs: [                        // Other web profiles associated with you
           'https://www.linkedin.com/in/idan-ariav/',
           'https://github.com/idanariav/Idans_portfolio'
