@@ -25,36 +25,26 @@ SiteProcssed: true
 
 # 110 Fallacies (book)
 
-## Connect
+## ✒️ Note-Making
+
+### Connect
 
 🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
 
-## 🚀 Summary
-a good collection of fallacies when making arguments
-
-## ✒️ Note-Making
-
 ### 🔍 Clarify
 
-💭 Simply, the main message is...
-
-### ↔️ Relate
-
-💭 How does this topic relates to my life?
+💭 *Simply, the main message is...*
+a good collection of fallacies when making arguments
 
 ### Critique
 
-✅ I agree with... the advantages are...
+✅ *I agree with... the advantages are...*
+
 This book has very good demonstrations and explanations for all the common fallacies and even more
 
-❌ I disagree with... the disadvantages are...
+❌ *I disagree with... the disadvantages are...*
+
 It sometimes looks like he just really wanted to get to 110 so he "invented" or presented variations of other fallacies as new fallacies, repeating himself and making the book unnecessarily long
-
-💭 Implementations and limitations of it are...
-
-### 🤔 Reflect
-
-💭 My main take-aways are.. this affects me by...
 
 ## 📒 Notes
 

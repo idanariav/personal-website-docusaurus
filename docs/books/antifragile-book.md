@@ -42,7 +42,7 @@ If your life is not built to withstand disasters you are in a problem. Black swa
 
 ### Relate
 
-💭 How does this topic relates to my life?
+💭 How does this topic relate to my life?
 
 ### Critique
 

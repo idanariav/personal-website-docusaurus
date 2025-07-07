@@ -44,7 +44,7 @@ find your passion, and work as hard as you can to excel at it.
 
 ### ↔️ Relate
 
-💭 How does this topic relates to my life?
+💭 How does this topic relate to my life?
 
 
 ### Critique
