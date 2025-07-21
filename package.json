@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
+    "update-website": "node scripts/update-website.js",
     "process:markdown": "node scripts/process-markdown-files.js",
     "process:blogs": "node scripts/process-blogs.js",
     "rename:files": "node scripts/rename-files.js",
