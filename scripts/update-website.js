@@ -16,7 +16,7 @@ const hoursInDay = 24
 
 const destinationFolder = 'docs';
 const imageDestinationFolder = 'static';
-const days = 7;
+const days = 14;
 
 // Utility: get all Markdown files recursively
 async function getMarkdownFiles(dir) {
@@ -36,7 +36,7 @@ async function getMarkdownFiles(dir) {
 
 function determineSubfolder(originalFilename) {
   if (originalFilename.toLowerCase().endsWith('(moc).md')) {
-    return 'moc';
+    return 'mocs';
   } else if (originalFilename.toLowerCase().endsWith('(book).md')) {
     return 'books';
   } else {
