@@ -1,16 +1,17 @@
 ---
 UUID: 20250428071940
 Created: '2025-04-28 07:19'
-Modified: '2025-04-28 07:19'
-Version: 1
+Modified: '2025-07-24 07:34'
 tags: []
-excalidraw-plugin: null
+excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
+Version: 1.01
 aliases: null
 draft: false
 SiteProcssed: true
 ---
+
 # Rituals
 
 ## Notes
@@ -25,11 +26,10 @@ As with cases of [Rigid rules](/notes/rigid-rules.md), when we fail to preform t
 
 ## Visual
 
+![Rituals.webp](/notes/rituals.webp)
 
 ## Overview
 🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
 ↩️Origin::
-🔗Link:: 
-
-
+🔗Link::
 

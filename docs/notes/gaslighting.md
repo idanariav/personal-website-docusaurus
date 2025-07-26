@@ -1,12 +1,12 @@
 ---
 UUID: 20240915203249
 Created: '2024-09-15 20:32'
-Modified: '2025-03-11 14:57'
+Modified: '2025-07-24 08:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 1.01
+Version: 1.02
 aliases: []
 draft: false
 SiteProcssed: true
@@ -16,7 +16,9 @@ SiteProcssed: true
 
 ## Notes
 
-Gaslighting is the opposite of [validating](/notes/validation.md) someone's feelings or mental state. We belittle them and their experience, and even worse try to convince them that they are seeing the world wrong. We attack, whether intentionally or not, their [Self esteem](/notes/self-worth.md).
+Gaslighting is the opposite of [validating](/notes/validation.md) someone's feelings or mental state. We belittle them and their experience, and even worse try to convince them that they are seeing the world wrong. We attack, whether intentionally or not, their [Self esteem](/notes/self-worth.md). We try to [forecfully](/notes/will-to-power.md) replace their [narrative](/notes/narratives.md) with others.
+
+Gaslighting can even be a form of [Rationalization](/notes/rationalization.md). We try to convince others that what they're experiencing is within reason as a coping mechanism for their issues. Similarly it can be a type of [manifesting](/notes/manifesting.md), that we believe (either consciously or not) that by repeating a certain narrative, it will become true. For instance, we often comfort children that way, saying "there's nothing to cry about" in hopes that they will adopt this perspective.
 
 Perhaps gaslighting is more common with those who lack [Empathy](/notes/empathy.md), they are unable to see the world through the eyes of another, or perhaps they don't even acknowledge that the world can be perceived differently for different people, so they believe (mistakenly) that their [Subjective Reality](/notes/subjective-reality.md) is the "one and true reality".
 
