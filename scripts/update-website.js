@@ -16,7 +16,7 @@ const hoursInDay = 24
 
 const destinationFolder = 'docs';
 const imageDestinationFolder = 'static';
-const days = 14;
+const days = 7;
 
 // Utility: get all Markdown files recursively
 async function getMarkdownFiles(dir) {
