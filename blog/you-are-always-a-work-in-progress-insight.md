@@ -1,0 +1,62 @@
+---
+excalidraw-plugin: parsed
+tags:
+  - change
+  - identity
+UUID: 20250729083437
+Created: '2025-07-29 08:34'
+Modified: '2025-07-29 08:34'
+Version: 1
+Medium:
+  - Obsidian
+Description: To be means to constantly change and grow
+ContentStatus: Ready
+aliases: null
+excalidraw-open-md: true
+excalidraw-export-dark: false
+excalidraw-export-transparent: false
+excalidraw-autoexport: png
+draft: false
+slug: work-in-progress
+date: 2025-08-05T00:00:00.000Z
+SiteProcssed: true
+---
+
+
+# You are always a work in progress
+
+Are you truly aware of the depths of your potential for growth? Just as nature constantly evolves, so do we, yet many of us mistakenly believe we've reached our limit. What if I told you that embracing change is the key to unlocking your true self, and that the journey of self-discovery never truly ends? 
+
+![You are always a work in progress (insight).webp](/posts/you-are-always-a-work-in-progress-insight.webp)
+
+<!-- truncate -->
+
+Caterpillars grow into butterflies, and tadpoles into frogs. We humans also change, though perhaps in more subtle ways.
+
+Compared to other animals, we are born helpless. However, thanks to our ability to learn and grow, we evolve from babies into mature, capable adults. Our development extends beyond the physical; our minds, values, and even our identities can change as well.
+
+At age 20, I believed I had finally discovered who I am. I confidently repeated this belief at 25, again at 30, and I will likely do so again at 35. In hindsight, we can see how much we've changed, yet we often believe that *now* we have reached the finish line - that "this is it" and that this is who we will be until the day we die.
+
+I'm here to tell you: you are always a work in progress.
+
+Don't assume your current skill level reflects your potential, nor that your current "vices" are a permanent stain on your identity.
+
+While there may be some truth to the idea that we have a "core identity" or "talent" that limits our potential, it is more accurate to say that "the mind makes it real." When we believe we have reached our limits, we become static. By believing we can change, we expand our possibilities.
+
+Kierkegaard said, "Life can only be understood backwards, but it must be lived forwards." Looking back, we can see how far we've come; the pieces of our lives make sense, and we can trace the twisting yet connected path that has led us to who we are today. We must extend that belief into the future as well. We need to overcome the innate feeling that "our identity is fixed" so we can shape our journey of change moving forward. The path we were on hasn't ended; the way ahead is simply hidden from us.
+
+Change is the one true constant of life. As Heraclitus said, "No man ever steps in the same river twice, for it is not the same river, and he's not the same man." Some ancient Greeks, like Heraclitus, believed that human nature mirrors nature itself - the rules of the cosmos govern people as well. Therefore, if nature is in constant flux, then so are we.
+
+The question is not whether we are capable of change, but how we will change. Like revolving gears, some parts of ourselves shift faster - perhaps our professions or interests - while others change more slowly, like our values and core beliefs.
+
+We are always in the process of becoming, changing from the moment we are born until the day we die.
+
+Therefore, life is a journey, not a destination. It is not about reaching a "perfect version of ourselves" - we will never get there. Not because we are incapable of improvement, but because our idea of a "perfect self" evolves with us. It's like trying to reach the end of a rainbow; it keeps slipping away, distancing itself with every step we take.
+
+Nietzsche once wrote, "What is great in man is that he is a bridge and not a goal." We are always in the process of surpassing ourselves, moving from one identity to the next, rather than unveiling a specific version of ourselves. Kierkegaard claimed, "The self is a relation that relates itself to itself." If you need a moment to process that, it's fine. Essentially, it means that our identity resembles the paper art children create of people holding hands. What makes us "us" (the elusive "self" that separates us from others) is that all the identities we adopt and replace throughout the years *feel* connected to each other, which creates a sense of continuity.
+
+While a final destination is unattainable, we can surpass many milestones along the way. Who we are today is merely an image, a temporary version of ourselves - the best use of our potential *so far* - but hardly the best we can achieve throughout our lifetimes. Use the words "yet" and "so far" as your guiding principles, such as "I can't do that yet" or "this is the best I've achieved so far."
+
+By embracing the spirit of change and being "a work in progress," we are not bound by our past or by limiting thoughts about ourselves. Our potential is much greater, and our limits extend much farther than we think.
+
+## Further Reading
