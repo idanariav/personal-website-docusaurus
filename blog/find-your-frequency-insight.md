@@ -1,39 +1,38 @@
 ---
 UUID: 20250807080333
 Created: '2025-08-07 08:03'
-Modified: '2025-08-07 08:03'
-Version: 1
+Modified: '2025-08-31 06:33'
+tags:
+  - control
+  - environment
+  - stillness
 Medium:
   - Obsidian
   - Medium
 Description: >-
   we have to listen to our environment, understand how it works. feel the flow
   of reality, to not resist it forcefully, rather adjust yourself to it
-tags:
-  - control
-  - environment
-  - stillness
 ContentStatus: Published
+excalidraw-plugin: parsed
+excalidraw-autoexport: png
 excalidraw-open-md: true
 excalidraw-export-dark: false
 excalidraw-export-transparent: false
-aliases: null
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-draft: true
+Version: 1.01
+aliases: []
+draft: false
 slug: find-your-frequency
 date: 2025-09-02T00:00:00.000Z
 SiteProcssed: true
 ---
 
-# find your frequency
+# Find Your Frequency
 
-Are you struggling to find enough hours in the day to chase your dreams? What if the secret lies not in relentless hustle but in harmonizing with life's natural rhythm? Discover how aligning your efforts with reality can transform your mindset and lead to greater fulfillment. 
+Are you struggling to find enough hours in the day to chase your dreams? What if the secret lies not in relentless hustle but in harmonizing with life's natural rhythm? Discover how aligning your efforts with reality can transform your mindset and lead to greater fulfillment.
 
 ![Find your frequency (insight).webp](/posts/find-your-frequency-insight.webp)
 
 <!-- truncate -->
-
 
 I often wish there were more than 24 hours in a day.
 
@@ -53,7 +52,7 @@ We praise such behavior, viewing these individuals as "go-getters" who embody "g
 
 Life is hard, but we shouldn't make it harder.
 
-Seneca (of the ancient stoics) wholeheartedly believed that much of the suffering in life is the result of our judgment, rather than the event itself, or "We suffer more often in imagination than in reality". Regardless of how harsh life is, by thinking that only sheer resolve and unstoppable determination can help us overcome it, we add so much to our burden. 
+Seneca (of the ancient stoics) wholeheartedly believed that much of the suffering in life is the result of our judgment, rather than the event itself, or "We suffer more often in imagination than in reality". Regardless of how harsh life is, by thinking that only sheer resolve and unstoppable determination can help us overcome it, we add so much to our burden.
 
 I'm not saying we shouldn't have goals or that achieving something worthwhile won't require effort. I'm suggesting we view life as a song with its own rhythm that we should attune to, rather than constantly trying to change the beat. Let me explain.
 
@@ -67,11 +66,11 @@ Instead of trying to control the world and bend it to our will, we must listen. 
 
 We must find the frequency where our actions harmonize with reality, striking at the optimal location for maximum effectiveness and minimal investment of time and effort.
 
-We need to be flexible in mind and action. Doing that won't just make our life easier, it will change them completely  - "The greatest discovery of my generation is that a human being can alter his life by altering his attitudes" (William James)
+We need to be flexible in mind and action. Doing that won't just make our life easier, it will change them completely - "The greatest discovery of my generation is that a human being can alter his life by altering his attitudes" (William James)
 
 This means we can't give 100% at all times, our energy is limited. Most importantly, we must learn to let go. Some dreams are impossible to achieve, some will take longer than we would like, and some will adapt and change over time and that's okay.
 
 Most songs sound horrible at 3x speed. Slow down, find your rhythm, and let it play.
 
+![Find your frequency (insight).webp](/posts/find-your-frequency-insight.webp)
 
-## Further Reading
