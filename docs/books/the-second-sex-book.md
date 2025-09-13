@@ -1,7 +1,7 @@
 ---
 UUID: 20230902083034
 Created: '2023-09-02 08:30'
-Modified: '2024-09-07 04:51'
+Modified: '2025-09-08 07:02'
 tags: []
 Author:
   - '[[Simone de Beauvoir (philosopher)|Simone de Beauvoir]]'
@@ -13,7 +13,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 1.02
 Pages: 835
 Rate: 4
 PublishDate: 1974-01-01T00:00:00.000Z
@@ -21,7 +21,7 @@ FinishDate: 2023-09-22T00:00:00.000Z
 Cover: >-
   https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.penguin.com.au%2Fcovers%2Foriginal%2F9781784870386.jpg&f=1&nofb=1&ipt=2f88017148d1b5f1e3497fe730fa53eb5780f2d3d970c925f335f341231a7817&ipo=images
 URL: 'https://www.goodreads.com/book/show/18687491-the-second-sex'
-aliases: null
+aliases: []
 draft: false
 SiteProcssed: true
 ---
@@ -31,7 +31,6 @@ SiteProcssed: true
 ## 🔗Connect
 🔼Topic:: [feminism 2bc](/notes/feminism-2bc.md)
 🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)
-
 
 ## ✒️ Note-Making
 
