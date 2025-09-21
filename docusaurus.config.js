@@ -179,8 +179,12 @@ const config = {
                 href: 'https://github.com/idanariav', 
               },
               {
-                label: 'Threads',
-                href: 'https://www.threads.com/@idan_ariav',
+                label: 'X (Twitter)',
+                href: 'https://x.com/ariav_idan',
+              },
+              {
+                label: 'Medium',
+                href: 'https://medium.com/@idanariav',
               },
               {
                 label: "Contact",
