@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkidans_personal_website=self.webpackChunkidans_personal_website||[]).push([["93220"],{94326:function(s){s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);

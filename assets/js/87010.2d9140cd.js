@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkidans_personal_website=self.webpackChunkidans_personal_website||[]).push([["87010"],{25785:function(){}}]);
