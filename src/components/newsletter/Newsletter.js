@@ -16,8 +16,7 @@ export const Newsletter = ({ data }) => {
       <div className="container padding-vert--lg">
         <h2>Join the Journey</h2>
         <p>Philosopher's Code offers practical philosophy for everyday life</p>
-        <p>Start your journey with <em>Five Quests for a Philosophical Life</em> — a short, practical guide you’ll get when you subscribe.</p>
-        <p>Unsubscribe at any time</p>
+        <p>Subscribe to start your journey with the <em>Five Quests for a Philosophical Life</em> guide.</p>
 
         <form
           action={action}
