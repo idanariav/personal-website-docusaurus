@@ -16,7 +16,7 @@ export const Newsletter = ({ data }) => {
       <div className="container padding-vert--lg">
         <h2>Join the Journey</h2>
         <p>Philosopher's Code offers practical philosophy for everyday life</p>
-        <p>Subscribe to start your journey with the <em>Five Quests for a Philosophical Life</em> guide.</p>
+        <p>Subscribe to start your journey with the <em>Five Quests for a Philosophical Life</em> guide</p>
 
         <form
           action={action}
