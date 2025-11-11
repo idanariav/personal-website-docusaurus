@@ -25,8 +25,8 @@ function renameFilesInFolder(folderPath) {
                 return;
             }
 
-            // Check if the file has a .md or .webp extension
-            if (!file.endsWith('.md') && !file.endsWith('.webp')) {
+            // check the file extension
+            if (!file.endsWith('.md') && !file.endsWith('.webp') && !file.endsWith('.svg')) {
                 return;
             }
 
