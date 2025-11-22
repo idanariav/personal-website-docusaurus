@@ -89,7 +89,7 @@ function findFilePath(fileName, cache) {
 function normalizeLink(fileName) {
   const hasExtension = /\.[^\.\s]+$/.test(fileName);
   const lower = fileName.toLowerCase();
-  const isImage = lower.endsWith('.webp') || lower.endsWith('.svg');
+  const isImage = lower.endsWith('.webp');
 
   if (!hasExtension) return `${fileName}.md`;
   if (isImage) return fileName;
@@ -102,7 +102,7 @@ function findPathByExtension(normalizedName, extension, cache, currentFilePath =
   if (extension === '.md') {
     folderPath = docsPath;
     defaultFolder = 'notes';
-  } else if (extension === '.webp' || extension === '.svg') {
+  } else if (extension === '.webp') {
     folderPath = imagesPath;
     defaultFolder = 'notes';
   } else {
@@ -115,7 +115,7 @@ function findPathByExtension(normalizedName, extension, cache, currentFilePath =
     const relativePath = path.relative(folderPath, matchPath).replace(/\\/g, '/');
 
     let resultPath;
-    if (extension === '.webp' || extension === '.svg') {
+    if (extension === '.webp') {
       // Always absolute for images
       resultPath = `/${relativePath}`;
     } else if (currentFilePath) {

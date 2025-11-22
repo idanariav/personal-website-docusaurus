@@ -10,7 +10,7 @@ const notesSourceFolders = [
   path.resolve(__dirname, '../../Obsidian_Vault/Content/MOCs'),
   path.resolve(__dirname, '../../Obsidian_Vault/Sources/Books')
 ];
-const imageSourceFolder = path.resolve(__dirname, '../../Obsidian_Vault/Extras/Media/Images/visuals');
+const imageSourceFolder = path.resolve(__dirname, '../../Obsidian_Vault/Extras/Media/visuals');
 const secondsInHours = 60 * 60
 const hoursInDay = 24
 
@@ -96,8 +96,11 @@ async function getImagesFiles(dir) {
     const fullPath = path.join(dir, entry.name);
     if (entry.isDirectory()) {
       files = files.concat(await getImagesFiles(fullPath));
-    } else if (entry.isFile() && entry.name.toLowerCase().endsWith('.webp')) {
-      files.push(fullPath);
+    } else if (entry.isFile()) {
+      const name = entry.name.toLowerCase();
+      if (name.endsWith('.webp') || name.endsWith('.png')) {
+        files.push(fullPath);
+      }
     }
   }
   return files;

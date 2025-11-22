@@ -26,7 +26,7 @@ function renameFilesInFolder(folderPath) {
             }
 
             // check the file extension
-            if (!file.endsWith('.md') && !file.endsWith('.webp') && !file.endsWith('.svg')) {
+            if (!file.endsWith('.md') && !file.endsWith('.webp')) {
                 return;
             }
 
@@ -34,10 +34,20 @@ function renameFilesInFolder(folderPath) {
             const newFileName = fileRename(file);
             const newFilePath = path.join(folderPath, newFileName);
 
-            // Rename the file
+            // Rename the file (overwrite existing destination)
             if (newFilePath !== oldFilePath) {
-                fs.renameSync(oldFilePath, newFilePath);
-                console.log(`Renamed: "${file}" -> "${newFileName}"`);}
+                try {
+                    if (fs.existsSync(newFilePath)) {
+                        // Remove existing file to ensure overwrite on all platforms
+                        fs.unlinkSync(newFilePath);
+                        console.log(`Overwriting existing file: "${newFileName}"`);
+                    }
+                    fs.renameSync(oldFilePath, newFilePath);
+                    console.log(`Renamed: "${file}" -> "${newFileName}"`);
+                } catch (err) {
+                    console.error(`Failed to rename "${file}" -> "${newFileName}": ${err.message}`);
+                }
+            }
         });
     } catch (error) {
         console.error(`An error occurred in folder "${folderPath}": ${error.message}`);
