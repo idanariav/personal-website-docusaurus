@@ -202,9 +202,39 @@ function isIframeLine(line) {
   return /<iframe[\s>]/i.test(line);
 }
 
+function convertObsidianImageToMarkdown(match, fileName, _aliasPart, alias, isImageEmbed, cache) {
+  // For image embeds ![[...]], convert to markdown image syntax
+  if (isImageEmbed) {
+    // Handle both .png and .webp extensions
+    let cleanedFileName = fileName;
+    const isPNG = fileName.toLowerCase().endsWith('.png');
+    
+    if (isPNG) {
+      // Replace .png with .webp for image files
+      cleanedFileName = fileName.replace(/\.png$/i, '.webp');
+    }
+    
+    if (cleanedFileName.toLowerCase().endsWith('.webp')) {
+      // Use findFilePath to get the correct image path
+      const imagePath = findFilePath(cleanedFileName, cache);
+      const altText = alias || fileName.replace(/\.[^/.]+$/g, '');
+      return `![${altText}](${imagePath})`;
+    }
+  }
+  
+  // For regular links [[...]], use alias or file name
+  if (fileName.toLowerCase().endsWith('.webp')) {
+    const imagePath = findFilePath(fileName, cache);
+    const linkText = alias || fileName;
+    return `![${linkText}](${imagePath})`;
+  }
+  
+  return alias || fileName; // Use alias if present, otherwise use file name
+}
+
 module.exports = {
   isHeading, isForbiddenHeading, docsPath, imagesPath, handleCommentBlocks, handleForbiddenHeading,
   handleAdmonitionStart, handleAdmonitionContent, skipFile,
   DataviewLinkPattern, obsidianLinkPattern, frontmatterEditor, shouldUpdateFile, blogPath, findFilePath,
-  isIframeLine, fileRename, handleAdmonitionStart, obsidianCommentPattern, admonitionHeadingPattern
+  isIframeLine, fileRename, handleAdmonitionStart, obsidianCommentPattern, admonitionHeadingPattern, convertObsidianImageToMarkdown
 };

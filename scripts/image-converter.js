@@ -7,7 +7,7 @@ const sharp = require('sharp');
 const folderPaths = [
     'static/books', // Replace with your folder paths
     'static/notes',
-    'tatic/posts'
+    'static/posts'
 ];
 const quality = 80;               // Adjust quality 0–100
 const skipExisting = false;        // If true, skip if .webp already exists
@@ -40,7 +40,10 @@ const skipExisting = false;        // If true, skip if .webp already exists
           .webp({ quality })
           .toFile(outputPath);
 
+        // Delete the original PNG file after successful conversion
+        fs.unlinkSync(inputPath);
         console.log(`Converted: ${path.join(folder, file)} → ${path.basename(outputPath)}`);
+        console.log(`Deleted: ${path.join(folder, file)}`);
       } catch (err) {
         console.error(`Failed to convert ${path.join(folder, file)}: ${err.message}`);
       }

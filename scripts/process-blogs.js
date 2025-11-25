@@ -3,7 +3,7 @@ const path = require('path');
 const glob = require('glob');
 const matter = require('gray-matter'); // For parsing frontmatter
 const {isHeading, isForbiddenHeading, blogPath, handleForbiddenHeading,
-  obsidianLinkPattern, skipFile, frontmatterEditor, shouldUpdateFile, findFilePath, obsidianCommentPattern} = require('./utility.js');
+  obsidianLinkPattern, skipFile, frontmatterEditor, shouldUpdateFile, findFilePath, obsidianCommentPattern, convertObsidianImageToMarkdown} = require('./utility.js');
 
 const blogFrontmatterConfig = {
   publish: true,
@@ -17,6 +17,9 @@ function removeObsidianLinks(content, cache = new Map()) {
   let skippingCommentBlock = false;
   let skip = false;
   let cleanedLines = [];
+
+  // Pattern for embedded images: ![[...]]
+  const obsidianImageEmbedPattern = /!\[\[(.+?)\]\]/g;
 
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i];
@@ -39,15 +42,14 @@ function removeObsidianLinks(content, cache = new Map()) {
       continue;
     }
 
-    // Replace [[obsidian link|alias]] or [[obsidian link]] with plain text or image reference
+    // First, replace embedded images ![[...]] with markdown image syntax
+    line = line.replace(obsidianImageEmbedPattern, (match, fileName) => {
+      return convertObsidianImageToMarkdown(match, fileName, null, null, true, cache);
+    });
+
+    // Then replace regular [[obsidian link|alias]] or [[obsidian link]] with plain text or image reference
     line = line.replace(obsidianLinkPattern, (match, fileName, _aliasPart, alias) => {
-      const linkText = alias || fileName
-      if (fileName.toLowerCase().endsWith('.webp')) {
-        // Use findFilePath to get the correct image path
-        const imagePath = findFilePath(fileName, cache);
-        return `[${linkText}](${imagePath})`;
-      }
-      return linkText; // Use alias if present, otherwise use file name
+      return convertObsidianImageToMarkdown(match, fileName, _aliasPart, alias, false, cache);
     });
 
     cleanedLines.push(line);

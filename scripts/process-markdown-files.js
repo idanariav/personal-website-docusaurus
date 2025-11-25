@@ -5,7 +5,7 @@ const glob = require('glob');
 const matter = require('gray-matter'); // For parsing frontmatter
 const {isHeading, isForbiddenHeading, docsPath, handleAdmonitionStart, handleForbiddenHeading, skipFile,
 DataviewLinkPattern, obsidianLinkPattern, frontmatterEditor, shouldUpdateFile, findFilePath, obsidianCommentPattern,
-isIframeLine, handleAdmonitionContent, admonitionHeadingPattern} = require('./utility.js');
+isIframeLine, handleAdmonitionContent, admonitionHeadingPattern, convertObsidianImageToMarkdown} = require('./utility.js');
 
 const notesFrontmatterConfig = {
   publish: true,
@@ -21,9 +21,7 @@ function processObsidianLinks(line, cache) {
 
   // Replace [[obsidian link|alias]] or [[obsidian link]] with a converted link
   line = line.replace(obsidianLinkPattern, (match, fileName, _aliasPart, alias) => {
-    const linkText = alias || fileName; // Use alias if present, otherwise use file name
-    const linkPath = findFilePath(fileName, cache); // Convert file name to link path
-    return `[${linkText}](${linkPath})`; // Return formatted link
+    return convertObsidianImageToMarkdown(match, fileName, _aliasPart, alias, false, cache);
   });
 
   return line;
@@ -38,6 +36,9 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
   const admonitionType = "note"; // default type
   let admonitionTitle = '';
   let admonitionContent = [];
+
+  // Pattern for embedded images: ![[...]]
+  const obsidianImageEmbedPattern = /!\[\[(.+?)\]\]/g;
 
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i];
@@ -83,7 +84,12 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
       }
     }
 
-    // Process obsidian embed conversion inline
+    // First, replace embedded images ![[...]] with markdown image syntax
+    line = line.replace(obsidianImageEmbedPattern, (match, fileName) => {
+      return convertObsidianImageToMarkdown(match, fileName, null, null, true, cache);
+    });
+
+    // Then process regular obsidian links
     line = processObsidianLinks(line, cache);
     cleanedLines.push(line);
   }
