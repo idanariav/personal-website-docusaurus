@@ -34,7 +34,7 @@ SiteProcssed: true
 
 We guard our time fiercely, yet one small unexpected event can ruin an entire day. How can we manage our schedules effectively when life consistently refuses to follow the plan?
 
-!Prepare for chaos, not perfection (insight).svg
+![Prepare for chaos (insight).webp](/posts/prepare-for-chaos-not-perfection-insight.webp)
 
 <!-- truncate -->
 
