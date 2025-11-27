@@ -46,9 +46,7 @@ function determineSubfolder(originalFilename) {
 
 // Main logic
 async function findAndCopyPublishedFiles() {
-    console.log('Checking for recently modified files...');
-  const now = new Date();
-  const cutoff = new Date(now.getTime() - days * hoursInDay * secondsInHours * 1000);
+  console.log('Checking for published files...');
 
   for (const folder of notesSourceFolders) {
     if (!fs.existsSync(folder) || !fs.statSync(folder).isDirectory()) {
@@ -63,26 +61,63 @@ async function findAndCopyPublishedFiles() {
       const { data: frontmatter } = matter(content);
       const originalFilename = path.basename(filePath);
 
-      const subfolder = determineSubfolder(originalFilename);
-      const fullDestFolder = path.join(destinationFolder, subfolder);
-
-      await fse.ensureDir(fullDestFolder);
-
-      if (!frontmatter || frontmatter.publish !== true || !frontmatter.Modified) continue;
-
-      const modifiedDate = new Date(frontmatter.Modified);
-      if (isNaN(modifiedDate.getTime()) || modifiedDate < cutoff) continue;
-
-      const normalizedName = fileRename(originalFilename);
-      const destFile = path.join(fullDestFolder, normalizedName);
-
-      if (fs.existsSync(destFile)) {
-        fs.unlinkSync(destFile);
-        console.log(`Deleted existing file: ${destFile}`);
+      // Step 1: Check if file should be published
+      if (!frontmatter || frontmatter.publish !== true) {
+        continue;
       }
 
-      await fse.copy(filePath, destFile);
-      console.log(`Copied: ${filePath} -> ${destFile}`);
+      // Determine destination subfolder and ensure it exists
+      const subfolder = determineSubfolder(originalFilename);
+      const fullDestFolder = path.join(destinationFolder, subfolder);
+      await fse.ensureDir(fullDestFolder);
+
+      // Step 2: Get UUID from frontmatter
+      const uuid = frontmatter.UUID;
+      if (!uuid) {
+        console.warn(`Skipping file without UUID: ${filePath}`);
+        continue;
+      }
+
+      // Step 3 & 4: Check if a file with this UUID already exists in destination
+      const existingFiles = await getMarkdownFiles(fullDestFolder);
+      let existingFileWithUUID = null;
+
+      for (const existingFile of existingFiles) {
+        const existingContent = await fse.readFile(existingFile, 'utf-8');
+        const { data: existingFrontmatter } = matter(existingContent);
+        if (existingFrontmatter.UUID === uuid) {
+          existingFileWithUUID = existingFile;
+          break;
+        }
+      }
+
+      // If UUID doesn't exist, copy the file
+      if (!existingFileWithUUID) {
+        const normalizedName = fileRename(originalFilename);
+        const destFile = path.join(fullDestFolder, normalizedName);
+        await fse.copy(filePath, destFile);
+        console.log(`Copied new file: ${filePath} -> ${destFile}`);
+        continue;
+      }
+
+      // Step 5 & 6: Compare Modified dates
+      const newModifiedDate = new Date(frontmatter.Modified);
+      const existingContent = await fse.readFile(existingFileWithUUID, 'utf-8');
+      const { data: existingFrontmatter } = matter(existingContent);
+      const existingModifiedDate = new Date(existingFrontmatter.Modified);
+
+      // If new file is more recent, replace the existing one
+      if (newModifiedDate > existingModifiedDate) {
+        fs.unlinkSync(existingFileWithUUID);
+        console.log(`Deleted outdated file: ${existingFileWithUUID}`);
+
+        const normalizedName = fileRename(originalFilename);
+        const destFile = path.join(fullDestFolder, normalizedName);
+        await fse.copy(filePath, destFile);
+        console.log(`Replaced with newer file: ${filePath} -> ${destFile}`);
+      } else {
+        console.log(`Skipping ${filePath} - existing file is up to date`);
+      }
     }
   }
 
