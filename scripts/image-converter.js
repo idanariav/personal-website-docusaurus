@@ -8,7 +8,8 @@ const folderPaths = [
     'static/books', // Replace with your folder paths
     'static/notes',
     'static/posts',
-    'static/blogs'
+    'static/blogs',
+    'static/frameworks'
 ];
 const quality = 80;               // Adjust quality 0–100
 const skipExisting = false;        // If true, skip if .webp already exists

@@ -1,7 +1,7 @@
 ---
 UUID: 20240102062010
 Created: '2024-01-02 06:20'
-Modified: '2024-10-05 08:23'
+Modified: 2024-10-05T08:23:00.000Z
 tags: []
 Author:
   - '[[Shane Parrish]]'
@@ -9,9 +9,11 @@ Genre: Business & Economics
 ReadingStatus: Read
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Fiction: false
-Version: 1.02
+Version: 1
 Pages: 284
 Rate: 3
 PublishDate: 2023-10-03T00:00:00.000Z
@@ -20,6 +22,15 @@ Cover: >-
   http://books.google.com/books/content?id=j9elEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/75665850-clear-thinking'
 aliases: null
+Description: >-
+  It argues that the key to clear thinking lies in overcoming defaults that lead
+  to impulsive decisions, reflecting on past experiences to guide future
+  actions, and taking responsibility for one's life to navigate challenges
+  effectively.
+FullTitle: Clear Thinking - Turning Ordinary Moments into Extraordinary Results
+StartDate: 2024-05-04T00:00:00.000Z
+ASIN: B0BRMPJ8DR
+Reread: 0
 draft: false
 SiteProcssed: true
 ---
@@ -27,7 +38,7 @@ SiteProcssed: true
 # Clear Thinking
 
 ## 🔗Connect
-🔼Topic:: [Critical Thinking](/notes/critical-thinking.md)
+🔼Topic:: Critical Thinking
 
 
 ## ✒️ Note-Making
@@ -40,6 +51,20 @@ SiteProcssed: true
 ### 🗒️Relate
 
 ⛓ *Life lessons, action items*
+
+
+### ✅Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Pause Before Reacting** - when stimulated, consciously create a space to pause and decide instead of executing your default response.
+2. **Identify Your Defaults and Triggers** - list moments where you default (emotion, ego, social, inertia) and note the specific cues that trigger each.
+3. **Reprogram Your Environment** - redesign your surroundings and social circle to make desirable defaults automatic (surround yourself with people who exhibit good defaults).
+4. **Practice Self-Accountability Daily** - when outcomes go wrong, write what you can do next to improve the situation instead of blaming external factors.
+5. **Build Self-Knowledge** - document your limits, skills, recurring mistakes, and emotional triggers so you can avoid bad matches and improve decision-making.
+6. **Create Safeguards Against Weaknesses** - implement prevention, automatic rules, added friction, checklists, or perspective shifts to block impulsive or harmful actions.
+7. **Define Problems Clearly Before Solving** - for each issue, write (a) the goal you want and (b) the obstacles standing in the way, and avoid jumping straight to solutions.
+8. **Explore Solutions Systematically** - run pre-mortems, apply second-level thinking (“and then what?”), avoid binary choices, and consider opportunity costs for each option.
+9. **Document Decisions and Run Post‑Mortems** - record the logic and information behind decisions, then review outcomes to learn whether success was skill or luck and update your process.
+10. **Use Margin of Safety and Small Tests** - for important or irreversible choices, run small experiments, set trip-wires to reevaluate, and delay action when helpful (e.g., “sleep on it”).
 
 ### 🔍Critique
 
@@ -54,11 +79,11 @@ The parts of building strength and managing weaknesses is rather short, which is
 ### 🗨️Review
 
 💭 *my opinions on the book, the writers style...*
-The fourth part which makes more than half the book is a brief iteration of [Decisive (book)](/books/decisive-book.md), so unfortunately it doesn't add much to my existing knowledge, nor does it displays it better, often rephrasing the same recommendations to match his array of models.
+The fourth part which makes more than half the book is a brief iteration of Decisive (book), so unfortunately it doesn't add much to my existing knowledge, nor does it displays it better, often rephrasing the same recommendations to match his array of models.
 
 ### 🖼️Outline
 
-![Clear Thinking (book).webp](/books/clear-thinking-book.webp)
+![Clear Thinking (book)](/books/clear-thinking-book.webp)
 
 ## 📒 Notes
 
@@ -77,7 +102,7 @@ The fourth part which makes more than half the book is a brief iteration of [Dec
 
 Life is a result of countless small moments, rather than few big decisions. Even getting the partner of your dreams is worthless if you don't treat them well on the day to day.
 
-To have better results in life, you need to be aware of [Positioning](/notes/compounding.md), it is to take control of your situation [agency](/notes/agency.md) and create a situation that is beneficial to you. Those who have good positioning are also more likely to enjoy good [luck](/notes/luck.md) since they are more likely to seize opportunities and have the requirements for reaching them, while those who lack positioning are either blind to opportunities, or lack the ability to use them, and usually would suffer rather than benefit from luck. It's like being the worker who helps others and is always focused on the job, it's no surprise that they will be more likely to get promoted, or get support from co-workers when the situation is dire.
+To have better results in life, you need to be aware of Positioning, it is to take control of your situation agency and create a situation that is beneficial to you. Those who have good positioning are also more likely to enjoy good luck since they are more likely to seize opportunities and have the requirements for reaching them, while those who lack positioning are either blind to opportunities, or lack the ability to use them, and usually would suffer rather than benefit from luck. It's like being the worker who helps others and is always focused on the job, it's no surprise that they will be more likely to get promoted, or get support from co-workers when the situation is dire.
 
 **Clear thinking will create good positioning, which will help you reach good results in life**.
 
@@ -97,7 +122,7 @@ To have better results in life, you need to be aware of [Positioning](/notes/com
 
 We often fail to notice that we have the freedom of response, we stick with our default behavior, which is more often than not destructive. We waste so much time correcting the damages we have caused by our defaults than trying to stop them in the first place.
 
-First step to clear thinking is identifying those [Defaults](/notes/defaults.md). They stem from our [System 1](/notes/system-1.md) brain, those mental shortcuts that create a response without conscious thinking.
+First step to clear thinking is identifying those Defaults. They stem from our System 1 brain, those mental shortcuts that create a response without conscious thinking.
 The default behavior is often triggered when:
 1. **Emotional** - we react strongly to emotional cues rather than logic
 2. **Ego** - anything that threatens our self worth, our social status
@@ -116,7 +141,7 @@ The default behavior is often triggered when:
 
 #### The Emotion Default
 
-**In highly emotional states, not only that we make mistakes that in hindsight are obvious, we even don't recognize in the moment that those situations required clear thinking at all**. Usually these are moments of [Regret](/notes/regret.md), saying or doing things that we shouldn't have because we lost all control [Emotional hijacking](/notes/emotional-hijacking.md)
+**In highly emotional states, not only that we make mistakes that in hindsight are obvious, we even don't recognize in the moment that those situations required clear thinking at all**. Usually these are moments of Regret, saying or doing things that we shouldn't have because we lost all control Emotional hijacking
 
 :::note[The Emotion Default]
 
@@ -127,7 +152,7 @@ The default behavior is often triggered when:
 
 #### The Ego Default
 
-**Our ego helps us feel right rather than be right**, and it drives us towards [over confidence](/notes/over-confidence.md) and a sense of a [Just World Bias](/notes/just-world-bias.md), we feel immune to bad luck while being sure that we see the world clearly. This is a classic problem of [Image vs core](/notes/form-vs-essence.md), we prefer to protect our image rather than doing what's necessary to improve ourselves. We focus on social status rather than skills, information and capabilities.
+**Our ego helps us feel right rather than be right**, and it drives us towards Over confidence and a sense of a Just World Bias, we feel immune to bad luck while being sure that we see the world clearly. This is a classic problem of Image vs core, we prefer to protect our image rather than doing what's necessary to improve ourselves. We focus on social status rather than skills, information and capabilities.
 
 :::note[The Ego Default]
 
@@ -139,9 +164,9 @@ The default behavior is often triggered when:
 
 #### The Social Default
 
-Our biology drives us to [Conform](/notes/social-environment.md) with the group because back then it was the only way to survive. Both out of fear, and the desire to belong, we tried to be a part of the group. This entailed "outsourcing" our thoughts to the group, letting them control us.
+Our biology drives us to Conform with the group because back then it was the only way to survive. Both out of fear, and the desire to belong, we tried to be a part of the group. This entailed "outsourcing" our thoughts to the group, letting them control us.
 
-Nowadays however, it is essential to be different from the group to survive. **If we do the same as everyone else, we would get the same results, so our only way to stand out is to work harder/longer**. Conformism [weakens](/notes/crowding-out.md) [creativity](/notes/innovation.md). To be different means to think differently, to be confident enough to take risks and knowing that this is the only way to surpass the mediocrity of the group.
+Nowadays however, it is essential to be different from the group to survive. **If we do the same as everyone else, we would get the same results, so our only way to stand out is to work harder/longer**. Conformism weakens creativity. To be different means to think differently, to be confident enough to take risks and knowing that this is the only way to surpass the mediocrity of the group.
 
 :::note[The Social Default]
 
@@ -154,11 +179,11 @@ Nowadays however, it is essential to be different from the group to survive. **I
 
 #### The Inertia Default
 
-[Inertia](/notes/momentum.md) is a strong force of [Status-quo bias](/notes/status-quo-bias.md), be prefer consistency of improvement. We fear of risks, of change, and the longer we go the same path, the harder it is to change course (path dependence)
+Inertia is a strong force of Status-quo bias, be prefer consistency of improvement. We fear of risks, of change, and the longer we go the same path, the harder it is to change course (path dependence)
 
 #### Default to Clarity
 
-While we can't remove our defaults, we can reprogram them using [Environmental design](/notes/nudge.md). **The best way is to surround yourself with people who exhibit good defaults**. That way, you don't have to count on your [limited willpower](/notes/willpower-is-limited.md) or self discipline, but rather use the defaults for your advantage
+While we can't remove our defaults, we can reprogram them using Environmental design. **The best way is to surround yourself with people who exhibit good defaults**. That way, you don't have to count on your limited willpower or self discipline, but rather use the defaults for your advantage
 
 :::note[Default to Clarity]
 
@@ -179,11 +204,11 @@ For that, we will need:
 
 #### Self Accountability
 
-**To be [accountable](/notes/accountability.md) means taking [Responsibility](/notes/responsibility.md) for your actions and the results under your watch. It means that responsibility isn't the same as control**. You could have done your best, or things outside your control messing everything up, it doesn't matter. As the person accountable, you have to ask yourself what can you do to improve the situation, to advance towards a solution, to have a better position tomorrow . **What matters is not whether you were dealt a bad hand, but rather what do you choose to do about it**, especially when the circumstances are not in your favor. Complaining gets you nowhere, action does.
+**To be accountable means taking Responsibility for your actions and the results under your watch. It means that responsibility isn't the same as control**. You could have done your best, or things outside your control messing everything up, it doesn't matter. As the person accountable, you have to ask yourself what can you do to improve the situation, to advance towards a solution, to have a better position tomorrow . **What matters is not whether you were dealt a bad hand, but rather what do you choose to do about it**, especially when the circumstances are not in your favor. Complaining gets you nowhere, action does.
 
-Many things are [beyond](/notes/acceptance.md) our control, spending any minute or focus on them, even if it's just complaining, is a waste of energy that could have gone towards what we are in control of - our reactions and actions.
+Many things are beyond our control, spending any minute or focus on them, even if it's just complaining, is a waste of energy that could have gone towards what we are in control of - our reactions and actions.
 
-When people are not accountable, they become the victim of circumstances, they exhibit [Helplessness](/notes/helplessness.md), blaming everyone but themselves, a sort of [Self Bias](/notes/self-bias.md). But the truth is that **nobody cares about your excuses, only your results**. Those who become a victim, are often staying a victim, focusing their energy and focus on all the wrong places, on complaining about external circumstances rather than action. On seeing obstacles as an opportunity for growth.
+When people are not accountable, they become the victim of circumstances, they exhibit Helplessness, blaming everyone but themselves, a sort of Self Bias. But the truth is that **nobody cares about your excuses, only your results**. Those who become a victim, are often staying a victim, focusing their energy and focus on all the wrong places, on complaining about external circumstances rather than action. On seeing obstacles as an opportunity for growth.
 
 :::note[Self-Accountability]
 
@@ -200,11 +225,11 @@ When people are not accountable, they become the victim of circumstances, they e
 
 #### Self Knowledge
 
-Self knowledge is to know everything about yourself, the limits of your knowledge, the quality of your skills, your behavior and your triggers, your strengths and weaknesses. Without self knowledge you will likely lose because you will be forced to participate in bad matches [Matching](/notes/matching.md)
+Self knowledge is to know everything about yourself, the limits of your knowledge, the quality of your skills, your behavior and your triggers, your strengths and weaknesses. Without self knowledge you will likely lose because you will be forced to participate in bad matches Matching
 
 #### Self Control
 
-Self control is the ability to [distance](/notes/cognitive-distancing.md) yourself from your emotional state, to pause, reason, and act accordingly.
+Self control is the ability to distance yourself from your emotional state, to pause, reason, and act accordingly.
 
 :::note[Self-Control]
 
@@ -216,11 +241,11 @@ Self control is the ability to [distance](/notes/cognitive-distancing.md) yourse
 
 #### Self Confidence
 
-Self confidence is the combination between having [Humility](/notes/humility.md) and a sense of [Self Worth](/notes/self-worth.md). It's to know and believe that you are valuable, or have something that you can contribute to others. **Without humility, we will become over confident, and without self worth, we will result to [Self Criticism](/notes/self-criticism.md).**
+Self confidence is the combination between having Humility and a sense of Self Worth. It's to know and believe that you are valuable, or have something that you can contribute to others. **Without humility, we will become over confident, and without self worth, we will result to Self Criticism.**
 
-It's important to promote healthy [self talk](/notes/self-talk.md), one that acknowledges the progress we've made, and our readiness for new challenges.
+It's important to promote healthy self talk, one that acknowledges the progress we've made, and our readiness for new challenges.
 
-It's also about [Standing up for yourself](/notes/standing-up-for-yourself.md) and go against conformism if you believe they are wrong, but still open for feedback and evidence. You have to be capable of changing your mind and admitting that you're wrong. **It's a sign of strength, to prefer outcome over ego**.
+It's also about Standing up for yourself and go against conformism if you believe they are wrong, but still open for feedback and evidence. You have to be capable of changing your mind and admitting that you're wrong. **It's a sign of strength, to prefer outcome over ego**.
 
 :::note[Self-Confidence]
 
@@ -245,9 +270,9 @@ It's also about [Standing up for yourself](/notes/standing-up-for-yourself.md) a
 
 #### Exemplars and Practice
 
-To raise the bar, you need good [Role Models](/notes/role-models.md), they don't have to be someone around you, or even alive for that matter. Dead or fictional characters are good just the same if they have a message to teach. A good role model is one that has spent his time learning so that you don't have to. You can learn a lifetime of knowledge in a few hours. With technology so easily available, we can consume information from our role models directly, hearing them in podcasts or reading their books.
+To raise the bar, you need good Role Models, they don't have to be someone around you, or even alive for that matter. Dead or fictional characters are good just the same if they have a message to teach. A good role model is one that has spent his time learning so that you don't have to. You can learn a lifetime of knowledge in a few hours. With technology so easily available, we can consume information from our role models directly, hearing them in podcasts or reading their books.
 
-Once you have role models, ask yourself "what would they do in this situation", have mental [Simulations](/notes/simulations.md) of tough moments or decision points in life and practice their teaching. You're not trying to surpass them, but rather yourself of yesterday.
+Once you have role models, ask yourself "what would they do in this situation", have mental Simulations of tough moments or decision points in life and practice their teaching. You're not trying to surpass them, but rather yourself of yesterday.
 
 :::note[Exemplars + Practice]
 
@@ -308,7 +333,7 @@ The way we should handle mistakes is by:
 
 #### Defining the Problem
 
-When we are facing a problem, the first thing we need to do is to define it. To ask ourselves what is our goal, and which obstacles we face. More often than not, we fail to address the true problem, focusing too much on symptoms or short term solutions rather than the root cause, which would lead to a long term solution. Focusing too much on "extingushing flames" rather than fires, is a strategy that leads us in a [Negative cycle](/notes/negative-cycle.md), always staying in the same place solving "today's crisis" rather than preventing it beforehand.
+When we are facing a problem, the first thing we need to do is to define it. To ask ourselves what is our goal, and which obstacles we face. More often than not, we fail to address the true problem, focusing too much on symptoms or short term solutions rather than the root cause, which would lead to a long term solution. Focusing too much on "extingushing flames" rather than fires, is a strategy that leads us in a Negative cycle, always staying in the same place solving "today's crisis" rather than preventing it beforehand.
 
 One way to make sure we address the right problem is to not switch too quickly to "solver" mode. To not assume that the problem is obvious. Surround yourself with people of different views, and ask each one "what do you know about the problem that other's don't"?
 
@@ -323,10 +348,10 @@ One way to make sure we address the right problem is to not switch too quickly t
 #### Exploring Possible Solutions
 
 To make sure we find all the relevant possible solutions, we can:
-1. **preform [Pre-Mortem](/notes/pre-mortem.md)** - think about how we can fail, and what can we do about it to prevent it
+1. **preform Pre-Mortem** - think about how we can fail, and what can we do about it to prevent it
 2. **second level thinking** - for each option, we ask ourselves "we choose this and then what", we think about the potential consequences, and which additional information we need to make sure we get the positive consequences without the bad ones
-3. **avoid [Binary Thinking](/notes/binary-thinking.md)** - in most cases the choice is more complex than a 2 option solution, an "either/or". We can search for other combinations of solutions, or a win-win situation (also called integrative thinking of "both-and"). Imagine that both options are not available, what will you do? or try to come up with a third, even if it is ridiculous. [multitrack](/notes/multitrack.md)
-4. [Oppertunity cost](/notes/alternative-cost.md) - think about what you are missing by choosing each option, and try to avoide being drawn by sunk cost.
+3. **avoid Binary Thinking** - in most cases the choice is more complex than a 2 option solution, an "either/or". We can search for other combinations of solutions, or a win-win situation (also called integrative thinking of "both-and"). Imagine that both options are not available, what will you do? or try to come up with a third, even if it is ridiculous. multitrack
+4. Oppertunity cost - think about what you are missing by choosing each option, and try to avoide being drawn by sunk cost.
 
 :::note[Explore Possible Solutions]
 
@@ -339,9 +364,9 @@ To make sure we find all the relevant possible solutions, we can:
 
 To evaluate the options, we need criteria, and they have to be both simple and related to the desired goal. Even between your criteria, you need to prioritize, decide which is the most important so that you could break ties.
 
-To measure the criteria, you need good information. As obvious as it's sound, it's not always clear in implementation. Remember [GIGO](/notes/garbage-in-garbage-out.md). Sources can be biased, especially if we are not going to the raw data but rather rely on summaries and highlights that by definition are processed through someone else's perspective on what's important.
+To measure the criteria, you need good information. As obvious as it's sound, it's not always clear in implementation. Remember GIGO. Sources can be biased, especially if we are not going to the raw data but rather rely on summaries and highlights that by definition are processed through someone else's perspective on what's important.
 
-The best option is to find someone who solved this or a similar problem [Imitation](/notes/imitation.md). In general, the less levels of abstraction of information you have from the problem itself (the more relevant the information) the better. Like the difference between navigating a place and looking at a map of it.
+The best option is to find someone who solved this or a similar problem Imitation. In general, the less levels of abstraction of information you have from the problem itself (the more relevant the information) the better. Like the difference between navigating a place and looking at a map of it.
 
 #### Do it
 
@@ -349,7 +374,7 @@ Now that you know which option is better, it's time to act on it. We sometimes f
 
 It's important to understand both the magnitude of the decision - i.e how large of an affect it will have on your life, for example buying a new chair or having a baby. Second it's important to understand how reversible it is - you can always sell the chair and buy a new one, although there's no going back with having kids.
 
-The more unimportant and reversible the decision, the better it is to "test and adjust", i.e make quick decision and adjust ourselves on the fly, and to slow down and gather information on the opposite cases (important and irreversible). Just be careful not to be too overwhelmed with information, because it will be hard to [filter](/notes/filtering.md) out the [Noise](/notes/noise.md)
+The more unimportant and reversible the decision, the better it is to "test and adjust", i.e make quick decision and adjust ourselves on the fly, and to slow down and gather information on the opposite cases (important and irreversible). Just be careful not to be too overwhelmed with information, because it will be hard to filter out the Noise
 
 :::note[Do it!]
 
@@ -361,17 +386,17 @@ The more unimportant and reversible the decision, the better it is to "test and 
 
 #### Margin of Safety
 
-Since [Prediction](/notes/prediction.md) is very hard, and we tend to be loss averse, it's better to have a margin of safety. To be prepared for the worst case scenario such that we don't end up ruined. Diversifying your stock portfolio is one example. **While it will feel sub optimal or redundant when everything is good, it will be valuable if/when things go wrong, and they always do**.
+Since Prediction is very hard, and we tend to be loss averse, it's better to have a margin of safety. To be prepared for the worst case scenario such that we don't end up ruined. Diversifying your stock portfolio is one example. **While it will feel sub optimal or redundant when everything is good, it will be valuable if/when things go wrong, and they always do**.
 
-One way of creating a margin of safety is to [Pivot](/notes/pivot.md), to make small experiments before diving head first to gather more information and live the consequences of that decision. Like shadowing a doctor for a day before committing to years of medical school. Another is to give yourself pause between deciding and acting. For example to decide to do something, yet start it the next day, i.e "to sleep on it" and see how it feels.
+One way of creating a margin of safety is to Pivot, to make small experiments before diving head first to gather more information and live the consequences of that decision. Like shadowing a doctor for a day before committing to years of medical school. Another is to give yourself pause between deciding and acting. For example to decide to do something, yet start it the next day, i.e "to sleep on it" and see how it feels.
 
-Set up [trip wires](/notes/decision-points.md) so that you will know when you have to stop and reevaluate before the costs become too high, because it's easier to plan for disaster beforehand when you're not drawn by the allure of "just one more try" that could be destructive, like a gambler trying to win back his debt.
+Set up trip wires so that you will know when you have to stop and reevaluate before the costs become too high, because it's easier to plan for disaster beforehand when you're not drawn by the allure of "just one more try" that could be destructive, like a gambler trying to win back his debt.
 
 #### Learning from Your Decisions
 
-**We have to learn from our mistakes not only because they usually hold valuable lessons, but also because they can help us understand which of our successes are the result of luck, which happens more than we think**. Since luck has such a huge effect on our results, we should focus on the process that has lead to our decision, rather than it's consequence [post-mortem](/notes/post-mortem.md).
+**We have to learn from our mistakes not only because they usually hold valuable lessons, but also because they can help us understand which of our successes are the result of luck, which happens more than we think**. Since luck has such a huge effect on our results, we should focus on the process that has lead to our decision, rather than it's consequence Post-mortem.
 
-To be able to review the process, we have to document what was the logic behind our thinking and which information was available at that time because otherwise we might retroactively fail due to the [Curse of Knowledge](/notes/curse-of-knowledge.md), believing we had thought differently [Unbiased brainstorming](/notes/unbiased-brainstorming.md). Documenting our thoughts can also expose our gaps of knowledge [Feynman Technique](/notes/feynman-technique.md) and help others to understand us better, either to give us feedback or to learn from us. It creates [Transparency](/notes/transparency.md) for the decision making process.
+To be able to review the process, we have to document what was the logic behind our thinking and which information was available at that time because otherwise we might retroactively fail due to the Curse of Knowledge, believing we had thought differently Unbiased brainstorming. Documenting our thoughts can also expose our gaps of knowledge Feynman Technique and help others to understand us better, either to give us feedback or to learn from us. It creates Transparency for the decision making process.
 
 :::note[Learn from Your Decisions]
 
@@ -384,7 +409,7 @@ To be able to review the process, we have to document what was the logic behind 
 
 #### Dickens's Hidden Lesson
 
-Good decisions is not only to know how to get what you want, but also to know what you should want. Many believe the "happy-when" hypothesis [Future disillusionment](/notes/future-disillusionment.md), that we'll be happy when we get a car, a promotion, a partner... only to find out that we are happy just the same, or not at all for that matter. We chase a dream only to find another dream to chase once we reach it, not even enjoying where we are now, just the stress of where we want to be. This is the curse of the [Hedonic Treadmill](/notes/hedonic-treadmill.md). **Being happy is knowing what is truly good for you, to learn to enjoy the moment, and [say no](/notes/saying-no.md) more than saying yes**.
+Good decisions is not only to know how to get what you want, but also to know what you should want. Many believe the "happy-when" hypothesis Future disillusionment, that we'll be happy when we get a car, a promotion, a partner... only to find out that we are happy just the same, or not at all for that matter. We chase a dream only to find another dream to chase once we reach it, not even enjoying where we are now, just the stress of where we want to be. This is the curse of the Hedonic Treadmill. **Being happy is knowing what is truly good for you, to learn to enjoy the moment, and say no more than saying yes**.
 
 :::note[Dickens’s Hidden Lesson]
 
@@ -403,7 +428,7 @@ Based on the opinions of elderly, what matters is:
 4. work in a job you love
 5. choose your partner carefully
 
-wealth, career and all those status symbols are not important. [Happiness is an internal state](/notes/happiness-is-an-internal-state.md), a leap of faith into [Optimism](/notes/optimism.md). To be immune to external events.
+wealth, career and all those status symbols are not important. Happiness is an internal state, a leap of faith into Optimism. To be immune to external events.
 
 :::note[The Happiness Experts]
 
