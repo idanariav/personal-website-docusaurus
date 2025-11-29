@@ -11,12 +11,9 @@ const notesSourceFolders = [
   path.resolve(__dirname, '../../Obsidian_Vault/Sources/Books')
 ];
 const imageSourceFolder = path.resolve(__dirname, '../../Obsidian_Vault/Extras/Media/visuals');
-const secondsInHours = 60 * 60
-const hoursInDay = 24
 
 const destinationFolder = 'docs';
 const imageDestinationFolder = 'static';
-const days = 7;
 
 // Utility: get all Markdown files recursively
 async function getMarkdownFiles(dir) {
@@ -115,8 +112,6 @@ async function findAndCopyPublishedFiles() {
         const destFile = path.join(fullDestFolder, normalizedName);
         await fse.copy(filePath, destFile);
         console.log(`Replaced with newer file: ${filePath} -> ${destFile}`);
-      } else {
-        console.log(`Skipping ${filePath} - existing file is up to date`);
       }
     }
   }

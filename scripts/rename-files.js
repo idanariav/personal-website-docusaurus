@@ -9,6 +9,7 @@ const folderPaths = [
     'static/books',
     'static/notes',
     'static/posts',
+    'static/blogs',
     'blog'
 ];
 
