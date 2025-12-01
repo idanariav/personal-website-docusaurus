@@ -140,6 +140,11 @@ const config = {
             position: 'left'
           }, 
           {
+            to: '/sketches',
+            label: 'Visuals',
+            position: 'left',
+          },
+          {
             to: '/docs/welcome',
             label: 'Knowledge Vault',
             position: 'left',
