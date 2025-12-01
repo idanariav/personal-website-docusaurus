@@ -157,9 +157,20 @@ async function copyMissingImages() {
 
     const destImagePath = path.join(destFolder, renamedFilename);
 
+    // Get file stats
+    const sourceStats = await fse.stat(imagePath);
+    
     if (!fs.existsSync(destImagePath)) {
+      // File doesn't exist, copy it
       await fse.copy(imagePath, destImagePath);
       console.log(`Copied image: ${imagePath} -> ${destImagePath}`);
+    } else {
+      // File exists, compare modification times
+      const destStats = await fse.stat(destImagePath);
+      if (sourceStats.mtime > destStats.mtime) {
+        await fse.copy(imagePath, destImagePath);
+        console.log(`Updated image: ${imagePath} -> ${destImagePath}`);
+      }
     }
   }
 }
