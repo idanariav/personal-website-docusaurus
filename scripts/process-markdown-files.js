@@ -14,12 +14,34 @@ const notesFrontmatterConfig = {
   retag: false};
 
 function processObsidianLinks(line, cache) {
+  // Check if line contains image embeds ![[...]]
+  const obsidianImageEmbedPattern = /!\[\[(.+?)\]\]/g;
+  if (obsidianImageEmbedPattern.test(line)) {
+    return processObsidianImageLinks(line, cache);
+  }
+
+  // Otherwise, process as markdown links
+  return processObsidianMarkdownLinks(line, cache);
+}
+
+function processObsidianImageLinks(line, cache) {
+  // Pattern for embedded images: ![[...]]
+  const obsidianImageEmbedPattern = /!\[\[(.+?)\]\]/g;
+  
+  line = line.replace(obsidianImageEmbedPattern, (match, fileName) => {
+    return convertObsidianImageToMarkdown(match, fileName, null, null, true, cache);
+  });
+  
+  return line;
+}
+
+function processObsidianMarkdownLinks(line, cache) {
   // Replace (word:: [[obsidian link]]) with [[obsidian link]]
   line = line.replace(DataviewLinkPattern, (match, fileName) => {
     return `[[${fileName}]]`;
   });
 
-  // Replace [[obsidian link|alias]] or [[obsidian link]] with a converted link
+  // Replace [[obsidian link|alias]] or [[obsidian link]] with a converted markdown link
   line = line.replace(obsidianLinkPattern, (match, fileName, _aliasPart, alias) => {
     return convertObsidianImageToMarkdown(match, fileName, _aliasPart, alias, false, cache);
   });
@@ -36,9 +58,6 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
   const admonitionType = "note"; // default type
   let admonitionTitle = '';
   let admonitionContent = [];
-
-  // Pattern for embedded images: ![[...]]
-  const obsidianImageEmbedPattern = /!\[\[(.+?)\]\]/g;
 
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i];
@@ -84,12 +103,7 @@ function cleanAndConvertMarkdown(content, cache = new Map()) {
       }
     }
 
-    // First, replace embedded images ![[...]] with markdown image syntax
-    line = line.replace(obsidianImageEmbedPattern, (match, fileName) => {
-      return convertObsidianImageToMarkdown(match, fileName, null, null, true, cache);
-    });
-
-    // Then process regular obsidian links
+    // Process links - either image links or markdown links based on detection
     line = processObsidianLinks(line, cache);
     cleanedLines.push(line);
   }

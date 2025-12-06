@@ -202,34 +202,47 @@ function isIframeLine(line) {
   return /<iframe[\s>]/i.test(line);
 }
 
+function convertObsidianImageEmbed(fileName, alias, cache) {
+  // For image embeds ![[...]], convert to markdown image syntax
+  let cleanedFileName = fileName;
+  const isPNG = fileName.toLowerCase().endsWith('.png');
+  
+  if (isPNG) {
+    // Replace .png with .webp for image files
+    cleanedFileName = fileName.replace(/\.png$/i, '.webp');
+  }
+  
+  if (cleanedFileName.toLowerCase().endsWith('.webp')) {
+    // Use findFilePath to get the correct image path
+    const imagePath = findFilePath(cleanedFileName, cache);
+    const altText = alias || fileName.replace(/\.[^/.]+$/g, '');
+    return `![${altText}](${imagePath})`;
+  }
+  
+  return `![${alias || fileName}](/${fileName})`;
+}
+
+function convertObsidianMarkdownLink(fileName, alias, cache) {
+  // For regular markdown links [[...]], convert to markdown link syntax
+  const linkPath = findFilePath(fileName, cache);
+  const linkText = alias || fileName;
+  return `[${linkText}](${linkPath})`;
+}
+
 function convertObsidianImageToMarkdown(match, fileName, _aliasPart, alias, isImageEmbed, cache) {
   // For image embeds ![[...]], convert to markdown image syntax
   if (isImageEmbed) {
-    // Handle both .png and .webp extensions
-    let cleanedFileName = fileName;
-    const isPNG = fileName.toLowerCase().endsWith('.png');
-    
-    if (isPNG) {
-      // Replace .png with .webp for image files
-      cleanedFileName = fileName.replace(/\.png$/i, '.webp');
-    }
-    
-    if (cleanedFileName.toLowerCase().endsWith('.webp')) {
-      // Use findFilePath to get the correct image path
-      const imagePath = findFilePath(cleanedFileName, cache);
-      const altText = alias || fileName.replace(/\.[^/.]+$/g, '');
-      return `![${altText}](${imagePath})`;
-    }
+    return convertObsidianImageEmbed(fileName, alias, cache);
   }
   
-  // For regular links [[...]], use alias or file name
-  if (fileName.toLowerCase().endsWith('.webp')) {
-    const imagePath = findFilePath(fileName, cache);
-    const linkText = alias || fileName;
-    return `![${linkText}](${imagePath})`;
+  // For regular links [[...]], convert to markdown link syntax
+  if (fileName.toLowerCase().endsWith('.webp') || fileName.toLowerCase().endsWith('.png')) {
+    // If it's an image file referenced as a regular link, treat it as an image embed
+    return convertObsidianImageEmbed(fileName, alias, cache);
   }
   
-  return alias || fileName; // Use alias if present, otherwise use file name
+  // Otherwise, it's a regular markdown link
+  return convertObsidianMarkdownLink(fileName, alias, cache);
 }
 
 module.exports = {
