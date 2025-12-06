@@ -1,6 +1,7 @@
 ---
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+Image: '[[Amor Fati.png]]'
 tags: []
 UUID: 20240106080055
 Created: '2024-01-06 08:00'
@@ -8,6 +9,10 @@ Modified: '2024-01-06 08:00'
 Version: 1
 aliases: null
 excalidraw-open-md: true
+Description: >-
+  A philosophical concept meaning to love one’s fate, encompassing joyful
+  acceptance of all life experiences, both triumphs and sorrows, while embracing
+  discomfort as essential to existence.
 draft: false
 SiteProcssed: true
 ---
@@ -26,7 +31,7 @@ It is to embrace discomfort and transform it into a necessary component of exist
 
 ## Visual
 
-![Amor Fati.webp](/notes/amor-fati.webp)
+![Amor Fati](/notes/amor-fati.webp)
 
 ## Overview
 🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)

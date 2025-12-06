@@ -1,12 +1,18 @@
 ---
 UUID: 20230325084408
 Created: '2023-03-25 08:44'
-Modified: '2024-12-02 07:42'
+Modified: '2025-12-04 11:50'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Burnout.png]]'
+Description: >-
+  A state of chronic physical and emotional exhaustion characterized by
+  diminished motivation and ability to focus, often resulting from overwhelming
+  expectations, lack of boundaries, and a sense of alienation.
 aliases:
   - Exhaustion
 draft: false
@@ -28,11 +34,11 @@ to avoid burnout:
 1. **Lower the commitment** - first of all, we have to drop any expectations of perfection, because [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md). Perfection is an unreasonable standard that is impossible to implement, and that takes away all of our energy which could be spent elsewhere. Another good way to lower the commitment is to [Start Small](/notes/start-small.md).
 2. **Set boundaries** - Have clear [Boundaries](/notes/boundaries.md) with yourself and others to avoid over extending yourself, make sure you have time to ;[Rest](/notes/rest.md) during the day and throughout the week.
 3. **Find meaning** - If your job seems to lack any clear meaning, you can always [craft](/notes/job-crafting.md) one. Find what is meaningful to you in what you do, the narrative that helps connect your job to your values. Another way is to make it [fun](/notes/gamification.md). Find a way to make the task more interesting as it will help you develop motivation to do it.
-4. **Work smarter** - sometimes we experience burnout because it's simply too hard. Finding a [Multiplier](/notes/multiplier.md) that can turn hard work into manageable can reduce much of the effort. 
+4. **Work smarter** - sometimes we experience burnout because it's simply too hard. Finding a [Multiplier](/notes/multiplier.md) that can turn hard work into manageable can reduce much of the effort.
 
 ## Visual
 
-![Burnout.webp](/notes/burnout.webp)
+![Burnout](/notes/burnout.webp)
 
 ## Overview
 🔼Topic:: [Motivation (MOC)](/mocs/motivation-moc.md)

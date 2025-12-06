@@ -1,12 +1,18 @@
 ---
 UUID: 20250226165509
 Created: '2025-02-26 16:55'
-Modified: '2025-03-11 15:17'
+Modified: '2025-12-01 07:35'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Behavioralism.png]]'
+Description: >-
+  A theory proposing that individuals' preferences are best measured by their
+  behavior, assuming actions reflect true preferences while overlooking
+  instances of conflicting intentions or desires.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -24,7 +30,7 @@ The advantages are that it escapes the [Theory of Mind](/notes/theory-of-mind.md
 
 ## Visual
 
-![Behavioralism.webp](/notes/behavioralism.webp)
+![Behavioralism](/notes/behavioralism.webp)
 
 ## Overview
 🔼Topic:: [social science (MOC)](/mocs/social-science-moc.md)

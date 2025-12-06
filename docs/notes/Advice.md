@@ -22,19 +22,19 @@ SiteProcssed: true
 
 ## Notes
 
-Giving and getting advices is a powerful tool for growth and well-being. Not only that we are able to escape our Mental Glasses by receiving advices and being exposed to other perspectives, we are also likely to follow through with our beliefs and aspirations if we say them as advices for others.
+Giving and getting advices is a powerful tool for growth and well-being. Not only that we are able to escape our [Mental Glasses](/notes/subjective-reality.md) by receiving advices and being exposed to other perspectives, we are also likely to follow through with our beliefs and aspirations if we say them as advices for others.
 
-For example, if someone asks me for an advice on how to be more healthy, if I recommend him to do more physical activity, I will also be more likely to do more workouts myself. This is because we want to maintain Cognitive Alignment between what we say and what we do. Therefore advices, although meant to help someone else, are a form of Peer support for ourselves as well.
+For example, if someone asks me for an advice on how to be more healthy, if I recommend him to do more physical activity, I will also be more likely to do more workouts myself. This is because we want to maintain [Cognitive Alignment](/notes/cognitive-alignment.md) between what we say and what we do. Therefore advices, although meant to help someone else, are a form of [Peer support](/notes/peer-support.md) for ourselves as well.
 
-Good advices are ones that are filled with Mindsight, that we give the advice they need, and not the one we want to give. Often good advice requires Honesty, to say what needs to be said even if it is unpleasant.
+Good advices are ones that are filled with [Mindsight](/notes/mindsight.md), that we give the advice they need, and not the one we want to give. Often good advice requires [Honesty](/notes/honesty.md), to say what needs to be said even if it is unpleasant.
 
-However, one must be careful as to how they give advice, because advices can also hurt our Confidence if it sounds forceful, mandatory, or belittling. Advice should come from a place of Validation, of connecting with how they feel and who they are, instead of trying to cancel them.
+However, one must be careful as to how they give advice, because advices can also hurt our [Confidence](/notes/self-worth.md) if it sounds forceful, mandatory, or belittling. Advice should come from a place of [Validation](/notes/validation.md), of connecting with how they feel and who they are, instead of trying to [cancel](/notes/gaslighting.md) them.
 
 ## Visual
 
 ![Advice](/notes/advice.webp)
 
 ## Overview
-⬆️Topic:: Behavioral Psychology (MOC)
+⬆️Topic:: [Behavioral Psychology (MOC)](/mocs/behavioral-psychology-moc.md)
 ↩️Origin::
 🔗Link::

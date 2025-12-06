@@ -1,12 +1,18 @@
 ---
 UUID: 20231224062856
 Created: '2023-12-24 06:28'
-Modified: '2024-06-23 07:41'
+Modified: '2025-12-01 07:55'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1
+Version: 2
+Image: '[[Blank Space.png]]'
+Description: >-
+  A concept emphasizing the necessity of empty space in organization, allowing
+  for usability and flexibility in storage, time, and mental processing, rather
+  than mere aesthetic order.
 aliases:
   - Empty Space
 draft: false
@@ -17,7 +23,7 @@ SiteProcssed: true
 
 ## Notes
 
-When we try to organize spaces, whether in our office, our life or our minds [Environmental design](/notes/nudge.md), we often confuse our desire for order for order's sake, instead of usability [form vs essence](/notes/form-vs-essence.md).
+When we try to organize spaces, whether in our office, our life or our minds [Environmental design](/notes/nudge.md), we often confuse our desire for order for order's sake, instead of usability [Form vs essence](/notes/form-vs-essence.md).
 
 A common example is "Tetris" vs "Tool wall"
 Tetris:
@@ -33,12 +39,11 @@ Therefore **storage spaces must have an empty space**, this free space is essent
 
 In Japanese, this is known as "[Yohaku no bi](/notes/yohaku-no-bi.md)" -the beauty of empty space.
 
-This is true also to time and energy. When planning your day, it's important to include [Buffers](/notes/reserves.md) because an air-tight schedule won't leave room for changes if necessary, or energy to be effective during those times. 
-
+This is true also to time and energy. When planning your day, it's important to include [Buffers](/notes/reserves.md) because an air-tight schedule won't leave room for changes if necessary, or energy to be effective during those times.
 
 ## Visual
 
-![Blank Space.webp](/notes/blank-space.webp)
+![Blank Space](/notes/blank-space.webp)
 
 ## Overview
 🔼Topic:: [Resource management (MOC)](/mocs/resource-management-moc.md)

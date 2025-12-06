@@ -1,13 +1,19 @@
 ---
 UUID: 20221014113558
 Created: '2022-10-14 11:35'
-Modified: '2024-07-03 05:41'
+Modified: '2025-12-05 09:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1
-aliases: null
+Version: 2
+Image: '[[Caching.png]]'
+Description: >-
+  The practice of storing information readily accessible to enhance efficiency
+  and speed in retrieval, emphasizing proximity, hierarchy, and relevance in
+  organization.
+aliases: []
 draft: false
 SiteProcssed: true
 ---
@@ -25,7 +31,7 @@ the basic logic says:
 
 ## Visual
 
-![Caching.webp](/notes/caching.webp)
+![Caching](/notes/caching.webp)
 
 ## Overview
 🔼Topic:: [Systematical Thinking](/notes/systematical-thinking.md)

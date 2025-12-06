@@ -1,12 +1,18 @@
 ---
 UUID: 20231230204446
 Created: '2023-12-30 20:44'
-Modified: '2025-01-03 07:39'
+Modified: '2025-11-29 16:08'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Availability Bias.png]]'
+Description: >-
+  A cognitive bias where individuals perceive events as more probable based on
+  their recent recall, often skewing their judgment of actual likelihood due to
+  memory salience.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -26,7 +32,7 @@ The availability bias can also limit our [creative thinking](/notes/innovation.m
 
 ## Visual
 
-![Availability Bias.webp](/notes/availability-bias.webp)
+![Availability Bias](/notes/availability-bias.webp)
 
 ## Overview
 🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)

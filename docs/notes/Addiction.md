@@ -5,10 +5,16 @@ Modified: '2025-09-03 08:32'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
+Image: '[[Addiction.png]]'
 excalidraw-open-md: true
-Version: 1.01
+Version: 1
 aliases:
   - Obsession
+Description: >-
+  A debilitating condition characterized by a loss of self-control and
+  objectivity, resulting in a compulsive dependence on substances or behaviors,
+  often initiated by emotional crises.
 draft: false
 SiteProcssed: true
 ---
@@ -27,10 +33,9 @@ Addiction is hard to undo. Usually it requires a form of a [Clean Slate](/notes/
 
 ## Visual
 
-![Addiction.webp](/notes/addiction.webp)
+![Addiction](/notes/addiction.webp)
 
 ## Overview
 ⬆️Topic:: [Behavioral Psychology (MOC)](/mocs/behavioral-psychology-moc.md)
 ↩️Origin::
 🔗Link::
-

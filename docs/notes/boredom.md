@@ -1,12 +1,18 @@
 ---
 UUID: 20230929062918
 Created: '2023-09-29 06:29'
-Modified: '2025-02-15 09:08'
+Modified: '2025-12-02 08:32'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Boredom.png]]'
+Description: >-
+  A state of feeling under-stimulated characterized by emotional exhaustion and
+  detachment, often signaling a lack of intrinsic motivation and focus, yet
+  serving as a reminder to seek more fulfilling pursuits.
 aliases:
   - Boreout
 draft: false
@@ -34,11 +40,10 @@ Depending on why something is boring, we can find ways to mitigate it. For examp
 
 ## Visual
 
-![Boredom.webp](/notes/boredom.webp)
+![Boredom](/notes/boredom.webp)
 
 ## Overview
 🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
 Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)
 Origin:: [Pursuit of Wonder](/notes/pursuit-of-wonder.md)
 Link:: https://www.youtube.com/watch?v=gc7wKr0XkN8
-

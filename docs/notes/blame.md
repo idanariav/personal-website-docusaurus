@@ -1,12 +1,18 @@
 ---
 UUID: 20250207145200
 Created: '2025-02-07 14:52'
-Modified: '2025-03-10 08:00'
+Modified: '2025-12-01 07:44'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Blame.png]]'
+Description: >-
+  A psychological response indicating an inability to accept personal
+  limitations, leading to a focus on others' faults instead of proactive
+  solutions and personal growth.
 aliases:
   - fault
 draft: false
@@ -17,7 +23,7 @@ SiteProcssed: true
 
 ## Notes
 
-when we blame others, it's a sign that we fail to [accept](/notes/acceptance.md) that we can't control others, that we can only control ourselves. We operate with certain rules in places, binding others without their knowledge [sense seeking creatures](/notes/sense-seeking-creatures.md).
+when we blame others, it's a sign that we fail to [accept](/notes/acceptance.md) that we can't control others, that we can only control ourselves. We operate with certain rules in places, binding others without their knowledge [Sense seeking creatures](/notes/sense-seeking-creatures.md).
 
 We feel as if we [own](/notes/attachment.md) something, like we deserve certain outcomes, or behaviors, so shift our [Expectations](/notes/expectations.md) accordingly as if they would happen for certain, which leads to [Disappointment](/notes/disappointment.md) when reality is different than we wanted it to be. We treat as if the world revolves [ourselves](/notes/self-bias.md), not even thinking about the possibility of others having different viewpoints, ideas or values.
 
@@ -29,7 +35,7 @@ Blame focuses on the past, we want to focus on the future instead. What can we d
 
 ## Visual
 
-![Blame.webp](/notes/blame.webp)
+![Blame](/notes/blame.webp)
 
 ## Overview
 🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
