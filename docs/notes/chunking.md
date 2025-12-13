@@ -1,12 +1,18 @@
 ---
 UUID: 20230708065032
 Created: '2023-07-08 06:50'
-Modified: '2025-01-15 07:49'
+Modified: '2025-12-07 06:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Chunking.png]]'
+Description: >-
+  A learning method that simplifies complex topics by breaking them into smaller
+  components for individual understanding, ultimately enhancing clarity and
+  mastery while potentially overlooking emergent properties.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -32,7 +38,7 @@ The disadvantage with chunking is that it's hard to learn or sense [emergent](/n
 
 ## Visual
 
-![Chunking.webp](/notes/chunking.webp)
+![Chunking](/notes/chunking.webp)
 
 ## Overview
 🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)

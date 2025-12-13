@@ -1,12 +1,18 @@
 ---
 UUID: 20231113161919
 Created: '2023-11-13 16:19'
-Modified: '2025-01-09 06:30'
+Modified: '2025-12-10 07:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Cognitive Alignment.png]]'
+Description: >-
+  A psychological phenomenon where individuals unconsciously adjust their
+  beliefs to align with their mental and physical states, affecting their
+  identity and sense of agency.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -26,10 +32,9 @@ Instead of thinking of us as bad people, it would be more helpful to think that 
 
 ## Visual
 
-![Cognitive Alignment.webp](/notes/cognitive-alignment.webp)
+![Cognitive Alignment](/notes/cognitive-alignment.webp)
 
 ## Overview
 🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
 Origin::
 🔗Link::
-

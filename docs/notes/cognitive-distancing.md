@@ -1,12 +1,18 @@
 ---
 UUID: 20230325084810
 Created: '2023-03-25 08:48'
-Modified: '2024-12-05 06:51'
+Modified: '2025-12-11 19:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Cognitive Distancing.png]]'
+Description: >-
+  A mental strategy that separates one's identity from actions, promoting
+  clarity and objectivity by recognizing that external observations do not
+  define the entirety of one's self.
 aliases:
   - What we do is not who we are
   - We are not defined by our actions
@@ -18,7 +24,7 @@ SiteProcssed: true
 
 ## Notes
 
-**Cognitive distancing is when we try to separate between the external and our inner environment**, and it is based on the assumption that in every moment we are more than just one thing [Binary Thinking](/notes/binary-thinking.md) [one-dimensional being](/notes/one-dimensional-being.md), that an external observer can't grasp our entirety just by looking at our actions, so why should we think that our actions are the only criteria for defining ourselves? [Signaling](/notes/signaling.md)
+**Cognitive distancing is when we try to separate between the external and our inner environment**, and it is based on the assumption that in every moment we are more than just one thing [Binary Thinking](/notes/binary-thinking.md) [One-dimensional being](/notes/one-dimensional-being.md), that an external observer can't grasp our entirety just by looking at our actions, so why should we think that our actions are the only criteria for defining ourselves? [Signaling](/notes/signaling.md)
 
 Usually this is a tool used to bring [Clarity](/notes/clarity.md) and [Objectivism](/notes/objectivism.md) to our [Subjective Reality](/notes/subjective-reality.md), and reduce the influence of [External Influence](/notes/external-influence.md). Cognitive distancing helps us put a wedge between what we are experiencing and our inner world, to [Zoom out](/notes/zoom-out.md) and see things more clearly.
 
@@ -28,10 +34,9 @@ In contrast, constantly seeking for [Cognitive Alignment](/notes/cognitive-align
 
 ## Visual
 
-![Cognitive Distancing.webp](/notes/cognitive-distancing.webp)
+![Cognitive Distancing](/notes/cognitive-distancing.webp)
 
 ## Overview
 🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
 ◀Origin::
 🔗Link::
-

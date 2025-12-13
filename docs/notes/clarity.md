@@ -1,12 +1,18 @@
 ---
 UUID: 20230412072511
 Created: '2023-04-12 07:25'
-Modified: '2024-11-17 07:04'
+Modified: '2025-12-08 07:57'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Clarity.png]]'
+Description: >-
+  The quality of being clear and comprehensible, often achieved through naming,
+  explicitness, perspective, and simplification, facilitating understanding of
+  thoughts, beliefs, and values.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -18,7 +24,7 @@ SiteProcssed: true
 
 Clarity can sometimes be synonymous with [Simplicity](/notes/simplicity.md), but that is not necessarily the case. A very complex idea can be clear if presented in the right way.
 Clarity could be considered as the opposite of [Ambiguity](/notes/ambiguity.md). When our [inner world](/notes/self-awareness.md) has clarity, that means that we are aware of our ideas, thoughts, beliefs and core values.
-In essence, clarity is usually what we search for in our lives, because without clarity there can be no meaning, progress or knowledge [free will is knowledge](/notes/free-will-is-knowledge.md).
+In essence, clarity is usually what we search for in our lives, because without clarity there can be no meaning, progress or knowledge [Free will is knowledge](/notes/free-will-is-knowledge.md).
 
 To achieve clarity:
 1. **Name it** - Aspects of our lives are much easier to understand once we give the phenomenon a name, for example "I'm experiencing sadness" [Naming](/notes/naming.md)
@@ -28,9 +34,8 @@ To achieve clarity:
 
 ## Visual
 
-![Clarity.webp](/notes/clarity.webp)
+![Clarity](/notes/clarity.webp)
 ## Overview
 🔼Topic:: [PKM (MOC)](/mocs/pkm-moc.md)
 ◀Origin::
 🔗Link::
-

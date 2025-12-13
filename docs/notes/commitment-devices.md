@@ -1,12 +1,18 @@
 ---
 UUID: 20240104130904
 Created: '2024-01-04 13:09'
-Modified: '2024-12-16 07:18'
+Modified: '2025-12-13 09:33'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Commitment Devices.png]]'
+Description: >-
+  Tools designed to help individuals adhere to their aspirations by providing
+  external pressure, thereby enhancing accountability and reducing
+  procrastination and decision fatigue.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -29,10 +35,9 @@ Commitment devices are powerful because they :
 
 ## Visual
 
-![Commitment Devices.webp](/notes/commitment-devices.webp)
+![Commitment Devices](/notes/commitment-devices.webp)
 
 ## Overview
 🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
 ↩️Origin::
 🔗Link::
-
