@@ -1,143 +1,42 @@
 ---
 UUID: 20240106080813
-Created: 2024-01-06 08:08
-Modified: 2025-12-19 19:23
-tags:
-  - Type/Note
-  - Source/Wiki
+Created: '2024-01-06 08:08'
+Modified: '2025-12-19 19:23'
+tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-publish: true
 Version: 2
-Image: "[[Competitive Advantage.png]]"
-Description: A strategic edge gained by identifying and leveraging one's best skills, allowing for effective outcomes despite not being the best in the world, requiring self-awareness and ongoing optimization.
+Image: '[[Competitive Advantage.png]]'
+Description: >-
+  A strategic edge gained by identifying and leveraging one's best skills,
+  allowing for effective outcomes despite not being the best in the world,
+  requiring self-awareness and ongoing optimization.
 aliases: []
+draft: false
+SiteProcssed: true
 ---
 
 # Competitive Advantage
 
 ## Notes
 
-Competitive Advantage is finding the thing you are best at (Supported:: [[Mastery]]). That doesn't mean you have to be the best in the world in, but rather this is the most effective outcome you can make.
+Competitive Advantage is finding the thing you are best at [Mastery](/notes/mastery.md). That doesn't mean you have to be the best in the world in, but rather this is the most effective outcome you can make.
 
 For example, if someone is either able to produce 5 oranges or 5 apples, and you are capable of producing 2 oranges or 1 apple, then clearly you should stick with oranges, even though someone else is still better than you in both categories.
-In real life, it is tough to know what you competitive advantage is, it requires (Jump:: [[Self-awareness]]) of your skills and capabilities, and also to measure the quality of your work, which can be difficult due to both (Jump:: [[Over confidence]]) and (Jump:: [[Imposter Syndrome]]). Similarly, since we are focusing on what counts as an advantage compared to others, we can't escape making (Jump:: [[Comparisons]]), although we should focus on using these to gain information what to do next, rather than to discourage our progress.
+In real life, it is tough to know what you competitive advantage is, it requires [Self-awareness](/notes/self-awareness.md) of your skills and capabilities, and also to measure the quality of your work, which can be difficult due to both [Over confidence](/notes/over-confidence.md) and [Imposter Syndrome](/notes/imposter-syndrome.md). Similarly, since we are focusing on what counts as an advantage compared to others, we can't escape making [Comparisons](/notes/comparisons.md), although we should focus on using these to gain information what to do next, rather than to discourage our progress.
 
-Often, your competitive advantage is the result of your (Supported:: [[Skill synthesis]]), the unique combination of skills and perspective that only you (and perhaps few others) can provide. A competitive advantage can either be a result of a (Jump:: [[Specialization]]) in a specific field, or pursuing a (Jump:: [[Breath beats depth|Range]]) of different fields and combine their domain knowledge together.
+Often, your competitive advantage is the result of your [Skill synthesis](/notes/skill-synthesis.md), the unique combination of skills and perspective that only you (and perhaps few others) can provide. A competitive advantage can either be a result of a [Specialization](/notes/specialization.md) in a specific field, or pursuing a [Range](/notes/breath-beats-depth.md) of different fields and combine their domain knowledge together.
 
-Usually, a competitive advantage doesn't last forever, we have to keep honing it. To continue to (Supported:: [[Optimization|optimize]]) and (Supported:: [[Deliberate Practice|practice]]) it constantly to maintain our advantage. If we stay in place, we would fall behind.
+Usually, a competitive advantage doesn't last forever, we have to keep honing it. To continue to [optimize](/notes/optimization.md) and [practice](/notes/deliberate-practice.md) it constantly to maintain our advantage. If we stay in place, we would fall behind.
 
 ## Visual
 
-![[Competitive Advantage.png]]
-
-## Connections
-
-```dataviewjs
-const queryPath = "Extras/Queries/connections_query.js"
-const queryContent = await dv.io.load(queryPath)
-dv.executeJs(queryContent);
-```
+![Competitive Advantage](/notes/competitive-advantage.webp)
 
 ## Overview
-🔼Topic:: [[Economics (MOC)]]
+🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
 ↩️Origin::
 🔗Link::
 
-%%
-# Excalidraw Data
-
-## Text Elements
-Competitive Advantage ^QWPH1eil
-
-Apples ^Wc1OQHB4
-
-Oranges ^AheK0LFv
-
-John ^s0EcS7IZ
-
-Adam ^3zTyG8Wz
-
-Best at ^XwAZxTuc
-
-Best at ^Wa7IR4oP
-
-What you do best (compared to yourself, not others) ^Au7RjAS3
-
-Oranges ^C3a0sjN8
-
-Apples ^Q6LntciN
-
-## Drawing
-```compressed-json
-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
-```
-%%

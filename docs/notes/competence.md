@@ -1,135 +1,39 @@
 ---
 UUID: 20240322072800
-Created: 2024-03-22 07:28
-Modified: 2025-12-17 08:21
-tags:
-  - Type/Note
-  - Source/Book
+Created: '2024-03-22 07:28'
+Modified: '2025-12-17 08:21'
+tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-publish: true
 Version: 2
-Image: "[[Competence.png]]"
-Description: The acquired ability to perform effectively in a skill or task, often developed through practice, attitude, and intrinsic motivation, rather than innate talent.
+Image: '[[Competence.png]]'
+Description: >-
+  The acquired ability to perform effectively in a skill or task, often
+  developed through practice, attitude, and intrinsic motivation, rather than
+  innate talent.
 aliases:
   - Talent
+draft: false
+SiteProcssed: true
 ---
 
 # Competence
 
 ## Notes
 
-Where does talent come from? are we born with it? Recent research suggests otherwise. What appears to us as natural talent is "just" a matter of practice and attitude. In this case, the (Aka:: [[Nature vs nurture]]) debate is settled on the "nurture" side. Often those who appear as genius are a result of a long process of (Supported:: [[Deliberate Practice]]) which has started in a young age, with the combination of (Supported:: [[Intrinsic Motivation]]).
+Where does talent come from? are we born with it? Recent research suggests otherwise. What appears to us as natural talent is "just" a matter of practice and attitude. In this case, the [Nature vs nurture](/notes/nature-vs-nurture.md) debate is settled on the "nurture" side. Often those who appear as genius are a result of a long process of [Deliberate Practice](/notes/deliberate-practice.md) which has started in a young age, with the combination of [Intrinsic Motivation](/notes/intrinsic-motivation.md).
 
-This is good news because it means that many skills are "suddenly" approachable, and it gives justification for (Related:: [[Growth Mindset]]), as long as we are able to dedicate time and have (Related:: [[Grit]]) for pursuing (Jump:: [[Mastery]]) in this field.
+This is good news because it means that many skills are "suddenly" approachable, and it gives justification for [Growth Mindset](/notes/growth-mindset.md), as long as we are able to dedicate time and have [Grit](/notes/grit.md) for pursuing [Mastery](/notes/mastery.md) in this field.
 
-Being competent, regardless of it's source, provides (Supports:: [[self worth|Confidence]]) in oneself. Yet having "too much" of it, especially in early ages where the gap is more visible can lead to (Jump:: [[Over confidence]]). Also we have to remember that competence can be perceived as a type of (Related:: [[Competitive Advantage]]), which means we have to work hard just to stay in the same relative position compared to others (Aka:: [[Red queen syndrome]])
+Being competent, regardless of it's source, provides [Confidence](/notes/self-worth.md) in oneself. Yet having "too much" of it, especially in early ages where the gap is more visible can lead to [Over confidence](/notes/over-confidence.md). Also we have to remember that competence can be perceived as a type of [Competitive Advantage](/notes/competitive-advantage.md), which means we have to work hard just to stay in the same relative position compared to others [Red queen syndrome](/notes/red-queen-syndrome.md)
 
 ## Visual
 
-![[Competence.png]]
-
-## Connections
-
-```dataviewjs
-const queryPath = "Extras/Queries/connections_query.js"
-const queryContent = await dv.io.load(queryPath)
-dv.executeJs(queryContent);
-```
+![Competence](/notes/competence.webp)
 
 ## Overview
-🔼Topic:: [[Mastery]]
+🔼Topic:: [Mastery](/notes/mastery.md)
 ↩️Origin::
 🔗Link::
-
-%%
-# Excalidraw Data
-
-## Text Elements
-Competence ^ifWV4934
-
-WHERE WE THINK IT COMES FROM ^XInQtZrL
-
-WHERE IT ACTUALLY COMES FROM ^WGwf1gjz
-
-Talent can only get you so far
-True progress takes hard, consistent effort ^I77Ae0w3
-
-## Embedded Files
-e436e2241fd70ff6278dec39db7fc70230373327: [[Obstacle (framework)]]
-
-8498cb03fee6c34210af84a78589c260268eb7ed: [[DNA (framework)]]
-
-## Drawing
-```compressed-json
-N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBGAFYEmjoghH0EDihmbgBtcDBQMBKIEm4IAGkjAEEoI1JlOABFSoB2AFEATgAVDgBJDgAtADN+gDFUkshYRArA7CiOZWCp
-
-0sxuZwAWRK3tADZEngAGY639gGYLrq2Ltv3+UphNnh49w/22ngv4/YAOY77V4XR6QCgkdTcP5tLraRIXE7XLZbP7w/ZdUFSBCEZTSbhHY7aH7I+6/aEwviFSDWFbiVDHTHMKCkNgAawQAGE2Pg2KQKgBiC63XBbY5rSCaXDYVnKFlCDjELk8vkSfkjHjq9XiiAjQj4fAAZVgqwkgg82qZLPZAHUIZJuFtGcy2QgjTATegzeVMXLcRxwrk0PFMWw4
-
-FK1M8g6dMbLhHB+sRA6g8gBdTEjciZBPcDhCfWYwgKrAVIbPH3CBX+5hJ4rTaDwOkXKkAX0ZCAQxChW2+3bemMYLHYXDQl2DVIYTFYnAAcpwxNx9qc/lsutdKXXCMwACLpKAd7gjAhhTGaCvEDrBTLZJOpzFCODEXB7ztB+6JLpHRLHN7xEHjogcKyOZ5vgmI8tK+5oIe+BhIUraFLWMwNhUe6YFA2oDlOw6oL+iT9pOQ6zhw85Bn8qLvm0OwPOO
-
-hbEMWEi4GKBbbrukGoNBx40S+6CECM1oAGorkK2q6vqboelIUoaIEFrOjadrcGOdaWi64l0hAXqduWfiSFWSZKaUobhrAinRuONIegy44bGgzjxDw8REmc0IfGRFyXH+daRqgdltMk3ZJKuqLxPEZx+U6VqctyvICqccVMeOkrSrG8qKtFKroMy1jMGGgTZNq4LEJCpHJHc9lJH8iL2Xh46SNiuLoWg3YJBcfxAgC+w7F09xtmxDmjm19kxnK8aJ
-
-vkabjhmuBZtxub5uOcqVgGwHzXWp6pReGRZDk413g+T5sfEb4fm8fzxF0nVgYWQFoHNoH/mwEHcRxCDppwUAGoQRiNhc2htKFXTfjsvxtACfxvdk4zTXq3kGTMWCNegXL6Ige7EUgPqUD0CMVMjqNZPOmKoVANREMo2EQMEIzofhpBQOYBCkziFNQKG2p6NkuCFkw2a3SBIakDihYENjaG4wY+Po9quBCKzABK4RfXSzJCK9/7cwAEvVeJBtoPCJ
-
-HBjyIfWcwSMTGEEZwindbTWFESROGA0uyIXQWRY2eguDxNqm47sEz4HkeasbtxEAABqDM0UBDKQAAyIl6oaxrqZIUkiBj44qfJRX2kGEWqcnFSadqvq6ctefjkZ2ARqZVl1hZdJ1+smxbEdcIojw3V/F0F3wok1FeZsoWOcirerj3DmJF8bT5+ySoxaq8WnNqSUyotaXKih5AcDluB5TT46FcVqAXIkfx6+dZ1nUkPaOrV2uI/rvXcafPDtX5A+l
-
-Clo03hNdZTTNFa906zrz0kAk8Z5NpXh2mgW8457yPgDq+Q4H4joUniHfOsAEbqoDumBR67JnpBwhh9JW3ATgkKhvoGGikiY4wkNaDWHQ5YdFQNaVhPQNb9GnJUVA/QeioA5AAeQALIdANKgcYctRElyxvQ9AjDmGsPYagTh3DeH8MEaI8RkjpEiO1MTJm5MKhUwPnWAc9N3BGJZmzTEHMojc1ILzXB/NK6C38CLeREBFEsLYRwrhPC+ECOEWIiRU
-
-iZGYhlvLRW31uAq2DqUACCAtY4h1jhPWBsSjwRKMbWY6lza2yHOQ38hSZxzjpB+eEopQaYNKLReinseA+xYv7NiL0Cyh2tAAcQoCMeIygABWRgE5iULhIVO2BpIZ2UnJBAtoc60MzrMtSRduTegWsIP05ccIhjDNXEyUYm7UmWJZTEHtWpwnOrcLoZEjo3DuJibydlATaDIj3IUp8KL7HRLPKKm9F5LxXlKNeZ554ZWgNvXe+8CoKTQO5Qk1zlw3
-
-L7kkT+kA6qpMfjVZS7ZuInBCokeyNyjkQG/gmX+6ZMwIGcXgjZqUwF81WqUdaCooHbQpfA/aSCcLHSODwP4Fxji/CuoBcBD0nqBxggkyAIx3qfViWgChk13pUJoRXOs5sGFMN8ZomoHIegAFUaix1jgATS0aE3RESFpyLFlqpRQTUB6sNcas1FqdHhP0XQtC1iTEIGphbOmDN8C+rNrY8c9iub+icbNVxdZeRCw4J4u1CjtWsN1fqo1JrzUhI9Xo
-
-6Wss2AK1YAq1A8SRXJIfopDJhsELjjySY7mgasILhJZhQi5TFKCowUdb4646nuwqLgA1zS/YIG5e0riFQeC4AQJUEYIjSBhwAI48C6bgAA+poTQlQagwCEXLXI6ZE4rPGWnGSvz5nH37QIZZYz0DEDYDIfc2ktnVkWfGvZNdDmRJOY3M5mwETaFXG0NoxxVw7Hcqgx5mx3zaG7JVUDVxuzgbOL8sFsVAUnmBSlBUGGzaQtyttGFCy4VEiuHcUUPY
-
-7jYtKBihq5CTgHG+R8FcrdRRAmftwHuq5jiCsXMNOM5LdqTSpTSuNpRQHbMQkhU2vAWwQI2pedlIm6wIIOtxI6KC+Url/Deym10xVYIIW04hSy95QAAEK0ULMoIzpQsjEGswqWz9nID4FCFAZG1Dn3EAAApsELIjWlMyLM1FICyCgdVcCxqZZARz4XIvRdi8A0ocBAvXnyFSMABRpglCOfl7Lf9pi5by79CjlHvwfPCtlsArxCQsdYzcDBgIeBFa
-
-pMVyA6X8AwGUFbKCQda05PrchM2ONSnYX5eDcc7aylSxHCcbq6Iho0UHQxfio7WJEKlR0io/RQM1AQMcCgFwRlJ3dCnc90zShZzmbC3gvzT0PqfQHV9Zd33qsMl+g5OEzL1z/dwElHtnDfHPkkBE3ctiUWhEK6bg8gw3KJJ3fuU2PxtCFPp27+H0D8iXglNaOH17Y4hdlIj+VMRH1zqgZEv0Qofk+NCAGNHMT0bSV+LjTUe5gd+EcQT95hOwM6zq
-
-MTKXtJLQ+y4uLEAWXnmU5lwXe1EGHV5a8Ny3yRU4JC4kkz23OL/zlWQxVJLZWQ2hj1j9pRNXoB6AQbaqA8AcFQJwHrqBlDjtQDAYQqBBDsT3gAHQ4D0UgqtUBwBZLKAMZbcDsmYKgVOpBiDUHt5wVgTI7f+tlXTWRFBRaIwgDb4I2R7fWCdxwF3buoAe69z7w8pAA9B5D2HtgEfqxR5j3Hveifk8703GjSvGfeRmMtwjUN6AxDZCYIGyxjMyY2Lg
-
-Ozd6Uaeai7cYm5NeeC924d6X8v7vPdCG92wX3dfA/B4QKH8PgRW9RHb/HrvHNU999QAPrPkTC3FsN2Ws/FaUkMd1vrIbIoKdCQAAKUkGOE0EIHiC3C0hGzkzKH0GiGu0gA9kXASFREXB5x+BuF7hg1si+AOApA/GOCnncmXAp3u35X2G0GOH+jOhILIlRHeRZyrUVVuD1nA3Oi6FB1OFal/VpEB3Q3Si3lJz3mI2w2SiJ2EII1EOhWPVGQuwqAmS
-
-mVkkiivSpzhg0jvUUNNDWVgJAU2Xe30l2WMlhj+0kzPAZUl1SwEFxShARE+Am3IWuAm3tjpF+E+G4J/DRQgHU25S03fCOCh1Q3019i20lT1y/hGgF2TCFxlzZXl1iI1zc0ph1wiOlWF2mmpRX3/j1GyIqAQFuH2AQFeFbhGGIDAxGBGCBFBjomwGuGIE0DaBGGwDA2+D43RwRDaAtHcDpFKxKDhjAHiA6zsRZHn0ZRsLKDW3QE0GOA2ydCfCECTA
-
-gEQBc2WAgEAONnKAkCEU0B6EsxAK3DDg3TNS2BylZHjEqANU0D8z8wMVG3QAWCWAEIAyDDg37mREW0CKRVqUgG8iuHgyuCOG+TAx2GOGhF+IgEp2cL1kqn+C/Chx7kZxYMxXxEckFUSHhDfjOiuGhH0wbkEKWUimJyyh3jJyHwlEJ1BWkJx3iAQDpLpLOyew0j0NUJdHUPIUe3vRZPNDeysJJSrm/V+xJTJTGlgWyx1DgBgDDks2OGnA3S6A4D+G
-
-nH0GtEszgGOA5EgPQhGNEyyPEyl3qQ9mlzmK6RLksOkwlIbThQU0zjsKajA3BMRH01m2wgBlcM7UVQ8m/HsjhzqRaXHVMx20SkgTlxgSSM5SV0015UFSFSFD9Pc0MwmPwQlQGylU2OAPQCMBEUSA3UqCEC6RGFji6ANCGGOCECEFZDIHdG9iJgeIwH1EIDkGQIgA9gqgOD4wujIm/ExK/BnnHG8mSEXB2Cnjamnl7n02hMVX8h+H5R4FJFPgQ301
-
-ZyxT+i6l/E6j4zOnnNo2OQELQBJSxxpJJzJLEPJ0SipNSmJ35AZPpJbNEnOwkmLkvUoK5J0M9FZL5O2QFO+zMJFOiLFOTAlJGClJlLlIVKVJVLVI1K1LUA2OmCFwAXyOTNWzomNNmP4nmLpXFxrCtIeLa2mGyRu3tJwncnhB7ORCcKjB8NdLcNMhRBhHiEqkhLCNaV1wyPiLDI5TUy5WV201jN/BRGSJQuM1TN93TKySNkzIgH6FkqgH0B6C6S6E
-
-EHoFwGnE3WtBEUQP6FrLgPUiSW1DbMoiJE6l0y6F/DOnfATIgG8jOj1k7mR2uCOnOnRwoNIxPkcmIM6nMruHBPR00JXO4FPgODnNPkBDOE7kovMgBwPKEP+UykIzPIpOl0vLw2PJvLvMZPkMfPUmfKJPZNfPyvZGZLyoMJ0n5JMP2T/L5x/iyzy0lOlNlPlMVOVNVPVM1O1PgpKEQpFxSKNIqAwvwHNPpUtPqutPk0Io5xwhXH2COg40hNdPIWhA
-
-9Pm2mq/FmoFV5xogDInTMzWlDK2kSLgR4qjMUhjNOEEusuwRSPAkIXSMxHSyCxvGy36Py1BEKzy06xy1qxCmYyFB2H+lalBk8jy2SCOjakBmHMxM6jIiK3eteqGLaBoNBleF+FanBJJHeqGOoOXDeGRzfgRCFT4zhpetq31hoO/BhAxvAxRoTJKDfhakJW/BciXCBC2BJrywRp+GA3Wt018uhB+CxteASBuVKKFX+mJV2A5pKzJqRu6nOCoO+VRA
-
-xP7LyzAFhBQxuQBHnMGiFH2GlpKARreASB3O+DRBptPlVry0JBBm3OuABHRxqW+ANu+rVqRtOAclamuTCmJF3JKGcA1tXD0yYs+PBN+BdoRoKzAGOHawQrAk828zUGfACyCxSKZAs2c0cHWJEocwVEztcxztvTCwizYCixCByNzuIES1LuSxSO61636y/1VgzJDgqGIC3AoCMCEVIAuGXTYB6HfGYDDkkGbzaGwH2H0Mt3rIMteJwjQLIk6n1kqn
-
-5VCl3JsqhEciOD03ciYu7jIrcuvXPiXqFBhHcgRFbinhRL/2pxHi7hIJuG/G+RcOiv3PpDioXgStkPEIvMkOpPiogAytvKZO5NKpu1mQ5MVTfKfM/LpTfSTB/NMNrhqpiNeoarAuasgrapgs6t1P/l6sLqmLQoGuOGtGGpwu4BkxNjpAIskrtMOiRJ+CBiotQDPk0Nos9MdnOEXtBOYjHV2uDP2qU0OvDOOtKD8L4sCIEvjOEusJTLurTMiK6wyx
-
-EdJrVqjpjs+vhtq1hD8nxW+BCmqhRqxt/D+njN2BhtHGRAjp+riChx+EozAwFXuH5SFsckBqFB7nREYM9usbVqY0nlanhCuFA20yxqFD+huFAwFUBi/EqV8by35QyQFURLPp/EvrJvPjPkBChyYr7XR0qniemG+BoO7nfEFVeFA3aLRQGN+j43Ay/ExO7k+Ch31s0dUby1+CJDakJT7V+HnKFSxr2GqVoNJBhySFoMKZKGSEojNs8IREiYRCxucG
-
-oLA3Kb8hXA/mXEmejqxo0YQtwcSQToMB82TuUbTqiDpnzuztkfHEcyubswIfTrpmrrLpixSISxLteYrqUZ6z62wniRbrqVDmcFZGOFIACzDmVLqH2EID1Q6hAMs1NXuPgJnusjOthA+Wib1rfnuB8P+PeDRsBkFXJEqmsqnJPj2GxPBrOB2GCNRCvrSSYoSDJCsqnl7n+H4NOSKr+Q/pPKhW/oJ1/qvPStvKysmhPRAZgZmTUMKulYLnfJ5PWTKr
-
-gcJM/UQZ/XHFFOevqpAsavApaqgvatgp1Ljr1MAQIf6okFmIEjIeICsMofGpobACItsLYkxNAzigBGYeuDXvYdWoBnMf5Vdm2r4aDMUelwOugW4rEd4ujP4ouukfVlFQIdurDYyMeqOvaemHUe2d+rPiBH6YhPhC+BvX9sJGuE3N3tCksdRW2aYz7L41ahCluAFWqbAGcH8hOG+HRC7MJRpzrZxtFBILuEoiQyEtq2cHPmuUBsuBuQBqdbAC+q5s
-
-pf+GpeRF2Ecb9vbaRu7mJRLaq1HbaG2e5pXG4IVurYJBqzVucEJHR0uG7AulOD8kon7jreme4Lig3P+i3K3d+i+GHd+HFrIluCPbac5p+thH1mBowMXDaIxFq0yaXBhC/AFqbdA9NfA7VvPjOjY3nPxWuG4K3dhE+H+nPevh7jPm2YRWXvRDCuXE2vhCxvPgulBlIO4PhRClaYw5lrUd2dju6vjqZETt8xTvykeYuasxs2ua13izzqk4eZudC2ec
-
-+droIY+aS3Lrru5Abv+bP0BcgG2PQFZGwDDm2DaCgGXUIANESGIGUGHS6UqGaDwGaGRf0qbVnruQyU8P7hpvR0BDwJPj/fBKZp89XDuHg7rHJfOj+lBjPboIhweXvlRKDFsdxcXBuU6nfBIPxJirfu5ZJMSrkJ/pBWFf/sAbvOAYVdAdvRlfcsx20Ogd5NgaMNVa+3VeFOQcAtQd1fQYgtaugo6rgoOZlXwcU4HSIateODDltftbwrkydZdY0hIr
-
-oLalnLbUtjdIFRWodkCg/FuRWw3B2rTcU1ZS4tUxjdOuQUkYTfHawSTLG/czSIUfTeUe1Z4+tr47A/e+mEg7REBi7conA3IInbiG4MqeBouiBCSHZq+8Np+qRvfF431gYMtpuCWdCmAxRHRGHfA2+VbnQ4E6zYGJ0di7eHi/5US+vbiEBExLeCFDJEW2dth9do6cckuAciFRRHMsvhIOMbhHnO6jOExJXAJqluZ4RsclW5OE6k+BBP+F55+v55hF
-
-BOF+4MuDF/2e4/cyOf0BOY7FE+CwkyLsufk/ebk7WIU5k60OLo07ebU4VBedU4e5WO07+fSP07KFDlNRAOED+FlEIFc4qEIEQLd0MsAwwXg1CiiZRGppBr+M2FBgpsBBuWbfuC+Dj6hMoLOHsvvcRCWzIitvRVYN4E6hoJ4znMXAJsp9KAJNivy+PNJP5fPMFZK7Sv/sb/JMq4kmUPTjZOzmPk0NuxKqlYsPKu2U0MFJ+1ChJSkwlyt7CHobfhoo
-
-29Ml9Y27oqanzdbcukjI0zOu0yXq4Yz9YsDPYs6+jYlEjZUwVyTc1yN9SLEsnTwf1O+Z1DyOcQgCRT+GwFmIuBGHbH2D1EAoxwXACMGXC4BWO3cbAG/Efp/AEATRF9JnF6J1VpggxYYlrwgDYAxifVaYiaRbLp0oASxCoKsSzp2Y4I4AP+BAFwBwA4ARoA6BQ0KDQA6omQRtAxkeAMBCACACgJZlSobxeWaoKooILWCYCRA+8foHuH0BGhiSDfQr
-
-gK0gDYBRB20cQRkB4FCs2+/A0VtdhEERYlBEg8YBKyq4j9tBYgiQVIIKp1d2BCgnQdkGUGSCGuuVIwVYJMEZA5YhhCqowKcG6CMgQiX8kgw8GKCbBeglVGblhiWCAhUAWweMANylolUpQTwYEIyC55R8mA7aJPjCHWCIhpgiTo700451jBXg/QB0Ad4qdchnsT5sIPiGZCMgLzHoPWXXgVDwhkQqlK4I9Ba4NIWA7kPgGm4OkkayvLLlQUvhXB2B
-
-zADofqCRZwp5yGSVuJ8EXKktakEAIwGwAMAMDzEBAVWNWjDqURAC+QhIfoFcEjUJcEAeoewP97EB5U1DJuKSkFhnC9w4xFhicOuEiI2AdEIobgE0DBAz+jA04djmNiWZuQocRoJKAAAUDkGeLwCOhJ5QRSeQkIkAACU2oBWMoDzB7x5gygYEe0UhGCpMRDIekHCHhHbC9AyoPzLbmfQrDLcoYPzOYFZC4V6q6QaBKoNb7cQEaADQQfsBGD456quO
-
-QECxnFClB+QYgbAMQGwDYBeRkAfkKAPMqgxRRADGXm/G9gu0GywjMweyBQFrQPM0oaUfyD8jvhW4mo2UbNU1GnBGs0ojvklS6rdUWwBI8IcqIQA+D6YKeezJkUyAKwiwgsa5sbCyBvCPhcSb/BGiIB3Dy044JNCwLQCBj40ssAyqGN9F1hECpAdkKQHUohim6GRWMfGNeHvC2IALWhoZE0ADIEAiwZgAaCTRwAnhLwpNBmM+E19FghARgD0CWFDU
-
-0AuSesmEGCDVirYdiJYqzAUoPEreqbSsaUAzAGADQ6QNsdhCf6HMmQNQasbWPrFAJyBzrfgG/2CA1hmwIAZsEAA=
-```
-%%
