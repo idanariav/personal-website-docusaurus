@@ -41,11 +41,13 @@ SiteProcssed: true
 
 # A Good way to Start the Year
 
+Huge annual resolutions often feel like trying to climb a cliff. We overpromise in January and burn out by March. Is there a way to keep the momentum of a fresh start without the inevitable crash? 
+
 ![A good way to start the year (insight)](/blogs/a-good-way-to-start-the-year-insight.webp)
 
 <!-- truncate -->
 
-## Start
+## Goodbye 2025, Hello 2026
 
 2025 is almost over, and with it come high expectations for the new year.
 
