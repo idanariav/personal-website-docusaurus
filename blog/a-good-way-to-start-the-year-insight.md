@@ -39,7 +39,7 @@ date: 2025-12-22T00:00:00.000Z
 SiteProcssed: true
 ---
 
-# A Good way to Start the Year
+# A Good Way to Start the Year
 
 Huge annual resolutions often feel like trying to climb a cliff. We overpromise in January and burn out by March. Is there a way to keep the momentum of a fresh start without the inevitable crash? 
 
