@@ -1,12 +1,18 @@
 ---
 UUID: 20230702161132
 Created: '2023-07-02 16:11'
-Modified: '2024-11-19 07:15'
+Modified: '2025-12-24 07:07'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Context.png]]'
+Description: >-
+  The meaning and interpretation that shape our actions and perceptions,
+  influenced by environmental factors and cultural norms, which can alter
+  behavior in different situations.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -24,14 +30,13 @@ In both cases, you can have the same people act completely differently solely du
 
 Sometimes, we have a common conception on what should be the desired reaction to each context, which is often dictated by our culture. For example, it is perhaps considered polite to hug strangers in Europe, but rude to do so in Asia. People who go against the norms of that context are considered rude or strange. Therefore our [Judgment](/notes/judgment.md) is dependent on the context, however this doesn't mean that all morality is [relative](/notes/relativism.md), rather I believe that the [same](/notes/moral-taste-buds.md) values are different in their [actualization](/notes/contextualism.md) based on context.
 
-It stems from that that knowing the specific context and how it effects us is critical for moral behavior. Without it it is much harder to be a moral person, because the same act can be considered rude or polite [free will is knowledge](/notes/free-will-is-knowledge.md), which forces both our perception and our behavior to be [adaptable](/notes/adaptability.md) to some extent.
+It stems from that that knowing the specific context and how it effects us is critical for moral behavior. Without it it is much harder to be a moral person, because the same act can be considered rude or polite [Free will is knowledge](/notes/free-will-is-knowledge.md), which forces both our perception and our behavior to be [adaptable](/notes/adaptability.md) to some extent.
 
 ## Visual
 
-![Context.webp](/notes/context.webp)
+![Context](/notes/context.webp)
 
 ## Overview
 🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
 ◀Origin::
 🔗Link::
-

@@ -1,12 +1,18 @@
 ---
 UUID: 20220603080120
 Created: '2022-01-01 08:00'
-Modified: '2025-02-22 09:19'
+Modified: '2025-12-21 08:32'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.03
+Version: 4
+Image: '[[compounding.png]]'
+Description: >-
+  The process by which actions yield exponentially greater returns over time,
+  requiring patience and consistency, and contrasting with diminishing returns,
+  applicable in various fields like finance and habit formation.
 aliases:
   - Positioning
 draft: false
@@ -34,11 +40,10 @@ Compounding also helps us avoid [Present Bias](/notes/present-bias.md), because 
 
 ## Visual
 
-![Compounding.webp](/notes/compounding.webp)
+![Compounding](/notes/compounding.webp)
 
 ## Overview
 🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
 Origin:: [Atomic Habits (book)](/books/atomic-habits-book.md)
 Origin:: [Clear Thinking (book)](/books/clear-thinking-book.md)
 🔗Link::
-

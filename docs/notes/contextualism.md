@@ -1,12 +1,18 @@
 ---
 UUID: 20231223071614
 Created: '2023-12-23 07:16'
-Modified: '2025-02-23 13:48'
+Modified: '2025-12-26 06:10'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.02
+Version: 3
+Image: '[[Contextualism.png]]'
+Description: >-
+  A philosophical concept asserting that the truth of a statement is contingent
+  upon both factual attributes of the world and the subjective context of the
+  speaker's perception.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -24,7 +30,7 @@ This solves the skeptical argument. On our day to day basis, it would be benefic
 
 In some sense, it opposes [realism](/notes/realism.md), because we can see that the claim that moral truths exist beyond human perception is difficult to match with the claim that truths are dependent on the context and specifically the speaker.
 
-If contextualism is true, than it supports [virtue theory](/notes/virtue-theory.md) as the main (yet not only) meta ethics that gives importance to the person and the situation they are in, rather than just facts about the situation.
+If contextualism is true, than it supports [Virtue theory](/notes/virtue-theory.md) as the main (yet not only) meta ethics that gives importance to the person and the situation they are in, rather than just facts about the situation.
 
 In some sense, contextualism even if not correct, it is unavoidable, because it is based on our [Subjective Reality](/notes/subjective-reality.md), we all carry different lenses through which we see the world, and that is how we can have multiple versions of "truth" [Post-Modernism](/notes/post-modernism.md).
 
@@ -34,10 +40,9 @@ Is truth devoid of all meaning? If a short person says they are tall, are they c
 
 ## Visual
 
-![contextualism.webp](/notes/contextualism.webp)
+![contextualism](/notes/contextualism.webp)
 
 ## Overview
 🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
 ◀Origin:: [Elucidations](/notes/elucidations.md)
 🔗Link:: [Podcast](https://share.snipd.com/episode/7b307626-a817-420e-8f47-1ee37f53c02c)
-
