@@ -1,12 +1,18 @@
 ---
 UUID: 20250226210726
 Created: '2025-02-26 21:07'
-Modified: '2025-03-16 06:37'
+Modified: '2025-12-30 22:44'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Counterfactual.png]]'
+Description: >-
+  A conceptual framework representing all unreal possibilities and alternative
+  outcomes stemming from decisions not made, facilitating broader evaluation of
+  choices and their consequences.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -28,7 +34,7 @@ For example, although it sounds clear and obvious, the logic behind [Feedback](/
 
 ## Visual
 
-![Counterfactual.webp](/notes/counterfactual.webp)
+![Counterfactual](/notes/counterfactual.webp)
 ## Overview
 🔼Topic::
 ↩️Origin::
