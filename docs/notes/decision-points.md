@@ -1,12 +1,18 @@
 ---
 UUID: 20240512082835
 Created: '2024-05-12 08:28'
-Modified: '2025-04-06 02:48'
+Modified: '2026-01-09 06:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.02
+Version: 3
+Image: '[[Decision points.png]]'
+Description: >-
+  Key moments that compel individuals to pause and reassess their choices,
+  potentially enhancing decision-making by disrupting automatic processes and
+  addressing limited willpower.
 aliases:
   - Trip Wires
 draft: false
@@ -30,7 +36,7 @@ The problem with decision points, as in other cases, that the [threshold](/notes
 
 ## Visual
 
-![Decision points.webp](/notes/decision-points.webp)
+![Decision points](/notes/decision-points.webp)
 
 ## Overview
 🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)

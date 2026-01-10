@@ -1,12 +1,18 @@
 ---
 UUID: 20240522065848
 Created: '2024-05-22 06:58'
-Modified: '2025-03-15 16:07'
+Modified: '2026-01-06 06:34'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Deadline Effect.png]]'
+Description: >-
+  A psychological phenomenon where a deadline acts as a commitment device,
+  reducing procrastination and limiting task duration by imposing consequences
+  for delays.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -20,10 +26,9 @@ A Deadline serves as a [Commitment Devices](/notes/commitment-devices.md), helpi
 
 ## Visual
 
-![Deadline Effect.webp](/notes/deadline-effect.webp)
+![Deadline Effect](/notes/deadline-effect.webp)
 
 ## Overview
 🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
 ↩️Origin::
 🔗Link::
-

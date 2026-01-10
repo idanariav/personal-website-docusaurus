@@ -1,12 +1,18 @@
 ---
 UUID: 20240101081952
 Created: '2024-01-01 08:19'
-Modified: '2024-12-19 01:02'
+Modified: '2026-01-03 17:44'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Crowding Out.png]]'
+Description: >-
+  A phenomenon where an increase in one activity leads to a decrease in another,
+  particularly in economics, often resulting in diminished effectiveness or
+  quality of outcomes.
 aliases:
   - Mutually Exclusive
 draft: false
@@ -34,7 +40,7 @@ What to do instead:
 
 ## Visual
 
-![Crowding Out.webp](/notes/crowding-out.webp)
+![Crowding Out](/notes/crowding-out.webp)
 
 ## Overview
 🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)

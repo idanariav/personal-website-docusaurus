@@ -43,7 +43,7 @@ SiteProcssed: true
 
 We often feel guilty for "wasting time," yet a mind that is constantly productive rarely produces anything new. If creativity cannot be forced on demand, how do we create the right conditions for it to actually show up? Giving yourself permission to do nothing might be the most practical thing you do all week.
 
-![curiosity](/posts/curiosity.webp)
+![curiosity](/notes/curiosity.webp)
 
 <!-- truncate -->
 
