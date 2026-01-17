@@ -1,12 +1,18 @@
 ---
 UUID: 20250428071052
 Created: '2025-04-28 07:10'
-Modified: '2025-07-24 07:15'
+Modified: '2026-01-11 06:33'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Deep Work.png]]'
+Description: >-
+  A concept emphasizing the importance of focused, uninterrupted work sessions
+  to enhance efficiency and productivity, contrasting with multitasking and
+  shallow work influenced by distractions.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -24,9 +30,8 @@ Today, it is more essential than ever to be able to produce quality work, becaus
 
 ## Visual
 
-![Deep Work.webp](/notes/deep-work.webp)
+![Deep Work](/notes/deep-work.webp)
 ## Overview
 🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
 ↩️Origin:: [Deep Work (book)](/books/deep-work-book.md)
 🔗Link::
-

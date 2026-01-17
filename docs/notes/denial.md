@@ -1,12 +1,18 @@
 ---
 UUID: 20250226170310
 Created: '2025-02-26 17:03'
-Modified: '2025-03-11 14:53'
+Modified: '2026-01-15 07:00'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Denial.png]]'
+Description: >-
+  A psychological state where individuals refuse to accept uncomfortable truths,
+  often leading to a distorted perception of reality and resulting in emotional
+  exhaustion and suffering.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -22,10 +28,9 @@ To live in a constant state of denial is the be out of [tune](/notes/resonance.m
 
 ## Visual
 
-![Denial.webp](/notes/denial.webp)
+![Denial](/notes/denial.webp)
 
 ## Overview
 🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
 ↩️Origin::
 🔗Link::
-

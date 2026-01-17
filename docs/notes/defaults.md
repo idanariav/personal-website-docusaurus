@@ -1,12 +1,18 @@
 ---
 UUID: 20231230191213
 Created: '2023-12-30 19:12'
-Modified: '2024-12-14 09:26'
+Modified: '2026-01-12 06:55'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Defaults.png]]'
+Description: >-
+  A decision-making tool that influences individuals to adhere to pre-set
+  options due to factors like lack of awareness, ambivalence, low friction,
+  exhaustion, and emotional instability.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -25,10 +31,9 @@ Defaults are a very powerful tool for decision making, because most often people
 
 Defaults can be good or bad, depending on the default choice. Unfortunately, the [Attention Economy](/notes/attention-economy.md) pushes us towards negative defaults such as doom scrolling. However, we can [design](/notes/nudge.md) an environment with good defaults, for example using [Commitment Devices](/notes/commitment-devices.md) that turns the good behavior into the default one, such as using an automated transfer into savings account every month.
 
-Bad defaults
 ## Visual
 
-![Defaults.webp](/notes/defaults.webp)
+![Defaults](/notes/defaults.webp)
 ## Overview
 🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)
 ↩️Origin::

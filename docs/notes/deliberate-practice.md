@@ -1,12 +1,18 @@
 ---
 UUID: 20230418190330
 Created: '2023-04-18 19:03'
-Modified: '2025-02-13 13:11'
+Modified: '2026-01-13 07:16'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Deliberate Practice.png]]'
+Description: >-
+  A structured approach to skill acquisition that emphasizes challenging tasks,
+  feedback, clear goals, and guidance from a mentor, requiring intrinsic
+  motivation and grit for mastery.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -18,7 +24,7 @@ SiteProcssed: true
 
 Deliberate Practice is the best way to learn, to gain new skills and to [grow](/notes/growth-mindset.md).
 
-Deliberate practice as the name suggests isn't easy, because [learning should be hard](/notes/learning-should-be-hard.md). It is through challenges that we are able to grow [Obstacles as stepping stones](/notes/creative-destruction.md), raw talent [isn't enough](/notes/practice-beats-talent.md). It won't be fun, it will be hard, and it will require [Grit](/notes/grit.md), but this is the only way to achieve [Mastery](/notes/mastery.md). Deciding to do a delibarate practice is not something you do on a whim. Make sure you have sufficient [Intrinsic Motivation](/notes/intrinsic-motivation.md) for it otherwise you will experience [Burnout](/notes/burnout.md) or you will quit.
+Deliberate practice as the name suggests isn't easy, because [Learning should be hard](/notes/learning-should-be-hard.md). It is through challenges that we are able to grow [Obstacles as stepping stones](/notes/creative-destruction.md), raw talent [isn't enough](/notes/practice-beats-talent.md). It won't be fun, it will be hard, and it will require [Grit](/notes/grit.md), but this is the only way to achieve [Mastery](/notes/mastery.md). Deciding to do a delibarate practice is not something you do on a whim. Make sure you have sufficient [Intrinsic Motivation](/notes/intrinsic-motivation.md) for it otherwise you will experience [Burnout](/notes/burnout.md) or you will quit.
 
 common components of deliberate practice:
 1. **Feedback** - without knowing what you did right and wrong it's harder to improve. [Feedback](/notes/feedback.md)
@@ -29,10 +35,9 @@ common components of deliberate practice:
 
 ## Visual
 
-![Deliberate Practice.webp](/notes/deliberate-practice.webp)
+![Deliberate Practice](/notes/deliberate-practice.webp)
 
 ## Overview
 🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
 ◀Origin:: [Peak (book)](/books/peak-book.md)
 🔗Link::
-
