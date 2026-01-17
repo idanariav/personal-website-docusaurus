@@ -155,19 +155,27 @@ async function copyMissingImages() {
     const destFolder = path.join(imageDestinationFolder, parentFolder);
     await fse.ensureDir(destFolder);
 
-    const destImagePath = path.join(destFolder, renamedFilename);
-
-    // Get file stats
+    // Remove extension from renamed filename to allow format-agnostic matching
+    const renamedBasename = path.parse(renamedFilename).name;
     const sourceStats = await fse.stat(imagePath);
+
+    // Check if a file with the same name exists (regardless of extension)
+    const entries = await fse.readdir(destFolder);
+    const existingFile = entries.find(entry => path.parse(entry).name === renamedBasename);
     
-    if (!fs.existsSync(destImagePath)) {
-      // File doesn't exist, copy it
+    if (!existingFile) {
+      // File doesn't exist, copy it with the renamed filename
+      const destImagePath = path.join(destFolder, renamedFilename);
       await fse.copy(imagePath, destImagePath);
       console.log(`Copied image: ${imagePath} -> ${destImagePath}`);
     } else {
       // File exists, compare modification times
-      const destStats = await fse.stat(destImagePath);
+      const existingPath = path.join(destFolder, existingFile);
+      const destStats = await fse.stat(existingPath);
       if (sourceStats.mtime > destStats.mtime) {
+        // Delete old file and copy new one with potentially different format
+        await fse.remove(existingPath);
+        const destImagePath = path.join(destFolder, renamedFilename);
         await fse.copy(imagePath, destImagePath);
         console.log(`Updated image: ${imagePath} -> ${destImagePath}`);
       }
