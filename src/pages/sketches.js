@@ -26,20 +26,20 @@ function SketchGallery() {
   const sketches = [
     {
       id: 1,
-      title: "Journaling: Deeper is Better",
-      image: useBaseUrl('/sketches/journaling---deeper-is-better-sketch.png'),
+      title: "Clarity",
+      image: useBaseUrl('/notes/clarity.webp'),
       link: "/sketches"
     },
     {
       id: 2,
-      title: "Addition by Subtraction",
-      image: useBaseUrl('/notes/addition-by-subtraction.webp'),
+      title: "deontology",
+      image: useBaseUrl('/notes/deontology.webp'),
       link: "/blog"
     },
     {
       id: 3,
-      title: "Allostatis",
-      image: useBaseUrl('/notes/allostasis.webp'),
+      title: "Curiosity",
+      image: useBaseUrl('/notes/curiosity.webp'),
       link: "/docs"
     },
   ];
