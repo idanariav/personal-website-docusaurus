@@ -1,13 +1,21 @@
 ---
 UUID: 20231225065338
 Created: '2023-12-25 06:53'
-Modified: '2025-02-17 06:46'
+Modified: '2026-01-23 14:58'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
-aliases: []
+Version: 2
+Image: '[[Desire.png]]'
+Description: >-
+  A complex psychological state characterized by varying levels, including
+  intrinsic value, utility, and second-order thinking, often leading to
+  complications in achieving happiness and fulfillment.
+aliases:
+  - Wanting
+  - Hedonic happiness
 draft: false
 SiteProcssed: true
 ---
@@ -30,11 +38,10 @@ Therefore desire can be thought of as something that we [want less](/notes/addit
 
 ## Visual
 
-![Desire.webp](/notes/desire.webp)
+![Desire](/notes/desire.webp)
 
 ## Overview
 🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
 🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
 ↩️Origin:: [Elucidations](/notes/elucidations.md)
 🔗Link:: [https://share.snipd.com/episode/84d6576d-4f94-407c-a172-3774cbc9ca47](https://share.snipd.com/episode/84d6576d-4f94-407c-a172-3774cbc9ca47)
-

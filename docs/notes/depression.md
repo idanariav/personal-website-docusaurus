@@ -1,13 +1,20 @@
 ---
 UUID: 20240701071300
 Created: '2024-07-01 07:13'
-Modified: '2025-02-22 09:29'
+Modified: '2026-01-18 07:09'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.02
-aliases: []
+Version: 3
+Image: '[[Depression.png]]'
+Description: >-
+  A mental state characterized by feelings of helplessness, worthlessness, and
+  indifference, often leading to a negative cycle that hinders happiness and
+  purpose in life.
+aliases:
+  - Despair
 draft: false
 SiteProcssed: true
 ---
@@ -24,10 +31,9 @@ What makes depression worse is when we start [comparing](/notes/comparisons.md) 
 
 ## Visual
 
-![Depression.webp](/notes/depression.webp)
+![Depression](/notes/depression.webp)
 
 ## Overview
 🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
 ↩️Origin::
 🔗Link::
-
