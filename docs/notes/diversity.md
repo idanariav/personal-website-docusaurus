@@ -1,12 +1,18 @@
 ---
 UUID: 20230702111531
 Created: '2023-07-02 11:15'
-Modified: '2025-02-08 15:14'
+Modified: '2026-01-28 15:44'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Diversity.png]]'
+Description: >-
+  The concept that individuals possess unique differences in perspectives,
+  knowledge, and behaviors influenced by various factors, necessitating openness
+  and empathy for effective understanding and inclusion.
 aliases:
   - Pluralism
 draft: false
@@ -19,9 +25,9 @@ SiteProcssed: true
 
 Diversity in essence a very simple notion that is perhaps very difficult to implement which is that people are both different, and act differently depending on the [Context](/notes/context.md).
 
-This means that not only that we have a difference in circumstances, i.e people have different knowledge than us, but also that people process same information differently. Whether it is due to education, genes, or environment [nature vs nurture](/notes/nature-vs-nurture.md), people grow up with different perspectives, ideas, skills, etc.
+This means that not only that we have a difference in circumstances, i.e people have different knowledge than us, but also that people process same information differently. Whether it is due to education, genes, or environment [Nature vs nurture](/notes/nature-vs-nurture.md), people grow up with different perspectives, ideas, skills, etc.
 
-Similarly, we can also cultivate openness to diversity by trying to [listen](/notes/active-listening.md) and understand other viewpoints, and continue to always expand our knowledge and gain new skills. However, this is easier said than done. Due to the [Curse of Knowledge](/notes/curse-of-knowledge.md), it is very difficult for us to place ourselves in other's shoe, especially the more different they are from us. Without [familiarity](/notes/familiarity-bias.md), there's no [Empathy](/notes/empathy.md), and without empathy diversity would lead to an [us vs them](/notes/us-vs-them.md) instead of [Inclusion](/notes/inclusion.md).
+Similarly, we can also cultivate openness to diversity by trying to [listen](/notes/active-listening.md) and understand other viewpoints, and continue to always expand our knowledge and gain new skills. However, this is easier said than done. Due to the [Curse of Knowledge](/notes/curse-of-knowledge.md), it is very difficult for us to place ourselves in other's shoe, especially the more different they are from us. Without [familiarity](/notes/familiarity-bias.md), there's no [Empathy](/notes/empathy.md), and without empathy diversity would lead to an [Us vs them](/notes/us-vs-them.md) instead of [Inclusion](/notes/inclusion.md).
 
 Diversity is also often references as an issue of [representation](/notes/representation.md), for example to make sure that a company include members of different sexes, ethnicities and so on, either as a way to solve previous injustice, to have a representation of that community within the company or as a proxy to ensure that we have different points of views.
 
@@ -31,7 +37,7 @@ When it comes to values and philosophy, similar to [Simone de Beauvoir](/notes/s
 
 ## Visual
 
-![Diversity.webp](/notes/diversity.webp)
+![Diversity](/notes/diversity.webp)
 
 ## Overview
 🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)

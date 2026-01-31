@@ -1,12 +1,17 @@
 ---
 UUID: 20230327174116
 Created: '2023-03-27 17:41'
-Modified: '2025-07-24 08:15'
+Modified: '2026-01-25 12:15'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Diminishing Returns.png]]'
+Description: >-
+  A concept indicating that the additional value gained from each successive
+  unit decreases, potentially becoming negative, as more units are accumulated.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -25,16 +30,15 @@ But can it be negative you might ask, well imagine food. When you're hungry, a p
 
 This also supports [Minimalism](/notes/addition-by-subtraction.md). Because of the diminishing returns, it is often more useful to dedicate our attention and resources to the very basic things that gives high return, and less on accumulating more and more stuff that eventually leads to negative return. Meaning that not only the added value of every new item is decreasing, but also the gap between a potentially different item that we could invest in rises [Alternative cost](/notes/alternative-cost.md)
 
-Diminishing returns are the proof that some things are [non linear](/notes/non-linear.md), for example our creative output is 100% correlated with the amount of time we invest in it. Investing more time doesn't lead to more outputs, or at least not the expected amount.
+Diminishing returns are the proof that some things are [Non linear](/notes/non-linear.md), for example our creative output is 100% correlated with the amount of time we invest in it. Investing more time doesn't lead to more outputs, or at least not the expected amount.
 
 If we really want to [optimize](/notes/optimization.md) aspects of our lives, we need to see in which areas we have reached a level of diminishing returns that makes additional investments not worthwhile.
 
 ## Visual
 
-![Diminishing Returns.webp](/notes/diminishing-returns.webp)
+![Diminishing Returns](/notes/diminishing-returns.webp)
 
 ## Overview
 🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
 ◀Origin::
 🔗Link::
-

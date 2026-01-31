@@ -1,12 +1,18 @@
 ---
 UUID: 20240417174602
 Created: '2024-04-17 17:46'
-Modified: '2025-02-16 06:26'
+Modified: '2026-01-29 17:44'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.02
+Version: 3
+Image: '[[Dont Jump to the Rescue.png]]'
+Description: >-
+  A concept emphasizing that immediately solving others' problems can hinder
+  their personal growth, agency, and emotional connection, ultimately fostering
+  dependency and undermining their self-worth.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -24,7 +30,7 @@ In the end, while you perhaps have the best intentions in the world, to solve so
 
 ## Visual
 
-![Dont Jump to the Rescue.webp](/notes/dont-jump-to-the-rescue.webp)
+![Dont Jump to the Rescue](/notes/dont-jump-to-the-rescue.webp)
 
 ## Overview
 🔼Topic:: [Relationships](/notes/relationships.md)
