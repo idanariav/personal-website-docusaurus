@@ -1,12 +1,18 @@
 ---
 UUID: 20240220084135
 Created: '2024-02-20 08:41'
-Modified: '2025-02-02 07:02'
+Modified: '2026-02-02 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Effort Storing.png]]'
+Description: >-
+  A strategy that involves investing mental or physical resources in the present
+  to create a reserve that can be utilized in future situations, enhancing
+  overall efficiency and well-being.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -29,10 +35,9 @@ Therefore, whenever you feel the [Scarcity](/notes/scarcity.md) of time or other
 
 ## Visual
 
-![Effort Storing.webp](/notes/effort-storing.webp)
+![Effort Storing](/notes/effort-storing.webp)
 
 ## Overview
 🔼Topic:: [Memory, Attention and cognitive load (MOC)](/mocs/memory-attention-and-cognitive-load-moc.md)
 ↩️Origin::
 🔗Link::
-

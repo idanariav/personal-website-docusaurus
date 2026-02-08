@@ -1,12 +1,18 @@
 ---
 UUID: 20241125072605
 Created: '2024-11-25 07:26'
-Modified: '2025-03-07 08:04'
+Modified: '2026-02-01 06:34'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.03
+Version: 4
+Image: '[[Econs.png]]'
+Description: >-
+  A theoretical representation of humans as entirely rational decision-makers,
+  immune to emotional influences and biases, operating under the assumption of
+  complete information and freedom of choice.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -26,7 +32,7 @@ We never were, and never will be econs. We are social creatures, guided by emoti
 
 ## Visual
 
-![Econs.webp](/notes/econs.webp)
+![Econs](/notes/econs.webp)
 
 ## Overview
 🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)

@@ -1,12 +1,19 @@
 ---
 UUID: 20221201211327
 Created: '2022-12-01 21:13'
-Modified: '2025-02-09 06:36'
+Modified: '2026-02-05 06:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.02
+Version: 3
+Image: '[[Emergence.png]]'
+ImageText: Scattered scrabble letters that together form a word
+Description: >-
+  A phenomenon where a whole exhibits characteristics and capabilities that are
+  not present in its individual components, arising from their interactions and
+  synergy, thus transcending simple reductionist analysis.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -30,12 +37,11 @@ Although it is based on connections, emergent properties are based not only on t
 
 ## Visual
 
-![Emergence.webp](/notes/emergence.webp)
+![Emergence](/notes/emergence.webp)
 
 ## Overview
 🔼Topic:: [PKM (MOC)](/mocs/pkm-moc.md)
 🔼Topic:: [Free Will (MOC)](/mocs/free-will-moc.md)
 ◀Origin:: [Kurzgesagt](/notes/kurzgesagt.md)
 🔗Link:: https://www.youtube.com/embed/16W7c0mb-rE
-
 
