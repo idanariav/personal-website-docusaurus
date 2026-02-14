@@ -1,12 +1,19 @@
 ---
 UUID: 20241101182926
 Created: '2024-11-01 18:29'
-Modified: '2025-03-10 07:45'
+Modified: '2026-02-10 08:47'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.02
+Version: 3
+Image: '[[Emotions as decision heuristics.png]]'
+ImageText: A dog guiding a blind man
+Description: >-
+  A concept emphasizing that emotions serve as valuable informational tools
+  guiding decision-making processes, rather than mere psychological disturbances
+  to be ignored.
 aliases:
   - Emotions as information
 draft: false
@@ -31,7 +38,7 @@ That is why we tend to [mirror](/notes/mirroring.md) each other's emotions, beca
 
 ## Visual
 
-![Emotions as decision heuristics.webp](/notes/emotions-as-decision-heuristics.webp)
+![Emotions as decision heuristics](/notes/emotions-as-decision-heuristics.webp)
 
 ## Overview
 🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)

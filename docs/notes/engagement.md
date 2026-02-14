@@ -1,12 +1,19 @@
 ---
 UUID: 20220715053855
 Created: '2022-07-15 05:38'
-Modified: '2025-03-15 17:48'
+Modified: '2026-02-13 09:08'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Engagement.png]]'
+ImageText: A metal bar and a wood log are converted into a hammer
+Description: >-
+  The active process of transforming information into knowledge through
+  interaction and reflection on notes, involving connection, clarification,
+  relation, critique, and reflection.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -30,7 +37,7 @@ this involves usually 5 steps to each note:
 
 ## Visual
 
-![Engagement.webp](/notes/engagement.webp)
+![Engagement](/notes/engagement.webp)
 
 ## Overview
 🔼Topic:: [Note taking (MOC)](/mocs/note-taking-moc.md)

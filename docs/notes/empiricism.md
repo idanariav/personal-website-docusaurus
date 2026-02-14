@@ -1,12 +1,19 @@
 ---
 UUID: 20230406091236
 Created: '2023-04-06 09:12'
-Modified: '2025-01-12 06:49'
+Modified: '2026-02-12 13:52'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Empiricism.png]]'
+ImageText: A rock surrounded by a measure tape
+Description: >-
+  A metaphysical viewpoint asserting that truth exists independently of human
+  perception, obtainable only through experimentation and objective testing
+  rather than reasoning or subjective beliefs.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -22,14 +29,13 @@ This is the ruling [dogma](/notes/scientific-method.md) led by the scientific co
 
 Empiricism tries to avoid [Subjective Reality](/notes/subjective-reality.md), by [distancing](/notes/cognitive-distancing.md) ourselves from personal opinions and biases using [Hypothesis Testing](/notes/hypothesis-testing.md), objective metrics and relying on a community to verify and refine what we (think we) know.
 
-While it sounds tempting to be an empiricists, and perhaps they are right most of the time, or closest to the truth in matters of physics, chemistry and such, it is harder to claim that empiricism is as good when it comes to social science. Since much of our experience is based on personal perspective and that many social things are a [Social Construct](/notes/social-construct.md), it is much harder to get an "absolute truth" about how people act. For example, the same test in one country won't replicate in a different one because they have different norms [contextualism](/notes/contextualism.md).
+While it sounds tempting to be an empiricists, and perhaps they are right most of the time, or closest to the truth in matters of physics, chemistry and such, it is harder to claim that empiricism is as good when it comes to social science. Since much of our experience is based on personal perspective and that many social things are a [Social Construct](/notes/social-construct.md), it is much harder to get an "absolute truth" about how people act. For example, the same test in one country won't replicate in a different one because they have different norms [Contextualism](/notes/contextualism.md).
 
 ## Visual
 
-![Empiricism.webp](/notes/empiricism.webp)
+![Empiricism](/notes/empiricism.webp)
 
 ## Overview
 🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
 ◀Origin::
 🔗Link::
-

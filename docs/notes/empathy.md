@@ -1,12 +1,19 @@
 ---
 UUID: 20230327064908
 Created: '2023-03-27 06:49'
-Modified: '2025-01-23 06:38'
+Modified: '2026-02-11 07:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.02
+Version: 3
+Image: '[[empathy.png]]'
+ImageText: 'A person struggling to lift a boulder, then two people lift it together'
+Description: >-
+  The ability to understand and share the feelings of another by stepping into
+  their perspective, fostering connection while potentially leading to bias
+  towards those similar to oneself.
 aliases:
   - Emotional Contagion
 draft: false
@@ -23,13 +30,12 @@ The fact that people are able to be empathetic perhaps it's a sign that we human
 
 At the individual level, empathy is a great way to connect with someone, to bring you closer to a state of [Oneness](/notes/unity.md), while negating feelings of [Loneliness](/notes/loneliness.md) because we are finally seen and heard. Empathy also is the first step towards having our feelings [validated](/notes/validation.md), because understanding is a necessary step to acceptance. When we empathize with another, we are much more likely to be [Altruistic](/notes/giving.md) towards them.
 
-At the social level, it can be argued that empathy promotes [Cooperation](/notes/cooperation.md), but the question is towards whom? Since it is easier to emphasize we people who are similar to us, it might also support a [us vs them](/notes/us-vs-them.md) mentality, promoting cooperation with the in group, while distancing ourselves from the out group. This goes against the idea of [Veil of ignorance](/notes/veil-of-ignorance.md), that decisions should be made in an impartial way. If we are empathic, it is like we are choosing who to be biased towards.
+At the social level, it can be argued that empathy promotes [Cooperation](/notes/cooperation.md), but the question is towards whom? Since it is easier to emphasize we people who are similar to us, it might also support a [Us vs them](/notes/us-vs-them.md) mentality, promoting cooperation with the in group, while distancing ourselves from the out group. This goes against the idea of [Veil of ignorance](/notes/veil-of-ignorance.md), that decisions should be made in an impartial way. If we are empathic, it is like we are choosing who to be biased towards.
 ## Visual
 
-![Empathy.webp](/notes/empathy.webp)
+![Empathy](/notes/empathy.webp)
 
 ## Overview
 🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
 ◀Origin::
 🔗Link::
-

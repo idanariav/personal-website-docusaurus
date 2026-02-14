@@ -1,12 +1,19 @@
 ---
 UUID: 20240122064825
 Created: '2024-01-22 06:48'
-Modified: '2025-01-09 07:06'
+Modified: '2026-02-09 08:50'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.02
+Version: 3
+Image: '[[Emotional Projection.png]]'
+ImageText: An angry person saying to a calm person that he looks angry
+Description: >-
+  A psychological phenomenon where individuals attribute their own emotions to
+  others, hindering self-awareness and empathy, often leading to
+  misunderstandings and negative emotional cycles.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -26,7 +33,7 @@ Also, venting is proven to be more harmful than good. When we express our anger,
 
 ## Visual
 
-![Emotional Projection.webp](/notes/emotional-projection.webp)
+![Emotional Projection](/notes/emotional-projection.webp)
 
 ## Overview
 🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)

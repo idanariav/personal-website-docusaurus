@@ -1,12 +1,19 @@
 ---
 UUID: 20231002193825
 Created: '2023-10-02 19:38'
-Modified: '2025-02-07 09:14'
+Modified: '2026-02-09 09:07'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Emotional Resilience.png]]'
+ImageText: A tumbler being pushed and bounces back
+Description: >-
+  The ability to enhance mental strength and effectively manage emotions through
+  strategies like self-talk, emotional diversity, and maintaining boundaries,
+  enabling recovery from challenges and crises.
 aliases:
   - Calmness
   - Stillness
@@ -32,7 +39,7 @@ When facing others, to avoid letting [External Influence](/notes/external-influe
 
 ## Visual
 
-![Emotional Resilience.webp](/notes/emotional-resilience.webp)
+![Emotional Resilience](/notes/emotional-resilience.webp)
 
 ## Overview
 🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)

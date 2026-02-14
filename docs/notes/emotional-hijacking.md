@@ -1,12 +1,19 @@
 ---
 UUID: 20240705103533
 Created: '2024-07-05 10:35'
-Modified: '2025-01-27 08:09'
+Modified: '2026-02-08 13:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.02
+Version: 3
+Image: '[[Emotional hijacking.png]]'
+ImageText: Anger from inside-out sitting behind the control desk with a big red button
+Description: >-
+  A mental state characterized by chaos and loss of self-control, where
+  individuals react impulsively based on instincts rather than rational thought,
+  often triggered by overwhelming emotions.
 aliases:
   - Tantrum
 draft: false
@@ -31,11 +38,11 @@ Similarly, and it's true for adults as well, that taking a [Break](/notes/rest.m
 
 ## Visual
 
-![Emotional hijacking.webp](/notes/emotional-hijacking.webp)
+![Emotional hijacking](/notes/emotional-hijacking.webp)
 
 ## Overview
 🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
 🔼Topic:: [Parenting (MOC)](/mocs/education-moc.md)
-↩️Origin:: [unruffled](/notes/unruffled.md)
+↩️Origin:: [Unruffled](/notes/unruffled.md)
 🔗Link:: [source](https://share.snipd.com/episode/c78824e3-0439-4566-8a9f-dd5db0f40ebb) [source](https://share.snipd.com/episode/73b2a323-719f-4564-b471-961df33a1151)
 
