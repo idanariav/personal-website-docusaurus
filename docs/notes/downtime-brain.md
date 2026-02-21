@@ -1,14 +1,17 @@
 ---
 UUID: 20231223072511
 Created: '2023-12-23 07:25'
-Modified: '2026-01-30 06:14'
+Modified: '2026-02-15 21:58'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[downtime brain.png]]'
+ImageText: >-
+  A person working at a desk trying to focus on the left, versus someone
+  relaxing in a chair with creative ideas flowing in on the right
 Description: >-
   A mental state characterized by the activation of the default mode network
   (DMN) during relaxation, facilitating introspection, creativity, and idea

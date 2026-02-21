@@ -1,12 +1,18 @@
 ---
 UUID: 20230715164142
 Created: '2023-07-15 16:41'
-Modified: '2025-02-01 08:26'
+Modified: '2026-02-19 21:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[External Influence.png]]'
+ImageText: A fish in the water
+Description: >-
+  The forces, often political, economic, or social, that aim to affect and alter
+  an individual's values, beliefs, and emotional state, often subconsciously.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -26,7 +32,7 @@ Resisting these influences first requires a measure of [Self Knowledge](/notes/s
 
 ## Visual
 
-![External Influence.webp](/notes/external-influence.webp)
+![External Influence](/notes/external-influence.webp)
 
 ## Overview
 🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)

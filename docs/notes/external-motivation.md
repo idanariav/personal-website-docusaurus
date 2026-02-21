@@ -1,12 +1,19 @@
 ---
 UUID: 20240206082749
 Created: '2024-02-06 08:27'
-Modified: '2025-01-05 06:42'
+Modified: '2026-02-20 09:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[External Motivation.png]]'
+ImageText: A person looking at a hook at the end of a fishing rod
+Description: >-
+  A type of motivation driven by external rewards or incentives, which can
+  diminish intrinsic motivation and lead to dependency and reduced performance
+  in tasks.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -25,7 +32,7 @@ There are many problems with external motivation. The main ones are:
 
 ## Visual
 
-![External Motivation.webp](/notes/external-motivation.webp)
+![External Motivation](/notes/external-motivation.webp)
 
 ## Overview
 🔼Topic:: [Motivation (MOC)](/mocs/motivation-moc.md)

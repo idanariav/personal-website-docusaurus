@@ -1,12 +1,19 @@
 ---
 UUID: 20230830152933
 Created: '2023-08-30 15:29'
-Modified: '2025-01-24 06:42'
+Modified: '2026-02-17 10:01'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Experience knowledge]]'
+ImageText: 'Musical notes on one side, not equal to a guitar'
+Description: >-
+  A type of knowledge acquired through direct involvement and practice,
+  emphasizing the importance of physical engagement and emotional connection,
+  complementing intellectual understanding.
 aliases: []
 draft: false
 SiteProcssed: true
@@ -21,7 +28,7 @@ Experience knowledge differs from [intellectual knowledge](/notes/intellectual-k
 There is something about actually being in the situation that changes us, that affects us. We [learn by doing](/notes/learning-by-doing.md). Perhaps it's the [Visibility](/notes/visibility.md) of it, when we can see how our knowledge comes into practice we can understand it better. Perhaps it's a matter strong and immediate [Feedback](/notes/feedback.md). We won't know that we play the cords wrong until we try it, and the annoying sound that we'll make would be a strong, memorable evidence for that.
 
 This is the heart of the [Mary's room](/notes/marys-room.md) argument. Even after hours of studying, you can't have a complete knowledge about colors without seeing them.
-This is also related to the [the hard problem of consciousness](/notes/the-hard-problem-of-consciousness.md), because experience is something that is hard to quantify by science.
+This is also related to the [The hard problem of consciousness](/notes/the-hard-problem-of-consciousness.md), because experience is something that is hard to quantify by science.
 
 Experience knowledge has the following attributes:
 1. **complementary** - experience knowledge doesn't replace intellectual knowledge, but rather is complementary to it. A good surgeon needs to know both what their goal is, and how to achieve it. Learning cords is essential for playing music.
@@ -30,7 +37,7 @@ Experience knowledge has the following attributes:
 
 ## Visual
 
-![experience knowledge.webp](/notes/experience-knowledge.webp)
+![experience knowledge](/notes/experience-knowledge.webp)
 
 ## Overview
 🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
