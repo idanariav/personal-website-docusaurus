@@ -166,17 +166,17 @@ async function copyMissingImages() {
     if (!existingFile) {
       // File doesn't exist, copy it with the renamed filename
       const destImagePath = path.join(destFolder, renamedFilename);
-      await fse.copy(imagePath, destImagePath);
+      await fse.copy(imagePath, destImagePath, { preserveTimestamps: true });
       console.log(`Copied image: ${imagePath} -> ${destImagePath}`);
     } else {
-      // File exists, compare modification times
+      // File exists, compare modification times and sizes
       const existingPath = path.join(destFolder, existingFile);
       const destStats = await fse.stat(existingPath);
       if (sourceStats.mtime > destStats.mtime) {
         // Delete old file and copy new one with potentially different format
         await fse.remove(existingPath);
         const destImagePath = path.join(destFolder, renamedFilename);
-        await fse.copy(imagePath, destImagePath);
+        await fse.copy(imagePath, destImagePath, { preserveTimestamps: true });
         console.log(`Updated image: ${imagePath} -> ${destImagePath}`);
       }
     }
