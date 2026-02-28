@@ -124,7 +124,7 @@ const config = {
         url: 'https://idanariav.com/',     // Your personal website or portfolio
         sameAs: [                        // Other web profiles associated with you
           'https://www.linkedin.com/in/idan-ariav/',
-          'https://github.com/idanariav/Idans_portfolio'
+          'https://github.com/idanariav'
         ],
         jobTitle: 'Data Analyst, Knowledge Management Consultant',        // Your role or profession
       })

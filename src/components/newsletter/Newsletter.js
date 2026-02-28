@@ -31,7 +31,7 @@ export const Newsletter = ({ data }) => {
             type="email"
             required
           />
-          <input name={firstNameFieldName} placeholder="First Name (optional)" />
+          <input name={firstNameFieldName} type="text" placeholder="First Name (optional)" />
           <div
             style={{ position: "absolute", left: "-5000px" }}
             aria-hidden="true"
@@ -41,6 +41,7 @@ export const Newsletter = ({ data }) => {
               name="b_4ed0fd1909674fddee53ac3e7_dfdcae99f5"
               tabIndex={-1}
               value=""
+              readOnly
             />
           </div>
           <button

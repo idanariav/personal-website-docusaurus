@@ -36,7 +36,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title} personal website`}
-      description="Description will go into a meta tag in <head />">
+      description="Convert information into actionable knowledge. Explore knowledge management, practical philosophy, and data-driven insights.">
       <HomepageHeader />
 
 <div className={styles.topShape}>
@@ -66,9 +66,6 @@ export default function Home() {
 
 <Container
   maxWidth="md"
-  container
-  justifyContent="center"
-  alignItems="center"
   style={{ padding: 24 }}
 >
   <Grid
@@ -76,7 +73,7 @@ export default function Home() {
     spacing={2}
     direction="row"
     justifyContent="center"
-    alignItems="top"
+    alignItems="flex-start"
   >
     <HomepageFeatures />
   </Grid>

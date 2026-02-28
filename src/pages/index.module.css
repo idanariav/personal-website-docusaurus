@@ -19,12 +19,6 @@
   }
 }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .headshot {
   width: 200px;
   height: 200px;
@@ -37,7 +31,6 @@
 .shapeFill {
   fill: var(--ifm-color-primary-welcome);
 }
-
 
 .shapeFillBlack {
   fill: var(--ifm-color-primary-welcome);

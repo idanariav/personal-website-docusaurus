@@ -1,5 +1,4 @@
 import clsx from 'clsx';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
@@ -28,11 +27,11 @@ function SketchGallery() {
       id: 1,
       title: "Clarity",
       image: useBaseUrl('/notes/clarity.webp'),
-      link: "/sketches"
+      link: "/docs/welcome"
     },
     {
       id: 2,
-      title: "deontology",
+      title: "Deontology",
       image: useBaseUrl('/notes/deontology.webp'),
       link: "/blog"
     },
@@ -91,7 +90,6 @@ function AboutSection() {
 }
 
 export default function Sketches() {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title="Visuals & Sketches"

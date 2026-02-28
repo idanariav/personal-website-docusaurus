@@ -37,10 +37,8 @@ export default function BlogPostItem({children, className}) {
   // Use formattedDate if available, otherwise format the raw date
   const displayDate = formattedDate || formatDate(date);
 
-  const cardClass = !isBlogPostPage ? styles.blogCard : undefined;
-
   return (
-    <BlogPostItemContainer className={clsx(cardClass, className)}>
+    <BlogPostItemContainer className={className}>
       <div className={styles.blogCardContent} style={{display: 'flex', flexDirection: 'column', height: '100%'}}>
         <div>
           {/* Centered title only */}

@@ -47,13 +47,7 @@
 /* For Light Theme */
 html[data-theme="light"] body,
 html[data-theme="light"] .main-wrapper {
-  background-color: #f0f4f8; 
-}
-
-/* For Dark Theme */
-html[data-theme="dark"] body,
-html[data-theme="dark"] .main-wrapper {
-  background-color: #0f0b17; 
+  background-color: #f0f4f8;
 }
 
 
@@ -77,7 +71,7 @@ html[data-theme="dark"] .main-wrapper {
 }
 
 html[data-theme='light'] em {
-  color: #f5a4dffd; 
+  color: #f5a4df;
 }
 
 /* For italic text in dark mode */
@@ -86,12 +80,12 @@ html[data-theme='dark'] em {
 }
 
 html[data-theme='light'] strong {
-  color: #f7bf47; 
+  color: #f7bf47;
 }
 
-/* For italic text in dark mode */
+/* For bold text in dark mode */
 html[data-theme='dark'] strong {
-  color: #F9E2AF; 
+  color: #F9E2AF;
 }
 
 

@@ -1,8 +1,7 @@
-import React, { useRef } from "react";
+import React, { useRef, useEffect } from "react";
 import { ValidationError, useForm } from "@formspree/react";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { useEffect } from "react";
 import Translate from "@docusaurus/Translate";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./Contact.module.css"; // Import the CSS module
@@ -23,7 +22,7 @@ const Contact = () => {
         formRef.current.reset();
       }
     }
-  }, [state]);
+  }, [state.succeeded, state.submitting]);
 
   return (
     <section className={styles["contact-page"]}>
@@ -55,12 +54,19 @@ const Contact = () => {
               name="name"
               placeholder="First Name"
               className={styles["form-control"]}
+              required
+            />
+            <ValidationError
+              field="name"
+              prefix="Name"
+              errors={state.errors}
             />
             <input
               type="email"
               placeholder="Email Address"
               name="email"
               className={styles["form-control"]}
+              required
             />
             <ValidationError
               field="email"
