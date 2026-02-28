@@ -6,11 +6,11 @@ const {fileRename} = require('./utility.js');
 
 // todo - add support for blog posts and mocs, with dynamic redirection to correct folders
 const notesSourceFolders = [
-  path.resolve(__dirname, '../../Obsidian_Vault/Content/Notes'),
-  path.resolve(__dirname, '../../Obsidian_Vault/Content/MOCs'),
+  path.resolve(__dirname, '../../Obsidian_Vault/Content/Concepts'),
+  path.resolve(__dirname, '../../Obsidian_Vault/Content/Maps'),
   path.resolve(__dirname, '../../Obsidian_Vault/Sources/Books')
 ];
-const imageSourceFolder = path.resolve(__dirname, '../../Obsidian_Vault/Extras/Media/visuals');
+const imageSourceFolder = path.resolve(__dirname, '../../Obsidian_Vault/Scaffolding/Media/visuals');
 
 const destinationFolder = 'docs';
 const imageDestinationFolder = 'static';
@@ -32,7 +32,7 @@ async function getMarkdownFiles(dir) {
 }
 
 function determineSubfolder(originalFilename) {
-  if (originalFilename.toLowerCase().endsWith('(moc).md')) {
+  if (originalFilename.toLowerCase().endsWith('(map).md')) {
     return 'mocs';
   } else if (originalFilename.toLowerCase().endsWith('(book).md')) {
     return 'books';
