@@ -33,7 +33,7 @@ The advantages are that it escapes the [Theory of Mind](/notes/theory-of-mind.md
 ![Behavioralism](/notes/behavioralism.webp)
 
 ## Overview
-🔼Topic:: [social science (MOC)](/mocs/social-science-moc.md)
+🔼Topic:: [social science (Map)](/mocs/social-science-map.md)
 ↩️Origin::
 🔗Link::
 

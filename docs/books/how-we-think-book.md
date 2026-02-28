@@ -26,7 +26,7 @@ SiteProcssed: true
 # How We Think
 
 ## 🔗Connect
-🔼Topic:: [Education (MOC)](/mocs/education-moc.md)
+🔼Topic:: [Education (Map)](/mocs/education-map.md)
 
 
 

@@ -28,7 +28,7 @@ In cases of helplessness, we seek what little control and certainty we can provi
 ![Helplessness.webp](/notes/helplessness.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ↩️Origin::
 🔗Link::
 

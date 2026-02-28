@@ -29,7 +29,7 @@ Either way, saying no is a form of [Authenticity](/notes/authenticity.md), it is
 ![Saying no.webp](/notes/saying-no.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ◀Origin::
 🔗Link::
 

@@ -35,7 +35,7 @@ Escaping path dependence is always hard, but there are a few situations in which
 ![Path Dependence.webp](/notes/path-dependence.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ◀Origin::
 🔗Link::
 

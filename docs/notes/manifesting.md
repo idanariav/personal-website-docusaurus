@@ -27,7 +27,7 @@ However, manifesting is problematic due to several reasons:
 ![manifesting.webp](/notes/manifesting.webp)
 
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 ↩️Origin::
 🔗Link::
 

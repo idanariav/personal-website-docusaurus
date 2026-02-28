@@ -33,7 +33,7 @@ Sometimes, we believe we don't need boundaries because we believe that they othe
 ![Boundaries](/notes/boundaries.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ◀Origin::
 🔗Link::

@@ -29,7 +29,7 @@ For example, tuning in to messages of self criticism, blame, hate or [negativity
 ![Resonance.webp](/notes/resonance.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

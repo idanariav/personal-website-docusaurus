@@ -38,6 +38,6 @@ Maybe it's all just a façade, like a video game character that thinks it is rea
 ![Determinism](/notes/determinism.webp)
 
 ## Overview
-🔼Topic:: [Free Will (MOC)](/mocs/free-will-moc.md)
+🔼Topic:: [Free Will (Map)](/mocs/free-will-map.md)
 🔗Link::
 

@@ -33,7 +33,7 @@ This is similar to the programming concept of [SOLID principle](/notes/solid-pri
 ![medium independent.webp](/notes/medium-independent.webp)
 
 ## Overview
-🔼Topic:: [PKM (MOC)](/mocs/pkm-moc.md)
+🔼Topic:: [PKM (Map)](/mocs/pkm-map.md)
 Origin:: [Zsolt's Visual Personal Knowledge Management](/notes/zsolts-visual-personal-knowledge-management.md)
 🔗Link::
 

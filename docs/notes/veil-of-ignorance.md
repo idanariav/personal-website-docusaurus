@@ -20,7 +20,7 @@ This is the only logical conclusion that we should make when making decisions be
 
 ## Overview
 🔼Topic:: [Justice](/notes/justice.md)
-🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)
+🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
 Source:: [John rawls](/notes/john-rawls.md)
 Source:: [Philosophize This!](/notes/philosophize-this.md) 
 Link:: https://share.snipd.com/episode/6140eb3e-f09d-485f-93d2-bf235b6635c2

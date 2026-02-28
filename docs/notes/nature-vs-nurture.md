@@ -29,6 +29,6 @@ The bottom line in this debate is not which is more rigid or influential than th
 ![nature vs nurture.webp](/notes/nature-vs-nurture.webp)
 
 ## Overview
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
 ◀Origin:: [Behave (book)](/books/behave-book.md)
 🔗Link::

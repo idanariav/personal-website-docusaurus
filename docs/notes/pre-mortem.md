@@ -27,8 +27,8 @@ This process helps us reduce or avoid common [errors](/notes/planning-fallacy.md
 ![Pre-Mortem.webp](/notes/pre-mortem.webp)
 
 ## Overview
-🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 Origin::
 🔗Link::
 

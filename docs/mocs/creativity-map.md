@@ -4,7 +4,7 @@ Created: '2023-03-25 09:02'
 Modified: '2024-04-02 08:42'
 Version: 1
 tags: []
-Up: '[[personality traits (MOC)]]'
+Up: '[[personality traits (Map)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -46,6 +46,6 @@ Also, creativity is not limited to arts, every time we try to solve a problem is
 [The extended mind (book)](/books/the-extended-mind-book.md) - Think not just with your mind
 [Antifragile (book)](/books/antifragile-book.md) - Creative destruction is the only way for true creativity
 
-## Other MOC
+## Other Map
 
 ### Overview

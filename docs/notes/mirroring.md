@@ -34,7 +34,7 @@ Since mirroring is mostly an automatic process (although we can also try to spar
 ![Mirroring.webp](/notes/mirroring.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ◀Origin::
 🔗Link::
 

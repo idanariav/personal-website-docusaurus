@@ -29,6 +29,6 @@ Meaning that only by [Reverse Thinking](/notes/reverse-thinking.md) they were ab
 ![Survivors Bias.webp](/notes/survivors-bias.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 ◀Origin::
 🔗Link::

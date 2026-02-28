@@ -32,7 +32,7 @@ Alternatively, we come alive when we interact with others, when we [give](/notes
 ![Human is a social being.webp](/notes/human-is-a-social-being.webp)
 
 ## Overview
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
 ◀Origin::
 🔗Link::
 

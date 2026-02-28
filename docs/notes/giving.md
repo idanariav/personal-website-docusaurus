@@ -36,8 +36,8 @@ Giving usually have a [Ripple effect](/notes/ripple-effect.md), when we are kind
 ![Giving.webp](/notes/giving.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ↩️Origin:: [The Happiness Lab with Dr. Laurie Santos](null)
 🔗Link:: https://share.snipd.com/episode/14503de7-6ddb-49a3-bb18-e541cdc9bb8c
 

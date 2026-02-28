@@ -32,8 +32,8 @@ SiteProcssed: true
 ## ✒️ Note-Making
 
 ### 🔗Connect
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
-🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
+🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
 
 
 ### 💡Clarify

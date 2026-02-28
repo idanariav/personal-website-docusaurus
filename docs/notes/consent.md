@@ -23,7 +23,7 @@ Consent impowers the other side by giving them a say in the situation, they are 
 ## Visual
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin::
 🔗Link::
 

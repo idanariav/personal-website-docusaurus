@@ -4,18 +4,18 @@ UUID: 20220715063867
 Created: '2022-07-15 06:38'
 Modified: '2023-06-26 19:59'
 Version: 1
-Up: '[[Technology (MOC)]]'
+Up: '[[Technology (Map)]]'
 draft: true
 SiteProcssed: true
 ---
 
-# Automation MOC
+# Automation Map
 
 ## Notes
 
 ```dataview
-LIST FROM [Automation (MOC)](/mocs/automation-moc.md) AND -outgoing([Automation (MOC)](/mocs/automation-moc.md))
-AND  !#Type/MOC AND !#review/Daily
+LIST FROM [Automation (Map)](/mocs/automation-map.md) AND -outgoing([Automation (Map)](/mocs/automation-map.md))
+AND  !#Type/Map AND !#review/Daily
 sort file.name asc
 ```
 
@@ -32,7 +32,7 @@ sort file.name asc
 LIST FROM "Extras/Templates"
 ```
 
-## Other MOC
+## Other Map
 
-[Technology (MOC)](/mocs/technology-moc.md)
+[Technology (Map)](/mocs/technology-map.md)
 

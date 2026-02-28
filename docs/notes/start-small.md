@@ -28,7 +28,7 @@ But even if we continue maintaining our small commitment without changing it, as
 
 ## Overview
 🔼Topic:: [Momentum](/notes/momentum.md)
-🔼Topic:: [Change (MOC)](/mocs/change-moc.md)
+🔼Topic:: [Change (Map)](/mocs/change-map.md)
 ◀Origin::
 🔗Link::
 

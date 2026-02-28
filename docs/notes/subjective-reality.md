@@ -34,7 +34,7 @@ As a population of people, we have a lot of [Range](/notes/breath-beats-depth.md
 ![Subjective Reality.webp](/notes/subjective-reality.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 Origin:: [you are not so smart](/notes/you-are-not-so-smart.md)
 Link:: https://share.snipd.com/episode/00991c8f-35ad-40c0-b47e-29645d4505f9
 

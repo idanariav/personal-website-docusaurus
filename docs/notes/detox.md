@@ -26,6 +26,6 @@ Detoxing allows us to trigger the [Fresh start effect](/notes/clean-slate.md), w
 ## Visual
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ↩️Origin::
 🔗Link::

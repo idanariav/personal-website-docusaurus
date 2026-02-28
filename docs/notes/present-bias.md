@@ -38,7 +38,7 @@ The goal is to align between our present and our future self. This requires some
 ![Present Bias.webp](/notes/present-bias.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)
 🔗Link:: [Source](https://nesslabs.com/present-bias)
 

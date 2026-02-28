@@ -33,7 +33,7 @@ The scientific method comes short when the truth we are trying to measure and ga
 
 ## Overview
 🔼Topic:: [Empiricism](/notes/empiricism.md)
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 ◀Origin::
 🔗Link::
 

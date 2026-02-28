@@ -32,7 +32,7 @@ So what could be a better solution than relying on willpower?
 ![Willpower is Limited.webp](/notes/willpower-is-limited.webp)
 
 ## Overview
-🔼Topic:: [Will Power (MOC)](/mocs/will-power-moc.md)
+🔼Topic:: [Will Power (Map)](/mocs/will-power-map.md)
 ◀Origin::
 🔗Link::
 

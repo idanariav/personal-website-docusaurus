@@ -32,7 +32,7 @@ SiteProcssed: true
 
 ### 🔗Connect
 
-⬆️Topic:: [Parenting (MOC)](/mocs/education-moc.md)
+⬆️Topic:: [Parenting (Map)](/mocs/education-map.md)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*

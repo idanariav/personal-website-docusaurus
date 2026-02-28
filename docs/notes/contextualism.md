@@ -43,6 +43,6 @@ Is truth devoid of all meaning? If a short person says they are tall, are they c
 ![contextualism](/notes/contextualism.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 ◀Origin:: [Elucidations](/notes/elucidations.md)
 🔗Link:: [Podcast](https://share.snipd.com/episode/7b307626-a817-420e-8f47-1ee37f53c02c)

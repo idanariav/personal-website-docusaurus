@@ -35,7 +35,7 @@ We never were, and never will be econs. We are social creatures, guided by emoti
 ![Econs](/notes/econs.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin:: [thinking fast and slow (book)](/notes/thinking-fast-and-slow-book.md)
 🔗Link::
 

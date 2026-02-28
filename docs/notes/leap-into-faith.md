@@ -27,7 +27,7 @@ Living can't be on reason alone, it would often lead to [Analysis paralysis](/no
 ![Leap Into Faith.webp](/notes/leap-into-faith.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 ↩️Origin:: [Kierkegaard](/notes/soren-kierkegaard-philosopher.md)
 🔗Link::
 

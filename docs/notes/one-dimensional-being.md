@@ -31,7 +31,7 @@ According to this perception, free will is dominance, it is to have [Self-contro
 ![one-dimentional being.webp](/notes/one-dimentional-being.webp)
 
 ## Overview
-🔼Topic:: [Personal identity (MOC)](/mocs/personal-identity-moc.md)
+🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
 Origin::
 🔗Link::
 

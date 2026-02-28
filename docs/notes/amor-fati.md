@@ -34,6 +34,6 @@ It is to embrace discomfort and transform it into a necessary component of exist
 ![Amor Fati](/notes/amor-fati.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 ↩️Origin:: [Friedrich Nietzsche (philosopher)](/notes/friedrich-nietzsche-philosopher.md)
 🔗Link:: 

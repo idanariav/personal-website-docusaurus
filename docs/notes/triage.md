@@ -47,7 +47,7 @@ And lastly, remember that you are the one who decides what counts as important a
 ![Triage.webp](/notes/triage.webp)
 
 ## Overview
-🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
+🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
 ◀Origin::
 🔗Link::
 

@@ -4,7 +4,7 @@ Created: '2022-07-15 06:38'
 Modified: '2024-06-14 15:58'
 Version: 1
 tags: []
-Up: '[[Data Analysis (MOC)]]'
+Up: '[[Data Analysis (Map)]]'
 draft: true
 SiteProcssed: true
 ---
@@ -14,8 +14,8 @@ SiteProcssed: true
 ## Notes
 
 ```dataview
-LIST FROM [Tableau (MOC)](/mocs/tableau-moc.md)
-AND  !#Type/MOC 
+LIST FROM [Tableau (Map)](/mocs/tableau-map.md)
+AND  !#Type/Map 
 ```
 ### Courses/Guides
 
@@ -24,6 +24,6 @@ AND  !#Type/MOC
 ### Practice/Challenges
 
 - [Makeover Monday | A weekly social data project](https://www.makeovermonday.co.uk/)
-## Other MOC
+## Other Map
 
-[Technology (MOC)](/mocs/technology-moc.md) [Data Analysis (MOC)](/mocs/data-analysis-moc.md)
+[Technology (Map)](/mocs/technology-map.md) [Data Analysis (Map)](/mocs/data-analysis-map.md)

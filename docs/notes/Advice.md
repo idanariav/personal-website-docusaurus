@@ -35,6 +35,6 @@ However, one must be careful as to how they give advice, because advices can als
 ![Advice](/notes/advice.webp)
 
 ## Overview
-⬆️Topic:: [Behavioral Psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+⬆️Topic:: [Behavioral Psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::

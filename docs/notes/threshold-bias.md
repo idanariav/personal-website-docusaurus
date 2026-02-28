@@ -24,8 +24,8 @@ The threshold is a form of [Anchoring](/notes/anchoring.md), once it is out ther
 
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
-🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
+🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
 ↩️Origin::
 🔗Link:: [Link]([https://share.snipd.com/episode/e79d3150-a899-4c1f-b9d7-29526012010f](https://share.snipd.com/episode/e79d3150-a899-4c1f-b9d7-29526012010f))
 

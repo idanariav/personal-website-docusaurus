@@ -28,7 +28,7 @@ By giving those up, we supposably will have better balance in life. When we are 
 ![Life as Flow.webp](/notes/life-as-flow.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ◀Origin::
 🔗Link::
 

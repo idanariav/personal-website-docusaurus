@@ -27,9 +27,9 @@ Consumerism means that we focus on the [lack](/notes/scarcity.md) in our lives, 
 
 
 ## Overview
-🔼Topic:: [social science (MOC)](/mocs/social-science-moc.md)
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [social science (Map)](/mocs/social-science-map.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ↩️Origin::
 🔗Link:: 
 

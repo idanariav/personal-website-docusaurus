@@ -4,12 +4,12 @@ Created: '2023-04-02 17:52'
 Modified: '2023-04-02 17:52'
 Version: 1
 tags: []
-Up: '[[Behavioral Psychology (MOC)]]'
+Up: '[[Behavioral Psychology (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Emotions (MOC)
+# Emotions (Map)
 
 ## Notes
 
@@ -34,5 +34,5 @@ The common trait across all those feelings is that instead of letting them contr
 [Algorithms to Live By (book)](/books/algorithms-to-live-by-book.md)
 
 
-## Other MOC
+## Other Map
 

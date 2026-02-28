@@ -23,7 +23,7 @@ Negotiation is an act of connection, by this I mean that **every attempt to reac
 ![Negotiation is an act of connection.webp](/notes/negotiation-is-an-act-of-connection.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ◀Origin::
 🔗Link::
 

@@ -25,7 +25,7 @@ Optimization on the one hand requires [Systematical Thinking](/notes/systematica
 ![Optimization.webp](/notes/optimization.webp)
 
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 ↩️Origin::
 🔗Link::
 

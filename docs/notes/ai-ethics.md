@@ -38,6 +38,6 @@ The fourth point is similar to humans vs [evolution 2bc](/notes/evolution-2bc.md
 
 ## Overview
 🔼Topic:: [Artificial Intelligence](/notes/artificial-intelligence.md)
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ◀Origin:: [Towards data science](/notes/towards-data-science.md)
 🔗Link:: [podcast]([https://www.podcastrepublic.net/episode/7802484905](https://www.podcastrepublic.net/episode/7802484905))

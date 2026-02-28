@@ -36,7 +36,7 @@ To compare yourself to others is to become a slave to [Jealousy](/notes/jealousy
 ![Comparisons](/notes/comparisons.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ↩️Origin::
 🔗Link::
 

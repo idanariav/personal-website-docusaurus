@@ -43,7 +43,7 @@ Compounding also helps us avoid [Present Bias](/notes/present-bias.md), because 
 ![Compounding](/notes/compounding.webp)
 
 ## Overview
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 Origin:: [Atomic Habits (book)](/books/atomic-habits-book.md)
 Origin:: [Clear Thinking (book)](/books/clear-thinking-book.md)
 🔗Link::

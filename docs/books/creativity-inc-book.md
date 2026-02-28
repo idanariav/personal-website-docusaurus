@@ -29,8 +29,8 @@ SiteProcssed: true
 # Creativity Inc (book)
 
 ## 🔗Connect
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
-🔼Topic:: [Team Management (MOC)](/mocs/team-management-moc.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
+🔼Topic:: [Team Management (Map)](/mocs/team-management-map.md)
 
 ## ✒️ Note-Making
 

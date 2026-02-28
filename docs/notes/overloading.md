@@ -29,7 +29,7 @@ It is not always easy to tell when someone is overloading themselves, and parado
 ![Overloading.webp](/notes/overloading.webp)
 
 ## Overview
-🔼Topic:: [Memory, Attention and cognitive load (MOC)](/mocs/memory-attention-and-cognitive-load-moc.md)
+🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
 ↩️Origin:: [Effortless (book)](/books/effortless-book.md)
 🔗Link::
 

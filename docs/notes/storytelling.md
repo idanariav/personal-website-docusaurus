@@ -16,7 +16,7 @@ SiteProcssed: true
 
 ## Notes
 
-As humans, it is with our [Human Nature (MOC)](/mocs/human-nature-moc.md) to understand and process information better through stories. **By presenting a story, we are able to place ourselves within the situation**, which automatically makes us feel that the information provided is much more essential and relevant and therefore should be remembered.
+As humans, it is with our [Human Nature (Map)](/mocs/human-nature-map.md) to understand and process information better through stories. **By presenting a story, we are able to place ourselves within the situation**, which automatically makes us feel that the information provided is much more essential and relevant and therefore should be remembered.
 
 The second advantage of stories over data dumps is the vividness. Stories are usually accompanied by a description of the setting, the actual conversation, a conflict and a resolution. **The more we can picture what happened, the better the information will be.** 
 
@@ -25,6 +25,6 @@ The second advantage of stories over data dumps is the vividness. Stories are us
 ![Storytelling.webp](/notes/storytelling.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ◀Origin::
 🔗Link:: 

@@ -27,7 +27,7 @@ Our dislike of risk runs deep. Facing great risks, we might experience [Emotiona
 ![Risk Management.webp](/notes/risk-management.webp)
 
 ## Overview
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
 ↩️Origin::
 🔗Link::
 

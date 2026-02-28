@@ -26,7 +26,7 @@ SiteProcssed: true
 # The Art of Being (book)
 
 ## 🔗Connect
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 
 
 ## ✒️ Note-Making

@@ -30,6 +30,6 @@ This means that as long as our [Defaults](/notes/defaults.md) are not too costly
 ![Critical mass](/notes/critical-mass.webp)
 
 ## Overview
-🔼Topic:: [Change (MOC)](/mocs/change-moc.md)
+🔼Topic:: [Change (Map)](/mocs/change-map.md)
 ↩️Origin::
 🔗Link::

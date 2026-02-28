@@ -27,7 +27,7 @@ Having a safe base allows us to [venture](/notes/standing-up-for-yourself.md) ou
 ![Safe Base.webp](/notes/safe-base.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin:: [The Yes Brain (book)](/books/the-yes-brain-book.md)
 🔗Link::
 

@@ -29,6 +29,6 @@ Usually we experience a fixed mindset when we tie our success to our [Ego](/note
 ![Fixed Mindset.webp](/notes/fixed-mindset.webp)
 
 ## Overview
-🔼Topic:: [Personal identity (MOC)](/mocs/personal-identity-moc.md)
+🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
 ◀Origin::
 🔗Link::

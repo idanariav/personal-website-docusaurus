@@ -28,7 +28,7 @@ Often when people try to claim that they lack positive freedom, they are [gaslig
 ![Positive freedom.webp](/notes/positive-freedom.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 ↩️Origin:: [Isaiah Berlin (philosopher)](/notes/isaiah-berlin-philosopher.md)
 🔗Link::
 

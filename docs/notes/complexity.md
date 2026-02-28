@@ -36,7 +36,7 @@ Similarly, we can use others to solve shared problems [Peer support](/notes/peer
 ![Complexity](/notes/complexity.webp)
 
 ## Overview
-🔼Topic:: [PKM (MOC)](/mocs/pkm-moc.md)
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [PKM (Map)](/mocs/pkm-map.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 ◀Origin::
 🔗Link::

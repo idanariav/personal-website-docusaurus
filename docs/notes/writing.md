@@ -27,7 +27,7 @@ Writing is often inflicted with the [Curse of Knowledge](/notes/curse-of-knowled
 ![Writing.webp](/notes/writing.webp)
 
 ## Overview
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 ↩️Origin::
 🔗Link::
 

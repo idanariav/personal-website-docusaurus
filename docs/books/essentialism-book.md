@@ -29,8 +29,8 @@ SiteProcssed: true
 # Essentialism (book)
 
 ## 🔗Connect
-🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 
 
 ## ✒️ Note-Making

@@ -29,7 +29,7 @@ the flow experience is achieved when:
 ![Flow.webp](/notes/flow.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ◀Origin:: [Flow (book)](/books/flow-book.md)
 🔗Link::
 

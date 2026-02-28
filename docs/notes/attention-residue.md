@@ -33,7 +33,7 @@ Some claim that it can be used for our benefit. Deliberately leaving creative ta
 
 ![Attention Residue](/notes/attention-residue.webp)
 ## Overview
-🔼Topic:: [Memory, Attention and cognitive load (MOC)](/mocs/memory-attention-and-cognitive-load-moc.md)
+🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
 ↩️Origin::
 🔗Link::
 

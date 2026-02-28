@@ -34,7 +34,7 @@ Doing it all is false god. Because [Multitasking doesnt exist](/notes/multitaski
 ![Hustle Culture.webp](/notes/hustle-culture.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

@@ -25,6 +25,6 @@ Although, It's not only relevant for failed cases to help us learn what went [wr
 ![post-mortem.webp](/notes/post-mortem.webp)
 
 ## Overview
-🔼Topic:: [Team Management (MOC)](/mocs/team-management-moc.md)
+🔼Topic:: [Team Management (Map)](/mocs/team-management-map.md)
 ↩️Origin::
 🔗Link:: 

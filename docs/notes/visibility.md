@@ -31,7 +31,7 @@ Additionally, visibility is much more than eyesight. It is much easier for us to
 ![Visibility.webp](/notes/visibility.webp)
 
 ## Overview
-🔼Topic:: [PKM (MOC)](/mocs/pkm-moc.md)
+🔼Topic:: [PKM (Map)](/mocs/pkm-map.md)
 ↩️Origin::
 🔗Link::
 

@@ -4,12 +4,12 @@ Created: '2023-04-01 07:28'
 Modified: '2023-04-01 07:29'
 Version: 1
 tags: []
-Up: '[[Wellbeing (MOC)]]'
+Up: '[[Wellbeing (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Success (MOC)
+# Success (Map)
 
 ## Notes
 
@@ -24,7 +24,7 @@ you are successful when you learn from your mistakes [Failure](/notes/failure.md
 Success is not related to how famous you are, rather if you have contributed or not. Success is expressed by improving others' lives using your knowledge and skills. Whether they acknowledge you or not for it is irrelevant. [to be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md)
 
 
-## Other MOC
+## Other Map
 
 
 ### Overview

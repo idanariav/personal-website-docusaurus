@@ -28,9 +28,9 @@ SiteProcssed: true
 # Give and Take (book)
 
 ## 🔗Connect
-🔼Topic:: [Success (MOC)](/mocs/success-moc.md)
+🔼Topic:: [Success (Map)](/mocs/success-map.md)
 🔼Topic:: [Giving](/notes/giving.md)
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 
 ## ✒️ Note-Making
 

@@ -4,19 +4,19 @@ Created: '2022-07-15 05:38'
 Modified: '2022-09-26 10:32'
 Version: 1
 tags: []
-Up: '[[Programming (MOC)]]'
+Up: '[[Programming (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Python (MOC)
+# Python (Map)
 
 ## Notes
 
 ### Analysis focused python
 i have done (or about to do several courses in python)
 [Python + SQL + Tableau (course)](/notes/python-+-sql-+-tableau-course.md)
-[Python for data science (course)](/notes/python-for-data-science-course.md) - this is the best course for [Data Science (MOC)](/mocs/data-science-moc.md) or [Data Analysis (MOC)](/mocs/data-analysis-moc.md), teaches useful packages such as NumPy, pandas, seaborn, etc...
+[Python for data science (course)](/notes/python-for-data-science-course.md) - this is the best course for [Data Science (Map)](/mocs/data-science-map.md) or [Data Analysis (Map)](/mocs/data-analysis-map.md), teaches useful packages such as NumPy, pandas, seaborn, etc...
 
 
 ### general usage python
@@ -31,8 +31,8 @@ also did a deep dive on python classes, since it is the backbone of OOP
 
 ### Unsorted notes
 ```dataview
-LIST FROM [Python (MOC)](/mocs/python-moc.md) AND -outgoing([Python (MOC)](/mocs/python-moc.md))
-AND  !#Type/MOC AND !#review/Daily
+LIST FROM [Python (Map)](/mocs/python-map.md) AND -outgoing([Python (Map)](/mocs/python-map.md))
+AND  !#Type/Map AND !#review/Daily
 sort file.name asc
 ```
 
@@ -42,6 +42,6 @@ sort file.name asc
 [Plotly Python Graphing Library](https://plotly.com/python/)
 [Example gallery - seaborn 0.11.2 documentation](https://seaborn.pydata.org/examples/index.html)
 
-## Other MOC
+## Other Map
 
-Topic:: [Technology (MOC)](/mocs/technology-moc.md) 
+Topic:: [Technology (Map)](/mocs/technology-map.md) 

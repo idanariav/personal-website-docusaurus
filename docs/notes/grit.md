@@ -29,7 +29,7 @@ However, despite it's best intentions, sometimes having too much grit means we a
 ![Grit.webp](/notes/grit.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin:: [Grit (book)](/notes/grit-book.md)
 🔗Link::
 

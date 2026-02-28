@@ -38,7 +38,7 @@ Blame focuses on the past, we want to focus on the future instead. What can we d
 ![Blame](/notes/blame.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ↩️Origin:: [Hidden Brain](/notes/hidden-brain.md)
 🔗Link:: [link](https://share.snipd.com/episode/2e163b35-055a-4cfa-ad12-501b70dcb7b0)
 

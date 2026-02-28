@@ -26,7 +26,7 @@ By food it means not processed food, but rather something organic and natural, b
 ![Nutrition.webp](/notes/nutrition.webp)
 
 ## Overview
-🔼Topic:: [health (MOC)](/mocs/health-moc.md)
+🔼Topic:: [health (Map)](/mocs/health-map.md)
 ↩️Origin::
 🔗Link::
 

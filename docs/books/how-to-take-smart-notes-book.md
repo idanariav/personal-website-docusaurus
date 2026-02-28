@@ -31,7 +31,7 @@ SiteProcssed: true
 ## ✒️ Note-Making
 
 ### 🔗Connect
-🔼Topic:: [PKM (MOC)](/mocs/pkm-moc.md)
+🔼Topic:: [PKM (Map)](/mocs/pkm-map.md)
 
 ### 💡Clarify
 🔈 *Summary of main ideas* 

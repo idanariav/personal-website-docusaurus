@@ -34,7 +34,7 @@ In the end, while you perhaps have the best intentions in the world, to solve so
 
 ## Overview
 🔼Topic:: [Relationships](/notes/relationships.md)
-🔼Topic:: [Education (MOC)](/mocs/education-moc.md)
+🔼Topic:: [Education (Map)](/mocs/education-map.md)
 ↩️Origin::
 🔗Link::
 

@@ -26,8 +26,8 @@ SiteProcssed: true
 # Technology and Human Existence
 
 ## 🔗Connect
-🔼Topic:: [Technology (MOC)](/mocs/technology-moc.md)
-🔼Topic:: [Philosophy (MOC)](/mocs/philosophy-moc.md)
+🔼Topic:: [Technology (Map)](/mocs/technology-map.md)
+🔼Topic:: [Philosophy (Map)](/mocs/philosophy-map.md)
 
 
 

@@ -29,7 +29,7 @@ Those who live their lives guided by love and have an [optimistic](/notes/optimi
 ![humans are good as default.webp](/notes/humans-are-good-as-default.webp)
 
 ## Overview
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
 ◀Origin:: [Behave (book)](/books/behave-book.md)
 🔗Link::
 

@@ -28,7 +28,7 @@ Changing how you view others lets you work together instead of against each othe
 
 ![people are not the problem.webp](/notes/people-are-not-the-problem.webp)
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin::
 🔗Link::
 

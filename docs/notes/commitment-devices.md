@@ -38,6 +38,6 @@ Commitment devices are powerful because they :
 ![Commitment Devices](/notes/commitment-devices.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::

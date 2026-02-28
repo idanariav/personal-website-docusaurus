@@ -9,7 +9,7 @@ draft: false
 SiteProcssed: true
 ---
 
-# Learning (MOC)
+# Learning (Map)
 
 ## Notes
 
@@ -91,5 +91,5 @@ A popular technique is the [Feynman Technique](/notes/feynman-technique.md)
 [Skillshare](https://www.skillshare.com/)
 [Alter ego +2 a2 Livre de l'élève](https://www.slideshare.net/LucaRodrguez11/alter-ego-2-a2-livre-de-llve)
 
-## Other MOC
+## Other Map
 

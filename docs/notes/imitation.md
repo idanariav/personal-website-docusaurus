@@ -39,7 +39,7 @@ Useful imitation requires:
 ![Imitation.webp](/notes/imitation.webp)
 
 ## Overview
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 ↩️Origin::
 🔗Link::
 

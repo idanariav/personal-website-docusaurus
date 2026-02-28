@@ -34,7 +34,7 @@ Second, we must find ways of incorporating qualitative measures. While they are 
 ![McNamara Fallacy.webp](/notes/mcnamara-fallacy.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 Origin:: [The Curiosity Chronicle by Sahil Bloom](/notes/the-curiosity-chronicle-by-sahil-bloom.md)
 🔗Link::
 

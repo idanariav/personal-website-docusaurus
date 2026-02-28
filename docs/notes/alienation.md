@@ -31,6 +31,6 @@ However, alienation is much more than our job, it's about our lives in general. 
 ![Alienation](/notes/alienation.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ↩️Origin:: [Karl Marx (philosopher)](/notes/karl-marx-philosopher.md)
 🔗Link::

@@ -33,7 +33,7 @@ Additionally, to discredit ourselves can often lead to [cynicism](/notes/cynicis
 ![Self Worth.webp](/notes/self-worth.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin::
 🔗Link::
 

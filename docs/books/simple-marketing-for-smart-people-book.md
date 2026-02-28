@@ -49,7 +49,7 @@ SiteProcssed: true
 
 ## 🔗Connect
 
-⬆️Topic:: [Self promotion and Entrepreneurship (MOC)](/mocs/self-promotion-and-entrepreneurship-moc.md)
+⬆️Topic:: [Self promotion and Entrepreneurship (Map)](/mocs/self-promotion-and-entrepreneurship-map.md)
 
 ## 💡Clarify
 🔈 *Summary of main ideas*

@@ -33,7 +33,7 @@ However, the multiplier effect can also have negative consequences. For example,
 ![Multiplier.webp](/notes/multiplier.webp)
 
 ## Overview
-🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
+🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
 ↩️Origin::
 🔗Link::
 

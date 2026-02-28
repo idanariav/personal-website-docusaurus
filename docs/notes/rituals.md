@@ -29,7 +29,7 @@ As with cases of [Rigid rules](/notes/rigid-rules.md), when we fail to preform t
 ![Rituals.webp](/notes/rituals.webp)
 
 ## Overview
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 ↩️Origin::
 🔗Link::
 

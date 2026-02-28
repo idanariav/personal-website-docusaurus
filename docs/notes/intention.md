@@ -30,7 +30,7 @@ Meaning that even though people act the same, we [trust](/notes/trust.md) more t
 ![Intention.webp](/notes/intention.webp)
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ↩️Origin::
 🔗Link::
 

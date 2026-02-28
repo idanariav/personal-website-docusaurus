@@ -30,7 +30,7 @@ Remember that you never know all the facts, you never know what happens inside s
 ![Judgement.webp](/notes/judgement.webp)
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ↩️Origin::
 🔗Link::
 

@@ -23,7 +23,7 @@ There is nothing mystical or supernatural in the world. All that we know, see an
 ![Naturalism.webp](/notes/naturalism.webp)
 
 ## Overview
-🔼Topic:: [Metaphysics (MOC)](/mocs/metaphysics-moc.md)
+🔼Topic:: [Metaphysics (Map)](/mocs/metaphysics-map.md)
 ↩️Origin::
 🔗Link::
 

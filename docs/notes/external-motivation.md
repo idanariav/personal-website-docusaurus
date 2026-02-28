@@ -35,7 +35,7 @@ There are many problems with external motivation. The main ones are:
 ![External Motivation](/notes/external-motivation.webp)
 
 ## Overview
-🔼Topic:: [Motivation (MOC)](/mocs/motivation-moc.md)
+🔼Topic:: [Motivation (Map)](/mocs/motivation-map.md)
 ↩️Origin::
 🔗Link::
 

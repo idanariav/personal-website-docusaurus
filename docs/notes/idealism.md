@@ -24,6 +24,6 @@ According to idealism, objects and ideas in our lives have a perfect version tha
 ![Idealism.webp](/notes/idealism.webp)
 
 ## Overview
-🔼Topic:: [Metaphysics (MOC)](/mocs/metaphysics-moc.md)
+🔼Topic:: [Metaphysics (Map)](/mocs/metaphysics-map.md)
 ↩️Origin:: [Plato (philosopher)](/notes/plato-philosopher.md)
 🔗Link:: 

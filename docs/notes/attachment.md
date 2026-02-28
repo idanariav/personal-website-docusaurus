@@ -38,7 +38,7 @@ There are a few ways to reduce attachment:
 ![Attachment](/notes/attachment.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 ↩️Origin::
 🔗Link::
 

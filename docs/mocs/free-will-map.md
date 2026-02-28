@@ -4,12 +4,12 @@ Created: '2023-03-27 17:45'
 Modified: '2024-03-25 08:15'
 Version: 1.01
 tags: []
-Up: '[[Metaphysics (MOC)]]'
+Up: '[[Metaphysics (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Free Will (MOC)
+# Free Will (Map)
 
 ## Notes
 
@@ -35,6 +35,6 @@ However, some believe that there is no symmetry between blaming and praising. if
 ### Philosophers
 [Jose Ortega (philosopher)](/notes/jose-ortega-philosopher.md)
 
-## Other MOC
+## Other Map
 
 ### Overview

@@ -24,7 +24,7 @@ When fixed mindset is get positive praise, they are afraid to lose it so they wi
 ![how to give praises.webp](/notes/how-to-give-praises.webp)
 
 ## Overview
-🔼Topic:: [Education (MOC)](/mocs/education-moc.md)
+🔼Topic:: [Education (Map)](/mocs/education-map.md)
 ◀Origin:: [Mindset (book)](/books/mindset-book.md)
 🔗Link::
 

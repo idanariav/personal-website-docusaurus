@@ -31,7 +31,7 @@ To cultivate intrinsic motivation, you can:
 ![Intrinsic Motivation.webp](/notes/intrinsic-motivation.webp)
 
 ## Overview
-🔼Topic:: [Motivation (MOC)](/mocs/motivation-moc.md)
+🔼Topic:: [Motivation (Map)](/mocs/motivation-map.md)
 ↩️Origin::
 🔗Link::
 

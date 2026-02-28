@@ -28,7 +28,7 @@ SiteProcssed: true
 # The Righteous Mind (book)
 
 ## Connect
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 
 ## ✒️ Note-Making
 

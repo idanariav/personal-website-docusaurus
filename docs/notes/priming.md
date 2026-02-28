@@ -27,7 +27,7 @@ A cue isn't good or bad, the behavior it generates is what's important. Even cue
 ## Visual
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

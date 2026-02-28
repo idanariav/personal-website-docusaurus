@@ -45,7 +45,7 @@ SiteProcssed: true
 
 ### 🔗Connect
 
-⬆️Topic:: Wellbeing (MOC)
+⬆️Topic:: Wellbeing (Map)
 ⬆️Topic:: Mindsight
 
 ### 💡Clarify

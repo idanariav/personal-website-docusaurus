@@ -42,7 +42,7 @@ Perhaps it's an unreachable goal, but it is the one that will put us closest to 
 ![virtue theory.webp](/notes/virtue-theory.webp)
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ◀Origin::
 🔗Link::
 

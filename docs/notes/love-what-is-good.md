@@ -30,9 +30,9 @@ According to Aristotle, we should fear the man that is doing the right thing out
 ![Love what is good.webp](/notes/love-what-is-good.webp)
 
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
-🔼Topic:: [Personal Identity (MOC)](/mocs/personal-identity-moc.md)
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
+🔼Topic:: [Personal Identity (Map)](/mocs/personal-identity-map.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ◀Origin:: [Aristotle](/notes/aristotle-philosopher.md) 
 Origin:: [History of Philosophy Without Any Gaps](/notes/history-of-philosophy-without-any-gaps.md)
 Link:: https://share.snipd.com/episode/d9bef53e-c2c6-4319-96b0-bfdcdc02d12f

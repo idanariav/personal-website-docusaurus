@@ -29,7 +29,7 @@ SiteProcssed: true
 
 ## 🔗Connect
 🔼Topic:: [Financial education](/notes/financial-education.md)
-🔼Topic:: [Education (MOC)](/mocs/education-moc.md)
+🔼Topic:: [Education (Map)](/mocs/education-map.md)
 
 
 ## ✒️ Note-Making

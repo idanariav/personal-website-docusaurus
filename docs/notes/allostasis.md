@@ -32,6 +32,6 @@ With allostasis, there is no "steady state", it is order based on constant chaos
 
 ![Allostasis](/notes/allostasis.webp)
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin::
 🔗Link::

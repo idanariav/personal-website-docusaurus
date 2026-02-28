@@ -35,6 +35,6 @@ Dependency leads to [Attachment](/notes/attachment.md), when we are dependent on
 ![Dependency](/notes/dependency.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::

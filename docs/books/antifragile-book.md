@@ -123,7 +123,7 @@ Our body and nature knows how to over compensate, meaning prepare for the worst.
 
 **Over compensation is not an insurance policy as it is an investment**. For example, if we store flour more than we need to, then in times of crisis we can sell high.
 
-**Creativity is also the result of over compensation**. True innovation is the result of scarcity. In a "perfect" world where everything is in abundance and divided right we won't need to be creative since we already have everything we need. [Creativity (MOC)](/mocs/creativity-moc.md)
+**Creativity is also the result of over compensation**. True innovation is the result of scarcity. In a "perfect" world where everything is in abundance and divided right we won't need to be creative since we already have everything we need. [Creativity (Map)](/mocs/creativity-map.md)
 
 Nowadays our economy is the opposite of over compensating, we are based on debt, meaning much more prepared for a worse situation when it will come, and it will.
 

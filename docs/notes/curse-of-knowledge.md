@@ -35,6 +35,6 @@ Alternatively, although it is hard to do, practices of [Rethinking](/notes/rethi
 ![Curse of Knowledge](/notes/curse-of-knowledge.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::

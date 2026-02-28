@@ -28,9 +28,9 @@ If our mind is best at generating ideas and not keeping them, it means we need s
 ![our mind is a processor and not a warehouse.webp](/notes/our-mind-is-a-processor-and-not-a-warehouse.webp)
 
 ## Overview
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 🔼Topic:: [Human Brain](/notes/human-brain.md)
-🔼Topic:: [PKM (MOC)](/mocs/pkm-moc.md)
+🔼Topic:: [PKM (Map)](/mocs/pkm-map.md)
 ◀Origin:: [Getting Things Done (book)](/books/getting-things-done-book.md)
 🔗Link::
 

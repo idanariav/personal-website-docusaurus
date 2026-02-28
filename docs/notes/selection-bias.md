@@ -23,6 +23,6 @@ Selection Bias is when we unintentionally create a situation of [Garbage in garb
 ![Selection Bias.webp](/notes/selection-bias.webp)
 
 ## Overview
-🔼Topic:: [Statistics (MOC)](/mocs/statistics-moc.md)
+🔼Topic:: [Statistics (Map)](/mocs/statistics-map.md)
 ↩️Origin::
 🔗Link::

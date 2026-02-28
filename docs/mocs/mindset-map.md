@@ -9,7 +9,7 @@ draft: false
 SiteProcssed: true
 ---
 
-# Mindset (MOC)
+# Mindset (Map)
 
 ## Notes
 
@@ -48,4 +48,4 @@ Perhaps a healthy mindset is no mindset at all?
 1. [manifesting](/notes/manifesting.md) - When we try to bend reality to our perspective, as if it obeys us, instead of seeing it as it is
 2. [Pessimism](/notes/pessimism.md) - To view life through a black colored lens, to mistrust and have no faith or hope in others or that things will be better
 
-## Other MOC
+## Other Map

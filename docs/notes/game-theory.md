@@ -27,6 +27,6 @@ Meaning, that confessing is a *dominant strategy* and that the -1,-1 outcome is 
 ![Game Theory.webp](/notes/game-theory.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ◀Origin::
 🔗Link:: 

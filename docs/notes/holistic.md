@@ -26,7 +26,7 @@ Usually a holistic approach tries to see the person as a complete, complex whole
 
 
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 ↩️Origin:: 
 🔗Link:: 
 

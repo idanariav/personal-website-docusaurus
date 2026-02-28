@@ -30,7 +30,7 @@ There is no clear mechanism on what should be the gap between study sessions, mo
 ![spaced repetition.webp](/notes/spaced-repetition.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 Origin:: [Behave (book)](/books/behave-book.md)
 🔗Link::
 

@@ -4,17 +4,17 @@ Created: '2023-12-30 19:27'
 Modified: '2023-12-30 19:27'
 Version: 1
 tags: []
-Up: '[[Productivity (MOC)]]'
+Up: '[[Productivity (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Time Management (MOC)
+# Time Management (Map)
 
 ## Notes
 
 
-## Other MOC
+## Other Map
 
 
 ### Overview

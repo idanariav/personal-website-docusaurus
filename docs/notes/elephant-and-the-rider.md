@@ -32,7 +32,7 @@ One can envision our behavior as being made of two parts:
 ![Elephant and the Rider](/notes/elephant-and-the-rider.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

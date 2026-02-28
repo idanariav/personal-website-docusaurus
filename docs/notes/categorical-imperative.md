@@ -25,6 +25,6 @@ However, the categorical imperative lies on the same shaky foundations as all th
 ## Visual
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ↩️Origin:: [Immanuel Kant (philosopher)](/notes/immanuel-kant-philosopher.md)
 🔗Link::

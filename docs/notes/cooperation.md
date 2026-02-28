@@ -36,6 +36,6 @@ Cooperation is also a matter of culture. For example, an organization with [Empa
 ![Cooperation](/notes/cooperation.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin::
 🔗Link::

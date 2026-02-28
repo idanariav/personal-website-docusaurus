@@ -29,7 +29,7 @@ SiteProcssed: true
 # How to Change (book)
 
 ## 🔗Connect
-🔼Topic:: [Change (MOC)](/mocs/change-moc.md)
+🔼Topic:: [Change (Map)](/mocs/change-map.md)
 
 ## ✒️ Note-Making
 

@@ -27,7 +27,7 @@ Perfectionism is the pursuit of [excellence](/notes/mastery.md), of doing every 
 ![Perfectionism.webp](/notes/perfectionism.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin::
 🔗Link::
 

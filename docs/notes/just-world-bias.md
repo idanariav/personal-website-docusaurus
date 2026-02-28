@@ -36,8 +36,8 @@ Therefore, we should:
 ![Just World Bias.webp](/notes/just-world-bias.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ◀Origin::  [Hidden Brain](/notes/hidden-brain.md)
 🔗Link:: [Source](https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/39E17/traffic.megaphone.fm/HSW6583103718.mp3?updated=1635792853)
 

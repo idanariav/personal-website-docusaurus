@@ -33,7 +33,7 @@ Usually, a culture with psychological safety is also a culture of [Cooperation](
 ![Psychological safety.webp](/notes/psychological-safety.webp)
 
 ## Overview
-🔼Topic:: [Team Management (MOC)](/mocs/team-management-moc.md)
+🔼Topic:: [Team Management (Map)](/mocs/team-management-map.md)
 ◀Origin::
 🔗Link::
 

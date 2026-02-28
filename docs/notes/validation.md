@@ -32,7 +32,7 @@ Remember that sometimes, the person who needs validation the most is yourself [S
 ![Validation.webp](/notes/validation.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin:: [Raising Good Humans](/notes/raising-good-humans.md)
 🔗Link:: https://share.snipd.com/episode/085f88f6-23e8-477c-abb0-0cf29f0e4c03
 

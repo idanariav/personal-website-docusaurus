@@ -31,6 +31,6 @@ That's also why it reverts back if left unused. One month of constant training i
 
 ## Overview
 🔼Topic:: [Human Brain](/notes/human-brain.md)
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 ↩️Origin::
 🔗Link:: 

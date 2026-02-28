@@ -29,7 +29,7 @@ SiteProcssed: true
 # Made to Stick (book)
 
 ## Connect
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 
 ## ✒️ Note-Making
 

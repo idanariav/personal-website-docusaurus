@@ -39,6 +39,6 @@ If we really want to [optimize](/notes/optimization.md) aspects of our lives, we
 ![Diminishing Returns](/notes/diminishing-returns.webp)
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
 ◀Origin::
 🔗Link::

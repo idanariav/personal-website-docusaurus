@@ -40,6 +40,6 @@ Usually, a creative process is dependent on the connection of the two. The downt
 
 ## Overview
 🔼Topic:: [Human Brain](/notes/human-brain.md)
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 🔗Link:: [Video 1](https://www.youtube.com/watch?v=vX0yPnRCNHA) [Video 2](https://www.youtube.com/watch?v=9CwyqtwtMHM)
 

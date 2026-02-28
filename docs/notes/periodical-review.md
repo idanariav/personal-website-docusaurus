@@ -29,8 +29,8 @@ Due to the constant noise and pressure we are under, doing a periodical review w
 ![Periodical Review.webp](/notes/periodical-review.webp)
 
 ## Overview
-🔼Topic:: [Productivity (MOC)](/mocs/productivity-moc.md)
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [Productivity (Map)](/mocs/productivity-map.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 ◀Origin::
 🔗Link::
 

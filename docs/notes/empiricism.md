@@ -36,6 +36,6 @@ While it sounds tempting to be an empiricists, and perhaps they are right most o
 ![Empiricism](/notes/empiricism.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 ◀Origin::
 🔗Link::

@@ -33,7 +33,7 @@ Unfortunately, even good planning is not fool proof. The more buffers we give ou
 ![planning fallacy.webp](/notes/planning-fallacy.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 ↩️Origin::
 🔗Link::
 

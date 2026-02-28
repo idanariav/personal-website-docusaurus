@@ -27,7 +27,7 @@ The only way to combat jealousy is to focus on yourself. On comparing yourself t
 
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ↩️Origin::
 🔗Link:: 
 

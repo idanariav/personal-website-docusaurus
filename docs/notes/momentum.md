@@ -28,8 +28,8 @@ Momentum can unfortunately be negative. If we persist with negative behavior, th
 ![Momentum.webp](/notes/momentum.webp)
 
 ## Overview
-🔼Topic:: [Motivation (MOC)](/mocs/motivation-moc.md)
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [Motivation (Map)](/mocs/motivation-map.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 ↩️Origin::
 🔗Link::
 

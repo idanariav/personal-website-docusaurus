@@ -30,6 +30,6 @@ For example, if you have to do a presentation and you know that there are some d
 
 ![Accusation audit](/notes/accusation-audit.webp)
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin:: [Never Split The Difference (book)](/books/never-split-the-difference-book.md)
 🔗Link::

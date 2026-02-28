@@ -9,18 +9,18 @@ draft: false
 SiteProcssed: true
 ---
 
-# Technology (MOC)
+# Technology (Map)
 
 ## Notes
 
-My technology knowledge is divided between two main pillars. The first is focused around [Data Analysis (MOC)](/mocs/data-analysis-moc.md) or [Data Science (MOC)](/mocs/data-science-moc.md), such as tableau, python etc...
-and the second is focused around tools that help me in my [PKM (MOC)](/mocs/pkm-moc.md) or [Productivity (MOC)](/mocs/productivity-moc.md), such as obsidian, JavaScript, etc...
+My technology knowledge is divided between two main pillars. The first is focused around [Data Analysis (Map)](/mocs/data-analysis-map.md) or [Data Science (Map)](/mocs/data-science-map.md), such as tableau, python etc...
+and the second is focused around tools that help me in my [PKM (Map)](/mocs/pkm-map.md) or [Productivity (Map)](/mocs/productivity-map.md), such as obsidian, JavaScript, etc...
 
-I find that technology is also a inseparable part of my [Learning (MOC)](/mocs/learning-moc.md) habits, since I use tools such as Udemy, Duolingo, and other apps to learn, and document it all in obsidian.
+I find that technology is also a inseparable part of my [Learning (Map)](/mocs/learning-map.md) habits, since I use tools such as Udemy, Duolingo, and other apps to learn, and document it all in obsidian.
 
 ### Programming Languages
 
-#### [Python (MOC)](/mocs/python-moc.md)
+#### [Python (Map)](/mocs/python-map.md)
 
 i have done (or about to do several courses in python)
 [Python + SQL + Tableau (course)](/notes/python-+-sql-+-tableau-course.md)
@@ -30,13 +30,13 @@ also did a deep dive on python classes, since it is the backbone of OOP
 [Complete python scripting for automation (course)](/notes/complete-python-scripting-for-automation-course.md) - gives a shallow completing information on working with files, systems and environments (things that data analysis courses don't cover)
 [Automation with Python (course)](/notes/automation-with-python-course.md)
 
-#### [SQL (MOC)](/mocs/sql-moc.md)
+#### [SQL (Map)](/mocs/sql-map.md)
 
 [Microsoft SQL 70-461 (course)](/notes/microsoft-sql-70-461-course.md) - definitely the best course I have done, teaches really in depth about it
 [The Complete SQL Bootcamp 2022 (course)](/notes/the-complete-sql-bootcamp-2022-course.md)
 [SQL - MySQL for Data Analytics and Business Intell (course)](/notes/sql---mysql-for-data-analytics-and-business-intell-course.md)
 
-#### [JavaScript (MOC)](/mocs/javascript-moc.md)
+#### [JavaScript (Map)](/mocs/javascript-map.md)
 
 the engine behind obsidian, which enables me to run all my custom scripts and understand what is happening beneath the hood.
 [The Complete JavaScript Course 2022 From Zero to Expert (course)](/notes/the-complete-javascript-course-2022-from-zero-to-expert-course.md)
@@ -55,13 +55,13 @@ Mermaid is a really useful tool for creating flow charts within markdown, althou
 
 [excalibrain](/notes/excalibrain.md) - a tool to navigate between notes in obsidian, better than the graph view in terms of usability and seeing connections
 
-#### [Power BI (MOC)](/mocs/power-bi-moc.md)
+#### [Power BI (Map)](/mocs/power-bi-map.md)
 [Power BI (course)](/notes/power-bi-course.md) - a great visualization tool.
 
-#### [Tableau (MOC)](/mocs/tableau-moc.md)
+#### [Tableau (Map)](/mocs/tableau-map.md)
 [Building interactive dashboards with Tableau (course)](/notes/building-interactive-dashboards-with-tableau-course.md) - a strong candidate for a visualization tool
 
-#### [Obsidian (MOC)](/mocs/obsidian-moc.md)
+#### [Obsidian (Map)](/mocs/obsidian-map.md)
 a useful list of plugins, keyboard shortcuts, and general comments
 
 ### Misc.
@@ -71,12 +71,12 @@ a useful list of plugins, keyboard shortcuts, and general comments
 ### unsorted notes
 
 ```dataview
-LIST FROM [Technology MOC](/mocs/technology-moc.md) AND -outgoing([Technology MOC](/mocs/technology-moc.md))
-AND  !#Type/MOC 
+LIST FROM [Technology Map](/mocs/technology-map.md) AND -outgoing([Technology Map](/mocs/technology-map.md))
+AND  !#Type/Map 
 sort file.name asc
 ```
 
-## Other MOC
+## Other Map
 
 
 

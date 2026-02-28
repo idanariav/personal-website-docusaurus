@@ -4,7 +4,7 @@ UUID: 202404020800
 Version: 1
 Modified: '2024-04-02 08:24'
 Created: '2024-04-02 08:00'
-Up: '[[Behavioral Psychology (MOC)]]'
+Up: '[[Behavioral Psychology (Map)]]'
 aliases:
   - problem management
 draft: false
@@ -27,4 +27,4 @@ While using [Nudge](/notes/nudge.md) can solve most of our problems in terms of 
 [Decisive (book)](/books/decisive-book.md)
 [Algorithms to Live By (book)](/books/algorithms-to-live-by-book.md)
 
-## Other MOC
+## Other Map

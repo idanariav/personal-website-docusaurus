@@ -44,7 +44,7 @@ Remember that in the space **between the pressure, stimulus and triggers we get 
 ![Agency](/notes/agency.webp)
 
 ## Overview
-🔼Topic:: [Free Will (MOC)](/mocs/free-will-moc.md)
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Free Will (Map)](/mocs/free-will-map.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ◀Origin:: [How to think like a roman emperor (book)](/books/how-to-think-like-a-roman-emperor-book.md)
 🔗Link::

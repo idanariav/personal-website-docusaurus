@@ -24,6 +24,6 @@ A possible solution could be [Accountability](/notes/accountability.md), someone
 ![Moral Licensing.webp](/notes/moral-licensing.webp)
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ◀Origin:: [Choiceology](/notes/choiceology.md)
 🔗Link:: [episode]([https://www.podcastrepublic.net/episode/73543569931](https://www.podcastrepublic.net/episode/73543569931))

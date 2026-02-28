@@ -31,7 +31,7 @@ An advanced step would be to only do those enjoyable activates while doing the c
 ![Temptation Bundling.webp](/notes/temptation-bundling.webp)
 
 ## Overview
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 ◀Origin::
 🔗Link::
 

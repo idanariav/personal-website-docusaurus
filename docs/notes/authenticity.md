@@ -35,6 +35,6 @@ Authenticity is one indication of achieving an [Harmonious self](/notes/harmonio
 ![Authenticity](/notes/authenticity.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ◀Origin:: [Muriel Leuenberger](/notes/muriel-leuenberger.md)
 🔗Link:: http://blog.practicalethics.ox.ac.uk/2023/02/the-authentic-liar/

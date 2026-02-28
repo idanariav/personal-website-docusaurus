@@ -27,6 +27,6 @@ But the reverse is true as well, if we give ourselves a very short deadline we c
 ![Parkinsons Law.webp](/notes/parkinsons-law.webp)
 
 ## Overview
-🔼Topic:: [Productivity (MOC)](/mocs/productivity-moc.md)
+🔼Topic:: [Productivity (Map)](/mocs/productivity-map.md)
 🔗Link:: 
 

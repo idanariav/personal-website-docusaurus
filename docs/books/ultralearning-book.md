@@ -31,7 +31,7 @@ SiteProcssed: true
 ## ✒️ Note-Making
 
 ### 🔗Connect
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*

@@ -30,7 +30,7 @@ Disadvantages:
 One way of testing whether our intuition is based on expertise or whether it is full of holes is to [test](/notes/illusion-of-explanatory-depth.md) it
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ◀Origin::
 🔗Link::
 

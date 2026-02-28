@@ -28,7 +28,7 @@ SiteProcssed: true
 # The Willpower Instinct (book)
 
 ## Connect
-🔼Topic:: [Will Power (MOC)](/mocs/will-power-moc.md)
+🔼Topic:: [Will Power (Map)](/mocs/will-power-map.md)
 
 ## ✒️ Note-Making
 

@@ -32,7 +32,7 @@ This allows them to perform very well during the stressful moment in comparison 
 ![Stress.webp](/notes/stress.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 🔼Topic:: [Emotional Resilience](/notes/emotional-resilience.md)
 Origin:: [The extended mind (book)](/books/the-extended-mind-book.md)
 ◀Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)

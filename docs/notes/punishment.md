@@ -30,7 +30,7 @@ Punishment usually backfires because it most likely leads to [Reactance](/notes/
 
 
 ## Overview
-🔼Topic:: [Education (MOC)](/mocs/education-moc.md)
+🔼Topic:: [Education (Map)](/mocs/education-map.md)
 ↩️Origin::
 🔗Link:: 
 

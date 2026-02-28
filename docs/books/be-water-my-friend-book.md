@@ -31,7 +31,7 @@ SiteProcssed: true
 
 ### 🔗Connect
 
-⬆️Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+⬆️Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*

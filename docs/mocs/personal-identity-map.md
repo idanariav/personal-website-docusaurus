@@ -4,12 +4,12 @@ Created: '2023-03-30 06:51'
 Modified: '2023-03-30 06:51'
 Version: 1
 tags: []
-Up: '[[Existentialism (MOC)]]'
+Up: '[[Existentialism (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Personal Identity (MOC)
+# Personal Identity (Map)
 
 ## Notes
 
@@ -38,6 +38,6 @@ or seek harmony between your different selves [harmonious self](/notes/harmoniou
 
 
 
-## Other MOC
-[Change (MOC)](/mocs/change-moc.md)
+## Other Map
+[Change (Map)](/mocs/change-map.md)
 

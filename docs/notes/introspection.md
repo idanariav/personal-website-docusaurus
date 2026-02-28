@@ -31,7 +31,7 @@ How then do we find the answers? It changes from one person to the next, but som
 ![introspection.webp](/notes/introspection.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ◀Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)
 🔗Link:: https://nesslabs.com/introspection-trap
 

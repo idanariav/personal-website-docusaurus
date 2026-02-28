@@ -32,7 +32,7 @@ The second type is when we fall into [Emotional hijacking](/notes/emotional-hija
 ![Negative cycle.webp](/notes/negative-cycle.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ↩️Origin:: [The Willpower Instinct (book)](/books/the-willpower-instinct-book.md)
 🔗Link::
 

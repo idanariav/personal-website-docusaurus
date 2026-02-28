@@ -32,7 +32,7 @@ Inequality has a larger impact than just the share of the resources. The less eq
 ![Inequality.webp](/notes/inequality.webp)
 
 ## Overview
-🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)
+🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
 ◀Origin::
 🔗Link::
 

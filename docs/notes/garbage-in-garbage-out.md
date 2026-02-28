@@ -31,7 +31,7 @@ Fortunately, this also means that it's true the other way around. Pruning the in
 ![Garbage in garbage out.webp](/notes/garbage-in-garbage-out.webp)
 
 ## Overview
-🔼Topic:: [Statistics (MOC)](/mocs/statistics-moc.md)
+🔼Topic:: [Statistics (Map)](/mocs/statistics-map.md)
 ◀Origin::
 🔗Link::
 

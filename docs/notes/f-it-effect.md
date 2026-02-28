@@ -24,7 +24,7 @@ When a [streak](/notes/momentum.md) is lost or a [rule](/notes/rigid-rules.md) i
 
 
 ## Overview
-🔼Topic:: [Motivation (MOC)](/mocs/motivation-moc.md)
+🔼Topic:: [Motivation (Map)](/mocs/motivation-map.md)
 ↩️Origin::
 🔗Link:: 
 

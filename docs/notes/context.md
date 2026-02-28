@@ -37,6 +37,6 @@ It stems from that that knowing the specific context and how it effects us is cr
 ![Context](/notes/context.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ◀Origin::
 🔗Link::

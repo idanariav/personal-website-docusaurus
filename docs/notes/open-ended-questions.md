@@ -25,7 +25,7 @@ To ask open ended questions is the opposite of trying to [micro-manage](/notes/m
 ![Open ended questions.webp](/notes/open-ended-questions.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin::
 🔗Link::
 

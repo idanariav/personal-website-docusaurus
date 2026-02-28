@@ -30,7 +30,7 @@ SiteProcssed: true
 # The 12 Week Year (book)
 
 ## 🔗Connect
-🔼Topic:: [Productivity (MOC)](/mocs/productivity-moc.md)
+🔼Topic:: [Productivity (Map)](/mocs/productivity-map.md)
 
 
 ## ✒️ Note-Making

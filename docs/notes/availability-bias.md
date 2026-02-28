@@ -35,7 +35,7 @@ The availability bias can also limit our [creative thinking](/notes/innovation.m
 ![Availability Bias](/notes/availability-bias.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 ↩️Origin::
 🔗Link::
 

@@ -29,7 +29,7 @@ SiteProcssed: true
 # Outsmart Your Brain (book)
 
 ## 🔗Connect
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 
 
 ## ✒️ Note-Making

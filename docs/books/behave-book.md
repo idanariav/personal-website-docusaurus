@@ -28,8 +28,8 @@ SiteProcssed: true
 # Behave (book)
 
 ## Connect
-🔼Topic:: [Biology (MOC)](/mocs/biology-moc.md)
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
+🔼Topic:: [Biology (Map)](/mocs/biology-map.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
 
 ## ✒️ Note-Making
 

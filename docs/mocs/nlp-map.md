@@ -6,12 +6,12 @@ Version: 1
 tags: []
 aliases:
   - Natural Language Processing
-Up: '[[Data Science (MOC)]]'
+Up: '[[Data Science (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# NLP (MOC)
+# NLP (Map)
 
 ## Notes
 
@@ -38,6 +38,6 @@ Most common features for NLP:
 
 ### Websites
 
-## Other MOC
+## Other Map
 
 ### Overview

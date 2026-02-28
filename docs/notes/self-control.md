@@ -30,7 +30,7 @@ Perhaps self control is a too simplistic of a way of looking and analyzing our b
 ![Self-control.webp](/notes/self-control.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ◀Origin::
 🔗Link::
 

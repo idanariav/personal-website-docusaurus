@@ -36,7 +36,7 @@ There are few ways of dealing with uncertainty, such as.
 ![Uncertainty.webp](/notes/uncertainty.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 ◀Origin::
 🔗Link::
 

@@ -33,7 +33,7 @@ However, setting up a system is not easy. Sometimes there's already a [system](/
 ![Systematical Thinking.webp](/notes/systematical-thinking.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ◀Origin::
 🔗Link::
 

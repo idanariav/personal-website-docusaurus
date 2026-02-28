@@ -33,7 +33,7 @@ It can also be done on different levels across time, for example to track your e
 ![Journaling.webp](/notes/journaling.webp)
 
 ## Overview
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 🔼Topic:: [Writing](/notes/writing.md)
 ↩️Origin::
 🔗Link::

@@ -37,7 +37,7 @@ While it is hard to break free of an existing framing, it is one of the most ben
 ![Framing.webp](/notes/framing.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 🔼Topic:: [Narratives](/notes/narratives.md)
 ↩️Origin::
 🔗Link::

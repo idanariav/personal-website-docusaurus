@@ -25,7 +25,7 @@ In an us vs them mentality, the interaction with the other party are less about 
 ![us vs them.webp](/notes/us-vs-them.webp)
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ◀Origin::
 🔗Link::
 

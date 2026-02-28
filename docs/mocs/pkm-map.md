@@ -12,7 +12,7 @@ draft: false
 SiteProcssed: true
 ---
 
-# PKM (MOC)
+# PKM (Map)
 
 ## Notes
 
@@ -29,13 +29,13 @@ A pkm system can several uses:
 People vary in which of the four uses they implement in a pkm system. Note these uses don't have to be used within the same system. Although usually combining everything into a single system provides [Emergence](/notes/emergence.md).
 
 ### Project management
-[Productivity (MOC)](/mocs/productivity-moc.md) [Life's Mission](/notes/lifes-mission.md)
+[Productivity (Map)](/mocs/productivity-map.md) [Life's Mission](/notes/lifes-mission.md)
 
 ### Knowledge management
 A common workflow for knowledge management is usually:
 1. **Capture** - a method to collect external information into your system, based on your interests and goals. [Capture content](/notes/capture-content.md)
 2. **Organize** - take the newly collect information that you captured, and connect it to your system, add metadata or put it in a place that will provide the right context. [PARA](null) [The LATCH system](/notes/the-latch-system.md) [The STIR system](/notes/the-stir-system.md) [methods of knowledge management](/notes/methods-of-knowledge-management.md)
-3. **Distill** - extract the valuable information, process it, connect to other ideas. [Note taking (MOC)](/mocs/note-taking-moc.md)
+3. **Distill** - extract the valuable information, process it, connect to other ideas. [Note taking (Map)](/mocs/note-taking-map.md)
 
 As mentioned, one of the more powerful features of such a system is that it can easily resurface important ideas once they have been properly processed. However there are methods to make it easier as well. 
 
@@ -72,5 +72,5 @@ As mentioned, one of the more powerful features of such a system is that it can 
 [Bryan Jenks](/notes/bryan-jenks.md)
 [Danny Hatcher](/notes/danny-hatcher.md)
 
-## Other MOC
+## Other Map
 

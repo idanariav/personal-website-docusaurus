@@ -37,7 +37,7 @@ In some sense, this also means that [What we do is not who we are](/notes/cognit
 ![A person is a community](/notes/a-person-is-a-community.webp)
 
 ## Overview
-🔼Topic:: [Personal Identity (MOC)](/mocs/personal-identity-moc.md)
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
+🔼Topic:: [Personal Identity (Map)](/mocs/personal-identity-map.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
 ◀Origin:: [First Things First (book)](/books/first-things-first-book.md)
 🔗Link::

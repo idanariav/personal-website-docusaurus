@@ -28,7 +28,7 @@ What allows us to improve from one iteration to another is [feedback](/notes/fee
 
 ## Overview
 🔼Topic:: [Creative Destruction](/notes/creative-destruction.md)
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 ↩️Origin:: [Creativity Inc (book)](/books/creativity-inc-book.md)
 🔗Link::
 

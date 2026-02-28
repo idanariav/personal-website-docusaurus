@@ -40,8 +40,8 @@ Although it is based on connections, emergent properties are based not only on t
 ![Emergence](/notes/emergence.webp)
 
 ## Overview
-🔼Topic:: [PKM (MOC)](/mocs/pkm-moc.md)
-🔼Topic:: [Free Will (MOC)](/mocs/free-will-moc.md)
+🔼Topic:: [PKM (Map)](/mocs/pkm-map.md)
+🔼Topic:: [Free Will (Map)](/mocs/free-will-map.md)
 ◀Origin:: [Kurzgesagt](/notes/kurzgesagt.md)
 🔗Link:: https://www.youtube.com/embed/16W7c0mb-rE
 

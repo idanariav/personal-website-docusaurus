@@ -34,8 +34,8 @@ Having someone who we can trust in our lives is essential for our wellbeing. The
 ![Trust.webp](/notes/trust.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin::
 🔗Link::
 

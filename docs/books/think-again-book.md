@@ -33,7 +33,7 @@ SiteProcssed: true
 ### 🔗Connect
 
 ⬆️Topic:: [Rethinking](/notes/rethinking.md)
-⬆️Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+⬆️Topic:: [Communication (Map)](/mocs/communication-map.md)
 ### 💡Clarify
 🔈 *Summary of main ideas*
 1. **Be a researcher** - treat your knowledge like a scientist. You can be wrong, but you are always exploring new theories and tries to validate your beliefs. Have humility about your knowledge, enjoy being wrong and don't get too attached to what you believe.

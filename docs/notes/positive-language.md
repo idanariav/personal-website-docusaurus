@@ -27,8 +27,8 @@ Instead of being our own (or others') [critics](/notes/self-criticism.md), we ca
 ![positive language.webp](/notes/positive-language.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 ↩️Origin::
 🔗Link::
 

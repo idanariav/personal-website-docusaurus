@@ -29,6 +29,6 @@ A Deadline serves as a [Commitment Devices](/notes/commitment-devices.md), helpi
 ![Deadline Effect](/notes/deadline-effect.webp)
 
 ## Overview
-🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
+🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
 ↩️Origin::
 🔗Link::

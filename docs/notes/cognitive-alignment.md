@@ -35,6 +35,6 @@ Instead of thinking of us as bad people, it would be more helpful to think that 
 ![Cognitive Alignment](/notes/cognitive-alignment.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 Origin::
 🔗Link::

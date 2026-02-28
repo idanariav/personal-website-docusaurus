@@ -27,7 +27,7 @@ However, forgetting also has a positive side. Without forgetting, we could have 
 
 ![Forgetfulness.webp](/notes/forgetfulness.webp)
 ## Overview
-🔼Topic:: [Memory, Attention and cognitive load (MOC)](/mocs/memory-attention-and-cognitive-load-moc.md)
+🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
 ↩️Origin::
 🔗Link::
 

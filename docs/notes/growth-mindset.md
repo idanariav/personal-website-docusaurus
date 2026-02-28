@@ -34,8 +34,8 @@ How do adapt a growth mindset:
 ![Growth Mindset.webp](/notes/growth-mindset.webp)
 
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
-🔼Topic:: [Personal Identity (MOC)](/mocs/personal-identity-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
+🔼Topic:: [Personal Identity (Map)](/mocs/personal-identity-map.md)
 ◀Origin:: [Mindset (book)](/books/mindset-book.md)
 🔗Link::
 

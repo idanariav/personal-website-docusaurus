@@ -32,7 +32,7 @@ SiteProcssed: true
 
 ### 🔗Connect
 
-⬆️Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+⬆️Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 ⬆️Topic:: [Procrastination](/notes/procrastination.md)
 
 ### 💡Clarify

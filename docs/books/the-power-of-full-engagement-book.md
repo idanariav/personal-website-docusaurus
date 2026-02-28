@@ -34,8 +34,8 @@ SiteProcssed: true
 
 ### 🔗Connect
 
-⬆️Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
-⬆️Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+⬆️Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
+⬆️Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*

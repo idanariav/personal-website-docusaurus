@@ -27,7 +27,7 @@ There's a level of [Honesty](/notes/honesty.md) when we treat things based on th
 ![Intrinsic.webp](/notes/intrinsic.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

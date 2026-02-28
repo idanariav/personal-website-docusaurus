@@ -31,7 +31,7 @@ However, sometimes we would want to purposefully use a shallow copy, because it 
 
 ![shallow copy.webp](/notes/shallow-copy.webp)
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 ↩️Origin::
 🔗Link::
 

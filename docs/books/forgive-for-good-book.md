@@ -29,7 +29,7 @@ SiteProcssed: true
 
 ### 🔗Connect
 
-⬆️Topic:: [wellbeing (MOC)](/mocs/wellbeing-moc.md)
+⬆️Topic:: [wellbeing (Map)](/mocs/wellbeing-map.md)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*

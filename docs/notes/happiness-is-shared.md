@@ -31,7 +31,7 @@ We connect our happiness with others, since in the most fundamental aspect, we b
 ![Happiness is only real when shared.webp](/notes/happiness-is-only-real-when-shared.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ↩️Origin::
 🔗Link::
 

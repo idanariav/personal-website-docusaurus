@@ -32,7 +32,7 @@ Ownership can only be given in cases without [Micro-Management](/notes/micro-man
 ![Ownership.webp](/notes/ownership.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin::
 🔗Link::
 

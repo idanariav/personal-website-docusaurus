@@ -25,6 +25,6 @@ While it sounds problematic that morality is relative, it gets tricker when we s
 ![Relativism.webp](/notes/relativism.webp)
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ◀Origin::
 🔗Link:: [Source](https://philosophersmag.com/essays/110-is-morality-relative)

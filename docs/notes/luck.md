@@ -34,7 +34,7 @@ Luck can also have a moral importance. For example the difference of killing and
 ![Luck.webp](/notes/luck.webp)
 
 ## Overview
-🔼Topic:: [Success (MOC)](/mocs/success-moc.md)
+🔼Topic:: [Success (Map)](/mocs/success-map.md)
 ↩️Origin:: [The Curiosity Chronicle by Sahil Bloom](/notes/the-curiosity-chronicle-by-sahil-bloom.md)
 🔗Link::
 

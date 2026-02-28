@@ -33,7 +33,7 @@ To reduce friction, we can:
 ![Friction.webp](/notes/friction.webp)
 
 ## Overview
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 ◀Origin::
 🔗Link::
 

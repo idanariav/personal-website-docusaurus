@@ -36,6 +36,6 @@ However, embracing a new identity is not so easy. One can argue that even in the
 ![change starts from the inside out](/notes/change-starts-from-the-inside-out.webp)
 
 ## Overview
-🔼Topic:: [Personal identity (MOC)](/mocs/personal-identity-moc.md)
+🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
 ◀Origin:: [Atomic Habits (book)](/books/atomic-habits-book.md)
 🔗Link::

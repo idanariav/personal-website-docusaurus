@@ -30,9 +30,9 @@ SiteProcssed: true
 # The Extended Mind (book)
 
 ## 🔗Connect
-🔼Topic:: [Memory, Attention and cognitive load (MOC)](/mocs/memory-attention-and-cognitive-load-moc.md)
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 
 
 ## ✒️ Note-Making

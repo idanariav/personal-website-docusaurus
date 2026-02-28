@@ -30,7 +30,7 @@ SiteProcssed: true
 # Wired to Create (book)
 
 ## 🔗Connect
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 
 
 ## ✒️ Note-Making

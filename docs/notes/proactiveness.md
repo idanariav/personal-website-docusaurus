@@ -31,7 +31,7 @@ Proactiveness is the opposite of [Reactance](/notes/reactance.md), we don't reac
 ![Proactiveness.webp](/notes/proactiveness.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin:: [Creativity Inc (book)](/books/creativity-inc-book.md)
 🔗Link::
 

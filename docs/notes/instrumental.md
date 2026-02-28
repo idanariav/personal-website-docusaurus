@@ -33,7 +33,7 @@ The conflict between instrumental and intrinsic properties of objects is similar
 ![Instrumental.webp](/notes/instrumental.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 Origin:: [The Knowledge Project with Shane Parrish](/notes/the-knowledge-project-with-shane-parrish.md)
 Link:: https://share.snipd.com/episode/1098c93b-c96b-43cd-b756-5cfa378aec19
 

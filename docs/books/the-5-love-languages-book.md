@@ -29,7 +29,7 @@ SiteProcssed: true
 # The 5 Love Languages
 
 ## 🔗Connect
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 🔼Topic:: [Relationships](/notes/relationships.md)
 
 

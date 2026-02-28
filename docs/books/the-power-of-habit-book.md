@@ -26,7 +26,7 @@ SiteProcssed: true
 # The Power Of Habit (book)
 
 ## 🔗Connect
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 
 
 

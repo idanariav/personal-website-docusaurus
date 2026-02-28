@@ -28,8 +28,8 @@ SiteProcssed: true
 # Four Thousand Weeks
 
 ## 🔗Connect
-🔼Topic:: [Time Management (MOC)](/mocs/time-management-moc.md)
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Time Management (Map)](/mocs/time-management-map.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 
 ## ✒️ Note-Making
 

@@ -33,7 +33,7 @@ The main tenants of stoicism:
 ![Stoicism.webp](/notes/stoicism.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 ◀Origin:: [How to think like a roman emperor (book)](/books/how-to-think-like-a-roman-emperor-book.md)
 🔗Link::
 

@@ -29,7 +29,7 @@ There's a [hedonistic](/notes/hedonism.md) flair to utility, although it's not n
 ![Utility.webp](/notes/utility.webp)
 
 ## Overview
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
 ↩️Origin::
 🔗Link::
 

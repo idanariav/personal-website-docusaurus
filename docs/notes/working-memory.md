@@ -34,7 +34,7 @@ We should note that our working memory is a tool for the short term. It is a pro
 
 ## Overview
 🔼Topic:: [Human Brain](/notes/human-brain.md)
-🔼Topic:: [Memory, Attention and cognitive load (MOC)](/mocs/memory-attention-and-cognitive-load-moc.md)
+🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
 ↩️Origin::
 🔗Link::
 

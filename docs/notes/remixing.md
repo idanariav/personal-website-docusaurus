@@ -27,7 +27,7 @@ Good remixing recognizes that ideas are [medium independent](/notes/medium-indep
 ![Remixing.webp](/notes/remixing.webp)
 
 ## Overview
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 ↩️Origin::
 🔗Link::
 

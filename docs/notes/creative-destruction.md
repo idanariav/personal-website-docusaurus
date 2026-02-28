@@ -44,8 +44,8 @@ Therefore, both at the societal and individual level, progress requires destruct
 ![Creative Destruction](/notes/creative-destruction.webp)
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
-🔼Topic:: [Biology (MOC)](/mocs/biology-moc.md)
-🔼Topic:: [Change (MOC)](/mocs/change-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
+🔼Topic:: [Biology (Map)](/mocs/biology-map.md)
+🔼Topic:: [Change (Map)](/mocs/change-map.md)
 ◀Origin::
 🔗Link::

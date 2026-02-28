@@ -25,6 +25,6 @@ Without both internal and external knowledge, our decisions, even if feel as if 
 ![free will is knowledge.webp](/notes/free-will-is-knowledge.webp)
 
 ## Overview
-🔼Topic:: [Free Will (MOC)](/mocs/free-will-moc.md)
+🔼Topic:: [Free Will (Map)](/mocs/free-will-map.md)
 ◀Origin:: [Socrates (philosopher)](/notes/socrates-philosopher.md)
 Link:: https://share.snipd.com/episode/af0cb58d-8d3c-4793-bd08-3560f9338aaf

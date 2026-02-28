@@ -25,7 +25,7 @@ Negative or harmful beliefs can also be shared through social constructs. For ex
 ![Social Construct.webp](/notes/social-construct.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 ↩️Origin::
 🔗Link::
 

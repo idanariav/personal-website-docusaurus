@@ -45,6 +45,6 @@ morality is intertwined with our emotions as humans, to detach from them or from
 
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ◀Origin:: [Philosophize This!](/notes/philosophize-this.md)
 🔗Link:: 

@@ -37,8 +37,8 @@ When it comes to physical reserves, consider how much to have based on:
 ![Reserves.webp](/notes/reserves.webp)
 
 ## Overview
-🔼Topic:: [Resource management (MOC)](/mocs/resource-management-moc.md)
-🔼Topic:: [Time Management (MOC)](/mocs/time-management-moc.md)
+🔼Topic:: [Resource management (Map)](/mocs/resource-management-map.md)
+🔼Topic:: [Time Management (Map)](/mocs/time-management-map.md)
 Origin::
 🔗Link::
 

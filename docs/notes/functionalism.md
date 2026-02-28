@@ -18,7 +18,7 @@ The output of a complex machine, whether it is the individual or a social moveme
 That inner desire for each machine to actualize itself is similar to the [will to power](/notes/will-to-power.md)
 
 ## Overview
-🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)
+🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
 Source:: [Philosophize This!](/notes/philosophize-this.md) 
 Source:: [Gilles Deleuze](/notes/gilles-deleuze.md)
 Link: https://share.snipd.com/episode/82e88bf6-8fce-49a2-bca8-4356da5f2957

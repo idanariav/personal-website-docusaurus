@@ -31,7 +31,7 @@ How to avoid imposter syndrome:
 ![Imposter Syndrome.webp](/notes/imposter-syndrome.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
-🔼Topic:: [Success (MOC)](/mocs/success-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
+🔼Topic:: [Success (Map)](/mocs/success-map.md)
 ◀Origin::
 🔗Link::

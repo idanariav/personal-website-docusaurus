@@ -29,8 +29,8 @@ The key is [less is more](/notes/addition-by-subtraction.md), by realizing that 
 ![Multitasking doesnt exist.webp](/notes/multitasking-doesnt-exist.webp)
 
 ## Overview
-🔼Topic:: [Productivity (MOC)](/mocs/productivity-moc.md)
-🔼Topic:: [Memory, Attention and cognitive load (MOC)](/mocs/memory-attention-and-cognitive-load-moc.md)
+🔼Topic:: [Productivity (Map)](/mocs/productivity-map.md)
+🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
 ◀Origin::
 🔗Link::
 

@@ -34,7 +34,7 @@ Additionally, the more we care about our [Ego](/notes/form-vs-essence.md), the m
 ![Guilt.webp](/notes/guilt.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ◀Origin:: [The Happiness Lab with Dr. Laurie Santos](null)
 🔗Link:: [Source](https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/39E17/traffic.megaphone.fm/HSW3326477518.mp3?updated=1643918660 )
 

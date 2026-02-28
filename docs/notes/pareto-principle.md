@@ -38,7 +38,7 @@ Sticking with "what works" sounds good but remember that without experimentation
 ![Pareto Principle.webp](/notes/pareto-principle.webp)
 
 ## Overview
-🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
+🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
 ↩️Origin::
 🔗Link::
 

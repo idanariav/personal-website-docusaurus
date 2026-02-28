@@ -26,7 +26,7 @@ When we are [one](/notes/unity.md) with nature, when we live the "Tao", we don't
 
 ![Wu wei.webp](/notes/wu-wei.webp)
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 ↩️Origin:: [Tao Te Ching (book)](/books/tao-te-ching-book.md)
 🔗Link::
 

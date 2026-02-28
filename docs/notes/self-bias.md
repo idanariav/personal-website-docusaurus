@@ -28,7 +28,7 @@ Unfortunately, in attempts to defend ourselves (or more accurately - our [ego](/
 ![Self Bias.webp](/notes/self-bias.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 ↩️Origin::
 🔗Link::
 

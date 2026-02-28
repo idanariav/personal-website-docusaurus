@@ -27,7 +27,7 @@ Mindfulness is also useful against [Stress](/notes/stress.md), instead of fallin
 ![intentionality.webp](/notes/intentionality.webp)
 
 ## Overview
-🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)
+🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
 ◀Origin::
 🔗Link::
 

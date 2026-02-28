@@ -27,7 +27,7 @@ Practicing movement such as running, swimming, yoga, sports, is not only good fo
 ## Visual
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
-🔼Topic:: [health (MOC)](/mocs/health-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
+🔼Topic:: [health (Map)](/mocs/health-map.md)
 ↩️Origin::
 🔗Link::

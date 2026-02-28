@@ -31,7 +31,7 @@ Sometimes, most of what we focus on due to the streetlight effect is just a low-
 ![streetlight effect.webp](/notes/streetlight-effect.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 ◀Origin::
 🔗Link::
 

@@ -37,8 +37,8 @@ Similarly, envisioning yourself doing a task before actually doing it improves y
 ![Mental Representations](/notes/mental-representations.webp)
 
 ## Overview
-🔼Topic:: Learning (MOC)
-🔼Topic:: Data Visualization (MOC)
+🔼Topic:: Learning (Map)
+🔼Topic:: Data Visualization (Map)
 ◀Origin::
 🔗Link::
 

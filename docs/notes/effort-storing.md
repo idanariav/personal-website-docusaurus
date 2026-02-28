@@ -38,6 +38,6 @@ Therefore, whenever you feel the [Scarcity](/notes/scarcity.md) of time or other
 ![Effort Storing](/notes/effort-storing.webp)
 
 ## Overview
-🔼Topic:: [Memory, Attention and cognitive load (MOC)](/mocs/memory-attention-and-cognitive-load-moc.md)
+🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
 ↩️Origin::
 🔗Link::

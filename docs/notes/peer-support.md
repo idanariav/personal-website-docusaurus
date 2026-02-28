@@ -29,8 +29,8 @@ Our peers can also help us keep ourselves [accountable](/notes/accountability.md
 ![peer support.webp](/notes/peer-support.webp)
 
 ## Overview
-🔼Topic:: [Team Management (MOC)](/mocs/team-management-moc.md)
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [Team Management (Map)](/mocs/team-management-map.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 ↩️Origin:: [Originals (book)](/books/originals-book.md)
 🔗Link:: 
 

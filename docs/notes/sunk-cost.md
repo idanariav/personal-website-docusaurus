@@ -29,7 +29,7 @@ It takes [Humility](/notes/humility.md) to say "I've done enough, let's stop her
 ![Sunk Cost.webp](/notes/sunk-cost.webp)
 
 ## Overview
-🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)
+🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
 ◀Origin::
 🔗Link::
 

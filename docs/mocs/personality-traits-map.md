@@ -9,7 +9,7 @@ draft: false
 SiteProcssed: true
 ---
 
-# Personality Traits (MOC)
+# Personality Traits (Map)
 
 ## Notes
 
@@ -36,8 +36,8 @@ Here is a short list of those:
 19. self [Self-control](/notes/self-control.md) - To be able to act on our beliefs, and avoid doing things that are against our interest
 20. [Trust](/notes/trust.md) - To see others as truthful and believe that they are kind
 
-## Other MOC
-[Will Power (MOC)](/mocs/will-power-moc.md)
-[Creativity (MOC)](/mocs/creativity-moc.md)
+## Other Map
+[Will Power (Map)](/mocs/will-power-map.md)
+[Creativity (Map)](/mocs/creativity-map.md)
 
 ### Overview

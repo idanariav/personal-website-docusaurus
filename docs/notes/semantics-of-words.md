@@ -30,8 +30,8 @@ This means that it is very difficult to research a language from a static stable
 ![Semantics of words.webp](/notes/semantics-of-words.webp)
 
 ## Overview
-🔼Topic:: [Philosophy of Language (MOC)](/mocs/philosophy-of-language-moc.md)
-🔼Topic:: [NLP (MOC)](/mocs/nlp-moc.md)
+🔼Topic:: [Philosophy of Language (Map)](/mocs/philosophy-of-language-map.md)
+🔼Topic:: [NLP (Map)](/mocs/nlp-map.md)
 Source:: [Philosophize This!](/notes/philosophize-this.md)
 Source:: [Jacques Derrida](/notes/jacques-derrida.md)
 Link:: https://share.snipd.com/episode/3e9990bc-d918-4fc6-afcd-ae8a9c2c5cec

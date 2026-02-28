@@ -28,7 +28,7 @@ SiteProcssed: true
 # Digital Minimalism (book)
 
 ## Connect
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 🔼Topic:: [Minimalism](/notes/addition-by-subtraction.md)
 
 ## ✒️ Note-Making

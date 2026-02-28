@@ -28,7 +28,7 @@ Transcendence requires many attributes in order for us not to fall off the path:
 ![transcendence.webp](/notes/transcendence.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 ↩️Origin::
 🔗Link::
 

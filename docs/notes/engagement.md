@@ -40,8 +40,8 @@ this involves usually 5 steps to each note:
 ![Engagement](/notes/engagement.webp)
 
 ## Overview
-🔼Topic:: [Note taking (MOC)](/mocs/note-taking-moc.md)
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Note taking (Map)](/mocs/note-taking-map.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 ◀Origin:: [Linking your Thinking](/notes/linking-your-thinking.md)
 🔗Link:: [Source](https://www.youtube.com/watch?v=q0Pf6ZePNGc)
 

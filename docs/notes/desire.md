@@ -41,7 +41,7 @@ Therefore desire can be thought of as something that we [want less](/notes/addit
 ![Desire](/notes/desire.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ↩️Origin:: [Elucidations](/notes/elucidations.md)
 🔗Link:: [https://share.snipd.com/episode/84d6576d-4f94-407c-a172-3774cbc9ca47](https://share.snipd.com/episode/84d6576d-4f94-407c-a172-3774cbc9ca47)

@@ -41,4 +41,4 @@ In the more personal level, we have the [Attention Economy](/notes/attention-eco
 ### Podcasts
 [Marsupial (podcast)](/notes/marsupial-podcast.md)
 
-## Other MOC
+## Other Map

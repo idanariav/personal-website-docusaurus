@@ -26,7 +26,7 @@ Individualism doesn't support [Giving](/notes/giving.md), or at least only parti
 
 ![Individualism.webp](/notes/individualism.webp)
 ## Overview
-🔼Topic:: [social science (MOC)](/mocs/social-science-moc.md)
+🔼Topic:: [social science (Map)](/mocs/social-science-map.md)
 ↩️Origin::
 🔗Link::
 

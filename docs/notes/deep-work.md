@@ -32,6 +32,6 @@ Today, it is more essential than ever to be able to produce quality work, becaus
 
 ![Deep Work](/notes/deep-work.webp)
 ## Overview
-🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
+🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
 ↩️Origin:: [Deep Work (book)](/books/deep-work-book.md)
 🔗Link::

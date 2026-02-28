@@ -4,12 +4,12 @@ Created: '2022-07-15 05:39'
 Modified: '2022-09-27 11:15'
 Version: 1.01
 tags: []
-Up: '[[PKM (MOC)]]'
+Up: '[[PKM (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Obsidian MOC
+# Obsidian Map
 
 ## Notes
 
@@ -73,9 +73,9 @@ has the option of having a lookup field based on a result of a query, for exampl
 https://marcusolsson.github.io/obsidian-plugin-docs/
 
 
-## Other MOC
+## Other Map
 
-Up:: [Technology (MOC)](/mocs/technology-moc.md)
+Up:: [Technology (Map)](/mocs/technology-map.md)
 
 
 

@@ -29,7 +29,7 @@ Common methods for solitude can be [Meditation](/notes/meditation.md) and [Natur
 ![Solitude.webp](/notes/solitude.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)
 Link:: https://nesslabs.com/loneliness-solitude
 

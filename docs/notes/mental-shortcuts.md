@@ -33,8 +33,8 @@ The more we expose ourselves to a [Range](/notes/breath-beats-depth.md) of diffe
 
 ![Mental Shortcuts.webp](/notes/mental-shortcuts.webp)
 ## Overview
-🔼Topic:: [Memory, Attention and cognitive load (MOC)](/mocs/memory-attention-and-cognitive-load-moc.md)
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 ◀Origin::
 🔗Link::
 

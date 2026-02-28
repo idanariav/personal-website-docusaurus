@@ -32,7 +32,7 @@ Habits are a good way for creating [routines](/notes/trust-the-process.md) for a
 ![Habit formation.webp](/notes/habit-formation.webp)
 
 ## Overview
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 🔼Topic:: [Human Brain](/notes/human-brain.md)
 ↩️Origin:: [Atomic Habits (book)](/books/atomic-habits-book.md)
 🔗Link::

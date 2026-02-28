@@ -32,7 +32,7 @@ SiteProcssed: true
 
 ### 🔗Connect
 
-⬆️Topic:: [personal identity (moc)](/mocs/personal-identity-moc.md)
+⬆️Topic:: [personal identity (moc)](/mocs/personal-identity-map.md)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*

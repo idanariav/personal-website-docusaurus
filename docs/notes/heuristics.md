@@ -49,6 +49,6 @@ We are not always aware of the "rules" that guides our behavior, so the heuristi
 
 
 ## Overview
-🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)
+🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
 ↩️Origin:: [The Curiosity Chronicle by Sahil Bloom](/notes/the-curiosity-chronicle-by-sahil-bloom.md)
 🔗Link::

@@ -34,7 +34,7 @@ Since the world is inherently [complex](/notes/complexity.md), we can't expect o
 ![Ambiguity](/notes/ambiguity.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 ◀Origin::
 🔗Link::
 

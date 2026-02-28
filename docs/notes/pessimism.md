@@ -28,7 +28,7 @@ So why are we pessimistic? Pessimism is "helpful" because it gives us the illusi
 ![Pessimism.webp](/notes/pessimism.webp)
 
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 ↩️Origin::
 🔗Link::
 

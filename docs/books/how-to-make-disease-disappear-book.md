@@ -28,8 +28,8 @@ SiteProcssed: true
 # How to Make Disease Disappear
 
 ## 🔗Connect
-🔼Topic:: [health (MOC)](/mocs/health-moc.md)
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [health (Map)](/mocs/health-map.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 
 ## ✒️ Note-Making
 

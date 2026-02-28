@@ -35,7 +35,7 @@ Distillment requires often a combination of the [Executive Attention Network](/n
 ![Distillment](/notes/distillment.webp)
 
 ## Overview
-🔼Topic:: [Note taking (MOC)](/mocs/note-taking-moc.md)
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Note taking (Map)](/mocs/note-taking-map.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 ◀Origin::
 🔗Link::

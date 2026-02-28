@@ -4,12 +4,12 @@ Created: '2022-07-15 05:38'
 Modified: '2022-09-27 13:09'
 Version: 1.01
 tags: []
-Up: '[[Programming (MOC)]]'
+Up: '[[Programming (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# SQL (MOC)
+# SQL (Map)
 
 ## Notes
 
@@ -39,6 +39,6 @@ SiteProcssed: true
 ### Open databases
 
 - [https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
-## Other MOC
+## Other Map
 
-Up:: [Data Analysis (MOC)](/mocs/data-analysis-moc.md) [Technology (MOC)](/mocs/technology-moc.md)
+Up:: [Data Analysis (Map)](/mocs/data-analysis-map.md) [Technology (Map)](/mocs/technology-map.md)

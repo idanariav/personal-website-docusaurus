@@ -28,7 +28,7 @@ SiteProcssed: true
 # Ethics of Ambiguity (book)
 
 ## 🔗Connect
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 🔼Topic:: [Simone de Beauvoir](/notes/simone-de-beauvoir-philosopher.md)
 
 ## ✒️ Note-Making

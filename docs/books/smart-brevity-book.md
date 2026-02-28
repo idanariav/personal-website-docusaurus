@@ -46,7 +46,7 @@ SiteProcssed: true
 
 ### 🔗Connect
 
-⬆️Topic:: Communication (MOC)
+⬆️Topic:: Communication (Map)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*

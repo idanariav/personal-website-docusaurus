@@ -28,7 +28,7 @@ The [perfect](/notes/perfect-is-the-enemy-of-good.md) tool doesn't exist, so it'
 
 ![shining new thing.webp](/notes/shining-new-thing.webp)
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 ↩️Origin::
 🔗Link::
 

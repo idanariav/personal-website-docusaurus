@@ -14,7 +14,7 @@ SiteProcssed: true
 ## Notes
 
 ```dataview
-LIST FROM [Finance (MOC)](/mocs/finance-moc.md)
-AND  !#Type/MOC 
+LIST FROM [Finance (Map)](/mocs/finance-map.md)
+AND  !#Type/Map 
 ```
-## Other MOC
+## Other Map

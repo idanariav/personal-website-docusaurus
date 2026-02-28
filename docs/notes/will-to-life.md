@@ -26,7 +26,7 @@ The will to live is our biological desire to continue our own existence as indiv
 ![Will to life.webp](/notes/will-to-life.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 Source::  [Schopenhauer](/notes/arthur-schopenhauer-philosopher.md)
 Source:: [Einzelganger](/notes/einzelganger.md)
 Link:: https://www.youtube.com/watch?v=tvj-r0socXA

@@ -37,7 +37,7 @@ We are what we focus on, so focusing on positive things would bring more joy to 
 ![Gratitude.webp](/notes/gratitude.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ↩️Origin::
 🔗Link::
 

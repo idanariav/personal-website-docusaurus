@@ -4,19 +4,19 @@ Created: '2022-07-15 06:38'
 Modified: '2024-06-14 15:53'
 Version: 1
 tags: []
-Up: '[[Data Analysis (MOC)]]'
+Up: '[[Data Analysis (Map)]]'
 draft: true
 SiteProcssed: true
 ---
 
-# Power BI (MOC)
+# Power BI (Map)
 
 ## Notes
 
 ```dataview
-LIST FROM [Power BI (MOC)](/mocs/power-bi-moc.md)
-AND  !#Type/MOC 
+LIST FROM [Power BI (Map)](/mocs/power-bi-map.md)
+AND  !#Type/Map 
 ```
 
-## Other MOC
-[Data Analysis (MOC)](/mocs/data-analysis-moc.md) [Technology (MOC)](/mocs/technology-moc.md)
+## Other Map
+[Data Analysis (Map)](/mocs/data-analysis-map.md) [Technology (Map)](/mocs/technology-map.md)

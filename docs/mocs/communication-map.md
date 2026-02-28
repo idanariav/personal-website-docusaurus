@@ -9,7 +9,7 @@ draft: false
 SiteProcssed: true
 ---
 
-# Communication (MOC)
+# Communication (Map)
 
 ## Notes
 
@@ -58,4 +58,4 @@ Also, it is based on who we communicate with:
 [The 5 Love Languages (book)](/books/the-5-love-languages-book.md)
 [Never Split The Difference (book)](/books/never-split-the-difference-book.md)
 
-## Other MOC
+## Other Map

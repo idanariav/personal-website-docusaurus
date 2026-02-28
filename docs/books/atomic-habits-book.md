@@ -43,7 +43,7 @@ SiteProcssed: true
 ## ✒️ Note-Making
 
 ### 🔗Connect
-🔼Topic:: Habits (MOC)
+🔼Topic:: Habits (Map)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*

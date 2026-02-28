@@ -31,7 +31,7 @@ Rest gives us back the power we need in order to act according to who we want to
 ![Rest.webp](/notes/rest.webp)
 
 ## Overview
-🔼Topic:: [health (MOC)](/mocs/health-moc.md)
+🔼Topic:: [health (Map)](/mocs/health-map.md)
 ↩️Origin::
 🔗Link::
 

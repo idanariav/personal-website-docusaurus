@@ -28,7 +28,7 @@ This is also similar to cases of moral hazard. If you are not the bearer of the 
 ![Shirky Principle.webp](/notes/shirky-principle.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 Origin:: [The Curiosity Chronicle by Sahil Bloom](/notes/the-curiosity-chronicle-by-sahil-bloom.md)
 Link:: [Link](https://www.sahilbloom.com/newsletter/the-greatest-life-hack-decision-making-tools-more)
 

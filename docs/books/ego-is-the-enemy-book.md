@@ -29,8 +29,8 @@ SiteProcssed: true
 # Ego Is The Enemy (book)
 
 ## Connect
-🔼Topic:: [Success (MOC)](/mocs/success-moc.md)
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Success (Map)](/mocs/success-map.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 
 ## ✒️ Note-Making
 

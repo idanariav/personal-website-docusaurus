@@ -31,7 +31,7 @@ These aspects combined allow us to undergo a moment of [Identity Discovery](/not
 ![self talk.webp](/notes/self-talk.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 Origin:: [Chatter (book)](/books/chatter-book.md)
 🔗Link::
 

@@ -29,7 +29,7 @@ In contrast, a bit more [Skepticism](/notes/critical-thinking.md), would remove 
 ![over confidence.webp](/notes/over-confidence.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 ↩️Origin::
 🔗Link::
 

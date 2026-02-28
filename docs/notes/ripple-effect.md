@@ -33,7 +33,7 @@ Considering the ripple effect of our actions reminds [categorical imperative](/n
 ![Ripple effect.webp](/notes/ripple-effect.webp)
 
 ## Overview
-🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)
+🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
 ↩️Origin:: [Creativity Inc (book)](/books/creativity-inc-book.md)
 🔗Link::
 

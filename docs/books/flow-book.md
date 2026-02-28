@@ -29,7 +29,7 @@ SiteProcssed: true
 # Flow (book)
 
 ## Connect
-🔼Topic:: [Behavioral Psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [Behavioral Psychology (Map)](/mocs/behavioral-psychology-map.md)
 🔼Topic:: [Flow](/notes/flow.md)
 
 ## ✒️ Note-Making

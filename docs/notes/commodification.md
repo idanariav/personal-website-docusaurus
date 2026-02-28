@@ -36,7 +36,7 @@ Commodification increases the distance between [Form vs essence](/notes/form-vs-
 ![Commodification](/notes/commodification.webp)
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
-🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
+🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
 ◀Origin::
 🔗Link::

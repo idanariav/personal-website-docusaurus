@@ -30,7 +30,7 @@ Having a lifelong learning mindset, we need to:
 ![Lifelong Learning.webp](/notes/lifelong-learning.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 ◀Origin::
 🔗Link::
 

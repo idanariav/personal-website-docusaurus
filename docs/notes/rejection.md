@@ -27,8 +27,8 @@ Rejection is a very common phenomenon and one of our greatest [Fear](/notes/fear
 ![Rejection.webp](/notes/rejection.webp)
 
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 Origin:: [Einzelganger](/notes/einzelganger.md)
 🔗Link:: [Source](https://youtu.be/AVDTQ_MsUfY)
 

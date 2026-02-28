@@ -24,6 +24,6 @@ This idea has arisen in the time of the industrial revolution, mainly by [Adam S
 ![Specialization.webp](/notes/specialization.webp)
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
 ◀Origin::
 🔗Link:: 

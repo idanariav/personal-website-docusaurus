@@ -33,6 +33,6 @@ However, we don't always live up to our ideals, sometimes we don't even try [Ins
 ![Core Values](/notes/core-values.webp)
 
 ## Overview
-🔼Topic:: [Personal identity (MOC)](/mocs/personal-identity-moc.md)
+🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
 ↩️Origin::
 🔗Link::

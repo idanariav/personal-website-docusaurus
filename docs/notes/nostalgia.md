@@ -21,7 +21,7 @@ Since [Post-Modernism](/notes/post-modernism.md) is about [deconstruction](/note
 ## Visual
 
 ## Overview
-🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)
+🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
 ↩️Origin:: [Mark Fisher](/notes/mark-fisher.md) 
 Origin:: [Philosophize This!](/notes/philosophize-this.md)
 🔗Link:: [Link](https://share.snipd.com/episode/f247490f-d9f3-428d-8335-ae8609483b6a)

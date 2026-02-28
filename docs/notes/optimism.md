@@ -27,7 +27,7 @@ A strong force that opposes optimism in a hidden way is [Nostalgia](/notes/nosta
 ![Optimism.webp](/notes/optimism.webp)
 
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 ↩️Origin::
 🔗Link::
 

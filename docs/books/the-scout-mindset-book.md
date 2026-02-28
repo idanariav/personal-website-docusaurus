@@ -44,7 +44,7 @@ SiteProcssed: true
 
 ### 🔗Connect
 
-⬆️Topic:: Mindset (MOC)
+⬆️Topic:: Mindset (Map)
 ⬆️Topic:: Critical Thinking
 
 ### 💡Clarify

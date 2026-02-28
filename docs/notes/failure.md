@@ -38,8 +38,8 @@ A positive view on failures can help us turn them into [stepping stones](/notes/
 ![Failure](/notes/failure.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
-🔼Topic:: [Success (MOC)](/mocs/success-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
+🔼Topic:: [Success (Map)](/mocs/success-map.md)
 ◀Origin::
 🔗Link::
 

@@ -35,7 +35,7 @@ SiteProcssed: true
 ## ✒️ Note-Making
 
 ### 🔗Connect
-🔼Topic:: [Personal identity (MOC)](/mocs/personal-identity-moc.md)
+🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
 
 
 ### 💡Clarify

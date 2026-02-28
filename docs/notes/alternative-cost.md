@@ -39,7 +39,7 @@ Thinking about alternative costs can weaken the effects of other costs such as [
 ![Alternative cost](/notes/alternative-cost.webp)
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
-🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
+🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
 ◀Origin::
 🔗Link::

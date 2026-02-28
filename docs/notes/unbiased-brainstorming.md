@@ -20,7 +20,7 @@ It is difficult to *unknow* what we know
 This method increases the chances for a creative output because you are less likely to be anchored to think like others, and it forces you to engage with the topic on a higher level.
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
-🔼Topic:: [Team Management (MOC)](/mocs/team-management-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
+🔼Topic:: [Team Management (Map)](/mocs/team-management-map.md)
 ◀Origin:: 
 🔗Link:: [Source](https://fs.blog/remember-books/)

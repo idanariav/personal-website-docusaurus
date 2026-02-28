@@ -31,8 +31,8 @@ Being a good role requires:
 ![Role Models.webp](/notes/role-models.webp)
 
 ## Overview
-🔼Topic:: [Motivation (MOC)](/mocs/motivation-moc.md)
-🔼Topic:: [Behavioral Psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [Motivation (Map)](/mocs/motivation-map.md)
+🔼Topic:: [Behavioral Psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

@@ -4,18 +4,18 @@ Created: '2022-07-15 06:38'
 Modified: '2024-06-14 15:15'
 Version: 1
 tags: []
-Up: '[[PKM (MOC)]]'
+Up: '[[PKM (Map)]]'
 draft: true
 SiteProcssed: true
 ---
 
-# Notion (MOC)
+# Notion (Map)
 
 ## Notes
 
 ```dataview
-LIST FROM [Notion (MOC)](/mocs/notion-moc.md)
-AND  !#Type/MOC 
+LIST FROM [Notion (Map)](/mocs/notion-map.md)
+AND  !#Type/Map 
 ```
 ### Formulas
 
@@ -30,4 +30,4 @@ https://notway.notion.site/List-of-150-Free-Notion-templates-c40ff7778c57418580d
 https://notion-icons.com/
 
 https://notionicons.so/
-## Other MOC
+## Other Map

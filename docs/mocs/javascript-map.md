@@ -4,15 +4,15 @@ Created: '2023-03-28 06:57'
 Modified: '2023-03-28 06:57'
 Version: 1
 tags: []
-Up: '[[Programming (MOC)]]'
+Up: '[[Programming (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# JavaScript (MOC)
+# JavaScript (Map)
 
 ## Notes
 
 
-## Other MOC
+## Other Map
 

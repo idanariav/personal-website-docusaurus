@@ -25,7 +25,7 @@ The appeal of hedonism that it is really easy to [Love what is good](/notes/love
 ![Hedonism.webp](/notes/hedonism.webp)
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ↩️Origin::
 🔗Link::
 

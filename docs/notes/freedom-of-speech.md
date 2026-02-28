@@ -21,6 +21,6 @@ Freedom of speech is considered one of the basic tenants of modern society. It a
 ## Visual
 
 ## Overview
-🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)
+🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
 ↩️Origin::
 🔗Link::

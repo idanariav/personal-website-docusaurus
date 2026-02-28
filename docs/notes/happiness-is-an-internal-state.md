@@ -27,6 +27,6 @@ This doesn't mean that being happy is a simple choice, we often feel overwhelmed
 ![Happiness is an internal state.webp](/notes/happiness-is-an-internal-state.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ◀Origin::
 🔗Link:: 

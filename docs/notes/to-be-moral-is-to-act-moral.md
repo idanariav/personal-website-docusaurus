@@ -31,6 +31,6 @@ The desire for knowledge before action can cripple us if we focus only on the in
 ![to be moral is to act moral.webp](/notes/to-be-moral-is-to-act-moral.webp)
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ◀Origin:: [Aristotle (philosopher)](/notes/aristotle-philosopher.md)
 🔗Link::

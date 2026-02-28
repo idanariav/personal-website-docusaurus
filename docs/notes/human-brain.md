@@ -37,7 +37,7 @@ Our brain is anything but statis. It has proven that the brain has [Neuroplastic
 ![Human Brain.webp](/notes/human-brain.webp)
 
 ## Overview
-🔼Topic:: [Biology (MOC)](/mocs/biology-moc.md)
+🔼Topic:: [Biology (Map)](/mocs/biology-map.md)
 🔼Topic:: [Theory of Mind](/notes/theory-of-mind.md)
 ◀Origin::
 🔗Link:: [link](https://share.snipd.com/episode/f6318ba4-f1cd-4506-947d-7d9a24622473)

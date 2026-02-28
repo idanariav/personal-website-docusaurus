@@ -18,8 +18,8 @@ Smart people are not necessarily good people, and not just because they fail to 
 The best we can hope for when sticking with intelligence alone is a misguided [Utilitarianism](/notes/utilitarianism.md), where the person tries to maximize something, like pleasure, ignoring all other aspects of morality. [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md)
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 Origin:: [Life 3.0 (book)](null)
 🔗Link:: 
 

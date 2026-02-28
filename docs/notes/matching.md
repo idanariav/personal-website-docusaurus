@@ -22,7 +22,7 @@ Matching is often the result of [Experimentation](/notes/testing.md). It is to f
 
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
 ↩️Origin:: [Range (book)](/books/range-book.md)
 🔗Link:: 
 

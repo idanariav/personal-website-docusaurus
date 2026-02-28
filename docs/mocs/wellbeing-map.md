@@ -4,12 +4,12 @@ Created: '2023-03-31 13:28'
 Modified: '2023-03-31 13:28'
 Version: 1
 tags: []
-Up: '[[Existentialism (MOC)]]'
+Up: '[[Existentialism (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Wellbeing (MOC)
+# Wellbeing (Map)
 
 ## Notes
 
@@ -27,7 +27,7 @@ A common related concept is [Maslows pyramid](/notes/maslows-pyramid.md), that s
 7. [Solitude](/notes/solitude.md) - To be with oneself, to explore our rich inner world
 8. [Relationships](/notes/relationships.md) - a deep connection with others
 9. [Agency](/notes/agency.md) - having a sense of control over yourself and your environment 
-10. [Existentialism (MOC)](/mocs/existentialism-moc.md) - having a sense of purpose in life
+10. [Existentialism (Map)](/mocs/existentialism-map.md) - having a sense of purpose in life
 11. [Happiness is to be virtuous](/notes/happiness-is-to-be-virtuous.md) - when we align between our values and our behavior, which leads to happiness
 12. [Happiness is shared](/notes/happiness-is-shared.md) - when we find pleasure in sharing our happiness with others, and sharing in their happiness as well
 13. [Gratitude](/notes/gratitude.md) - when we appreciate the good in our live
@@ -64,8 +64,8 @@ A common related concept is [Maslows pyramid](/notes/maslows-pyramid.md), that s
 # Articles 
 Link:: https://nesslabs.com/psychology-of-happiness
 
-## Other MOC
-[Success (MOC)](/mocs/success-moc.md)
+## Other Map
+[Success (Map)](/mocs/success-map.md)
 
 
 ### Overview

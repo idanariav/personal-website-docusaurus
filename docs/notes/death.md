@@ -35,7 +35,7 @@ Death is also perhaps the great motivator. It is a constant reminder of the [Fle
 ![Death](/notes/death.webp)
 
 ## Overview
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
 ↩️Origin::
 🔗Link::
 

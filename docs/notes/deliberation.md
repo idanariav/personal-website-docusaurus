@@ -33,6 +33,6 @@ Communicating in such a way is invigorating, it's [in our nature](/notes/communi
 ![Deliberation](/notes/deliberation.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin::
 🔗Link::

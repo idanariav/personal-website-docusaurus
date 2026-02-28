@@ -4,7 +4,7 @@ Created: '2023-03-24 06:54'
 Modified: '2024-03-25 08:38'
 Version: 1.01
 tags: []
-Up: '[[Behavioral Psychology (MOC)]]'
+Up: '[[Behavioral Psychology (Map)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -35,6 +35,6 @@ There are many kinds of different biases:
 12. [Dunning-kruger effect](/notes/dunning-kruger-effect.md) - the less we know about a subject, the more confident we are in our knowledge of it
 13. [Is vs Ought](/notes/is-vs-ought.md) - we use reality as a justification for our beliefs, while ignoring whether the reality has resulted from those beliefs or due to other factors.
 
-## Other MOC
+## Other Map
 
 

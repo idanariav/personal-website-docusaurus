@@ -4,7 +4,7 @@ Created: '2022-09-23 18:40'
 Modified: '2024-03-25 07:29'
 Version: 1.02
 tags: []
-Up: '[[Technology (MOC)]]'
+Up: '[[Technology (Map)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -33,8 +33,8 @@ Famous models - Bert (nlp), GPT-3 (NLP)
 
 ## 📥Unsorted Notes
 ```dataview
-LIST FROM [Data Science (MOC)](/mocs/data-science-moc.md) AND -outgoing([Data Science (MOC)](/mocs/data-science-moc.md))
-AND  !#Type/MOC 
+LIST FROM [Data Science (Map)](/mocs/data-science-map.md) AND -outgoing([Data Science (Map)](/mocs/data-science-map.md))
+AND  !#Type/Map 
 sort file.name asc
 ```
 
@@ -87,4 +87,4 @@ https://huggingface.co/spaces/AP123/IllusionDiffusion
 https://www.perplexity.ai
 ### How to Create a Personal Portfolio
 
-## Other MOC
+## Other Map

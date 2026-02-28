@@ -29,7 +29,7 @@ Usually, a conflicting narrative is very harmful to our sense of self. So more l
 
 ![Identity Discovery.webp](/notes/identity-discovery.webp)
 ## Overview
-🔼Topic:: [Personal identity (MOC)](/mocs/personal-identity-moc.md)
+🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
 Source:: [The Knowledge Project with Shane Parrish](/notes/the-knowledge-project-with-shane-parrish.md)
 Link:: https://share.snipd.com/episode/4b1b0998-cd25-456c-9522-e14d44f143ba
 

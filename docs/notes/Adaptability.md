@@ -36,6 +36,6 @@ Adapting is not easy, as a default we tend to resist change. It is like trying t
 ![Adaptability](/notes/adaptability.webp)
 
 ## Overview
-Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin::
 🔗Link::

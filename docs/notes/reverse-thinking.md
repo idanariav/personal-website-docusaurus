@@ -32,7 +32,7 @@ It is similar to the [The law of reverse effect](/notes/the-law-of-reverse-effec
 ![Reverse Thinking.webp](/notes/reverse-thinking.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

@@ -27,7 +27,7 @@ Therefore, an object, is also something that is fixed, unchanging, again like a 
 ![Objectivity.webp](/notes/objectivity.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 ◀Origin:: [Ethics of ambiguity (book)](/books/ethics-of-ambiguity-book.md)
 🔗Link::
 

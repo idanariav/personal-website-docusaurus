@@ -36,6 +36,6 @@ At the social level, it can be argued that empathy promotes [Cooperation](/notes
 ![Empathy](/notes/empathy.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ◀Origin::
 🔗Link::

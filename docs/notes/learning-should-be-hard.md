@@ -26,7 +26,7 @@ We can see learning as doing exercises, comparing the brain to a muscle. Somethi
 
 ![learning should be hard.webp](/notes/learning-should-be-hard.webp)
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 Origin::
 🔗Link::
 

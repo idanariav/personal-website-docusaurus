@@ -28,7 +28,7 @@ Competition is when each person tries to gain something at the expense of anothe
 
 ![Competition](/notes/competition.webp)
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
 ↩️Origin::
 🔗Link::
 

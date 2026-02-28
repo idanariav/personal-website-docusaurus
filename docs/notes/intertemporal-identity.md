@@ -27,7 +27,7 @@ We might also consider that a person is also the after-image that he leaves in t
 ![Intertemporal Identity.webp](/notes/intertemporal-identity.webp)
 
 ## Overview
-🔼Topic:: [Personal identity (MOC)](/mocs/personal-identity-moc.md)
+🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
 ◀Origin:: [Hi-Fi Nation](/notes/hi-fi-nation.md)
 🔗Link:: [Source](https://www.podcastrepublic.net/episode/35063478554)
 

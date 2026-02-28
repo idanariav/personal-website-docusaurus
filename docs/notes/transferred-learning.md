@@ -38,8 +38,8 @@ It can also be perceived as a type of creative thinking, because combining knowl
 ![Transferred Learning.webp](/notes/transferred-learning.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 ◀Origin::
 🔗Link::
 

@@ -37,6 +37,6 @@ In contrast, constantly seeking for [Cognitive Alignment](/notes/cognitive-align
 ![Cognitive Distancing](/notes/cognitive-distancing.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ◀Origin::
 🔗Link::

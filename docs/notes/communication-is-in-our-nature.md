@@ -29,7 +29,7 @@ People enjoy social interaction - "nobody waves, but everyone waves back". Again
 ![Communication is in our nature](/notes/communication-is-in-our-nature.webp)
 
 ## Overview
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 Origin:: [Hidden Brain](/notes/hidden-brain.md)
 🔗Link:: [link]([https://share.snipd.com/episode/ff7b476b-773b-4b59-82cd-4b62402af31e](https://share.snipd.com/episode/ff7b476b-773b-4b59-82cd-4b62402af31e))

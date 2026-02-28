@@ -31,6 +31,6 @@ A state of harmony is the true meaning of [Optimization](/notes/optimization.md)
 ![harmonious self.webp](/notes/harmonious-self.webp)
 
 ## Overview
-🔼Topic:: [Personal identity (MOC)](/mocs/personal-identity-moc.md)
+🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
 Origin::
 🔗Link:: 

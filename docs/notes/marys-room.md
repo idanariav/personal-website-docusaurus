@@ -24,7 +24,7 @@ Then, she is allowed to step outside and sees red for the first time. The questi
 
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 ↩️Origin::
 🔗Link:: 
 

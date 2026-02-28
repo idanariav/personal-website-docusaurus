@@ -44,8 +44,8 @@ To do things in the best opportunity to maximize effectiveness. Good timing crea
 ![Contextual synergy](/notes/contextual-synergy.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
-🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
+🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
 Origin::
 🔗Link::
 

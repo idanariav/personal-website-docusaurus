@@ -43,8 +43,8 @@ What to do instead:
 ![Crowding Out](/notes/crowding-out.webp)
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
-🔼Topic:: [Behavioral Psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
+🔼Topic:: [Behavioral Psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

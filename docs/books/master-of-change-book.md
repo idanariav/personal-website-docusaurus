@@ -31,7 +31,7 @@ SiteProcssed: true
 ## ✒️ Note-Making
 
 ### 🔗Connect
-🔼Topic:: [Change (MOC)](/mocs/change-moc.md)
+🔼Topic:: [Change (Map)](/mocs/change-map.md)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*

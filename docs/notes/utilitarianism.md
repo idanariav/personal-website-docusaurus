@@ -41,7 +41,7 @@ Personally, there are a few more reasons why utilitarianism would be a worse mor
 ![Utilitarianism](/notes/utilitarianism.webp)
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ◀Origin::
 🔗Link::
 

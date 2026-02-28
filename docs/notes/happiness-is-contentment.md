@@ -30,7 +30,7 @@ It is to live in [Moderation](/notes/balance-extremes.md) and [Minimalism](/note
 
 ![Happiness is contentment.webp](/notes/happiness-is-contentment.webp)
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 Source:: [History of Philosophy Without Any Gaps](/notes/history-of-philosophy-without-any-gaps.md)
 Source:: [Aristotle](/notes/aristotle-philosopher.md)
 Link:: https://share.snipd.com/episode/575595c0-a956-4d95-b61b-14685aa73745

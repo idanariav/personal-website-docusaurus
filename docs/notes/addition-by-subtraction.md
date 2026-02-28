@@ -38,7 +38,7 @@ This means that in some areas of our lives, such as our online presence [Attenti
 
 ![Addition by subtraction](/notes/addition-by-subtraction.webp)
 ## Overview
-Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
-Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+Topic:: [Creativity (Map)](/mocs/creativity-map.md)
+Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 Origin:: [Hidden Brain](/notes/hidden-brain.md)
 🔗Link:: [Source](https://www.podcastrepublic.net/episode/59136686861)

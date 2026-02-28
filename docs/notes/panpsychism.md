@@ -20,6 +20,6 @@ It might be considered that [Extended Mind](/notes/extended-mind.md) is partiall
 Pan psychism goes against the idea that consciousness is a human experience alone. If it is, then everything is only as valued as it serves a purpose for us [Commodification](/notes/commodification.md). But if it is conscious in a way, that it has it's own value for existing. It is easier to see in the case of animals, but what about plants. **There is a meaning of being alive**, and while it is different experience, and perhaps humans have the most developed system of them all, but **it is more common than we realized**
 
 ## Overview
-🔼Topic:: [Metaphysics (MOC)](/mocs/metaphysics-moc.md)
+🔼Topic:: [Metaphysics (Map)](/mocs/metaphysics-map.md)
 Origin:: [Philosophize This!](/notes/philosophize-this.md)
 Link:: https://share.snipd.com/episode/17ceabfb-05b4-4ff2-ad3a-c4828f808b4b

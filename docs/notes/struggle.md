@@ -38,7 +38,7 @@ The way to convert trauma into growth is:
 ![Struggle.webp](/notes/struggle.webp)
 
 ## Overview
-🔼Topic:: [Change (MOC)](/mocs/change-moc.md)
+🔼Topic:: [Change (Map)](/mocs/change-map.md)
 ◀Origin::
 🔗Link::
 

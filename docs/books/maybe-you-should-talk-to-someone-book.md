@@ -29,7 +29,7 @@ SiteProcssed: true
 # Maybe You Should Talk to Someone (book)
 
 ## 🔗Connect
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 
 
 ## ✒️ Note-Making

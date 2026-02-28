@@ -36,6 +36,6 @@ That suggests that at least on some level we have an [intrapersonal conflict](/n
 ![Akrasia](/notes/akrasia.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ↩️Origin::
 🔗Link::

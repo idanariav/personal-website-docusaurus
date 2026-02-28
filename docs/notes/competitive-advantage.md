@@ -36,7 +36,7 @@ Usually, a competitive advantage doesn't last forever, we have to keep honing it
 ![Competitive Advantage](/notes/competitive-advantage.webp)
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
 ↩️Origin::
 🔗Link::
 

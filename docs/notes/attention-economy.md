@@ -33,6 +33,6 @@ When it comes to social media, the solution is [less is more](/notes/addition-by
 ![Attention Economy](/notes/attention-economy.webp)
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
 ◀Origin::
 🔗Link::

@@ -18,7 +18,7 @@ Feel free to roam around, there are notes about morality, productivity, happines
 
 This folder has three main sesctions:
 1. **Notes** - Core atomic ideas, the basic building block of knowledge.
-2. **Maps of Content** - Each note is an overview of a given topic. For example the Existentialism Map of content (or MOC for short) links to all the notes that are related to that topic.
+2. **Maps of Content** - Each note is an overview of a given topic. For example the Existentialism Map of content (or Map for short) links to all the notes that are related to that topic.
 3. **Book Summaries** - A detailed summary for non-fiction books, including a general summary and analysis, and a chapter by chapter summary.
 
 ## Feeling inspired?

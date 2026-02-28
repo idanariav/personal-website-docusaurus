@@ -4,7 +4,7 @@ Created: '2023-03-28 06:47'
 Modified: '2024-03-26 09:04'
 Version: 1.01
 tags: []
-Up: '[[Behavioral Psychology (MOC)]]'
+Up: '[[Behavioral Psychology (Map)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -41,6 +41,6 @@ our social nature:
 [Theory of Moral Sentiments (book)](/books/theory-of-moral-sentiments-book.md)
 [Behave (book)](/books/behave-book.md)
 
-## Other MOC
+## Other Map
 
 ### Overview

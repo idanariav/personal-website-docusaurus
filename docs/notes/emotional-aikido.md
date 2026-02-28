@@ -38,8 +38,8 @@ If you are envy of someone else, learn how they got to where they are so that yo
 ![Emotional Aikido](/notes/emotional-aikido.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ◀Origin::
 🔗Link::
 

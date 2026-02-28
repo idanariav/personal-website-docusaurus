@@ -26,6 +26,6 @@ This cost occurs also when our attention fades due to [Distractions](/notes/proc
 ![Task Switching.webp](/notes/task-switching.webp)
 
 ## Overview
-🔼Topic:: [Productivity (MOC)](/mocs/productivity-moc.md)
+🔼Topic:: [Productivity (Map)](/mocs/productivity-map.md)
 ◀Origin:: 
 🔗Link:: 

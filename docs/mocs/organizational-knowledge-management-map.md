@@ -104,7 +104,7 @@ Often knowledge travels in more than a single tool, including email, messages, m
 ### An OKM implementation plan 
 
 
-## Other MOC
+## Other Map
 
 
 ### Overview

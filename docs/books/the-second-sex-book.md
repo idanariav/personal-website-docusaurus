@@ -30,7 +30,7 @@ SiteProcssed: true
 
 ## 🔗Connect
 🔼Topic:: [feminism 2bc](/notes/feminism-2bc.md)
-🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)
+🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
 
 ## ✒️ Note-Making
 

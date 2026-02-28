@@ -4,17 +4,17 @@ Created: '2022-07-15 06:38'
 Modified: '2024-06-14 15:08'
 Version: 1
 tags: []
-Up: '[[Behavioral Psychology (MOC)]]'
+Up: '[[Behavioral Psychology (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Leadership (MOC)
+# Leadership (Map)
 
 ## Notes
 
 ```dataview
-LIST FROM [Leadership (MOC)](/mocs/leadership-moc.md)
-AND  !#Type/MOC 
+LIST FROM [Leadership (Map)](/mocs/leadership-map.md)
+AND  !#Type/Map 
 ```
-## Other MOC
+## Other Map

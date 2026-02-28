@@ -4,20 +4,20 @@ Created: '2022-07-15 06:38'
 Modified: '2024-06-14 15:53'
 Version: 1
 tags: []
-Up: '[[Communication (MOC)]]'
+Up: '[[Communication (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Presentations (MOC)
+# Presentations (Map)
 
 ## Notes
 
 ```dataview
-LIST FROM [Presentations (MOC)](/mocs/presentations-moc.md)
-AND  !#Type/MOC 
+LIST FROM [Presentations (Map)](/mocs/presentations-map.md)
+AND  !#Type/Map 
 ```
 
-## Other MOC
+## Other Map
 
-[Data Analysis (MOC)](/mocs/data-analysis-moc.md)
+[Data Analysis (Map)](/mocs/data-analysis-map.md)

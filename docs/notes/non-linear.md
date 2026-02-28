@@ -32,7 +32,7 @@ Non linearity forces us to be [flexible](/notes/adaptability.md), [patient](/not
 ![non linear.webp](/notes/non-linear.webp)
 
 ## Overview
-🔼Topic:: [Change (MOC)](/mocs/change-moc.md)
+🔼Topic:: [Change (Map)](/mocs/change-map.md)
 ↩️Origin::
 🔗Link::
 

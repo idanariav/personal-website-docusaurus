@@ -33,9 +33,9 @@ Another drawback is that even a clear goal doesn't always come with a prescripti
 
 ![Life's Mission.webp](/notes/lifes-mission.webp)
 ## Overview
-🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
-🔼Topic:: [Motivation (MOC)](/mocs/motivation-moc.md)
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
+🔼Topic:: [Motivation (Map)](/mocs/motivation-map.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 ◀Origin::
 🔗Link::
 

@@ -24,7 +24,7 @@ Rather than believe that [truth](/notes/truth.md) is an [emergent](/notes/emerge
 
 ![Reductionism.webp](/notes/reductionism.webp)
 ## Overview
-🔼Topic:: [Metaphysics (MOC)](/mocs/metaphysics-moc.md)
+🔼Topic:: [Metaphysics (Map)](/mocs/metaphysics-map.md)
 ↩️Origin::
 🔗Link::
 

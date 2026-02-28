@@ -34,7 +34,7 @@ If this is how humanity is described, which suggests that it might not be that [
 
 ![Agent vs society moralism](/notes/agent-vs-society-moralism.webp)
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 🔼Topic:: [Altruism](/notes/giving.md)
 Origin:: [Hi-Fi Nation](/notes/hi-fi-nation.md)
 🔗Link:: [Source](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/28D492/traffic.megaphone.fm/SLT4676596066.mp3?updated=1637274554)

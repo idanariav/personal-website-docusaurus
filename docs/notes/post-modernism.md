@@ -31,7 +31,7 @@ In my opinion, while it does allow for individuality to thrive, and especially w
 ![Post-Modernisem.webp](/notes/post-modernisem.webp)
 
 ## Overview
-🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)
+🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
 Source:: [Philosophize This!](/notes/philosophize-this.md)
 Link:: https://share.snipd.com/episode/d8943990-cf1e-4f82-87c5-f448f606a297
 

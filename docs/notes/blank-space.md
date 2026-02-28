@@ -46,7 +46,7 @@ This is true also to time and energy. When planning your day, it's important to 
 ![Blank Space](/notes/blank-space.webp)
 
 ## Overview
-🔼Topic:: [Resource management (MOC)](/mocs/resource-management-moc.md)
-🔼Topic:: [Memory, Attention and cognitive load (MOC)](/mocs/memory-attention-and-cognitive-load-moc.md)
+🔼Topic:: [Resource management (Map)](/mocs/resource-management-map.md)
+🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
 ↩️Origin::
 🔗Link::

@@ -39,7 +39,7 @@ As with utilitarianism, the attempt to reduce morality into a simplistic, ration
 ![Deontology](/notes/deontology.webp)
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ◀Origin:: [Immanuel Kant (philosopher)](/notes/immanuel-kant-philosopher.md)
 🔗Link::
 

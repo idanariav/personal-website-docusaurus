@@ -30,7 +30,7 @@ In general, being [kind](/notes/giving.md), even if you have to take the first s
 ![win win situations.webp](/notes/win-win-situations.webp)
 
 ## Overview
-🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin::
 🔗Link::

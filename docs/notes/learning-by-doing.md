@@ -30,7 +30,7 @@ There's no escaping the truth that [practice beats perfection](/notes/practice-b
 ![learning by doing.webp](/notes/learning-by-doing.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 ↩️Origin::
 🔗Link::
 

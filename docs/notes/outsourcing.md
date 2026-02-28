@@ -26,7 +26,7 @@ Deciding what to outsource is not a simple decision, and has major consequences.
 
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
 🔼Topic:: [Mastery](/notes/mastery.md)
 ↩️Origin::
 🔗Link:: 

@@ -37,7 +37,7 @@ We have a tendency to maintain the [status quo](/notes/status-quo-bias.md), to c
 ![When to Quit.webp](/notes/when-to-quit.webp)
 
 ## Overview
-🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)
+🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
 ◀Origin:: [you are not so smart](/notes/you-are-not-so-smart.md)
 🔗Link:: [https://www.podcastrepublic.net/episode/72747137095](https://www.podcastrepublic.net/episode/72747137095)
 

@@ -41,8 +41,8 @@ to avoid burnout:
 ![Burnout](/notes/burnout.webp)
 
 ## Overview
-🔼Topic:: [Motivation (MOC)](/mocs/motivation-moc.md)
-🔼Topic:: [Productivity (MOC)](/mocs/productivity-moc.md)
+🔼Topic:: [Motivation (Map)](/mocs/motivation-map.md)
+🔼Topic:: [Productivity (Map)](/mocs/productivity-map.md)
 ◀Origin:: [Matt DAvella](/notes/matt-davella.md)
 🔗Link:: [Source](https://www.youtube.com/watch?v=xY0tJAkukWc&t=639s)
 

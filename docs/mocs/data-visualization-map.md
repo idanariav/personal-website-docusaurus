@@ -4,7 +4,7 @@ Created: '2024-02-24 09:18'
 Modified: '2024-02-24 09:18'
 Version: 1
 tags: []
-Up: '[[Technology (MOC)]]'
+Up: '[[Technology (Map)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -14,7 +14,7 @@ SiteProcssed: true
 ## Notes
 
 
-## Other MOC
-[Data Science (MOC)](/mocs/data-science-moc.md)
+## Other Map
+[Data Science (Map)](/mocs/data-science-map.md)
 
 ### Overview

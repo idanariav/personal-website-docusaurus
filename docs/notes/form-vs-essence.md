@@ -37,6 +37,6 @@ Catering to our ego instead of cultivating ourselves is one of the reasons many 
 ![form vs essence.webp](/notes/form-vs-essence.webp)
 
 ## Overview
-🔼Topic:: [Personal identity (MOC)](/mocs/personal-identity-moc.md)
+🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
 ◀Origin::
 🔗Link::

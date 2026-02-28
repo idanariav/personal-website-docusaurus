@@ -5,13 +5,13 @@ Modified: '2024-03-27 08:42'
 Version: 1.01
 tags: []
 aliases:
-  - morality (MOC)
-Up: '[[Philosophy (MOC)]]'
+  - morality (Map)
+Up: '[[Philosophy (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Ethics (MOC)
+# Ethics (Map)
 
 ## Notes
 
@@ -65,4 +65,4 @@ What makes us moral?
 [Eastern Philosophy (philosopher)](/notes/eastern-philosophy-philosopher.md)
 [Aristotle (philosopher)](/notes/aristotle-philosopher.md)
 
-## Other MOC
+## Other Map

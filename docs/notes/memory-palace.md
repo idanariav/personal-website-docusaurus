@@ -25,7 +25,7 @@ For example, instead of trying to memorize a todo-list such as go to the groceri
 
 ![Memory Palace.webp](/notes/memory-palace.webp)
 ## Overview
-🔼Topic:: [Memory, Attention and cognitive load (MOC)](/mocs/memory-attention-and-cognitive-load-moc.md)
+🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
 ↩️Origin:: [Moonwalking with Einstein (book)](/notes/moonwalking-with-einstein-book.md)
 🔗Link:: 
 

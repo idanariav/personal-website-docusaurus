@@ -23,7 +23,7 @@ Integrity is a proactive form of [Authenticity](/notes/authenticity.md). Having 
 ![Integrity.webp](/notes/integrity.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin::
 🔗Link::
 

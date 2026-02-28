@@ -43,7 +43,7 @@ Depending on why something is boring, we can find ways to mitigate it. For examp
 ![Boredom](/notes/boredom.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)
 Origin:: [Pursuit of Wonder](/notes/pursuit-of-wonder.md)
 Link:: https://www.youtube.com/watch?v=gc7wKr0XkN8

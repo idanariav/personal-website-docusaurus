@@ -36,6 +36,6 @@ Addiction is hard to undo. Usually it requires a form of a [Clean Slate](/notes/
 ![Addiction](/notes/addiction.webp)
 
 ## Overview
-⬆️Topic:: [Behavioral Psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+⬆️Topic:: [Behavioral Psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::

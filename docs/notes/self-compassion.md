@@ -27,7 +27,7 @@ Remember that the more you [accept](/notes/validation.md) yourself, the more you
 ![Self-compassion.webp](/notes/self-compassion.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ◀Origin:: [Hidden Brain](/notes/hidden-brain.md)
 🔗Link:: [Source](https://www.podcastrepublic.net/episode/34542060133)
 

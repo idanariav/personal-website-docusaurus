@@ -4,7 +4,7 @@ Created: '2023-03-24 12:03'
 Modified: '2024-03-30 08:26'
 Version: 1.01
 tags: []
-Up: '[[Change (MOC)]]'
+Up: '[[Change (Map)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -43,6 +43,6 @@ In general, follow these rules:
 [Aristotle (philosopher)](/notes/aristotle-philosopher.md)
 
 
-## Other MOC
+## Other Map
 
 ### Overview

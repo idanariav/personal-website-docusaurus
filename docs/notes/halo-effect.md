@@ -23,7 +23,7 @@ we tend to believe that one good trait is an indication for other good traits. M
 ![Halo effect.webp](/notes/halo-effect.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 ↩️Origin::
 🔗Link:: 
 

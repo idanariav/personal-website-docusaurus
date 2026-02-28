@@ -26,7 +26,7 @@ SiteProcssed: true
 # The Montessori Toddler
 
 ## 🔗Connect
-🔼Topic:: [Education (MOC)](/mocs/education-moc.md)
+🔼Topic:: [Education (Map)](/mocs/education-map.md)
 
 
 ## ✒️ Note-Making

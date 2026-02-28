@@ -33,7 +33,7 @@ They say that the greatest feat of the [stoics](/notes/stoicism.md) was their ab
 ![Indifference.webp](/notes/indifference.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 Source:: [Einzelganger](/notes/einzelganger.md)
 Link:: https://www.youtube.com/watch?v=1d2G7V_Oz5o
 

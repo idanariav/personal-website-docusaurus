@@ -27,7 +27,7 @@ We have to [accept](/notes/acceptance.md) that we will never reach our goal, or 
 ![Slowing down.webp](/notes/slowing-down.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 Source:: [Einzelganger](/notes/einzelganger.md)
 Link:: https://www.youtube.com/watch?v=bK1g9bPHUTo
 

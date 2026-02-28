@@ -33,7 +33,7 @@ Often an apology should come with an intent to "repair". Not only to ask for for
 ![Apology](/notes/apology.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin::
 🔗Link::
 

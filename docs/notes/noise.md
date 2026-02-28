@@ -25,7 +25,7 @@ Remember that noise might be extremally difficult in cases of [Conformation Bias
 
 ![Noise.webp](/notes/noise.webp)
 ## Overview
-🔼Topic:: [social science (MOC)](/mocs/social-science-moc.md)
+🔼Topic:: [social science (Map)](/mocs/social-science-map.md)
 ↩️Origin::
 🔗Link::
 

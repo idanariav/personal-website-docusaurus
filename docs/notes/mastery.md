@@ -34,7 +34,7 @@ When trying to master a specific field, we can divide the process into different
 ![Mastery.webp](/notes/mastery.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 ◀Origin::
 🔗Link::
 

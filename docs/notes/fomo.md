@@ -27,7 +27,7 @@ Another way is to consider the [Alternative cost](/notes/alternative-cost.md), b
 
 ![FOMO.webp](/notes/fomo.webp)
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

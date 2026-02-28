@@ -28,7 +28,7 @@ Usually negative freedom is [visible](/notes/visibility.md), that are concrete l
 ![Negative freedom.webp](/notes/negative-freedom.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 ↩️Origin:: [Isaiah Berlin (philosopher)](/notes/isaiah-berlin-philosopher.md)
 🔗Link::
 

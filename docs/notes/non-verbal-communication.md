@@ -27,6 +27,6 @@ Body language, even more than vocal language can cause us unconsciously to [sync
 ![non verbal communication.webp](/notes/non-verbal-communication.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin::
 🔗Link::

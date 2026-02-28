@@ -31,7 +31,7 @@ This is the true power of words, of stories [speech acts](/notes/speech-acts.md)
 ![Narratives.webp](/notes/narratives.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 Origin::
 🔗Link::
 

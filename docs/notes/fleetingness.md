@@ -28,7 +28,7 @@ Therefore, we should acknowledge the beauty of the fleeting moment precisely bec
 ![Fleetingness.webp](/notes/fleetingness.webp)
 
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 ↩️Origin:: [Einzelganger](/notes/einzelganger.md)
 🔗Link:: [link](https://www.youtube.com/embed/pn4nMvgH710)
 

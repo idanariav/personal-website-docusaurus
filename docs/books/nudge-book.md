@@ -30,7 +30,7 @@ SiteProcssed: true
 # Nudge (book)
 
 ## 🔗Connect
-🔼Topic:: [social science (MOC)](/mocs/social-science-moc.md)
+🔼Topic:: [social science (Map)](/mocs/social-science-map.md)
 🔼Topic:: [Nudge](/notes/nudge.md)
 
 

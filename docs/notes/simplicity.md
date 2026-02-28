@@ -29,7 +29,7 @@ Simple is elegant, is beautiful, but most of all it is [Flexible](/notes/adaptab
 ![Simplicity.webp](/notes/simplicity.webp)
 
 ## Overview
-🔼Topic:: [PKM (MOC)](/mocs/pkm-moc.md)
+🔼Topic:: [PKM (Map)](/mocs/pkm-map.md)
 ◀Origin::
 🔗Link::
 

@@ -40,9 +40,9 @@ Focus on the process, not the outcome.
 ![Trust the Process.webp](/notes/trust-the-process.webp)
 
 ## Overview
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
-🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
-🔼Topic:: [Success (MOC)](/mocs/success-moc.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
+🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
+🔼Topic:: [Success (Map)](/mocs/success-map.md)
 ↩️Origin::
 🔗Link::
 

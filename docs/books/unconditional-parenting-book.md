@@ -46,7 +46,7 @@ SiteProcssed: true
 
 ### 🔗Connect
 
-⬆️Topic:: Parenting (MOC)
+⬆️Topic:: Parenting (Map)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*

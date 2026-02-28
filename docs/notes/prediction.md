@@ -27,7 +27,7 @@ When we predict, often two things will happen. First, we would make a lot of [mi
 ![Prediction.webp](/notes/prediction.webp)
 
 ## Overview
-🔼Topic:: [Statistics (MOC)](/mocs/statistics-moc.md)
+🔼Topic:: [Statistics (Map)](/mocs/statistics-map.md)
 ↩️Origin::
 🔗Link::
 

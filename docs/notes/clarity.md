@@ -36,6 +36,6 @@ To achieve clarity:
 
 ![Clarity](/notes/clarity.webp)
 ## Overview
-🔼Topic:: [PKM (MOC)](/mocs/pkm-moc.md)
+🔼Topic:: [PKM (Map)](/mocs/pkm-map.md)
 ◀Origin::
 🔗Link::

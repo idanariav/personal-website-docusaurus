@@ -25,8 +25,8 @@ When we try to micro manage someone, we signal that we don't [Trust](/notes/trus
 ![Micro-Management.webp](/notes/micro-management.webp)
 
 ## Overview
-🔼Topic:: [Team Management (MOC)](/mocs/team-management-moc.md)
-🔼Topic:: [Education (MOC)](/mocs/education-moc.md)
+🔼Topic:: [Team Management (Map)](/mocs/team-management-map.md)
+🔼Topic:: [Education (Map)](/mocs/education-map.md)
 Origin:: [Creativity Inc (book)](/books/creativity-inc-book.md)
 🔗Link::
 

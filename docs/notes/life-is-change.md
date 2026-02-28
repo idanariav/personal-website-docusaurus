@@ -29,7 +29,7 @@ We can either try to [resist](/notes/reactance.md) it or [deny](/notes/denial.md
 ![life is change.webp](/notes/life-is-change.webp)
 
 ## Overview
-🔼Topic:: [Change (MOC)](/mocs/change-moc.md)
+🔼Topic:: [Change (Map)](/mocs/change-map.md)
 ↩️Origin:: [Master of Change (book)](/books/master-of-change-book.md)
 🔗Link::
 

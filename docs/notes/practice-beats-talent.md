@@ -28,7 +28,7 @@ Furthermore, the idea of innate talent can be harmful in several ways:
 ![practice beats talent.webp](/notes/practice-beats-talent.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 Origin:: [Peak (book)](/books/peak-book.md)
 🔗Link::
 

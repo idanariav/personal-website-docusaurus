@@ -4,12 +4,12 @@ Created: '2023-03-31 13:29'
 Modified: '2023-03-31 13:30'
 Version: 1
 tags: []
-Up: '[[Behavioral Psychology (MOC)]]'
+Up: '[[Behavioral Psychology (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Motivation (MOC)
+# Motivation (Map)
 
 ## Notes
 
@@ -26,5 +26,5 @@ Several things are good for our motivation:
 
 When we lack motivation we experience [Burnout](/notes/burnout.md), when we feel depleted without any energy left to continue on going. Some common contributors to burnout are:
 1. [External Motivation](/notes/external-motivation.md) - when we rely on external rewards as the source for our motivation, it can quickly turn into a negative spiral because we focus more on the rewards than on the task itself, and once the rewards stop or become irrelevant, we lose the will to continue with the task. our [Incentives](/notes/incentives.md) turn from inwards facing to outwards.
-## Other MOC
+## Other Map
 

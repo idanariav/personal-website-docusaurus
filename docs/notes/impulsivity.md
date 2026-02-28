@@ -27,8 +27,8 @@ However, impulsivity might also be similar to [Leap Into Faith](/notes/leap-into
 ![Impulsivity.webp](/notes/impulsivity.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

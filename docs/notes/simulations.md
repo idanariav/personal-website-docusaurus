@@ -30,7 +30,7 @@ Other advantages of simulations:
 ![Simulations.webp](/notes/simulations.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 Origin::
 🔗Link::
 

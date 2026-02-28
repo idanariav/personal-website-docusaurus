@@ -29,8 +29,8 @@ SiteProcssed: true
 
 ### 🔗Connect
 
-⬆️Topic:: [ethics (moc)](/mocs/ethics-moc.md)
-⬆️Topic:: [Economics (MOC)](/mocs/economics-moc.md)
+⬆️Topic:: [ethics (moc)](/mocs/ethics-map.md)
+⬆️Topic:: [Economics (Map)](/mocs/economics-map.md)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*

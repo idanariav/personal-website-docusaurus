@@ -27,7 +27,7 @@ However, the very idea of [compounding](/notes/compounding.md) relies on the fac
 ![Upfront costs.webp](/notes/upfront-costs.webp)
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
 🔼Topic:: [Friction](/notes/friction.md)
 ↩️Origin::
 🔗Link::

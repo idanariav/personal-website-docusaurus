@@ -4,12 +4,12 @@ Created: '2023-03-18 08:10'
 Modified: '2024-03-26 08:19'
 Version: 1.01
 tags: []
-Up: '[[Philosophy (MOC)]]'
+Up: '[[Philosophy (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Metaphysics (MOC)
+# Metaphysics (Map)
 
 ## Notes
 
@@ -28,7 +28,7 @@ For example, [Panpsychism](/notes/panpsychism.md) believes that consciousness is
 ### Courses
 [History of New Philosophy (course)](/notes/history-of-new-philosophy-course.md)
 
-## Other MOC
-[Free Will (MOC)](/mocs/free-will-moc.md)
+## Other Map
+[Free Will (Map)](/mocs/free-will-map.md)
 
 ### Overview

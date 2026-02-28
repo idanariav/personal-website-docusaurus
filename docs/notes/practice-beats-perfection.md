@@ -27,7 +27,7 @@ When we focus on generating as many experiences as possible instead of the "perf
 ![practice beats perfection.webp](/notes/practice-beats-perfection.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 Origin::
 🔗Link::
 

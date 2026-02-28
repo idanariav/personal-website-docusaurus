@@ -27,7 +27,7 @@ It is okay to not be sure about your purpose even after you have decided it, sin
 ![Meaning is Crafted.webp](/notes/meaning-is-crafted.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 ↩️Origin::
 🔗Link::
 

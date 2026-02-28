@@ -26,7 +26,7 @@ We see the people clearly, without biases or [judgment](/notes/judgment.md), we 
 
 ![mindsight.webp](/notes/mindsight.webp)
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin:: [Mindsight (book)](/notes/mindsight-book.md)
 🔗Link::
 

@@ -30,8 +30,8 @@ Tips for gamifying boring activities:
 
 ![Gamification.webp](/notes/gamification.webp)
 ## Overview
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
-🔼Topic:: [Motivation (MOC)](/mocs/motivation-moc.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
+🔼Topic:: [Motivation (Map)](/mocs/motivation-map.md)
 ↩️Origin:: [The Knowledge Project with Shane Parrish](/notes/the-knowledge-project-with-shane-parrish.md)
 🔗Link:: https://share.snipd.com/episode/858e9e0a-f2a4-4651-baae-19da8d88a64d
 

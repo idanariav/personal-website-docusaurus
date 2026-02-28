@@ -44,8 +44,8 @@ Common phenomenon related to nudge:
 ![Nudge.webp](/notes/nudge.webp)
 
 ## Overview
-🔼Topic:: [Behavioral Psychology (MOC)](/mocs/behavioral-psychology-moc.md)
-🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)
+🔼Topic:: [Behavioral Psychology (Map)](/mocs/behavioral-psychology-map.md)
+🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
 ◀Origin:: [Nudge (book)](/books/nudge-book.md)
 🔗Link:: 
 

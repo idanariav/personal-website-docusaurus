@@ -44,8 +44,8 @@ The difference between procrastination and distractions is the difference betwee
 ![Procrastination.webp](/notes/procrastination.webp)
 
 ## Overview
-🔼Topic:: [Behavioral Psychology (MOC)](/mocs/behavioral-psychology-moc.md)
-🔼Topic:: [Productivity (MOC)](/mocs/productivity-moc.md)
+🔼Topic:: [Behavioral Psychology (Map)](/mocs/behavioral-psychology-map.md)
+🔼Topic:: [Productivity (Map)](/mocs/productivity-map.md)
 Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)
 Link:: https://nesslabs.com/procrastination-emotions
 Link:: https://share.snipd.com/episode/d67bcc91-32b8-4334-8c89-0b38e70e65be

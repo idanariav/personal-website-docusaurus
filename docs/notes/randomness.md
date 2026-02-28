@@ -29,7 +29,7 @@ Randomness, at least at the level of experience is very real (putting aside the 
 ![Randomness.webp](/notes/randomness.webp)
 
 ## Overview
-🔼Topic:: [Statistics (MOC)](/mocs/statistics-moc.md)
+🔼Topic:: [Statistics (Map)](/mocs/statistics-map.md)
 ↩️Origin::
 🔗Link::
 

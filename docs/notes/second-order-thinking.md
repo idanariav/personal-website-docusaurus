@@ -23,6 +23,6 @@ Second order thinking is a type of meta-thinking, which often happens during the
 ![Second order thinking.webp](/notes/second-order-thinking.webp)
 
 ## Overview
-🔼Topic:: [Free Will (MOC)](/mocs/free-will-moc.md)
+🔼Topic:: [Free Will (Map)](/mocs/free-will-map.md)
 ↩️Origin::
 🔗Link::

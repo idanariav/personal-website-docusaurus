@@ -36,7 +36,7 @@ Usually social hierarchy determines which opinion becomes the accepted one.
 ![Social Environment.webp](/notes/social-environment.webp)
 
 ## Overview
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
 ↩️Origin::
 🔗Link::
 

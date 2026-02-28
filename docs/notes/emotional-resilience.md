@@ -42,7 +42,7 @@ When facing others, to avoid letting [External Influence](/notes/external-influe
 ![Emotional Resilience](/notes/emotional-resilience.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 Origin::
 🔗Link:: [https://share.snipd.com/episode/14edfeb7-e6a0-4607-a7c5-e89eac6a6b8f](https://share.snipd.com/episode/14edfeb7-e6a0-4607-a7c5-e89eac6a6b8f)
 

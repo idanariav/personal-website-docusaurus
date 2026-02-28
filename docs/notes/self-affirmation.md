@@ -26,7 +26,7 @@ when a sentence moves you, add it to your mindset page
 ![Self affirmation.webp](/notes/self-affirmation.webp)
 
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 ◀Origin:: [August Bradley](/notes/august-bradley.md)
 🔗Link:: [Source](https://www.youtube.com/watch?v=FEW0MKGg97w)
 

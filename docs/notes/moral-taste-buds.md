@@ -44,7 +44,7 @@ That's why I believe that there are 8 moral taste buds, which are:
 ![Moral Taste Buds.webp](/notes/moral-taste-buds.webp)
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 Origin:: [The Righteous Mind (book)](/books/the-righteous-mind-book.md)
 🔗Link::
 

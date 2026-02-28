@@ -23,7 +23,7 @@ The Placebo effect is when simply believing that something will have a certain e
 ![Placebo effect.webp](/notes/placebo-effect.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

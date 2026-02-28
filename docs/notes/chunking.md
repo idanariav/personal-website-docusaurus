@@ -41,7 +41,7 @@ The disadvantage with chunking is that it's hard to learn or sense [emergent](/n
 ![Chunking](/notes/chunking.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 ◀Origin:: [Ultralearning (book)](/books/ultralearning-book.md)
 🔗Link::
 

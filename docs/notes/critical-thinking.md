@@ -37,6 +37,6 @@ To be a skeptic means to constantly be [Curiosity](/notes/curiosity.md), to neve
 ![Critical Thinking](/notes/critical-thinking.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ◀Origin::
 🔗Link::

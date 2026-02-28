@@ -34,6 +34,6 @@ What makes depression worse is when we start [comparing](/notes/comparisons.md) 
 ![Depression](/notes/depression.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ↩️Origin::
 🔗Link::

@@ -32,6 +32,6 @@ It also subtly assumes a lack of Diversity, that what we want is the same as wha
 ## Visual
 
 ## Overview
-🔼Topic:: Ethics (MOC)
+🔼Topic:: Ethics (Map)
 ↩️Origin::
 🔗Link::

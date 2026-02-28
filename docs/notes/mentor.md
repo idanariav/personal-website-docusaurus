@@ -29,7 +29,7 @@ However, a good mentor needs to have good [mindsight](/notes/mindsight.md), they
 ![Mentor.webp](/notes/mentor.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 ↩️Origin::
 🔗Link::
 

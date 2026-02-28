@@ -39,6 +39,6 @@ Consistency has an additional benefit because it makes us reliable. First for ou
 ![Consistency](/notes/consistency.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin::
 🔗Link::

@@ -31,7 +31,7 @@ This idea supports the notion of [practice beats perfection](/notes/practice-bea
 ![Multitrack.webp](/notes/multitrack.webp)
 
 ## Overview
-🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
+🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
 ↩️Origin:: [Decisive (book)](/books/decisive-book.md)
 🔗Link::
 

@@ -32,7 +32,7 @@ To make effective use of our ability to focus, we should:
 ![Focus.webp](/notes/focus.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ◀Origin::
 🔗Link::
 

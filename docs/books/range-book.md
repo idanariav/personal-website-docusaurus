@@ -30,7 +30,7 @@ SiteProcssed: true
 ## 🔗Connect
 🔼Topic:: [Range](/notes/breath-beats-depth.md)
 🔼Topic:: [competence](/notes/competence.md)
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 
 ## ✒️ Note-Making
 

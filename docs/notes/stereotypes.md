@@ -25,7 +25,7 @@ Stereotypes are usually negative, and lead to a [us vs them](/notes/us-vs-them.m
 ![Stereotypes.webp](/notes/stereotypes.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 ↩️Origin::
 🔗Link::
 

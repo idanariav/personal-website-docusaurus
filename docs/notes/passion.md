@@ -26,7 +26,7 @@ This willingness to suffer pain for our goal can sometimes cause us to be blind 
 ![Passion.webp](/notes/passion.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 Origin:: [The Intentional Family](/notes/the-intentional-family.md)
 Link:: https://share.snipd.com/episode/4ff25ab1-aa40-4830-aea2-e342993c8009
 

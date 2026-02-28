@@ -28,8 +28,8 @@ This perhaps supports our [Objectivity](/notes/objectivity.md), that some things
 ![Layering.webp](/notes/layering.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
-🔼Topic:: [Personal Identity (MOC)](/mocs/personal-identity-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
+🔼Topic:: [Personal Identity (Map)](/mocs/personal-identity-map.md)
 ◀Origin:: [Behave (book)](/books/behave-book.md)
 🔗Link::
 

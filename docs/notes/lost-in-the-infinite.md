@@ -29,7 +29,7 @@ The only way to escape being lost is to make a [Leap Into Faith](/notes/leap-int
 ![lost in the infinite.webp](/notes/lost-in-the-infinite.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 ↩️Origin:: [Soren Kierkegaard (philosopher)](/notes/soren-kierkegaard-philosopher.md)
 🔗Link::
 

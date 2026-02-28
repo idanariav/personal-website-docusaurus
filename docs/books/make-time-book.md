@@ -31,8 +31,8 @@ SiteProcssed: true
 # make time (book)
 
 ## Connect
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
-🔼Topic:: [Productivity (MOC)](/mocs/productivity-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
+🔼Topic:: [Productivity (Map)](/mocs/productivity-map.md)
 
 ## ✒️ Note-Making
 

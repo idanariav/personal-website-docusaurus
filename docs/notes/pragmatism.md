@@ -29,8 +29,8 @@ Additionally, pragmatism brings forth the importance of action. Some philosophic
 ![Pragmatism.webp](/notes/pragmatism.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ↩️Origin::
 🔗Link::
 

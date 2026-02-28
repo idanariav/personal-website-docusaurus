@@ -36,7 +36,7 @@ Therefore, we can use this knowledge to our advantage. instead of using brute wi
 ![The habit loop.webp](/notes/the-habit-loop.webp)
 
 ## Overview
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 🔼Topic:: [Human Brain](/notes/human-brain.md)
 ◀Origin:: [Atomic Habits (book)](/books/atomic-habits-book.md)
 🔗Link:: [Atomic Habits](https://www.youtube.com/watch?v=G_WDLZ8pYrQ&t=992s)

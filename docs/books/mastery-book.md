@@ -26,7 +26,7 @@ s
 # Mastery (book)
 
 ## Connect
-🔼Topic:: [Success (MOC)](/mocs/success-moc.md)
+🔼Topic:: [Success (Map)](/mocs/success-map.md)
 
 
 ## 🚀 The Book in 3 Sentences

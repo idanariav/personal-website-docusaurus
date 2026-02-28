@@ -29,7 +29,7 @@ Perhaps gaslighting is a sign for the difference between general knowledge and [
 ![Gaslighting.webp](/notes/gaslighting.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin::
 🔗Link::
 

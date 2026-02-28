@@ -33,9 +33,9 @@ Sometimes we can assume the cause of someone's actions just by looking at the in
 ![Incentives.webp](/notes/incentives.webp)
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
-🔼Topic:: [Behavioral Psychology (MOC)](/mocs/behavioral-psychology-moc.md)
-🔼Topic:: [Motivation (MOC)](/mocs/motivation-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
+🔼Topic:: [Behavioral Psychology (Map)](/mocs/behavioral-psychology-map.md)
+🔼Topic:: [Motivation (Map)](/mocs/motivation-map.md)
 Origin::
 🔗Link::
 

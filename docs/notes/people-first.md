@@ -24,6 +24,6 @@ People First means that the most important resource at our disposal as a company
 ![People First.webp](/notes/people-first.webp)
 
 ## Overview
-🔼Topic:: [Team Management (MOC)](/mocs/team-management-moc.md)
+🔼Topic:: [Team Management (Map)](/mocs/team-management-map.md)
 ↩️Origin::
 🔗Link:: 

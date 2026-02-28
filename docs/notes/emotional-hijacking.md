@@ -41,8 +41,8 @@ Similarly, and it's true for adults as well, that taking a [Break](/notes/rest.m
 ![Emotional hijacking](/notes/emotional-hijacking.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
-🔼Topic:: [Parenting (MOC)](/mocs/education-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
+🔼Topic:: [Parenting (Map)](/mocs/education-map.md)
 ↩️Origin:: [Unruffled](/notes/unruffled.md)
 🔗Link:: [source](https://share.snipd.com/episode/c78824e3-0439-4566-8a9f-dd5db0f40ebb) [source](https://share.snipd.com/episode/73b2a323-719f-4564-b471-961df33a1151)
 

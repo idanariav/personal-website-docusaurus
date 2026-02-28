@@ -29,7 +29,7 @@ Connecting with nature is a good way to take a [Break](/notes/rest.md) and recha
 ![Nature walk.webp](/notes/nature-walk.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 Origin::
 🔗Link::
 

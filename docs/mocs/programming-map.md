@@ -4,16 +4,16 @@ Created: '2023-04-02 17:53'
 Modified: '2023-04-02 17:53'
 Version: 1
 tags: []
-Up: '[[Technology (MOC)]]'
+Up: '[[Technology (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Programming (MOC)
+# Programming (Map)
 
 ## Notes
 
 [YAML](/notes/yaml.md) - it is the way we add metadata to obsidian files, but also relevant to dev ops in some cases
-## Other MOC
+## Other Map
 
 

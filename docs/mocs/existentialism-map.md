@@ -4,12 +4,12 @@ Created: '2023-03-18 08:21'
 Modified: '2024-04-08 08:09'
 Version: 1
 tags: []
-Up: '[[Philosophy (MOC)]]'
+Up: '[[Philosophy (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Existentialism (MOC)
+# Existentialism (Map)
 
 ## 📓Notes
 
@@ -60,7 +60,7 @@ Small tips and reminders on your search for meaning:
 [Tao Te Ching (book)](/books/tao-te-ching-book.md)
 [A Significant Life (book)](/books/a-significant-life-book.md)
 
-## 🌐Other MOC
+## 🌐Other Map
 
-[Personal Identity (MOC)](/mocs/personal-identity-moc.md)
-[Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+[Personal Identity (Map)](/mocs/personal-identity-map.md)
+[Wellbeing (Map)](/mocs/wellbeing-map.md)

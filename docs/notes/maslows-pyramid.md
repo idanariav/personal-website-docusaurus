@@ -28,6 +28,6 @@ A common theme is that we search for [Stability](/notes/stability.md), to know t
 ![Maslows pyramid.webp](/notes/maslows-pyramid.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ◀Origin::
 🔗Link::

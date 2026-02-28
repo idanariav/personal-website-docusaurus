@@ -29,7 +29,7 @@ SiteProcssed: true
 # Quiet (book)
 
 ## Connect
-🔼Topic:: [Behavioral Psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [Behavioral Psychology (Map)](/mocs/behavioral-psychology-map.md)
 🔼Topic:: [introvert](/notes/introvert.md)
 
 

@@ -40,7 +40,7 @@ Experience knowledge has the following attributes:
 ![experience knowledge](/notes/experience-knowledge.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 Origin::
 🔗Link::
 

@@ -25,7 +25,7 @@ It is also useful in cases where we are about to lose control, like with the [F-
 
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ↩️Origin::
 🔗Link:: 
 

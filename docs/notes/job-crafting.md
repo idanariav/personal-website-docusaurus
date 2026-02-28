@@ -26,8 +26,8 @@ for example, orderlies in hospitals are experiencing less burnout if they see th
 ![job crafting.webp](/notes/job-crafting.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 🔼Topic:: [Meaning is Crafted](/notes/meaning-is-crafted.md)
 Origin::
 🔗Link:: 

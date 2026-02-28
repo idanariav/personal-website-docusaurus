@@ -34,8 +34,8 @@ It is said that understanding ourselves goes hand in hand with understanding oth
 ![Self-awareness.webp](/notes/self-awareness.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 ◀Origin::
 🔗Link::
 

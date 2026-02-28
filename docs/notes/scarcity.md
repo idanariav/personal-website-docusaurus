@@ -29,8 +29,8 @@ Ask yourself - what is the most important thing right now? What's worth investin
 ![Scarcity.webp](/notes/scarcity.webp)
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 ↩️Origin::
 🔗Link::
 

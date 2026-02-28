@@ -27,7 +27,7 @@ All this goes to show that instead of matching our view based on the world and i
 ![sense seeking creatures.webp](/notes/sense-seeking-creatures.webp)
 
 ## Overview
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
 ↩️Origin::
 🔗Link::
 

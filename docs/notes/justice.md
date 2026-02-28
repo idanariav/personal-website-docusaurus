@@ -24,6 +24,6 @@ However, there might be different levels of justice. For example, a country's ob
 ![Justice.webp](/notes/justice.webp)
 
 ## Overview
-🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)
+🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
 ◀Origin::
 🔗Link:: 

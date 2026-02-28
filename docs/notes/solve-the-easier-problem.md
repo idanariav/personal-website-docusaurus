@@ -33,7 +33,7 @@ In the world of decision making, it often means to reduce the problem to a few q
 
 ![Solve the easier problem.webp](/notes/solve-the-easier-problem.webp)
 ## Overview
-🔼Topic:: [problem management](/mocs/decision-making-moc.md)
+🔼Topic:: [problem management](/mocs/decision-making-map.md)
 🔼Topic:: [Momentum](/notes/momentum.md)
 ◀Origin:: [Algorithms to Live By (book)](/books/algorithms-to-live-by-book.md)
 🔗Link::

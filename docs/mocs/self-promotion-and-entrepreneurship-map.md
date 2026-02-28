@@ -9,13 +9,13 @@ draft: false
 SiteProcssed: true
 ---
 
-# Self promotion and Entrepreneurship (MOC)
+# Self promotion and Entrepreneurship (Map)
 
 ## Notes
 
 ```dataview
-LIST FROM [Self promotion and Entrepreneurship (MOC)](/mocs/self-promotion-and-entrepreneurship-moc.md)
-AND  !#Type/MOC 
+LIST FROM [Self promotion and Entrepreneurship (Map)](/mocs/self-promotion-and-entrepreneurship-map.md)
+AND  !#Type/Map 
 ```
 
-## Other MOC
+## Other Map

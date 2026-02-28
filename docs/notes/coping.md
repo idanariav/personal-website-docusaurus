@@ -30,7 +30,7 @@ Alternatively, one can think about more positive coping mechanisms, for example 
 
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link:: 
 

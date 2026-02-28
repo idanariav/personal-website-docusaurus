@@ -31,6 +31,6 @@ It's not easy to be in this state, especially for extended periods of time. It r
 ![Beginner's Mind](/notes/beginners-mind.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin::
 🔗Link::

@@ -36,7 +36,7 @@ Anger can also lead to [Impulsivity](/notes/impulsivity.md) where we lose oursel
 ![Anger](/notes/anger.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ↩️Origin::
 🔗Link::
 

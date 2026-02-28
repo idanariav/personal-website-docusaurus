@@ -28,7 +28,7 @@ Therefore generating ideas requires some level of [Curiosity](/notes/curiosity.m
 
 ![Ideation.webp](/notes/ideation.webp)
 ## Overview
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 ↩️Origin::
 🔗Link::
 

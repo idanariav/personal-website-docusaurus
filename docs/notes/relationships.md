@@ -29,8 +29,8 @@ Relationship is a two way street. We can't expect the other to open up to us if 
 ![Relationships.webp](/notes/relationships.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ↩️Origin:: [Raising Good Humans](/notes/raising-good-humans.md)
 🔗Link:: https://share.snipd.com/episode/383eeb9b-ca11-4d6b-a443-328f6f2c0d04
 

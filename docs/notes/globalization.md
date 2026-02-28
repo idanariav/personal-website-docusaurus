@@ -23,7 +23,7 @@ Globalization means the connectedness of cultures, ideas, systems and institutio
 ![Globalization.webp](/notes/globalization.webp)
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
 ↩️Origin::
 🔗Link::
 

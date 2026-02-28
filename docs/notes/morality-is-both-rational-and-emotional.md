@@ -29,7 +29,7 @@ I believe that this supports the idea the morality has to stem from the person d
 ![Morality is both rational and emotional.webp](/notes/morality-is-both-rational-and-emotional.webp)
 
 ## Overview
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 ◀Origin:: [Behave (book)](/books/behave-book.md)
 🔗Link::
 

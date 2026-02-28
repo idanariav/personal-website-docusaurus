@@ -34,7 +34,7 @@ The extended mind theory is that our thinking capabilities are not limited to th
 ![Extended Mind](/notes/extended-mind.webp)
 
 ## Overview
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
-🔼Topic:: [Memory, Attention and cognitive load (MOC)](/mocs/memory-attention-and-cognitive-load-moc.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
+🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
 ↩️Origin:: [The extended mind (book)](/books/the-extended-mind-book.md)
 🔗Link::

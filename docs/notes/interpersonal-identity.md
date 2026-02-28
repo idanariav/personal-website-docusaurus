@@ -30,7 +30,7 @@ A more extreme notion claims that our identity is a complete [Social Construct](
 
 ![Interpersonal Identity.webp](/notes/interpersonal-identity.webp)
 ## Overview
-🔼Topic:: [Personal identity (MOC)](/mocs/personal-identity-moc.md)
+🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
 Origin:: [Selfless (book)](/books/selfless-book.md)
 Link:: https://share.snipd.com/episode/3c740c3a-6bab-4440-87f1-997c3049f93c
 

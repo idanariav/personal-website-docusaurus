@@ -40,7 +40,7 @@ When it comes to values and philosophy, similar to [Simone de Beauvoir](/notes/s
 ![Diversity](/notes/diversity.webp)
 
 ## Overview
-🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)
+🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
 Origin:: [Philosophize This!](/notes/philosophize-this.md)
 Origin:: [Isaiah Berlin (philosopher)](/notes/isaiah-berlin-philosopher.md)
 Link:: https://share.snipd.com/episode/e1f0a11f-af0d-4e09-9c42-1d75cd126d48

@@ -27,7 +27,7 @@ While it is not always easy to detect, we should be wary that we don't get lost 
 ![lost in the finite.webp](/notes/lost-in-the-finite.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 ↩️Origin:: [Soren Kierkegaard (philosopher)](/notes/soren-kierkegaard-philosopher.md)
 🔗Link::
 

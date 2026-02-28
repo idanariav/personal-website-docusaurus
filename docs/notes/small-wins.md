@@ -17,7 +17,7 @@ It is hard to maintain motivation when we don't see the fruits of our hard work.
 Without a sense of accomplishment, we are prone to fall to [Self Criticism](/notes/self-criticism.md) for constant failings or [Burnout](/notes/burnout.md) 
 
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 🔼Topic:: [Grandeur (Value)](/notes/grandeur-value.md)
 Origin:: [better than yesterday](/notes/better-than-yesterday.md)
 🔗Link:: [Source](https://youtu.be/ANpmYcAE-8U)

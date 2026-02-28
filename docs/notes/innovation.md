@@ -33,7 +33,7 @@ Same as with other forms of creativity, innovating requires a level of [Curiosit
 ![Innovation.webp](/notes/innovation.webp)
 
 ## Overview
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 ↩️Origin::
 🔗Link::
 

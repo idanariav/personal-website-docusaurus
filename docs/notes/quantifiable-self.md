@@ -21,6 +21,6 @@ Quantifiable self is perhaps an extreme, data driven version of [introspection](
 ## Visual
 
 ## Overview
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 ↩️Origin::
 🔗Link::

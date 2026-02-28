@@ -33,7 +33,7 @@ Lastly, rationalism uses logic as it's main and only method of inquiry, a [syste
 ![Rationalism.webp](/notes/rationalism.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 ◀Origin::
 🔗Link::
 

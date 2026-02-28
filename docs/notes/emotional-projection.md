@@ -36,7 +36,7 @@ Also, venting is proven to be more harmful than good. When we express our anger,
 ![Emotional Projection](/notes/emotional-projection.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

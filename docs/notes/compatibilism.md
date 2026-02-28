@@ -27,7 +27,7 @@ i.e good deeds won't come out of sticking with [Defaults](/notes/defaults.md) or
 
 
 ## Overview
-🔼Topic:: [Free Will (MOC)](/mocs/free-will-moc.md)
+🔼Topic:: [Free Will (Map)](/mocs/free-will-map.md)
 Origin:: [the Free Will Podcast](/notes/the-free-will-podcast.md)
 Link:: https://share.snipd.com/episode/9315ebf7-0851-4222-a467-23e43bdea580
 

@@ -28,7 +28,7 @@ As time passes, our motivation shifts from [Intrinsic Motivation](/notes/intrins
 ![Rigid rules.webp](/notes/rigid-rules.webp)
 
 ## Overview
-🔼Topic:: [Will Power (MOC)](/mocs/will-power-moc.md)
+🔼Topic:: [Will Power (Map)](/mocs/will-power-map.md)
 ↩️Origin::
 🔗Link:: 
 

@@ -34,7 +34,7 @@ Tips for better sleep:
 ![Sleep.webp](/notes/sleep.webp)
 
 ## Overview
-🔼Topic:: [Habits (MOC)](/mocs/habits-moc.md)
+🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 Origin:: [The Knowledge Project with Shane Parrish](/notes/the-knowledge-project-with-shane-parrish.md)
 Link:: https://share.snipd.com/episode/75a2c874-0189-45d9-a28a-b6f985cb2001
 

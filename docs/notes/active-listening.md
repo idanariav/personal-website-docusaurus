@@ -34,6 +34,6 @@ To be a good listener, first you have to be [curious](/notes/curiosity.md). Forg
 
 ![Active Listening](/notes/active-listening.webp)
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ◀Origin:: [The Knowledge Project with Shane Parrish](/notes/the-knowledge-project-with-shane-parrish.md)
 Link:: https://share.snipd.com/episode/de9fc04c-d1a1-4cd4-9568-a71f86a0131d

@@ -25,6 +25,6 @@ The classic example was that they looked at people who were in a car accident an
 ![Hedonic Treadmill.webp](/notes/hedonic-treadmill.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 🔗Link::
 

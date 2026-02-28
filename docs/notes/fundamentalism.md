@@ -27,7 +27,7 @@ While it sounds tempting and very logical that all beliefs are only as strong as
 
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 ↩️Origin:: [Rene Descartes (philosopher)](/notes/rene-descartes-philosopher.md)
 🔗Link:: 
 

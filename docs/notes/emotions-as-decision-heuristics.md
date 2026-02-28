@@ -41,7 +41,7 @@ That is why we tend to [mirror](/notes/mirroring.md) each other's emotions, beca
 ![Emotions as decision heuristics](/notes/emotions-as-decision-heuristics.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ↩️Origin::
 🔗Link::
 

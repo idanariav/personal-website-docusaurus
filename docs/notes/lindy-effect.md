@@ -26,7 +26,7 @@ Also, the lindy effect confuses [Is vs Ought](/notes/is-vs-ought.md) when it's t
 
 ![Lindy Effect.webp](/notes/lindy-effect.webp)
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 ◀Origin::
 🔗Link::
 

@@ -26,7 +26,7 @@ SiteProcssed: true
 # On Disobedience and Other Essays
 
 ## 🔗Connect
-🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)
+🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
 
 
 ## ✒️ Note-Making

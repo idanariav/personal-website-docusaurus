@@ -27,7 +27,7 @@ The reverse of "I'll be happy when" is "I was happy when" [Nostalgia](/notes/nos
 ![Future disillusionment.webp](/notes/future-disillusionment.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 ↩️Origin::
 🔗Link::
 

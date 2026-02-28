@@ -32,7 +32,7 @@ The ultimate sense of unity comes when we both feel one with ourselves [harmonio
 ![Unity.webp](/notes/unity.webp)
 
 ## Overview
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
 ↩️Origin::
 🔗Link::
 

@@ -20,7 +20,7 @@ Kintsugi is the Japanese art of rebuilding broken objects. When a bowl for examp
 We see that there is beauty in the broken [To be is to be incomplete](/notes/to-be-is-to-be-incomplete.md), signs of lessons learned, of journeys taken. That life is a path, both creation and destruction, nothing is fixed in time [Intertemporal Identity](/notes/intertemporal-identity.md). 
 
 ## Overview
-🔼Topic:: [Change (MOC)](/mocs/change-moc.md)
+🔼Topic:: [Change (Map)](/mocs/change-map.md)
 ◀Origin::
 🔗Link:: 
 

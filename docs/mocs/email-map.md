@@ -4,18 +4,18 @@ Created: '2022-07-15 06:38'
 Modified: '2024-06-14 14:27'
 Version: 1
 tags: []
-Up: '[[Technology (MOC)]]'
+Up: '[[Technology (Map)]]'
 draft: true
 SiteProcssed: true
 ---
 
-# Email (MOC)
+# Email (Map)
 
 ## Notes
 
 ```dataview
-LIST FROM [Email (MOC)](/mocs/email-moc.md)
-AND  !#Type/MOC 
+LIST FROM [Email (Map)](/mocs/email-map.md)
+AND  !#Type/Map 
 ```
-## Other MOC
-[Technology (MOC)](/mocs/technology-moc.md)
+## Other Map
+[Technology (Map)](/mocs/technology-map.md)

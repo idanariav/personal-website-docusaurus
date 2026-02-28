@@ -4,12 +4,12 @@ Created: '2023-03-18 08:11'
 Modified: '2024-03-27 08:20'
 Version: 1.01
 tags: []
-Up: '[[Philosophy (MOC)]]'
+Up: '[[Philosophy (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Epistemology (MOC)
+# Epistemology (Map)
 
 ## Notes
 
@@ -38,6 +38,6 @@ There are several ways in which we asks ourselves how do we know something, or h
 ### Courses
 [Epistemology (course)](/notes/epistemology-course.md)
 
-## Other MOC
+## Other Map
 
 ### Overview

@@ -33,7 +33,7 @@ Disappointment is the opposite of [Forward thinking](/notes/forward-thinking.md)
 ![Disappointment](/notes/disappointment.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ↩️Origin::
 🔗Link::
 

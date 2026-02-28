@@ -38,6 +38,6 @@ We also shouldn't see our circles of control are fixed. The more we improve our 
 ![Acceptance](/notes/acceptance.webp)
 
 ## Overview
-⬆️Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+⬆️Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin::
 🔗Link::

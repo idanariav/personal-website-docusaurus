@@ -4,12 +4,12 @@ Created: '2023-03-18 08:32'
 Modified: '2023-03-18 08:32'
 Version: 1
 tags: []
-Up: '[[Philosophy (MOC)]]'
+Up: '[[Philosophy (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Political Philosophy (MOC)
+# Political Philosophy (Map)
 
 ## Notes
 
@@ -54,7 +54,7 @@ Political philosophy deals with questions related to how we interact as people w
 
 [Modern Political Thinking (course)](/notes/modern-political-thinking-course.md)
 
-## Other MOC
+## Other Map
 
 
 

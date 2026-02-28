@@ -24,8 +24,8 @@ This means that we will never be a "finished product", never end our todo-list, 
 ![To be is to be incomplete.webp](/notes/to-be-is-to-be-incomplete.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
-🔼Topic:: [Change (MOC)](/mocs/change-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
+🔼Topic:: [Change (Map)](/mocs/change-map.md)
 ↩️Origin::
 🔗Link::
 

@@ -4,15 +4,15 @@ Created: '2023-04-04 06:47'
 Modified: '2023-04-04 06:47'
 Version: 1
 tags: []
-Up: '[[personality traits (MOC)]]'
+Up: '[[personality traits (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Will Power (MOC)
+# Will Power (Map)
 
 ## Notes
 
 
-## Other MOC
+## Other Map
 

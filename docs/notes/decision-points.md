@@ -39,7 +39,7 @@ The problem with decision points, as in other cases, that the [threshold](/notes
 ![Decision points](/notes/decision-points.webp)
 
 ## Overview
-🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)
+🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
 ↩️Origin:: [Decisive (book)](/books/decisive-book.md)
 🔗Link::
 

@@ -43,6 +43,6 @@ While the world is full of [Randomness](/notes/randomness.md) , we can still cal
 ### Courses
 [Statistics for Data Science (course)](/notes/statistics-for-data-science-course.md)
 
-## Other MOC
+## Other Map
 
 ### Overview

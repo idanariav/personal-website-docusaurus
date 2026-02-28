@@ -30,7 +30,7 @@ SiteProcssed: true
 ### 🔗Connect
 
 ⬆️Topic:: [Deep Work](/notes/deep-work.md)
-Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
+Topic:: [workflows (Map)](/mocs/workflows-map.md)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*

@@ -35,7 +35,7 @@ Only by forcing us to [confront](/notes/illusion-of-explanatory-depth.md) with o
 ![Dunning-kruger effect](/notes/dunning-kruger-effect.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 Origin::
 🔗Link::
 

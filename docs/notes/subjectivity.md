@@ -27,7 +27,7 @@ Sometimes it happens that we [lose](/notes/lost-in-the-finite.md) ourselves to t
 ![Subjectivity.webp](/notes/subjectivity.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 ◀Origin:: [Ethics of ambiguity (book)](/books/ethics-of-ambiguity-book.md)
 🔗Link::
 

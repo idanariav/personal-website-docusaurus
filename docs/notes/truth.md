@@ -28,7 +28,7 @@ While [Deliberation](/notes/deliberation.md) is a useful strategy overall to "fi
 ![Truth.webp](/notes/truth.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 ↩️Origin::
 🔗Link::
 

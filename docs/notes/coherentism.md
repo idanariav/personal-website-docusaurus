@@ -36,8 +36,8 @@ However, this feat also demonstrates our potential for [creativity](/notes/criti
 ![Coherentism](/notes/coherentism.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
-🔼Topic:: [Creativity (MOC)](/mocs/creativity-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
+🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
 ↩️Origin::
 🔗Link::
 

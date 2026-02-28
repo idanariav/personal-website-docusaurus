@@ -29,7 +29,7 @@ SiteProcssed: true
 
 ## Connect
 🔼Topic:: [Stoicism](/notes/stoicism.md)
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 
 ## ✒️ Note-Making
 

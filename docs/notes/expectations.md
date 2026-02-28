@@ -34,6 +34,6 @@ Similarly, when others expect something of us, it is as if in their eyes this is
 ![Expectations](/notes/expectations.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ◀Origin:: [Behave (book)](/books/behave-book.md)
 🔗Link::

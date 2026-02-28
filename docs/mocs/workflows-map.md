@@ -4,7 +4,7 @@ Created: '2024-01-01 07:00'
 Modified: '2024-05-23 07:50'
 Version: 1.01
 tags: []
-Up: '[[Productivity (MOC)]]'
+Up: '[[Productivity (Map)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -30,6 +30,6 @@ Workflows are ways to improve the efficiency of our effort without increasing it
 [Effortless (book)](/books/effortless-book.md)
 [Essentialism (book)](/books/essentialism-book.md)
 
-## Other MOC
+## Other Map
 
 ### Overview

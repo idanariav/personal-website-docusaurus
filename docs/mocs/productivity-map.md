@@ -10,16 +10,16 @@ draft: false
 SiteProcssed: true
 ---
 
-# Productivity (MOC)
+# Productivity (Map)
 
 ## Notes
 
 There are a variety of ways/methods/systems for us to handle, focus and preform what we need to do. It is likely that the variety exists since we as people have different tastes and ways to motivate ourselves. however I believe that some core principles still apply for most people.
 
 The basic division of productivity is into:
-1. **Time management** - how do we choose to use our time, what gets priority, how do we make time to what's important [Time Management (MOC)](/mocs/time-management-moc.md)
-2. **Resource management** - how do we use the space, our tools, to our advantage [Resource management (MOC)](/mocs/resource-management-moc.md)
-3. **Workflows** - methods of execution, how to perform tasks quickly and efficiently. [workflows (MOC)](/mocs/workflows-moc.md)
+1. **Time management** - how do we choose to use our time, what gets priority, how do we make time to what's important [Time Management (Map)](/mocs/time-management-map.md)
+2. **Resource management** - how do we use the space, our tools, to our advantage [Resource management (Map)](/mocs/resource-management-map.md)
+3. **Workflows** - methods of execution, how to perform tasks quickly and efficiently. [workflows (Map)](/mocs/workflows-map.md)
 
 ### Theories and principles
 
@@ -42,8 +42,8 @@ its important that when we try and be more productive in our life, that we wont 
 
 ### Unsorted notes
 ```dataview
-LIST FROM [Productivity (MOC)](/mocs/productivity-moc.md) AND -outgoing([Productivity (MOC)](/mocs/productivity-moc.md))
-AND  !#Type/MOC 
+LIST FROM [Productivity (Map)](/mocs/productivity-map.md) AND -outgoing([Productivity (Map)](/mocs/productivity-map.md))
+AND  !#Type/Map 
 sort file.name asc
 ```
 
@@ -71,4 +71,4 @@ sort file.name asc
 [The 12 week year (book)](/books/the-12-week-year-book.md)
 [First Things First (book)](/books/first-things-first-book.md)
 
-## Other MOC
+## Other Map

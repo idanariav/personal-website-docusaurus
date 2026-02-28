@@ -28,7 +28,7 @@ SiteProcssed: true
 # Theory of Moral Sentiments (book)
 
 ## 🔗Connect
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
 🔼Topic:: [Empathy](/notes/empathy.md)
 
 ## ✒️ Note-Making

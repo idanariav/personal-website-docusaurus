@@ -28,7 +28,7 @@ SiteProcssed: true
 # The Happiness Advantage
 
 ## 🔗Connect
-Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 
 ## ✒️ Note-Making
 

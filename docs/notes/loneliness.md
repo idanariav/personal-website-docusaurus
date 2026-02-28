@@ -29,7 +29,7 @@ Some might say that every thing we do is in order to [escape](/notes/escapism.md
 ![Loneliness.webp](/notes/loneliness.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ↩️Origin::
 🔗Link::
 

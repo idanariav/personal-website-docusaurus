@@ -29,6 +29,6 @@ To be curious, we first have to remove any aspect of [External Motivation](/note
 ![Curiosity](/notes/curiosity.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin::
 🔗Link::

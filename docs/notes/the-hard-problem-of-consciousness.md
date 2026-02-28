@@ -25,6 +25,6 @@ Is consciousness something that exists in the single neuron (perhaps leads to [P
 ![the hard problem of consciousness.webp](/notes/the-hard-problem-of-consciousness.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 ◀Origin:: [David Chalmers](/notes/david-chalmers.md)
 🔗Link:: 

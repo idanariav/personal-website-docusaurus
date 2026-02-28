@@ -4,12 +4,12 @@ Created: '2023-04-04 06:42'
 Modified: '2023-04-04 06:42'
 Version: 1
 tags: []
-Up: '[[Leadership (MOC)]]'
+Up: '[[Leadership (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Team Management (MOC)
+# Team Management (Map)
 
 ## Notes
 
@@ -29,5 +29,5 @@ Team leading ideas:
 10. Radical transparency  
 11. Work-life balance, set boundaries and urgency metrics
 
-## Other MOC
+## Other Map
 

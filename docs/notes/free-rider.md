@@ -25,7 +25,7 @@ Often an [Econs](/notes/econs.md) can become a free rider, because it serves the
 ![Free rider.webp](/notes/free-rider.webp)
 
 ## Overview
-🔼Topic:: [social science (MOC)](/mocs/social-science-moc.md)
+🔼Topic:: [social science (Map)](/mocs/social-science-map.md)
 ↩️Origin::
 🔗Link::
 

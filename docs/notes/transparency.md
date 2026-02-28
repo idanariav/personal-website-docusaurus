@@ -27,7 +27,7 @@ Sometimes, trying to be transparent brings [Clarity](/notes/clarity.md) to ourse
 ![Transparency.webp](/notes/transparency.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin::
 🔗Link::
 

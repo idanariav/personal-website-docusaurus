@@ -31,6 +31,6 @@ To live in a constant state of denial is the be out of [tune](/notes/resonance.m
 ![Denial](/notes/denial.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::

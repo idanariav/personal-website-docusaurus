@@ -25,7 +25,7 @@ When we criticize ourselves, we damage our [self worth](/notes/self-worth.md), a
 ![Self Criticism.webp](/notes/self-criticism.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

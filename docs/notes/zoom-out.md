@@ -26,7 +26,7 @@ Often, zooming out allows us to take a [Break](/notes/rest.md), to [slow down](/
 ![Zoom out.webp](/notes/zoom-out.webp)
 
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 ↩️Origin::
 🔗Link::
 

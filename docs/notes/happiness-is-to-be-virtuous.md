@@ -34,8 +34,8 @@ Virtue is knowledge [free will is knowledge](/notes/free-will-is-knowledge.md), 
 ![Happiness is to be virtuous.webp](/notes/happiness-is-to-be-virtuous.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
-🔼Topic:: [Ethics (MOC)](/mocs/ethics-moc.md)
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
+🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ◀Origin:: [Plato (philosopher)](/notes/plato-philosopher.md)
 🔗Link:: [Source](https://archive.philosophersmag.com/conference-briefing-plato-on-human-happiness/?utm_source=pocket_mylist)

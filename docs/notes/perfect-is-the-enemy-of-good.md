@@ -25,7 +25,7 @@ There's even something beautiful in imperfection [wabi sabi](/notes/wabi-sabi.md
 ![Perfect is the enemy of good.webp](/notes/perfect-is-the-enemy-of-good.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ↩️Origin:: [The Happiness Lab with Dr. Laurie Santos](null)
 🔗Link:: https://share.snipd.com/episode/13ecaae4-406c-4d34-a086-cafb7cdad49d
 

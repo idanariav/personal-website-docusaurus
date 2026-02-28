@@ -49,6 +49,6 @@ What is that solution? It can't be told, it must be found and created by you onl
 ![Absurdity of existence](/notes/absurdity-of-existence.webp)
 
 ## Overview
-⬆️Topic:: [Existentialism (MOC)](/mocs/existentialism-moc.md)
+⬆️Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 ↩️Origin:: [Albert Camus](/notes/albert-camus-philosopher.md)
 🔗Link::

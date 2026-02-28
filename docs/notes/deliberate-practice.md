@@ -38,6 +38,6 @@ common components of deliberate practice:
 ![Deliberate Practice](/notes/deliberate-practice.webp)
 
 ## Overview
-🔼Topic:: [Learning (MOC)](/mocs/learning-moc.md)
+🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
 ◀Origin:: [Peak (book)](/books/peak-book.md)
 🔗Link::

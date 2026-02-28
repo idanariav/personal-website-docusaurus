@@ -41,7 +41,7 @@ By being extremist, not only he hurt people, but also he failed to fulfill his o
 ![The law of reverse effect.webp](/notes/the-law-of-reverse-effect.webp)
 
 ## Overview
-🔼Topic:: [Mindset (MOC)](/mocs/mindset-moc.md)
+🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
 ◀Origin:: [Einzelganger](/notes/einzelganger.md)
 🔗Link:: [Link](https://youtu.be/VpcQVjSVqOM)
 

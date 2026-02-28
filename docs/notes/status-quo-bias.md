@@ -27,7 +27,7 @@ We are highly affected by both [Momentum](/notes/momentum.md) that pushes us to 
 ![Status-quo bias.webp](/notes/status-quo-bias.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 ↩️Origin::
 🔗Link::
 

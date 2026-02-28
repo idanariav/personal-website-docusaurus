@@ -28,8 +28,8 @@ SiteProcssed: true
 # The Four Tendencies
 
 ## 🔗Connect
-🔼Topic:: [Human Nature (MOC)](/mocs/human-nature-moc.md)
-🔼Topic:: [Behavioral Psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
+🔼Topic:: [Behavioral Psychology (Map)](/mocs/behavioral-psychology-map.md)
 
 ## ✒️ Note-Making
 

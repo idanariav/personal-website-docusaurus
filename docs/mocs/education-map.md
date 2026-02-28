@@ -5,13 +5,13 @@ Modified: '2025-07-23 06:00'
 tags: []
 Version: 1.01
 aliases:
-  - Parenting (MOC)
+  - Parenting (Map)
 Up: '[[Home]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Education (MOC)
+# Education (Map)
 
 ## Notes
 
@@ -107,4 +107,4 @@ baby warning:
 
 [unruffled](/notes/unruffled.md)
 
-## Other MOC
+## Other Map

@@ -30,7 +30,7 @@ Signaling matters only because we are a [social](/notes/human-is-a-social-being.
 ![Signaling.webp](/notes/signaling.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ◀Origin::
 🔗Link::
 

@@ -24,7 +24,7 @@ The invisible hand is a famous argument made by Adam Smith that claimed that out
 ![Invisible hand.webp](/notes/invisible-hand.webp)
 
 ## Overview
-🔼Topic:: [Economics (MOC)](/mocs/economics-moc.md)
+🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
 ↩️Origin:: [Adam Smith (philosopher)](/notes/adam-smith-philosopher.md)
 🔗Link::
 

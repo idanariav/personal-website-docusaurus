@@ -26,8 +26,8 @@ For example, for parent's inclusion could be the change in perspective from "I h
 ![Inclusion.webp](/notes/inclusion.webp)
 
 ## Overview
-🔼Topic:: [Education (MOC)](/mocs/education-moc.md)
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Education (Map)](/mocs/education-map.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ↩️Origin::
 🔗Link::
 

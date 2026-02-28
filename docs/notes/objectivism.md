@@ -31,7 +31,7 @@ For example, the [scientific method](/notes/scientific-method.md) takes pride in
 ![Objectivism.webp](/notes/objectivism.webp)
 
 ## Overview
-🔼Topic:: [Metaphysics (MOC)](/mocs/metaphysics-moc.md)
+🔼Topic:: [Metaphysics (Map)](/mocs/metaphysics-map.md)
 ↩️Origin::
 🔗Link::
 

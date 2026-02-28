@@ -28,7 +28,7 @@ Responsibility is primarily about being [proactive](/notes/proactiveness.md), ab
 ![Responsibility.webp](/notes/responsibility.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin::
 🔗Link::
 

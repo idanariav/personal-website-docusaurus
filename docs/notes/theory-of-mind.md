@@ -32,7 +32,7 @@ Perhaps language is too rational and rigid solution. Perhaps true understanding 
 ![Theory of Mind.webp](/notes/theory-of-mind.webp)
 
 ## Overview
-🔼Topic:: [Epistemology (MOC)](/mocs/epistemology-moc.md)
+🔼Topic:: [Epistemology (Map)](/mocs/epistemology-map.md)
 ◀Origin::
 🔗Link::
 

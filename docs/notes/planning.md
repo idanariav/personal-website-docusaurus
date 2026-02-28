@@ -31,7 +31,7 @@ Planning is similar to [Goal Setting](/notes/lifes-mission.md), to try and bring
 ![Planning.webp](/notes/planning.webp)
 
 ## Overview
-🔼Topic:: [workflows (MOC)](/mocs/workflows-moc.md)
+🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
 ↩️Origin::
 🔗Link::
 

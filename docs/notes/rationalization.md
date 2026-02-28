@@ -31,7 +31,7 @@ However there are also potential advantages. This is perhaps the reason that [fa
 ![Rationalization.webp](/notes/rationalization.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin::
 🔗Link::
 

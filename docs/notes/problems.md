@@ -27,6 +27,6 @@ We can divide problems based on their level of [Complexity](/notes/complexity.md
 ![Problems.webp](/notes/problems.webp)
 
 ## Overview
-🔼Topic:: [problem management](/mocs/decision-making-moc.md)
+🔼Topic:: [problem management](/mocs/decision-making-map.md)
 ↩️Origin:: [The Checklist Manifesto (book)](/books/the-checklist-manifesto-book.md)
 🔗Link:: 

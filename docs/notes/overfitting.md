@@ -35,6 +35,6 @@ Second of all, we need to notice the trend, and give weights to the history, and
 ![Overfitting.webp](/notes/overfitting.webp)
 
 ## Overview
-🔼Topic:: [Data Science (MOC)](/mocs/data-science-moc.md)
+🔼Topic:: [Data Science (Map)](/mocs/data-science-map.md)
 ◀Origin:: [Algorithms to Live By (book)](/books/algorithms-to-live-by-book.md)
 

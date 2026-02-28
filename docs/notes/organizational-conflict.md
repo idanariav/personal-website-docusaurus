@@ -30,6 +30,6 @@ Remember that no matter how you feel, you always have the [Freedom of response](
 ![Reactional behavior.webp](/notes/reactional-behavior.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin:: [Originals (book)](/books/originals-book.md)
 🔗Link:: 

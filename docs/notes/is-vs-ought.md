@@ -29,6 +29,6 @@ Both because it is hard to think about the [Counterfactual](/notes/counterfactua
 ![Is vs Ought.webp](/notes/is-vs-ought.webp)
 
 ## Overview
-🔼Topic:: [Cognitive Bias (MOC)](/mocs/cognitive-bias-moc.md)
+🔼Topic:: [Cognitive Bias (Map)](/mocs/cognitive-bias-map.md)
 🔗Link::
 

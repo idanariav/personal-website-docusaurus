@@ -27,7 +27,7 @@ Regret is a power tool. It is a mix of creative skills, the ability to imagine t
 ![Regret.webp](/notes/regret.webp)
 
 ## Overview
-🔼Topic:: [Emotions (MOC)](/mocs/emotions-moc.md)
+🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 ◀Origin:: [Hidden Brain](/notes/hidden-brain.md)
 🔗Link:: [Source](https://www.podcastrepublic.net/episode/71257112711)
 

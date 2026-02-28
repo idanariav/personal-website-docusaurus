@@ -35,7 +35,7 @@ Resisting these influences first requires a measure of [Self Knowledge](/notes/s
 ![External Influence](/notes/external-influence.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ◀Origin::
 🔗Link::
 

@@ -30,7 +30,7 @@ Either we fail to decide because holding all the information in our mind is [too
 ![Analysis paralysis](/notes/analysis-paralysis.webp)
 
 ## Overview
-🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)
+🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
 ↩️Origin::
 🔗Link::
 

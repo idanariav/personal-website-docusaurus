@@ -38,7 +38,7 @@ It's also important to avoid cases of [Future disillusionment](/notes/future-dis
 ![Clean Slate](/notes/clean-slate.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (MOC)](/mocs/behavioral-psychology-moc.md)
+🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 ↩️Origin:: [How to change (book)](/books/how-to-change-book.md)
 🔗Link::
 

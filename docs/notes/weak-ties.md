@@ -24,6 +24,6 @@ The advantages of weak ties are that since you are not close, that usually means
 ![Weak Ties.webp](/notes/weak-ties.webp)
 
 ## Overview
-🔼Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 ↩️Origin:: [The Power Of Habit (book)](/books/the-power-of-habit-book.md)
 🔗Link:: 

@@ -84,4 +84,4 @@ What drives our actions? which forces, either internal or external influence our
 ### Newsletters
 [The Curiosity Chronicle by Sahil Bloom](/notes/the-curiosity-chronicle-by-sahil-bloom.md)
 
-## Other MOC
+## Other Map

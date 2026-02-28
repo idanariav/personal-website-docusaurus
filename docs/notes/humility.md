@@ -27,7 +27,7 @@ Practicing humility can help us stay in a [Beginner's Mind](/notes/beginners-min
 ![Humility.webp](/notes/humility.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin::
 🔗Link::
 

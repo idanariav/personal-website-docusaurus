@@ -35,7 +35,7 @@ Honesty is the first step to [Acceptance](/notes/acceptance.md), because it enco
 ![Honesty.webp](/notes/honesty.webp)
 
 ## Overview
-🔼Topic:: [personality traits (MOC)](/mocs/personality-traits-moc.md)
+🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ↩️Origin::
 🔗Link::
 

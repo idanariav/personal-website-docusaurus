@@ -33,7 +33,7 @@ When it comes to ideas, we need to [distill](/notes/distillment.md) them to the 
 ![Atomism](/notes/atomism.webp)
 
 ## Overview
-🔼Topic:: [PKM (MOC)](/mocs/pkm-moc.md)
+🔼Topic:: [PKM (Map)](/mocs/pkm-map.md)
 ◀Origin:: [Linking your Thinking](/notes/linking-your-thinking.md)
 🔗Link::
 

@@ -26,7 +26,7 @@ It is a method of [Rest](/notes/rest.md), of [Slowing down](/notes/slowing-down.
 ![Meditation.webp](/notes/meditation.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ↩️Origin::
 🔗Link::
 

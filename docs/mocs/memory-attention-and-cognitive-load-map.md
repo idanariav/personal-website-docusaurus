@@ -9,7 +9,7 @@ draft: false
 SiteProcssed: true
 ---
 
-# Memory, Attention and Cognitive Load (MOC)
+# Memory, Attention and Cognitive Load (Map)
 
 ## Notes
 
@@ -28,4 +28,4 @@ Methods for improving our memory:
 [The Checklist Manifesto (book)](/books/the-checklist-manifesto-book.md)
 [The extended mind (book)](/books/the-extended-mind-book.md)
 
-## Other MOC
+## Other Map

@@ -31,7 +31,7 @@ SiteProcssed: true
 
 ### 🔗Connect
 
-⬆️Topic:: [Communication (MOC)](/mocs/communication-moc.md)
+⬆️Topic:: [Communication (Map)](/mocs/communication-map.md)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*

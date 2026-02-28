@@ -31,7 +31,7 @@ SiteProcssed: true
 ## 🔗Connect
 🔼Topic:: [medicine](/notes/medicine.md)
 🔼Topic:: [Death](/notes/death.md)
-🔼Topic:: [Wellbeing (MOC)](/mocs/wellbeing-moc.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 
 ## ✒️ Note-Making
 

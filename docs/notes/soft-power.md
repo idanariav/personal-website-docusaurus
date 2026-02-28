@@ -28,7 +28,7 @@ One of the ways they shape society's perception about a given topic is by using 
 ![Soft power.webp](/notes/soft-power.webp)
 
 ## Overview
-🔼Topic:: [Political Philosophy (MOC)](/mocs/political-philosophy-moc.md)
+🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
 Source:: [Michel Foucault](/notes/michel-foucault.md)
 Source:: [Antonio Gramsci](/notes/antonio-gramsci.md)
 Source:: [Philosophize This!](/notes/philosophize-this.md)  

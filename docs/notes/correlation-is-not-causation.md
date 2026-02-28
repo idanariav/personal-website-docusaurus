@@ -41,6 +41,6 @@ Either way, the existence of [Noise](/notes/noise.md) and [Randomness](/notes/ra
 ![Correlation is not causation](/notes/correlation-is-not-causation.webp)
 
 ## Overview
-🔼Topic:: [Statistics (MOC)](/mocs/statistics-moc.md)
+🔼Topic:: [Statistics (Map)](/mocs/statistics-map.md)
 ◀Origin:: [David Hume](/notes/david-hume-philosopher.md)
 🔗Link::

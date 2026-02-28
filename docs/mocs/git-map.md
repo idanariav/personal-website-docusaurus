@@ -4,17 +4,17 @@ Created: '2023-03-29 07:46'
 Modified: '2023-03-29 07:47'
 Version: 1
 tags: []
-Up: '[[Technology (MOC)]]'
+Up: '[[Technology (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Git (MOC)
+# Git (Map)
 
 ## Notes
 
 
-## Other MOC
+## Other Map
 
 
 ### Overview

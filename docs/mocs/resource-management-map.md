@@ -4,7 +4,7 @@ Created: '2023-12-30 18:46'
 Modified: '2023-12-30 18:46'
 Version: 1
 tags: []
-Up: '[[Productivity (MOC)]]'
+Up: '[[Productivity (Map)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -14,7 +14,7 @@ SiteProcssed: true
 ## Notes
 
 
-## Other MOC
+## Other Map
 
 
 ### Overview

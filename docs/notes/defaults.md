@@ -35,7 +35,7 @@ Defaults can be good or bad, depending on the default choice. Unfortunately, the
 
 ![Defaults](/notes/defaults.webp)
 ## Overview
-🔼Topic:: [Decision Making (MOC)](/mocs/decision-making-moc.md)
+🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
 ↩️Origin::
 🔗Link::
 

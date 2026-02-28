@@ -30,7 +30,7 @@ SiteProcssed: true
 # Every Time I Find the Meaning of Life They Change It (book)
 
 ## 🔗Connect
-🔼Topic:: [Philosophy (MOC)](/mocs/philosophy-moc.md)
+🔼Topic:: [Philosophy (Map)](/mocs/philosophy-map.md)
 
 
 ## ✒️ Note-Making
