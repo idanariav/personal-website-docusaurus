@@ -15,6 +15,11 @@ const imageSourceFolder = path.resolve(__dirname, '../../Obsidian_Vault/Scaffold
 const destinationFolder = 'docs';
 const imageDestinationFolder = 'static';
 
+// Mapping from source folder names to destination folder names
+const folderNameMapping = {
+  'concepts': 'notes',
+};
+
 // Utility: get all Markdown files recursively
 async function getMarkdownFiles(dir) {
   let files = [];
@@ -147,7 +152,8 @@ async function copyMissingImages() {
 
   for (const imagePath of imageFiles) {
     const relativePath = path.relative(imageSourceFolder, imagePath);
-    const parentFolder = path.dirname(relativePath); // e.g., "books", "visuals", etc.
+    const rawParentFolder = path.dirname(relativePath); // e.g., "books", "concepts", etc.
+    const parentFolder = folderNameMapping[rawParentFolder] || rawParentFolder;
     const originalFilename = path.basename(imagePath);
     const renamedFilename = fileRename(originalFilename);
 
