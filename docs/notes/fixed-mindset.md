@@ -1,13 +1,21 @@
 ---
 UUID: 20230328190822
 Created: '2023-03-28 19:08'
-Modified: '2025-01-04 14:11'
+Modified: '2026-03-02 15:05'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Fixed Mindset.png]]'
+ImageText: A grasshopper stuck in a glass jar
+Description: >-
+  A fixed mindset is the belief that abilities are innate and unchangeable,
+  leading to avoidance of challenges and a focus on existing skills rather than
+  growth and learning.
 aliases: []
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -16,17 +24,35 @@ SiteProcssed: true
 
 ## Notes
 
-Fixed mindset is the idea that our mental or physical capabilities are fixed and are determined in birth [nature vs nurture](/notes/nature-vs-nurture.md). This is the opposite view of [Growth Mindset](/notes/growth-mindset.md), because according to a fixed mindset, there is no point in trying to learn something new. [Failure](/notes/failure.md) is something to avoid because it [signals](/notes/signaling.md) to others that you lack the skills needed for success, and that it is an indication that whatever we tried to do is not a good fit for us, and we should focus on what we already do best and what comes naturally for us.
+### Claim
 
-To see ourselves as something fixed and unchanging is to embrace our [Objectivity](/notes/objectivity.md), to view ourselves as objects rather than people capable of change. It's to deny the [Complexity](/notes/complexity.md) of human life, our vast potential and our ability to grow and change. It is to deny our ability to [transcendence](/notes/transcendence.md) and overcome difficulties.
+Fixed mindset is the idea that our mental or physical capabilities are fixed and are determined in birth [Nature vs nurture](/notes/nature-vs-nurture.md).
+
+### Explanation
+
+According to a fixed mindset, [Failure](/notes/failure.md) is something to avoid because it [signals](/notes/signaling.md) to others that you lack the skills needed for success, and that it is an indication that whatever we tried to do is not a good fit for us, and we should focus on what we already do best and what comes naturally for us.
 
 Fixed mindset is a [Negative cycle](/notes/negative-cycle.md), because every failure causes us to avoid trying again, which limits our ability to improve, which further increases the chances of failure.
 
+### Why it Matters
+
+### Examples
+
+### Supporters
+
+To see ourselves as something fixed and unchanging is to embrace our [Objectivity](/notes/objectivity.md), to view ourselves as objects rather than people capable of change. It's to deny the [Complexity](/notes/complexity.md) of human life, our vast potential and our ability to grow and change. It is to deny our ability to [Transcendence](/notes/transcendence.md) and overcome difficulties.
+
 Usually we experience a fixed mindset when we tie our success to our [Ego](/notes/form-vs-essence.md), which means that when we fail it indicates our own incompetence, a stain on our identity that we can't remove. We view success as [binary](/notes/binary-thinking.md), either we are talented and will always succeed, or worthless and will always fail. We [align](/notes/cognitive-alignment.md) between who we were, who we are, and who we could ever be, always have been the same, always will be the same.
+
+### Opposers
+
+This is the opposite view of [Growth Mindset](/notes/growth-mindset.md), because according to a fixed mindset, there is no point in trying to learn something new.
+
+### Open Questions
 
 ## Visual
 
-![Fixed Mindset.webp](/notes/fixed-mindset.webp)
+![Fixed Mindset](/notes/fixed-mindset.webp)
 
 ## Overview
 🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)

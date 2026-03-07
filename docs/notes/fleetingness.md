@@ -1,14 +1,22 @@
 ---
 UUID: 20241109082156
 Created: '2024-11-09 08:21'
-Modified: '2024-11-16 07:27'
+Modified: '2026-03-02 15:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
+Image: '[[Fleetingness.png]]'
+ImageText: Water passes through a strainer
+Description: >-
+  The quality of experiences being short-lived and unique, emphasizing the
+  beauty of each moment as it cannot be repeated, contrasting with the negative
+  mindset of fear of missing out (FOMO).
 aliases:
   - Ichigo Ichi
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -17,15 +25,35 @@ SiteProcssed: true
 
 ## Notes
 
-The concept of fleetingness is that experiences are by definition something short and unique. Like hearing music, one can't stop the song and enjoy it forever, because the song won't be a song if we are stuck on the same note.
+### Claim
 
-Moments come and go, but each one is [unique](/notes/scarcity.md), like saying that *you cant step into the same river twice* [life is change](/notes/life-is-change.md).
+The concept of fleetingness is that experiences are by definition something short and unique.
 
-Therefore, we should acknowledge the beauty of the fleeting moment precisely because it is fleeting, it is something that we will never experience again. As opposed to [FOMO](/notes/fomo.md) which is a negative way to regard the fleetingness of moments, where we focus on all the experiences we are missing because we don't have time to do it all, this is an [optimistic](/notes/optimism.md) way of enjoying the experiences we do have. Even the recurring routine we often get stuck in, can be seen as something, refreshing, exciting each time, because it is different and unique.
+### Explanation
+
+Moments come and go, but each one is [unique](/notes/scarcity.md), like saying that *you cant step into the same river twice* [Life is change](/notes/life-is-change.md).
+
+### Why it Matters
+
+Therefore, we should acknowledge the beauty of the fleeting moment precisely because it is fleeting, it is something that we will never experience again.
+
+### Examples
+
+Like hearing music, one can't stop the song and enjoy it forever, because the song won't be a song if we are stuck on the same note.
+
+Even the recurring routine we often get stuck in, can be seen as something, refreshing, exciting each time, because it is different and unique.
+
+### Supporters
+
+### Opposers
+
+As opposed to [FOMO](/notes/fomo.md) which is a negative way to regard the fleetingness of moments, where we focus on all the experiences we are missing because we don't have time to do it all, this is an [optimistic](/notes/optimism.md) way of enjoying the experiences we do have.
+
+### Open Questions
 
 ## Visual
 
-![Fleetingness.webp](/notes/fleetingness.webp)
+![Fleetingness](/notes/fleetingness.webp)
 
 ## Overview
 🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
