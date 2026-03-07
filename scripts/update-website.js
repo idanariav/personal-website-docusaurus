@@ -10,7 +10,7 @@ const notesSourceFolders = [
   path.resolve(__dirname, '../../Obsidian_Vault/Content/Maps'),
   path.resolve(__dirname, '../../Obsidian_Vault/Sources/Books')
 ];
-const imageSourceFolder = path.resolve(__dirname, '../../Obsidian_Vault/Scaffolding/Media/visuals');
+const imageSourceFolder = path.resolve(__dirname, '../../Obsidian_Vault/Scaffolding/Visuals');
 
 const destinationFolder = 'docs';
 const imageDestinationFolder = 'static';
@@ -18,6 +18,7 @@ const imageDestinationFolder = 'static';
 // Mapping from source folder names to destination folder names
 const folderNameMapping = {
   'concepts': 'notes',
+  'insights': 'posts'
 };
 
 // Utility: get all Markdown files recursively
