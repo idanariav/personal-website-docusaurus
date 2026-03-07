@@ -38,8 +38,9 @@ function renameFilesInFolder(folderPath) {
             // Rename the file (overwrite existing destination)
             if (newFilePath !== oldFilePath) {
                 try {
-                    if (fs.existsSync(newFilePath)) {
+                    if (fs.existsSync(newFilePath) && newFilePath.toLowerCase() !== oldFilePath.toLowerCase()) {
                         // Remove existing file to ensure overwrite on all platforms
+                        // Guard: only delete if it's a genuinely different file (not just a case difference)
                         fs.unlinkSync(newFilePath);
                         console.log(`Overwriting existing file: "${newFileName}"`);
                     }
