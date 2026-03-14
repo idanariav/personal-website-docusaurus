@@ -7,6 +7,7 @@ const {fileRename} = require('./utility.js');
 // todo - add support for blog posts and mocs, with dynamic redirection to correct folders
 const notesSourceFolders = [
   path.resolve(__dirname, '../../Obsidian_Vault/Content/Concepts'),
+  path.resolve(__dirname, '../../Obsidian_Vault/Content/Claims'),
   path.resolve(__dirname, '../../Obsidian_Vault/Content/Maps'),
   path.resolve(__dirname, '../../Obsidian_Vault/Sources/Books')
 ];
@@ -18,6 +19,7 @@ const imageDestinationFolder = 'static';
 // Mapping from source folder names to destination folder names
 const folderNameMapping = {
   'concepts': 'notes',
+  'claims': 'notes',
   'insights': 'posts'
 };
 
