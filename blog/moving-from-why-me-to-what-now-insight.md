@@ -64,7 +64,7 @@ Suffering on the other hand is self-inflicted, it's when we linger on the pain, 
 
 We think "why did this happen to me", and turn the hurtful event in the past to a continuous state in the present. The pain can't pass because we don't let it. We relive it every second we think about it. We don't just remember our mistakes or our misfortune, we become it, it defines us. As the Stoics have said - "Men are disturbed not by things, but by the views which they take of them." Our judgment creates the suffering.
 
-## How to move forwawrd
+## How to move forward
 
 The only way to stop the suffering is to change our perspective from past-oriented to future-oriented. To shift from "why me" to "what can I do now?" It's easier said than done, but until we stop feeding our pain with our attention, it won't go away. It's not about ignoring it, it's about acknowledging it and moving on.
 
