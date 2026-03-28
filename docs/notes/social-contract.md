@@ -1,13 +1,18 @@
 ---
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+Image: null
 tags: []
 UUID: 20230417070246
 Created: '2023-04-17 07:02'
-Modified: '2023-04-17 07:02'
-Version: 1
+Modified: '2026-03-24 11:00'
+Version: '2'
 aliases: null
 excalidraw-open-md: true
+Description: >-
+  A theoretical framework exploring the conditions under which individuals unite
+  for mutual benefits, influenced by the prevailing societal values and the
+  notion of consent.
 draft: false
 SiteProcssed: true
 ---
@@ -17,18 +22,23 @@ SiteProcssed: true
 
 ## Notes
 
-Social Contract deals with the question of what ties us together as humans. This is not in the ethical sense but rather an analogy of on which conditions should people unite together and for which benefits. As we can see among popular philosophers, it is highly dependent on the "spirit" of the time, and on their perception of [Human Nature (Map)](/mocs/human-nature-map.md).
 
-It is also revolves around the idea of [Consent](/notes/consent.md). Whether we as members of society would have consented to this kind of agreement, and whether newborns are considered as implicit consent to this agreement just by being born into this society. 
+The social contract asks a foundational political question: on what terms do individuals agree to live together under shared rules? Unlike a literal contract, it is a theoretical device — a way of asking what people *would* have agreed to if society had been designed from scratch.
 
-This theory of consent can sound rather Naive, and in most cases it is not like a person truly decides to join a society, but rather [coerced](/notes/soft-power.md) into feeling like a part of it. 
+### The Logic of Mutual Agreement
+
+At its core, [The social contract is a conditional agreement to exchange freedoms for collective benefits](/notes/the-social-contract-is-a-conditional-agreement-to-exchange-freedoms-for-collective-benefits.md). Individuals surrender some natural freedoms — to act without limit, to take what they need by force — in exchange for the security and coordination that only collective life provides. The shape of this agreement, however, is not fixed. It depends entirely on how the designers of the theory conceive of [Human Nature (Map)](/mocs/human-nature-map.md): Hobbes's fearful, combative human produces a contract that demands a powerful sovereign; Locke's rational rights-holder produces a limited government obligated to protect pre-existing liberties; Rousseau's naturally good but corrupted human produces a democratic general will as the only legitimate authority.
+
+### The Problem of Consent
+
+The most persistent challenge to social contract theory is whether consent is real. The theory invokes [Consent requires explicit verbal confirmation](/notes/consent-requires-explicit-verbal-confirmation.md) — the idea that agreement must be meaningful, not merely assumed. But newborns cannot consent, and adults who reject the society they were born into face prohibitive costs of exit. [Consent to the social contract is coerced, not chosen](/notes/consent-to-the-social-contract-is-coerced-not-chosen.md): rather than freely agreeing, most citizens are shaped from birth to experience social rules as natural and inevitable. This is not a bug in the system but, on some readings, its primary mechanism of stability.
 
 ## Visual
 
-![Social Contract.webp](/notes/social-contract.webp)
+![Social Contract](/notes/social-contract.webp)
 
 ## Overview
 🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
-◀Origin::
+↩️Origin::
 🔗Link:: 
 

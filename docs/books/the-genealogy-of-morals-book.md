@@ -1,23 +1,39 @@
 ---
 UUID: 20231220115735
 Created: '2023-12-20 11:57'
-Modified: '2025-08-10 12:13'
+Modified: '2026-03-24 11:00'
 tags: []
+FullTitle: The Genealogy of Morals
+Description: >-
+  It argues that envy can be a catalyst for personal growth, while resentment is
+  counterproductive. It critiques the moral shift that demonizes strength and
+  promotes weakness as virtue, and highlights how state punishment stifles
+  individual growth by commodifying morality and encouraging self-suppression.
 Author:
   - '[[Friedrich Nietzsche (philosopher)|Friedrich Nietzsche]]'
-Genre: Ethics
-Stored: Kindle
-ReadingStatus: Read
-Purchased: true
-Fiction: false
-Version: 1.02
-Pages: 102
-Rate: 4
-PublishDate: 1897-01-01T00:00:00.000Z
-FinishDate: 2023-12-20T00:00:00.000Z
+URL: 'https://www.goodreads.com/book/show/19261655-the-genealogy-of-morals'
 Cover: >-
   http://books.google.com/books/content?id=1Gj1ETxT62oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/19261655-the-genealogy-of-morals'
+Genre: Ethics
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B00A62Y18E
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: '3'
+Pages: 102
+Reread: 0
+Rate: 4
+PublishDate: 1897-01-01T00:00:00.000Z
+StartDate: 2023-11-28T00:00:00.000Z
+FinishDate: 2023-12-20T00:00:00.000Z
+Image: ''
 aliases: []
 draft: false
 SiteProcssed: true
@@ -59,7 +75,7 @@ In contrast with previous versions, this is an actual "textbook", which much les
 
 ### Preface
 
-**we have never stopped to question morality itself**. Why certain traits, like pity, are considered "good". We took it for granted. a "good" person was judged as of a higher quality than a "bad" person, without considering what negative effects those judgements can have on human development, unity and prosperity. [Judgment](/notes/judgment.md)
+**we have never stopped to question morality itself**. Why certain traits, like pity, are considered "good". We took it for granted. a "good" person was judged as of a higher quality than a "bad" person, without considering what negative effects those judgements can have on human development, unity and prosperity. [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md)
 
 :::note[Preface]
 
@@ -75,11 +91,11 @@ In contrast with previous versions, this is an actual "textbook", which much les
 
 ### Essay 1 - Good and Evil, Bad and Good
 
-A common misconception is that "good", aka altruistic acts have an objective "goodness" in them. [Naturalism](/notes/naturalism.md) However, **the "good" is a social construct** [Social Construct](/notes/social-construct.md), created by the elites, which wanted to associate themselves with the good, the useful [Soft power](/notes/soft-power.md). **It is with the power of language and hierarchy that the "goodness" of "good" act was imbued within them, rather than existing inherently**, and as with any class conflict, by creating the good we have also created and defined it's opposite, the "bad".
+A common misconception is that "good", aka altruistic acts have an objective "goodness" in them. [Everything in the world is a natural phenomenon](/notes/everything-in-the-world-is-a-natural-phenomenon.md) However, **the "good" is a social construct** [Shared beliefs make constructs real and true](/notes/shared-beliefs-make-constructs-real-and-true.md), created by the elites, which wanted to associate themselves with the good, the useful [Normalizing power shapes compliance through internalized social norms](/notes/normalizing-power-shapes-compliance-through-internalized-social-norms.md). **It is with the power of language and hierarchy that the "goodness" of "good" act was imbued within them, rather than existing inherently**, and as with any class conflict, by creating the good we have also created and defined it's opposite, the "bad".
 
-With time, we saw the rise of the "slave moral", the values which have revolted against the ruling class. This moral is not positively defined, as the aristocrats who tied their values to "good", the slaves only rejected any other moral, defining themselves through the negation. [Binary Thinking](/notes/binary-thinking.md)
+With time, we saw the rise of the "slave moral", the values which have revolted against the ruling class. This moral is not positively defined, as the aristocrats who tied their values to "good", the slaves only rejected any other moral, defining themselves through the negation. [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md)
 
-Our downfall was when we called this movement of resisting the strong as "tools of civilization", of progress, when **we actually accepted and justified mediocrity, our urge to resist the strong is in fact the abandonment a tool for overcoming, the [Will to Power](/notes/will-to-power.md), of building a strong, resilient personality**. This resentment against the strong is misguided, because it is in the nature (the essence) of the strong (and should be in all of us) to pursue the expansion of it's power, to evolve, like a lion pursuing it's pray. **By resenting strength we support weakness, we define it as "good", we deceive ourselves.**. Instead we should use this emotion of [Jealousy](/notes/jealousy.md) as an engine to drive ourselves to become more [Emotional Aikido](/notes/emotional-aikido.md).
+Our downfall was when we called this movement of resisting the strong as "tools of civilization", of progress, when **we actually accepted and justified mediocrity, our urge to resist the strong is in fact the abandonment a tool for overcoming, the [The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md), of building a strong, resilient personality**. This resentment against the strong is misguided, because it is in the nature (the essence) of the strong (and should be in all of us) to pursue the expansion of it's power, to evolve, like a lion pursuing it's pray. **By resenting strength we support weakness, we define it as "good", we deceive ourselves.**. Instead we should use this emotion of [Jealousy is focusing on what others have that we lack](/notes/jealousy-is-focusing-on-what-others-have-that-we-lack.md) as an engine to drive ourselves to become more [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md).
 
 :::note[“GOOD AND EVIL,” “GOOD AND BAD”]
 
@@ -102,24 +118,24 @@ Our downfall was when we called this movement of resisting the strong as "tools 
 
 ### Essay 2 - Guilt and Bad Conscience
 
-Only the strong can make promises, because only the strong has the will to do as he promised despite all difficulties that might arise, to be confident in his future self to uphold his word. [Self-control](/notes/self-control.md). That's why the strong man should be wary to make promises, because they limit himself and his ability to change and grow should he desire to do so. In this context, **we should value "forgetfulness", which is our ability to discard the old to make room for the new, the better**. [Creative Destruction](/notes/creative-destruction.md) [Forgetfulness](/notes/forgetfulness.md)
+Only the strong can make promises, because only the strong has the will to do as he promised despite all difficulties that might arise, to be confident in his future self to uphold his word. [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md). That's why the strong man should be wary to make promises, because they limit himself and his ability to change and grow should he desire to do so. In this context, **we should value "forgetfulness", which is our ability to discard the old to make room for the new, the better**. [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md) [Forgetfulness](/notes/forgetfulness.md)
 
 The concept of punishment was never about responsibility of the wrong doer, but rather just the desire for revenge by the hurt party. It is the law system which combined together in an unnatural way the concepts of "evil" or "crime" to responsibility and morality.
 
-**The origin of this transformation was the perception of live as something that can be quantified, assed, as if "[Utility](/notes/utility.md)" is an integral part of the world**. This lead to three things:
-1. **Everything has a price** - every action, every crime, can now be weighted and quantified the level of damage done, which means we can describe a fitting punishment that would repay that amount. [Commodification](/notes/commodification.md)
-2. **Humans as "econs"** - people can be perceived as "creditors" and "debtors", all human interaction has an "economical" aspect to it. For example, a person who harms someone is a "debtor", he has to "repay" for his actions, while a good person is he who "gives" to others, where the highest level is that of compassion, of philanthropy, where one gives without expecting return, a "debt free giving". [Giving](/notes/giving.md) [Econs](/notes/econs.md)
+**The origin of this transformation was the perception of live as something that can be quantified, assed, as if "[Utility quantifies measurable benefits and guides rational decisions](/notes/utility-quantifies-measurable-benefits-and-guides-rational-decisions.md)" is an integral part of the world**. This lead to three things:
+1. **Everything has a price** - every action, every crime, can now be weighted and quantified the level of damage done, which means we can describe a fitting punishment that would repay that amount. [Commodification turns non-tradable values into economic transactions](/notes/commodification-turns-non-tradable-values-into-economic-transactions.md)
+2. **Humans as "econs"** - people can be perceived as "creditors" and "debtors", all human interaction has an "economical" aspect to it. For example, a person who harms someone is a "debtor", he has to "repay" for his actions, while a good person is he who "gives" to others, where the highest level is that of compassion, of philanthropy, where one gives without expecting return, a "debt free giving". [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md) [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md)
 3. **Equality** - if all life, all utility, is something that can be quantified and exchanged, then there is no difference between people, we are all bearers of that utility in an equal way, and therefore should be treated equally.
 
-This has caused the justice system to detach itself from the personal conflict between people, and see it as a "contract violation". The hurt party can no longer express his revenge, he is no longer entitled to act freely, but rather it is now the state who is hurt, and it is responsible for measuring and executing the punishment. **We have converted [Anger](/notes/anger.md) and [Justice](/notes/justice.md), into resentment and commodification, which means converting "man" into a lesser form**.
+This has caused the justice system to detach itself from the personal conflict between people, and see it as a "contract violation". The hurt party can no longer express his revenge, he is no longer entitled to act freely, but rather it is now the state who is hurt, and it is responsible for measuring and executing the punishment. **We have converted [Anger is information that something should be different](/notes/anger-is-information-that-something-should-be-different.md) and [All moral agents are inherently entitled to basic rights regardless of utility or merit](/notes/all-moral-agents-are-inherently-entitled-to-basic-rights-regardless-of-utility-or-merit.md), into resentment and commodification, which means converting "man" into a lesser form**.
 
 [Punishment](/notes/punishment.md) is an act against a case where a negative utility occurred, someone has been damaged. However, **not all cases of damage are "bad". As with evolutionary systems, things have to be destroyed in order to make place for the "better". Protecting the individuals can come at a cost of damaging the whole**, preventing it's ability to grow and fulfill it's will to power.
 
 Punishment has so many different purposes, this is a social construct which continues to develop and change over time, but one thing is certain is that it doesn't make the "wrong doer" better, only tame him to not error again.
 
-This process of taming is the cause of the "bad conscience", aka the slave morality. **It is through the brutal actions of large organizations like state and religion that man is no longer free, his animal nature subdued, and it has been tamed for the "betterment" of the state, but not of himself. He lost his freedom and his will to power**. Only through taming values such as altruism can be coerced to be perceived as "good". [Social Contract](/notes/social-contract.md)
+This process of taming is the cause of the "bad conscience", aka the slave morality. **It is through the brutal actions of large organizations like state and religion that man is no longer free, his animal nature subdued, and it has been tamed for the "betterment" of the state, but not of himself. He lost his freedom and his will to power**. Only through taming values such as altruism can be coerced to be perceived as "good". [Consent to the social contract is coerced, not chosen](/notes/consent-to-the-social-contract-is-coerced-not-chosen.md)
 
-**In this process of taming, the individual has "learned" to view himself, and all his natural instincts as bad, as sinful, and that he deserves punishment**. While the one who needs to punish him, god, has risen to the level of purity, of transcendence, of the ultimate good, which means that the person would never be free of his debt, forever will he have to punish himself, to continue to limit and surrender himself to god, to turn him into an object, a simple low-life tool. [Objectivity](/notes/objectivity.md)
+**In this process of taming, the individual has "learned" to view himself, and all his natural instincts as bad, as sinful, and that he deserves punishment**. While the one who needs to punish him, god, has risen to the level of purity, of transcendence, of the ultimate good, which means that the person would never be free of his debt, forever will he have to punish himself, to continue to limit and surrender himself to god, to turn him into an object, a simple low-life tool. [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md)
 
 :::note[“GUILT,” “BAD CONSCIENCE,” AND THE LIKE]
 

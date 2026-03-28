@@ -1,7 +1,7 @@
 ---
 UUID: 20241230232036
 Created: '2024-12-30 23:20'
-Modified: '2025-10-10 09:23'
+Modified: '2026-03-23 19:30'
 tags: []
 FullTitle: >-
   Unconditional Parenting - Moving from Rewards and Punishments to Love and
@@ -18,8 +18,10 @@ URL: 'https://www.goodreads.com/book/show/111209.Unconditional_Parenting'
 Cover: >-
   http://books.google.com/books/content?id=PAuOqjD6BE4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Family & Relationships
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 ASIN: B000GCFD72
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
@@ -46,7 +48,7 @@ SiteProcssed: true
 
 ### 🔗Connect
 
-⬆️Topic:: Parenting (Map)
+⬆️Topic:: [Parenting (Map)](/mocs/education-map.md)
 
 ### 💡Clarify
 🔈 *Summary of main ideas*
@@ -84,7 +86,7 @@ The last few chapters are repetitive and feels "pasted" compare to the rest of t
 
 ### 🖼️Outline
 
-Unconditional Parenting (book)
+![Unconditional Parenting (book)](/Unconditional Parenting (book))
 
 ## 📒 Notes
 
@@ -119,29 +121,29 @@ Not all types of love are equal. There's:
 1. **Conditional love** - depends on actions
 2. **Unconditional love** - depends on identity
 
-Loving your child unconditionally gives them the assurance that you are their Safe Base, confident and calm that your love is constant, without needing to earn it or fear its loss.
+Loving your child unconditionally gives them the assurance that you are their [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md), confident and calm that your love is constant, without needing to earn it or fear its loss.
 
-In contrast, conditional parenting has a transactional viewpoint. It focuses solely on behavior, particularly Incentives, assuming that nothing but Utility motivates children. It presumes children will exploit us if unchecked, necessitating rewards and punishments to keep them on track.
+In contrast, conditional parenting has a [transactional](/notes/commodification-turns-non-tradable-values-into-economic-transactions.md) viewpoint. It focuses solely on behavior, particularly [Incentives shape behavior by making certain actions more attractive](/notes/incentives-shape-behavior-by-making-certain-actions-more-attractive.md), assuming that nothing but [Utility quantifies measurable benefits and guides rational decisions](/notes/utility-quantifies-measurable-benefits-and-guides-rational-decisions.md) motivates children. It presumes children will exploit us if unchecked, necessitating rewards and punishments to keep them on track.
 
-Viewing parenting as a "tit for tat" relationship, where love is given only if deserved, is a sad approach. Love is a gift that should be freely given, never withheld.
+Viewing parenting as a "tit for tat" relationship, where love is given only if deserved, is a sad approach. Love is a [gift](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md) that should be freely given, never withheld.
 
-Unconditional parenting, on the other hand, treats the child holistically. Their circumstances are crucial in determining our response. It assumes children are capable of both good and bad, and it's our role to guide them toward positive tendencies. People are inherently good.
+Unconditional parenting, on the other hand, treats the child [holistically](/notes/the-whole-is-greater-than-its-parts.md). Their circumstances are crucial in determining our response. It assumes children are capable of both good and bad, and it's our role to guide them toward positive tendencies. [People are inherently good](/notes/humans-are-good-as-default.md).
 
-When children are loved based on behavior, they experience intrapersonal conflict. They may come to dislike parts of themselves their parents don't appreciate self worth.
+When children are loved based on behavior, they experience [intrapersonal conflict](/notes/a-person-is-a-community.md). They may come to dislike parts of themselves their parents don't appreciate [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md).
 
-This approach can perpetuate a Vicious cycle through generations.
+This approach can perpetuate a [Vicious cycle](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) through generations.
 
-Whether conditional parenting exists in your home depends more on how your kids experience your parenting than on what you believe you're projecting Subjective Reality.
+Whether conditional parenting exists in your home depends more on how your kids experience your parenting than on what you believe you're projecting [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md).
 
 ### Giving and Withholding Love
 
 A common practice among parents is "time out," a method borrowed from animal handling. However, when we send kids to time out, we address their behavior, not them as individuals, and we also withhold our love and presence.
 
-This instills a fear of abandonment. They grow up needing constant approval, becoming highly dependent.
+This instills a fear of [abandonment](/notes/abandonment.md). They grow up needing constant approval, becoming highly [dependent](/notes/dependency.md).
 
-Similarly, positive reinforcement like rewards is problematic. It turns us into Econs, teaching us to view the world through "what do I get out of it." As with External Motivation, it crowds out Intrinsic Motivation, leaving no motivation to continue good behavior once rewards cease.
+Similarly, positive reinforcement like rewards is problematic. It turns us into [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md), teaching us to view the world through "what do I get out of it." As with [External motivation crowds out intrinsic drive and sustainability](/notes/external-motivation-crowds-out-intrinsic-drive-and-sustainability.md), it [crowds out](/notes/one-activity-displaces-another-when-pursued-excessively.md) [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md), leaving no motivation to continue good behavior once rewards cease.
 
-Even verbal reinforcement like "good job" is a type of reward Praises. When we praise them for actions, they tie their worth to those actions, assuming they are not worthy without them.
+Even verbal reinforcement like "good job" is a type of reward [Praise effort not ability](/notes/praise-effort-not-ability.md). When we praise them for actions, they tie their worth to those actions, assuming they are not worthy without them.
 
 When self-esteem depends on success, it fluctuates with life's events, harming development. Self-esteem should be stable across good and bad times to help bounce back from failure.
 
@@ -157,9 +159,9 @@ When self-esteem depends on success, it fluctuates with life's events, harming d
 
 ### Too Much Control
 
-Sometimes we control kids for control's sake, driven by Ego, rather than to help or protect them.
+Sometimes we control kids for control's sake, driven by [Ego](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md), rather than to help or protect them.
 
-Over-controlling creates either helpless and submissive children or rebellious ones who lash out. They become disengaged from the world, less interested in self-expression or independence.
+Over-controlling creates either [helpless](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md) and submissive children or [rebellious](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) ones who lash out. They become [disengaged](/notes/indifference.md) from the world, less interested in self-expression or independence.
 
 :::note[TOO MUCH CONTROL]
 
@@ -171,9 +173,9 @@ Over-controlling creates either helpless and submissive children or rebellious o
 
 ### Punitive Damages
 
-Punishments are generally ineffective in parenting. Even non-physical punishments that cause discomfort or mental pain are counterproductive.
+[Punishments](/notes/punishment-backfires-by-triggering-resistance-and-perpetuating-harm.md) are generally ineffective in parenting. Even non-physical punishments that cause discomfort or mental pain are counterproductive.
 
-They create backlash rather than educate, making children see you as an enemy. Over time, they grow indifferent to punishments Diminishing Returns, resorting to lying, hiding, and cheating.
+They create backlash rather than educate, making children see you as an enemy. Over time, they grow indifferent to punishments [Each additional unit provides progressively less value](/notes/each-additional-unit-provides-progressively-less-value.md), resorting to lying, hiding, and cheating.
 
 Threats or "logical consequences," like letting a child freeze for refusing a coat, are still punishments that should be minimized.
 
@@ -187,13 +189,13 @@ Threats or "logical consequences," like letting a child freeze for refusing a co
 
 ### Pushed to Succeed
 
-Parents often push children to succeed, adding Stress that harms mental health, performance, and love of learning.
+Parents often push children to succeed, adding [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) that harms mental health, performance, and love of learning.
 
-Children internalize parental Expectations, obsessing over achievements at the expense of others. Achievements often become a Zero sum game. They may self-sabotage if they doubt success, preferring doubt over facing inadequacy.
+Children internalize parental [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md), obsessing over achievements at the expense of others. Achievements often become a [Zero sum](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) game. They may self-sabotage if they doubt success, preferring doubt over facing inadequacy.
 
-Fear of failure motivates staying in comfort zones more than the desire to achieve Fixed Mindset. Knowing they are loved even if they fail gives them confidence to take risks and persist until success Growth Mindset.
+Fear of failure motivates staying in comfort zones more than the desire to achieve [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md). Knowing they are loved even if they fail gives them confidence to take risks and persist until success [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md).
 
-Competition is a net negative aspect of success.
+[Competition](/notes/competitive-mindset-harms-wellbeing-by-focusing-on-opponents.md) is a net negative aspect of success.
 
 :::note[PUSHED TO SUCCEED]
 
@@ -207,7 +209,7 @@ Competition is a net negative aspect of success.
 
 Our tendency for controlling parenting stems from:
 1. **How we were parented** - we mimic harmful methods
-2. **Older generations and outdated "tough" culture** - we receive advice on "raising kids tight" Social Environment
+2. **Older generations and outdated "tough" culture** - we receive advice on "raising kids tight" [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 3. **Control feels right** - we think if we're not controlling, we're permissive, leading to lazy, entitled children
 4. **Fear of judgment, incompetence, or powerlessness** - control gives an illusion of confidence and power, combating fears of being a bad parent. We fear they won't grow strong or fast without our "help."
 
@@ -231,7 +233,7 @@ There's no one-size-fits-all solution, but common practices include:
 8. **Talk less, ask more** - Engage their thinking, foster cooperation
 9. **Consider their age** - Don't assume equal maturity
 10. **Be positive** - Attribute the best motives consistent with facts
-11. **Use "no" sparingly** - Make "yes" the default, reserve "no" for necessity parental rules
+11. **Use "no" sparingly** - Make "yes" the default, reserve "no" for necessity [parental rules](/notes/parental-rules.md)
 12. **Be flexible** - Make exceptions when needed
 13. **Don't rush** - Adjust schedules to avoid rushing children
 
@@ -251,7 +253,7 @@ Better parenting begins by considering how we'd react if others spoke to us as w
 
 What we say and how we say it matters. Limit criticism, both in quantity and intensity, and seek alternatives like asking questions.
 
-As parents, we are expected to have Patience. Even when children are upset or misbehave, we must consistently show unconditional love, maintaining composure when they cannot.
+As parents, we are expected to have [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md). Even when children are upset or misbehave, we must consistently show unconditional love, maintaining composure when they cannot.
 
 Similarly, replace evaluative praise with questions like "What do you think about it?" or "How do you think it makes them feel?" or simply describe their actions, like "You put the ball in the cup!" If it sounds like a verbal reward, they may become dependent on it.
 
@@ -274,23 +276,23 @@ Similarly, replace evaluative praise with questions like "What do you think abou
 
 ### Choices for Children
 
-Children should be part of decision-making unless there's a good reason not to supporting independence.
+Children should be part of decision-making unless there's a good reason not to [supporting independence](/notes/supporting-independence.md).
 
-They learn to make good decisions through practice Learning by doing. Support them without doing things for them.
+They learn to make good decisions through practice [Active engagement with material accelerates learning](/notes/active-engagement-with-material-accelerates-learning.md). Support them without doing things for them.
 
-They cooperate more when they feel included, rather than resisting decisions made for them. Replace a *doing to* mindset with *working with*. People are not the problem
+They cooperate more when they feel [included](/notes/inclusion-means-proactively-welcoming-and-believing-in-others.md), rather than resisting decisions made for them. Replace a *doing to* mindset with *working with*. [People are not the problem](/notes/people-are-not-the-problem.md)
 
 Consistently offering real choices (not just "now or in five minutes?") reduces pushback when choices aren't possible, like wearing a seatbelt, especially if we're honest about the situation and explain our reasons.
 
 ### The Child's Perspective
 
-Developing a morally conscious child requires action, not just words To be moral is to act moral.
+Developing a morally conscious child requires action, not just words [To be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md).
 
-Be a role model for moral behavior and give them opportunities to practice. For example, pick up litter together.
+Be a [role model](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md) for moral behavior and give them opportunities to practice. For example, pick up litter together.
 
-Explain why we do these things, avoiding self-interest arguments like the Golden rule, such as "If you share your toy, she might share hers." This promotes Empathy.
+Explain why we do these things, avoiding self-interest arguments like the [Treat others the way you want to be treated](/notes/treat-others-the-way-you-want-to-be-treated.md), such as "If you share your toy, she might share hers." This promotes [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md).
 
-Instead, develop *perspective taking*, like "If you share your toy, she'll be happy." Show how behavior affects others. Help them understand social cues, like "They look angry, maybe they had a bad day." Analyzing TV and movie characters is also useful Mindsight.
+Instead, develop *perspective taking*, like "If you share your toy, she'll be happy." Show how behavior affects others. Help them understand social cues, like "They look angry, maybe they had a bad day." Analyzing TV and movie characters is also useful [Mindsight is awareness of mental states in self and others](/notes/mindsight-is-awareness-of-mental-states-in-self-and-others.md).
 
 Similarly, learn to take their perspective. It's not easy being a kid, especially when the parent's viewpoint is the default at home.
 
