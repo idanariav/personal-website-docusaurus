@@ -1,13 +1,13 @@
 ---
 UUID: 20230714105041
 Created: '2023-07-14 10:50'
-Modified: '2026-03-07 21:12'
+Modified: '2026-04-02 09:16'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: >-
   [[Distinguishing appearance from authentic substance reveals hidden
   conflicts.png]]
@@ -65,6 +65,6 @@ It is much easier to post about being an environmentalist than actually caring a
 ![Distinguishing appearance from authentic substance reveals hidden conflicts](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.webp)
 
 ## Overview
-🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
+🔼Topic:: [Authenticity and Values](/notes/authenticity-and-values.md)
 ◀Origin::
 🔗Link::

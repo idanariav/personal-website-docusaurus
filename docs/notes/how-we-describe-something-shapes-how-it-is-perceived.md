@@ -1,12 +1,12 @@
 ---
 UUID: 20231223074630
 Created: '2023-12-23 07:46'
-Modified: '2026-03-09 22:27'
+Modified: '2026-03-30 10:00'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[How we describe something shapes how it is perceived.png]]'
 ImageText: A rose and a bud
 Description: >-
@@ -67,6 +67,5 @@ We lack access to the [objective](/notes/seeing-reality-without-subjective-bias-
 
 ## Overview
 🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
-🔼Topic:: [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md)
 ↩️Origin::
 🔗Link::

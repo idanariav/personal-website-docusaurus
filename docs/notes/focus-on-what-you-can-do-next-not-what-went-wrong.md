@@ -1,13 +1,13 @@
 ---
 UUID: 20250227065644
 Created: '2025-02-27 06:56'
-Modified: '2026-03-08 17:27'
+Modified: '2026-04-02 22:44'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Focus on what you can do next not what went wrong.png]]'
 ImageText: 'A windshield showing the road ahead, above a rearview mirror'
 Description: >-
@@ -47,6 +47,6 @@ While the first view hurts our [Self-worth is accurate assessment of your capabi
 ![Focus on what you can do next not what went wrong](/notes/focus-on-what-you-can-do-next-not-what-went-wrong.webp)
 
 ## Overview
-🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
+🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
 ↩️Origin::
 🔗Link::

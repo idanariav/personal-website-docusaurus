@@ -1,12 +1,12 @@
 ---
 UUID: 20250606081802
 Created: '2025-06-06 08:18'
-Modified: '2026-03-16 15:52'
+Modified: '2026-04-03 18:11'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Achieve more by not resisting.png]]'
 ImageText: >-
   A strong tree that snaps by the wind, vs a flexible tree that bends and
@@ -54,6 +54,6 @@ A rock doesn't "want" to fall, yet it does. A river doesn't try to carve the roc
 
 ![Achieve more by not resisting](/notes/achieve-more-by-not-resisting.webp)
 ## Overview
-🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
+🔼Topic:: [Acceptance and Effortless Action](/notes/acceptance-and-effortless-action.md)
 ↩️Origin:: [Tao Te Ching (book)](/books/tao-te-ching-book.md)
 🔗Link::

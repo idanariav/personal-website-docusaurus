@@ -1,12 +1,12 @@
 ---
 UUID: 20230904083605
 Created: '2023-09-04 08:36'
-Modified: '2026-03-17 06:48'
+Modified: '2026-04-02 09:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Achieving internal harmony requires integrating all parts of yourself.png]]'
 ImageText: A puzzle representing all the different sides of yourself
 Description: >-
@@ -55,7 +55,7 @@ When it is achieved, often after an [existential crisis](/notes/life-has-no-pred
 ![Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.webp)
 
 ## Overview
-🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
+🔼Topic:: [Authenticity and Values](/notes/authenticity-and-values.md)
 Origin::
 🔗Link::
 

@@ -1,12 +1,12 @@
 ---
 UUID: 20220715053955
 Created: '2022-07-15 05:38'
-Modified: '2026-03-26 09:21'
+Modified: '2026-04-02 22:44'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Being kind to yourself strengthens resilience and growth.png]]'
 ImageText: A broken vase waters a plant in a flower pot
 Description: >-
@@ -55,7 +55,7 @@ Similarly, self compassion is how we turn [failure](/notes/empirical-testing-not
 ![Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
+🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
 ◀Origin:: [Hidden Brain](/notes/hidden-brain.md)
 🔗Link:: [Source](https://www.podcastrepublic.net/episode/34542060133)
 

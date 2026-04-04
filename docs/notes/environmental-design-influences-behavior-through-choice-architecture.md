@@ -1,12 +1,12 @@
 ---
 UUID: 20230403064329
 Created: '2023-04-03 06:43'
-Modified: '2026-03-23 18:19'
+Modified: '2026-04-01 08:57'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: '2'
+Version: 3
 Image: null
 Description: >-
   A subtle, low-effort method of influencing individual choices by altering the
@@ -68,7 +68,7 @@ In both cases, nobody was forced to do anything differently, but the fact that s
 ![Nudge](/notes/nudge.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
+🔼Topic:: [Environment and Behavior](/notes/environment-and-behavior.md)
 🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
 ◀Origin:: [Nudge (book)](/books/nudge-book.md)
 🔗Link:: 
