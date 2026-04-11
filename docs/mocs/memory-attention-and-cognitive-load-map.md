@@ -1,31 +1,35 @@
 ---
 tags: []
 UUID: 20240323100110
-Version: 1
-Modified: '2024-03-23 10:22'
+Version: 2
+Modified: '2026-04-10 10:51'
 Created: '2024-03-23 10:00'
 Up: '[[Home]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Memory, Attention and Cognitive Load (Map)
+# Memory, Attention and Cognitive Load
 
 ## Notes
 
-Our brain has only a limited capacity for [Working Memory](/notes/working-memory.md), that means it's easy for us to forget or be distracted unless we know how to best utilize the way our brain works.
+Memory and attention are not passive processes — they are active, limited, and shapeable. Understanding how cognitive resources work and where they break down changes what we ask of our minds.
 
-Note that memory, or thinking in general is not only located in the brain ([Extended Mind](/notes/extended-mind.md) ). and can be distorted by post-hoc rationalization
+### The Architecture of Cognitive Limits
 
-Methods for improving our memory:
-1. [Effort Storing](/notes/effort-storing.md) - Instead of hoping to remember in the future what we know now, why not commit that to a plan/writing, such that later on it will be much easier to bring back the memory
-2. [Mental Shortcuts](/notes/mental-shortcuts.md) - Use analogies or other forms of representations and cues to tag the information and search it in an easier way later on. (also see [Cue based memorization](/notes/cue-based-memorization.md) )
-3. [Memory Palace](/notes/memory-palace.md) - Use your spatial pathfinding to make memories more concrete, as if you are building a library in your brain
-4. [Blank Space](/notes/blank-space.md) - Every organization system needs an empty space to be used as an inbox to process incoming information
+[Working Memory and Cognitive Limits](/notes/working-memory-and-cognitive-limits.md) maps the core constraints: working memory is finite and saturates under load, multitasking is sequential switching with compounding costs, and unfinished tasks haunt attention via the Zeigarnik effect. The deeper reframe is treating the mind as a processor rather than a warehouse — its value lies in operating on information, not storing it, which makes offloading to external systems not laziness but good cognitive design. The extended mind thesis extends this further: tools, notes, and environments serve as genuine cognitive extensions, making the design of one's workspace a cognitive intervention in itself.
+
+### Strategies for Better Recall
+
+[Memory Strategies and Mnemonics](/notes/memory-strategies-and-mnemonics.md) covers deliberate techniques that work with memory's architecture rather than against it. Spatial encoding exploits the mind's location-based retrieval system to give abstract content a place in mental space. Front-loading effort — encoding information well once — reduces the total cost of all future recall.
+
+### The Hidden Value of Forgetting
+
+[Forgetfulness](/notes/forgetfulness.md) complicates the picture. Forgetting causes real costs: distraction, broken intentions, failed follow-through. But it is also indispensable — without forgetting we cannot update, cannot escape the past, cannot separate signal from noise. The question is less how to eliminate forgetting and more how to work with it intelligently.
 
 ### Books
 [Moonwalking with Einstein (book)](/notes/moonwalking-with-einstein-book.md)
 [The Checklist Manifesto (book)](/books/the-checklist-manifesto-book.md)
 [The extended mind (book)](/books/the-extended-mind-book.md)
 
-## Other Map
+## Other MOC

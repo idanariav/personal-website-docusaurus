@@ -1,8 +1,8 @@
 ---
 UUID: 20221019213242
 Created: '2022-10-19 21:32'
-Modified: '2026-04-04 09:50'
-Version: 2
+Modified: '2026-04-04 11:01'
+Version: 3
 tags: []
 aliases:
   - The habit loop
@@ -67,7 +67,6 @@ We can apply this knowledge by:
 ![The habit loop](/notes/the-habit-loop.webp)
 
 ## Overview
-🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 🔼Topic:: [Human Brain](/notes/human-brain.md)
 🔼Topic:: [Habit Mechanics](/notes/habit-mechanics.md)
 ◀Origin:: [Atomic Habits (book)](/books/atomic-habits-book.md)

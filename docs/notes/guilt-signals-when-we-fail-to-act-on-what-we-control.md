@@ -1,13 +1,13 @@
 ---
 UUID: 20220715053856
 Created: '2022-07-15 05:38'
-Modified: '2026-04-03 08:45'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Guilt
   - Shame
@@ -56,7 +56,6 @@ Additionally, the more we care about our [Ego](/notes/distinguishing-appearance-
 ![Guilt](/notes/guilt.webp)
 
 ## Overview
-🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 🔼Topic:: [Emotions as Signals](/notes/emotions-as-signals.md)
 ◀Origin:: [The Happiness Lab with Dr. Laurie Santos](null)
 🔗Link:: [Source](https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/39E17/traffic.megaphone.fm/HSW3326477518.mp3?updated=1643918660 )

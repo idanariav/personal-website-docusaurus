@@ -1,13 +1,13 @@
 ---
 UUID: 20231228170954
 Created: '2023-12-28 17:09'
-Modified: '2026-03-24 10:00'
+Modified: '2026-04-10 15:48'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: '2'
+Version: 3
 aliases: []
 Description: >-
   The perception of unpredictability in events, which raises questions about
@@ -45,7 +45,7 @@ At the systems level, randomness is the adversary that most engineered structure
 ![Randomness](/notes/randomness.webp)
 
 ## Overview
-🔼Topic:: [Statistics (Map)](/mocs/statistics-map.md)
+🔼Topic:: [Statistics (Map)](/mocs/statistics-map.md) [Success (Map)](/mocs/success-map.md)
 ↩️Origin::
 🔗Link::
 

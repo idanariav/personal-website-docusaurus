@@ -1,13 +1,13 @@
 ---
 UUID: 20241209073502
 Created: '2024-12-09 07:35'
-Modified: '2026-04-04 10:26'
+Modified: '2026-04-04 11:01'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Consistency compounds results through reliable repeated action.png]]'
 ImageText: 'A week of calendar days from Sunday to Saturday, each with a checkmark'
 Description: >-
@@ -58,7 +58,6 @@ Consistency has an additional benefit because it makes us reliable. First for ou
 ![Consistency compounds results through reliable repeated action](/notes/consistency-compounds-results-through-reliable-repeated-action.webp)
 
 ## Overview
-🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 🔼Topic:: [Compounding and Consistency](/notes/compounding-and-consistency.md)
 ↩️Origin::
 🔗Link::

@@ -1,13 +1,13 @@
 ---
 UUID: 20231002192928
 Created: '2023-10-02 19:29'
-Modified: '2026-04-02 22:42'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - self talk
 Description: >-
@@ -59,7 +59,6 @@ These aspects combined allow us to undergo a moment of [Critical moments force e
 ![self talk](/notes/self-talk.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
 Origin:: [Chatter (book)](/books/chatter-book.md)
 🔗Link::

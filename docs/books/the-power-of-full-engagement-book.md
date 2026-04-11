@@ -1,28 +1,43 @@
 ---
 UUID: 20241001160941
 Created: '2024-10-01 16:09'
-Modified: '2024-11-24 07:25'
+Modified: '2026-04-05 20:41'
 tags: []
+FullTitle: >-
+  The Power of Full Engagement - Managing Energy, Not Time, is the Key to High
+  Performance and Personal Renewal
+Description: >-
+  It argues that managing energy is crucial for peak performance, emphasizing
+  the need for short, focused efforts followed by rest. Acknowledging one’s
+  truth fosters change, while holistic well-being—encompassing physical,
+  emotional, spiritual, and mental aspects—enhances energy and overall
+  effectiveness.
 Author:
   - '[[James E. Loehr]]'
-  - '[[Jim Loehr]]'
   - '[[Tony Schwartz]]'
+URL: 'https://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement'
+Cover: >-
+  http://books.google.com/books/content?id=AknnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Biography & Autobiography
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B000FC0SWS
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 256
+Reread: 0
 Rate: 3
 PublishDate: 2005-01-03T00:00:00.000Z
+StartDate: 2024-11-11T00:00:00.000Z
 FinishDate: 2024-11-24T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=AknnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement'
+Image: null
 aliases: []
 draft: false
 SiteProcssed: true
@@ -73,17 +88,17 @@ I do like the "bear in mind" summaries at the end of each chapter
 
 ### 🖼️Outline
 
-![The Power of Full Engagement (book).webp](/books/the-power-of-full-engagement-book.webp)
+![The Power of Full Engagement (book)](/books/the-power-of-full-engagement-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### The Dynamics of Full Engagement
 
 #### Fully Engaged: Energy, not Time, is Our Most Precious Resource
 
-In modern times we are stuck in [Hustle Culture](/notes/hustle-culture.md), thinking that the bottleneck for productivity is time management. We get todo-lists and endless reminders on our calendars, but to no avail. **Productivity and happiness are based on energy management, not time management**. Imagine getting reminded that it's your partner's birthday today, but you come back so tired from work that you don't have the energy to celebrate. **Without energy, time is useless and not well spent**.
+In modern times we are stuck in [Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md), thinking that the bottleneck for productivity is time management. We get todo-lists and endless reminders on our calendars, but to no avail. **Productivity and happiness are based on energy management, not time management**. Imagine getting reminded that it's your partner's birthday today, but you come back so tired from work that you don't have the energy to celebrate. **Without energy, time is useless and not well spent**.
 
-To take control of our energy, it first takes an attitude of [Life Embracing](/notes/will-to-power.md), to embrace [Responsibility](/notes/responsibility.md) of what happens in our lives. It also takes physical care, emotional connection, mental focus, and alignment with purpose and values. These result in a feeling of [Immersion](/notes/flow.md) in all that we do, a sense of connection in our lives, as opposed to [Alienation](/notes/alienation.md) which causes sadness and lack of productivity.
+To take control of our energy, it first takes an attitude of [Life Embracing](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md), to embrace [Responsibility is binding yourself to outcomes and people you value](/notes/responsibility-is-binding-yourself-to-outcomes-and-people-you-value.md) of what happens in our lives. It also takes physical care, emotional connection, mental focus, and alignment with purpose and values. These result in a feeling of [Immersion](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md) in all that we do, a sense of connection in our lives, as opposed to [Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.md) which causes sadness and lack of productivity.
 
 There are four principles for effective energy management and living an engaged life:
 1. Drawing energy from four separate yet related sources - physical, emotional, mental and spiritual
@@ -107,14 +122,14 @@ Examples:
 3. **Flexibility** - To accept other point of views
 4. **Resilience** - to be able to recover emotionally from a loss
 
-To avoid [burnout](/notes/burnout.md) we must be mindful on how we spend and replenish energy. It requires the courage to [say no](/notes/saying-no.md), to seek a [Break](/notes/rest.md) and renew our energy so that we will have something to spend on the things that matter. The best is to form healthy habits [habit formation](/notes/habit-formation.md), because they will allow us to achieve energy through little effort because they are automated. Building rituals is a much more resilient way for a healthy life than to rely on willpower [willpower is limited](/notes/willpower-is-limited.md)
+To avoid [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md) we must be mindful on how we spend and replenish energy. It requires the courage to [say no](/notes/saying-no-protects-time-and-energy-for-what-matters-most.md), to seek a [Break](/notes/rest-enables-recovery-and-sustained-performance.md) and renew our energy so that we will have something to spend on the things that matter. The best is to form healthy habits [Repeated actions become automatic through habit formation](/notes/repeated-actions-become-automatic-through-habit-formation.md), because they will allow us to achieve energy through little effort because they are automated. Building rituals is a much more resilient way for a healthy life than to rely on willpower [Willpower is Limited](/notes/willpower-is-limited.md)
 
-We can also increase our energy (mental, spiritual) capacity though [deliberate practice](/notes/deliberate-practice.md), the same as we do with physical fitness. [Challenge](/notes/struggle.md) and [stress](/notes/stress.md) are not something to avoid, it is something that will help make us stronger [Obstacles as stepping stones](/notes/creative-destruction.md).
+We can also increase our energy (mental, spiritual) capacity though [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md), the same as we do with physical fitness. [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) and [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) are not something to avoid, it is something that will help make us stronger [Obstacles as stepping stones](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md).
 
 The process of brining the change is called *purpose-truth-action*:
-1. **Purpose** - we align with our values, and detect our [life's mission](/notes/lifes-mission.md)
-2. **Truth** - we [reflect](/notes/introspection.md) on how we live now and how it differs from how we want to live
-3. **Action** - we bridge the gap between the two. We are [being by doing](/notes/fake-it-till-you-make-it.md), by actualizing the values and habits of who we want to be, we will become that person
+1. **Purpose** - we align with our values, and detect our [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md)
+2. **Truth** - we [reflect](/notes/introspection-develops-self-knowledge-through-internal-examination.md) on how we live now and how it differs from how we want to live
+3. **Action** - we bridge the gap between the two. We are [being by doing](/notes/being-emerges-from-action-not-belief.md), by actualizing the values and habits of who we want to be, we will become that person
 
 :::note[Fully Engaged: Energy, Not Time, Is Our Most Precious Resource]
 
@@ -138,7 +153,7 @@ The process of brining the change is called *purpose-truth-action*:
 
 An example for someone who is trying their best yet fail to have a good life. They have bad eating habits, a stressful job, and no sources of uplifting energy.
 
-The example shows that a path to recovery is done [holistically](/notes/harmonious-self.md), it's not enough to look at one aspect of life. Physical, emotional, mental, they are all intertwined, affecting and being affected by one another.
+The example shows that a path to recovery is done [holistically](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md), it's not enough to look at one aspect of life. Physical, emotional, mental, they are all intertwined, affecting and being affected by one another.
 
 :::note[The Disengaged Life of Roger B.]
 
@@ -153,7 +168,7 @@ The example shows that a path to recovery is done [holistically](/notes/harmonio
 
 #### The Pulse of High Performance: Balancing Stress and Recovery
 
-The basics of all human activity are cycles of expending energy and renewing it, it is all about managing our [reserves](/notes/reserves.md). Unfortunately, most of us treat life as a long marathon. The rhythm of spending and renewing energy seems linear, we only spend, hoping that we don't spend too much so that we will be able to make it through the day, forgetting that we also need to rest. Life is not one long marathon, but rather a series of short sprints with rest in between [non linear](/notes/non-linear.md). **Spending without rest would lead to burnout, exhaustion and tear from overuse, like constantly lifting weights, while rest without spending would lead to weakness, like an unused muscle**. We must have them both, rest and spend. [pomoduro technique](/notes/pomoduro-technique.md)
+The basics of all human activity are cycles of expending energy and renewing it, it is all about managing our [Reserves build capacity to absorb unpredictability and disruption](/notes/reserves-build-capacity-to-absorb-unpredictability-and-disruption.md). Unfortunately, most of us treat life as a long marathon. The rhythm of spending and renewing energy seems linear, we only spend, hoping that we don't spend too much so that we will be able to make it through the day, forgetting that we also need to rest. Life is not one long marathon, but rather a series of short sprints with rest in between [Progress and change follow non-linear trajectories with thresholds](/notes/progress-and-change-follow-non-linear-trajectories-with-thresholds.md). **Spending without rest would lead to burnout, exhaustion and tear from overuse, like constantly lifting weights, while rest without spending would lead to weakness, like an unused muscle**. We must have them both, rest and spend. [pomoduro technique](/notes/pomoduro-technique.md)
 
 While rest and spend cycles assure us that we will be able to work with maximum engagement and energy in the moments that matter, it is also critical to continue and face challenges that will increase our maximum capacity, otherwise even in our best day it might not be enough to face moments of high demand.
 
@@ -161,7 +176,7 @@ While rest and spend cycles assure us that we will be able to work with maximum 
 
 Physical energy is key for any type of activity we wish to do. From creativity to focus, everything relies on our body to provide us with the necessary energy, even if we work in a non physical environment.
 
-It all comes down to [nutrition](/notes/nutrition.md), [breathing](/notes/breathing.md), [exercise](/notes/exercise.md) and [sleep](/notes/sleep.md). Nutrition is useful for providing with the resources needed to stay energized, while sleep enables us to repair, cleanup and grow in deep sleep. Exercise helps us keep aging at bay, and increase our overall levels of energy.
+It all comes down to [nutrition](/notes/nutrition.md), [breathing](/notes/breathing.md), [Physical activity shapes mental and emotional wellbeing](/notes/physical-activity-shapes-mental-and-emotional-wellbeing.md) and [Sleep is essential for cognitive function and peak performance](/notes/sleep-is-essential-for-cognitive-function-and-peak-performance.md). Nutrition is useful for providing with the resources needed to stay energized, while sleep enables us to repair, cleanup and grow in deep sleep. Exercise helps us keep aging at bay, and increase our overall levels of energy.
 
 1. **Nutrition**
 	1. Focus on healthy, low sugar intakes
@@ -190,17 +205,17 @@ Physical and emotional energy are not only similar, they are connected. When we 
 
 Some key emotional skills to practice are confidence, self control, patience and empathy.
 
-When we recharge, it's the quality, not just the quantity that matters. For example reading a book, doing yoga, taking a [nature walk](/notes/nature-walk.md), or nurture our [relationships](/notes/relationships.md) is much better than watching tv [leisure](/notes/leisure.md).
+When we recharge, it's the quality, not just the quantity that matters. For example reading a book, doing yoga, taking a [Nature restores mental health and renews focus through immersive presence](/notes/nature-restores-mental-health-and-renews-focus-through-immersive-presence.md), or nurture our [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md) is much better than watching tv [leisure](/notes/leisure.md).
 
-As with physical training, to increase our emotional capacity, it starts with [active listening](/notes/active-listening.md), understanding and respecting others even if we don't agree with them, to train our sense of empathy, to preform giving, and make new connections at workplace.
+As with physical training, to increase our emotional capacity, it starts with [Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.md), understanding and respecting others even if we don't agree with them, to train our sense of empathy, to preform giving, and make new connections at workplace.
 
 #### Mental Energy: Appropriate Focus and Realistic Optimism
 
 To maintain optimal mental energy, we have to:
-1. **Be realistic optimism** - practicing [Optimism](/notes/optimism.md) offers us a change to believe that the situation can improve, specifically through our actions. This can help us avoid feeling [Helplessness](/notes/helplessness.md), of constant dread of the future. However we still have to be realistic, to make sure we don't see the world through rose colored glasses
-2. **Let the mind rest** - most of our creative ideas stem from [downtime brain](/notes/downtime-brain.md), for example having creative thoughts at the shower or when we talk a walk. Therefore taking a brake serves two purposes, we let our mind rest, recharging our ability to focus later on, and increase our creative output
+1. **Be realistic optimism** - practicing [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) offers us a change to believe that the situation can improve, specifically through our actions. This can help us avoid feeling [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md), of constant dread of the future. However we still have to be realistic, to make sure we don't see the world through rose colored glasses
+2. **Let the mind rest** - most of our creative ideas stem from [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md), for example having creative thoughts at the shower or when we talk a walk. Therefore taking a brake serves two purposes, we let our mind rest, recharging our ability to focus later on, and increase our creative output
 
-It's important to remember that our mind has [Neuroplasticity](/notes/neuroplasticity.md), the more we train it, the stronger it will get, even counteract aging effects.
+It's important to remember that our mind has [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md), the more we train it, the stronger it will get, even counteract aging effects.
 
 :::note[Mental Energy: Appropriate Focus and Realistic Optimism]
 
@@ -211,7 +226,7 @@ It's important to remember that our mind has [Neuroplasticity](/notes/neuroplast
 
 #### Spiritual Energy: He Who Has a why to Live
 
-Without [intrinsic motivation](/notes/intrinsic-motivation.md) we have no reason to have any energy at all, regardless of the levels of physical or mental energy. Yes, we could do it, but why? Finding the meaning in our lives is essential for our spiritual energy [meaning is crafted](/notes/meaning-is-crafted.md),
+Without [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) we have no reason to have any energy at all, regardless of the levels of physical or mental energy. Yes, we could do it, but why? Finding the meaning in our lives is essential for our spiritual energy [Meaning is Crafted](/notes/meaning-is-crafted.md),
 
 Spiritual energy consists of passion, commitment, integrity and honesty.
 
@@ -226,7 +241,7 @@ A good purpose is:
 2. **Inner motivation** - a good purpose fuels our intrinsic motivation, we want to do it because it matters to us, regardless of incentives or external influence
 3. **Outward facing** - a good purpose is aimed at improving or changing the lives of others, not just ourselves
 
-Our purpose is usually based on our core values, which means that these values only have meaning if we act upon them [to be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md).
+Our purpose is usually based on our core values, which means that these values only have meaning if we act upon them [To be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md).
 
 :::note[Defining Purpose: The Rules of Engagement]
 
@@ -238,13 +253,13 @@ Our purpose is usually based on our core values, which means that these values o
 
 #### Face the Truth, how Are You Managing Your Energy now
 
-One of the hardest things we can and have to do to set ourselves free and grow our energy is to be a *realistic optimist*, it is a [blend](/notes/balance-extremes.md) of [accepting](/notes/acceptance.md) the truth as it is, but in such an amount that don't lead to paralysis and despair, rather indicate how we can do better. Absolute truth without limits lacks the [Self-compassion](/notes/self-compassion.md) needed to grow. For example, too much acceptance can lead to [imposter syndrome](/notes/imposter-syndrome.md), where we feel so inadequate that we can't function.
+One of the hardest things we can and have to do to set ourselves free and grow our energy is to be a *realistic optimist*, it is a [blend](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md) of [accepting](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) the truth as it is, but in such an amount that don't lead to paralysis and despair, rather indicate how we can do better. Absolute truth without limits lacks the [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md) needed to grow. For example, too much acceptance can lead to [Imposter syndrome is feeling undeserving despite actual competence](/notes/imposter-syndrome-is-feeling-undeserving-despite-actual-competence.md), where we feel so inadequate that we can't function.
 
-This balance requires a deep process of reflection to achieve [Self-awareness](/notes/self-awareness.md). Otherwise, the conflict with the truth often leads to some form of [Denial](/notes/denial.md). Denial not only blocks us from releasing our full energy, it also consumes much of it. There are many forms of denial, such as:
-1. **Focusing on the image** - a strike to our ego causes us to focus on our image rather than on our qualities or behavior [Image vs core](/notes/form-vs-essence.md)
-2. **Rationalization** - We justify our actions rather than accepting reality [rationalization](/notes/rationalization.md)
-3. **Equating subjective and objective reality** - We mistakenly believe that our [subjective reality](/notes/subjective-reality.md) is the objective truth everybody is seeing.
-4. **One dimensionality** - We convert ourselves into a [one-dimensional being](/notes/one-dimensional-being.md), trying to reject our less positive sides, focusing on the one thing we are good at.
+This balance requires a deep process of reflection to achieve [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md). Otherwise, the conflict with the truth often leads to some form of [Denial is choosing a false view to avoid painful truths](/notes/denial-is-choosing-a-false-view-to-avoid-painful-truths.md). Denial not only blocks us from releasing our full energy, it also consumes much of it. There are many forms of denial, such as:
+1. **Focusing on the image** - a strike to our ego causes us to focus on our image rather than on our qualities or behavior [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md)
+2. **Rationalization** - We justify our actions rather than accepting reality [We justify our conclusions after acting, not before](/notes/we-justify-our-conclusions-after-acting-not-before.md)
+3. **Equating subjective and objective reality** - We mistakenly believe that our [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md) is the objective truth everybody is seeing.
+4. **One dimensionality** - We convert ourselves into a [Multidimensional identity collapses into single fixed characteristic](/notes/multidimensional-identity-collapses-into-single-fixed-characteristic.md), trying to reject our less positive sides, focusing on the one thing we are good at.
 
 Accepting the truth requires also taking responsibility on how we can do better, while also acknowledging our limits of what we can and cannot change.
 
@@ -260,13 +275,13 @@ Accepting the truth requires also taking responsibility on how we can do better,
 
 #### Taking Action: the Power of Positive Rituals
 
-Habits are useful because they reduce the amount of [decision points](/notes/decision-points.md) we need to make while fulfilling our values, thus avoiding using our willpower which is very limited to begin with. Habits are what we fall to when times get tough, which means they are even more important to maintain in these moments, and that the most important habits are those that help restore our energy. Even a 60-90 seconds of breaths, walking, meditating, talking with a friend, or listening to a favorite song can have huge effects on our energy.
+Habits are useful because they reduce the amount of [Decision points force re-evaluation or action by creating deliberate triggers](/notes/decision-points-force-re-evaluation-or-action-by-creating-deliberate-triggers.md) we need to make while fulfilling our values, thus avoiding using our willpower which is very limited to begin with. Habits are what we fall to when times get tough, which means they are even more important to maintain in these moments, and that the most important habits are those that help restore our energy. Even a 60-90 seconds of breaths, walking, meditating, talking with a friend, or listening to a favorite song can have huge effects on our energy.
 
 To form good habits:
-1. **Start small** - Don't plan more than you can accomplish. The important thing about habits is their repetitiveness, not the amount of time dedicated to it. [start small](/notes/start-small.md) to gain [momentum](/notes/momentum.md).
-2. **Be precise** - The more you plan in advance when and how you are going to preform the habit, the more likely you are to follow through [clarity](/notes/clarity.md).
+1. **Start small** - Don't plan more than you can accomplish. The important thing about habits is their repetitiveness, not the amount of time dedicated to it. [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md) to gain [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md).
+2. **Be precise** - The more you plan in advance when and how you are going to preform the habit, the more likely you are to follow through [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md).
 3. **Connect to your values** - A habit can only be maintained if it is connected to one of your core values, otherwise you will have no motivation to follow through it
-4. **Change when necessary** - A good habit has to be [adaptable](/notes/adaptability.md). Like training, after a while it will stop being a challenge, which will turn the habit into useless and boring, and you will likely quit. That's why it's important to change it from time to time to be sure it is still useful to you.
+4. **Change when necessary** - A good habit has to be [adaptable](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md). Like training, after a while it will stop being a challenge, which will turn the habit into useless and boring, and you will likely quit. That's why it's important to change it from time to time to be sure it is still useful to you.
 
 :::note[Taking Action: The Power of Positive Rituals]
 

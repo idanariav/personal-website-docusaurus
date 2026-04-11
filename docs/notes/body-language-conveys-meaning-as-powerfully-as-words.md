@@ -1,12 +1,12 @@
 ---
 UUID: 20240206174635
 Created: '2024-02-06 17:46'
-Modified: '2026-03-28 23:01'
+Modified: '2026-04-08 17:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Body language conveys meaning as powerfully as words.png]]'
 ImageText: A crying emoji
 Description: >-
@@ -55,6 +55,7 @@ However, when it comes to others we might be mistaken. It's true that [We can't 
 ![Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.webp)
 
 ## Overview
-🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
+🔼Topic:: [Persuasion and Influence](/notes/persuasion-and-influence.md)
 ↩️Origin::
 🔗Link::
+

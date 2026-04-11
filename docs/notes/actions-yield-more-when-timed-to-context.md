@@ -1,13 +1,13 @@
 ---
 UUID: 20220529145509
 Created: '2022-05-29 14:55'
-Modified: '2026-03-23 18:19'
+Modified: '2026-04-10 16:49'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: '4'
+Version: 6
 Image: '[[Actions yield more when timed to context.png]]'
 ImageText: >-
   A pie chart showing mostly hard sections in pink with one small easy section
@@ -67,8 +67,7 @@ Note that there is no reason to use this as a justification for [Procrastination
 ![Actions yield more when timed to context](/notes/actions-yield-more-when-timed-to-context.webp)
 
 ## Overview
-🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
-🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
+🔼Topic:: [Learning Through Experience](/notes/learning-through-experience.md)
 Origin::
 🔗Link::
 

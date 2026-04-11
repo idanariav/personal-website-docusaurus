@@ -1,12 +1,12 @@
 ---
 UUID: 20231226063123
 Created: '2023-12-26 06:31'
-Modified: '2026-03-19 19:03'
+Modified: '2026-04-06 22:40'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Actions spread effects across people and time beyond initial cause.png]]'
 ImageText: A domino chain
 Description: >-
@@ -56,6 +56,6 @@ Similarly, when someone does a kind act towards another, it can cause that perso
 ![Actions spread effects across people and time beyond initial cause](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.webp)
 
 ## Overview
-🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
+🔼Topic:: [Tradeoffs and Consequences](/notes/tradeoffs-and-consequences.md)
 ↩️Origin:: [Creativity Inc (book)](/books/creativity-inc-book.md)
 🔗Link::

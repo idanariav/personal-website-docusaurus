@@ -1,37 +1,39 @@
 ---
 UUID: 20230318083231
 Created: '2023-03-18 08:32'
-Modified: '2023-03-18 08:32'
-Version: 1
+Modified: '2026-04-10 14:24'
+Version: 2
 tags: []
 Up: '[[Philosophy (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Political Philosophy (Map)
+# Political Philosophy
 
 ## Notes
 
-Political philosophy deals with questions related to how we interact as people within a society, which forces govern us, how do we come to agreement (or not) as people, and which topics interest us as a society the most.
+Political philosophy asks how people should live together — what gives a state legitimacy, what it owes its members, and what threatens or sustains social cohesion.
 
-### What is a state
-1. [Social Contract](/notes/social-contract.md) - A result of a implicit or explicit consent of groups of people that decide to live together under a joint rule. 
-2. [Neutrality](/notes/neutrality.md) - We imagine the state as something neutral, that represents all the different sides of society, while it is much easier said than done, can different voices really be merged into one? ([Pluralism](/notes/pluralism.md) )
-3. [Justice](/notes/justice.md) - we believe that a society has to be just, that it treats it's members equally and works to the benefit of their wellbeing. 
-### Threats to social cohesion
-1. [Inequality](/notes/inequality.md) - inequality breeds conflicts and dissatisfaction within a society. IT is not only the differences in resources, but rather the differences in power that are of interest, and their effect on how we perceive reality ([Soft power](/notes/soft-power.md)) 
-2. [Commodification](/notes/commodification.md) - when economical view penetrates areas that are meant to be sacred
-3. Segregation - when we treat others as not equal in terms of rights, and even not as worthy of being called human ([Moral worth](/notes/moral-worth.md) )
-4. security - What are the limitations on individuals that we are willing to accept for the security of the society.
+### The Foundation of Society
 
-### How to increase social cohesion
-1. [Diversity](/notes/diversity.md) - promote the inclusion and fusion of different voices in the public sphere. This is not always so easy to implement ([Affirmative Action (podcast)](/notes/affirmative-action-podcast.md) )
+[Social Contract](/notes/social-contract.md) examines the basis of legitimate political authority: why individuals would surrender natural freedoms in exchange for the protections and obligations of collective life. Different starting assumptions about human nature yield radically different contracts.
 
-### Ideologies
-1. post-modernism - we were influenced by grand narratives that have narrowed our ways of thinking and reduced it to a herd mentality ([Post-Modernism](/notes/post-modernism.md) )
-2. vail of ignorance - the only way to create a just society is to try and remove ourselves from the equation, to think as if we make decisions behind a vail of ignorance ([Veil of ignorance](/notes/veil-of-ignorance.md) )
-3. Functionalism - to see that each part of society plays a role, and society is the mergent property of the combination of those different roles. ([Functionalism](/notes/functionalism.md) )
+### Rights, Equality, and Justice
+
+[Rights, Justice and Equality](/notes/rights-justice-and-equality.md) covers what individuals are owed by institutions and by each other. Rights are grounded in moral agency, not utility. A just society is one we would design behind a veil of ignorance — structured to protect the worst-off. Inequality is a normative problem, not merely a descriptive one. And free speech is the mechanism through which citizens contest and revise collective decisions.
+
+### Power and Social Control
+
+[Political Power and Norms](/notes/political-power-and-norms.md) addresses how power actually operates — not only through laws and force but through the norms that individuals internalize and reproduce. When social control is diffuse and naturalized, it becomes invisible. Functionalism reads social institutions as machines: each part serves a purpose, and the question is always for whom.
+
+### The Limits of Market Logic
+
+[Consumption and Commodification](/notes/consumption-and-commodification.md) traces the extension of market logic into non-market domains. When friendship, care, or civic participation are commodified, the intrinsic motivations that made them valuable are crowded out. Political philosophy debates what markets may legitimately touch.
+
+### Representing All Voices
+
+[Neutrality](/notes/neutrality.md) examines whether the state can genuinely represent all members of a pluralist society. Exclusive neutrality tries to cancel competing forces; inclusive neutrality tries to balance all voices. Neither is straightforward.
 
 ### Books
 
@@ -54,7 +56,7 @@ Political philosophy deals with questions related to how we interact as people w
 
 [Modern Political Thinking (course)](/notes/modern-political-thinking-course.md)
 
-## Other Map
+## Other MOC
 
 
 

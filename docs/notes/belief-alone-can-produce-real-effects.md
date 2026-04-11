@@ -1,12 +1,12 @@
 ---
 UUID: 20240322072430
 Created: '2024-03-22 07:24'
-Modified: '2026-03-27 08:48'
+Modified: '2026-04-09 16:57'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Belief alone can produce real effects.png]]'
 ImageText: 'A mind with a judge''s mallet, deciding whether something is real or fake'
 Description: >-
@@ -50,6 +50,7 @@ It originated from medicine, where test subjects received a fake pill that was s
 ![Belief alone can produce real effects](/notes/belief-alone-can-produce-real-effects.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
+🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
 ↩️Origin::
 🔗Link::
+

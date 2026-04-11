@@ -1,12 +1,12 @@
 ---
 UUID: 20230404064342
 Created: '2023-04-04 06:43'
-Modified: '2026-04-04 09:50'
+Modified: '2026-04-04 11:01'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Bundling undesired tasks with enjoyable activities increases
   motivation.png]]
@@ -55,7 +55,6 @@ The goal is not to make the activity more [enjoyable](/notes/gamification-increa
 ![Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.webp)
 
 ## Overview
-🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 🔼Topic:: [Habit Mechanics](/notes/habit-mechanics.md)
 ◀Origin::
 🔗Link::

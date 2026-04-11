@@ -1,13 +1,13 @@
 ---
 UUID: 20250227074248
 Created: '2025-02-27 07:42'
-Modified: '2026-04-02 22:44'
+Modified: '2026-04-08 17:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Positive language
 Description: >-
@@ -48,7 +48,7 @@ Instead of being our own (or others') [critics](/notes/self-criticism-is-being-y
 ![positive language](/notes/positive-language.webp)
 
 ## Overview
-🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
+🔼Topic:: [Persuasion and Influence](/notes/persuasion-and-influence.md)
 🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
 ↩️Origin::
 🔗Link::

@@ -1,12 +1,12 @@
 ---
 UUID: 20250302065412
 Created: '2025-03-02 06:54'
-Modified: '2026-04-02 22:41'
+Modified: '2026-04-10 11:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Complex things are best understood by their core parts.png]]'
 ImageText: A laptop broken down to electricity and on-off switches
 Description: >-
@@ -48,7 +48,7 @@ Rather than believe that [truth](/notes/truth.md) is an [emergent](/notes/system
 
 ![Complex things are best understood by their core parts](/notes/complex-things-are-best-understood-by-their-core-parts.webp)
 ## Overview
-🔼Topic:: [Metaphysics (Map)](/mocs/metaphysics-map.md)
+🔼Topic:: [Ontological Theories](/notes/ontological-theories.md)
 ↩️Origin::
 🔗Link::
 

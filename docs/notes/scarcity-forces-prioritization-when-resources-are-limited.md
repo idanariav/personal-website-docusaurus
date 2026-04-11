@@ -1,13 +1,13 @@
 ---
 UUID: 20240409080248
 Created: '2024-04-09 08:02'
-Modified: '2026-03-30 10:00'
+Modified: '2026-04-10 06:09'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 5
 aliases:
   - Scarcity
 Description: >-
@@ -52,9 +52,8 @@ Ask yourself - what is the most important thing right now? What's worth investin
 ![Scarcity](/notes/scarcity.webp)
 
 ## Overview
-🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
-🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
-🔼Topic:: [Resource management (Map)](/mocs/resource-management-map.md)
+🔼Topic:: [Tradeoffs and Consequences](/notes/tradeoffs-and-consequences.md)
+🔼Topic:: [Resource Allocation and Prioritization](/notes/resource-allocation-and-prioritization.md)
 ↩️Origin::
 🔗Link::
 

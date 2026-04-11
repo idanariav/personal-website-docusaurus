@@ -1,14 +1,14 @@
 ---
 UUID: 20221101075539
 Created: '2022-11-01 07:55'
-Modified: '2026-04-01 09:36'
+Modified: '2026-04-10 10:12'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
 new_schema: true
-Version: 5
+Version: 7
 Image: '[[A person is a community.png]]'
 ImageText: Person with people arguing within his head
 Description: >-
@@ -54,8 +54,6 @@ In some sense, this also means that [What we do is not who we are](/notes/separa
 ![A person is a community](/notes/a-person-is-a-community.webp)
 
 ## Overview
-🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
-🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
 🔼Topic:: [Identity Structure](/notes/identity-structure.md)
 ◀Origin:: [First Things First (book)](/books/first-things-first-book.md)
 🔗Link::

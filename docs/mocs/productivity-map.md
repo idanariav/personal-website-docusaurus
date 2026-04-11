@@ -1,8 +1,8 @@
 ---
 UUID: 20230330074312
 Created: '2023-03-30 07:43'
-Modified: '2024-06-14 15:54'
-Version: 1
+Modified: '2026-04-10 14:33'
+Version: 2
 tags: []
 aliases: null
 Up: '[[Home]]'
@@ -10,42 +10,27 @@ draft: false
 SiteProcssed: true
 ---
 
-# Productivity (Map)
+# Productivity
 
 ## Notes
 
-There are a variety of ways/methods/systems for us to handle, focus and preform what we need to do. It is likely that the variety exists since we as people have different tastes and ways to motivate ourselves. however I believe that some core principles still apply for most people.
+Productivity is not about doing more — it is about directing finite attention, time, and energy toward what actually matters. That requires knowing what to prioritize, sustaining the conditions that enable deep work, tracking whether you are on course, and recognizing what blocks you.
 
-The basic division of productivity is into:
-1. **Time management** - how do we choose to use our time, what gets priority, how do we make time to what's important [Time Management (Map)](/mocs/time-management-map.md)
-2. **Resource management** - how do we use the space, our tools, to our advantage [Resource management (Map)](/mocs/resource-management-map.md)
-3. **Workflows** - methods of execution, how to perform tasks quickly and efficiently. [workflows (Map)](/mocs/workflows-map.md)
+### Prioritizing and Leveraging
 
-### Theories and principles
+[Prioritization and Leverage](/notes/prioritization-and-leverage.md) establishes the foundational principle: not all effort produces equal results. The Pareto principle, multipliers, and constraint management all point toward the same goal — maximum output from finite inputs. Parkinson's Law is a lever in disguise: a task expands to fill available time, which means setting tighter constraints is itself a productivity intervention.
 
-its important that when we try and be more productive in our life, that we wont focus on that solely at expense of our mental and social wellbeing, in order not to experience [Burnout](/notes/burnout.md)
+### Sustaining Peak States
 
-#### Time management
+[Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md) covers the conditions under which performance is highest — flow, focus, adequate recovery, and the attentional safety that allows full engagement. Burnout is the failure mode when these conditions collapse: chronic exhaustion from demands that exceed recovery. Understanding peak states means understanding both how to access them and how to preserve the resources they require.
 
-[Parkinsons Law](/notes/parkinsons-law.md) - a task will take as long as you give it
+### Tracking and Reflecting
 
-### useful practices
+[Self-Tracking and Reflection](/notes/self-tracking-and-reflection.md) provides the feedback mechanism. Regular review cycles make visible whether effort is aligned with goals and whether adjustments are needed. Journaling, data-driven tracking, and periodic review together create the self-knowledge that allows intentional correction rather than reactive firefighting.
 
-#### Resource management
+### Overcoming Avoidance
 
-##### how to decide what to work on:
-[Triage](/notes/triage.md) - Build a system that will help you allocate your precious time and resources wisely based on your motivation, preferences, and relevant context.
-
-##### how to start a task
-[5 minute rule](/notes/5-minute-rule.md)
-
-
-### Unsorted notes
-```dataview
-LIST FROM [Productivity (Map)](/mocs/productivity-map.md) AND -outgoing([Productivity (Map)](/mocs/productivity-map.md))
-AND  !#Type/Map 
-sort file.name asc
-```
+[Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md) addresses the psychological side: procrastination is not a time management problem but a pattern of avoidance triggered by discomfort, uncertainty, or fear of failure. Recognizing avoidance as an adaptive reflex — rather than a character flaw — changes what interventions actually help.
 
 ### General channels
 [Matt DAvella](/notes/matt-davella.md)
@@ -58,7 +43,7 @@ sort file.name asc
 [the Art of Improvement](/notes/the-art-of-improvement.md)
 
 ### Daily Highlight
-[make time (book)](/books/make-time-book.md)
+[Make time (book)](/books/make-time-book.md)
 [The One Thing (book)](/books/the-one-thing-book.md)
 [Essentialism (book)](/books/essentialism-book.md)
 
@@ -71,4 +56,4 @@ sort file.name asc
 [The 12 week year (book)](/books/the-12-week-year-book.md)
 [First Things First (book)](/books/first-things-first-book.md)
 
-## Other Map
+## Other MOC

@@ -1,13 +1,13 @@
 ---
 UUID: 20231225065723
 Created: '2023-12-25 06:57'
-Modified: '2026-03-24 10:00'
+Modified: '2026-04-08 17:06'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 5
 aliases:
   - Sense seeking creatures
 Description: >-
@@ -48,7 +48,8 @@ All this goes to show that instead of matching our view based on the world and i
 ![sense seeking creatures](/notes/sense-seeking-creatures.webp)
 
 ## Overview
-🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
+🔼Topic:: [Attribution Bias](/notes/attribution-bias.md)
+🔼Topic:: [Innate Human Disposition](/notes/innate-human-disposition.md)
 ↩️Origin::
 🔗Link::
 

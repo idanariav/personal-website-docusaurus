@@ -1,8 +1,8 @@
 ---
 UUID: 20250306124703
 Created: '2025-03-06 12:47'
-Modified: '2026-04-04 10:25'
-Version: 2
+Modified: '2026-04-04 11:01'
+Version: 3
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -46,7 +46,6 @@ However, it's better to have a [anti fragile](/notes/some-systems-grow-stronger-
 
 
 ## Overview
-🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 🔼Topic:: [Compounding and Consistency](/notes/compounding-and-consistency.md)
 ↩️Origin::
 🔗Link:: 

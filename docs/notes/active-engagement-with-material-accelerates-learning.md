@@ -1,14 +1,14 @@
 ---
 UUID: 20240425171923
 Created: '2024-04-25 17:19'
-Modified: '2026-03-20 08:18'
+Modified: '2026-04-09 08:42'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 2
-Image: '[[Active engagement turns information into knowledge.png]]'
-ImageText: A lump of clay vs a bowl of clay
+Version: 3
+Image: '[[Active engagement with material accelerates learning.png]]'
+ImageText: 'A video on a phone about making a clay bowl, vs hands that make a clay bowl'
 Description: >-
   A proactive approach to education that emphasizes engagement and practical
   application over passive consumption, fostering deeper understanding and
@@ -56,6 +56,7 @@ Most of us avoid learning by doing because it:
 ![Active engagement with material accelerates learning](/notes/active-engagement-with-material-accelerates-learning.webp)
 
 ## Overview
-🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
+🔼Topic:: [Active Learning and Deep Encoding](/notes/active-learning-and-deep-encoding.md)
 ↩️Origin::
 🔗Link::
+

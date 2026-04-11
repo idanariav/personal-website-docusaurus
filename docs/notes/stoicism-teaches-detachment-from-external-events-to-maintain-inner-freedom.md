@@ -1,13 +1,13 @@
 ---
 UUID: 20221112071520
 Created: '2022-11-12 07:15'
-Modified: '2026-04-03 18:12'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Stoicism
 Description: >-
@@ -67,7 +67,6 @@ Stress inculcation would remove much of your [Stress can be adaptive or harmful 
 ![Stoicism](/notes/stoicism.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 🔼Topic:: [Acceptance and Effortless Action](/notes/acceptance-and-effortless-action.md)
 ◀Origin:: [How to think like a roman emperor (book)](/books/how-to-think-like-a-roman-emperor-book.md)
 🔗Link::

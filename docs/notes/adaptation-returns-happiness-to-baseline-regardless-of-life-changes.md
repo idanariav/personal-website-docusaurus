@@ -1,12 +1,12 @@
 ---
 UUID: 20231113162845
 Created: '2023-11-13 16:28'
-Modified: '2026-03-22 06:30'
+Modified: '2026-04-08 13:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Adaptation returns happiness to baseline regardless of life changes.png]]'
 ImageText: A line chart showing ups and downs but returning to baseline
 Description: >-
@@ -56,6 +56,6 @@ On the one hand, it shows how much [resilient](/notes/emotional-resilience-enabl
 ![Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
+🔼Topic:: [Happiness (Nature and Sources)](/notes/happiness-nature-and-sources.md)
 🔗Link::
 

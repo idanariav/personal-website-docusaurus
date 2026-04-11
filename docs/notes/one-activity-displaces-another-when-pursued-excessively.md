@@ -1,13 +1,13 @@
 ---
 UUID: 20240101081952
 Created: '2024-01-01 08:19'
-Modified: '2026-04-01 08:57'
+Modified: '2026-04-04 10:58'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[One activity displaces another when pursued excessively.png]]'
 ImageText: >-
   A balance scale showing green circles for internal motivation tipping one way
@@ -66,7 +66,7 @@ In economics, this is often referred to cases where the more the government inve
 
 ## Overview
 🔼Topic:: [Environment and Behavior](/notes/environment-and-behavior.md)
-🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
+🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
 ↩️Origin::
 🔗Link::
 

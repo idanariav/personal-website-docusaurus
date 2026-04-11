@@ -1,9 +1,9 @@
 ---
 UUID: 202403300800
 Created: '2024-03-30 08:00'
-Modified: '2025-07-23 06:00'
+Modified: '2026-04-09 22:13'
 tags: []
-Version: 1.01
+Version: 2
 aliases:
   - Parenting (Map)
 Up: '[[Home]]'
@@ -11,78 +11,16 @@ draft: false
 SiteProcssed: true
 ---
 
-# Education (Map)
+# Education
 
 ## Notes
 
-Parenting tips and knowledge can be split into several categories, some overlap but not all.
 
-### Pregnancy
+Education, in this vault, is examined through the lens of what actually supports development — both in formal instruction and in parenting. The central questions are: how do we support others' growth without undermining it, and what does effective feedback and discipline look like?
 
-[Pregnancy](/notes/pregnancy.md)
+[Scaffolded Growth](/notes/scaffolded-growth.md) addresses the discipline of calibrated support: how to praise in ways that build intrinsic motivation (effort, not ability), when to resist rescuing so that productive struggle can occur, and why excessive control defeats the growth it intends to produce. Development requires restraint from the facilitator, not just resources.
 
-### Physical Care
-
-[Children physical care](/notes/children-physical-care.md)
-
-### Mentality
-
-#### Crying
-
-[children crying](/notes/children-crying.md)
-
-#### Tantrums
-
-[Tantrum](/notes/emotional-hijacking.md)
-
-#### Self Perception
-
-we will make mistakes, it will be hard, but it will pass, better days will come.
-You are not just a parent, you will still need hobbies and friends, you need to save time for that, this is what will provide you the power to go on.
-
-make sure your emotional stability isn't dependent on the child, he is not supposed to be our care taker. If we become too dependent, it is a great weight for them to bear at such a young age, they lack the tools and resilience needed to hold themselves, let alone the parents. It will only bring stress.
-
-#### Independence
-
-[supporting independence](/notes/supporting-independence.md)
-Supporting their independence starts from giving them a chance to be independent. If we [hover](/notes/micro-management.md) over them constantly, they don't have room for development.
-
-#### Communication
-
-[communicating with children](/notes/communicating-with-children.md)
-#### Finances
-
-[Financial education](/notes/financial-education.md)
-
-#### Develop Capabilities
-
-[developing capabilities](/notes/developing-capabilities.md)
-Also, it is important that we avoid [jumping to the rescue](/notes/dont-jump-to-the-rescue.md). If we solve their problems for them, they will never learn to do so for themselves/
-Similarly, we need to know how to [give praises](/notes/how-to-give-praises.md), in a way that encourages their curiosity and desire to grow, instead of achievements.
-
-#### Body Image and Nutrition
-
-[body image](/notes/body-image.md)
-
-#### Rules and Limits
-
-[parental rules](/notes/parental-rules.md)
-[Punishment](/notes/punishment.md)
-
-#### Emotional Development
-
-[Inclusion](/notes/inclusion.md)
-We need to use emotional coaching with our kids. To show them that having emotions is okay, to **acknowledge their feelings**, and be more like a curious guide than a teacher. Help them reflect on the situation and not just tell them what to do, or to use punishment and rewards.
-
-the kids need to know (explicitly and verbally), that when they are in need, no matter when, where, or which situation they are, we will come for them, no punishment, no judgment, we will always be there (perhaps find a safe-word for it)
-### Misc.
-
-baby warning:
-1. Not too much during the day (let them have free time to move and play)
-2. always facing you
-3. mouth is not covered, chin is upright (no obstacles for breathing)
-4. legs form an "m" shape (to protect the hip)
-[https://www.youtube.com/watch?si=HCZYsQC5gXcHckou&v=Ok0XUo6-j-w&feature=youtu.be](https://www.youtube.com/watch?si=HCZYsQC5gXcHckou&v=Ok0XUo6-j-w&feature=youtu.be)
+[Punishment](/notes/punishment.md) examines the limits and costs of punishment as a developmental tool — and the alternative models (emotional coaching, natural consequences, acknowledgment) that produce better outcomes without the relational damage.
 
 ### Books
 
@@ -105,6 +43,6 @@ baby warning:
 
 ### Podcasts
 
-[unruffled](/notes/unruffled.md)
+[Unruffled](/notes/unruffled.md)
 
-## Other Map
+## Other MOC

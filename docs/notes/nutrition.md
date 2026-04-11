@@ -1,13 +1,13 @@
 ---
 UUID: 20241102212226
 Created: '2024-11-02 21:22'
-Modified: '2026-03-23 18:19'
+Modified: '2026-04-09 17:40'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: '2'
+Version: 4
 aliases:
   - Diet
 Description: >-
@@ -33,7 +33,7 @@ The challenge of eating well is less about knowledge and more about environment.
 ![Nutrition](/notes/nutrition.webp)
 
 ## Overview
-🔼Topic:: [Health (Map)](/mocs/health-map.md)
+🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 ↩️Origin::
 🔗Link::
 

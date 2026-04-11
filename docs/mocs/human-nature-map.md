@@ -1,10 +1,10 @@
 ---
 UUID: 20230328064722
 Created: '2023-03-28 06:47'
-Modified: '2024-03-26 09:04'
-Version: 1.01
+Modified: '2026-04-10 10:15'
+Version: 2
 tags: []
-Up: '[[Behavioral Psychology (Map)]]'
+Up: '[[behavioral psychology (Map)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -12,26 +12,24 @@ SiteProcssed: true
 # Human Nature
 
 ## Notes
-Are people inherently good? What are our default modes of thought and action?
-What is our true human nature? It is hard to separate the effects of [nature vs nurture](/notes/nature-vs-nurture.md)
 
-It is believed that:
-1. [A person is a community](/notes/a-person-is-a-community.md) - we contain multitude within us, we are never just "one thing", especially not across time.
-2. [humans are good as default](/notes/humans-are-good-as-default.md) - we seek the happiness of ourselves and others. The desire to harm others is a taught constraint to that goal.
-3. [sense seeking creatures](/notes/sense-seeking-creatures.md) - we seek meaning for our lives, explanations for things that happen to us
-4. [Communication is in our nature](/notes/communication-is-in-our-nature.md) - we were built to communicate with others and share our thoughts, beliefs, perspectives.
-5. human [Human is a social being](/notes/human-is-a-social-being.md) - we were born to be a part of a community, to have relationships with others.
+What are humans like before culture, circumstance, and choice shape them? Human nature asks what is wired in, what is learned, and what emerges from the collision of both.
 
-How we think:
-1. [Risk Management](/notes/risk-management.md) - we tend to be loss averse as default
-2. [Extended Mind](/notes/extended-mind.md) - we tend to think through our interaction with the environment, specifically while using our bodies (walking, talking with the hands). Thinking is not isolated in the brain
-3. [Storytelling](/notes/storytelling.md) - we convey information better through stories
-4. [Utility](/notes/utility.md) - we can often see the world through mathematical lenses, trying to quantify the benefit from doing an action or receiving an item.
-5. [Death](/notes/death.md) - like it or not, death is a constant thought in our mind, and it dictates in one way or another our perception of reality and how we choose to dedicate our time and attention.
+### What We're Built With
 
-our social nature:
-1. [Social Environment](/notes/social-environment.md) - we are highly affected by the social environment we are in, the expectations of others, social pressure and culture norms are a good predictor of our own behavior
-2. [Social Contract](/notes/social-contract.md) - How do we form as societies? the theory of social contract suggests some answers to that.
+[Innate Human Disposition](/notes/innate-human-disposition.md) traces the structural features present at the biological baseline: a prosocial default that precedes deliberation, and a compulsive pattern-seeking that is adaptive but produces systematic errors in noisy environments.
+
+### Nature and Nurture
+
+[Nature vs nurture](/notes/nature-vs-nurture.md) challenges the binary. Genes are not fixed — environmental cues switch them on or off, and habits can even alter heritable expression. Culture, meanwhile, can be as rigid as DNA. The real question is not which force dominates, but whether we can free ourselves from either.
+
+### We Are Social Beings
+
+[Social Nature](/notes/social-nature.md) makes the deeper point: sociality is not a preference but a constitutive feature of being human. Language is not a learned tool but a natural expression of how we relate. Norms and social environments don't merely influence us — they partly constitute who we are.
+
+### The Terms of Living Together
+
+[Social Contract](/notes/social-contract.md) takes human nature into the political domain: what would people agree to if society were designed from scratch? The answer depends entirely on the starting assumptions about human nature — Hobbes, Locke, and Rousseau reach radically different contracts because they begin from radically different pictures of what humans are like.
 
 ### Philosophers
 [Thomas Hobbes (philosopher)](/notes/thomas-hobbes-philosopher.md)
@@ -41,6 +39,6 @@ our social nature:
 [Theory of Moral Sentiments (book)](/books/theory-of-moral-sentiments-book.md)
 [Behave (book)](/books/behave-book.md)
 
-## Other Map
+## Other MOC
 
 ### Overview

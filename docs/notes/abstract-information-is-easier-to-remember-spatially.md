@@ -1,13 +1,13 @@
 ---
 UUID: 20231230203220
 Created: '2023-12-30 20:32'
-Modified: '2026-03-14 21:11'
+Modified: '2026-04-09 08:54'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Abstract information is easier to remember spatially.png]]'
 ImageText: A person thinking about a house
 Description: >-
@@ -49,7 +49,7 @@ For example, instead of trying to memorize a todo-list such as go to the groceri
 
 ![Abstract information is easier to remember spatially](/notes/abstract-information-is-easier-to-remember-spatially.webp)
 ## Overview
-🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
+🔼Topic:: [Memory Strategies and Mnemonics](/notes/memory-strategies-and-mnemonics.md)
 ↩️Origin:: [Moonwalking with Einstein (book)](/notes/moonwalking-with-einstein-book.md)
 🔗Link::
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20220603080120
 Created: '2022-01-01 08:00'
-Modified: '2026-04-04 10:25'
+Modified: '2026-04-04 11:01'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Repeated actions yield exponentially increasing returns over time.png]]'
 ImageText: >-
   Two growth curves over time, one showing exponential compounding benefit and
@@ -63,7 +63,6 @@ For example, getting better 1% each day, you get 37 times better at the end of t
 ![Repeated actions yield exponentially increasing returns over time](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.webp)
 
 ## Overview
-🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 🔼Topic:: [Compounding and Consistency](/notes/compounding-and-consistency.md)
 Origin:: [Atomic Habits (book)](/books/atomic-habits-book.md)
 Origin:: [Clear Thinking (book)](/books/clear-thinking-book.md)

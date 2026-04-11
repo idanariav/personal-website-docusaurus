@@ -1,13 +1,13 @@
 ---
 UUID: 20240309080355
 Created: '2024-03-09 08:03'
-Modified: '2026-03-12 07:44'
+Modified: '2026-04-09 09:51'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 1
+Version: 2
 aliases:
   - Globalization
 Description: >-
@@ -49,7 +49,7 @@ Automation and [Delegating production trades control for efficiency](/notes/dele
 ![Globalization](/notes/globalization.webp)
 
 ## Overview
-🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
+🔼Topic:: [Market Dynamics and Competition](/notes/market-dynamics-and-competition.md)
 ↩️Origin::
 🔗Link::
 

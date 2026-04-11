@@ -1,33 +1,26 @@
 ---
 UUID: 20230318081131
 Created: '2023-03-18 08:11'
-Modified: '2024-03-27 08:20'
-Version: 1.01
+Modified: '2026-04-09 22:16'
+Version: 2
 tags: []
 Up: '[[Philosophy (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Epistemology (Map)
+# Epistemology
 
 ## Notes
 
-Epistemology asks how do we know what we know. What is knowledge, and how is it different from a belief? can we ever be sure of something? What is [Truth](/notes/truth.md) ? As you can see, epistemology is highly affected by [Uncertainty](/notes/uncertainty.md) .
 
-### Types of Knowledge
-1. knowledge of others - aka [Theory of Mind](/notes/theory-of-mind.md) , we often fail to know what is going on on other's minds. We don't even know where consciousness lies ([the hard problem of consciousness](/notes/the-hard-problem-of-consciousness.md) )
-2. [experience knowledge](/notes/experience-knowledge.md) - Some knowledge seems to be acquired only though an experience, even when the "technical" knowledge is out there from the beginning. See [Mary's room](/notes/marys-room.md) as an example.
-3. [Social Construct](/notes/social-construct.md) - some things are "real" only because we collectively believe them to be true, like money.
-4. [Subjective Reality](/notes/subjective-reality.md) - some things are "true" to us, our perception has the power to influence our own reality.
-5. self knowledge - (aka [Self-awareness](/notes/self-awareness.md) ), to be aware of our mental and emotional states and the reasons for them. Sometimes it fails. Knowing ourselves can also explain why we [Desire](/notes/desire.md) certain things
+Epistemology asks how we know what we know — and whether we can know it at all. This Map covers the foundational philosophical traditions that answer this question differently, the structural limits of what can be known, and the concept of truth itself.
 
-### Types of Inquiry
-There are several ways in which we asks ourselves how do we know something, or how we detect the "truth":
-1. [Rationalism](/notes/rationalism.md) - Truth and reason are intertwined, by practicing logic relentlessly, we could discover truths about the world
-2. [Empiricism](/notes/empiricism.md) - Reality is the best source of truth we have. Our minds are biased and limited, while through experimentation we could discover the truths of the world.
-3. [Pragmatism](/notes/pragmatism.md) - what is "true" is what is "useful" to us, i.e "what works".
-4. [contextualism](/notes/contextualism.md) - Truth depends on the situation and who is speaking. A statement can't be judged on it's own but only in a given context.
+[Foundations of Knowledge](/notes/foundations-of-knowledge.md) maps the canonical epistemological schools — rationalism, empiricism, pragmatism, relativism, and coherentism — as competing theories of where knowledge is grounded and how it is validated. These are not just academic positions; they reflect deep differences in how evidence, reason, and experience are weighted.
+
+[Nature and Limits of Knowledge](/notes/nature-and-limits-of-knowledge.md) examines what we cannot fully know: the hard limits of qualia and subjective experience, the role of social construction in shaping reality, the mediating effects of perception, and the anxiety that comes with irreducible epistemic uncertainty.
+
+[Truth](/notes/truth.md) engages with truth as a contested concept — distinguishing between objective facts, socially constructed realities, perspectival truths, and the practical criterion of usefulness. What counts as "true" depends on what theory of knowledge you hold.
 
 ### Philosophers
 [Socrates (philosopher)](/notes/socrates-philosopher.md)
@@ -38,6 +31,6 @@ There are several ways in which we asks ourselves how do we know something, or h
 ### Courses
 [Epistemology (course)](/notes/epistemology-course.md)
 
-## Other Map
+## Other MOC
 
 ### Overview

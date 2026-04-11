@@ -1,8 +1,8 @@
 ---
 UUID: 20250304194714
 Created: '2025-03-04 19:47'
-Modified: '2026-04-02 22:42'
-Version: 2
+Modified: '2026-04-04 10:59'
+Version: 3
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -53,7 +53,6 @@ People intentionally [signal](/notes/signaling-is-displaying-qualities-to-appear
 
 
 ## Overview
-🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
 ↩️Origin::
 🔗Link:: 

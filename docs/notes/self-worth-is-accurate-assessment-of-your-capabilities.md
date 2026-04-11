@@ -1,13 +1,13 @@
 ---
 UUID: 20240101083028
 Created: '2024-01-01 08:30'
-Modified: '2026-04-02 22:42'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - self worth
   - Confidence
@@ -57,7 +57,6 @@ Additionally, to discredit ourselves can often lead to [cynicism](/notes/cynicis
 ![Self Worth](/notes/self-worth.webp)
 
 ## Overview
-🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
 ↩️Origin::
 🔗Link::

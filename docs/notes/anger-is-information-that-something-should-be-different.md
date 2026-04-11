@@ -1,13 +1,13 @@
 ---
 UUID: 20240106082457
 Created: '2024-01-06 08:24'
-Modified: '2026-04-03 08:45'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Anger is information that something should be different.png]]'
 ImageText: An angry person with steam coming out of his head
 Description: >-
@@ -56,7 +56,6 @@ Anger can also lead to [Impulsivity is acting without conscious deliberation or 
 ![Anger is information that something should be different](/notes/anger-is-information-that-something-should-be-different.webp)
 
 ## Overview
-🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 🔼Topic:: [Emotions as Signals](/notes/emotions-as-signals.md)
 ↩️Origin::
 🔗Link::

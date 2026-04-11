@@ -1,13 +1,13 @@
 ---
 UUID: 20230329074957
 Created: '2023-03-29 07:49'
-Modified: '2026-04-02 22:42'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Introspection
   - Self Reflection
@@ -52,7 +52,6 @@ Introspection is not easy. we might be too tempted to trust first answer we find
 ![introspection](/notes/introspection.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
 ◀Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)
 🔗Link:: https://nesslabs.com/introspection-trap

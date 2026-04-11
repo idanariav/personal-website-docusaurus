@@ -1,13 +1,13 @@
 ---
 UUID: 20240219081829
 Created: '2024-02-19 08:18'
-Modified: '2026-04-03 18:12'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Accepting what we cannot control is the path to peace.png]]'
 ImageText: A circle of control
 Description: >-
@@ -52,7 +52,6 @@ We also shouldn't see our circles of control are fixed. The more we improve our 
 ![Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.webp)
 
 ## Overview
-⬆️Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
 ⬆️Topic:: [Acceptance and Effortless Action](/notes/acceptance-and-effortless-action.md)
 ↩️Origin::
 🔗Link::

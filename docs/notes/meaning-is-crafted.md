@@ -1,13 +1,19 @@
 ---
 UUID: 20240220081217
 Created: '2024-02-20 08:12'
-Modified: 2025-08-13T07:28:00.000Z
+Modified: '2026-04-09 17:01'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+Image: null
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
 aliases: null
+Description: >-
+  The concept that purpose in life is not innate but must be actively defined
+  and cultivated through introspection and personal authenticity, acknowledging
+  its potential evolution over time.
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -16,18 +22,36 @@ SiteProcssed: true
 
 ## Notes
 
-Meaning, or purpose to our lives is not something that we are born with, and even on that case, we have no way of knowing what our purpose in life is. Therefore, in either case our purpose has to be decided, we have to define, plan and declare our purpose [Life's Mission](/notes/lifes-mission.md) [Pragmatism](/notes/pragmatism.md). Without it, we are simply [lost in the infinite](/notes/lost-in-the-infinite.md), unable to take control of the way our life is headed because we don't know where we are going.
 
-Since we are our own unique person, we can't copy another's purpose [lost in the finite](/notes/lost-in-the-finite.md). We have to dive deep [introspection](/notes/introspection.md), find our [Passion](/notes/passion.md), and cultivate our [authentic self](/notes/authenticity.md).
+### Claim
 
-It is okay to not be sure about your purpose even after you have decided it, since it can and probably will change over time [Intertemporal Identity](/notes/intertemporal-identity.md), and it is okay to include other's in our meaning of life, as long as they don't decide for us what that meaning will be [Interpersonal Identity](/notes/interpersonal-identity.md)
+Meaning, or purpose to our lives is not something that we are born with, and even on that case, we have no way of knowing what our purpose in life is. Therefore, in either case our purpose has to be decided, we have to define, plan and declare our purpose [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md) [Truth and goodness are defined by practical usefulness](/notes/truth-and-goodness-are-defined-by-practical-usefulness.md).
+
+### Explanation
+
+Since we are our own unique person, we can't copy another's purpose [Surrendering agency to external forces destroys individual identity](/notes/surrendering-agency-to-external-forces-destroys-individual-identity.md). We have to dive deep [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md), find our [Passion is deep desire that sustains intrinsic motivation through difficulty](/notes/passion-is-deep-desire-that-sustains-intrinsic-motivation-through-difficulty.md), and cultivate our [authentic self](/notes/acting-in-alignment-with-your-values-is-authenticity.md).
+
+### Why it matters
+
+Without it, we are simply [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md), unable to take control of the way our life is headed because we don't know where we are going.
+
+### Examples
+
+### Supporters
+
+### Opposers
+
+### Open questions
+
+It is okay to not be sure about your purpose even after you have decided it, since it can and probably will change over time [Identity persists across time through psychological continuity](/notes/identity-persists-across-time-through-psychological-continuity.md), and it is okay to include other's in our meaning of life, as long as they don't decide for us what that meaning will be [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md)
+
 
 ## Visual
 
-![Meaning is Crafted.webp](/notes/meaning-is-crafted.webp)
+![Meaning is Crafted](/notes/meaning-is-crafted.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
+🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
 ↩️Origin::
 🔗Link::
 

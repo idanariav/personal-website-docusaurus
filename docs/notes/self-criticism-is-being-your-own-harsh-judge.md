@@ -1,13 +1,13 @@
 ---
 UUID: 20240502094323
 Created: '2024-05-02 09:43'
-Modified: '2026-04-02 22:41'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Self Criticism
 Description: >-
@@ -54,7 +54,6 @@ Self criticism is a swamp that only grows deeper and harder to escape [Harmful a
 ![Self Criticism](/notes/self-criticism.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
 ↩️Origin::
 🔗Link::

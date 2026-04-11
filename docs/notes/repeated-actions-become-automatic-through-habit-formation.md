@@ -1,13 +1,13 @@
 ---
 UUID: 20240630075032
 Created: '2024-06-30 07:50'
-Modified: '2026-04-04 09:50'
+Modified: '2026-04-04 11:00'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Habit formation
   - Habituation
@@ -56,7 +56,6 @@ Habits are a good way for creating [routines](/notes/focusing-on-process-and-con
 ![Habit formation](/notes/habit-formation.webp)
 
 ## Overview
-🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 🔼Topic:: [Human Brain](/notes/human-brain.md)
 🔼Topic:: [Habit Mechanics](/notes/habit-mechanics.md)
 ↩️Origin:: [Atomic Habits (book)](/books/atomic-habits-book.md)

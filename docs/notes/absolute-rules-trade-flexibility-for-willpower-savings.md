@@ -1,12 +1,12 @@
 ---
 UUID: 20250606084114
 Created: '2025-06-06 08:41'
-Modified: '2026-03-13 10:19'
+Modified: '2026-04-08 13:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Absolute rules trade flexibility for willpower savings.png]]'
 ImageText: A dimmer and a switch side by side
 Description: >-
@@ -52,7 +52,7 @@ The downside of rigid rules is that once broken, they usually lead to the [Break
 ![Absolute rules trade flexibility for willpower savings](/notes/absolute-rules-trade-flexibility-for-willpower-savings.webp)
 
 ## Overview
-🔼Topic:: [Will Power (Map)](/mocs/will-power-map.md)
+🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
 ↩️Origin::
 🔗Link::
 

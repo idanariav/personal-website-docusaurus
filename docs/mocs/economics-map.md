@@ -1,8 +1,8 @@
 ---
 tags: []
 UUID: 20240325072900
-Version: 1
-Modified: '2024-03-25 07:44'
+Version: 2
+Modified: '2026-04-09 22:07'
 Created: '2024-03-25 07:20'
 Up: '[[Home]]'
 draft: false
@@ -13,26 +13,20 @@ SiteProcssed: true
 
 ## Notes
 
-Economics is the field which focuses on the mathematical interpretation of human relations. How we quantify the value we get from things and services, how we interact with those things based on their value, incentives and organizing structure, and how we deal with others in relations to trading those things between ourselves. In recent decades economics has begun to expand from just business-like transactions to any type of interaction that can be quantified. For example [Game Theory](/notes/game-theory.md).
 
-### Principles of Economics
+Economics is the study of how individuals, organizations, and societies allocate scarce resources — and how that allocation produces emergent patterns of behavior, competition, and value. This Map covers both classical economic principles and the behavioral and social dimensions of economic life.
 
-Economics is based on few main pillars:
-1. [Specialization](/notes/specialization.md) - We have a natural tendency (given enough repeated interactions), to specialize, meaning to focus on our [Competitive Advantage](/notes/competitive-advantage.md) because it improves the overall welfare we can gain with our limited time and resources
-2. [Scarcity](/notes/scarcity.md) - You can't have it all or do it all. The fact that we face limitations is what pushes us to be more efficient and calculated with our resources. This is also related to [Alternative cost](/notes/alternative-cost.md). Since we can't have it all, everything we do or try to achieve comes at the cost of something else we decide not to do. For example, to decide to learn computer science has the alternative cost of not being able to work fulltime, and not just the direct cost of the degree.
-3. [Incentives](/notes/incentives.md) - behind any behavior there is an incentive that causes it. For each environment or social setting, check the incentives that derive from it's structure, and more often than not, you will find the explanations you seek for the behaviors you see.
-4. [Diminishing Returns](/notes/diminishing-returns.md) - The value of every additional item is lower than it's predecessor. For example, having one slice of pizza is great, but the 20th doesn't make us feel as good.
-5. [Creative Destruction](/notes/creative-destruction.md) - often the rise of new enterprises or ideas comes at the cost of the destruction of the old. Economics is never a "safe space", it is an evolutionary field where only the fittest survive.
-6.
+[Market Dynamics and Competition](/notes/market-dynamics-and-competition.md) examines how competitive markets function: specialization, comparative advantage, globalization, and the mechanism by which self-interest can produce collective benefit.
 
-### Economical Pitfalls
-1. [Commodification](/notes/commodification.md) - There are perhaps things that we don't want to convert to economical transactions, such as organ donation
-2. [Crowding Out](/notes/crowding-out.md) - some economical intervention might cause a decrease in the effect it is trying to reenforce.
+[Competition](/notes/competition.md) addresses the structure of zero-sum competition — where one agent's gain comes at another's expense — and how it drives both advantage and destruction within economic systems.
 
-### Modern Economics.
-Since the rise of the industrial revolution, we have a completely different economics. First of all, it is much more globalized ([Globalization](/notes/globalization.md) ). It is if we have only a single market which is the entire world, countries are hardly self sufficient and even local businesses have to compete with huge cooperation abroad.
+[Tradeoffs and Consequences](/notes/tradeoffs-and-consequences.md) provides the foundational logic of economic reasoning: scarcity forces prioritization, every choice carries an opportunity cost, and effects ripple beyond their immediate point of impact.
 
-In the more personal level, we have the [Attention Economy](/notes/attention-economy.md), due to social medias, we have become the product, we are being chased after our clicks, our time, and our attention.
+[Environment and Behavior](/notes/environment-and-behavior.md) covers how the structure of situations, choice architectures, and incentive systems shape behavior — often more powerfully than individual preferences or intentions.
+
+[Consumption and Commodification](/notes/consumption-and-commodification.md) examines the darker edge of economic logic: how consumption becomes identity, how attention becomes product, and how economic frameworks colonize domains (relationships, civic life, health) that resist pure market logic.
+
+[Decision Traps and Biases](/notes/decision-traps-and-biases.md) connects economics to behavioral psychology — the cognitive shortcuts and defaults that systematically distort economic judgment, from anchoring to loss aversion.
 
 ### Courses
 [Public Economy (course)](/notes/public-economy-course.md)
@@ -41,4 +35,4 @@ In the more personal level, we have the [Attention Economy](/notes/attention-eco
 ### Podcasts
 [Marsupial (podcast)](/notes/marsupial-podcast.md)
 
-## Other Map
+## Other MOC

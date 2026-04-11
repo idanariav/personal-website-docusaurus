@@ -1,30 +1,34 @@
 ---
 UUID: 20230401072852
 Created: '2023-04-01 07:28'
-Modified: '2023-04-01 07:29'
-Version: 1
+Modified: '2026-04-10 16:13'
+Version: 2
 tags: []
 Up: '[[Wellbeing (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Success (Map)
+# Success
 
 ## Notes
 
 
-### Success is an internal state
-True, fulfilling success is not dependent on the external world, such as the amount of money you have, or whether or not you have completed a challenge. Success is an internal, continuous state. It is how well you are satisfied with your life, with yourself and your actions. [Happiness is an internal state](/notes/happiness-is-an-internal-state.md)
+Success is less a destination than a relationship with effort, failure, and self-perception. The claims here converge on a counterintuitive picture: success is not the absence of failure, not an external credential, and not something luck alone can give or take away.
 
-### Success is not the opposite of failure
-you are successful when you learn from your mistakes [Failure](/notes/failure.md) [Lifelong Learning](/notes/lifelong-learning.md)
+### Learning from Failure
 
-### Success is an act of doing, not being
-Success is not related to how famous you are, rather if you have contributed or not. Success is expressed by improving others' lives using your knowledge and skills. Whether they acknowledge you or not for it is irrelevant. [to be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md)
+[Growth Through Adversity](/notes/growth-through-adversity.md) reframes difficulty as structural to growth rather than incidental to it. Failure is not the opposite of success — it is the mechanism. Progress follows cycles of breakdown and reconstruction; struggle is built into meaningful achievement. The finished self is the static self.
 
+### The Inner Critic and Imposter Syndrome
 
-## Other Map
+[Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md) addresses how we relate to our own competence. Imposter syndrome — feeling undeserving despite actual achievement — is one of the most common traps: a systematic underestimation of real capability, often intensified by comparison. Accurate self-assessment, self-kindness, and the separation of actions from identity are what allow continued effort rather than self-protective withdrawal.
+
+### The Role of Luck
+
+[Randomness](/notes/randomness.md) complicates the attribution of success. Luck is external randomness affecting outcomes beyond control — but the mind tends to attribute success to skill and failure to circumstances, or vice versa depending on self-serving motives. Honest accounting requires holding both: skill and randomness each contribute, and the proportion varies.
+
+## Other MOC
 
 
 ### Overview

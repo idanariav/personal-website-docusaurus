@@ -1,13 +1,13 @@
 ---
 UUID: 20250428071940
 Created: '2025-04-28 07:19'
-Modified: '2026-04-04 09:50'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Rituals
 Description: >-
@@ -54,7 +54,6 @@ As with cases of [Absolute rules trade flexibility for willpower savings](/notes
 ![Rituals](/notes/rituals.webp)
 
 ## Overview
-🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
 🔼Topic:: [Habit Mechanics](/notes/habit-mechanics.md)
 ↩️Origin::
 🔗Link::

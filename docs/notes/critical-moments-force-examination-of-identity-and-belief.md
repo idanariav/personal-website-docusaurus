@@ -1,19 +1,22 @@
 ---
 UUID: 20230824072647
 Created: '2023-08-24 07:26'
-Modified: '2026-04-02 22:42'
+Modified: '2026-04-06 18:56'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 2
-aliases:
-  - Identity Discovery
+Version: 4
+Image: '[[Critical moments force examination of identity and belief.png]]'
+ImageText: >-
+  A face looking at a broken mirror, showing different personalities reflecting
+  from them
 Description: >-
   A process of self-exploration that arises during challenging moments,
   prompting individuals to confront conflicting narratives about themselves,
   leading to intrapersonal conflict and potential changes in self-perception.
+aliases:
+  - Identity Discovery
 new_schema: true
 draft: false
 SiteProcssed: true
@@ -34,7 +37,7 @@ Challenging moments contains three levels:
 2. **Our feelings** - how the story of what happened affects us, which feelings it causes, how do we express them.
 3. **Our identity** - how does this narrative affect on who I am as a person. What does it tell about me, how does it define me.
 
-### Why it matters
+### Why it Matters
 
 Usually, a conflicting narrative is very harmful to our sense of self. So more likely we will change the narrative, or accept it and break down.
 
@@ -44,13 +47,12 @@ Usually, a conflicting narrative is very harmful to our sense of self. So more l
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Identity Discovery](/notes/identity-discovery.webp)
+![Critical moments force examination of identity and belief](/notes/critical-moments-force-examination-of-identity-and-belief.webp)
 ## Overview
-🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
 🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
 Source:: [The Knowledge Project with Shane Parrish](/notes/the-knowledge-project-with-shane-parrish.md)
 Link:: https://share.snipd.com/episode/4b1b0998-cd25-456c-9522-e14d44f143ba

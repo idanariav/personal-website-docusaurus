@@ -1,13 +1,13 @@
 ---
 UUID: 20240417174602
 Created: '2024-04-17 17:46'
-Modified: '2026-03-30 10:00'
+Modified: '2026-04-09 17:06'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Avoiding rescue preserves others'' opportunity to grow.png]]'
 ImageText: >-
   A person handing a rubber duck to someone on the left versus providing a
@@ -54,7 +54,7 @@ In the end, while you perhaps have the best intentions in the world, to solve so
 ![Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.webp)
 
 ## Overview
-🔼Topic:: [Education (Map)](/mocs/education-map.md)
+🔼Topic:: [Scaffolded Growth](/notes/scaffolded-growth.md)
 ↩️Origin::
 🔗Link::
 

@@ -1,12 +1,12 @@
 ---
 UUID: 20230403064329
 Created: '2023-04-03 06:43'
-Modified: '2026-04-01 08:57'
+Modified: '2026-04-10 06:11'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: null
 Description: >-
   A subtle, low-effort method of influencing individual choices by altering the
@@ -69,7 +69,7 @@ In both cases, nobody was forced to do anything differently, but the fact that s
 
 ## Overview
 🔼Topic:: [Environment and Behavior](/notes/environment-and-behavior.md)
-🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
+🔼Topic:: [Intentional Decision-Making](/notes/intentional-decision-making.md)
 ◀Origin:: [Nudge (book)](/books/nudge-book.md)
 🔗Link:: 
 

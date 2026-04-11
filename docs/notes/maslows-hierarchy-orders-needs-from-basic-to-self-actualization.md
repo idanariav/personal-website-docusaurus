@@ -1,13 +1,13 @@
 ---
 UUID: 20230404191941
 Created: '2023-04-04 19:19'
-Modified: '2026-03-23 18:19'
+Modified: '2026-04-10 16:36'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: '2'
+Version: 3
 aliases:
   - Maslows pyramid
 Description: >-
@@ -54,6 +54,6 @@ However, while it is not impossible to achieve a higher level before completing 
 ![Maslows pyramid](/notes/maslows-pyramid.webp)
 
 ## Overview
-🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
+🔼Topic:: [Happiness (Nature and Sources)](/notes/happiness-nature-and-sources.md)
 ◀Origin::
 🔗Link::

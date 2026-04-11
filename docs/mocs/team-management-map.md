@@ -1,33 +1,23 @@
 ---
 UUID: 20230404064200
 Created: '2023-04-04 06:42'
-Modified: '2023-04-04 06:42'
-Version: 1
+Modified: '2026-04-10 16:15'
+Version: 2
 tags: []
 Up: '[[Leadership (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Team Management (Map)
+# Team Management
 
 ## Notes
 
-Team leading values:
-Integrity, Reasonability, Experimentation
-  
-Team leading ideas:  
-1. 10% free time for side/passion projects  
-2. Two deep work blocks (morning+afternoon) of 1.5 hours  
-3. Daily: sharing problems/setbacks, requests for help, tips+tricks.  
-4. Weekly 1v1 for personal goals and issues  
-5. Weekly team meeting for sharing side projects, important announcements, team deep dives, etc  
-6. Daily half hour for "cleanup" - update documentation  
-7. Maps of content for important subjects  
-8. Different checklist per project type, simple- no documentation. Medium - documentation, complex - 2 team members, pre murtum  
-9. Project learning - planning vs execution, keep/change  
-10. Radical transparency  
-11. Work-life balance, set boundaries and urgency metrics
+Effective team management is not primarily about processes or tools — it is about creating the conditions under which people can do their best work together.
 
-## Other Map
+### The Conditions for High Performance
+
+[Psychological Safety and Team Conditions](/notes/psychological-safety-and-team-conditions.md) identifies the structural prerequisites for team effectiveness: psychological safety (the belief that speaking up won't bring retribution), horizontal trust and peer feedback that circulates learning across the team, anonymity in ideation to prevent status dynamics from narrowing the idea pool, and the foundational commitment to treating people as the primary resource. Without these conditions, talent remains latent.
+
+## Other MOC
 

@@ -1,43 +1,36 @@
 ---
 UUID: 20230330065131
 Created: '2023-03-30 06:51'
-Modified: '2023-03-30 06:51'
-Version: 1
+Modified: '2026-04-10 14:10'
+Version: 2
 tags: []
 Up: '[[Existentialism (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Personal Identity (Map)
+# Personal Identity
 
 ## Notes
 
-What does it mean to have a personal identity?
-what is it made of? is it constant across time?
+Personal identity asks what makes you you — across time, across contexts, and across the competing forces that shape who you become. It is not a fixed given but an ongoing construction.
 
-### personal identity is not personal at all
-We are hardly just a single person, not in the current moment, and especially not across time.
+### What Identity Is Made Of
 
-we are a collection of beings -  [A person is a community](/notes/a-person-is-a-community.md)
-that is shaped by and shapes others - [Interpersonal Identity](/notes/interpersonal-identity.md),
-and it is not fixed in time [Intertemporal Identity](/notes/intertemporal-identity.md)
+[Identity Structure](/notes/identity-structure.md) examines the architecture of self: each person contains multitudes rather than a single unified self, yet identity tends to collapse into simple labels under social pressure. Despite constant change, psychological continuity — memory, personality, and narrative thread — holds identity together across time. Social interactions both shape and are shaped by who we are.
 
-### personal identity and change
+### How Identity Forms
 
-Not only that our identity shapes our thinking - [change starts from the inside out](/notes/change-starts-from-the-inside-out.md)
-but it also works the other way around - [Growth Mindset](/notes/growth-mindset.md),
-our thinking has the ability to allow us to grow and develop our identity [What we do is not who we are](/notes/cognitive-distancing.md), and to guide us towards the right things [Love what is good](/notes/love-what-is-good.md),
-but also to hold us back [Fixed Mindset](/notes/fixed-mindset.md) and become a [one-dimensional being](/notes/one-dimensional-being.md)
-Personal change is not linear, at least not changes in our core identity. Those changes occur in single moments of [Identity Discovery](/notes/identity-discovery.md), where our sense of self is challenged and we need to create a new one.
-### how to treat yourself
+[Identity Formation](/notes/identity-formation.md) traces the process: identity is not prior to action but emerges from it. What we do shapes who we are, often below conscious awareness. Narratives are the mechanism by which action becomes self — we need a story to make sense of what we've done, and that story feeds back into future behavior. External forces constrain this formation, while models and role models provide templates for who we might become.
 
-you have the ability to choose how to treat yourself.
-you can either decide to seek control over yourselves - [will to power](/notes/will-to-power.md)
-or seek harmony between your different selves [harmonious self](/notes/harmonious-self.md), to combine emotion and reason [Emotional Aikido](/notes/emotional-aikido.md), and to be kind [Self-compassion](/notes/self-compassion.md).
+### Living in Alignment
 
+[Authenticity and Values](/notes/authenticity-and-values.md) addresses the question of how to live in accordance with who we actually are rather than who we perform. Core values provide a stable compass; authenticity is the ongoing effort to act on them consistently. The gap between how we present ourselves and what we actually value is a source of hidden conflict.
 
+### How We Treat Ourselves
 
-## Other Map
+[Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md) covers the self-directed dimension: how we talk to ourselves, whether we believe our capabilities are fixed or malleable, and how comparison and fear of rejection affect our sense of worth. Accurate self-assessment, self-kindness, and introspection are the tools for building resilience and room to grow.
+
+## Other MOC
 [Change (Map)](/mocs/change-map.md)
 

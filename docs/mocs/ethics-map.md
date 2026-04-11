@@ -1,8 +1,8 @@
 ---
 UUID: 20220715053856
 Created: '2022-07-15 05:38'
-Modified: '2024-03-27 08:42'
-Version: 1.01
+Modified: '2026-04-09 22:18'
+Version: 2
 tags: []
 aliases:
   - morality (Map)
@@ -11,45 +11,20 @@ draft: false
 SiteProcssed: true
 ---
 
-# Ethics (Map)
+# Ethics
 
 ## Notes
 
-Ethics deals with questions about "what is the right thing to do?" how should a person and a society act? What are the interests the drives people to act in certain ways, and are we justified in questioning the reasons for other's actions, or perhaps morality is subjective and to each his own?
 
-### Metaethics
-Metaethics are grand approaches to ethics. I.e while ethics will say if action x is "right or wrong", metaethics deals with how to judge an action, what forces causes you to say that something is right or wrong. The most common approaches are:
-1. [Deontology](/notes/deontology.md) - Humans are bound by logic to certain duties and rights, and they should never be taken away and always respected
-2. [Utilitarianism](/notes/utilitarianism.md) - It is within our nature to pursue pleasure and detest pain. So the best ethical action would be such that maximizes pleasure and minimizes pain.
-3. [virtue theory](/notes/virtue-theory.md) - knowing what the right thing to do is difficult and dependent on context, but we can strive to be better people, who will act in a better way
-4. [Ethics of care](/notes/ethics-of-care.md) - We are social creatures, so our moral drives stem from our relations to others. We prioritize connection and care.
-5. [Moral Taste Buds](/notes/moral-taste-buds.md) - All humans share the same "moral taste buds", so moral differences between communities is a matter of position on the same scales, rather than completely different considerations.
+Ethics asks: what is the right thing to do, and how can we know? This Map covers the full landscape of moral inquiry — from the grand frameworks that answer this question differently, to the criteria for judging what is "good," to the psychology of why we act (or fail to act) morally, to the social dynamics through which ethics operates.
 
-### What is "good"?
-How can we know if something is "good"?
-1. [Relativism](/notes/relativism.md) - perhaps "good" is determined by each person to himself, and there is no sense in judging others of their perception of the good
-2. [Pragmatism](/notes/pragmatism.md) - good is what's useful, what is beneficial to achieving our goals and making sense of the world
-3. [Post-Modernism](/notes/post-modernism.md) - what is good is dependent on identity and power struggles between communities.
-4. [Will to Power](/notes/will-to-power.md) - The concepts of good and bad are empty of value, and are a distraction in our effort to fulfill our will to power.
+[Ethical Frameworks (Metaethics)](/notes/ethical-frameworks-metaethics.md) maps the foundational schools — deontology, utilitarianism, virtue ethics, care ethics, and moral pluralism — each anchored to a different locus of moral value: duty, consequences, character, relationships, or shared moral intuitions.
 
-### Me Vs Others
-1. [Just World Bias](/notes/just-world-bias.md) - we tend to attribute less agency to us when something bad happens, and reverse when something good, but for others the level of agency is the same
-2. [Agent vs society moralism](/notes/agent-vs-society-moralism.md) - similarly, we hope that others will have a higher moral standard than us, while we could be a "free rider".
-3. [us vs them](/notes/us-vs-them.md) - We tend to be more moral towards our inner group, and more hostile towards outside groups.
+[Moral Epistemology](/notes/moral-epistemology.md) addresses the prior question: how do we know what is moral at all? It covers the spectrum from subjectivism and relativism to pragmatism and nihilism, examining the criteria by which different traditions ground moral judgment.
 
-### Existentialism and Ethics
-is ethics more like "manners", a set of rules that we have to follow out of duty, or is it connected to our sense of meaning in life and our own goals?
-1. morality and happiness - many asked how morality is linked to happiness ([Love what is good](/notes/love-what-is-good.md) ) , [Happiness is to be virtuous](/notes/happiness-is-to-be-virtuous.md) 
+[Moral Psychology](/notes/moral-psychology.md) studies the gap between knowing what is right and doing it — the role of reason and emotion, the dispositions that enable consistent moral action, and the ways in which moral knowledge fails to translate into moral behavior.
 
-### How to Be a Moral Person
-What makes us moral?
-1. [Intelligence is not morality](/notes/intelligence-is-not-morality.md) - Is it simply a matter of knowledge? will we act differently once we know what is good and bad?
-2. [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md) - Are our emotions a hindrance to acting morality or are they the source of our moral behavior?
-3. [to be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md) - can one be moral without acting in that way? Do thoughts alone matter?
-
-### Misc
-1. [Moral Licensing](/notes/moral-licensing.md) - Act morally gives us a "justification" to do vice. Like celebrating with a cake after eating a salad.
-2. [AI Ethics](/notes/ai-ethics.md) - How do we teach ethics to computers?
+[Social and Group Ethics](/notes/social-and-group-ethics.md) situates ethics in its social context: how morality operates as coordination (the free-rider problem), how in-group bias shapes moral perception, and how reciprocity structures the moral fabric of communities.
 
 ### Books
 [Ego Is The Enemy (book)](/books/ego-is-the-enemy-book.md)
@@ -65,4 +40,4 @@ What makes us moral?
 [Eastern Philosophy (philosopher)](/notes/eastern-philosophy-philosopher.md)
 [Aristotle (philosopher)](/notes/aristotle-philosopher.md)
 
-## Other Map
+## Other MOC

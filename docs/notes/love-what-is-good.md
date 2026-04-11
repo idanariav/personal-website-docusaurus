@@ -1,13 +1,13 @@
 ---
 UUID: 20230418185354
 Created: '2023-04-18 18:53'
-Modified: '2026-04-02 09:17'
+Modified: '2026-04-10 13:47'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 5
 aliases:
   - Morality is enjoyable
 Description: >-
@@ -56,10 +56,9 @@ But can we really love doing good things, should it even be enjoyable? What if d
 ![Love what is good](/notes/love-what-is-good.webp)
 
 ## Overview
-🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
-🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
-🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
+🔼Topic:: [Moral Psychology](/notes/moral-psychology.md)
 🔼Topic:: [Authenticity and Values](/notes/authenticity-and-values.md)
 ◀Origin:: [Aristotle](/notes/aristotle-philosopher.md) 
 Origin:: [History of Philosophy Without Any Gaps](/notes/history-of-philosophy-without-any-gaps.md)
 Link:: https://share.snipd.com/episode/d9bef53e-c2c6-4319-96b0-bfdcdc02d12f
+

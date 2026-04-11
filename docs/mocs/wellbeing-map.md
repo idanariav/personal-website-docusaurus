@@ -1,52 +1,41 @@
 ---
 UUID: 20230331132834
 Created: '2023-03-31 13:28'
-Modified: '2023-03-31 13:28'
-Version: 1
+Modified: '2026-04-10 16:38'
+Version: 2
 tags: []
 Up: '[[Existentialism (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Wellbeing (Map)
+# Wellbeing
 
 ## Notes
 
-What is the state of wellbeing, how one defines happiness and how one brings it? These are the questions related to our wellbeing. While it seems obvious what it is and isn't, those questions haunt us from the early days of Greek philosophy, of how to live well and how morality relates to wellbeing. The unfortunate truth is that most of us don't know what will truly make us happy ([Happiness is contentment](/notes/happiness-is-contentment.md) )
+Wellbeing is the discipline of living well — not merely in the absence of suffering, but in active cultivation of conditions for human flourishing. The question of how to live well has occupied philosophy since the Greeks; modern psychology has added precision but not simplified it.
 
-A common related concept is [Maslows pyramid](/notes/maslows-pyramid.md), that shows which needs have to be fulfilled in order to achieve happiness.
+### The Nature of Happiness
 
-### Contributors to wellbeing
-1. [Addition by subtraction](/notes/addition-by-subtraction.md) - If we only add more and more obligations to our lives, it will only become more difficult to maintain. By wanting and doing less, we could find happiness
-2. [Altruism](/notes/giving.md) - To help others, to bring happiness to others cultivates it also within us
-3. [Boundaries](/notes/boundaries.md) - To reduce the negative effect of expectations and miscommunication, we should set clear boundaries in our relationships with others. 
-4. . [Happiness is an internal state](/notes/happiness-is-an-internal-state.md) - To understand that happiness is not dependent on external circumstances, "if x than I will be happy" is a false and misleading statement. Happiness comes from within. Usually we have such epiphany after experiencing hardships.
-5. [Nature walk](/notes/nature-walk.md) - Our connection to nature is a strong, primal one. To become one with nature is a strong contributor to happiness. 
-6. [Self-compassion](/notes/self-compassion.md) - Without being kind to ourselves, we could not be happy
-7. [Solitude](/notes/solitude.md) - To be with oneself, to explore our rich inner world
-8. [Relationships](/notes/relationships.md) - a deep connection with others
-9. [Agency](/notes/agency.md) - having a sense of control over yourself and your environment 
-10. [Existentialism (Map)](/mocs/existentialism-map.md) - having a sense of purpose in life
-11. [Happiness is to be virtuous](/notes/happiness-is-to-be-virtuous.md) - when we align between our values and our behavior, which leads to happiness
-12. [Happiness is shared](/notes/happiness-is-shared.md) - when we find pleasure in sharing our happiness with others, and sharing in their happiness as well
-13. [Gratitude](/notes/gratitude.md) - when we appreciate the good in our live
-14. [Meditation](/notes/meditation.md) - when we find time to clear our mind, and focus on the present
-15. [Inclusion](/notes/inclusion.md) - when we feel that we belong
+[Happiness (Nature and Sources)](/notes/happiness-nature-and-sources.md) examines what happiness is and where it comes from. The major answers converge on counterintuitive conclusions: the things most pursued — wealth, circumstances, external achievement — contribute far less to lasting wellbeing than expected. Hedonic adaptation returns us to baseline regardless of gains; expectations shape wellbeing more than outcomes do; and happiness at its deepest is not a private achievement but an inherently relational and virtue-based activity. Maslow's needs hierarchy frames the prerequisites — only when foundational needs are met can higher-order flourishing begin.
 
-### Obstacles to wellbeing
-1. [Akrasia](/notes/akrasia.md) - when we let distractions and temptations overrule our better judgment. 
-2. [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md) - when unrealistic expectations stop us from acting the way we want to
-3. [Expectations](/notes/expectations.md) - when we depend our happiness on the external world, specifically on the future, which only shatters it once it doesn't come to pass. 
-4. [Hedonic Treadmill](/notes/hedonic-treadmill.md) - what we think will bring us happiness only reverts us back to the same level
-5. [Comparisons](/notes/comparisons.md) - when we compare ourselves to others instead of seeing how much better we got compared to our past self
-6. [Negative cycle](/notes/negative-cycle.md) - when bad behavior or thought leads to another in a vicious cycle
+### Connection and Belonging
+
+[Social Connection and Belonging](/notes/social-connection-and-belonging.md) identifies relational bonds as among the most robust contributors to wellbeing. Deep relationships depend on trust, empathy, and quality of presence — not quantity of contact. Belonging is not a default state; inclusion must be actively practiced. And one of the most reliable routes to wellbeing through connection is paradoxically outward-facing: giving freely without expectation cultivates meaning and dissolves transactional anxiety.
+
+### Boundaries as a Wellbeing Practice
+
+[Boundaries](/notes/boundaries.md) approaches wellbeing through what to filter out. Clear limits in relationships reduce ambiguity, prevent misread expectations, and create transparency. Boundaries are not defensive — they are a form of mutual care: defining what each person can expect creates the conditions in which trust and honesty develop rather than erode.
+
+### The Body Foundation
+
+[Nutrition](/notes/nutrition.md) anchors wellbeing at the physiological level. Without adequate fuel, neither cognitive performance nor emotional regulation can sustain higher-order goals. The leverage here is environmental rather than motivational: designing conditions where healthy defaults require no willpower outperforms relying on willpower against a resistant environment.
 
 ### Books
 [Think Again (book)](/books/think-again-book.md)
 [The Four Agreements (book)](/notes/the-four-agreements-book.md)
 [The gifts of imperfection (book)](/notes/the-gifts-of-imperfection-book.md)
-[make time (book)](/books/make-time-book.md)
+[Make time (book)](/books/make-time-book.md)
 [How to think like a roman emperor (book)](/books/how-to-think-like-a-roman-emperor-book.md)
 [Give and Take (book)](/books/give-and-take-book.md)
 [Four Thousand Weeks (book)](/books/four-thousand-weeks-book.md)
@@ -64,7 +53,7 @@ A common related concept is [Maslows pyramid](/notes/maslows-pyramid.md), that s
 # Articles 
 Link:: https://nesslabs.com/psychology-of-happiness
 
-## Other Map
+## Other MOC
 [Success (Map)](/mocs/success-map.md)
 
 

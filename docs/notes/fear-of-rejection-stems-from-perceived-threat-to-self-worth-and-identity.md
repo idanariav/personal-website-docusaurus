@@ -1,7 +1,7 @@
 ---
 UUID: 20220715053818
 Created: '2022-07-15 05:38'
-Modified: '2026-04-02 22:43'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
@@ -14,7 +14,7 @@ Description: >-
   often perceived as a threat to self-worth, but can serve as feedback, a
   lesson, or an indication of misalignment.
 new_schema: true
-Version: 2
+Version: 3
 draft: false
 SiteProcssed: true
 ---
@@ -57,7 +57,6 @@ As with any other emotion, philosophy has several answers to handling rejection:
 
 ## Overview
 🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 Origin:: [Einzelganger](/notes/einzelganger.md)
 🔗Link:: [Source](https://youtu.be/AVDTQ_MsUfY)
 

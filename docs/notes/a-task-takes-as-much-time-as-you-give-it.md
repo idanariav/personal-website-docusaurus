@@ -1,12 +1,12 @@
 ---
 UUID: 20220625084758
 Created: '2022-06-25 08:47'
-Modified: '2026-03-12 18:08'
+Modified: '2026-04-10 14:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[A task takes as much time as you give it.png]]'
 ImageText: 'A small flask and a big flask, both full of water'
 Description: >-
@@ -48,5 +48,5 @@ But the reverse is true as well, if we give ourselves a very short deadline we c
 ![A task takes as much time as you give it](/notes/a-task-takes-as-much-time-as-you-give-it.webp)
 
 ## Overview
-🔼Topic:: [Productivity (Map)](/mocs/productivity-map.md)
+🔼Topic:: [Prioritization and Leverage](/notes/prioritization-and-leverage.md)
 🔗Link::

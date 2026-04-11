@@ -1,12 +1,12 @@
 ---
 UUID: 20231223074630
 Created: '2023-12-23 07:46'
-Modified: '2026-03-30 10:00'
+Modified: '2026-04-08 17:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[How we describe something shapes how it is perceived.png]]'
 ImageText: A rose and a bud
 Description: >-
@@ -66,6 +66,7 @@ We lack access to the [objective](/notes/seeing-reality-without-subjective-bias-
 ![How we describe something shapes how it is perceived](/notes/how-we-describe-something-shapes-how-it-is-perceived.webp)
 
 ## Overview
-🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
+🔼Topic:: [Persuasion and Influence](/notes/persuasion-and-influence.md)
 ↩️Origin::
 🔗Link::
+

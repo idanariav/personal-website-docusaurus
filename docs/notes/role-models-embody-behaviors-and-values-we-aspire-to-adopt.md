@@ -1,13 +1,13 @@
 ---
 UUID: 20240101081347
 Created: '2024-01-01 08:13'
-Modified: '2026-04-01 14:45'
+Modified: '2026-04-10 13:50'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 4
 aliases:
   - Role Models
 Description: >-
@@ -54,8 +54,6 @@ Being a good role requires:
 ![Role Models](/notes/role-models.webp)
 
 ## Overview
-🔼Topic:: [Motivation (Map)](/mocs/motivation-map.md)
-🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
 🔼Topic:: [Identity Formation](/notes/identity-formation.md)
 ↩️Origin::
 🔗Link::

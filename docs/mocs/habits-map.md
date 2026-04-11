@@ -1,8 +1,8 @@
 ---
 UUID: 20230324120349
 Created: '2023-03-24 12:03'
-Modified: '2024-03-30 08:26'
-Version: 1.01
+Modified: '2026-04-10 09:53'
+Version: 2
 tags: []
 Up: '[[Change (Map)]]'
 draft: false
@@ -13,25 +13,23 @@ SiteProcssed: true
 
 ## Notes
 
-Habits are all about creating routines that are easy to maintain, that generates [Momentum](/notes/momentum.md) and have a [Compounding](/notes/compounding.md) effect on our lives. When we have good habits in place, we can [Trust the Process](/notes/trust-the-process.md) to lead us to our goals while focusing only on the next step/iteration.
+Habits are the architecture of behavior — automated routines that shape outcomes without requiring constant willpower.
 
-### How Habit Forms
-1. [The habit loop](/notes/the-habit-loop.md) - Habits form a cycle of cue-behavior-reward
-2. [Genetic Switches](/notes/genetic-switches.md) - Habits can affect our DNA by switching certain genes on or off (and even carry to our children)
-3. [Habit formation](/notes/habit-formation.md) - through repeated actions that are fit for automation.
+### How Habits Form and Stick
 
-### How to Maintain a Habit
-In general, follow these rules:
-1. Make it fun - For example [Gamification](/notes/gamification.md) and [Temptation Bundling](/notes/temptation-bundling.md)
-2. Make it easy - [Friction](/notes/friction.md) -  (for example with [the 20 seconds rule](/notes/the-20-seconds-rule.md) )
-3. Make it short - [5 minute rule](/notes/5-minute-rule.md) (or at least commit only to short periods)
+[Habit Mechanics](/notes/habit-mechanics.md) describes the four-part loop (cue, craving, response, reward) that underlies all habits, and the design principles that make them easier to sustain: reducing friction for desired behaviors, using rituals to bypass overthinking, and pairing unwanted tasks with enjoyable ones.
 
-### Examples of Habits
-1. [Daily checkups](/notes/daily-checkups.md) - a routine to make sure that our minute-by-minute behavior matches our goals
-2. [Morning, Afternoon and Night routines](/notes/morning-afternoon-and-night-routines.md) - To close the day and open the new one in the most effective way
-3. [The 5 Hour Rule](/notes/the-5-hour-rule.md) - dedicate an hour a day to studying
-4. [Periodical Review](/notes/periodical-review.md) - check up on yourself, your progress and your habits once in a while. 
-5. [Sleep](/notes/sleep.md) - A keystone habit that affects everything else
+### The Compounding Effect
+
+[Compounding and Consistency](/notes/compounding-and-consistency.md) explains why habits outperform one-time efforts: repeated actions yield exponentially increasing returns, and process-focus outperforms outcome-focus. Stability and reliability, though undervalued, are the true competitive advantages.
+
+### Tracking and Review
+
+[Self-Tracking and Reflection](/notes/self-tracking-and-reflection.md) closes the feedback loop — through journaling, data-driven measurement, and regular review cycles, we develop the self-awareness needed to notice when habits drift and realign them with long-term goals.
+
+### Writing as Reflection
+
+[Writing](/notes/writing.md) supports habit practice through externalization: putting thoughts on the page creates distance and perspective, forming the backbone of reflection practices like journaling.
 
 ### Books
 [Atomic Habits (book)](/books/atomic-habits-book.md)
@@ -43,6 +41,6 @@ In general, follow these rules:
 [Aristotle (philosopher)](/notes/aristotle-philosopher.md)
 
 
-## Other Map
+## Other MOC
 
 ### Overview

@@ -1,13 +1,13 @@
 ---
 UUID: 20240106081208
 Created: '2024-01-06 08:12'
-Modified: '2026-04-04 10:25'
+Modified: '2026-04-04 11:02'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Trust the Process
   - Trust the Process
@@ -63,9 +63,6 @@ We usually hold in a high regard the importance of goals, especially as our main
 ![Trust the Process](/notes/trust-the-process.webp)
 
 ## Overview
-🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
-🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
-🔼Topic:: [Success (Map)](/mocs/success-map.md)
 🔼Topic:: [Compounding and Consistency](/notes/compounding-and-consistency.md)
 ↩️Origin::
 🔗Link::

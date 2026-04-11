@@ -1,13 +1,13 @@
 ---
 UUID: 20230714153451
 Created: '2023-07-14 15:34'
-Modified: '2026-03-30 10:00'
+Modified: '2026-04-10 16:49'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 6
 aliases:
   - Triage
   - Triage
@@ -69,9 +69,7 @@ Many tasks might also become irrelevant if we do a proper [Pre-mortem anticipate
 ![Triage](/notes/triage.webp)
 
 ## Overview
-🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
-🔼Topic:: [Resource management (Map)](/mocs/resource-management-map.md)
-🔼Topic:: [Productivity (Map)](/mocs/productivity-map.md)
+🔼Topic:: [Resource Allocation and Prioritization](/notes/resource-allocation-and-prioritization.md)
 ◀Origin::
 🔗Link::
 

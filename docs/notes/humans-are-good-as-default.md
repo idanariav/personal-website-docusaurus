@@ -1,15 +1,20 @@
 ---
 UUID: 20221104144403
 Created: '2022-11-04 14:44'
-Modified: '2024-12-08 06:55'
+Modified: '2026-04-08 17:04'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+Image: null
 excalidraw-open-md: true
-Version: 1.01
+Version: 2
 aliases:
   - People are inherently good
   - we are born good
+Description: >-
+  A concept suggesting that humans possess an inherent tendency towards empathy,
+  kindness, and trust, with negative behaviors being learned rather than innate.
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -18,18 +23,32 @@ SiteProcssed: true
 
 ## Notes
 
-researches show that we have tendency towards [Empathy](/notes/empathy.md), [Kindness](/notes/giving.md) and [Trust](/notes/trust.md) as default. Our negative behavior is *learned*, not inherit in our nature [nature vs nurture](/notes/nature-vs-nurture.md). Meaning that we are we are [born to love](/notes/love-what-is-good.md) , yet learn to hate. Since "good" qualities are in many cases synonymous with qualities that relates to how we interact with others, saying that we are born good is similar to saying that we are born as a social creature [human is a social being](/notes/human-is-a-social-being.md)
+### Claim
 
-That is why it is easy to motivate people through non material means, through shared values, culture and goals instead of monetary incentives because it aligns better with our deep preferences [Intrinsic Motivation](/notes/intrinsic-motivation.md). Similarly, cultivating these values in others is more accurately described as helping them discover their core self rather than changing them [External Influence](/notes/external-influence.md).
+Researches show that we have tendency towards [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md), [Kindness](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md) and [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) as default. Our negative behavior is *learned*, not inherit in our nature [Nature vs nurture](/notes/nature-vs-nurture.md). Meaning that we are [born to love](/notes/love-what-is-good.md) , yet learn to hate. Since "good" qualities are in many cases synonymous with qualities that relates to how we interact with others, saying that we are born good is similar to saying that we are born as a social creature [Human is a social being](/notes/human-is-a-social-being.md)
 
-Those who live their lives guided by love and have an [optimistic](/notes/optimism.md) view of human kindness, often describe [Life as Flow](/notes/life-as-flow.md), a feeling of connection with the world and with others, of [Oneness](/notes/unity.md).
+### Explanation
+
+### Why it matters
+
+That is why it is easy to motivate people through non material means, through shared values, culture and goals instead of monetary incentives because it aligns better with our deep preferences [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md). Similarly, cultivating these values in others is more accurately described as helping them discover their core self rather than changing them [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md).
+
+### Examples
+
+### Supporters
+
+Those who live their lives guided by love and have an [optimistic](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) view of human kindness, often describe [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md), a feeling of connection with the world and with others, of [Oneness](/notes/unity-is-the-felt-sense-of-connection-with-others-and-the-world.md).
+
+### Opposers
+
+### Open questions
 
 ## Visual
 
-![humans are good as default.webp](/notes/humans-are-good-as-default.webp)
+![humans are good as default](/notes/humans-are-good-as-default.webp)
 
 ## Overview
-🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
+🔼Topic:: [Innate Human Disposition](/notes/innate-human-disposition.md)
 ◀Origin:: [Behave (book)](/books/behave-book.md)
 🔗Link::
 

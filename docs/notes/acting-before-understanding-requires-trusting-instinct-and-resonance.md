@@ -1,12 +1,12 @@
 ---
 UUID: 20240217085226
 Created: '2024-02-17 08:52'
-Modified: '2026-03-18 20:36'
+Modified: '2026-04-10 06:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Acting before understanding requires trusting instinct and resonance.png]]'
 ImageText: A person leaps towards the sun
 Description: >-
@@ -52,7 +52,7 @@ Living can't be on reason alone, it would often lead to [Too much information pr
 ![Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
+🔼Topic:: [Authenticity and Values](/notes/authenticity-and-values.md)
 ↩️Origin:: [Kierkegaard](/notes/soren-kierkegaard-philosopher.md)
 🔗Link::
 

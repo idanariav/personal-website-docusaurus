@@ -1,21 +1,27 @@
 ---
 UUID: 20230318081049
 Created: '2023-03-18 08:10'
-Modified: '2024-03-26 08:19'
-Version: 1.01
+Modified: '2026-04-10 11:23'
+Version: 2
 tags: []
 Up: '[[Philosophy (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Metaphysics (Map)
+# Metaphysics
 
 ## Notes
 
-How do we know what exists? what is the nature of our reality? These are the types of questions that belong to the metaphysics. Specifically it deals with things that we are not sure how much they exist in the physical world or not.
+Metaphysics asks what exists and what the nature of existing things is. It sits beneath science and ethics — the layer where foundational assumptions about reality are made explicit and contested.
 
-For example, [Panpsychism](/notes/panpsychism.md) believes that consciousness is a property of even the smallest of objects. [Idealism](/notes/idealism.md) suggests that everything that exists in the physical world is a distorted copy of a perfect representation in the "world of forms". [Objectivism](/notes/objectivism.md) deals with whether we are even capable of grasping the reality "as it as", or are we forced o see only a distorted view based on our pre-existing perspective.
+### Competing Theories of Reality
+
+[Ontological Theories](/notes/ontological-theories.md) surveys the major positions on what reality is ultimately made of: naturalism holds that everything is explicable through natural causes with no remainder; Platonic idealism holds that physical things are imperfect copies of abstract Forms; panpsychism holds that consciousness is not an emergent accident but a basic property of the universe; and reductionism holds that the properties of wholes are fully explicable through the properties of their parts. These positions are mutually incompatible, but each has a coherent internal logic.
+
+### The Limits of Objectivity
+
+[Nature and Limits of Knowledge](/notes/nature-and-limits-of-knowledge.md) addresses a second metaphysical question: even granting that reality exists independently of us, can we access it without distortion? Objectivism holds that seeing reality without subjective bias reduces distortion — but subjective perception mediates all experience, and the "view from nowhere" may be unavailable. The hard problem of consciousness compounds this: first-person experience resists third-person explanation even in principle.
 
 ### Philosophers
 [Spinoza (philosopher)](/notes/spinoza-philosopher.md)
@@ -28,7 +34,7 @@ For example, [Panpsychism](/notes/panpsychism.md) believes that consciousness is
 ### Courses
 [History of New Philosophy (course)](/notes/history-of-new-philosophy-course.md)
 
-## Other Map
+## Other MOC
 [Free Will (Map)](/mocs/free-will-map.md)
 
 ### Overview

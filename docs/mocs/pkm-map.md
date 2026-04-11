@@ -1,8 +1,8 @@
 ---
 UUID: 20230327174026
 Created: '2023-03-27 17:40'
-Modified: '2023-03-27 17:40'
-Version: 1
+Modified: '2026-04-10 14:09'
+Version: 3
 tags: []
 aliases:
   - Second Brain
@@ -12,45 +12,19 @@ draft: false
 SiteProcssed: true
 ---
 
-# PKM (Map)
+# PKM
 
 ## Notes
 
-A pkm system is a collection of tools, methods and way of thinking that together forms a system that helps you remember, act and process ideas, thoughts and plans.
+A PKM system is a collection of tools, methods, and ways of thinking that together help you capture, organize, and process ideas so they remain useful over time. Its core premise is that the mind is a processor, not a warehouse — it should operate on information, not store it. The system takes on the storage function, freeing cognitive resources for the work that actually requires a mind.
 
-The basic idea behind this is that [our mind is a processor and not a warehouse](/notes/our-mind-is-a-processor-and-not-a-warehouse.md), using digital tools can have a huge benefit on our productivity and well-being if we use the best of both worlds. Digital tools to store information, and our brain to process and enrich it.
+### Structuring What You Know
 
-A pkm system can several uses:
-1. **Project management** - could be Todo lists but also content writing, planning a vacation, work projects, etc. This also includes a sub section of goal setting.
-2. **Knowledge management** - a way to collect, connect and get insights from notes, thoughts, ideas from others.
-3. **Journaling** - periodical reviews, gratitude journal.
-4. **Archive** - storing important information (more like a file management system, keeping documents, instructions, details on events...)
+[Knowledge Structure and Transfer](/notes/knowledge-structure-and-transfer.md) covers the principles that make knowledge tractable and transferable. Atomicity — breaking ideas to their smallest parts — makes notes linkable and medium-independent. Distilling to essentials removes friction and forces clarity. Organizing knowledge requires choosing structural and navigational approaches: atomic notes, topic-first, action-first each suit different needs. The test of true understanding is not recall but transfer: applying knowledge across unfamiliar contexts.
 
-People vary in which of the four uses they implement in a pkm system. Note these uses don't have to be used within the same system. Although usually combining everything into a single system provides [Emergence](/notes/emergence.md).
+### Complexity and Emergence
 
-### Project management
-[Productivity (Map)](/mocs/productivity-map.md) [Life's Mission](/notes/lifes-mission.md)
-
-### Knowledge management
-A common workflow for knowledge management is usually:
-1. **Capture** - a method to collect external information into your system, based on your interests and goals. [Capture content](/notes/capture-content.md)
-2. **Organize** - take the newly collect information that you captured, and connect it to your system, add metadata or put it in a place that will provide the right context. [PARA](null) [The LATCH system](/notes/the-latch-system.md) [The STIR system](/notes/the-stir-system.md) [methods of knowledge management](/notes/methods-of-knowledge-management.md)
-3. **Distill** - extract the valuable information, process it, connect to other ideas. [Note taking (Map)](/mocs/note-taking-map.md)
-
-As mentioned, one of the more powerful features of such a system is that it can easily resurface important ideas once they have been properly processed. However there are methods to make it easier as well. 
-
-### Attributes of knowledge
-1. [Clarity](/notes/clarity.md) - to make something understandable
-2. [Simplicity](/notes/simplicity.md) - To make something easy to follow
-3. [Atomism](/notes/atomism.md) - To find the smallest core of an idea
-4. [Complexity](/notes/complexity.md) - When the amount of information is just too much for one person to handle
-5. [Emergence](/notes/emergence.md) - The unit is greater than the sum of it's parts
-6. [Medium Independent](/notes/medium-independent.md) - Information is shapeless, it can be transmitted through various mediums. 
-
-### Organizational knowledge management
-1. Retention - maintaining knowledge of employees who retire  
-2. Initiation - transferring knowledge to new employees  
-3. Tacit vs explicit - experts who forget to mention what they already see as obvious
+[Complexity](/notes/complexity.md) frames the larger challenge: as knowledge domains grow, the baseline required to be effective keeps rising. No single mind can hold it all, which is why external systems, checklists, and collaborative tools are not optional enhancements but structural necessities. [Systems and Structural Thinking](/notes/systems-and-structural-thinking.md) adds the key insight that the value of a well-structured system exceeds the sum of its parts — emergence is what separates a connected knowledge base from a pile of notes.
 
 ### Videos
 [Building A Second Brain In Notion](https://www.youtube.com/watch?v=9oJb8R4hd2w&list=WL&index=6) 
@@ -72,5 +46,5 @@ As mentioned, one of the more powerful features of such a system is that it can 
 [Bryan Jenks](/notes/bryan-jenks.md)
 [Danny Hatcher](/notes/danny-hatcher.md)
 
-## Other Map
+## Other MOC
 

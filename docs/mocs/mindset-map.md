@@ -1,51 +1,26 @@
 ---
 UUID: 20220715053858
 Created: '2022-07-15 05:38'
-Modified: '2025-07-23 05:55'
+Modified: '2026-04-10 13:48'
 tags: []
-Version: 1.02
+Version: 3
 Up: '[[Home]]'
 draft: false
 SiteProcssed: true
 ---
 
-# Mindset (Map)
+# Mindset
 
 ## Notes
 
-### Motivation Restoring
-How can we feel energized, motivated and approach life with a positive attitude?
-1. [Small Wins](/notes/small-wins.md) - take a second to enjoy how far you've come, and celebrate even the smallest of wins
-2. [Self affirmation](/notes/self-affirmation.md) - remind yourself that you have worth, and be kind to yourself
-3. [job crafting](/notes/job-crafting.md) - create meaning in what you do, see it through a perspective of helping others
-4. [Growth Mindset](/notes/growth-mindset.md) - your skills can grow with time
-5. [Optimism](/notes/optimism.md) - it is up to us to decide how to view reality, and whether we would be able to thrive in it
+Mindset is not simply a mood or attitude — it is the set of underlying orientations that determine how we interpret difficulty, what we pursue, and whether we can sustain effort over time. Two orientations are central.
 
-### Counter Negative Cycle
-How can we rise up after we fall?
-1. we need to take a new perspective on [Rejection](/notes/rejection.md)
-2. [Zoom out](/notes/zoom-out.md) - things might feel bad now, but if we zoom out we might see things in a clearer, healthier perspective
-3. [The law of reverse effect](/notes/the-law-of-reverse-effect.md) - sometimes, the more we try, the more we push things away, perhaps it is better to let things go
-4. [forward thinking](/notes/forward-thinking.md) - To think about the future in advance, and preparing for it today
+### Releasing the Need to Force
 
-### Productivity Mindset
-How can we remain focused and dedicated in what we do?
-1. [Fleetingness](/notes/fleetingness.md) - what we experience now is unique, so we should pay attention to it
-2. [Love what is good](/notes/love-what-is-good.md) - we need to adjust our preferences such that we will love, enjoy doing the things that are good for us and others
-3. [Optimization](/notes/optimization.md) - To constantly try to improve something, to make it efficient
+[Acceptance and Effortless Action](/notes/acceptance-and-effortless-action.md) challenges the assumption that harder effort always produces better results. Excessive striving often produces the opposite of what we intend — the tighter we grip, the more things slip. The Stoic and Taoist alternative is to release resistance: to accept what cannot be controlled, slow down to prioritize quality over speed, and meet reality as it is rather than imposing beliefs onto it. This is not passivity but a different kind of engagement — one that moves with conditions rather than against them.
 
-### Healthy Thinking
-How can make sure our thinking is clear and positive?
-4. [Filtering](/notes/filtering.md) - To take in only the information we need to receive, blocking noise
-5. [scientific method](/notes/scientific-method.md) - To hold ideas softly, as theories to test and not identities that define us
-6. [positive language](/notes/positive-language.md) - To use empowering, enabling language that allows for growth instead of limiting, negative language
+### What Is Worth Wanting
 
-### No Thinking
-Perhaps a healthy mindset is no mindset at all?
-1. [Wu wei](/notes/wu-wei.md) - A state of being, of not resisting, of connecting instead of forcing your thinking onto the world
+[Value and Meaning](/notes/value-and-meaning.md) addresses the prior question beneath all effort: what are we orienting toward? The claims here argue that meaning is not discovered but constructed — through introspection, authenticity, and commitment to what one actually cares about. Meaning in work sustains engagement through difficulty; clear direction matters more than speed. Together these claims suggest that mindset is not only about how we approach action but about whether we know what we are acting for.
 
-### Unhealthy Thinking
-1. [manifesting](/notes/manifesting.md) - When we try to bend reality to our perspective, as if it obeys us, instead of seeing it as it is
-2. [Pessimism](/notes/pessimism.md) - To view life through a black colored lens, to mistrust and have no faith or hope in others or that things will be better
-
-## Other Map
+## Other MOC

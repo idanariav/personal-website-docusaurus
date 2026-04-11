@@ -1,13 +1,13 @@
 ---
 UUID: 20230314192647
 Created: '2023-03-14 19:26'
-Modified: '2026-04-03 18:12'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Slowing down
 Description: >-
@@ -50,7 +50,6 @@ We have to [accept](/notes/accepting-what-we-cannot-control-is-the-path-to-peace
 ![Slowing down](/notes/slowing-down.webp)
 
 ## Overview
-🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
 🔼Topic:: [Acceptance and Effortless Action](/notes/acceptance-and-effortless-action.md)
 Source:: [Einzelganger](/notes/einzelganger.md)
 Link:: https://www.youtube.com/watch?v=bK1g9bPHUTo

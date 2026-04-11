@@ -1,13 +1,13 @@
 ---
 UUID: 20241101182926
 Created: '2024-11-01 18:29'
-Modified: '2026-04-03 08:45'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Emotions provide decision-relevant information when navigating choices.png]]'
 ImageText: A dog guiding a blind man
 Description: >-
@@ -57,7 +57,6 @@ When emotions are information and nothing more, we are less likely to be [hijack
 ![Emotions provide decision-relevant information when navigating choices](/notes/emotions-provide-decision-relevant-information-when-navigating-choices.webp)
 
 ## Overview
-🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 🔼Topic:: [Emotions as Signals](/notes/emotions-as-signals.md)
 ↩️Origin::
 🔗Link::

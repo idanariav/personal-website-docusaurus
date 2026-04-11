@@ -1,13 +1,13 @@
 ---
 UUID: 20230328065311
 Created: '2023-03-28 06:53'
-Modified: '2026-04-02 22:42'
+Modified: '2026-04-10 15:47'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 4
 aliases:
   - Imposter Syndrome
 Description: >-
@@ -52,8 +52,6 @@ How to avoid imposter syndrome:
 ![Imposter Syndrome](/notes/imposter-syndrome.webp)
 
 ## Overview
-🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
-🔼Topic:: [Success (Map)](/mocs/success-map.md)
 🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
 ◀Origin::
 🔗Link::

@@ -1,12 +1,12 @@
 ---
 UUID: 20221111070939
 Created: '2022-11-11 07:09'
-Modified: '2026-03-31 11:28'
+Modified: '2026-04-10 14:09'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 2
+Version: 5
 Image: '[[Capabilities are malleable through effort and learning.png]]'
 ImageText: A person pushing a wall
 Description: >-
@@ -56,8 +56,7 @@ we are not pure [Objectivity is loss of agency to external control and instrumen
 ![Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.webp)
 
 ## Overview
-🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
-🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
+🔼Topic:: [Knowledge Structure and Transfer](/notes/knowledge-structure-and-transfer.md)
 ◀Origin:: [Mindset (book)](/books/mindset-book.md)
 🔗Link::
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20230325091805
 Created: '2023-03-25 09:18'
-Modified: '2026-04-03 08:46'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Turn negative emotions into fuel for growth and action.png]]'
 ImageText: A fire heating water into steam that turns a turbine
 Description: >-
@@ -57,8 +57,6 @@ Suppressing emotions is not only a wishful thinking, it's harmful. Suppressed em
 ![Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.webp)
 
 ## Overview
-🔼Topic:: [personality traits (Map)](/mocs/personality-traits-map.md)
-🔼Topic:: [Emotions (Map)](/mocs/emotions-map.md)
 🔼Topic:: [Emotions as Signals](/notes/emotions-as-signals.md)
 ◀Origin::
 🔗Link::

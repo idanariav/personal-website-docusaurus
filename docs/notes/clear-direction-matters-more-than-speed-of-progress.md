@@ -1,12 +1,12 @@
 ---
 UUID: 20230412072225
 Created: '2023-04-12 07:22'
-Modified: '2026-03-31 11:42'
+Modified: '2026-04-09 17:02'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 6
 Image: '[[Clear direction matters more than speed of progress.png]]'
 ImageText: A person running in a hamster wheel vs a person climbing a mountain
 Description: >-
@@ -61,9 +61,9 @@ And it is unclear how and if the two should mix. What is more beneficial? Settin
 
 ![Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.webp)
 ## Overview
-🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
-🔼Topic:: [Motivation (Map)](/mocs/motivation-map.md)
-🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
+🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
+🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
+🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
 ◀Origin::
 🔗Link::
 

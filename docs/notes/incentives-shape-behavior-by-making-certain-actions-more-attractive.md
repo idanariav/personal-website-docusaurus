@@ -1,13 +1,13 @@
 ---
 UUID: 20230731073335
 Created: '2023-07-31 07:33'
-Modified: '2026-04-01 08:57'
+Modified: '2026-04-10 13:50'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 4
 aliases:
   - Incentives
 Description: >-
@@ -56,9 +56,6 @@ Additionally, incentives harm [Repeated actions become automatic through habit f
 ![Incentives](/notes/incentives.webp)
 
 ## Overview
-🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
-🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
-🔼Topic:: [Motivation (Map)](/mocs/motivation-map.md)
 🔼Topic:: [Environment and Behavior](/notes/environment-and-behavior.md)
 Origin::
 🔗Link::

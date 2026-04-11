@@ -1,13 +1,13 @@
 ---
 UUID: 20230328190822
 Created: '2023-03-28 19:08'
-Modified: '2026-04-02 22:42'
+Modified: '2026-04-04 10:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Fixed mindset assumes capabilities are unchangeable from birth.png]]'
 ImageText: A grasshopper stuck in a glass jar
 Description: >-
@@ -56,7 +56,6 @@ This is the opposite view of [Capabilities are malleable through effort and lear
 ![Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.webp)
 
 ## Overview
-🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
 🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
 ◀Origin::
 🔗Link::

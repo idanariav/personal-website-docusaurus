@@ -1,8 +1,8 @@
 ---
 UUID: 20240101070009
 Created: '2024-01-01 07:00'
-Modified: '2024-05-23 07:50'
-Version: 1.01
+Modified: '2026-04-10 16:57'
+Version: 2
 tags: []
 Up: '[[Productivity (Map)]]'
 draft: false
@@ -13,23 +13,28 @@ SiteProcssed: true
 
 ## Notes
 
-Workflows are ways to improve the efficiency of our effort without increasing it, meaning to get a better return for the same investments.
+Workflows are the structure through which intention becomes execution — the methods, sequences, and habits that determine whether effort produces results proportional to investment.
 
-### Concepts
-1. [Planning](/notes/planning.md) - Before rushing in to a task, first plan what you are going to do, what you are trying to achieve, and how.
-2. [Pre-Mortem](/notes/pre-mortem.md) - By thinking in advance what can go wrong, we are more likely to avoid those situations, or to be ready for them when they arrive
-3. [Pareto Principle](/notes/pareto-principle.md) - Everything is made up of the 20% the provides 80% of the benefits. Focus on those 20% and try to increase their share while reducing the 80%
-4. [Multitrack](/notes/multitrack.md) - Don't put all you eggs in one basket, work on several ideas simultaneously to have option b while also allowing yourself to enrich ideas back and forth between the options.
-5. [Deadline Effect](/notes/deadline-effect.md) - Have a deadline for your tasks otherwise they will take forever to complete. Make a promise to yourself and others.
-6. [Multiplier](/notes/multiplier.md) - The essence of productivity. Stop and review your workflows once in a while and see which tools, mental models or processes can have a multiplier effect on your work.
-7. [Trust the Process](/notes/trust-the-process.md) - Don't measure your results on a daily level or be obsessed about your goals, some things take time. Just focus on doing the right things each day, and the results will come on their own.
-8. [Life's Mission](/notes/lifes-mission.md) - Don't forget your why. Remember why you are doing what you are doing, how it connects to your values and identity.
-9. [Timing](/notes/contextual-synergy.md) - To do things in the right moment they should be done, not before or after. 
+### Planning Before Acting
+
+[Strategic Planning and Preparation](/notes/strategic-planning-and-preparation.md) establishes the architecture of effective execution: planning anticipates the future and creates conditions for action rather than waiting for them. Pre-mortems pressure-test plans by imagining failure in advance, surfacing risks that optimism would otherwise obscure. Deadlines function as commitment devices, converting open-ended intentions into bounded obligations. And retrospectives close the feedback loop — examining both what happened and how decisions were made, building the process knowledge that compounds over time.
+
+### Concentration and Leverage
+
+[Prioritization and Leverage](/notes/prioritization-and-leverage.md) applies the same principle to effort itself: not all inputs produce equal outputs. The Pareto principle holds that most benefits come from a small minority of causes — the leverage move is identifying that minority and concentrating there. Multipliers amplify the effect of effort through tools and habits that produce compounding rather than linear returns. And sometimes the highest-leverage action is subtraction: removing friction, unnecessary steps, or features that dilute rather than add.
+
+### Focus and Flow
+
+[Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md) addresses the quality of work within each session. Focused, uninterrupted work produces disproportionately better results than fragmented attention — not because effort increases, but because sustained concentration enables the depth of processing that complex work requires. Flow, focus, and recovery are the structural conditions for peak execution; designing workflows around them is itself a form of leverage.
+
+### Direction Over Speed
+
+[Value and Meaning](/notes/value-and-meaning.md) anchors workflows in purpose: clear direction matters more than speed of progress. Without knowing why you are doing what you are doing — how it connects to values and identity — faster execution is not progress. The prior question about what actually matters is what determines whether any amount of efficiency translates into meaningful results.
 
 ### Books
 [Effortless (book)](/books/effortless-book.md)
 [Essentialism (book)](/books/essentialism-book.md)
 
-## Other Map
+## Other MOC
 
 ### Overview
