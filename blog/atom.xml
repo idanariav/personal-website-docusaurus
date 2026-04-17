@@ -2,11 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://idanariav.com/blog</id>
     <title>Idan Ariav Blog</title>
-    <updated>2026-04-03T00:00:00.000Z</updated>
+    <updated>2026-04-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://idanariav.com/blog"/>
     <subtitle>Idan Ariav Blog</subtitle>
     <icon>https://idanariav.com/general/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Words Open Our Minds]]></title>
+        <id>https://idanariav.com/blog/words-and-thoughts</id>
+        <link href="https://idanariav.com/blog/words-and-thoughts"/>
+        <updated>2026-04-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The ways we label the world actually change how we perceive it. If our vocabulary is limited, our internal map of reality often misses important nuances, much like a two-dimensional drawing of a mountain. How can expanding our language help us see details that were previously invisible to our own minds?]]></summary>
+        <content type="html"><![CDATA[<p>The ways we label the world actually change how we perceive it. If our vocabulary is limited, our internal map of reality often misses important nuances, much like a two-dimensional drawing of a mountain. How can expanding our language help us see details that were previously invisible to our own minds?</p>
+<p><img decoding="async" loading="lazy" alt="Expanding your world one word at a time (insight)" src="https://idanariav.com/assets/images/expanding-your-world-one-word-at-a-time-insight-33cac1e36a5074f1a114fc4d96252525.webp" width="882" height="505" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="thinking-in-words">Thinking in Words<a href="https://idanariav.com/blog/words-and-thoughts#thinking-in-words" class="hash-link" aria-label="Direct link to Thinking in Words" title="Direct link to Thinking in Words" translate="no">​</a></h2>
+<p>Words are more than a tool for describing reality, they are the lenses through which we see reality.</p>
+<p>"The limits of my language mean the limits of my world" said Wittgenstein which focused most of his philosophical life researching just how powerful this sentence is.</p>
+<p>Ever wondered why the Inuit tribe has 50 words to describe snow?</p>
+<p>It's not because they like snow, or because they have nothing to do all day but to stare at it. It's because these words serve a purpose, a distinction to them that's important to make. For them, the difference between thin or thick ice is a matter of life or death. It's not just a rich vocabulary, these words help them see the world differently, helps them survive.</p>
+<p>Words are not just containers for meaning, they shape our thoughts. We can't think without words, even when we think to ourselves, we use the same language we read, talk, and hear with.</p>
+<p>Language is how we construct reality, and words are the LEGO pieces. Heidegger would have greatly supported this claim, if only he knew what lego is - "Language is the house of Being. In its home man dwells."</p>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="words-as-realitys-building-blocks">Words as Reality's Building Blocks<a href="https://idanariav.com/blog/words-and-thoughts#words-as-realitys-building-blocks" class="hash-link" aria-label="Direct link to Words as Reality's Building Blocks" title="Direct link to Words as Reality's Building Blocks" translate="no">​</a></h2>
+<p>The fewer words we have for something, the less likely we are to perceive nuances in it. Whorf, a famous linguistic described it beautifully - "We dissect nature along lines laid down by our native language. The categories and types that we isolate from the world of phenomena we do not find there because they stare every observer in the face." Meaning that the words we use are like contact lenses, we see the world through them, but we can't "see" the words themselves and how they shape (or distort) or reality.</p>
+<p>For example, in Russian there are two different words for light blue and dark blue, which makes them better at detecting shades of blue than English speakers. The color in front of both is the same, but the mind sees something different.</p>
+<p>Similarly, the labels we have for objects shape how we perceive them. Many languages have a gender for objects, so when the moon is considered "feminine", we say it's beautiful, clean, astonishing. When it's "masculine" we say it's big and strong. The moon stays the same, but our internal reality changes.</p>
+<p>This means that when our language is narrow, it's like looking at the world through a black and white filter. Our internal reality is narrow and simplistic. However, the more we learn, specifically when we open our minds to new points of view, new languages, new ideas, we don't just increase our knowledge, we expand our reality. From black and white it turns into vivid, detailed and complex.</p>
+<p>Have you ever had a case where you learn something new and suddenly see it everywhere? You say to yourself "how could I have missed it?" That's because you didn't have the word for it, so your internal reality was partial. It's like having a map that doesn't account for heights, when suddenly you encounter a cliff and you realize what you were missing all along.</p>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="expanding-your-vocabulary">Expanding Your Vocabulary<a href="https://idanariav.com/blog/words-and-thoughts#expanding-your-vocabulary" class="hash-link" aria-label="Direct link to Expanding Your Vocabulary" title="Direct link to Expanding Your Vocabulary" translate="no">​</a></h2>
+<p>So how can you know what are your blindspots? Where your internal map is lacking?</p>
+<p>Learning languages is perhaps the most direct way, as each language contains a different point of view. For example, In Spanish attention is lent (because you want it back), in French it is made (because it requires you to do it actively), in English it's paid (hinting that your attention is valuable), and in German it is gifted (it's something you give to someone else).</p>
+<p>S go out there - learn, explore, enrich yourself with the colors of the world.</p>
+<p>But you don't have to be a Duolingo fanatic to expand your world (trust me, it's a deep rabbit hole). You can also read a book, watch a video of someone from a different culture/background/age or profession.</p>
+<p>Each new word will be like another lego piece in your arsenal, and with enough pieces you can build the most beautiful thing.</p>]]></content>
+        <category label="Habits" term="Habits"/>
+        <category label="Change" term="Change"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lowering the bar]]></title>
         <id>https://idanariav.com/blog/lower-the-bar</id>
@@ -683,45 +713,6 @@ We often rely on mental shortcuts to get through busy days, but what if those sh
 <p>Archimedes said: “Give me a lever long enough, and a place to stand, and I will move the earth.</p>
 <p>Positioning, while not free, is a great multiplier that makes good decisions less costly and much more impactful.</p>]]></content>
         <category label="Perspective" term="Perspective"/>
-        <category label="Self-Control" term="Self-Control"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rigid Vs Flexible Rules]]></title>
-        <id>https://idanariav.com/blog/rigid-vs-flexible-rules</id>
-        <link href="https://idanariav.com/blog/rigid-vs-flexible-rules"/>
-        <updated>2025-06-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Is it better to live by rigid rules that offer clarity—or flexible ones that offer resilience?]]></summary>
-        <content type="html"><![CDATA[<p><strong>Is it better to live by rigid rules that offer clarity—or flexible ones that offer resilience?</strong>
-What if the very thing that makes strict principles powerful is also what makes them brittle? Explore how we can stay true to our values without breaking under the weight of perfection.</p>
-<p><img decoding="async" loading="lazy" alt="rigid_vs_flexible_rules.webp" src="https://idanariav.com/assets/images/rigid_vs_flexible_rules-461bce82d71a31408f7f1ca466ce0da0.webp" width="552" height="744" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="too-rigid-or-not-too-rigid-that-is-the-question">Too Rigid, or not Too Rigid, that is the Question<a href="https://idanariav.com/blog/rigid-vs-flexible-rules#too-rigid-or-not-too-rigid-that-is-the-question" class="hash-link" aria-label="Direct link to Too Rigid, or not Too Rigid, that is the Question" title="Direct link to Too Rigid, or not Too Rigid, that is the Question" translate="no">​</a></h2>
-<p>As a secular person, the thing that I love about religion is also the thing that frustrates me.</p>
-<p>No, this is not a post about religion, but it will serve a point.</p>
-<p>You can't help but be in awe by the way religious people can maintain a certain way of life as if there wasn't even an option to choose any other way. They live consistently by their moral code, which is more than most of us can say.</p>
-<p>There's power in having creeds. When we have an unbreakable rule, such as "I don't eat meat", it makes life easier because we don't have to debate each time whether we should eat meat or not. The expectations are clear.</p>
-<p>Also, we can't make excuses - like "nuggets are not really meat because it's chicken". There's no one else to fool but ourselves.</p>
-<p>Such rules are likely to become our second nature. With time, discipline turns to automatic behavior, becoming our default.</p>
-<p>However, every rule is bound to be broken, whether by mistake, bad luck, laziness, or enough pressure, we will slip up.</p>
-<p>When rigid rules are broken, they are broken "big time". These rules are so entrenched in our identity, that when they break - we break. Our motivation collapses, and there's no going back now.</p>
-<p>Like a person with 2000 days streak on Duolingo that skipped a single day (without streak freezes), they'll likely delete the app and stop learning for months if not ever.</p>
-<p>If you don't want to put all your eggs in the "rigid rule" basket, you can choose to have flexible rules, like "I try to avoid eating meat". It doesn't mean you never eat meat, and (unfortunately) it's up to you to decide what counts as following this rule.</p>
-<p>On the bright side, failing to uphold this rule is not as shattering as breaking a rigid rule. Even if you fail by your standards, you can get back up. The fall isn't that high.</p>
-<p>You can reflect on your choices, what led to your failure, and what can you do better next time. You can also improve your standards with time. At first "avoid eating meat" can be translated as eating meat every other day, and with time it can be "only on special occasions".</p>
-<p>Flexible rules acknowledge our humanity, the good and the bad.</p>
-<p>Yes, we can lie to ourselves and make excuses, but it also allows us to adjust based on our circumstances, and to get back up after we fall. The important thing is to focus on being true to values essence, and not to a perfect unreachable version of them.</p>
-<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="actionable-tips-how-to-set-smarter-compassionate-rules">Actionable Tips: How to Set Smarter, Compassionate Rules<a href="https://idanariav.com/blog/rigid-vs-flexible-rules#actionable-tips-how-to-set-smarter-compassionate-rules" class="hash-link" aria-label="Direct link to Actionable Tips: How to Set Smarter, Compassionate Rules" title="Direct link to Actionable Tips: How to Set Smarter, Compassionate Rules" translate="no">​</a></h2>
-<ul>
-<li class=""><strong>Stay true to values, not rules</strong> – Being a moral person is more complex than following rigid rules, we are humans, we slip up, we have multiple conflicting values, and we live in complex reality. So focus on being true to your values, good behavior will follow</li>
-<li class=""><strong>Build flexibility in</strong> – Allow yourself some "mulligans", like streak freezes for cases when following the rule simply isn't possible. Give yourself a chance to skip without calling it (and yourself) a failure.</li>
-<li class=""><strong>Celebrate resilience, not just consistency</strong> – Be compassionate to yourself, remember that getting back up is more important than staying on track.</li>
-</ul>
-<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="ask-yourself">Ask Yourself<a href="https://idanariav.com/blog/rigid-vs-flexible-rules#ask-yourself" class="hash-link" aria-label="Direct link to Ask Yourself" title="Direct link to Ask Yourself" translate="no">​</a></h2>
-<ul>
-<li class="">Do I tend to lean toward rigid or flexible rules in my life?</li>
-<li class="">Have I ever lost motivation after “breaking” a rule?</li>
-<li class="">How can I build rules that honor both values and self-compassion?</li>
-</ul>]]></content>
-        <category label="Habits" term="Habits"/>
         <category label="Self-Control" term="Self-Control"/>
     </entry>
 </feed>
