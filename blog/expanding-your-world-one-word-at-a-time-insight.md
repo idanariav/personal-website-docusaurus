@@ -73,7 +73,7 @@ So how can you know what are your blindspots? Where your internal map is lacking
 
 Learning languages is perhaps the most direct way, as each language contains a different point of view. For example, In Spanish attention is lent (because you want it back), in French it is made (because it requires you to do it actively), in English it's paid (hinting that your attention is valuable), and in German it is gifted (it's something you give to someone else).
 
-S go out there - learn, explore, enrich yourself with the colors of the world.
+So go out there - learn, explore, enrich yourself with the colors of the world.
 
 But you don't have to be a Duolingo fanatic to expand your world (trust me, it's a deep rabbit hole). You can also read a book, watch a video of someone from a different culture/background/age or profession.
 
