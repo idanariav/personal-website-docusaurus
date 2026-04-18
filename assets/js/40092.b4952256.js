@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkidans_personal_website=self.webpackChunkidans_personal_website||[]).push([["40092"],{34967(){}}]);
