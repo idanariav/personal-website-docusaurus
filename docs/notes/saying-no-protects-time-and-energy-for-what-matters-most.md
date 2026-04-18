@@ -1,13 +1,13 @@
 ---
 UUID: 20230326131034
 Created: '2023-03-26 13:10'
-Modified: '2026-04-08 13:57'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Saying no
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   allowing for greater focus on what truly matters while avoiding overcommitment
   and burnout.
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ Either way, saying no is a form of [Acting in alignment with your values is auth
 ## Visual
 
 ![Saying no](/notes/saying-no.webp)
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-◀Origin::
-🔗Link::
-

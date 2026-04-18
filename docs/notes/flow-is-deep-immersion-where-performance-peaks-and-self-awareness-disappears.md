@@ -1,13 +1,13 @@
 ---
 UUID: 20230327065634
 Created: '2023-03-27 06:56'
-Modified: '2026-04-08 15:19'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: >-
   [[Flow is deep immersion where performance peaks and self-awareness
   disappears.png]]
@@ -20,6 +20,10 @@ aliases:
   - Flow
   - Immersion
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: '[[Flow (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -57,9 +61,3 @@ the flow experience is achieved when:
 ## Visual
 
 ![Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-◀Origin:: [Flow (book)](/books/flow-book.md)
-🔗Link::
-

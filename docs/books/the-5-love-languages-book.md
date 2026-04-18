@@ -1,41 +1,54 @@
 ---
 UUID: 20240101072930
 Created: '2024-01-01 07:29'
-Modified: '2024-10-23 09:34'
+Modified: '2026-04-13 06:18'
 tags: []
+FullTitle: The 5 Love Languages - The Secret to Love that Lasts
+Description: >-
+  It argues that people communicate love through different languages, and
+  understanding these is crucial to avoid miscommunication. A fulfilled "love
+  tank" is essential for happiness in relationships, as love requires effort and
+  choice beyond the initial infatuation phase. Effective communication of love
+  enhances connection and satisfaction.
 Author:
   - '[[Gary Chapman]]'
+URL: 'https://www.goodreads.com/book/show/23878688-the-5-love-languages'
+Cover: >-
+  http://books.google.com/books/content?id=K1fRBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Family & Relationships
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B00OICLVBI
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 208
+Reread: 0
 Rate: 3
 PublishDate: 2014-12-11T00:00:00.000Z
+StartDate: 2024-01-19T00:00:00.000Z
 FinishDate: 2024-01-23T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=K1fRBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/23878688-the-5-love-languages'
+Image: null
 aliases: []
+Topic:
+  - '[[Communication (Map)]]'
+  - '[[Deep relationships require trust, listening, and empathy]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The 5 Love Languages
 
-## 🔗Connect
-🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
-🔼Topic:: [Relationships](/notes/relationships.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **People have different love languages** - like an actual language, people communicate love differently, and when that happens we get miscommunication and frustration.
 2. **Keep the love tank full** - each of us have a "love tank" that symbolizes our deep need for love and affection, and when this tank is full we feel happy and satisfied, and the reverse when it is empty. Therefore the key to a happy marriage is to keep the love tank full
@@ -43,11 +56,11 @@ SiteProcssed: true
 4. **Love is a choice** - When the "falling in love" phase fades, we have to acknowledge that love is a choice, it requires effort and will to sustain, it requires our dedication and attention, and while it sounds less "magical" than the falling in love phase, it is much more deep, truth and satisfying than it can ever be because it creates a real connection between two people.
 5. **Speak your partner's love language** - in order to keep your partner's love tank full, and increasing the odds of them to reciprocate, you have to find out what their love language is. See how they communicate, what they ask of you, what give them the most pleasure. Treat it as an experiment and work until you find the right ways to communicate your love to them.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 We would be able to communicate much better with our partner and have a more healthy and happy relationship
@@ -57,17 +70,17 @@ Having one main love language is often too much of a simplification.
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book is nice, not too long, and expresses the main ideas clearly. However, it is noticeable that there's not a lot of depth to the book, and even in it's short 200 pages it is hard to fill with meaningful content.
 However, I did like the combination of practical advices and reflective questions
 
-### 🖼️Outline
+### Outline
 
-![The 5 Love Languages (book).webp](/books/the-5-love-languages-book.webp)
+![The 5 Love Languages (book)](/books/the-5-love-languages-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### What Happens to Love after Marriage?
 
@@ -87,7 +100,7 @@ In many cases it fades because partners don't speak the same love language, we c
 
 We each have an emotional "love tank" within us that we need to have full in order to be joyful and functioning person. Leaving it empty is harmful for our mental wellbeing.
 
-Relationships that are only transactional [Commodification](/notes/commodification.md) are lacking in filling this tank which causes problems and dissatisfaction in the relationship.
+Relationships that are only transactional [Commodification turns non-tradable values into economic transactions](/notes/commodification-turns-non-tradable-values-into-economic-transactions.md) are lacking in filling this tank which causes problems and dissatisfaction in the relationship.
 **These tanks can only be filled by using that person's love language**
 
 :::note[Keeping the Love Tank Full]
@@ -100,9 +113,9 @@ Relationships that are only transactional [Commodification](/notes/commodificati
 
 ### Falling in Love
 
-At first, there's always the "in love" experience. A euphoric moment where love conquers all. They will have no problem, they will love each other forever, and the partner is perfect. Even if problems happen and love fades, it won't happen "to them", because their love "is unique". This is more a form of obsession that true love.
+At first, there's always the "in love" experience. A euphoric moment where love conquers all. They will have no problem, they will love each other forever, and the partner is perfect. Even if problems happen and love fades, it won't happen "to them", because their love "is unique". This is more a form of [Obsession](/notes/addiction-is-escapism-that-destroys-self-control.md) that true love.
 
-Usually two years after this situation fades, and the question remains whether to end the relationship and look for something new, or to settle for a mediocre relationship.
+Usually two years after this situation fades, and the question remains whether to end the relationship and look for something new, or to settle for a mediocre relationship. [fit fallacy](/notes/fit-fallacy.md)
 
 There is a third way, which is **to find "real love" with the partner. One that is a unification of reason and emotion, made out of choice and discipline, requires effort and out of recognition that there's something to love in your partner.**
 
@@ -123,9 +136,9 @@ It lacks the "fireworks" of the honeymoon period, but it is more real and deep t
 ### Words of Affirmation
 
 Our verbal communication is one of the love languages, and we can use it in various ways:
-1. **Compliments** - by giving the partner compliments, especially expressing [Gratitude](/notes/gratitude.md) for gestures is a great way to make their effort seen, and to increase their motivation to reciprocate.
-2. **Encouragement** - we can give words of encouragement to our partner to fulfill their potential. it requires [Empathy](/notes/empathy.md) to see through their eyes, but in the process we also give them external perspective that might be key to pursue their dream
-3. **Kindness** - we can express our love through kind words and tone. This is critical especially in moments of anger. If we give into harsh words, we bring up the past and make it part of our present, we don't allow us to change and grow. Mistakes will happen, we can't erase those, but we can forgive and move on. [Forgivness](/notes/apology.md) is a choice, not an emotion, and sharing the difficulties together rather than "keeping score" is an expression of kindness and love
+1. **Compliments** - by giving the partner compliments, especially expressing [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md) for gestures is a great way to make their effort seen, and to increase their motivation to reciprocate.
+2. **Encouragement** - we can give words of encouragement to our partner to fulfill their potential. it requires [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md) to see through their eyes, but in the process we also give them external perspective that might be key to pursue their dream
+3. **Kindness** - we can express our love through kind words and tone. This is critical especially in moments of anger. If we give into harsh words, we bring up the past and make it part of our present, we don't allow us to change and grow. Mistakes will happen, we can't erase those, but we can forgive and move on. [Forgivness](/notes/a-true-apology-includes-intent-to-repair.md) is a choice, not an emotion, and sharing the difficulties together rather than "keeping score" is an expression of kindness and love
 4. **Humble** - love makes requests, not demand. To request is to acknowledge the value of the other side, which his agreement can be a sign of love and connection. Demands on the other side creates hierarchy, resentment, and a battle for control. Even if they respond, it is more an act of submission than love.
 
 :::note[Words of Affirmation]
@@ -148,8 +161,8 @@ Our verbal communication is one of the love languages, and we can use it in vari
 
 **Quality time is time shared together, focused on each other and nothing else**. To give your whole, undivided attention. So watching Netflix together doesn't count, but going on a trip, sitting on a bench and talking does.
 
-An important aspect of quality time is usually conversations. In those, don't jump to offer solutions or advice, focus on [Active Listening](/notes/active-listening.md), on understanding and sharing your partner's feelings, on letting them speak their mind without interruption. It is the emotional connection that counts, not logical analysis.
-It is also expected to be a two way street. You have to share your feelings with the other side, to expose your true self, to be vulnerable [Vulnerability](/notes/vulnerability.md).
+An important aspect of quality time is usually conversations. In those, don't jump to offer solutions or advice, focus on [Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.md), on understanding and sharing your partner's feelings, on letting them speak their mind without interruption. It is the emotional connection that counts, not logical analysis.
+It is also expected to be a two way street. You have to share your feelings with the other side, to expose your true self, to be vulnerable [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md).
 
 At minimum, you should have a "minimum sharing requirements", where each side says 3 things that have happened to them that day. That way, we can incorporate enough flow of conversations between "dead seas" (those who prefer listening), and "babbling brooks" (those who prefer talking).
 
@@ -193,7 +206,7 @@ The peace of mind, the wellbeing, and the proactively in their day to day life t
 ### Physical touch
 
 **Physical touch can be a powerful source of love**. As before, not all touches are created equal, and it is up to your partner to say which kinds of touch is acceptable and in which situation. Regardless, touch can be very comforting during moments of crisis, and it can be as small as holding hands while out shopping.
-Find those small opportunities on the day to day to be close to your partner, to give a hug, hold their hand, or even a message. Speak your love through your body as opposed to just words. [non verbal communication](/notes/non-verbal-communication.md)
+Find those small opportunities on the day to day to be close to your partner, to give a hug, hold their hand, or even a message. Speak your love through your body as opposed to just words. [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md)
 
 :::note[Acts of Service]
 

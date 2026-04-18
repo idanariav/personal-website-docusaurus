@@ -1,13 +1,13 @@
 ---
 UUID: 20231223071614
 Created: '2023-12-23 07:16'
-Modified: '2026-04-09 09:05'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Truth depends on context and the observer''s perspective.png]]'
 ImageText: >-
   Three people of different heights, with the smallest saying "I'm tall" and the
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Contextualism
 new_schema: true
+Topic:
+  - '[[Foundations of Knowledge]]'
+Origin: '[[Elucidations]]'
+URL: 'https://share.snipd.com/episode/7b307626-a817-420e-8f47-1ee37f53c02c'
 draft: false
 SiteProcssed: true
 ---
@@ -60,9 +64,3 @@ Is truth devoid of all meaning? If a short person says they are tall, are they c
 ## Visual
 
 ![Truth depends on context and the observer's perspective](/notes/truth-depends-on-context-and-the-observers-perspective.webp)
-
-## Overview
-🔼Topic:: [Foundations of Knowledge](/notes/foundations-of-knowledge.md)
-◀Origin:: [Elucidations](/notes/elucidations.md)
-🔗Link:: [Podcast](https://share.snipd.com/episode/7b307626-a817-420e-8f47-1ee37f53c02c)
-

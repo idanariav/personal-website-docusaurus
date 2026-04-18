@@ -1,8 +1,8 @@
 ---
 UUID: 20250322095248
 Created: '2025-03-22 09:52'
-Modified: '2026-04-09 08:43'
-Version: 2
+Modified: '2026-04-11 22:29'
+Version: 3
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -15,6 +15,10 @@ Description: >-
   reconstructed based on current context, altering perceptions of past
   experiences and self-narratives.
 new_schema: true
+Topic:
+  - '[[Active Learning and Deep Encoding]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,8 +52,3 @@ For example, finding out that your partner cheated on you can "suddenly" paint p
 
 ## Visual
 
-
-## Overview
-🔼Topic:: [Active Learning and Deep Encoding](/notes/active-learning-and-deep-encoding.md)
-↩️Origin::
-🔗Link:: 

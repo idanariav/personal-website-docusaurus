@@ -1,12 +1,12 @@
 ---
 UUID: 20220625084758
 Created: '2022-06-25 08:47'
-Modified: '2026-04-10 14:28'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[A task takes as much time as you give it.png]]'
 ImageText: 'A small flask and a big flask, both full of water'
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
 aliases:
   - Parkinsons Law
 new_schema: true
+Topic:
+  - '[[Prioritization and Leverage]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,7 +50,3 @@ But the reverse is true as well, if we give ourselves a very short deadline we c
 ## Visual
 
 ![A task takes as much time as you give it](/notes/a-task-takes-as-much-time-as-you-give-it.webp)
-
-## Overview
-🔼Topic:: [Prioritization and Leverage](/notes/prioritization-and-leverage.md)
-🔗Link::

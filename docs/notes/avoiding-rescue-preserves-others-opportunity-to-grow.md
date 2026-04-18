@@ -1,13 +1,13 @@
 ---
 UUID: 20240417174602
 Created: '2024-04-17 17:46'
-Modified: '2026-04-09 17:06'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Avoiding rescue preserves others'' opportunity to grow.png]]'
 ImageText: >-
   A person handing a rubber duck to someone on the left versus providing a
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Dont Jump to the Rescue
 new_schema: true
+Topic:
+  - '[[Scaffolded Growth]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ In the end, while you perhaps have the best intentions in the world, to solve so
 ## Visual
 
 ![Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.webp)
-
-## Overview
-🔼Topic:: [Scaffolded Growth](/notes/scaffolded-growth.md)
-↩️Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20240906090957
 Created: '2024-09-06 09:09'
-Modified: '2026-04-08 13:57'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Reactance
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   on their freedom of choice, often triggered by external requests that are seen
   as controlling or objectifying.
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ Reactance is dangerous because it pushes us towards a [Harmful actions reinforce
 ## Visual
 
 ![Reactance](/notes/reactance.webp)
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-↩️Origin::
-🔗Link::
-

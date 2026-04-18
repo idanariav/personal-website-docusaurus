@@ -1,8 +1,8 @@
 ---
 UUID: 20250523091726
 Created: '2025-05-23 09:17'
-Modified: '2026-04-10 06:11'
-Version: 3
+Modified: '2026-04-11 22:29'
+Version: 4
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -15,6 +15,11 @@ Description: >-
   to values crossing a specific threshold, despite the continuous nature of
   reality, affecting decision-making and perception.
 new_schema: true
+Topic:
+  - '[[Simplification and Categorization]]'
+  - '[[Decision Traps and Biases]]'
+Origin: null
+URL: 'https://share.snipd.com/episode/e79d3150-a899-4c1f-b9d7-29526012010f'
 draft: false
 SiteProcssed: true
 ---
@@ -45,9 +50,3 @@ Turning 30 is much more meaningful than being 29 and 11 months. We would surely 
 
 ## Visual
 
-
-## Overview
-🔼Topic:: [Simplification and Categorization](/notes/simplification-and-categorization.md)
-🔼Topic:: [Decision Traps and Biases](/notes/decision-traps-and-biases.md)
-↩️Origin::
-🔗Link:: [Link]([https://share.snipd.com/episode/e79d3150-a899-4c1f-b9d7-29526012010f](https://share.snipd.com/episode/e79d3150-a899-4c1f-b9d7-29526012010f))

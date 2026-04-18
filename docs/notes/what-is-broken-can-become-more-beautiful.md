@@ -1,8 +1,8 @@
 ---
 UUID: 20230422094155
 Created: '2023-04-22 09:41'
-Modified: '2026-04-08 13:48'
-Version: 2
+Modified: '2026-04-11 22:29'
+Version: 3
 tags: []
 aliases:
   - kintsugi
@@ -10,6 +10,10 @@ Description: >-
   A Japanese art form that emphasizes the beauty of repairing broken objects
   with gold, symbolizing resilience and the acceptance of imperfections in life.
 new_schema: true
+Topic:
+  - '[[Growth Through Adversity]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -42,8 +46,3 @@ Life is a path, both creation and destruction. Nothing is fixed in time [Identit
 
 ### Open questions
 
-
-## Overview
-🔼Topic:: [Growth Through Adversity](/notes/growth-through-adversity.md)
-◀Origin::
-🔗Link:: 

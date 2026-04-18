@@ -1,13 +1,13 @@
 ---
 UUID: 20250226165004
 Created: '2025-02-26 16:50'
-Modified: '2026-04-10 13:47'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Filtering is choosing what to consume before distilling it.png]]'
 ImageText: Dirty water moving through a filter and come out as clean water
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Filtering
 new_schema: true
+Topic:
+  - '[[Knowledge Structure and Transfer]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,7 +54,3 @@ If we are not careful, we might be overwhelmed with [Noise obscures truth with e
 ## Visual
 
 ![Filtering is choosing what to consume before distilling it](/notes/filtering-is-choosing-what-to-consume-before-distilling-it.webp)
-## Overview
-🔼Topic:: [Knowledge Structure and Transfer](/notes/knowledge-structure-and-transfer.md)
-↩️Origin::
-🔗Link::

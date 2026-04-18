@@ -1,13 +1,13 @@
 ---
 UUID: 20220715053855
 Created: '2022-07-15 05:38'
-Modified: '2026-04-09 17:25'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Active engagement turns information into knowledge.png]]'
 ImageText: A metal bar and a wood log are converted into a hammer
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Engagement
 new_schema: true
+Topic:
+  - '[[Active Learning and Deep Encoding]]'
+Origin: '[[Linking your Thinking]]'
+URL: 'https://www.youtube.com/watch?v=q0Pf6ZePNGc'
 draft: false
 SiteProcssed: true
 ---
@@ -54,11 +58,3 @@ This involves usually 5 steps to each note:
 ## Visual
 
 ![Active engagement turns information into knowledge](/notes/active-engagement-turns-information-into-knowledge.webp)
-
-## Overview
-🔼Topic:: [Active Learning and Deep Encoding](/notes/active-learning-and-deep-encoding.md)
-🔼Topic:: [Active Learning and Deep Encoding](/notes/active-learning-and-deep-encoding.md)
-◀Origin:: [Linking your Thinking](/notes/linking-your-thinking.md)
-🔗Link:: [Source](https://www.youtube.com/watch?v=q0Pf6ZePNGc)
-
-

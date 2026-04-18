@@ -1,12 +1,12 @@
 ---
 UUID: 20240322072430
 Created: '2024-03-22 07:24'
-Modified: '2026-04-09 16:57'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Belief alone can produce real effects.png]]'
 ImageText: 'A mind with a judge''s mallet, deciding whether something is real or fake'
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
 aliases:
   - Placebo effect
 new_schema: true
+Topic:
+  - '[[Value and Meaning]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,9 +52,3 @@ It originated from medicine, where test subjects received a fake pill that was s
 ## Visual
 
 ![Belief alone can produce real effects](/notes/belief-alone-can-produce-real-effects.webp)
-
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-↩️Origin::
-🔗Link::
-

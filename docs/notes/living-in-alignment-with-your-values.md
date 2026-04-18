@@ -1,13 +1,13 @@
 ---
 UUID: 20241128141655
 Created: '2024-11-28 14:16'
-Modified: '2026-04-02 09:17'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Integrity
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   self-awareness, though excessive integrity may hinder adaptability and
   appreciation for diverse perspectives.
 new_schema: true
+Topic:
+  - '[[Authenticity and Values]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,9 +50,3 @@ However, too much integrity might lead to a lack of [Flexability](/notes/our-bel
 ## Visual
 
 ![Integrity](/notes/integrity.webp)
-
-## Overview
-🔼Topic:: [Authenticity and Values](/notes/authenticity-and-values.md)
-↩️Origin::
-🔗Link::
-

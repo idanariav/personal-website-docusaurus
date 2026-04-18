@@ -1,19 +1,23 @@
 ---
 UUID: 20240510111644
 Created: '2024-05-10 11:16'
-Modified: '2025-06-05 02:27'
+Modified: '2026-04-13 06:14'
 tags: []
 Author:
   - '[[Rangan Chatterjee]]'
 Genre: Health & Fitness
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 278
 Rate: 4
 PublishDate: 2018-05-01T00:00:00.000Z
@@ -21,19 +25,29 @@ FinishDate: 2024-05-16T00:00:00.000Z
 Cover: >-
   http://books.google.com/books/content?id=fekzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/36204102-how-to-make-disease-disappear'
+Description: >-
+  It argues that health is primarily influenced by our environment and habits
+  rather than genetics. xThe focus should shift from treating symptoms to
+  addressing root causes. Key strategies include managing stress, improving
+  diet, increasing physical activity, and prioritizing sleep to enhance overall
+  wellbeing and prevent chronic diseases.
+FullTitle: How to Make Disease Disappear
+StartDate: 2024-05-011
+ASIN: B075CJVPMX
+Reread: 0
+Topic:
+  - '[[Health (Map)]]'
+  - '[[Wellbeing (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # How to Make Disease Disappear
 
-## 🔗Connect
-🔼Topic:: [health (Map)](/mocs/health-map.md)
-🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Health is mostly environment** - it is what we do, rather than our genes that dictate our health. By maintaining healthy habits at four main pillars we can keep most of the chronical diseases at bay while improving our health, our wellbeing and our happiness
 2. **Modern medicine focus too much on symptoms** - Instead of addressing the main cause of a disease, we try to solve each problem individually, or even just reduce it's symptoms. Focusing on symptoms is a lost, expensive pursuit that hurts our quality of life. However, the human body is an holistic system, which is a disadvantage when we look narrowly at one problem, but an advantage when we try to heal it holistically. For example, good sleep can reduce many health problems.
@@ -60,11 +74,10 @@ SiteProcssed: true
 	3. Have a bedtime routine - try to fall asleep and wake up at the same time
 	4. No stress before bed - avoid any emotionally stressful content - work, tasks, social media before going to sleep
 	5. No caffeine after lunch
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
 
 ✅ *by following this method, what will happen?*
 1. **Better health** - By focusing on prevention and healthy lifestyles, you can improve your health dramatically and keep many diseases at bay without the need for medications or external interventions, while being more aligned with how your body operates.
@@ -74,20 +87,20 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 I do like this book very much, although it is thin in theory but rich in substance. What I don't like is his egoistical statements at the beginning and ending of the book, like "I just cured type 2 diabetes", or "I can get rid of all chronical diseases". Have some humility and remember that it's us who cure us by being healthy.
 
-### 🖼️Outline
+### Outline
 
-![How to Make Disease Disappear (book).webp](/books/how-to-make-disease-disappear-book.webp)
+![How to Make Disease Disappear (book)](/books/how-to-make-disease-disappear-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-**The problem with modern medicine is that they focus too much on the symptoms and not on the root cause**. Since the human body is an "holistic" system, we can have many potential chronic conditions stemming from the same problem, so instead of trying to fix each one individually, we can recognize four main pillars that when cared for, they will keep us healthy and prevent [Prevention](/notes/prevention.md) many potential diseases, while fighting the symptoms is not only a lost cause, it's also much more damaging to our health, our wellbeing, and our life.
+**The problem with modern medicine is that they focus too much on the symptoms and not on the root cause**. Since the human body is an "holistic" system, we can have many potential chronic conditions stemming from the same problem, so instead of trying to fix each one individually, we can recognize four main pillars that when cared for, they will keep us healthy and prevent [Handle problems while they are still small](/notes/handle-problems-while-they-are-still-small.md) many potential diseases, while fighting the symptoms is not only a lost cause, it's also much more damaging to our health, our wellbeing, and our life.
 
 Those pillars are:
 1. Diet
@@ -97,7 +110,7 @@ Those pillars are:
 
 ### Relax
 
-[Stress](/notes/stress.md) is perhaps one of the most harmful aspects of modern life, leading to many complications.
+[Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) is perhaps one of the most harmful aspects of modern life, leading to many complications.
 
   Stress is useful in the short term, but having constant feelings of stress is harmful to you. The body is overwhelmed with cortisol that puts you in a "fight or flight" response, and diverts all resources to handle the "threat". That means less resources to thinking, to digesting, only to automated reactions. It causes heightened responses of the immune system, often causing inflammation throughout the body.
 
@@ -127,19 +140,19 @@ Examples:
 #### Screen Free Sabbath
 **One day a week, turn off your screens and live offline**
 
-We have become [addicted](/notes/addiction.md) to our smartphones, when social media is usually to blame [Attention Economy](/notes/attention-economy.md). Our social urge to compare ourselves to others is intensified when everyone displays a false image of their lives [Image vs core](/notes/form-vs-essence.md), along with being extremely hostile with the protection of anonymity.
+We have become [addicted](/notes/addiction-is-escapism-that-destroys-self-control.md) to our smartphones, when social media is usually to blame [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md). Our social urge to compare ourselves to others is intensified when everyone displays a false image of their lives [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md), along with being extremely hostile with the protection of anonymity.
 
-To reduce this stress, we need to stick with digital [Minimalism](/notes/addition-by-subtraction.md). To have at least an hour before going to sleep and after waking up without screens. To try interact as little as possible with your phone, perhaps shutting down notification, and try having one day a week without screens.
+To reduce this stress, we need to stick with digital [Minimalism](/notes/improvement-often-comes-from-removing-rather-than-adding.md). To have at least an hour before going to sleep and after waking up without screens. To try interact as little as possible with your phone, perhaps shutting down notification, and try having one day a week without screens.
 
 #### Keep a Gratitude Journal
 **Write 3 things you are grateful for daily**
 
-Expressing [Gratitude](/notes/gratitude.md) hones our mind towards [Optimism](/notes/optimism.md) and greatly improves our quality of life. Have a gratitude journal where you write good things that happened to you or good things you have done to others
+Expressing [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md) hones our mind towards [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) and greatly improves our quality of life. Have a gratitude journal where you write good things that happened to you or good things you have done to others
 
 #### Practice Stillness
 **Find at least 5 minutes for stillness a day**
 
-Practicing [mindfulness](/notes/intentionality.md) is a good way to reduce stress and achieve flow. Mindfulness can be anything from meditation, to tai-chi, to listen to music. The most important is to be immersed in the experience.
+Practicing [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) is a good way to reduce stress and achieve flow. Mindfulness can be anything from meditation, to tai-chi, to listen to music. The most important is to be immersed in the experience.
 
 You can try the 3-4-5 breathing exercise. Breath in for three, hold for four, and release for five.
 
@@ -153,7 +166,7 @@ You can try the 3-4-5 breathing exercise. Breath in for three, hold for four, an
 #### Reclaim Your Dining Table
 **Have one meal a day, preferably with company, around a table and without screens**
 
-[Loneliness](/notes/loneliness.md) can eat you away every day, and to combat that, we need more shared time together. Instead of eating in front of the TV, we can eat together and talk in the meantime.
+[Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md) can eat you away every day, and to combat that, we need more shared time together. Instead of eating in front of the TV, we can eat together and talk in the meantime.
 
 ### Eat
 
@@ -296,7 +309,7 @@ Key exercises for activating our glutes:
 
 ### Sleep
 
-We are all [Sleep](/notes/sleep.md) deprived, and this is one of the most harmful things we can do to our bodies, even more harmful than being drunk. The problem gets worse when we see that we can't "pay back" our sleep in our days off, sleeping extra on the weekend is not enough to compensate for the lack of sleep during the week.
+We are all [Sleep is essential for cognitive function and peak performance](/notes/sleep-is-essential-for-cognitive-function-and-peak-performance.md) deprived, and this is one of the most harmful things we can do to our bodies, even more harmful than being drunk. The problem gets worse when we see that we can't "pay back" our sleep in our days off, sleeping extra on the weekend is not enough to compensate for the lack of sleep during the week.
 
 To understand whether you sleep well is less about the length as it is about the quality, to see if you sleep well, ask yourself:
 1. do you feel refreshed when waking up?

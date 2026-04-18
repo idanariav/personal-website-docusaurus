@@ -1,13 +1,13 @@
 ---
 UUID: 20230418184517
 Created: '2023-04-18 18:45'
-Modified: '2026-04-10 10:24'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Mental Shortcuts
   - Analogies
@@ -17,6 +17,11 @@ Description: >-
   existing knowledge through analogies, thereby reducing cognitive load and
   enhancing the mastery of new concepts.
 new_schema: true
+Topic:
+  - '[[Working Memory and Cognitive Limits]]'
+  - '[[Simplification and Categorization]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,9 +61,3 @@ The more we expose ourselves to a [Range](/notes/breath-beats-depth.md) of diffe
 ## Visual
 
 ![Mental Shortcuts](/notes/mental-shortcuts.webp)
-## Overview
-🔼Topic:: [Working Memory and Cognitive Limits](/notes/working-memory-and-cognitive-limits.md)
-🔼Topic:: [Simplification and Categorization](/notes/simplification-and-categorization.md)
-◀Origin::
-🔗Link::
-

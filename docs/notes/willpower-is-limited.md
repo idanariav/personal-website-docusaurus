@@ -1,13 +1,13 @@
 ---
 UUID: 20230407074751
 Created: '2023-04-07 07:47'
-Modified: '2026-04-08 13:59'
+Modified: '2026-04-11 22:30'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Decision fatigue
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   can lead to poor decision-making; thus, it should be used wisely and
   supplemented by environmental shaping and habit formation.
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -29,7 +33,7 @@ If you are fighting yourself, there is only one possible outcome—you will lose
 
 ### Explanation
 
-Sure, there are situations in which we can just "power through", and [force](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) our way into acting the way we want to, but science has proven time and again that there is a limit to that. Willpower has a [limited](/notes/scarcity-forces-prioritization-when-resources-are-limited.md) storage, so we should use it with care. Additionally, once we run out of willpower, all hell breaks loose, and we can't be sure which [Temptations](/notes/distraction.md) we might fall into [Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md).
+Sure, there are situations in which we can just "power through", and [force](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) our way into acting the way we want to, but science has proven time and again that there is a limit to that. Willpower has a [limited](/notes/scarcity-forces-prioritization-when-resources-are-limited.md) storage, so we should use it with care. Additionally, once we run out of willpower, all hell breaks loose, and we can't be sure which [Temptations](/notes/distractions-pull-us-towards-them-as-a-temptation.md) we might fall into [Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md).
 
 ### Why it matters
 
@@ -57,9 +61,3 @@ Instead of relying on willpower, we can:
 ## Visual
 
 ![Willpower is Limited](/notes/willpower-is-limited.webp)
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-◀Origin::
-🔗Link::
-

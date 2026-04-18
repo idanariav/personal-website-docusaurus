@@ -1,8 +1,8 @@
 ---
 UUID: 20240219082927
 Created: '2024-02-19 08:29'
-Modified: '2026-04-10 11:21'
-Version: 2
+Modified: '2026-04-11 22:24'
+Version: 3
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
@@ -15,6 +15,10 @@ Description: >-
   they imitate, often obscured from awareness, requiring time and training to
   identify within the "world of ideals."
 new_schema: true
+Topic:
+  - '[[Ontological Theories]]'
+Origin: '[[Plato (philosopher)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,8 +54,3 @@ For example, when we talk about justice, then there is a perfect definition of j
 ## Visual
 
 ![Idealism](/notes/idealism.webp)
-
-## Overview
-🔼Topic:: [Ontological Theories](/notes/ontological-theories.md)
-↩️Origin:: [Plato (philosopher)](/notes/plato-philosopher.md)
-🔗Link:: 

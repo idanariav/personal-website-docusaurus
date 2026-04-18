@@ -1,13 +1,13 @@
 ---
 UUID: 20240106080813
 Created: '2024-01-06 08:08'
-Modified: '2026-04-09 09:51'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Finding your unique strength creates sustainable advantage.png]]'
 ImageText: >-
   Two bar charts showing John's strengths in apples versus Adam's balanced
@@ -20,6 +20,10 @@ aliases:
   - Competitive Advantage
   - Competitive Advantage
 new_schema: true
+Topic:
+  - '[[Market Dynamics and Competition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -57,9 +61,3 @@ If someone is either able to produce 5 oranges or 5 apples, and you are capable 
 ## Visual
 
 ![Finding your unique strength creates sustainable advantage](/notes/finding-your-unique-strength-creates-sustainable-advantage.webp)
-
-## Overview
-🔼Topic:: [Market Dynamics and Competition](/notes/market-dynamics-and-competition.md)
-↩️Origin::
-🔗Link::
-

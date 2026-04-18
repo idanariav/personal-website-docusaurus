@@ -1,19 +1,23 @@
 ---
 UUID: 20240220081217
 Created: '2024-02-20 08:12'
-Modified: '2026-04-09 17:01'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases: null
 Description: >-
   The concept that purpose in life is not innate but must be actively defined
   and cultivated through introspection and personal authenticity, acknowledging
   its potential evolution over time.
 new_schema: true
+Topic:
+  - '[[Value and Meaning]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ It is okay to not be sure about your purpose even after you have decided it, sin
 ## Visual
 
 ![Meaning is Crafted](/notes/meaning-is-crafted.webp)
-
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-↩️Origin::
-🔗Link::
-

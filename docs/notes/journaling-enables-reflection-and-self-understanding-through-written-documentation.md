@@ -1,13 +1,13 @@
 ---
 UUID: 20240502101951
 Created: '2024-05-02 10:19'
-Modified: '2026-04-05 21:51'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Journaling
 Description: >-
@@ -15,6 +15,11 @@ Description: >-
   enhances self-understanding and memory retention through reflection and
   cognitive distancing.
 new_schema: true
+Topic:
+  - '[[Self-Tracking and Reflection]]'
+  - '[[Writing]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -57,10 +62,3 @@ It can also be done on different levels across time, for example to track your e
 ## Visual
 
 ![Journaling](/notes/journaling.webp)
-
-## Overview
-🔼Topic:: [Self-Tracking and Reflection](/notes/self-tracking-and-reflection.md)
-🔼Topic:: [Writing](/notes/writing.md)
-↩️Origin::
-🔗Link::
-

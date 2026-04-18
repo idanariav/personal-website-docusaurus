@@ -1,13 +1,13 @@
 ---
 UUID: 20240106215414
 Created: '2024-01-06 21:54'
-Modified: '2026-04-08 17:15'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Optimal outcomes emerge from balance between extremes not absolutes.png]]'
 ImageText: 'hydrated plant in the middle, and dehydrated plants at the edges'
 Description: >-
@@ -19,6 +19,10 @@ aliases:
   - Homeostasis
   - Moderation
 new_schema: true
+Topic:
+  - '[[Virtuous Disposition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,8 +59,3 @@ At the personal level, moderation means to seek out the [Achieving internal harm
 ## Visual
 
 ![Optimal outcomes emerge from balance between extremes not absolutes](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.webp)
-
-## Overview
-🔼Topic:: [Virtuous Disposition](/notes/virtuous-disposition.md)
-↩️Origin::
-🔗Link::

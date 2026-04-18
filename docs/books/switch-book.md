@@ -1,27 +1,43 @@
 ---
 UUID: 20220704183904
 Created: '2022-07-04 18:39'
-Modified: '2024-10-14 07:07'
+Modified: '2026-04-13 06:18'
 tags: []
+FullTitle: Switch - How to Change Things When Change Is Hard
+Description: >-
+  It argues that lasting change requires a balance of guiding the rational
+  "rider," inspiring the emotional "elephant," and creating an environment that
+  facilitates the right choices through strategic design and nudges.
 Author:
   - '[[Chip Heath]]'
   - '[[Dan Heath]]'
+URL: 'https://www.goodreads.com/book/show/8140252-switch'
+Cover: >-
+  http://books.google.com/books/content?id=XmzbeoN-KZ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Self-Help
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B0030DHPGQ
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 305
+Reread: 0
 Rate: 3
 PublishDate: 2011-10-31T00:00:00.000Z
+StartDate: 2022-04-20T00:00:00.000Z
 FinishDate: 2022-04-25T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=XmzbeoN-KZ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/8140252-switch'
+Image: null
+aliases: ''
+Topic:
+  - '[[Change (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -31,21 +47,30 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [Change (Map)](/mocs/change-map.md)
-
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Lasting change must include the elephant, rider and path** - Lasting, meaningful change comes from a combination of directing the rational "rider" in our brains (rationality and knowledge), motivating the emotional "elephant" (identity and community) and designing an environment that makes it easier to take the right path (nudges).
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 There's not a lot to take from this book. Its mainly a collection of examples.
 The only thing I took is "**Focus on what works**". When you try and make a change, first see if there are areas that already work properly. Instead of focusing on what's broken and looking for a solution, take what's already working and try to expand/imitate that. The advantages are that its something proven, possible, and easy to reengineer, than trying to come up with a possible solutions out of infinite possibilities.
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Direct the Rider** - define a crystal‑clear, concrete goal (e.g., "workout 40 minutes twice a week") and back it with a behavioral script.
+2. **Find the Bright Spots** - identify what’s already working and replicate or expand those successful examples.
+3. **Script the Critical Moves** - translate ambiguous goals into specific "when X happens, do Y" instructions to avoid decision paralysis.
+4. **Point to the Destination** - create a clear destination postcard (specific outcome) and pair it with the immediate next behavioral steps.
+5. **Motivate the Elephant** - evoke the emotional reasons to change by helping people see and feel the new identity or outcome, not just giving more information.
+6. **Find the Feeling** - use positive emotions and empathy to broaden creativity and generate internal motivation for the change.
+7. **Shrink the Change / Make Small Wins** - break the journey into meaningful, immediately reachable milestones and make progress visible to generate momentum.
+8. **Build the Team / Grow People** - foster a growth‑mindset, treat setbacks as learning, and coach people to adopt the identity tied to the change.
+9. **Design the Path** - change the situation and environment so the desired behavior is easier; test how surroundings push behavior and adjust accordingly.
+10. **Create Triggers and a Herd** - establish clear triggers ("when X, do Y") and build or join social groups where the target behavior is the accepted norm.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 The simplistic theory rings true about how changes and habits form.
@@ -54,23 +79,23 @@ The simplistic theory rings true about how changes and habits form.
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The theme of this book is a million examples analyzed through the terminology of "rider, elephant, path". While at the beginning its nice and the mental frame is interesting, in time it gets repetitive. While they do go deep and connect between theory and content, the bottom line is understood at line 5, and the rest is redundant.
 
-### 🖼️Outline
+### Outline
 
-![Switch (book).webp](/books/switch-book.webp)
-## 📒 Notes
+![Switch (book)](/books/switch-book.webp)
+## Notes
 
 ### Intro
 
-We all have two main parts in our brain. The emotional and rational side, or system 1 and two. And in this book its the Rider and the Elephant. **We succeed when they are in sync, and fail otherwise.** [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md) [harmonious self](/notes/harmonious-self.md)
+We all have two main parts in our brain. The emotional and rational side, or system 1 and two. And in this book its the Rider and the Elephant. **We succeed when they are in sync, and fail otherwise.** [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md) [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md)
 Change can only be maintained when:
-1. **Direct the rider** - you define a clear goal for the change, for example: "workout 40 minutes twice a week". [Clarity](/notes/clarity.md)
+1. **Direct the rider** - you define a clear goal for the change, for example: "workout 40 minutes twice a week". [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md)
 2. **Motivate the elephant** - approach the emotional side as well. Feel the possible outcomes or the negativity in the status quo.
-3. **Design the path** - create systems and environments that would make maintaining the change easier. [Nudge](/notes/nudge.md)
+3. **Design the path** - create systems and environments that would make maintaining the change easier. [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
 
 :::note[Three Surprises About Change]
 
@@ -91,7 +116,7 @@ Change can only be maintained when:
 
 #### Focus on the Positive
 
-**Instead of focusing on what's broken and looking for a solution, take what's already working and try to expand/imitate that** [Imitation](/notes/imitation.md), The advantages are that its something proven, possible, and easy to reengineer, than trying to come up with a possible solutions out of infinite possibilities.
+**Instead of focusing on what's broken and looking for a solution, take what's already working and try to expand/imitate that** [Imitation internalizes others' behaviors and mental models at varying depths](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md), The advantages are that its something proven, possible, and easy to reengineer, than trying to come up with a possible solutions out of infinite possibilities.
 On a large scale - you want to change the way a village runs - how about consulting with the locals?
 On a personal scale - focus on the positive things in life. For example when a child acts out, don't focus on his tantrum, rather focus on the times he acts well and try to increase that.
 Mainly - don't try to reinvent the wheel.
@@ -108,7 +133,7 @@ Mainly - don't try to reinvent the wheel.
 
 #### Reduce Ambiguity
 
-Make clear, tangible goals and have default rules (when y happens, do x). Otherwise, ambiguity and multiple choices exhaust the rider, which makes the status quo the easiest choice, and the change will fail. [Ambiguity](/notes/ambiguity.md)
+Make clear, tangible goals and have default rules (when y happens, do x). Otherwise, ambiguity and multiple choices exhaust the rider, which makes the status quo the easiest choice, and the change will fail. [Ambiguity is the absence of clarity in values or facts](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.md)
 
 :::note[Script the Critical Moves]
 
@@ -134,7 +159,7 @@ Make clear, tangible goals and have default rules (when y happens, do x). Otherw
 
 #### Change Starts from the Inside.
 
-change comes from our identity, not from new knowledge. Small changes might work using "think-analyze-change", but **deep changes come from "See-Feel-Change". People have to feel the desire to change, a connection with the identity the want to adapt**. [change starts from the inside out](/notes/change-starts-from-the-inside-out.md). Most cases it requires seeing the situation in a different light, through empathy or someone else's viewpoint [Empathy](/notes/empathy.md). Positive emotions will encourage creativity - "when if we could...", while negative emotions hurt creativity [Crowding Out](/notes/crowding-out.md), even if they are good motivators - "if we don't do x, a disaster will happen". We get focused on the negative result, rather than finding a solution.
+change comes from our identity, not from new knowledge. Small changes might work using "think-analyze-change", but **deep changes come from "See-Feel-Change". People have to feel the desire to change, a connection with the identity the want to adapt**. [change starts from the inside out](/notes/change-starts-from-the-inside-out.md). Most cases it requires seeing the situation in a different light, through empathy or someone else's viewpoint [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md). Positive emotions will encourage creativity - "when if we could...", while negative emotions hurt creativity [One activity displaces another when pursued excessively](/notes/one-activity-displaces-another-when-pursued-excessively.md), even if they are good motivators - "if we don't do x, a disaster will happen". We get focused on the negative result, rather than finding a solution.
 **When adding information doesn't lead to change, that means that the change is not blocked by information, rather an identity - which means its an elephant problem**, not a rider.
 
 :::note[Find the Feeling]
@@ -149,7 +174,7 @@ change comes from our identity, not from new knowledge. Small changes might work
 
 #### Make Small Wins.
 
-A longer journey becomes easier if you have small milestones along the way. Show [Gratitude](/notes/gratitude.md) for the progress made, and plan the next line of small wins until you reach the final destination. **A small win creates a positive chain reaction that generates motivation for the next win** (Related:: [Start Small](/notes/start-small.md)
+A longer journey becomes easier if you have small milestones along the way. Show [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md) for the progress made, and plan the next line of small wins until you reach the final destination. **A small win creates a positive chain reaction that generates motivation for the next win** (Related:: [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md)
 
 :::note[Shrink the Change]
 
@@ -162,7 +187,7 @@ A longer journey becomes easier if you have small milestones along the way. Show
 
 #### Build the Team
 
-A change that is counter to an identity will eventually fail. You must develop the identity that corresponds to the change you want to bring. For example, to do more exercises, you must develop an identity of a healthy person. You must maintain a [Growth Mindset](/notes/growth-mindset.md), that mistakes are a natural part of learning and getting better, and the beginning is always the hardest.
+A change that is counter to an identity will eventually fail. You must develop the identity that corresponds to the change you want to bring. For example, to do more exercises, you must develop an identity of a healthy person. You must maintain a [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md), that mistakes are a natural part of learning and getting better, and the beginning is always the hardest.
 
 :::note[Grow Your People]
 
@@ -184,7 +209,7 @@ A change that is counter to an identity will eventually fail. You must develop t
 Behavioral problems usually originate from the environment, which means its usually not a misunderstanding (rider), or lack of motivation (elephant), but rather the cause of the way the environment affects us. **Always test what the environment pushes you do do, and check if it corresponds with your goals**.
 
 Create good habits, especially think about your triggers: "when x happens, I will do Y".
-Its especially helpful to create a "herd", as social creatures we tend to adopt the perceptions of those around us, so find or create the group where what's socially acceptable or desired is the change you want to bring. [peer support](/notes/peer-support.md)
+Its especially helpful to create a "herd", as social creatures we tend to adopt the perceptions of those around us, so find or create the group where what's socially acceptable or desired is the change you want to bring. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
 
 :::note[Tweak the Environment]
 

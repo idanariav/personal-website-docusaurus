@@ -1,13 +1,13 @@
 ---
 UUID: 20231226214924
 Created: '2023-12-26 21:49'
-Modified: '2026-04-09 16:57'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Resonance
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   surroundings, while also highlighting the importance of avoiding negative
   influences to maintain positivity.
 new_schema: true
+Topic:
+  - '[[Value and Meaning]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ Similarly, adjusting ourselves to gratitude, kindness, and [positivity](/notes/o
 ## Visual
 
 ![Resonance](/notes/resonance.webp)
-
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-↩️Origin::
-🔗Link::
-

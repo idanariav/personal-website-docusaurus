@@ -1,13 +1,13 @@
 ---
 UUID: 20250226170310
 Created: '2025-02-26 17:03'
-Modified: '2026-04-08 14:09'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Denial is choosing a false view to avoid painful truths.png]]'
 ImageText: >-
   Rose-tinted glasses showing healthy plants while a wilting plant sits below in
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Denial
 new_schema: true
+Topic:
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ To live in a constant state of denial is the be out of [tune](/notes/resonance-i
 ## Visual
 
 ![Denial is choosing a false view to avoid painful truths](/notes/denial-is-choosing-a-false-view-to-avoid-painful-truths.webp)
-
-## Overview
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-↩️Origin::
-🔗Link::
-

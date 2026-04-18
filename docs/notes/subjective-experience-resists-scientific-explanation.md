@@ -1,8 +1,8 @@
 ---
 UUID: 20230602190125
 Created: '2023-06-02 19:01'
-Modified: '2026-04-09 09:08'
-Version: 2
+Modified: '2026-04-11 22:27'
+Version: 3
 tags: []
 aliases:
   - The hard problem of consciousness
@@ -14,6 +14,10 @@ Description: >-
   The challenge of explaining subjective experiences and the nature of
   consciousness, distinguishing it from observable brain activity and reflexes.
 new_schema: true
+Topic:
+  - '[[Nature and Limits of Knowledge]]'
+Origin: '[[David Chalmers]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,9 +52,3 @@ Is consciousness something that exists in the single neuron (perhaps leads to [C
 ## Visual
 
 ![the hard problem of consciousness](/notes/the-hard-problem-of-consciousness.webp)
-
-## Overview
-🔼Topic:: [Nature and Limits of Knowledge](/notes/nature-and-limits-of-knowledge.md)
-◀Origin:: [David Chalmers](/notes/david-chalmers.md)
-🔗Link:: 
-

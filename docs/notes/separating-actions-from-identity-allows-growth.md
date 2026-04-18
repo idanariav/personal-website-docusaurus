@@ -1,13 +1,13 @@
 ---
 UUID: 20230325084810
 Created: '2023-03-25 08:48'
-Modified: '2026-04-01 14:44'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Separating actions from identity allows growth.png]]'
 ImageText: >-
   Two separate circles labeled Actions and Identity with a dividing line between
@@ -21,6 +21,10 @@ aliases:
   - What we do is not who we are
   - We are not defined by our actions
 new_schema: true
+Topic:
+  - '[[Identity Formation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,8 +60,3 @@ In contrast, constantly seeking for [Actions and physical states unconsciously s
 ## Visual
 
 ![Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.webp)
-
-## Overview
-🔼Topic:: [Identity Formation](/notes/identity-formation.md)
-◀Origin::
-🔗Link::

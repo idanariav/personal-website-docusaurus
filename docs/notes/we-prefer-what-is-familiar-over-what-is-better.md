@@ -1,13 +1,13 @@
 ---
 UUID: 20240720062143
 Created: '2024-07-20 06:21'
-Modified: '2026-04-08 13:32'
+Modified: '2026-04-11 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[We prefer what is familiar over what is better.png]]'
 ImageText: A book vs an e-reader
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
 aliases:
   - Familiarity bias
 new_schema: true
+Topic:
+  - '[[Status Quo and Inertia]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -47,9 +51,3 @@ This is similar to the [We prefer existing situations over alternatives despite 
 ## Visual
 
 ![We prefer what is familiar over what is better](/notes/we-prefer-what-is-familiar-over-what-is-better.webp)
-
-## Overview
-🔼Topic:: [Status Quo and Inertia](/notes/status-quo-and-inertia.md)
-↩️Origin::
-🔗Link::
-

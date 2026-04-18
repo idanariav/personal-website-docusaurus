@@ -1,13 +1,13 @@
 ---
 UUID: 20231231070810
 Created: '2023-12-31 07:08'
-Modified: '2026-04-10 06:11'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Binary thinking reduces complexity to false dichotomies.png]]'
 ImageText: overlapping circles vs isolated circles
 Description: >-
@@ -21,6 +21,11 @@ aliases:
   - Monism
   - Confrontational thinking
 new_schema: true
+Topic:
+  - '[[Simplification and Categorization]]'
+  - '[[Decision Traps and Biases]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -60,10 +65,3 @@ For example, you might reject giving consulting for free because your goal is to
 ## Visual
 
 ![Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.webp)
-
-## Overview
-🔼Topic:: [Simplification and Categorization](/notes/simplification-and-categorization.md)
-🔼Topic:: [Decision Traps and Biases](/notes/decision-traps-and-biases.md)
-↩️Origin::
-🔗Link::
-

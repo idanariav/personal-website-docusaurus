@@ -22,7 +22,7 @@ SiteProcssed: true
 **Ever feel like you're losing sight of who you are?**  
 As time passes, even our values and sense of identity can fade into the background. Journaling helps us stay grounded, connecting past, present, and future into a clear, cohesive story. Here's why making it a habit can save you from future identity crises.
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Confused? So am I
 

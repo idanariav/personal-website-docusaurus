@@ -1,13 +1,13 @@
 ---
 UUID: 20221014112915
 Created: '2022-10-14 11:29'
-Modified: '2026-04-06 22:40'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Growth requires balancing the new and the proven.png]]'
 ImageText: 'A book on one side, and a hamburger on the other'
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Exploration vs exploitation
   - navigation vs pathfinding
 new_schema: true
+Topic:
+  - '[[Tradeoffs and Consequences]]'
+Origin: '[[Algorithms to Live By (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,8 +57,3 @@ As a general rule:
 ## Visual
 
 ![Growth requires balancing the new and the proven](/notes/growth-requires-balancing-the-new-and-the-proven.webp)
-
-## Overview
-🔼Topic:: [Tradeoffs and Consequences](/notes/tradeoffs-and-consequences.md)
-◀Origin:: [Algorithms to Live By (book)](/books/algorithms-to-live-by-book.md)
-

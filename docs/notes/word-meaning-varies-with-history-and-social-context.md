@@ -1,13 +1,13 @@
 ---
 UUID: 20230314192646
 Created: '2023-03-14 19:26'
-Modified: '2026-04-10 13:58'
+Modified: '2026-04-11 22:30'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Semantics of words
   - Meaning of words
@@ -16,6 +16,10 @@ Description: >-
   historical meanings and diachronic relationships, illustrating language as a
   dynamic web of interconnected meanings.
 new_schema: true
+Topic:
+  - '[[Language and Meaning]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,10 +56,3 @@ This means that it is very difficult to research a language from a static stable
 ## Visual
 
 ![Semantics of words](/notes/semantics-of-words.webp)
-
-## Overview
-🔼Topic:: [Language and Meaning](/notes/language-and-meaning.md)
-Source:: [Philosophize This!](/notes/philosophize-this.md)
-Source:: [Jacques Derrida](/notes/jacques-derrida.md)
-Link:: https://share.snipd.com/episode/3e9990bc-d918-4fc6-afcd-ae8a9c2c5cec
-

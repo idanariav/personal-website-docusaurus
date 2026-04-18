@@ -1,13 +1,13 @@
 ---
 UUID: 20240206082749
 Created: '2024-02-06 08:27'
-Modified: '2026-04-08 15:22'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[External motivation crowds out intrinsic drive and sustainability.png]]'
 ImageText: A person looking at a hook at the end of a fishing rod
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - External Motivation
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ Most of us work for money, and not for the pleasure of productivity. Status, rec
 ## Visual
 
 ![External motivation crowds out intrinsic drive and sustainability](/notes/external-motivation-crowds-out-intrinsic-drive-and-sustainability.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-↩️Origin::
-🔗Link::
-

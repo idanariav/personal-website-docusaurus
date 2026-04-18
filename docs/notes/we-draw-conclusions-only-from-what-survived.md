@@ -1,13 +1,13 @@
 ---
 UUID: 20230404162112
 Created: '2023-04-04 16:21'
-Modified: '2026-04-08 13:25'
+Modified: '2026-04-11 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Survivors Bias
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   neglecting failures, leading to misguided assumptions, as illustrated by
   misinterpreting data from returning WWII planes.
 new_schema: true
+Topic:
+  - '[[Selective Evidence]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,9 +52,3 @@ But actually, the conclusion should be the complete opposite. By looking at only
 ## Visual
 
 ![Survivors Bias](/notes/survivors-bias.webp)
-
-## Overview
-🔼Topic:: [Selective Evidence](/notes/selective-evidence.md)
-◀Origin::
-🔗Link::
-

@@ -1,7 +1,7 @@
 ---
 UUID: 20220706165513
 Created: '2022-07-06 16:55'
-Modified: '2022-07-06 16:55'
+Modified: '2026-04-13 06:15'
 Author:
   - '[[Robert Greene]]'
 FinishDate: 2022-07-06T00:00:00.000Z
@@ -13,21 +13,28 @@ tags: []
 Fiction: false
 URL: 'https://www.goodreads.com/book/show/18072970-mastery'
 aliases: null
-Version: 1
-ReadingStatus: Read
+Version: 2
+ReadingStatus: Done
 Genre: Self-Help
 Cover: >-
   http://books.google.com/books/content?id=LxZiUSuVIgcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 PublishDate: 2012-11-13T00:00:00.000Z
+Description: >-
+  Tthe path to mastery begins with finding your Life's task, then
+  apprenticeship, to a creative-exploratory stage, and then to mastery, to have
+  full knowledge of the field, to see the whole and to think outside the box
+FullTitle: Mastery
+StartDate: 2022-06-20T00:00:00.000Z
+ASIN: B007V65PBK
+Reread: 0
+Topic:
+  - '[[Success (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
-s
+
 # Mastery (book)
-
-## Connect
-🔼Topic:: [Success (Map)](/mocs/success-map.md)
-
 
 ## 🚀 The Book in 3 Sentences
 
@@ -44,13 +51,13 @@ find your passion, and work as hard as you can to excel at it.
 
 ### ↔️ Relate
 
-💭 How does this topic relate to my life?
+💭 How does this topic relates to my life?
 
 
 ### Critique
 
 ✅ I agree with... the advantages are...
-the author comes from a [will to power](/notes/will-to-power.md) never give up type of thinking, and grit could really bring positive things to your life.
+the author comes from a [The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md) never give up type of thinking, and grit could really bring positive things to your life.
 
 ❌ I disagree with... the disadvantages are...
 the book is cynical towards other people, borderline exploitative and ungrateful. somehow genes and biology are very important to him, which is not at all clear why, since none of our areas to mastery are relevant to who we are as animals.
@@ -67,7 +74,7 @@ none
 ## ✍️ My Top 3 Quotes
 
 - 
-## 📒 Notes
+## Notes
 
 ### Introduction
 Mastery is not achieved through talent or genetic genius. Is it a result of a process of hard work.  
@@ -85,7 +92,7 @@ Finding your calling and achieving mastery is not only the key to help mankind (
   
   
 Connect to your inner voice, don't listen to others or to social norms. By listening to yourself you can compare and see if your correct vacation matches your uniqueness, and you can adjust accordingly until you'll find your true area, and be on the path to mastery.  
-Sounds very Nietzsche to me, like his [Will to Power](/notes/will-to-power.md)
+Sounds very Nietzsche to me, like his [The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md)
 
 
 :::note[INTRODUCTION]

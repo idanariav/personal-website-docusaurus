@@ -1,38 +1,53 @@
 ---
 UUID: 20240101072107
 Created: '2024-01-01 07:21'
-Modified: '2025-04-04 08:37'
+Modified: '2026-04-17 06:38'
 tags: []
+FullTitle: The Happiness Advantage - How a Positive Brain Fuels Success in Work and Life
+Description: >-
+  It argues that success stems from happiness, emphasizing that perspective,
+  mindset, and social connections are crucial for well-being. Key principles
+  include cultivating positivity, setting manageable goals, and leveraging
+  social support to enhance resilience and success. Happiness, therefore, is an
+  internal state that shapes our reality.
 Author:
   - '[[Shawn Achor]]'
+URL: 'https://www.goodreads.com/book/show/9484114-the-happiness-advantage'
+Cover: >-
+  http://books.google.com/books/content?id=6a822zBGfjQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Self-Help
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B003F3PMYI
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 7
 Pages: 258
+Reread: 0
 Rate: 5
 PublishDate: 2011-09-30T00:00:00.000Z
+StartDate: 2024-03-01T00:00:00.000Z
 FinishDate: 2024-03-11T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=6a822zBGfjQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/9484114-the-happiness-advantage'
+Image: null
+aliases: ''
+Topic:
+  - '[[Wellbeing (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Happiness Advantage
 
-## 🔗Connect
-Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Success results from happiness, not the other way around** - Reduced stress, higher productivity and creativity, are all the results of being happy. The "work hard and you'll be happy eventually" is wrong both because happiness is internal, and because success relies on happiness, it can't be achieved without it.
 2. **Happiness is a matter of perspective, not circumstances**
@@ -44,11 +59,11 @@ Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
 	5. *The zorro circle* - Recognize what is within your control and what isn't. This will provide clarity and focus. Be aware that the initial circle is usually small. So start with small manageable goals and as your skill develops, it will expand with time.
 	6. *The 20 seconds rule* - we can't "willpower" our way to good behavior. The key is to use habit formation in our favor. To reduce friction, set good defaults, and design the environment to support good habits, and make bad habits harder.
 	7. *Social investment* - invest more in the greatest predictors of happiness, emotional resilience and success, our social support network. You are not alone. It is precisely in the difficult moments that you should strive to get closer to others, not isolate yourself.
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 Not just a more successful person, but a happier one. And once you make the change, the effect will ripple to your surroundings.
@@ -58,20 +73,20 @@ Some of the principles are quite similar to one another, but perhaps the overlap
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book is written in an appealing way. It is "down to earth", human, personal. It makes it much more fun, easy and engaging to read. The book is well divided, clear and just at the right length.
-### 🖼️Outline
+### Outline
 
-![The Happiness Advantage (book).webp](/books/the-happiness-advantage-book.webp)
-## 📒 Notes
+![The Happiness Advantage (book)](/books/the-happiness-advantage-book.webp)
+## Notes
 
 ### Part 1 - Positive Psychology at Work
 
 #### Introduction
 
-We tend to think that happiness follows success, that once we have that promotion, get that car, then we will finally be happy [Future disillusionment](/notes/future-disillusionment.md). Not only that that isn't true, that success doesn't bring happiness [Hedonic Treadmill](/notes/hedonic-treadmill.md), but it's also the opposite [Inverse](/notes/reverse-thinking.md). **It is those who are happy that have the motivation and edge to be successful**, to overcome obstacles and seek to improve
+We tend to think that happiness follows success, that once we have that promotion, get that car, then we will finally be happy [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md). Not only that that isn't true, that success doesn't bring happiness [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md), but it's also the opposite [Inverse](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md). **It is those who are happy that have the motivation and edge to be successful**, to overcome obstacles and seek to improve [Happiness precedes and enables success](/notes/happiness-precedes-and-enables-success.md)
 
 This is **the happiness advantage**
 
@@ -84,11 +99,11 @@ This is **the happiness advantage**
 
 #### Discovering the Happiness Advantage
 
-Psychology used to be trapped in the "cult of the average", to seek only what is wrong with people and see how we can restore them "back to normal". The problem is that if we focus on the average, the best case is that we'll get the average. We will miss out those that "there's nothing wrong with them", and explore what brings them to excellence [Best Practice](/notes/imitation.md) [streetlight effect](/notes/streetlight-effect.md).
+Psychology used to be trapped in the "cult of the average", to seek only what is wrong with people and see how we can restore them "back to normal". The problem is that if we focus on the average, the best case is that we'll get the average. We will miss out those that "there's nothing wrong with them", and explore what brings them to excellence [Best Practice](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md) [Focusing on easy metrics blinds us to what matters](/notes/focusing-on-easy-metrics-blinds-us-to-what-matters.md).
 
-We have found out that **our perception of reality has a great influence on reality itself**. [Perception](/notes/subjective-reality.md). It is those who think positively and are grateful for what they have that are able to [Grit](/notes/grit.md) through the difficulties in life, and can detect the opportunities for success and achieve it. **The world belongs to the optimists** [Optimism](/notes/optimism.md) [fake it till you make it](/notes/fake-it-till-you-make-it.md).
+We have found out that **our perception of reality has a great influence on reality itself**. [Perception](/notes/subjective-perception-filters-how-we-see-external-reality.md). It is those who think positively and are grateful for what they have that are able to [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) through the difficulties in life, and can detect the opportunities for success and achieve it. **The world belongs to the optimists** [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md).
 
-Those who think that happiness should be sacrificed in order to achieve success not only fail to achieve it, but are also much more likely to experience [Depression](/notes/depression.md), anxiety, [Stress](/notes/stress.md) and [isolation](/notes/loneliness.md). While it is the opposite, **keeping our brain positive and maintaining social relations is the key not only to happiness but also success**. Heartless grit will only get you down.
+Those who think that happiness should be sacrificed in order to achieve success not only fail to achieve it, but are also much more likely to experience [Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md), anxiety, [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) and [isolation](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md). While it is the opposite, **keeping our brain positive and maintaining social relations is the key not only to happiness but also success**. Heartless grit will only get you down.
 
 The seven principles of positive psychology
 1. **The happiness advantage** - a positive mind has an advantage over a neutral or negative one.
@@ -129,14 +144,14 @@ The power of positive psychology is largely unknown to the world, and it's a sha
 
 #### Change is Possible
 
-One of the most harmful perceptions is that we are fixed[Fixed Mindset](/notes/fixed-mindset.md). **The happiness advantage is based on the assumption that we can change**, otherwise it is completely worthless to those who are currently unhappy.
-Luckily, we can do just that. Thanks to [Neuroplasticity](/notes/neuroplasticity.md), our brain has the ability to adapt and develop based on what we do. **Change is always possible**.
+One of the most harmful perceptions is that we are fixed[Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md). **The happiness advantage is based on the assumption that we can change**, otherwise it is completely worthless to those who are currently unhappy.
+Luckily, we can do just that. Thanks to [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md), our brain has the ability to adapt and develop based on what we do. **Change is always possible**.
 
 ### The Seven Principles
 
 #### The Happiness Advantage
 
-This revelation is similar to the Copernicus reversal. Happiness precedes success, not the result of it. Therefore all **the old models of "work hard and one day you'll enjoy the fruit of your success" are simply false** [Hustle Culture](/notes/hustle-culture.md). Happiness is not a one size fits all, it's very subjective. It usually involves both personal growth, social interaction, fulfilling potential, and enjoyment.
+This revelation is similar to the Copernicus reversal. Happiness precedes success, not the result of it. Therefore all **the old models of "work hard and one day you'll enjoy the fruit of your success" are simply false** [Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md). Happiness is not a one size fits all, it's very subjective. It usually involves both personal growth, social interaction, fulfilling potential, and enjoyment.
 
 Happiness improves our behavior by improving:
 1. Creativity
@@ -146,17 +161,17 @@ Happiness improves our behavior by improving:
 
 To become happier, we don't need a huge win. Even something as small as getting a complement, a gift, taking a walk or watching something funny is enough to trigger the benefits, at least for the short term.
 
-While we will always bounce back to our hedonic treadmill, with time, **we can actually increase our base level such that we'll be happier on average**.
+While we will always bounce back to our hedonic treadmill, with time, **we can actually increase our base level such that we'll be happier on average** [Repeated positive practices raise the happiness baseline over time](/notes/repeated-positive-practices-raise-the-happiness-baseline-over-time.md).
 Some examples to daily things we can do that improve happiness:
-1. [Meditation](/notes/meditation.md)
-2. Look forward to something - have something in the future that you just "can't wait to happen" [Expectations](/notes/expectations.md)
-3. Kindness to others [Giving](/notes/giving.md)
-4. Environmental design that supports positivity - like taking a nature walk, putting photos of your loved ones, etc [Environmental design](/notes/nudge.md)
+1. [Meditation strengthens focus and mindfulness through intentional presence](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md)
+2. Look forward to something - have something in the future that you just "can't wait to happen" [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md)
+3. Kindness to others [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md)
+4. Environmental design that supports positivity - like taking a nature walk, putting photos of your loved ones, etc [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
 5. Exercise [physical activity](/notes/physical-activity.md)
 6. Invest in experiences - instead of buying stuff, go for experiences with those you care about [experiences](/notes/experiences.md)
-7. Do what you're good at - express yourself through your signature strength, your uniqueness [Competitive Advantage](/notes/competitive-advantage.md)
+7. Do what you're good at - express yourself through your signature strength, your uniqueness [Finding your unique strength creates sustainable advantage](/notes/finding-your-unique-strength-creates-sustainable-advantage.md)
 
-At work, **giving praises, time for socializing** and leisure time during work and having home life balance **is not a "nice to have", it is one of the best return on investment you can make** [People First](/notes/people-first.md). Also, the more public it is, the more others see that you care for their happiness, that you spread praises, it creates a "[Ripple effect](/notes/ripple-effect.md) in the organization.
+At work, **giving praises, time for socializing** and leisure time during work and having home life balance **is not a "nice to have", it is one of the best return on investment you can make** [People are the most valuable organizational resource](/notes/people-are-the-most-valuable-organizational-resource.md). Also, the more public it is, the more others see that you care for their happiness, that you spread praises, it creates a "[Actions spread effects across people and time beyond initial cause](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md) in the organization.
 The [losada line](/notes/losada-line.md) says that a company has to have a 3:1 positive to negative interaction in order to be successful.
 
 :::note[THE HAPPINESS ADVANTAGE]
@@ -175,13 +190,13 @@ The [losada line](/notes/losada-line.md) says that a company has to have a 3:1 p
 
 #### The Fulcrum and the Lever
 
-Having the right mindset is like placing a lever in the right place. it functions as a [Multiplier](/notes/multiplier.md) for ourselves, so **instead of just applying more force, we just need to shift the focal point** (our mindset). Since the brains resources are limited, **we have to choose whether to focus on the negative, on fears and doubts, or on positivity, gratitude and self confidence, and this choice is crucial.**
+Having the right mindset is like placing a lever in the right place. it functions as a [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) for ourselves, so **instead of just applying more force, we just need to shift the focal point** (our mindset). Since the brains resources are limited, **we have to choose whether to focus on the negative, on fears and doubts, or on positivity, gratitude and self confidence, and this choice is crucial.**
 
-Mindset has a huge effect on our mental and physical wellbeing. Like a [Placebo effect](/notes/placebo-effect.md), it can cause us to fill younger, improve our health, memory, intelligence, and even reduce symptoms of illness. [Mind-body connection](/notes/mind-body-connection.md). Our expectations of reality are similar in power to reality itself or even more powerful. Only 10% of our happiness is based on external circumstances. [Happiness is an internal state](/notes/happiness-is-an-internal-state.md)
+Mindset has a huge effect on our mental and physical wellbeing. Like a [Belief alone can produce real effects](/notes/belief-alone-can-produce-real-effects.md), it can cause us to fill younger, improve our health, memory, intelligence, and even reduce symptoms of illness. [Physical states and actions unconsciously shape beliefs and behavior](/notes/physical-states-and-actions-unconsciously-shape-beliefs-and-behavior.md). Our expectations of reality are similar in power to reality itself or even more powerful. Only 10% of our happiness is based on external circumstances. [Happiness is an internal state](/notes/happiness-is-an-internal-state.md)
 
-First, we can use this effect for our own wellbeing. For example at work, we can create or find meaning in order to see our daily tasks not as boring, but as part of a whole that supports a higher cause [job crafting](/notes/job-crafting.md). This is what turns a job into a calling. It doesn't matter what you do, which role you have. **Without meaning you will burnout, and only with meaning will you thrive**.
+First, we can use this effect for our own wellbeing. For example at work, we can create or find meaning in order to see our daily tasks not as boring, but as part of a whole that supports a higher cause [Finding meaning in work increases fulfillment and resilience](/notes/finding-meaning-in-work-increases-fulfillment-and-resilience.md). This is what turns a job into a calling. It doesn't matter what you do, which role you have. **Without meaning you will burnout, and only with meaning will you thrive**.
 
-Second, **we can use this power to empower others. Our expectations from others are self fulfilling**. If we see our team as intrinsically motivated, as searching for meaning, as intellectual workers capable of growth and learning, such it will be, and vice versa if we see them as money seeking, lazy, and stupid. Fixed and growth mindset have a huge effect not only on ourselves.
+Second, **we can use this power to empower others. Our expectations from others are self fulfilling**. If we see our team as intrinsically motivated, as searching for meaning, as intellectual workers capable of growth and learning, such it will be, and vice versa if we see them as money seeking, lazy, and stupid. [Expectations of others become self-fulfilling through behavior shaping](/notes/expectations-of-others-become-self-fulfilling-through-behavior-shaping.md) Fixed and growth mindset have a huge effect not only on ourselves.
 
 It is hard to find the border between being delusional and stretching out limits further and further, but currently most of us are stuck within the low esteem end of the scale.
 
@@ -204,16 +219,16 @@ It is hard to find the border between being delusional and stretching out limits
 
 #### The Tetris Effect
 
-What we dedicate time to, is how we see the world For example, a detective that relies on spotting lies, would see the world through the eyes of "is he lying to me? What's his motive?" Suspicion would transform from a tool to a perspective. The problem is that we are bad at compartmentalizing. Perspectives cross contexts such that this detective will constantly question his friends and relatives. A lawyer would look for motives, an athlete would be competitive, and an auditor would look for mistakes. **The border between a helpful perspective in one setting to where it's not useful is thin, and what we do most of the time will be the prevailing perspective.** [you get what you repeat](/notes/you-get-what-you-repeat.md) [What we do is not who we are](/notes/cognitive-distancing.md)
+What we dedicate time to, is how we see the world For example, a detective that relies on spotting lies, would see the world through the eyes of "is he lying to me? What's his motive?" Suspicion would transform from a tool to a perspective. The problem is that we are bad at compartmentalizing. Perspectives cross contexts such that this detective will constantly question his friends and relatives. A lawyer would look for motives, an athlete would be competitive, and an auditor would look for mistakes. **The border between a helpful perspective in one setting to where it's not useful is thin, and what we do most of the time will be the prevailing perspective.** [you get what you repeat](/notes/you-get-what-you-repeat.md) [What we do is not who we are](/notes/separating-actions-from-identity-allows-growth.md)
 
-The harm is **when we focus on the negative, we lose the benefits of the happiness advantage**. We are more prone to stress, failures, and to detach ourselves from others. Once we start to focus on the negative, it becomes all that we see. [Visibility](/notes/visibility.md). It's a vicious cycle that feeds itself. Our brain learns to filter out all that is not what were interested in, so we become more proficient in detecting it. Since reality is somewhat subjective, we might cross the line to assuming or projecting negativity where there's none. It's called unintentional blindness.
+The harm is **when we focus on the negative, we lose the benefits of the happiness advantage**. We are more prone to stress, failures, and to detach ourselves from others. Once we start to focus on the negative, it becomes all that we see. [What matters most is often less visible than what is salient](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md). It's a vicious cycle that feeds itself. Our brain learns to filter out all that is not what were interested in, so we become more proficient in detecting it. Since reality is somewhat subjective, we might cross the line to assuming or projecting negativity where there's none. It's called unintentional blindness.
 
 The name Tetris effect comes from a research about people who played Tetris for a long period of time, and ended up seeing everything as "Tetris shapes", the items in a grocery, the buildings, etc.
 
 What we want to have is the reverse, a positive Tetris effect. To see the good everywhere. Not only it will direct our attention to beneficial things, but also cause us to miss the "bad ones".
 **When we focus on the positive, we become more happy, grateful and optimistic. We are more likely to see opportunities as they rise**.
 
-By practicing [Gratitude](/notes/gratitude.md), we direct our attention towards the good, and with time create a positive Tetris effect
+By practicing [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md), we direct our attention towards the good, and with time create a positive Tetris effect
 
 :::note[THE TETRIS EFFECT]
 
@@ -237,11 +252,11 @@ When we fail, we have three options:
 2. Path around - to be unchanged by it, we stay the same
 3. Path up - to use the obstacle as a stepping stone for becoming better, for learning
 
-Seeing a path up [Post Traumatic Growth](/notes/creative-destruction.md) is not easy, but it is essential. The more we [fail](/notes/failure.md), the better we can get later on, because it gives us information on what works and what doesn't, which dangers might wait for us in the future. **It is those who perceive obstacles as an opportunity for growth that actually manage to grow from those situations**. A moment of crisis is also the easiest moment for change since the status quo is broken anyway, an opportunity which should be used. [Clean Slate](/notes/clean-slate.md)
+Seeing a path up [Post Traumatic Growth](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md) is not easy, but it is essential. The more we [fail](/notes/failure-is-a-necessary-part-of-learning-and-growth.md), the better we can get later on, because it gives us information on what works and what doesn't, which dangers might wait for us in the future. **It is those who perceive obstacles as an opportunity for growth that actually manage to grow from those situations** [Coping trades short-term relief for long-term cost](/notes/coping-trades-short-term-relief-for-long-term-cost.md). A moment of crisis is also the easiest moment for change since the status quo is broken anyway, an opportunity which should be used. [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md)
 
-One of the reasons we fail to see the path up is become we learn to be helpless. Once we fight a situation and lose, our lesson might be that resistance is futile, that there's no point in trying anymore. Even if it is in a completely different context, our [Helplessness](/notes/helplessness.md) might carry from one to the other. From work to personal lives, for relationships to inner conflicts. Helplessness is problematic because it means that even on the cases where our actions could be helpful, we simply don't try, we give up in advance, and believe that the way up just doesn't exist.
+One of the reasons we fail to see the path up is become we learn to be helpless. Once we fight a situation and lose, our lesson might be that resistance is futile, that there's no point in trying anymore. Even if it is in a completely different context, our [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md) might carry from one to the other. From work to personal lives, for relationships to inner conflicts. Helplessness is problematic because it means that even on the cases where our actions could be helpful, we simply don't try, we give up in advance, and believe that the way up just doesn't exist.
 
-To combat helplessness, we need to change our point of reference. Getting shot in the arm can be a great misfortune, or a great fortune if the alternative was to die, to be paralyzed, to see others get hurt too, etc. since our reaction is based on our point of reference, which is completely within our control, this means that the way we perceive the event is also within our control.
+To combat helplessness, we need to change our point of reference. Getting shot in the arm can be a great misfortune, or a great fortune if the alternative was to die, to be paralyzed, to see others get hurt too, etc. since our reaction is based on our point of reference, which is completely within our control, this means that the way we perceive the event is also within our control. [Shifting the reference point reframes the same event as fortune or misfortune](/notes/shifting-the-reference-point-reframes-the-same-event-as-fortune-or-misfortune.md)
 
 Also, remember that whatever we think during the crisis, usually has a smaller and shorter effect on our happiness than we realize. **We are resilient creatures, as long as we maintain the right mindset**.
 
@@ -262,16 +277,16 @@ Also, remember that whatever we think during the crisis, usually has a smaller a
 
 #### Zorro Circle
 
-One way for achieving calm mastery is to focus on "circles of control", to distinguish between what's within our control and what isn't, and do the best we can about the things within our circle. [Acceptance](/notes/acceptance.md)
+One way for achieving calm mastery is to focus on "circles of control", to distinguish between what's within our control and what isn't, and do the best we can about the things within our circle. [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md)
 
-Usually this requires us [System 2](/notes/system-2.md) functions, to be able to clear our own interpretation of what's happening, to postpone any automated response, and clearly analyze the situation. The problem is that even a small amount of stress can trigger [System 1](/notes/system-1.md) and hijack our emotional state (and our behavior).
+Usually this requires us [System 2 enables deliberate analytical thinking for complex problems](/notes/system-2-enables-deliberate-analytical-thinking-for-complex-problems.md) functions, to be able to clear our own interpretation of what's happening, to postpone any automated response, and clearly analyze the situation. The problem is that even a small amount of stress can trigger [Automatic thinking processes drive fast emotional responses](/notes/automatic-thinking-processes-drive-fast-emotional-responses.md) and hijack our emotional state (and our behavior).
 
 To regain control:
-1. **Develop self awareness** - be always aware of your emotional state, what are you feeling and why. [Journaling](/notes/journaling.md) and meditations are a good method for that. [Self-awareness](/notes/self-awareness.md)
+1. **Develop self awareness** - be always aware of your emotional state, what are you feeling and why. [Journaling enables reflection and self-understanding through written documentation](/notes/journaling-enables-reflection-and-self-understanding-through-written-documentation.md) and meditations are a good method for that. [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md)
 2. **Draw the circle** - know what's within your limits and what isn't. This will bring you both calmness about all that's outside of it (because there's nothing you can do), and laser focus on what's inside (because now it's a much smaller circle)
 3. **Expand the circle** - with time, as you develop your skills and mindset, you will realize how your circle of control grows with it
 
-The last point is critical. Developing the circle takes time, which means we should [Start Small](/notes/start-small.md), otherwise the challenge would be too difficult, and we will burnout [Burnout](/notes/burnout.md) become helpless. That's why [Moderation](/notes/balance-extremes.md) is critical. Have a "just right" level of difficulty, and trust that it will push your limits with time.
+The last point is critical. Developing the circle takes time, which means we should [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md), otherwise the challenge would be too difficult, and we will burnout [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md) become helpless. That's why [Moderation](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md) is critical. Have a "just right" level of difficulty, and trust that it will push your limits with time.
 
 :::note[THE ZORRO CIRCLE]
 
@@ -287,9 +302,9 @@ The last point is critical. Developing the circle takes time, which means we sho
 
 #### The 20 Seconds Rule
 
-Knowing what to do is not the same as doing it [Insight Gap](/notes/akrasia.md). Something causes us to maintain old behavior despite knowing better. The answer is habits. Our brain learns to automate repeated behavior, so **once something has been transformed into a habit, it's hard to change back**. One way that doesn't work is to try to "willpower" our way out of a habit. Because [Willpower is Limited](/notes/willpower-is-limited.md), any change would fail quickly and we will resort back to the path of least resistance.
+Knowing what to do is not the same as doing it [Insight Gap](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md). Something causes us to maintain old behavior despite knowing better. The answer is habits. Our brain learns to automate repeated behavior, so **once something has been transformed into a habit, it's hard to change back** [Repeated actions become automatic through habit formation](/notes/repeated-actions-become-automatic-through-habit-formation.md). One way that doesn't work is to try to "willpower" our way out of a habit. Because [Willpower is Limited](/notes/willpower-is-limited.md), any change would fail quickly and we will resort back to the path of least resistance.
 
-Unfortunately, nowadays with the rise of the [Attention Economy](/notes/attention-economy.md), [Defaults](/notes/defaults.md) and [Distractions](/notes/procrastination.md) are the path of least resistance, and they are not built to help us, but rather work against us. **The solution is to make the better option easier to do, and the worse one harder**. Basically, the [the 20 seconds rule](/notes/the-20-seconds-rule.md) is about [Friction](/notes/friction.md).
+Unfortunately, nowadays with the rise of the [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md), [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) and [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) are the path of least resistance, and they are not built to help us, but rather work against us. **The solution is to make the better option easier to do, and the worse one harder**. Basically, the [the 20 seconds rule](/notes/the-20-seconds-rule.md) is about [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md).
 
 This is a combination of effort storing, setting good defaults and simplifying the choices by having fewer options. Once we have good habits set in place, good lasting and mostly easy change will come.
 
@@ -311,11 +326,11 @@ This is a combination of effort storing, setting good defaults and simplifying t
 
 #### Social Investment
 
-**Our connections to others is like an oxygen tank for an astronaut, we simply can't live without it**. Social connections not only provide more resilience, happiness and wisdom [peer support](/notes/peer-support.md), it is also helpful for reduced stress. However our default is to isolate ourselves in our times of crisis, we when actually need to do the opposite.
+**Our connections to others is like an oxygen tank for an astronaut, we simply can't live without it**. Social connections not only provide more resilience, happiness and wisdom [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md), it is also helpful for reduced stress. However our default is to isolate ourselves in our times of crisis, we when actually need to do the opposite.
 
 As organizations, it is crucial to focus on people first, this creates trust and connection to your team, and to the company as a whole. **Create spaces, resources and time for people to simply connect, to be humane to one another, to bond**.
 
-To cultivate relationships, express your gratitude, maintain eye contact, use the little moments to say hello and be [invested](/notes/curiosity.md) in their wellbeing. Practice [Active Listening](/notes/active-listening.md), and react in a "positive and active way". For example, when someone says he was promoted, answer "I'm so happy for you, you truly deserve it. When is it going to happen?" Meaning a combination of an emotional reaction and a follow up.
+To cultivate relationships, express your gratitude, maintain eye contact, use the little moments to say hello and be [invested](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md) in their wellbeing. Practice [Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.md), and react in a "positive and active way". For example, when someone says he was promoted, answer "I'm so happy for you, you truly deserve it. When is it going to happen?" Meaning a combination of an emotional reaction and a follow up.
 
 :::note[SOCIAL INVESTMENT]
 
@@ -334,7 +349,7 @@ To cultivate relationships, express your gratitude, maintain eye contact, use th
 
 #### Spreading the Happiness Advantage
 
-Not only that there's a connectedness between all the difference principles, i.e the strengthen and lead to one another, but also a personal change can ripple out to others, bringing a change in them as well. Our [Mirror neurons](/notes/mirroring.md) create the initial spark, that causes an imitation of physical state, and then an emotional state. The more connected we are to others, the greater our influence over them.
+Not only that there's a connectedness between all the difference principles, i.e the strengthen and lead to one another, but also a personal change can ripple out to others, bringing a change in them as well. Our [Mirror neurons](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md) create the initial spark, that causes an imitation of physical state, and then an emotional state. The more connected we are to others, the greater our influence over them.
 
 :::note[SPREADING THE HAPPINESS ADVANTAGE]
 

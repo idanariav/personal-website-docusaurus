@@ -1,19 +1,23 @@
 ---
 UUID: 20240218073540
 Created: '2024-02-18 07:35'
-Modified: '2026-04-09 09:28'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Multiplier
 Description: >-
   A tool or factor that enhances existing habits and behaviors to improve
   effectiveness, often leading to greater efficiency and results over time.
 new_schema: true
+Topic:
+  - '[[Prioritization and Leverage]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ However, the multiplier effect can also have negative consequences. For example,
 ## Visual
 
 ![Multiplier](/notes/multiplier.webp)
-
-## Overview
-🔼Topic:: [Prioritization and Leverage](/notes/prioritization-and-leverage.md)
-↩️Origin::
-🔗Link::
-

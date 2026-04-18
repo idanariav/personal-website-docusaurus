@@ -1,13 +1,13 @@
 ---
 UUID: 20230710192932
 Created: '2023-07-10 19:29'
-Modified: '2026-04-09 08:40'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Mastery
   - expertise
@@ -16,6 +16,10 @@ Description: >-
   complex process involving imitation, filtering, remixing, and refining
   knowledge, often lacking clear benchmarks for achievement.
 new_schema: true
+Topic:
+  - '[[Deliberate Practice and Skill Acquisition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ Often, there is a question whether in order to master we have to solely dedicate
 ## Visual
 
 ![Mastery](/notes/mastery.webp)
-
-## Overview
-🔼Topic:: [Deliberate Practice and Skill Acquisition](/notes/deliberate-practice-and-skill-acquisition.md)
-◀Origin::
-🔗Link::
-

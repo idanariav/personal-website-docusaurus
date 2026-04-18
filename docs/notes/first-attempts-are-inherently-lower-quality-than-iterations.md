@@ -1,13 +1,13 @@
 ---
 UUID: 20231224062420
 Created: '2023-12-24 06:24'
-Modified: '2026-04-09 09:24'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[First attempts are inherently lower quality than iterations.png]]'
 ImageText: 'A series of circle, starting from a very "ugly" one to a perfect circle'
 Description: >-
@@ -17,6 +17,12 @@ Description: >-
 aliases:
   - First Batch Trash
 new_schema: true
+Topic:
+  - '[[Progress emerges through cycles of destruction and reconstruction]]'
+  - '[[Conditions for Creative Thinking]]'
+  - '[[Deliberate Practice and Skill Acquisition]]'
+Origin: '[[Creativity Inc (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,11 +62,3 @@ Being an [expert](/notes/mastery-requires-deliberate-practice-and-hard-work-not-
 ## Visual
 
 ![First attempts are inherently lower quality than iterations](/notes/first-attempts-are-inherently-lower-quality-than-iterations.webp)
-
-## Overview
-🔼Topic:: [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
-🔼Topic:: [Conditions for Creative Thinking](/notes/conditions-for-creative-thinking.md)
-🔼Topic:: [Deliberate Practice and Skill Acquisition](/notes/deliberate-practice-and-skill-acquisition.md)
-↩️Origin:: [Creativity Inc (book)](/books/creativity-inc-book.md)
-🔗Link::
-

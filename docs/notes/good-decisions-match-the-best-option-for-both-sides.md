@@ -1,8 +1,8 @@
 ---
 UUID: 20240507072102
 Created: '2024-05-07 07:21'
-Modified: '2026-04-10 06:12'
-Version: 2
+Modified: '2026-04-11 22:22'
+Version: 3
 tags: []
 excalidraw-plugin: null
 excalidraw-open-md: true
@@ -13,6 +13,11 @@ Description: >-
   party, requiring time, repetition, and trust in achieving a satisfactory
   outcome.
 new_schema: true
+Topic:
+  - '[[Game Theory]]'
+  - '[[Intentional Decision-Making]]'
+Origin: '[[Range (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -45,14 +50,4 @@ For example, finding a partner, a job.
 
 
 ## Visual
-
-
-
-## Overview
-🔼Topic:: [Game Theory](/notes/game-theory.md)
-🔼Topic:: [Intentional Decision-Making](/notes/intentional-decision-making.md)
-↩️Origin:: [Range (book)](/books/range-book.md)
-🔗Link:: 
-
-
 

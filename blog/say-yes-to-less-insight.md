@@ -23,7 +23,7 @@ SiteProcssed: true
 **Feeling overwhelmed and falling short on all fronts?**  
 When everything feels urgent, nothing truly moves forward. This post dives into why doing less strategically can help you do more of what really matters. Let go of guilt, cut the noise, and focus your energy where it counts.
 
-<!-- truncate -->
+{/* truncate */}
 
 ### Overwhelm and Overcommitment
 

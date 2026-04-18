@@ -1,13 +1,13 @@
 ---
 UUID: 20240101083028
 Created: '2024-01-01 08:30'
-Modified: '2026-04-04 10:59'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 5
+Version: 6
 aliases:
   - self worth
   - Confidence
@@ -17,6 +17,10 @@ Description: >-
   overconfidence and imposter syndrome, influencing identity, belonging, and
   overall emotional resilience.
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ Additionally, to discredit ourselves can often lead to [cynicism](/notes/cynicis
 ## Visual
 
 ![Self Worth](/notes/self-worth.webp)
-
-## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-↩️Origin::
-🔗Link::
-

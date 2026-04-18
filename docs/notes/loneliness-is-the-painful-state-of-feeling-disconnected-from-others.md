@@ -1,13 +1,13 @@
 ---
 UUID: 20240409080645
 Created: '2024-04-09 08:06'
-Modified: '2026-04-10 06:20'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Loneliness
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   solitude, arising from the inherent human need for social connection and often
   perceived as a form of escapism.
 new_schema: true
+Topic:
+  - '[[Social Connection and Belonging]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ One requires [Self-awareness reveals mental and emotional states enabling intent
 ## Visual
 
 ![Loneliness](/notes/loneliness.webp)
-
-## Overview
-🔼Topic:: [Social Connection and Belonging](/notes/social-connection-and-belonging.md)
-↩️Origin::
-🔗Link::
-

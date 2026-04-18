@@ -1,13 +1,13 @@
 ---
 UUID: 20231223073425
 Created: '2023-12-23 07:34'
-Modified: '2026-04-09 17:06'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Micro-Management
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   undermining individual decision-making, eroding trust, and ultimately reducing
   productivity and cooperation.
 new_schema: true
+Topic:
+  - '[[Scaffolded Growth]]'
+Origin: '[[Creativity Inc (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,10 +52,3 @@ When we try to micro manage someone, we signal that we don't [Trust enables reli
 ## Visual
 
 ![Micro-Management](/notes/micro-management.webp)
-
-## Overview
-🔼Topic:: [Scaffolded Growth](/notes/scaffolded-growth.md)
-🔼Topic:: [Scaffolded Growth](/notes/scaffolded-growth.md)
-Origin:: [Creativity Inc (book)](/books/creativity-inc-book.md)
-🔗Link::
-

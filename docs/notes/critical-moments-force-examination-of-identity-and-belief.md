@@ -1,12 +1,12 @@
 ---
 UUID: 20230824072647
 Created: '2023-08-24 07:26'
-Modified: '2026-04-06 18:56'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Critical moments force examination of identity and belief.png]]'
 ImageText: >-
   A face looking at a broken mirror, showing different personalities reflecting
@@ -18,6 +18,10 @@ Description: >-
 aliases:
   - Identity Discovery
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,8 +56,3 @@ Usually, a conflicting narrative is very harmful to our sense of self. So more l
 ## Visual
 
 ![Critical moments force examination of identity and belief](/notes/critical-moments-force-examination-of-identity-and-belief.webp)
-## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-Source:: [The Knowledge Project with Shane Parrish](/notes/the-knowledge-project-with-shane-parrish.md)
-Link:: https://share.snipd.com/episode/4b1b0998-cd25-456c-9522-e14d44f143ba
-

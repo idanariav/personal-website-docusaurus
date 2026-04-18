@@ -1,16 +1,16 @@
 ---
 UUID: 20250221172459
 Created: '2025-02-21 17:24'
-Modified: '2025-03-21 10:40'
+Modified: '2026-04-13 06:12'
 tags: []
 Author:
   - '[[Cal Newport]]'
 Genre: Business & Economics
-Stored: kindle
-ReadingStatus: Read
+Stored: Kindle
+ReadingStatus: Done
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 287
 Rate: 2
 PublishDate: 2016-01-05T00:00:00.000Z
@@ -19,6 +19,19 @@ Cover: >-
   http://books.google.com/books/content?id=B_L8CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/25744928-deep-work'
 aliases: []
+Description: >-
+  It argues that deep work is crucial for achieving high levels of learning and
+  productivity in today's economy, contrasting it with shallow work. To maximize
+  deep work, one must safeguard dedicated sessions from distractions, ideally
+  committing to lengthy, uninterrupted periods.
+FullTitle: Deep Work - Rules for Focused Success in a Distracted World
+StartDate: 2025-03-07T00:00:00.000Z
+ASIN: B00X47ZVXM
+Reread: 0
+Topic:
+  - '[[Focused uninterrupted work produces the best results]]'
+  - '[[workflows (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -27,20 +40,29 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Deep Work](/notes/deep-work.md)
-Topic:: [workflows (Map)](/mocs/workflows-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Deep work is essential** - In today's economy, we need to be able to learn hard things and have extraordinary output, both are the result of deep work. This is in contrast with shallow work which is more about signaling that you are productive rather than actually being one. Deep work allows us to be in the zone, to feel meaning and make important contributions.
 2. **Protect your deep work sessions** - Deep work is hard to preserve due to the busyness culture and the forces of social media. Treat your deep work sessions as sacred, isolate yourself physically and technologically. Give yourself as much time as possible, preferably 4 hour long sessions every day, or at least 90 minutes.
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 We will be much more productive and with better positioning as a knowledge worker in our changing economy
-### 🔍Critique
+
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Schedule daily deep work sessions** - block fixed, distraction-free times in your calendar and protect them at all costs for focused cognitive work.
+2. **Choose and commit to a deep-work strategy** - decide whether to adopt full-depth (hermit), seasonal (periodic retreats), or habitual (regular daily blocks) and implement that approach.
+3. **Make a grand gesture to enforce focus** - arrange a costly or high-commitment change (e.g., dedicated retreat or paid space) to force uninterrupted deep work when starting an important project.
+4. **Create hub-and-spoke work routines** - set up shared spaces for collaboration (hub) and private spaces for focused work (spoke); when needed, work in pairs for accountability.
+5. **Track deep-work hours as a lead measure** - record hours spent in deep work (not outputs) to assess consistency and adjust habits.
+6. **Perform a daily shutdown ritual** - review tasks, plan when to complete them tomorrow, and log off work systems to fully clear your mind for rest.
+7. **Schedule deliberate rest and downtime** - plan nature walks or other restorative activities to recharge and allow unconscious problem processing.
+8. **Practice productive meditation** - while walking or exercising, deliberately think through a single hard problem to train sustained concentration.
+9. **Quit or audit social media by alternative cost** - evaluate each network tool against valuable activities; eliminate those whose benefits don’t justify the time lost and replace with higher-value activities.
+10. **Time-block your day and drain shallow work** - allocate specific blocks for shallow tasks (e.g., email) only, respond only to clearly important messages, and treat your schedule as fixed so interruptions must adapt.
+
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. Metric black hole -there's a thousand ways to measure fake productivity, but no way to measure the quality of deep work
@@ -49,7 +71,7 @@ We will be much more productive and with better positioning as a knowledge worke
 
 🧱 *Implementations and limitations of it are...*
 I know how not to do shallow work, for example by avoiding social media and using time blocking, but I don't know how to do deep work
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
@@ -59,13 +81,13 @@ Sometimes it feels like this is a collection of ideas around the theme of deep w
 
 Perhaps this book was revolutionary at the time, but now it's underwhelming. Spending half the book just claiming that deep work is important seems redundant.
 
-### 🖼️Outline
+### Outline
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-Extraordinary results come from periods of interrupted, [focused](/notes/focus.md) work, what he calls *deep work*. It is the only way to maximize our cognitive output and our mental capacity. It requires [solitude](/notes/solitude.md), because one of the forces that has recently been increased is the [Attention Economy](/notes/attention-economy.md) that offers endless [Distractions](/notes/procrastination.md).
+Extraordinary results come from periods of interrupted, [focused](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md) work, what he calls *deep work*. It is the only way to maximize our cognitive output and our mental capacity. It requires [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md), because one of the forces that has recently been increased is the [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md) that offers endless [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md).
 
 Deep work is in contrast with *shallow work*, which is a mindless activity like answering emails or doing routine work.
 
@@ -84,11 +106,11 @@ Nowadays, it's more rare, and therefore more valuable, to be proficient at doing
 
 #### Deep Work is Valuable
 
-Unless you have access to unlimited capital, to succeed [Competitive Advantage](/notes/competitive-advantage.md) in the new economy you must:
-1. **Know how to learn hard things** - it requires a mindset of [Lifelong Learning](/notes/lifelong-learning.md), and it's achieved through uninterrupted focused sessions of [Deliberate Practice](/notes/deliberate-practice.md) without distractions
-2. **Know how to produce quality output** - the longer we spend on a given task without distractions, the higher the output. This is because quickly switching tasks hurts us due to [Attention Residue](/notes/attention-residue.md)
+Unless you have access to unlimited capital, to succeed [Finding your unique strength creates sustainable advantage](/notes/finding-your-unique-strength-creates-sustainable-advantage.md) in the new economy you must:
+1. **Know how to learn hard things** - it requires a mindset of [Learning must continue constantly throughout life](/notes/learning-must-continue-constantly-throughout-life.md), and it's achieved through uninterrupted focused sessions of [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md) without distractions
+2. **Know how to produce quality output** - the longer we spend on a given task without distractions, the higher the output. This is because quickly switching tasks hurts us due to [Unfinished tasks linger in the mind and reduce focus](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md)
 
-Natural [talent](/notes/competence.md) is no longer enough.
+Natural [talent](/notes/competence-is-developed-through-practice-not-innate-talent.md) is no longer enough.
 
 :::note[Deep Work Is Valuable]
 
@@ -101,9 +123,9 @@ Natural [talent](/notes/competence.md) is no longer enough.
 
 #### Deep Work is Rare
 
-In our modern economy, doing deep work has become very rare. We have fallen for the temptation of "connectivity", that to be instantly available to all who's asking is a sign of value. It fails due to the [McNamara Fallacy](/notes/mcnamara-fallacy.md) to notice the true costs of this connectivity. The costs are not [visible](/notes/visibility.md), which makes them easier to accept. It's "easiest" to just reply to emails instead of diving into deep work.
+In our modern economy, doing deep work has become very rare. We have fallen for the temptation of "connectivity", that to be instantly available to all who's asking is a sign of value. It fails due to the [Treating measurable metrics as complete truth hides importance](/notes/treating-measurable-metrics-as-complete-truth-hides-importance.md) to notice the true costs of this connectivity. The costs are not [visible](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md), which makes them easier to accept. It's "easiest" to just reply to emails instead of diving into deep work.
 
-We have replaced productivity with [busyness](/notes/hustle-culture.md), which serves as a [shallow copy](/notes/shallow-copy.md) of it. We measure ourselves in message sent instead of quality work completed [Goodhart’s Law](/notes/goodhart’s-law.md), or at least use it for [Signaling](/notes/signaling.md) our productivity level. This is an old, production line mentality from the [Industrial Revolution](/notes/industrial-revolution.md) when people were not measured by qualitative output or thinking processes, but rather quantitative results.
+We have replaced productivity with [busyness](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md), which serves as a [Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md) of it. We measure ourselves in message sent instead of quality work completed [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md), or at least use it for [Signaling is displaying qualities to appear worthy or successful](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md) our productivity level. This is an old, production line mentality from the [Industrial Revolution](/notes/industrial-revolution.md) when people were not measured by qualitative output or thinking processes, but rather quantitative results.
 
 :::note[Deep Work Is Rare]
 
@@ -116,7 +138,7 @@ We have replaced productivity with [busyness](/notes/hustle-culture.md), which s
 
 We are what we pay attention to. Focusing on shallow work makes us shallow, while focusing on deep work brings meaning.
 
-Similarly, having deep work creates a sense of [Flow](/notes/flow.md) which is useful not only for meaning but also for happiness.
+Similarly, having deep work creates a sense of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md) which is useful not only for meaning but also for happiness.
 
 The common theme is being a craftsperson, to combine yourself with a task so deeply that each supports the other, a connection that creates meaning and happiness in life.
 
@@ -144,13 +166,13 @@ Each method has it's advantages and disadvantages. While the full depth is perha
 
 Regardless of your chosen strategy, you must make deep work sessions a habit. It can't be when "you feel like it". Things will try to overlap with your deep work sessions, make them fixed and protect them at all costs.
 
-Finding out the right settings for you requires [Experimentation](/notes/testing.md).
+Finding out the right settings for you requires [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md).
 
 Other misc suggestions:
-1. **Make a grand gesture** - sometimes to enter a state of deep work, we need a [Clean Slate](/notes/clean-slate.md), and the more expensive "the better". The monetary investment serves as a [Commitment Devices](/notes/commitment-devices.md). For example, renting a 1000$ per night hotel for writing "forces" you to use that time we'll
-2. **Mix with others** - some creativity requires collaboration. Make sure that your space has both options, a hub (like open space) for random encounters, and a spoke for self deep work. When possible, work in pairs, they will serve as your [Accountability](/notes/accountability.md) partner.
-3. **Track lead measure** - instead of focusing on the results, focus on the [process](/notes/trust-the-process.md). For example, track hours spent in deep work, not how much you've written. This will allow you to asses your situation better and correct if necessary, instead of waiting for the results to arrive
-4. **Don't forget to rest** - aside from isolating yourself, it's also important to [Rest](/notes/rest.md), which allows your [downtime brain](/notes/downtime-brain.md) to work on the problem in creative ways while you recharge your energy and ability to focus. Doing a [Nature walk](/notes/nature-walk.md) is a good example for a relaxing activity.
+1. **Make a grand gesture** - sometimes to enter a state of deep work, we need a [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md), and the more expensive "the better". The monetary investment serves as a [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md). For example, renting a 1000$ per night hotel for writing "forces" you to use that time we'll
+2. **Mix with others** - some creativity requires collaboration. Make sure that your space has both options, a hub (like open space) for random encounters, and a spoke for self deep work. When possible, work in pairs, they will serve as your [You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md) partner.
+3. **Track lead measure** - instead of focusing on the results, focus on the [process](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md). For example, track hours spent in deep work, not how much you've written. This will allow you to asses your situation better and correct if necessary, instead of waiting for the results to arrive
+4. **Don't forget to rest** - aside from isolating yourself, it's also important to [Rest enables recovery and sustained performance](/notes/rest-enables-recovery-and-sustained-performance.md), which allows your [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md) to work on the problem in creative ways while you recharge your energy and ability to focus. Doing a [Nature restores mental health and renews focus through immersive presence](/notes/nature-restores-mental-health-and-renews-focus-through-immersive-presence.md) is a good example for a relaxing activity.
 5. **Do a shutdown ritual** - in order to clear our mind so that we could dedicate ourselves to resting, it's important to make a clear distinction as to when the work day ends. You're not likely to be productive in the evening, so every desire to continue to work is a distraction that takes time off the important downtime. Go over your tasks, have a plan when you're going to complete them, have a plan for tomorrow, and log off work stuff like email.
 
 :::note[Work Deeply]
@@ -165,15 +187,15 @@ Other misc suggestions:
 
 Concentration requires practice.
 
-We have to [Inverse](/notes/reverse-thinking.md) how we think about distractions. It's not about setting time to focus as a break from distractions, it's about allowing to be distracted as a break from focus.
+We have to [Inverse](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md) how we think about distractions. It's not about setting time to focus as a break from distractions, it's about allowing to be distracted as a break from focus.
 
-Meaning, our default is to be doing deep work, to train our ability to focus. The rest, either shallow work or distractions is the exception. Use [Chunking](/notes/chunking.md) to create specific "distraction" blocks where you do all the shallow work like checking email, while you stay offline the rest of the time.
+Meaning, our default is to be doing deep work, to train our ability to focus. The rest, either shallow work or distractions is the exception. Use [Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.md) to create specific "distraction" blocks where you do all the shallow work like checking email, while you stay offline the rest of the time.
 
-Make yourself a shorter [deadline](/notes/deadline-effect.md) on purpose to push you to stretch your limits. Often you will discover that you can finish tasks much sooner than expected due to the [Parkinsons Law](/notes/parkinsons-law.md).
+Make yourself a shorter [deadline](/notes/deadlines-force-action-by-adding-consequences.md) on purpose to push you to stretch your limits. Often you will discover that you can finish tasks much sooner than expected due to the [A task takes as much time as you give it](/notes/a-task-takes-as-much-time-as-you-give-it.md).
 
 Do a *productive meditation*, which means being physically active like taking a walk or run while letting your mind continue to think about hard tasks.
 
-Use memory enhancing techniques such as [Memory Palace](/notes/memory-palace.md) because it also enhances your ability to focus
+Use memory enhancing techniques such as [Abstract information is easier to remember spatially](/notes/abstract-information-is-easier-to-remember-spatially.md) because it also enhances your ability to focus
 
 :::note[Embrace Boredom]
 
@@ -184,11 +206,11 @@ Use memory enhancing techniques such as [Memory Palace](/notes/memory-palace.md)
 
 #### Quit Social Media
 
-We treat social media with a very soft rule, that if it gives us *any* value, then it's justified. However, as with any tool, the justification must take also the [Alternative cost](/notes/alternative-cost.md) into account. What are we missing or not doing by spending time on social media?
+We treat social media with a very soft rule, that if it gives us *any* value, then it's justified. However, as with any tool, the justification must take also the [Every choice costs the alternatives you gave up](/notes/every-choice-costs-the-alternatives-you-gave-up.md) into account. What are we missing or not doing by spending time on social media?
 
 The alternative cost should be measured compared to activities that are essential to progressing in your goals.
 
-Think of it as a [Pareto Principle](/notes/pareto-principle.md). A vital few of your activities brings most of the benefits. So it's better to abandon the rest. Usually social media falls within that category.
+Think of it as a [Most benefits come from a small proportion of inputs](/notes/most-benefits-come-from-a-small-proportion-of-inputs.md). A vital few of your activities brings most of the benefits. So it's better to abandon the rest. Usually social media falls within that category.
 
 That time should be replaced with a better alternative. Think of your 16 hours outside work as a brand new day, one that you can use for progress, growth and achievements. You will find out that not only that it doesn't drain your energy, the reverse is true, it will fill you with energy and transform you into a more productive and happy person
 

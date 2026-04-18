@@ -1,19 +1,23 @@
 ---
 UUID: 20220703184558
 Created: '2022-07-03 18:45'
-Modified: '2025-03-22 09:52'
+Modified: '2026-04-13 06:16'
 tags: []
 Author:
   - '[[Chris Voss]]'
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 288
 Rate: 4
 PublishDate: 2016-05-19T00:00:00.000Z
@@ -22,6 +26,18 @@ Cover: >-
   http://books.google.com/books/content?id=TL8CCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/29555865-never-split-the-difference'
 aliases: null
+Description: >-
+  It argues that successful negotiation relies on techniques like anchoring
+  expectations, labeling fears, mirroring language, seeking collaborative
+  solutions, and fostering a sense of control. Ultimately, negotiation is framed
+  as a process of emotional connection rather than mere resource division.
+FullTitle: Never Split the Difference - Negotiating As If Your Life Depended On It
+StartDate: 2022-01-09T00:00:00.000Z
+ASIN: B014DUR7L2
+Reread: 0
+Topic:
+  - '[[Communication (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -30,10 +46,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Anchoring** - set up the expectations in advance or be aware of the other's anchoring methods.
 2. **Labeling** - talk about the other's fear from their point of view, show them you understand their viewpoint
@@ -42,12 +55,25 @@ SiteProcssed: true
 5. **Give them sense of control** - seek out the "no"
 6. **Negotiation is connection** - Negotiation is not solved by rational division of resources in a compromise, but rather a result of the interlocking / merging of world-views through an authentic, emotional, connection.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 You will find better solutions for disagreements instead of frustrating compromises, you will be able to make them help you instead of fight you.
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Listen intensely** - focus totally on the other person, listen actively and empathetically to make them feel understood and get them to disclose more information.
+2. **Mirror the other person’s words** - repeat their last words/phrases, then be silent for at least four seconds to encourage them to open up.
+3. **Label emotions aloud** - name the other side’s feelings using neutral phrases (e.g., "It looks like you feel...") to diffuse negatives and validate positives.
+4. **Perform an accusation audit** - voice and exaggerate likely criticisms or worst-case outcomes up front to reduce their emotional impact.
+5. **Give permission to say “No”** - invite and accept “No” to preserve the counterpart’s autonomy and gather information about their real limits.
+6. **Elicit a “that’s right” response** - summarize the counterpart’s worldview accurately (not argue) until they respond “that’s right,” confirming true understanding.
+7. **Ask calibrated open-ended questions** - use “how” and “what” questions (e.g., “How am I supposed to do that?”) to make them solve implementation and create the illusion of control.
+8. **Anchor strategically** - be first with values or offer ranges (e.g., give a range for salary) and use precise, nonround numbers to set expectations and influence judgments.
+9. **Regulate tone and body language** - adopt a calm, smiling, late-night radio voice, relaxed posture, and controlled nonverbal cues to flip emotional states and build rapport.
+10. **Search for Black Swans and stay curious** - maintain a beginner’s mind, observe words and nonverbal details, and continuously test hypotheses to discover hidden, game-changing information.
+
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -55,22 +81,22 @@ You will find better solutions for disagreements instead of frustrating compromi
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
 Although the book might sometimes be too cynical or hypocrite, in the end the main message lingers with me. The best way to negotiate is through human connection, mutual understanding, emotional intelligence and cooperation. Even if it takes a little bit of "faking it", in the end its still more honest than to treat negotiations as a zero-sum game of rationality.
 
-### 🖼️Outline
+### Outline
 
-![Never Split The Difference (book).webp](/books/never-split-the-difference-book.webp)
-## 📒 Notes
+![Never Split The Difference (book)](/books/never-split-the-difference-book.webp)
+## Notes
 
 ### Intro
 
 **Emotions are not a problem to be solved, it is the solution**. [Negotiation is an act of connection](/notes/negotiation-is-an-act-of-connection.md). Negotiation is never only a rational solution, but rather its affected by desires, preferences, and viewpoints.
 
-Note the tone you are using, your body language, try to be more calm, relax, like a late-at-night radio host. Smile. [non verbal communication](/notes/non-verbal-communication.md)
+Note the tone you are using, your body language, try to be more calm, relax, like a late-at-night radio host. Smile. [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md)
 
 :::note[THE NEW RULES]
 
@@ -86,7 +112,7 @@ Note the tone you are using, your body language, try to be more calm, relax, lik
 
 ### Mirroring
 
-To break the ice, repeat the words the other side is using, this will have to create a sense of empathy, of understanding his emotions. After mirroring, give him a moment of quiet, to let him open up and act. [Mirroring](/notes/mirroring.md)
+To break the ice, repeat the words the other side is using, this will have to create a sense of empathy, of understanding his emotions. After mirroring, give him a moment of quiet, to let him open up and act. [Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md)
 
 :::note[BE A MIRROR]
 
@@ -115,7 +141,7 @@ To break the ice, repeat the words the other side is using, this will have to cr
 1. It looks like you feel that...
 2. It seems that you believe that...
 3. It looks like you don't want that...
-don't say "I think that"... the discussion is not about you. Say as if you're looking at how this situation is perceived "from the outside", from a non-partial viewer. [Labeling](/notes/naming.md)
+don't say "I think that"... the discussion is not about you. Say as if you're looking at how this situation is perceived "from the outside", from a non-partial viewer. [Labeling](/notes/naming-a-phenomenon-gives-us-power-over-it.md)
 
 :::note[DON’T FEEL THEIR PAIN, LABEL IT]
 
@@ -138,7 +164,7 @@ don't say "I think that"... the discussion is not about you. Say as if you're lo
 
 ### Accusation Audit
 
-Similar to labeling, **its useful to prepare your partner in advance for the worst possible outcome** [Accusation audit](/notes/accusation-audit.md), even if it means to exaggerate a little, because then everything that happens will be better than what he expected, and his reactions will be toned down accordingly. It removes any alternative narratives (any other negative arguments, meaning you control the [Narratives](/notes/narratives.md)) and gives a voice to his and your fears about what's going to happen. [Vulnerability](/notes/vulnerability.md).
+Similar to labeling, **its useful to prepare your partner in advance for the worst possible outcome** [Expose your flaws before others discover them](/notes/expose-your-flaws-before-others-discover-them.md), even if it means to exaggerate a little, because then everything that happens will be better than what he expected, and his reactions will be toned down accordingly. It removes any alternative narratives (any other negative arguments, meaning you control the [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md)) and gives a voice to his and your fears about what's going to happen. [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md).
 
 so say things like:
 1. I know that you heard about me x, y, z
@@ -162,11 +188,11 @@ You should be afraid of the word "no", **when your partner says no it gives us a
 
 ### Get to "that's right"
 
-The way to make your partner open up to you is to show him that you understand his worldview. [Active Listening](/notes/active-listening.md). The way to do that is to echo his beliefs, like labeling. We present how to world looks like from his point of view:
+The way to make your partner open up to you is to show him that you understand his worldview. [Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.md). The way to do that is to echo his beliefs, like labeling. We present how to world looks like from his point of view:
 1. it seems that you care about...
 2. It seems that you think that...
 
-its important to distinguish between "that's right" and "you're right", we're not trying to convince the partner with our beliefs, but rather to make him see that we understand his. [Validation](/notes/validation.md).
+its important to distinguish between "that's right" and "you're right", we're not trying to convince the partner with our beliefs, but rather to make him see that we understand his. [Accepting others feelings and perspectives without dismissal](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md).
 
 **"that's right" is a sign of progress, "you're right" is a signal that the conversation is useless**.
 
@@ -183,7 +209,7 @@ its important to distinguish between "that's right" and "you're right", we're no
 ### Anchoring
 
 in continuation of previous notes, **people tend to stick to the first value that they hear**. It's also connected to deadlines that determine our behavior. For example, accusation audit anchors the perception of our partner about the worst possible outcome, or if we are the first to mention a number, this will anchor the partner on the possible value of that item.
-This can help us to bring the partner's worldview closer to ours. Similarly we have to be carful not to fall for the partner's anchoring. [Anchoring](/notes/anchoring.md)
+This can help us to bring the partner's worldview closer to ours. Similarly we have to be carful not to fall for the partner's anchoring. [The first number sets the frame for all that follow](/notes/the-first-number-sets-the-frame-for-all-that-follow.md)
 
 :::note[BEND THEIR REALITY]
 
@@ -205,7 +231,7 @@ This can help us to bring the partner's worldview closer to ours. Similarly we h
 
 ### Create the Illusion of Control
 
-Instead of seeing the negotiation as a power struggle where each side tries to bend and break the other side, treat it as if you are asking for their help [Inverse](/notes/reverse-thinking.md). Let them have a sense of control, these will ease them and use their own sense of grandeur to your benefit. They will do what's in their power to help you, if you ask the right questions.
+Instead of seeing the negotiation as a power struggle where each side tries to bend and break the other side, treat it as if you are asking for their help [Inverse](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md). Let them have a sense of control, these will ease them and use their own sense of grandeur to your benefit. They will do what's in their power to help you, if you ask the right questions.
 
 The calibrated questions, like how, what, or why (they have to be open ended), will help the other side understand your problem through experience, rather than you just telling them, which will cause resistance.
 
@@ -248,7 +274,7 @@ You can also talk about benefits that are cheaper to the employer but expensive 
 ### Let Them Help You
 
 Instead of confronting your partner, you should ask him open ended questions. preferably those which start with "how" or "what", to make him act and use his intelligence to solve your problems.
-For example, if your partner puts you in a tough spot/dilemma, ask him "and how exactly I'm supposed to do that", and let him find a solution. Its even better for egoistic partners who like to feel in control or to demonstrate their intelligence. [Open ended questions](/notes/open-ended-questions.md)
+For example, if your partner puts you in a tough spot/dilemma, ask him "and how exactly I'm supposed to do that", and let him find a solution. Its even better for egoistic partners who like to feel in control or to demonstrate their intelligence. [Open-ended questions enable deeper understanding and meaningful dialogue](/notes/open-ended-questions-enable-deeper-understanding-and-meaningful-dialogue.md)
 
 :::note[GUARANTEE EXECUTION]
 
@@ -268,7 +294,7 @@ For example, if your partner puts you in a tough spot/dilemma, ask him "and how 
 
 ### Find the Black Swan
 
-We have to maintain a [Beginner's Mind](/notes/beginners-mind.md) and avoid [over confidence](/notes/over-confidence.md). We have to remember that we can't read minds [Theory of Mind](/notes/theory-of-mind.md), so we have to constantly be attentive to our partner and pay attention to the details, the words used, and the non verbal communication in order to not be surprised. Forget the end goal, if you focus just on that you will fail. [Trust the Process](/notes/trust-the-process.md). Communicate [Trust](/notes/trust.md) and care for the other side's goals.
+We have to maintain a [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md) and avoid [Overestimating abilities blinds us to genuine risks](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md). We have to remember that we can't read minds [Understanding others requires attributing mental states like beliefs and intentions to them](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md), so we have to constantly be attentive to our partner and pay attention to the details, the words used, and the non verbal communication in order to not be surprised. Forget the end goal, if you focus just on that you will fail. [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md). Communicate [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) and care for the other side's goals.
 
 :::note[FIND THE BLACK SWAN]
 

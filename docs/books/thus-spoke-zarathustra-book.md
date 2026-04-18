@@ -1,40 +1,52 @@
 ---
 UUID: 20231024055519
 Created: '2023-10-24 05:55'
-Modified: '2024-10-26 07:55'
+Modified: '2026-04-13 06:21'
 tags: []
+FullTitle: Thus Spoke Zarathustra
+Description: >-
+  It argues that transcendence involves overcoming external moral codes and
+  internal lies, emphasizing the will to power as essential to life. The "higher
+  man" creates meaning in a world where traditional morality is obsolete,
+  rejecting misguided empathy in favor of fostering strength and creativity.
 Author:
   - '[[Friedrich Nietzsche (philosopher)|Friedrich Nietzsche]]'
+URL: 'https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra'
+Cover: >-
+  http://books.google.com/books/content?id=a9VxKgui0mEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Philosophy
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B0DLSV1BDH
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 327
+Reread: 0
 Rate: 3
 PublishDate: 1883-01-01T00:00:00.000Z
+StartDate: 2023-09-22T00:00:00.000Z
 FinishDate: 2023-10-19T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=a9VxKgui0mEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra'
+Image: null
 aliases: null
+Topic:
+  - '[[Existentialism (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Thus Spoke Zarathustra (book)
 
-## 🔗Connect
-🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Transcendence is a process of overcoming** - both overcoming false external moral codes, such as state and religion who tries to turn us into tools, limit our will to power, make us into a mob of salves, but also internal lies, like succumbing to nihilism, temptations or feelings of mediocrity.
 2. **Will to life** - in every living being there is the desire to overcome, to defeat nature and to prosper, to grow. To be alive is to fulfill your will to power.
@@ -42,11 +54,11 @@ SiteProcssed: true
 4. **God is dead** -  it has always been so, but now that "god is dead", meaning that we have destroyed the social institutions that dictate moral code, we now see morality for what it is, that the emperor has no cloths, and that there is nothing other than a will to power. i.e that meaning, values, morality is not something that "exists out there", that can be given to us. We have the responsibility now to add meaning to the world, to be a creator.
 5. **Empathy is misguided** - helping the weak doesn't serve humanity in it's quest to create more "higher man", it is actually the opposite, feelings of envy and jealousy which are the driving force behind our desire to transcend.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **Eternal recurrence** - act in the way that you are content with your life, and would have gladly repeated it.
@@ -55,22 +67,22 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 Even after reading the whole book, we are left empty handed, not knowing how to become a "higher man", what are the benefits, how to detect one, etc
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The prose style makes it harder to both understand and fully develop persuasive arguments for his world view
-### 🖼️Outline
+### Outline
 
-![Thus Spoke Zarathustra (book).webp](/books/thus-spoke-zarathustra-book.webp)
+![Thus Spoke Zarathustra (book)](/books/thus-spoke-zarathustra-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
 The entire Nietzsche argument is based on several arguments:
-1. **will to power** - in every living being there is the desire to overcome, to defeat nature and to prosper, to grow. [Will to Power](/notes/will-to-power.md)
-2. **morality is a false facade** - it has always been so, but now that "god is dead", meaning that we have destroyed the social institutions that dictate moral code, we now see morality for what it is, that the emperor has no cloths, and that there is nothing other than a will to power. [Nihilism](/notes/nihilism.md)
-3. **the superman** - the superman is he who is able to assert control over himself, to fulfill his will to power, and take accountability over his destiny. [Self-control](/notes/self-control.md) [Challenge](/notes/struggle.md). To understand that joy and sorrow are inseparable, but despite the contradiction, to continue to strive for it, and [Amor Fati](/notes/amor-fati.md), to accept your destiny, and be willing to face the "eternal recurrence" with a smile. **The superman is a creator, he uses the fact that morality is empty to bring forth his truth out into the world**, to expand his will to power, not to cower and fall into the void thinking everything is pointless, he is not nihilist, he is the answer for that. [transcendence](/notes/transcendence.md)
+1. **will to power** - in every living being there is the desire to overcome, to defeat nature and to prosper, to grow. [The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md)
+2. **morality is a false facade** - it has always been so, but now that "god is dead", meaning that we have destroyed the social institutions that dictate moral code, we now see morality for what it is, that the emperor has no cloths, and that there is nothing other than a will to power. [Morality is a construct without real meaning](/notes/morality-is-a-construct-without-real-meaning.md)
+3. **the superman** - the superman is he who is able to assert control over himself, to fulfill his will to power, and take accountability over his destiny. [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md). To understand that joy and sorrow are inseparable, but despite the contradiction, to continue to strive for it, and [Love your fate as if you chose it](/notes/love-your-fate-as-if-you-chose-it.md), to accept your destiny, and be willing to face the "eternal recurrence" with a smile. **The superman is a creator, he uses the fact that morality is empty to bring forth his truth out into the world**, to expand his will to power, not to cower and fall into the void thinking everything is pointless, he is not nihilist, he is the answer for that. [Transcendence is the act of continuously becoming a better self](/notes/transcendence-is-the-act-of-continuously-becoming-a-better-self.md)
 
 :::note[Quotes]
 
@@ -110,9 +122,9 @@ The entire Nietzsche argument is based on several arguments:
 ##### On the Three Metamorphoses
 
 The metamorphosis of the soul can best be described as a person's spiritual journey. The soul first becomes a camel, carrying heavy burdens. Then, the soul transforms again into a lion. Finally, the lion becomes a child.
-1. **Camel** - The camel is a beast of burden, and it represents the burdens that the laws and morality of religion place on individuals. In this state, we are pure [Objectivity](/notes/objectivity.md), a tool in the hands of others.
-2. **Lion** - The lion fights viciously for his freedom against the ingrained traditions of a society. The transformation of the soul into a lion is necessary to cast off the burdens of the camel. The lion is a pure nihilist, saying no to everything in order to believe that they are free from any (Related:: [External Influence](/notes/external-influence.md).
-3. **Child** - The final stage is that of a child, seeking truth [Beginner's Mind](/notes/beginners-mind.md). We no longer say no to everything, we explore, we question, we find what to say yes to.
+1. **Camel** - The camel is a beast of burden, and it represents the burdens that the laws and morality of religion place on individuals. In this state, we are pure [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md), a tool in the hands of others.
+2. **Lion** - The lion fights viciously for his freedom against the ingrained traditions of a society. The transformation of the soul into a lion is necessary to cast off the burdens of the camel. The lion is a pure nihilist, saying no to everything in order to believe that they are free from any (Related:: [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md).
+3. **Child** - The final stage is that of a child, seeking truth [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md). We no longer say no to everything, we explore, we question, we find what to say yes to.
 
 ##### On the Hinterworldly
 
@@ -162,9 +174,9 @@ all great meaning is created by humans. Humanity creates laws and ideas to overc
 
 A person who does not know must compare himself to a person who does, but a person who is a "knower" can only seek to transform himself, ultimately, into the overman.
 
-a person should not take pity on or identify himself with mankind. The only way to become the overman is to harden one's heart towards pity for mankind. Instead, one should show people the way to become "knowers" of the way of the overman. [Empathy](/notes/empathy.md)
+a person should not take pity on or identify himself with mankind. The only way to become the overman is to harden one's heart towards pity for mankind. Instead, one should show people the way to become "knowers" of the way of the overman. [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md)
 
-**He must become the overman by having a hard heart and envy towards those who are better** [Jealousy](/notes/jealousy.md)
+**He must become the overman by having a hard heart and envy towards those who are better** [Jealousy is focusing on what others have that we lack](/notes/jealousy-is-focusing-on-what-others-have-that-we-lack.md)
 
 #### On the Virtuous
 

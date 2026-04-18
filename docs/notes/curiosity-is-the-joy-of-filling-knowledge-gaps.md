@@ -1,13 +1,13 @@
 ---
 UUID: 20240121204757
 Created: '2024-01-21 20:47'
-Modified: '2026-04-09 08:34'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Curiosity is the joy of filling knowledge gaps.png]]'
 ImageText: An open door with light shining through into a dark room
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
 aliases:
   - Curiosity
 new_schema: true
+Topic:
+  - '[[Self-Knowledge and Metacognition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -45,9 +49,3 @@ To be curious, we first have to remove any aspect of [External motivation crowds
 ## Visual
 
 ![Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.webp)
-
-## Overview
-🔼Topic:: [Self-Knowledge and Metacognition](/notes/self-knowledge-and-metacognition.md)
-↩️Origin::
-🔗Link::
-

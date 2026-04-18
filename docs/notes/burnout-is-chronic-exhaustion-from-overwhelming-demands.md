@@ -1,13 +1,13 @@
 ---
 UUID: 20230325084408
 Created: '2023-03-25 08:44'
-Modified: '2026-04-10 14:29'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Burnout is chronic exhaustion from overwhelming demands.png]]'
 ImageText: >-
   A downward line graph with smiley faces progressively becoming sadder over
@@ -20,6 +20,10 @@ aliases:
   - Burnout
   - Exhaustion
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: '[[Matt DAvella]]'
+URL: 'https://www.youtube.com/watch?v=xY0tJAkukWc&t=639s'
 draft: false
 SiteProcssed: true
 ---
@@ -60,9 +64,3 @@ To avoid burnout:
 ## Visual
 
 ![Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-◀Origin:: [Matt DAvella](/notes/matt-davella.md)
-🔗Link:: [Source](https://www.youtube.com/watch?v=xY0tJAkukWc&t=639s)
-

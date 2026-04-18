@@ -1,13 +1,13 @@
 ---
 UUID: 20230401071142
 Created: '2023-04-01 07:11'
-Modified: '2026-04-08 13:21'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - What matters is what we do
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   but also the active expression of those beliefs through proactive behavior and
   intentional actions.
 new_schema: true
+Topic:
+  - '[[Moral Psychology]]'
+Origin: '[[Aristotle (philosopher)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,6 +59,3 @@ Take the example of the thief that breaks into a house by opening the window, wh
 ![to be moral is to act moral](/notes/to-be-moral-is-to-act-moral.webp)
 
 ## Overview
-🔼Topic:: [Moral Psychology](/notes/moral-psychology.md)
-◀Origin:: [Aristotle (philosopher)](/notes/aristotle-philosopher.md)
-🔗Link::

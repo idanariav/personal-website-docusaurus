@@ -1,13 +1,13 @@
 ---
 UUID: 20220715053802
 Created: '2022-07-15 05:38'
-Modified: '2026-04-09 17:25'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Explaining ideas simply exposes gaps in understanding.png]]'
 ImageText: 'A circle with a brain, a presentation, and a reflection process'
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Feynman Technique
 new_schema: true
+Topic:
+  - '[[Knowledge Structure and Transfer]]'
+Origin: '[[Thomas Frank]]'
+URL: 'https://youtu.be/B8V5EfJLX9U'
 draft: false
 SiteProcssed: true
 ---
@@ -67,10 +71,3 @@ Additionally, it encourages us to step beyond our own [Perspective](/notes/subje
 ## Visual
 
 ![Explaining ideas simply exposes gaps in understanding](/notes/explaining-ideas-simply-exposes-gaps-in-understanding.webp)
-
-## Overview
-🔼Topic:: [Knowledge Structure and Transfer](/notes/knowledge-structure-and-transfer.md)
-🔼Topic:: [Knowledge Structure and Transfer](/notes/knowledge-structure-and-transfer.md)
-◀Origin:: [Thomas Frank](/notes/thomas-frank.md)
-🔗Link:: [Source](https://youtu.be/B8V5EfJLX9U)
-

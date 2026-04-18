@@ -1,26 +1,48 @@
 ---
 UUID: 20240812221941
 Created: '2024-08-12 22:19'
-Modified: '2024-10-06 06:54'
+Modified: '2026-04-13 06:20'
 tags: []
+FullTitle: >-
+  The Power of Showing Up - How Parental Presence Shapes Who Our Kids Become and
+  How Their Brains Get Wired
+Description: >-
+  It argues that perfect parenting is unnecessary; consistent presence and
+  empathy foster a child's secure attachment, enabling them to navigate
+  challenges. Essential supports include making children feel safe, seen, and
+  soothed. Additionally, addressing unresolved childhood issues is crucial for
+  effective parenting.
 Author:
   - '[[Daniel J. Siegel]]'
   - '[[Tina Payne Bryson]]'
-Genre: Family & Relationships
-ReadingStatus: Read
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-excalidraw-open-md: true
-Fiction: false
-Version: 1.01
-Pages: 244
-Rate: 3
-PublishDate: 2020-01-07T00:00:00.000Z
-FinishDate: 2024-10-05T00:00:00.000Z
+URL: 'https://www.goodreads.com/book/show/50232268-the-power-of-showing-up'
 Cover: >-
   http://books.google.com/books/content?id=rc29DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/50232268-the-power-of-showing-up'
+Genre: Family & Relationships
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B07QFMGLTR
+excalidraw-plugin: parsed
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 244
+Reread: 0
+Rate: 3
+PublishDate: 2020-01-07T00:00:00.000Z
+StartDate: 2024-09-24T00:00:00.000Z
+FinishDate: 2024-10-05T00:00:00.000Z
+Image: null
 aliases: null
+Topic:
+  - '[[supporting independence]]'
+  - '[[developing capabilities]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -29,11 +51,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [supporting independence](/notes/supporting-independence.md)
-🔼Topic:: [developing capabilities](/notes/developing-capabilities.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Don't be perfect, just show up** - No one is perfect, and everyone makes mistakes. Our child's development can withstand that, as long as we attempt to repair when we lose our focus. As long as we keep on showing up, on trying, and remember how to approach them with empathy and making them feel safe, seen and soothed, they will grow up just fine
 2. **Secure attachment is key for development** - When a child is feeling safe, seen and soothed they develop a "secure attachment" to the parent. The parent becomes a safe base, somewhere to return to when things are hard, a place to keep them safe when the storms outside are too powerful, and to replenish their energy and support them when they need to. Instead of creating spoiled children, it does the opposite. This secure attachments gives them the strength and courage to venture out into the world on their own, and with the toolset to face challenges themselves.
@@ -43,11 +61,11 @@ SiteProcssed: true
 	3. **Soothed** - we will be by their side when they are hurt. We won't shield them from setbacks and failures, but we will be support and help them through these difficult moments
 4. **To be a good parent, resolve your childhood** - It is hard to be a good parent if we have not resolved issues from our past, specifically how we were parented. History is not destiny, we can parent differently than our parents, but it takes introspection and acceptance, to decide to face the demons of our past head on in order to release us from their influence.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **The four s's**:
@@ -59,32 +77,32 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The argument is only partially new, and while they try to differentiate from other books, it is evident that it's barely enough content to make a book.
 
 However, as usual writing is engaging, clear and encouraging
 
-### 🖼️Outline
+### Outline
 
-![The Power of Showing Up (book).webp](/books/the-power-of-showing-up-book.webp)
+![The Power of Showing Up (book)](/books/the-power-of-showing-up-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### What it means to Show up
 
-We will make mistakes, everybody does, and nobody is a perfect parent [Perfectionism](/notes/perfectionism.md). Instead of worrying whether we are doing a good job, all that we need to do is to *show up*, to be present with them mentally, physically, and emotionally.
+We will make mistakes, everybody does, and nobody is a perfect parent [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md). Instead of worrying whether we are doing a good job, all that we need to do is to *show up*, to be present with them mentally, physically, and emotionally.
 
 To be present means to help kids feel the four s's:
 1. **Safe** - protected from harm. To know that even when we mess up, we care about them, and we will try to repair it.
 2. **Seen** - we care and pay attention to them. We see beyond their external behavior and understand what they feel inside, what they are going through
 3. **Soothed** - we will be by their side when they are hurt. We won't shield them from setbacks and failures, but we will be beside them through these storms
-4. **Secure** - The result of having the other s's. When they posses [mindsight](/notes/mindsight.md), when they feel belong to the world, and believe in themselves and their ability to self regulate. They have both [empathy](/notes/empathy.md) and [Self-awareness](/notes/self-awareness.md)
+4. **Secure** - The result of having the other s's. When they posses [Mindsight is awareness of mental states in self and others](/notes/mindsight-is-awareness-of-mental-states-in-self-and-others.md), when they feel belong to the world, and believe in themselves and their ability to self regulate. They have both [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md) and [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md)
 
-The key here is [neuroplasticity](/notes/neuroplasticity.md), children [learn by doing](/notes/learning-by-doing.md), it's through the interactions with us that they get to develop the skills needed to handle life as a successful, capable, resilient, happy adult. This will also improve their relationships with others and us parents.
+The key here is [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md), children [learn by doing](/notes/active-engagement-with-material-accelerates-learning.md), it's through the interactions with us that they get to develop the skills needed to handle life as a successful, capable, resilient, happy adult. This will also improve their relationships with others and us parents.
 
-The (parenting) goal is a *secure attachment* which will be their [Safe Base](/notes/safe-base.md) which will allow them to explore the world, to have a [growth mindset](/notes/growth-mindset.md) and face difficulties because when they will need us we will be there. The means by which we get there is through showing up which will support the 4 s's necessary for this type of attachment.
+The (parenting) goal is a *secure attachment* which will be their [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md) which will allow them to explore the world, to have a [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md) and face difficulties because when they will need us we will be there. The means by which we get there is through showing up which will support the 4 s's necessary for this type of attachment.
 
 :::note[What It Means to Show Up]
 
@@ -107,11 +125,11 @@ The (parenting) goal is a *secure attachment* which will be their [Safe Base](/n
 
 ### Why Do Some Parents Show up while Others Don't?
 
-Parents who show up are parents who have made sense of their own history as children to parents, and have decided which parents they want to be and how to parent their own children [harmonious self](/notes/harmonious-self.md). Note that **history is not destiny, we can choose to parent differently than how we were raised**. We are not to blame on how we were raised, but we are responsible for what kind of parent we are going to be.
+Parents who show up are parents who have made sense of their own history as children to parents, and have decided which parents they want to be and how to parent their own children [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md). Note that **history is not destiny, we can choose to parent differently than how we were raised**. We are not to blame on how we were raised, but we are responsible for what kind of parent we are going to be.
 
-By "made sense" we mean that we have dived deep into analyzing our childhood, how we were treated and how we felt about it. Only by dealing with trauma we will be able to heal from it, not through ignoring it [The law of reverse effect](/notes/the-law-of-reverse-effect.md). Having a unified [Narratives](/notes/narratives.md) of who we are, the journey we went through, and the path we want to march on is key to develop our [agency](/notes/agency.md), for healthy interactions with our children, and to help them develop themselves too.
+By "made sense" we mean that we have dived deep into analyzing our childhood, how we were treated and how we felt about it. Only by dealing with trauma we will be able to heal from it, not through ignoring it [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md). Having a unified [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md) of who we are, the journey we went through, and the path we want to march on is key to develop our [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md), for healthy interactions with our children, and to help them develop themselves too.
 
-Children establish their identity through interactions with others [interpersonal identity](/notes/interpersonal-identity.md), so the more connected we are, the more attuned we are to their needs, the more we show up for them when they need us, the more they will be able to develop their own identity to a strong and resilient one, one that can safely venture out to the world because they know that we will always be their for them. This is called *secure attachment*.
+Children establish their identity through interactions with others [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md), so the more connected we are, the more attuned we are to their needs, the more we show up for them when they need us, the more they will be able to develop their own identity to a strong and resilient one, one that can safely venture out to the world because they know that we will always be their for them. This is called *secure attachment*.
 
 Other (negative) types of attachment:
 1. **Avoidant attachment** - The child has learned to ignore us, since it feels that we ignore them, that we are ignorant to their needs, as if we don't care about them at all, so why should they care about us?
@@ -121,9 +139,9 @@ Other (negative) types of attachment:
 The child subconsciously develops one type of attachment based on how we as parents interact with them. That's why it is crucial that we not only display our desire to be attuned to our child's emotions and needs, but also have the capabilities to do so.
 
 The usual suspects for developing harmful attachments are:
-1. **Gaslighting** - we purposefully or unintentionally belittle their needs or ignore them [gaslighting](/notes/gaslighting.md)
-2. **Emotional hijacking** - seeing our child's crisis overwhelms us emotionally and we lack the capacity to sooth ourselves, not to mention our children. It's even worse if we treat the child as the reason for our emotional state and lash out at them [emotional hijacking](/notes/emotional-hijacking.md)
-3. **Emotional projection** - we unintentionally pass on our fears and worries onto our children because we fail to see their own needs and circumstances, rather we are subconsciously too focused on our own [emotional projection](/notes/emotional-projection.md)
+1. **Gaslighting** - we purposefully or unintentionally belittle their needs or ignore them [Dismissing someone's experience erodes their reality](/notes/dismissing-someones-experience-erodes-their-reality.md)
+2. **Emotional hijacking** - seeing our child's crisis overwhelms us emotionally and we lack the capacity to sooth ourselves, not to mention our children. It's even worse if we treat the child as the reason for our emotional state and lash out at them [Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md)
+3. **Emotional projection** - we unintentionally pass on our fears and worries onto our children because we fail to see their own needs and circumstances, rather we are subconsciously too focused on our own [We attribute our emotions to others and misread theirs](/notes/we-attribute-our-emotions-to-others-and-misread-theirs.md)
 
 :::note[Why Do Some Parents Show Up, While Others Don’t?]
 
@@ -137,19 +155,19 @@ The usual suspects for developing harmful attachments are:
 ### Beyond Helmets and Kneepads
 **Helping your child feel safe**
 
-Our first and main goal as caretakers is to help our child feel safe. When they feel safe, they can let go of worrying themselves about the situation, knowing that we are there for them, and they can switch to upper brain thinking [system 2](/notes/system-2.md), and spend resources growing and developing themselves.
+Our first and main goal as caretakers is to help our child feel safe. When they feel safe, they can let go of worrying themselves about the situation, knowing that we are there for them, and they can switch to upper brain thinking [System 2 enables deliberate analytical thinking for complex problems](/notes/system-2-enables-deliberate-analytical-thinking-for-complex-problems.md), and spend resources growing and developing themselves.
 
-Otherwise, they have to be on full alert, activating their downstairs brain [system 1](/notes/system-1.md) more, protecting themselves from threats instead of taking care of the long run.
+Otherwise, they have to be on full alert, activating their downstairs brain [Automatic thinking processes drive fast emotional responses](/notes/automatic-thinking-processes-drive-fast-emotional-responses.md) more, protecting themselves from threats instead of taking care of the long run.
 
 Therefore **our role is to protect them from threats, to not become a threat ourselves** (through abuse, neglect and general dysfunction), and to signal that to our children such that they will know they can count on us, that we will always be there to support and protect them from harm. Harm can be both physical, and emotional.
 
 Unfortunately, at the first years we are probably a greater potential threat to our children than any other. Our interactions with them can be harmful if we lash out at them, if we belittle them, but it is also how the household is run. If the parents fight a lot and don't resolve their conflict in a healthy way, and especially if we use the children as a tool in the argument, if the household is filled with substance abuse (such as alcohol or drugs), if the children are exposed to harmful content such as violence or porn, these are all forms of lack of safety for our children.
 
-Being over protective is not the answer. When we "rescue" them from every challenge, we send a vote of lack of confidence in their abilities, and deny them of the chances to develop those crucial skills themselves. [Dont Jump to the Rescue](/notes/dont-jump-to-the-rescue.md)
+Being over protective is not the answer. When we "rescue" them from every challenge, we send a vote of lack of confidence in their abilities, and deny them of the chances to develop those crucial skills themselves. [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md)
 
 Remember that it's not always to notice if the situation is too much for them to handle, especially when our capacity to handle challenges changes based on context.
 
-When we ourselves feel uncapable of handling the situation, remember to take a [Pause](/notes/rest.md), and if we made a mistake, it is vital that we try to [Repair](/notes/apology.md) the situation, to apologize, to make amends, and to reassure them of our unconditional love and support.
+When we ourselves feel uncapable of handling the situation, remember to take a [Pause](/notes/rest-enables-recovery-and-sustained-performance.md), and if we made a mistake, it is vital that we try to [Repair](/notes/a-true-apology-includes-intent-to-repair.md) the situation, to apologize, to make amends, and to reassure them of our unconditional love and support.
 
 :::note[Beyond Helmets and Kneepads]
 
@@ -163,13 +181,13 @@ When we ourselves feel uncapable of handling the situation, remember to take a [
 **helping your kids feel seen**
 
 Feeling seen is when the child believes we "get them", **we are able to empathize we them because we understand who they are and what they are going through**. Generating this feeling requires us to:
-1. **Perceive** - To see beyond the behavior, the intentions and the "mind" that has lead to it [mindfulness](/notes/intentionality.md)
+1. **Perceive** - To see beyond the behavior, the intentions and the "mind" that has lead to it [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md)
 2. **Make sense** - To try and figure out what "logic" they were following, what happened that has caused this behavior, how do they see the situation?
 3. **Respond** - To act kindly, respectfully and empathically. Instead of bombarding them with logical lecturing, we can react to the situation through their eyes.
 
-We fail to make them feel seen when we are quick to label them, like "lazy" or "you are just like your father", or when we assume we share the same preferences or see the world the same way. It's even worse if we [Shame](/notes/guilt.md) them for feeling this way. Remember that in the end there's a distinction between if they *won't* act the way you want to or *can't*.
+We fail to make them feel seen when we are quick to label them, like "lazy" or "you are just like your father", or when we assume we share the same preferences or see the world the same way. It's even worse if we [Shame](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) them for feeling this way. Remember that in the end there's a distinction between if they *won't* act the way you want to or *can't*.
 
-One way of being more mindful of their point of view is to approach their behavior with [curiosity](/notes/curiosity.md).
+One way of being more mindful of their point of view is to approach their behavior with [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md).
 
 Another is to create opportunities to get to know them. For example before bedtime is a great time for that, because we are more opened and relaxed. Instead of "how was your day", try to reflect on more specific things, perhaps discuss a movie you saw together, something that you experienced together or heard about, even some ethical dilemmas.
 
@@ -185,9 +203,9 @@ Another is to create opportunities to get to know them. For example before bedti
 ### Presence Joins Us as part of a Calming Whole
 **Helping your kids feel soothed**
 
-When our children are being overwhelmed with emotions, it's important for us to sooth them. With time, the more we help them get back to a calm state, they will learn to sooth themselves, i.e they will develop their ability to self regulate, and maintaining calm when faced with challenges and hardships. Self regulate is also a key skill for many other skills such as empathy, morality and decision making. [Emotional Resilience](/notes/emotional-resilience.md)
+When our children are being overwhelmed with emotions, it's important for us to sooth them. With time, the more we help them get back to a calm state, they will learn to sooth themselves, i.e they will develop their ability to self regulate, and maintaining calm when faced with challenges and hardships. Self regulate is also a key skill for many other skills such as empathy, morality and decision making. [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md)
 
-**Soothing is when we acknowledge what they are feeling, and create a sense of "we" vs a shared issue instead of "me" against "you"**. Remember the *connect and redirect* and *green zone* methods of previous books. The goal is not to lecture, but to provide understanding and be a safe place for them to unload. Note that this doesn't mean giving up on your limits, the children need it, it's just accepting that their reactions to those limits might not be positive. Don't forget to use calming [non verbal communication](/notes/non-verbal-communication.md), talking at eye level, using a soft voice, a touch or a hug can do magics.
+**Soothing is when we acknowledge what they are feeling, and create a sense of "we" vs a shared issue instead of "me" against "you"**. Remember the *connect and redirect* and *green zone* methods of previous books. The goal is not to lecture, but to provide understanding and be a safe place for them to unload. Note that this doesn't mean giving up on your limits, the children need it, it's just accepting that their reactions to those limits might not be positive. Don't forget to use calming [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md), talking at eye level, using a soft voice, a touch or a hug can do magics.
 
 When they have a hard time, you can try to:
 1. Be with them in their "safe space" - perhaps a tent in the living room, a place special for them, filled with whatever makes them calm
@@ -215,7 +233,7 @@ How to respond to situations (the PEACE method):
 
 When we combine the three s's, when they feel safe, seen and soothed, then we have secure attachment, which empowers them to become resilient, independent, mindful and moral adults.
 
-They become independent because through our interactions they have developed a sense of [self worth](/notes/self-worth.md), they believe in their capacity to handle challenges, knowing that they can always go back to us if it's too much. This makes stress something positive, something that causes them to rise up to the challenge, instead of crumbling down.
+They become independent because through our interactions they have developed a sense of [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md), they believe in their capacity to handle challenges, knowing that they can always go back to us if it's too much. This makes stress something positive, something that causes them to rise up to the challenge, instead of crumbling down.
 
 Note that caring for your child's emotional needs is never coddling or spoiling them, but rather help them develop. This doesn't mean we have to answer to their every whim, only to what they truly need, and it's our job to identity which is which, and to repair if we treated their need as a simple want. Think of your relationship as an investment, each time we show up for them we make a deposit, and each time we neglect, shout or belittle we make a withdraw. We want to keep the balance positive.
 

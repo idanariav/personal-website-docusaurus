@@ -1,52 +1,64 @@
 ---
 UUID: 20231222095341
 Created: '2023-12-22 09:53'
-Modified: '2024-10-18 07:55'
+Modified: '2026-04-13 06:16'
 tags: []
+FullTitle: Nudge
+Description: >-
+  It argues that life’s complexities necessitate tools for easier
+  decision-making, emphasizing choice architecture. It highlights that default
+  options can misrepresent preferences and stresses the importance of
+  maintaining individual freedom in choices to minimize potential harms.
 Author:
   - '[[Richard S. Thaler]]'
   - '[[Cass R. Sunstein]]'
+URL: 'https://www.goodreads.com/book/show/3450744-nudge'
+Cover: >-
+  http://books.google.com/books/content?id=lgFLOAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 Genre: Psychology
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B0946MV5SV
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 350
+Reread: 0
 Rate: 3
 PublishDate: 2009-01-01T00:00:00.000Z
+StartDate: 2023-12-14T00:00:00.000Z
 FinishDate: 2023-12-22T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=lgFLOAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/3450744-nudge'
+Image: null
 aliases: null
+Topic:
+  - '[[social science (Map)]]'
+  - '[[Environmental design influences behavior through choice architecture]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Nudge (book)
 
-## 🔗Connect
-🔼Topic:: [social science (Map)](/mocs/social-science-map.md)
-🔼Topic:: [Nudge](/notes/nudge.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Life is hard, so let's make good choices easier** - Making choices requires attention, information and willpower. Things we don't always have in each decision we make, especially when there are so many of them to make, with growing complexity as our world develops. Therefore we need tools to make decisions easier, that the "better" choice will be easier to make. This is choice architecture.
 2. **Defaults don't indicate preferences** - Default options have a gravitational power, which means that many people stick to defaults without reflecting on them, and even cases where it is against their best interests. Therefore we should avoid the temptation to assume that when many people stick to defaults, that's an indication of their preference.
 3. **Maintaining freedom is crucial** - We don't want to assume we know what's best for people and make the decision for them. We do however see some choices that leave people better off based on their preferences, at least to the level that we can surmise. And in any case, we should remember that there's no such thing as "no decision", if it's not the government, it is the private sector and it's reversed incentives that will influence people. But as a fallback, we should be vigilant and maintain the freedom to choose any option, so that the potential harms are minimized.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -54,24 +66,24 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
-### 🖼️Outline
+### Outline
 
-![Nudge (book).webp](/books/nudge-book.webp)
+![Nudge (book)](/books/nudge-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-**A choice architect is any person who has control on the way a certain choice is displayed, which options are available and the method in which people choose which action to follow**. It is important to know that there is no such thing as a "neutral" setting [Neutrality](/notes/neutrality.md), since we are highly sensitive to [Context](/notes/context.md), **there can be no option where the environment doesn't affect us.**
-Therefore, we can't avoid affecting people, true [libertanism](/notes/libertanism.md) doesn't exist, it is rather a matter of who we prefer to influence us, money seeking marketing teams [Attention Economy](/notes/attention-economy.md), or those who are interested in our own wellbeing (nudge teams)
+**A choice architect is any person who has control on the way a certain choice is displayed, which options are available and the method in which people choose which action to follow**. It is important to know that there is no such thing as a "neutral" setting [Neutrality](/notes/exclusive-neutrality-seeks-balance-by-canceling-all-outside-forces.md), since we are highly sensitive to [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md), **there can be no option where the environment doesn't affect us.**
+Therefore, we can't avoid affecting people, true [libertanism](/notes/libertanism.md) doesn't exist, it is rather a matter of who we prefer to influence us, money seeking marketing teams [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md), or those who are interested in our own wellbeing (nudge teams)
 
 A nudge, is the implementation of a certain dogma of choice architecture called "paternal libertinism", which means that **we want to model choices such that all options are still available, while making the choices that are better off based on the choice maker's perception** and wellbeing (not the architecture). For example, creating better defaults for saving, or arranging the food in the cafeteria such that people would choose more healthy foods are types of nudges, while banning junk food is not. As we said, libertarianism isn't possible, but we do want to also avoid hard paternalism which involves coercion.
 
-Such measures are needed because we don't believe that people are perfectly rational beings, [Econs](/notes/econs.md). **We don't always operate with full attention, information, or will power, which means we make mistakes, and that our behavior isn't always indicative and aligned with our preferences** and wellbeing [Behavioralism](/notes/behavioralism.md). We prefer the present, fall to temptations or distractions, and we are hate uncertainty.
+Such measures are needed because we don't believe that people are perfectly rational beings, [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md). **We don't always operate with full attention, information, or will power, which means we make mistakes, and that our behavior isn't always indicative and aligned with our preferences** and wellbeing [Behavior reveals true preferences](/notes/behavior-reveals-true-preferences.md). We prefer the present, fall to temptations or distractions, and we are hate uncertainty.
 
 We make better choices in cases where we have better knowledge and control, like choosing a meal at a restaurant, but less so in difficult choices like savings and investments.
 
@@ -95,15 +107,15 @@ We make better choices in cases where we have better knowledge and control, like
 
 #### Biases and Blunders
 
-Life is [complicated](/notes/complexity.md) and full of [Decision points](/notes/decision-points.md). That's why we can't dedicate full attention, time and research for each decision, so we most often use [Heuristics](/notes/heuristics.md) to simplify decisions.
+Life is [complicated](/notes/complexity.md) and full of [Decision points force re-evaluation or action by creating deliberate triggers](/notes/decision-points-force-re-evaluation-or-action-by-creating-deliberate-triggers.md). That's why we can't dedicate full attention, time and research for each decision, so we most often use [Heuristics are mental shortcuts enabling fast automatic decisions](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.md) to simplify decisions.
 One problem is that some heuristics are prone to biases. They are:
-1. **Anchoring** - when we are affected by an initial arbitrary number. [Anchoring](/notes/anchoring.md). This does have a limit though. When we feel that the anchor is exaggerated, [Reactance](/notes/reactance.md) happens, which means we do the opposite of the desired anchor as a "pay back" .
-2. **Availability** - when the salience of an event causes us to wrongly estimate it's probability, only because it's easier to remember or recent than other events. [Availability Bias](/notes/availability-bias.md)
+1. **Anchoring** - when we are affected by an initial arbitrary number. [The first number sets the frame for all that follow](/notes/the-first-number-sets-the-frame-for-all-that-follow.md). This does have a limit though. When we feel that the anchor is exaggerated, [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) happens, which means we do the opposite of the desired anchor as a "pay back" .
+2. **Availability** - when the salience of an event causes us to wrongly estimate it's probability, only because it's easier to remember or recent than other events. [Availability bias inflates perceived likelihood of easily recalled events](/notes/availability-bias-inflates-perceived-likelihood-of-easily-recalled-events.md)
 3. **Representativeness** - aka stereotypes, we tend to perceive things according to what we believe they are, rather than what they truly are.
-4. **Overconfidence** - when it comes to ourselves, we are very likely to underestimate negative events and overestimate positive events. Meaning that "I will beat the odds" no matter what. [over confidence](/notes/over-confidence.md)
-5. **Loss aversion** - we are willing to go to greater lengths to avoid a loss, even by missing statistically beneficial decisions [Risk Management](/notes/risk-management.md)
-6. **Status quo bias** - we tend to stick to the defaults, even when they are not beneficial, either due to lack of awareness or [Friction](/notes/friction.md) [Status-quo bias](/notes/status-quo-bias.md)
-7. **Framing** - framing a topic can cause us to switch answers even when the consequences are the same. [Framing](/notes/framing.md)
+4. **Overconfidence** - when it comes to ourselves, we are very likely to underestimate negative events and overestimate positive events. Meaning that "I will beat the odds" no matter what. [Overestimating abilities blinds us to genuine risks](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md)
+5. **Loss aversion** - we are willing to go to greater lengths to avoid a loss, even by missing statistically beneficial decisions [We prefer avoiding losses over gaining equivalent value](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md)
+6. **Status quo bias** - we tend to stick to the defaults, even when they are not beneficial, either due to lack of awareness or [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) [We prefer existing situations over alternatives despite better options](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md)
+7. **Framing** - framing a topic can cause us to switch answers even when the consequences are the same. [How we describe something shapes how it is perceived](/notes/how-we-describe-something-shapes-how-it-is-perceived.md)
 
 System 1 (automatic) vs system 2 (reflective) [thinking fast and slow (book)](/notes/thinking-fast-and-slow-book.md) - some decisions are done by system 1, which means more information or tools for system 2 are irrelevant. **We should design choices to improve system 1 decisions**
 
@@ -126,7 +138,7 @@ System 1 (automatic) vs system 2 (reflective) [thinking fast and slow (book)](/n
 
 #### Resisting Temptations
 
-**We often fall into temptations despite our best wishes to act otherwise**. This is another example of the system 1/2 case, or "hot-cold" thinking. [Commitment Devices](/notes/commitment-devices.md) could offer a solution, however w**e are underestimating which cases would cause a "self control" issue, therefore we fail to put such devices in place**, since we believe we won't be tempted at all, or not be affected by it.
+**We often fall into temptations despite our best wishes to act otherwise**. This is another example of the system 1/2 case, or "hot-cold" thinking. [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md) could offer a solution, however w**e are underestimating which cases would cause a "self control" issue, therefore we fail to put such devices in place**, since we believe we won't be tempted at all, or not be affected by it.
 
 While private commitment devices are common, it is worth noting that the private sector is not run by benevolent incentives, but rather monetary ones. Meaning that in some cases, it would be wise for the public sector to add nudges of its own.
 
@@ -145,14 +157,14 @@ Another way to combat temptation is with [mental accounting](/notes/mental-accou
 
 #### Following the Herd
 
-We humans tend to follow others [Herd Mentality](/notes/social-environment.md) because:
+We humans tend to follow others [Herd Mentality](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md) because:
 1. **Information** - we believe the actions of others convey information on best practices
-2. **Social pressure** - we want to be "part of the group" and avoid scrutiny [Social Environment](/notes/social-environment.md)
+2. **Social pressure** - we want to be "part of the group" and avoid scrutiny [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 
-Either way, we tend to [Conformism](/notes/social-environment.md). **When norms are not yet placed, small nudges, or confident people can shift the norm to a certain direction, which explains why similar groups can have very different norms in the end**. [Path Dependence](/notes/path-dependence.md) [Randomness](/notes/randomness.md) [Luck](/notes/luck.md). Similarly, social trends have a strong effect on opinions, a kind of self fulfilling prophecy. If we think everyone is doing something, we will do it as well.
+Either way, we tend to [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md). **When norms are not yet placed, small nudges, or confident people can shift the norm to a certain direction, which explains why similar groups can have very different norms in the end**. [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md) [Randomness](/notes/randomness.md) [Luck is external randomness affecting outcomes beyond control](/notes/luck-is-external-randomness-affecting-outcomes-beyond-control.md). Similarly, social trends have a strong effect on opinions, a kind of self fulfilling prophecy. If we think everyone is doing something, we will do it as well.
 To increase the chances of a successful nudge, consider:
-1. **Identity** - the more people relate with the identity of the people who lead the trend, or that the behavior is related to their beliefs and identities, the more powerful it gets [Interpersonal Identity](/notes/interpersonal-identity.md)
-2. **Viability** - the more [visible](/notes/visibility.md) the trend, the easier it is to follow
+1. **Identity** - the more people relate with the identity of the people who lead the trend, or that the behavior is related to their beliefs and identities, the more powerful it gets [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md)
+2. **Viability** - the more [visible](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md) the trend, the easier it is to follow
 3. **Underlying beliefs** - some trends are only held by the misguided notion that this is what everyone beliefs, although beneath the surface people believe otherwise. In those cases, a small nudge would be sufficient, exposing that the "emperor has no cloths" and give courage to reverse the trend.
 
 :::note[Following the Herd]
@@ -176,7 +188,7 @@ To increase the chances of a successful nudge, consider:
 In general, where people make smart, informed decisions that match their preferences, you don't need a nudge. When do you need?
 
 1. **Forgetfulness** - when we wanted to make a decision, but forgot to do so, like voting. [Forgetfulness](/notes/forgetfulness.md)
-2. **benefit vs costs** - when the cost and benefits of an action are far between. This is both the underconsumption of "investment goods", things that are costly in the present but worthwhile in the future, like saving money and working out, and the overconsumption of "temptation goods" like junk food and binge watching. [Present Bias](/notes/present-bias.md)
+2. **benefit vs costs** - when the cost and benefits of an action are far between. This is both the underconsumption of "investment goods", things that are costly in the present but worthwhile in the future, like saving money and working out, and the overconsumption of "temptation goods" like junk food and binge watching. [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md)
 3. **high difficulty** - decisions that require expertise or information that we lack and is hard to get
 4. **one-time decisions** - cases where we don't have a second chance, where we only make it once or it is very costly to change, like choosing where to do a surgery.
 5. **no feedback** - where it's difficult to assess the result of the choice we made, and the expected result of all other options
@@ -200,11 +212,11 @@ In general, where people make smart, informed decisions that match their prefere
 
 How to have an effective choice architecture?
 
-1. **Low friction** - We wish for choices to be as easy as possible, to remove friction. In the physical world, friction can be expressed through matching signal to action, for example, to have a green "go" sign and a red "stop" sign, instead of the other way around. In the choice architecture world, one such way is to use [Defaults](/notes/defaults.md). Sometimes they are unavoidable, and in most cases people would stick to defaults. However, when people are focused, aware of their preferences, and the cost of switching is low, people would choose otherwise. **The problem with defaults is that you don't really know if the default represents the true preferences of the person**. To be sure of that, you can use "active choosing", which means the process doesn't have a default, and you couldn't continue without selecting an option. However, in those cases it's harder to implement in multi-option/complicated decisions, and it could annoy the agents, causing them to leave the process all together.
-  2. Error resistance - Nudges help create a more [robust](/notes/anti-fragility.md) systems that deal with errors and forgetfulness, for example making card readers be able to read from all possible directions, instead of people having to guess which way to insert it. Automatic reminders to add attachments in email, getting your credit card back at the ATM, and building nuzzles in different sizes to avoid adding the wrong kind of gas to your car.
-  3. Feedback - People should know what the expected utility from this decision or others should be. Similarly, they need information and reminders to notify them when they are about to make a wrong decision, like warning systems in cars. **The more accurate, relevant, specific, and in proximity the reminder, the better** [Feedback](/notes/feedback.md)
-  4. Simple - **Complicated decisions should be broken down into a more manageable size**, usually by eliminating irrelevant options, or at least increase their friction. Rearranging choices in ways that "make sense" is also a type of simplification. [Simplicity](/notes/simplicity.md)
-  5. Incentives - First ask yourself: who pays, who uses, who chooses, and who profits. The best case is when all these are aligned, meaning that it's the same person. At minimum, the incentive for each group should be clear and visible [Incentives](/notes/incentives.md)
+1. **Low friction** - We wish for choices to be as easy as possible, to remove friction. In the physical world, friction can be expressed through matching signal to action, for example, to have a green "go" sign and a red "stop" sign, instead of the other way around. In the choice architecture world, one such way is to use [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md). Sometimes they are unavoidable, and in most cases people would stick to defaults. However, when people are focused, aware of their preferences, and the cost of switching is low, people would choose otherwise. **The problem with defaults is that you don't really know if the default represents the true preferences of the person**. To be sure of that, you can use "active choosing", which means the process doesn't have a default, and you couldn't continue without selecting an option. However, in those cases it's harder to implement in multi-option/complicated decisions, and it could annoy the agents, causing them to leave the process all together.
+  2. Error resistance - Nudges help create a more [robust](/notes/some-systems-grow-stronger-through-disorder.md) systems that deal with errors and forgetfulness, for example making card readers be able to read from all possible directions, instead of people having to guess which way to insert it. Automatic reminders to add attachments in email, getting your credit card back at the ATM, and building nuzzles in different sizes to avoid adding the wrong kind of gas to your car.
+  3. Feedback - People should know what the expected utility from this decision or others should be. Similarly, they need information and reminders to notify them when they are about to make a wrong decision, like warning systems in cars. **The more accurate, relevant, specific, and in proximity the reminder, the better** [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md)
+  4. Simple - **Complicated decisions should be broken down into a more manageable size**, usually by eliminating irrelevant options, or at least increase their friction. Rearranging choices in ways that "make sense" is also a type of simplification. [Distilling to essentials creates clarity and actionability](/notes/distilling-to-essentials-creates-clarity-and-actionability.md)
+  5. Incentives - First ask yourself: who pays, who uses, who chooses, and who profits. The best case is when all these are aligned, meaning that it's the same person. At minimum, the incentive for each group should be clear and visible [Incentives shape behavior by making certain actions more attractive](/notes/incentives-shape-behavior-by-making-certain-actions-more-attractive.md)
 
 :::note[Choice Architecture]
 
@@ -223,7 +235,7 @@ How to have an effective choice architecture?
 
 #### But Wait, There's More
 
-**A good way to nudge is to make it fun**. It can either be a direct gratification, like making musical stairs, or using lottery, which is a good way to create dopamine hits due to the uncertainty of it, but also to maximize resources by giving the sum to a few instead of everyone, this enabling a small budget to still be large enough of a prize. [Gamification](/notes/gamification.md)
+**A good way to nudge is to make it fun**. It can either be a direct gratification, like making musical stairs, or using lottery, which is a good way to create dopamine hits due to the uncertainty of it, but also to maximize resources by giving the sum to a few instead of everyone, this enabling a small budget to still be large enough of a prize. [Gamification increases motivation by making activities enjoyable](/notes/gamification-increases-motivation-by-making-activities-enjoyable.md)
 
 :::note[But Wait, There’s More]
 
@@ -238,7 +250,7 @@ How to have an effective choice architecture?
 
 To make choices more easily comparable, we have to:
 1. **standardize** - to compare apples to apples, companies/products need to talk in the same language. For example, measurements of calories, gas consumption, and processing power should be identical across similar products [Standardization](/notes/standardization.md)
-2. **Smart disclosure** - not only products need to speak the same language, but it also must be published in a digital accessible way, so that choice engines (like booking for hotels) could be created, which simplify the comparison for us. [Transparency](/notes/transparency.md)
+2. **Smart disclosure** - not only products need to speak the same language, but it also must be published in a digital accessible way, so that choice engines (like booking for hotels) could be created, which simplify the comparison for us. [Transparency requires actively revealing truth to others](/notes/transparency-requires-actively-revealing-truth-to-others.md)
 
 :::note[Smart Disclosure]
 

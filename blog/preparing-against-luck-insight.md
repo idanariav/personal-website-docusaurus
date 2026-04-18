@@ -29,7 +29,7 @@ We often rely on mental shortcuts to get through busy days, but what if those sh
 
 ![Preparing against luck (insight).webp](/posts/preparing-against-luck-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Making Choices that Compound
 

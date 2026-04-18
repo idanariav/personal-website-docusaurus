@@ -1,13 +1,14 @@
 ---
 UUID: 20230403064329
 Created: '2023-04-03 06:43'
-Modified: '2026-04-10 06:11'
+Modified: '2026-04-15 08:33'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
-Image: null
+Version: 6
+Image: '[[Environmental design influences behavior through choice architecture.png]]'
+ImageText: 'A person standing in front of a shelf with good, bad and okay options'
 Description: >-
   A subtle, low-effort method of influencing individual choices by altering the
   presentation of options without restricting them, thereby encouraging desired
@@ -16,6 +17,11 @@ aliases:
   - Nudge
   - Environmental design
 new_schema: true
+Topic:
+  - '[[Environment and Behavior]]'
+  - '[[Intentional Decision-Making]]'
+Origin: '[[Nudge (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -23,7 +29,6 @@ SiteProcssed: true
 # Nudge
 
 ## Notes
-
 
 ### Claim
 
@@ -37,7 +42,7 @@ The second is environmental design, which is a hard, high effort change that cre
 
 Nudge is often reliant on using [Cues](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) to our advantage, we create an environment which makes it easier to send the signals that will trigger the desired behavior. Sometimes the environment is so full of negative cues that we need a [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md), usually by changing the environment itself rather than it's components so that it could be manipulated in the first place.
 
-### Why it matters
+### Why it Matters
 
 The advantage of a nudge is that it only has to be done once, one time where we make an effort to change the environment, and then it will come naturally to us, instead of brute forcing using our [willpower](/notes/willpower-is-limited.md) each time [One-time effort investment yields future benefits](/notes/one-time-effort-investment-yields-future-benefits.md).
 
@@ -53,7 +58,7 @@ Common phenomenon related to nudge:
 1. **Caching** - In life as in with computers, it is useful to build it in such a way that whichever we predict to be more useful, whichever we have used more in the past, the easier it should be to use again. [We optimize by keeping the most-used close at hand](/notes/we-optimize-by-keeping-the-most-used-close-at-hand.md)
 2. **Insights gap** - Whenever we act against our best interest, we probably need a nudge to help us stay on track [Knowing the right thing doesn't mean we do it](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md)
 3. **Nutrition** - this is a classic case of limiting distractions instead of trying to fight time. Usually nutrition is all about making healthy choices easier to make, and reducing encounters with unhealthy food [Nutrition](/notes/healthy-eating-requires-replacing-temptations-with-better-defaults.md)
-4. **Distractions** - often our goal with environmental design is to limit [Distractions](/notes/distraction.md) as much as possible, so that we will avoid the temptations all together without ever facing them
+4. **Distractions** - often our goal with environmental design is to limit [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) as much as possible, so that we will avoid the temptations all together without ever facing them
 
 ### Supporters
 
@@ -61,15 +66,8 @@ In both cases, nobody was forced to do anything differently, but the fact that s
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Nudge](/notes/nudge.webp)
-
-## Overview
-🔼Topic:: [Environment and Behavior](/notes/environment-and-behavior.md)
-🔼Topic:: [Intentional Decision-Making](/notes/intentional-decision-making.md)
-◀Origin:: [Nudge (book)](/books/nudge-book.md)
-🔗Link:: 
-
+![Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.webp)

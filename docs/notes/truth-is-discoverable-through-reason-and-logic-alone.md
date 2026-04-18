@@ -1,13 +1,13 @@
 ---
 UUID: 20230406091747
 Created: '2023-04-06 09:17'
-Modified: '2026-04-09 09:05'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Rationalism
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   and rationality, contrasting with empiricism, and emphasizing introspection to
   uncover knowledge about human nature and the world.
 new_schema: true
+Topic:
+  - '[[Foundations of Knowledge]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ Lastly, rationalism uses logic as it's main and only method of inquiry, a [Syste
 ## Visual
 
 ![Rationalism](/notes/rationalism.webp)
-
-## Overview
-🔼Topic:: [Foundations of Knowledge](/notes/foundations-of-knowledge.md)
-◀Origin::
-🔗Link::
-

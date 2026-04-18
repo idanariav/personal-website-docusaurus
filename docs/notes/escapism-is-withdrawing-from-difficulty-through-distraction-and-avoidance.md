@@ -1,13 +1,13 @@
 ---
 UUID: 20240409081316
 Created: '2024-04-09 08:13'
-Modified: '2026-04-08 14:09'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Escapism is withdrawing from difficulty through distraction and
   avoidance.png]]
@@ -20,6 +20,10 @@ aliases:
   - Escapism
   - Avoidance
 new_schema: true
+Topic:
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -30,7 +34,7 @@ SiteProcssed: true
 
 ### Claim
 
-Escapism is like a deep personal [Distraction](/notes/distraction.md). When chosen, often subconsciously, to avoid doing or facing something by focusing on something else.
+Escapism is like a deep personal [Distractions pull us towards them as a temptation](/notes/distractions-pull-us-towards-them-as-a-temptation.md). When chosen, often subconsciously, to avoid doing or facing something by focusing on something else.
 
 ### Explanation
 
@@ -57,9 +61,3 @@ A common escapism which seems harmless and even nice at first is [We look to the
 ## Visual
 
 ![Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.webp)
-
-## Overview
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-↩️Origin::
-🔗Link::
-

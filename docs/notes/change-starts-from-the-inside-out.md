@@ -1,13 +1,13 @@
 ---
 UUID: 20221019215501
 Created: '2022-10-19 21:55'
-Modified: '2026-04-01 14:45'
+Modified: '2026-04-11 22:30'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[change starts from the inside out.png]]'
 ImageText: >-
   A tree showing layers from roots labeled Identity at the bottom, trunk labeled
@@ -18,6 +18,10 @@ Description: >-
   motivation and long-term success.
 aliases: []
 new_schema: true
+Topic:
+  - '[[Identity Formation]]'
+Origin: '[[Atomic Habits (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,8 +58,3 @@ When we embrace a new identity rather than just changing our actions, we impleme
 ## Visual
 
 ![change starts from the inside out](/notes/change-starts-from-the-inside-out.webp)
-
-## Overview
-🔼Topic:: [Identity Formation](/notes/identity-formation.md)
-◀Origin:: [Atomic Habits (book)](/books/atomic-habits-book.md)
-🔗Link::

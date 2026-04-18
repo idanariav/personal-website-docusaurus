@@ -1,13 +1,13 @@
 ---
 UUID: 20230330064418
 Created: '2023-03-30 06:44'
-Modified: '2026-04-10 06:22'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Self-awareness
   - Self Knowledge
@@ -16,6 +16,10 @@ Description: >-
   enabling informed choices and authentic living, while fostering personal
   growth and understanding of others.
 new_schema: true
+Topic:
+  - '[[Self-Tracking and Reflection]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ It is said that understanding ourselves goes hand in hand with understanding oth
 ## Visual
 
 ![Self-awareness](/notes/self-awareness.webp)
-
-## Overview
-🔼Topic:: [Self-Tracking and Reflection](/notes/self-tracking-and-reflection.md)
-◀Origin::
-🔗Link::
-

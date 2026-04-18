@@ -1,8 +1,8 @@
 ---
 UUID: 20230404190548
 Created: '2023-04-04 19:05'
-Modified: '2026-04-10 16:47'
-Version: 2
+Modified: '2026-04-11 22:31'
+Version: 3
 tags: []
 aliases: null
 excalidraw-plugin: parsed
@@ -14,6 +14,11 @@ Description: >-
   through preferences and expected utility, exemplified by the prisoner's
   dilemma highlighting the impact of trust and cooperation on outcomes.
 new_schema: true
+Topic:
+  - '[[behavioral psychology (Map)]]'
+  - '[[social science (Map)]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,8 +54,3 @@ The classical case is the prisoner's dilemma. Two people are put in two differen
 ## Visual
 
 ![Game Theory](/notes/game-theory.webp)
-
-## Overview
-🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md) [social science (Map)](/mocs/social-science-map.md)
-◀Origin::
-🔗Link:: 

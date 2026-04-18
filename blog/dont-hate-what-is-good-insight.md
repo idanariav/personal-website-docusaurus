@@ -22,7 +22,7 @@ SiteProcssed: true
 **What if the things that frustrate you are actually signs of trust, love, or care?**  
 Could it be that some conflicts come not from bad intentions, but from misreading what “good” looks like to someone else?
 
-<!-- truncate -->
+{/* truncate */}
 ## Don't hate the player, don't hate the game
 
 I’m sure you’re wondering about this post’s title. Who would hate good things? Sounds obvious that we would enjoy or at most ignore them, but hate them?

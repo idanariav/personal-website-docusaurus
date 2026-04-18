@@ -25,7 +25,7 @@ We avoid facing our mistakes because it hurts, but denial only locks them in. Th
 
 ![admitting_our_faults_post.webp](/posts/admitting_our_faults_post.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Admitting Mistakes is Hard
 

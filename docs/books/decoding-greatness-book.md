@@ -1,19 +1,23 @@
 ---
 UUID: 20240419072049
 Created: '2024-04-19 07:20'
-Modified: '2025-08-11 19:52'
+Modified: '2026-04-18 06:20'
 tags: []
 Author:
   - '[[Ron Friedman]]'
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 9
 Pages: 288
 Rate: 4
 PublishDate: 2023-01-24T00:00:00.000Z
@@ -21,18 +25,28 @@ FinishDate: 2024-07-19T00:00:00.000Z
 Cover: >-
   http://books.google.com/books/content?id=SFGkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/56961581-decoding-greatness'
+Description: >-
+  It argues for a systematic approach to achieving greatness by collecting
+  insights from mentors, identifying unique traits, and translating them into
+  adaptable blueprints. Emphasizing evolution over mimicry, it encourages
+  embracing challenges, selectively tracking progress, and leveraging feedback
+  to foster continuous growth and innovation.
+FullTitle: Decoding Greatness - How the Best in the World Reverse Engineer Success
+StartDate: 2024-06-30T00:00:00.000Z
+ASIN: B08BZW5BJ9
+Reread: 0
+Topic:
+  - '[[Mastery requires deliberate practice and hard work, not innate talent]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Decoding Greatness (book)
 
-## 🔗Connect
-🔼Topic:: [Mastery](/notes/mastery.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 How to decode greatness:
 1. **Become a collector** - identity greatness in others and capture their inputs. Collect in an a way that would be easy to later use as a study resource.
@@ -46,11 +60,11 @@ How to decode greatness:
 9. **Harness the future and the past** - reflect on past performances, distill insights, and prepare for future performances in advance. Imagine possible scenarios and counteract it before it happens.
 10. **Ask wisely** - filter feedback and convert it into useful actionable growth. Remember that some feedback is just noise. It has to be specific, growth oriented, and actionable.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. Faster, better learner - by decoding greatness and learning from others, which could improve much better and faster that we have ever could on our own
@@ -60,7 +74,7 @@ How to decode greatness:
 🧱 *Implementations and limitations of it are...*
 There are some small sections that are more directed towards business managers, but this is still a useful book for everyone to read.
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 Despite having read several "how to be better at x" books so far, this book is very refreshing, extensive and useful. It combines beautifully several different approaches into a single coherent method. I like it's systematical thinking, the way it deconstructs training and improving into clear actionable steps.
@@ -69,18 +83,18 @@ It's nuance such that many of the simple answers to why he might be wrong and wh
 
 Small problems with the structure is that in the end it doesn't always match the principles shown in the book. Perhaps a "theoretical background" as the first part, and then a chapter per principle would have been better. For example I'm slightly confused as to why the third section is called "the vision ability gap" when it's just a small principle which is unmentioned later in the section. Also the "how to talk to experts" deals also with "how to listen to common feedback", clearly a chapter that could have been separated in half.
 
-### 🖼️Outline
+### Outline
 
-![Decoding Greatness (book).webp](/books/decoding-greatness-book.webp)
-## 📒 Notes
+![Decoding Greatness (book)](/books/decoding-greatness-book.webp)
+## Notes
 
-### Introduction Introduction
+### Introduction
 
-[globalization](/notes/globalization.md) has caused the world to shrink, turning the whole world into a single competitive market. Now it's a "winner takes all" situation, where the first to outshine others wins it all, and the rest are destroyed [creative destruction](/notes/creative-destruction.md).
+[Globalization intensifies competition and forces specialization](/notes/globalization-intensifies-competition-and-forces-specialization.md) has caused the world to shrink, turning the whole world into a single competitive market. Now it's a "winner takes all" situation, where the first to outshine others wins it all, and the rest are destroyed [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md).
 
-In this world it's essential to sharpen your [competitive advantage](/notes/competitive-advantage.md), this can only be done through [lifelong learning](/notes/lifelong-learning.md), but most importantly learning through others by reverse engineering their ideas [imitation](/notes/imitation.md). To tear their ideas apart, identity the essence and the unique contribution of each component, and add your own value and make something new.
+In this world it's essential to sharpen your [Finding your unique strength creates sustainable advantage](/notes/finding-your-unique-strength-creates-sustainable-advantage.md), this can only be done through [Learning must continue constantly throughout life](/notes/learning-must-continue-constantly-throughout-life.md), but most importantly learning through others by reverse engineering their ideas [Imitation internalizes others' behaviors and mental models at varying depths](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md). To tear their ideas apart, identity the essence and the unique contribution of each component, and add your own value and make something new.
 
-It's important to balance between imitation and originality. If you're just imitating you don't add any value so you are just a worse alternative than your competitor. If you are "too original", people won't know how to evaluate you, you need a level of familiarity [Moderation](/notes/balance-extremes.md).
+It's important to balance between imitation and originality. If you're just imitating you don't add any value so you are just a worse alternative than your competitor. If you are "too original", people won't know how to evaluate you, you need a level of familiarity [Moderation](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md).
 
 :::note[Introduction]
 
@@ -94,18 +108,18 @@ It's important to balance between imitation and originality. If you're just imit
 
 #### The Mastery Detectives
 
-There are three sources of [competence](/notes/competence.md):
-1. **Raw talent** - what we are born with [luck](/notes/luck.md)
+There are three sources of [Competence is developed through practice not innate talent](/notes/competence-is-developed-through-practice-not-innate-talent.md):
+1. **Raw talent** - what we are born with [Luck is external randomness affecting outcomes beyond control](/notes/luck-is-external-randomness-affecting-outcomes-beyond-control.md)
 2. **Practice** - developing our skills by practicing them again and again [Practice beats talent](/notes/practice-beats-talent.md)
 3. **Imitation** - to learn from others
 
-Imitation can start as something as simple as copy work, doing exactly what others have done without changing anything. This alone can open us to how the experts see the world, why did they make certain choices, and what a good output can look like. It gives perspective and direction to explore.
+Imitation can start as something as simple as copy work, doing exactly what others have done without changing anything. This alone can open us to how the experts see the world, why did they make certain choices, and what a good output can look like. It gives perspective and direction to explore [Copying expert work reveals how experts see and decide](/notes/copying-expert-work-reveals-how-experts-see-and-decide.md).
 
-The most important thing to get from copying the experts is the underling aspects. Like learning chords from songs, ingredients from recipes, and principles from coding [pattern recognition](/notes/systematical-thinking.md). This is what would transform mindless copying to learning and being able to create something new [transferred learning](/notes/transferred-learning.md).
+The most important thing to get from copying the experts is the underling aspects. Like learning chords from songs, ingredients from recipes, and principles from coding [pattern recognition](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md). This is what would transform mindless copying to learning and being able to create something new [Knowledge applied across contexts enables learning generalization](/notes/knowledge-applied-across-contexts-enables-learning-generalization.md).
 
-It's not the copying itself per say that leads to creativity, but what we learn from it. It breaks our default way of thinking, providing a new way of looking at things [clean slate](/notes/clean-slate.md).
+It's not the copying itself per say that leads to creativity, but what we learn from it. It breaks our default way of thinking, providing a new way of looking at things [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md).
 
-It also makes it easier to get better quickly because we can learn lessons that took much time, effort and resources to learn in a quick way [Upfront costs](/notes/upfront-costs.md). Also, looking at other's work is much more likely to promote [creativity](/notes/remixing.md) and originality because we can hardly do anything original by ourselves. We need [peer support](/notes/peer-support.md) to get better, we need [diversity](/notes/diversity.md) because today the requirements to be innovative are so high that no one person can do it alone [complexity](/notes/complexity.md)
+It also makes it easier to get better quickly because we can learn lessons that took much time, effort and resources to learn in a quick way [Initial effort investments create friction preventing optimal behavior change](/notes/initial-effort-investments-create-friction-preventing-optimal-behavior-change.md). Also, looking at other's work is much more likely to promote [creativity](/notes/creativity-is-combining-existing-ideas-in-new-ways.md) and originality because we can hardly do anything original by ourselves. We need [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md) to get better, we need [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md) because today the requirements to be innovative are so high that no one person can do it alone [complexity](/notes/complexity.md)
 
 :::note[The Mastery Detectives]
 
@@ -126,13 +140,13 @@ It also makes it easier to get better quickly because we can learn lessons that 
 
 [AI](/notes/artificial-intelligence.md) is good at making predictions and identifying connections we aren't aware of. Through our behavior they can detect preferences that are even hidden from us.
 
-To recognize valuable patterns and separate them from the [noise](/notes/noise.md), we first need to collect data, and lots of it. Having many examples would make learning much easier [practice beats perfection](/notes/practice-beats-perfection.md). In our case, collecting examples means finding [experts](/notes/mentor.md) who will show you the way. This will solve the inherent problem about practice till improvement. You can practice an idea you are not familiar with.
+To recognize valuable patterns and separate them from the [Noise obscures truth with external interference and confusion](/notes/noise-obscures-truth-with-external-interference-and-confusion.md), we first need to collect data, and lots of it. Having many examples would make learning much easier [Practice beats perfection](/notes/practice-beats-perfection.md). In our case, collecting examples means finding [experts](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md) who will show you the way. This will solve the inherent problem about practice till improvement. You can practice an idea you are not familiar with.
 
-Therefore improvement is all about [sampling](/notes/sampling.md), finding the right examples to learn from. For example, being a writer without reading a lot is prone to failure. Only through learning from successful writers will you be able to improve [Survivors Bias](/notes/survivors-bias.md).
+Therefore improvement is all about [sampling](/notes/sampling.md), finding the right examples to learn from. For example, being a writer without reading a lot is prone to failure. Only through learning from successful writers will you be able to improve [We draw conclusions only from what survived](/notes/we-draw-conclusions-only-from-what-survived.md).
 
-To detect patterns we also need to [Zoom out](/notes/zoom-out.md), to go up the ladder of abstraction and try to see the commonalities. One way of abstraction is quantification, to find measurable metrics that will help you compare between different contents. Another option is qualitative, like writing the outline of an existing content. To identify the logical structure behind the argument, the methods used.
+To detect patterns we also need to [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md), to go up the ladder of abstraction and try to see the commonalities. One way of abstraction is quantification, to find measurable metrics that will help you compare between different contents. Another option is qualitative, like writing the outline of an existing content. To identify the logical structure behind the argument, the methods used.
 
-Together you will be able to not only figure out how these examples differ from one another, but hopefully also understand why they are like that. For example, showing that a successful presenter spends most of his time on jokes and anecdotes will not only help you outline a better presentation, but also glean into the power of storytelling and appealing to emotions rather than logic for persuasion.
+Together you will be able to not only figure out how these examples differ from one another, but hopefully also understand why they are like that. For example, showing that a successful presenter spends most of his time on jokes and anecdotes will not only help you outline a better presentation, but also glean into the power of storytelling and appealing to emotions rather than logic for persuasion [Facts harden conviction rather than change minds](/notes/facts-harden-conviction-rather-than-change-minds.md).
 
 :::note[Algorithmic Thinking]
 
@@ -147,15 +161,15 @@ Together you will be able to not only figure out how these examples differ from 
 
 #### The Curse of Creativity
 
-Copying is not enough. If you just copy a formula you are bound to fail, at the least for being a lesser copy of the source. What you need is a combination of a formula and your unique insights, to adapt it as you see fit and based on your strengths and worldview [skill synthesis](/notes/skill-synthesis.md). Two people with the same formula would have two different results.
+Copying is not enough. If you just copy a formula you are bound to fail, at the least for being a lesser copy of the source. What you need is a combination of a formula and your unique insights, to adapt it as you see fit and based on your strengths and worldview [Unique skill combinations create competitive and creative advantage](/notes/unique-skill-combinations-create-competitive-and-creative-advantage.md). Two people with the same formula would have two different results.
 
-However, don't go completely overboard with changing, too much novelty is met with fear and scorn. People prefer some familiarity [Familiarity bias](/notes/familiarity-bias.md).
+However, don't go completely overboard with changing, too much novelty is met with fear and scorn. People prefer some familiarity [We prefer what is familiar over what is better](/notes/we-prefer-what-is-familiar-over-what-is-better.md).
 
 Therefore what you need is a mix of old and new.
 
-Where do you get the "new" from? The answer is outside your expertise. You need to [Experiment](/notes/testing.md) with new ideas and get mixed with experts from those fields [weak ties](/notes/weak-ties.md). If those experts are not available, even just asking yourself "how would x do it?" Is sufficient to trigger a new way of thinking [rethinking](/notes/rethinking.md). But from there, you take it and make it your own.
+Where do you get the "new" from? The answer is outside your expertise. You need to [Experiment](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md) with new ideas and get mixed with experts from those fields [Weak social ties bridge different networks and expand access to opportunities](/notes/weak-social-ties-bridge-different-networks-and-expand-access-to-opportunities.md). If those experts are not available, even just asking yourself "how would x do it?" Is sufficient to trigger a new way of thinking [Rethinking means updating beliefs by reconsidering what you thought you knew](/notes/rethinking-means-updating-beliefs-by-reconsidering-what-you-thought-you-knew.md) [Simulating how someone else would act reframes any problem](/notes/simulating-how-someone-else-would-act-reframes-any-problem.md). But from there, you take it and make it your own.
 
-When you explore, choosing what to explore is important. Similarly, choosing what not to pay attention to is also critical [less is more](/notes/addition-by-subtraction.md). Don't listen to random noise that lacks true value. One way to [filter](/notes/filtering.md) out noise is see which passes the [Lindy Effect](/notes/lindy-effect.md), the concepts and methods that have survived a long time are very helpful even now. Similarly, rereading content could help you see those bits of wisdom in a new light [repetition](/notes/spaced-repetition.md), and might be more beneficial than consuming something new.
+When you explore, choosing what to explore is important. Similarly, choosing what not to pay attention to is also critical [less is more](/notes/improvement-often-comes-from-removing-rather-than-adding.md). Don't listen to random noise that lacks true value. One way to [filter](/notes/filtering-is-choosing-what-to-consume-before-distilling-it.md) out noise is see which passes the [The longer something has lasted the longer it will last](/notes/the-longer-something-has-lasted-the-longer-it-will-last.md), the concepts and methods that have survived a long time are very helpful even now. Similarly, rereading content could help you see those bits of wisdom in a new light [repetition](/notes/repeated-exposure-to-information-strengthens-memory-retention.md), and might be more beneficial than consuming something new.
 
 :::note[The Curse of Creativity]
 
@@ -172,7 +186,7 @@ When you explore, choosing what to explore is important. Similarly, choosing wha
 
 ### The Vision-ability Gap
 
-When we start imitating experts, we intentionally or unintentionally raise our bar of excellence while our capabilities are still lagging behind. This is the *vision ability gap*, which results in [first batch trash](/notes/first-batch-trash.md), and the dissonance between the low quality of our output vs our high [expectations](/notes/expectations.md) causes us to [quit](/notes/when-to-quit.md).
+When we start imitating experts, we intentionally or unintentionally raise our bar of excellence while our capabilities are still lagging behind. This is the *vision ability gap*, which results in [First attempts are inherently lower quality than iterations](/notes/first-attempts-are-inherently-lower-quality-than-iterations.md), and the dissonance between the low quality of our output vs our high [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) causes us to [quit](/notes/knowing-when-to-stop-prevents-wasted-persistence-on-misaligned-goals.md).
 
 :::note[The Vision-Ability Gap]
 
@@ -183,14 +197,14 @@ When we start imitating experts, we intentionally or unintentionally raise our b
 
 #### The Scoreboard Principle
 
-To close down the gap and improve our capabilities accordingly, we need to keep score [periodical review](/notes/periodical-review.md). By measuring and quantifying our inputs and outputs, we can improve much faster simply because it adds [visibility](/notes/visibility.md) to what we do. It's much harder to ignore cases of [procrastination](/notes/procrastination.md) and it gives us an [incentive](/notes/incentives.md) to improve because we are now measured by what we do.
+To close down the gap and improve our capabilities accordingly, we need to keep score [Regular review cycles enable progress tracking and alignment](/notes/regular-review-cycles-enable-progress-tracking-and-alignment.md). By measuring and quantifying our inputs and outputs, we can improve much faster simply because it adds [What matters most is often less visible than what is salient](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md) to what we do. It's much harder to ignore cases of [Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md) and it gives us an [incentive](/notes/incentives-shape-behavior-by-making-certain-actions-more-attractive.md) to improve because we are now measured by what we do.
 
-We can easily see how [gamification](/notes/gamification.md) provides us with motivation to be better and do more, the problem arises when the metrics are irrelevant or lead to wrong incentives [Goodhart’s Law](/notes/goodhart’s-law.md).
+We can easily see how [Gamification increases motivation by making activities enjoyable](/notes/gamification-increases-motivation-by-making-activities-enjoyable.md) provides us with motivation to be better and do more, the problem arises when the metrics are irrelevant or lead to wrong incentives [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md).
 
-Having good metrics will allow us to improve through good habits, [chunking](/notes/chunking.md) aka breaking down tasks into small components that can be improved easily. Furthermore, they can help us gain immediate [feedback](/notes/feedback.md) with being reliant on someone else, and see which indicators are more relevant in terms of lag or leading factors to success.
+Having good metrics will allow us to improve through good habits, [Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.md) aka breaking down tasks into small components that can be improved easily. Furthermore, they can help us gain immediate [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md) with being reliant on someone else, and see which indicators are more relevant in terms of lag or leading factors to success.
 
 To avoid the problem of inverse incentives, we need metrics that are:
-1. **Diverse** - have several metrics, best of different kinds (long/short term, quantitative/qualitative, etc) [Multitrack](/notes/multitrack.md)
+1. **Diverse** - have several metrics, best of different kinds (long/short term, quantitative/qualitative, etc) [Generating multiple alternatives simultaneously improves outcomes](/notes/generating-multiple-alternatives-simultaneously-improves-outcomes.md)
 2. **Completing** - add negative metrics as well, things you want to avoid
 3. **Evolving** - change your metrics over time based on your situation, goals and needs
 
@@ -206,12 +220,12 @@ To avoid the problem of inverse incentives, we need metrics that are:
 
 #### How to Take the risk out of risk Taking
 
-We know that failure and challenge are necessary for growth [Obstacles as stepping stones](/notes/creative-destruction.md) [learning should be hard](/notes/learning-should-be-hard.md), but our workplaces are the opposite of a growth inductive environment. It lacks immediate quality feedback, acceptance of failure and risk taking, and emphasis on growth and tailor made challenges.
+We know that failure and challenge are necessary for growth [Obstacles as stepping stones](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md) [Learning should be hard](/notes/learning-should-be-hard.md), but our workplaces are the opposite of a growth inductive environment. It lacks immediate quality feedback, acceptance of failure and risk taking, and emphasis on growth and tailor made challenges [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md).
 
 The key to improvement through reduction of risks while still taking chances:
-1. **Mini experiments** - [start small](/notes/start-small.md), to create a few easy "cheap" products/content to test out, only to get crucial feedback and learn while the costs are still low, so that you can improve better when you go big.
-2. **Use pseudonyms** - who we are is a type of [path dependence](/notes/path-dependence.md). By embracing a new identity we have a clean slate and are able to test freely, both from others and ours [cognitive distancing](/notes/cognitive-distancing.md). [change starts from the inside out](/notes/change-starts-from-the-inside-out.md).
-3. **Tasting** - there is no value in seeking perfection if you create something nobody wants. First ask people and seek their preferences.
+1. **Mini experiments** - [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md), to create a few easy "cheap" products/content to test out, only to get crucial feedback and learn while the costs are still low, so that you can improve better when you go big.
+2. **Use pseudonyms** - who we are is a type of [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md). By embracing a new identity we have a clean slate and are able to test freely, both from others and ours [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md). [change starts from the inside out](/notes/change-starts-from-the-inside-out.md).
+3. **Tasting** - there is no value in seeking perfection if you create something nobody wants. First ask people and seek their preferences [Creating without validating demand wastes effort](/notes/creating-without-validating-demand-wastes-effort.md).
 4. **Diversify** - don't pull all your eggs in a single basket. Diversify your options by creating different forms of content, or evolve over time
 
 :::note[How to Take the Risk Out of Risk Taking]
@@ -227,11 +241,11 @@ The key to improvement through reduction of risks while still taking chances:
 #### Practicing in Three Dimensions
 
 What differs experts and novices:
-1. **Intuition** - experts are better at filtering information, both identifying crucial cues that seem irrelevant, and removing noise [intuition](/notes/intuition.md). They think more about less things.
-2. **Hardware** - due to [Neuroplasticity](/notes/neuroplasticity.md), our brain adapts over time to be better at what they are doing. So not only that we have access to better information, we can also process it better.
-3. **Reflective practice** - experts are more likely to reflect and evaluate past performance. For example, [Journaling](/notes/journaling.md) is a good practice that allows for reflection and processing of events, emotions and actions [introspection](/notes/introspection.md).
-4. **Pre mortem** - it's useful to imagine in advance what is your goal, how you can achieve it, and which obstacles you might face along the way [Pre-Mortem](/notes/pre-mortem.md). Using this visualization technique you can prepare in advance mentally, emotionally, and logistically to future challenges. Even 10 minutes is enough.
-5. **Diverse difficulty** - [habit formation](/notes/habit-formation.md) is the enemy of mastery. If something becomes automated, we are less mindful and focused while doing it, which could make out weaknesses permeant. We instead have constantly change our training. Either train in a new way, increase the difficulty, or combine it with another field.
+1. **Intuition** - experts are better at filtering information, both identifying crucial cues that seem irrelevant, and removing noise [Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md). They think more about less things.
+2. **Hardware** - due to [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md), our brain adapts over time to be better at what they are doing. So not only that we have access to better information, we can also process it better.
+3. **Reflective practice** - experts are more likely to reflect and evaluate past performance. For example, [Journaling enables reflection and self-understanding through written documentation](/notes/journaling-enables-reflection-and-self-understanding-through-written-documentation.md) is a good practice that allows for reflection and processing of events, emotions and actions [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md).
+4. **Pre mortem** - it's useful to imagine in advance what is your goal, how you can achieve it, and which obstacles you might face along the way [Pre-mortem anticipates failure modes to enable preparation](/notes/pre-mortem-anticipates-failure-modes-to-enable-preparation.md). Using this visualization technique you can prepare in advance mentally, emotionally, and logistically to future challenges. Even 10 minutes is enough.
+5. **Diverse difficulty** - [Repeated actions become automatic through habit formation](/notes/repeated-actions-become-automatic-through-habit-formation.md) is the enemy of mastery. If something becomes automated, we are less mindful and focused while doing it, which could make out weaknesses permeant [Automation of skill makes weaknesses permanent](/notes/automation-of-skill-makes-weaknesses-permanent.md). We instead have constantly change our training. Either train in a new way, increase the difficulty, or combine it with another field.
 
 :::note[Practicing in Three Dimensions]
 
@@ -245,7 +259,7 @@ What differs experts and novices:
 
 #### How to Talk to Experts
 
-Experts are usually bad teachers. They are often so many levels above us that they forget what it's like to be us. They suffer from the [curse of knowledge](/notes/curse-of-knowledge.md), unable to imagine themselves otherwise. Another problem is that the majority of their expertise has been converted to intuition so they are unaware of what a novice needs to know, and what makes them experts.
+Experts are usually bad teachers. They are often so many levels above us that they forget what it's like to be us. They suffer from the [Once learned, knowledge makes it impossible to imagine its absence](/notes/once-learned-knowledge-makes-it-impossible-to-imagine-its-absence.md), unable to imagine themselves otherwise. Another problem is that the majority of their expertise has been converted to intuition so they are unaware of what a novice needs to know, and what makes them experts.
 
 To make their expertise a bit more visible and understandable, we could ask:
 1. Journey questions - what resources you used to be where you are? Which points are crucial?
@@ -254,7 +268,7 @@ To make their expertise a bit more visible and understandable, we could ask:
 
 When receiving feedback, especially from non-expert crowed, we have to make sure it meets the criteria for useful feedback, otherwise it's just noise:
 1. Specific - general comments offer nothing of value, what exactly was good/bad?
-2. Improvement focused - how can I do better [advice](/notes/advice.md) is more important than what went wrong
+2. Improvement focused - how can I do better [Seeking and giving advice both expand our perspective](/notes/seeking-and-giving-advice-both-expand-our-perspective.md) is more important than what went wrong
 3. Aware of our context - who are we aiming at? What is our goal?
 4. Properly timed - it needs actionable insights right now, otherwise it's just "too little too late"
 

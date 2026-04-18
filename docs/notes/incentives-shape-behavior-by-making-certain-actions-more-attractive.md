@@ -1,13 +1,13 @@
 ---
 UUID: 20230731073335
 Created: '2023-07-31 07:33'
-Modified: '2026-04-10 13:50'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Incentives
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   often driven by personal benefit, influencing behavior and distorting
   intentions in pursuit of utility.
 new_schema: true
+Topic:
+  - '[[Environment and Behavior]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ Additionally, incentives harm [Repeated actions become automatic through habit f
 ## Visual
 
 ![Incentives](/notes/incentives.webp)
-
-## Overview
-🔼Topic:: [Environment and Behavior](/notes/environment-and-behavior.md)
-Origin::
-🔗Link::
-

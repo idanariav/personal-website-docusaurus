@@ -1,13 +1,13 @@
 ---
 UUID: 20240219082628
 Created: '2024-02-19 08:26'
-Modified: '2026-04-09 09:06'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Pragmatism
 Description: >-
@@ -15,6 +15,11 @@ Description: >-
   effective in practice, prioritizing actionable outcomes over absolute,
   abstract truths.
 new_schema: true
+Topic:
+  - '[[Foundations of Knowledge]]'
+  - '[[Moral Epistemology]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,10 +57,3 @@ At first glance it seems that pragmatism is related to [What is moral depends on
 ## Visual
 
 ![Pragmatism](/notes/pragmatism.webp)
-
-## Overview
-🔼Topic:: [Foundations of Knowledge](/notes/foundations-of-knowledge.md)
-🔼Topic:: [Moral Epistemology](/notes/moral-epistemology.md)
-↩️Origin::
-🔗Link::
-

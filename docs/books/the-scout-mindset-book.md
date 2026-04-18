@@ -1,7 +1,7 @@
 ---
 UUID: 20250814140256
 Created: '2025-08-14 14:02'
-Modified: '2025-09-21 06:36'
+Modified: '2026-04-13 06:20'
 tags: []
 FullTitle: The Scout Mindset - Why Some People See Things Clearly and Others Don't
 Description: >-
@@ -16,8 +16,10 @@ URL: 'https://www.goodreads.com/book/show/42041926-the-scout-mindset'
 Cover: >-
   http://books.google.com/books/content?id=Ai_ZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 ASIN: B07L2HQ26K
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
@@ -25,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 266
 Reread: 0
 Rate: 4
@@ -34,6 +36,10 @@ StartDate: 2025-08-26T00:00:00.000Z
 FinishDate: 2025-09-17T00:00:00.000Z
 Image: null
 aliases: ''
+Topic:
+  - '[[Mindset (Map)]]'
+  - '[[Examining ideas rigorously before accepting them as true]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -42,12 +48,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: Mindset (Map)
-⬆️Topic:: Critical Thinking
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Search for truth, don't protect it** - Seeing the world clearly is key for growth, happiness and success. We must be seekers of truths, and avoid thinking that what we know is true for certain, like a scout that constantly updates their map based on what they find out. When you encounter something contradicting or unexpected, don't dismiss it, lean into it with curiosity
 2. **We overestimate and overuse soldier's mindset** - To have a soldier's mindset, aka super protective of your beliefs even if it counter to the truth has it's benefits. Usually they are short term - to have more comfort and confidence thinking that you are not wrong and someone else is to blame. A scout mindset however has a long term benefit that's hard to see at first. It takes time to find the truth, and there are many mistakes to learn from on the way
@@ -57,13 +58,13 @@ SiteProcssed: true
 6. **Find reasonable people** - Escaping your echo chamber is not enough, it will only make you more entrenched with your opinions. To really open your mind, try to find places that promote truth above all else, and reasonable people to talk to from the other side. Comment wars lead to nothing, discussion leads to change
 7. **Hold your identity lightly** - Attaching your identity to your beliefs makes you more defensive and less likely to change. Try to make a scout mindset as your main identity, and treat identities as something fluid and changeable, a mere temporary description rather than a fixed permanent thing.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 1. You will have a better grasp of reality, which is a foundation for happiness and success
 2. You will be able to learn from failure
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **Scout mindset** - To see the world clearly, to question your assumptions, to make truth seeking our main goal, and constantly update our beliefs according to facts
@@ -75,24 +76,24 @@ SiteProcssed: true
 🧱 *Implementations and limitations of it are...*
 The implementation tips are scattered throughout the book, and are covered briefly. In that sense it is more of a motivation book rather than a practical one.
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 I really liked the section where she points out all the advantages of a soldier mindset and why we tend to stick with it, it gave so much depth and nuance to her writing.
 Her book became slower towards the end, but other than that it is a very good book.
 
-### 🖼️Outline
+### Outline
 
 ![The Scout Mindset (book)](/books/the-scout-mindset-book.webp)
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-Good judgment comes from seeing the world as it is Objectivism rather than how we wish it to be Subjective Reality. This is the *scout's mindset*: to explore our misconceptions, remain open to changing our opinions, and question our assumptions scientific method.
+Good judgment comes from seeing the world as it is [Seeing reality without subjective bias reduces distortion](/notes/seeing-reality-without-subjective-bias-reduces-distortion.md) rather than how we wish it to be [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md). This is the *scout's mindset*: to explore our misconceptions, remain open to changing our opinions, and question our assumptions [Empirical testing not reason alone discovers truth](/notes/empirical-testing-not-reason-alone-discovers-truth.md).
 
-Recognizing that we might fall prey to biases does not help us avoid them Akrasia. It is not a matter of lacking knowledge but rather about our attitude Morality is both rational and emotional.
+Recognizing that we might fall prey to biases does not help us avoid them [Knowing the right thing doesn't mean we do it](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md). It is not a matter of lacking knowledge but rather about our attitude [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md).
 
-The belief that we must deceive ourselves to be happy and successful—such as Manifesting or being overconfident—does more harm than good. Ignoring or distorting information is not a path to success, nor do "realistic" people lack joy. Those who see the world clearly still experience optimism and cheerfulness Pragmatism.
+The belief that we must deceive ourselves to be happy and successful—such as [Manifesting imposes beliefs onto reality rather than accepting it](/notes/manifesting-imposes-beliefs-onto-reality-rather-than-accepting-it.md) or being [overconfident](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md)—does more harm than good. Ignoring or distorting information is not a path to success, nor do "realistic" people lack joy. Those who see the world clearly still experience optimism and cheerfulness [Truth and goodness are defined by practical usefulness](/notes/truth-and-goodness-are-defined-by-practical-usefulness.md).
 
 :::note[INTRODUCTION]
 
@@ -107,9 +108,9 @@ The belief that we must deceive ourselves to be happy and successful—such as M
 
 #### Two Types of Thinking
 
-We often believe we are clear-headed, yet we fall prey to *motivated reasoning*, a combination of Conformation Bias and Rationalism. When we encounter evidence that supports our beliefs, we ask, *Can I believe this?* (the answer is usually "yes"). In contrast, when faced with contradictory evidence, we ask, *Must I believe this?* (the answer is usually "no"). We may not even realize we are engaging in self deception.
+We often believe we are clear-headed, yet we fall prey to *motivated reasoning*, a combination of [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md) and [Truth is discoverable through reason and logic alone](/notes/truth-is-discoverable-through-reason-and-logic-alone.md). When we encounter evidence that supports our beliefs, we ask, *Can I believe this?* (the answer is usually "yes"). In contrast, when faced with contradictory evidence, we ask, *Must I believe this?* (the answer is usually "no"). We may not even realize we are engaging in self [deception](/notes/deception.md).
 
-A scout, on the other hand, asks, *Is it true?* Truth. They seek to understand what is truly "out there" instead of what they hope to see. They recognize that any knowledge we have of the world, any "map of reality," is merely a Shallow copy of true reality ("the map is not the territory"). Scouts do not need to defend their beliefs; they approach them with Curiosity, understanding that improving the map is more important than avoiding being wrong.
+A scout, on the other hand, asks, *Is it true?* [Truth](/notes/truth.md). They seek to understand what is truly "out there" instead of what they hope to see. They recognize that any knowledge we have of the world, any "map of reality," is merely a [Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md) of true reality ("the map is not the territory"). Scouts do not need to defend their beliefs; they approach them with [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md), understanding that improving the map is more important than avoiding being [wrong](/notes/failure-is-a-necessary-part-of-learning-and-growth.md).
 
 :::note[Two Types of Thinking]
 
@@ -128,8 +129,8 @@ What are the benefits of having a soldier's mindset?
 
 There are emotional benefits:
 1. **Comfort** - It makes life more manageable by framing unachieved good things as *sour grapes* (e.g., "This promotion would have hurt my work-life balance") and achieved bad things as *sweet lemons* (e.g., "This crisis will make me stronger") to avoid disappointment.
-2. **Self-esteem** - You avoid information to protect your Ego.
-3. **Motivation** - It is harder to work diligently at your startup when you know the low success rates. You ignore harmful information to maintain motivation deliberate ignorance.
+2. **Self-esteem** - You avoid information to protect your [Ego](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md).
+3. **Motivation** - It is harder to work diligently at your startup when you know the low success rates. You ignore harmful information to maintain motivation [deliberate ignorance](/notes/deliberate-ignorance.md).
 
 There are also social benefits:
 1. **Persuasion** - It is much easier to persuade others if we believe wholeheartedly (even if it is false).
@@ -149,15 +150,15 @@ A soldier's mindset is common and sometimes useful, but it is rarely the best ap
 
 #### Why Truth is More Valuable Than We Realize
 
-We often have contradicting thoughts, shifting between soldier and scout mindsets depending on the trade-off of what we gain or lose from each mindset.
+We often have [contradicting](/notes/a-person-is-a-community.md) thoughts, shifting between soldier and scout mindsets depending on the [trade-off](/notes/every-choice-costs-the-alternatives-you-gave-up.md) of what we gain or lose from each mindset.
 
 The problem is that we are not adept at evaluating that trade-off because:
-1. **Overestimating the Soldier Mindset** - We are prone to Present Bias, which leads us to value short-term benefits from self-delusion—such as a burst of motivation and a boost to our ego—more than the painful actions that will help us grow.
-2. **Underestimating the Scout Mindset** - The scout mindset has compounding advantages that are meaningful but take time and repetition to develop. Each choice between short-term or long-term gains may seem insignificant, but over time, choosing the scout mindset will help form beneficial habits.
+1. **Overestimating the Soldier Mindset** - We are prone to [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md), which leads us to value short-term benefits from self-delusion—such as a burst of motivation and a boost to our ego—more than the painful actions that will help us grow.
+2. **Underestimating the Scout Mindset** - The scout mindset has [Repeated actions yield exponentially increasing returns over time](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md) advantages that are meaningful but take time and repetition to develop. Each choice between short-term or long-term gains may seem insignificant, but over time, choosing the scout mindset will help [form](/notes/repeated-actions-become-automatic-through-habit-formation.md) beneficial habits.
 
-Sticking with a soldier's mindset creates a vicious cycle because admitting the truth is a painful experience filled with Shame. This leads us to tell another lie, often a bigger one, which buries us deeper in deception.
+Sticking with a soldier's mindset creates a [vicious cycle](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) because admitting the truth is a painful experience filled with [Shame](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md). This leads us to tell another lie, often a bigger one, which buries us deeper in deception.
 
-However, it is better to rip off the band-aid sooner rather than later. Remember that people don't care or notice your faults as much as you think.
+However, it is better to rip off the band-aid sooner rather than later. Remember that people [don't care](/notes/we-overestimate-how-much-others-notice-us.md) or notice your faults as much as you think.
 
 :::note[Why Truth Is More Valuable Than We Realize]
 
@@ -172,13 +173,13 @@ However, it is better to rip off the band-aid sooner rather than later. Remember
 
 The issue with motivated reasoning is that we believe we are being rational throughout the entire process.
 
-We think intelligence protects us, but it hardly does. The only way to develop a scout mindset is through practice Fake it till you make it.
+We think intelligence protects us, but it hardly does. The only way to develop a scout mindset is through practice [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md).
 
 You can practice it by:
-1. Actively seeking Feedback.
-2. Admitting when you are wrong Accusation audit.
+1. Actively seeking [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md).
+2. Admitting when you are wrong [Expose your flaws before others discover them](/notes/expose-your-flaws-before-others-discover-them.md).
 3. Protecting yourself from self-deception—such as using blind testing.
-4. Noticing when you are drawn toward the soldier mindset Self Reflection.
+4. Noticing when you are drawn toward the soldier mindset [Self Reflection](/notes/introspection-develops-self-knowledge-through-internal-examination.md).
 
 :::note[Signs of a Scout]
 
@@ -190,18 +191,18 @@ You can practice it by:
 
 #### Noticing Bias
 
-Motivated reasoning seems logical because we lack access to the Counterfactual. We do not know how fixed our choices are, even if circumstances were different. We use the current context as an excuse, even though we would likely make the same (biased) choice under different circumstances.
+Motivated reasoning seems logical because we lack access to the [Imagining alternatives sharpens our judgment](/notes/imagining-alternatives-sharpens-our-judgment.md). We do not know how fixed our choices are, even if circumstances were different. We use the current context as an excuse, even though we would likely make the same (biased) choice under different circumstances.
 
-However, there are thought experiment that allow us to glimpse into a counterfactual world:
+However, there are [thought experiment](/notes/thought-experiment.md) that allow us to glimpse into a counterfactual world:
 1. **Double Standard Test** - Twist the scenario (or your role in it). If it had happened to you or a close person, would you still think or act the same?
-2. **Outsider Test** - Imagine an outsider facing the same choice. What would they do? Zoom out.
-3. **Conformity Test** - Imagine your colleagues saying the opposite of what they currently say. Would you still feel the same? Conformism.
+2. **Outsider Test** - Imagine an outsider facing the same choice. What would they do? [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md).
+3. **Conformity Test** - Imagine your colleagues saying the opposite of what they currently say. Would you still feel the same? [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md).
 4. **Selective Skeptic Test** - Imagine the evidence is reversed, supporting the opposite conclusion. Would you still find it credible?
-5. **Status Quo Bias Test** - What if the status quo were different? Instead of debating B when A, you would be debating A when B. How would that affect your decision? Status-quo bias.
+5. **Status Quo Bias Test** - What if the status quo were different? Instead of debating B when A, you would be debating A when B. How would that affect your decision? [We prefer existing situations over alternatives despite better options](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md).
 
 #### How Sure Are You?
 
-Overconfidence is dangerous. We often revert to Binary Thinking of either 100% certainty or 0%. We need to think in terms of ranges of certainty, such as 60% or 70%. This better reflects our degree of confidence in our knowledge.
+Overconfidence is dangerous. We often revert to [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) of either 100% certainty or 0%. We need to think in terms of ranges of certainty, such as 60% or 70%. This better reflects our degree of confidence in our knowledge.
 
 To test this, we can "wager" how likely we are to be right. We will have no problem betting large sums on things we are completely certain about, but as our confidence decreases, we will likely be willing to bet lower sums.
 
@@ -209,7 +210,7 @@ To test this, we can "wager" how likely we are to be right. We will have no prob
 
 #### Coping with Reality
 
-Difficult moments will arise—moments of self-doubt or even despair. We often do everything to avoid these feelings, but unfortunately, we frequently choose Coping strategies that are harmful, especially when we need to be clear-headed, such as denial or blame.
+Difficult moments will arise—moments of self-doubt or even despair. We often do everything to avoid these feelings, but unfortunately, we frequently choose [Coping trades short-term relief for long-term cost](/notes/coping-trades-short-term-relief-for-long-term-cost.md) strategies that are harmful, especially when we need to be clear-headed, such as denial or blame.
 
 However, there are also effective coping strategies, such as:
 1. **Make a Plan** - What should you do "in case" the horrible truth is true? For example, if the criticism you received is valid.
@@ -230,7 +231,7 @@ There is a false dichotomy that to pursue our goals, we must deceive ourselves; 
 
 Instead, we should focus on whether the goal is worth pursuing given our current circumstances and alternative options. If so, we have the right to give it our all.
 
-A goal worth pursuing is not necessarily one with high chances of success. It is about making a *good bet*, calculating the expected Utility, and pursuing it if it is positive. That is why we need a clear head throughout the process. Knowing the odds of our success is critical in every decision; it is not just about having a goal and being blindly motivated. It is about the flexibility to change our minds based on circumstances and making necessary adjustments to improve our chances.
+A goal worth pursuing is not necessarily one with high chances of success. It is about making a *good bet*, calculating the expected [Utility quantifies measurable benefits and guides rational decisions](/notes/utility-quantifies-measurable-benefits-and-guides-rational-decisions.md), and pursuing it if it is positive. That is why we need a clear head throughout the process. Knowing the odds of our success is critical in every decision; it is not just about having a goal and being blindly motivated. It is about the flexibility to change our minds based on circumstances and making necessary adjustments to improve our chances.
 
 :::note[Motivation Without Self-Deception]
 
@@ -264,7 +265,7 @@ Having a better grasp of reality means we cannot ignore our mistakes. The scout 
 1. Reviewing your mistakes more often.
 2. Treating mistakes as opportunities for learning.
 
-There is nothing wrong with being wrong. It is possible that you made the best choice you could at that time. Failures are not marks of shame; they are simply signs that you need to update your beliefs based on the facts Bayes probability.
+There is nothing wrong with being wrong. It is possible that you made the best choice you could at that time. Failures are not marks of shame; they are simply signs that you need to update your beliefs based on the facts [Bayes probability](/notes/conditional-probability.md).
 
 :::note[How to Be Wrong]
 
@@ -278,7 +279,7 @@ There is nothing wrong with being wrong. It is possible that you made the best c
 
 When you encounter information that contradicts your beliefs, do not dismiss it. Similarly, do not assume that everyone else is stupid or naive. Approach their position with curiosity; you never know what you might discover.
 
-Over time, contradictory evidence can stretch our current beliefs until we reach a Critical mass and experience a *paradigm shift*—a moment when the house of cards representing our former beliefs collapses and is replaced by a different network of beliefs better suited to the information we have gathered.
+Over time, contradictory evidence can stretch our current beliefs until we reach a [Change happens suddenly once a threshold is crossed](/notes/change-happens-suddenly-once-a-threshold-is-crossed.md) and experience a *paradigm shift*—a moment when the house of cards representing our former beliefs collapses and is replaced by a different network of beliefs better suited to the information we have gathered.
 
 :::note[Lean In to Confusion]
 
@@ -289,17 +290,17 @@ Over time, contradictory evidence can stretch our current beliefs until we reach
 
 #### Escape Your Echo Chamber
 
-Leaving your echo chamber might have the reverse effect; we may double down on our opinions when we hear the other side.
+Leaving your echo chamber might have the [reverse](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) effect; we may double down on our opinions when we hear the other side.
 
 However, if we engage in discussion with someone we empathize with, trust, and find reasonable and respectable, we may open our minds and be willing to change.
 
-It takes mental effort and Patience to listen to the other side.
+It takes mental effort and [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md) to [listen](/notes/listening-well-requires-active-effort-to-understand.md) to the other side.
 
 ### Rethinking Identity
 
 #### How Beliefs Become Identities
 
-Ideologies can quickly turn into identity wars Us vs them, making it much harder to see things clearly or change our minds. We protect our beliefs fiercely because we feel our identity is under attack.
+Ideologies can quickly turn into identity wars [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md), making it much harder to see things clearly or change our minds. We protect our beliefs fiercely because we feel our identity is under attack.
 
 :::note[How Beliefs Become Identities]
 
@@ -323,7 +324,7 @@ In contrast, holding our identity lightly allows for flexibility and clarity in 
 
 #### A Scout Identity
 
-The advantage of a scout mindset emerges when we embrace the identity of a scout change starts from the inside out. If we prioritize intellectual humility, skepticism of our knowledge, and improvement over ego, we can thrive.
+The advantage of a scout mindset emerges when we embrace the identity of a scout [change starts from the inside out](/notes/change-starts-from-the-inside-out.md). If we prioritize intellectual [humility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md), skepticism of our knowledge, and improvement over ego, we can thrive.
 
 :::note[A Scout Identity]
 

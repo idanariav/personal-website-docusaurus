@@ -1,41 +1,55 @@
 ---
 UUID: 20240429162903
 Created: '2024-04-29 16:29'
-Modified: '2024-10-01 07:32'
+Modified: '2026-04-13 06:22'
 tags: []
+FullTitle: Wired to Create - Unraveling the Mysteries of the Creative Mind
+Description: >-
+  It argues that play nurtures inner motivation, while harmonic passion fosters
+  deep engagement. Daydreaming and solitude enhance creativity through
+  reflection. Trusting intuition, embracing openness, and practicing mindfulness
+  enrich our experiences. Sensitivity to emotions and overcoming adversity
+  promote growth, while non-conformity encourages innovative thinking and
+  resilience.
 Author:
   - '[[Scott Barry Kaufman]]'
   - '[[Carolyn Gregoire]]'
+URL: 'https://www.goodreads.com/book/show/24611590-wired-to-create'
+Cover: >-
+  http://books.google.com/books/content?id=-tNJBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Self-Help
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B00SI02E62
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 2
 Pages: 288
+Reread: 0
 Rate: 3
 PublishDate: 2015-12-29T00:00:00.000Z
+StartDate: 2024-05-23T00:00:00.000Z
 FinishDate: 2024-05-30T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=-tNJBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/24611590-wired-to-create'
+Image: null
 aliases: null
+Topic:
+  - '[[Creativity (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Wired to Create (book)
 
-## 🔗Connect
-🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Play** - Play is not just fun, it's a way for us to test new ideas in way that supports and nurtures inner motivation
 2. **Passion** - Harmonic passion can help us get into the zone, get lost in the moment of onenss with our art, combining both the motivation to act and the grit to follow through the difficult parts.
@@ -47,11 +61,24 @@ SiteProcssed: true
 8. **Sensitivity** - By being connected with our emotions we enrich our lives
 9. **Adversity** - To find meaning in the suffering and having a way to channel all the emotions we have bottled up is the way to grow out of and with the help of those traumas. Obstacles are our stepping stones for growth.
 10. **Non-conformity** - Being creative requires having the courage to think differently, to escape the strong forces of conformism, to accept that being different involves making mistakes and failing over and over again.
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Schedule free imaginative play** - set regular unstructured play sessions (for yourself or children) to encourage unrestricted ideation and intrinsic motivation.
+2. **Cultivate harmonic passion** - choose projects you love and focus on enjoying the process, not only the outcome, to sustain creativity and grit.
+3. **Block deliberate daydream time** - allocate periods for mind wandering (walks, showers, nature) to let the subconscious form new connections.
+4. **Create solitude sessions** - reserve quiet, distraction-free time to tune into your inner voice and generate original ideas.
+5. **Practice intuition awareness** - explore emotions, ask insightful riddling questions, and sometimes reduce sensory input (e.g., close eyes) to notice intuitive insights.
+6. **Seek diverse new experiences** - pursue intellectual, emotional, and aesthetic curiosity regularly to gather material for novel connections.
+7. **Train balanced mindfulness** - practice focused observation but also allow mind wandering so you can notice details and foster creative imagination.
+8. **Develop sensitivity to feelings and ideas** - intentionally attend to and process intense emotions and inner conflicts to deepen creative material.
+9. **Transform adversity into creative work** - reflect on hardships, find meaning, and channel feelings into rebuilding or artistic expression.
+10. **Embrace iterative experimentation** - prioritize generating many ideas, take risks, accept failures (first-batch trash), and use experimentation to refine creative output.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 A more creative person, you will have the tools to increase your creative output and enrich yourself.
@@ -60,16 +87,16 @@ A more creative person, you will have the tools to increase your creative output
 
 🧱 *Implementations and limitations of it are...*
 Some of the "tips" are prescriptive while others are descriptive, meaning that some of the "recommendations" I can try and take to heart - like daydreaming and play, but others are more vague or unclear how can we do more of those or is it just a matter of tendency like "intuition" or "sensitivity"
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 You can tell that it's a post that was expanded into a book only due to popular demand. Most of the chapter's length are various examples of the same thing without adding any depth to it.
 
-### 🖼️Outline
+### Outline
 
-![Wired to Create (book).webp](/books/wired-to-create-book.webp)
+![Wired to Create (book)](/books/wired-to-create-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Preface
 
@@ -79,13 +106,13 @@ Creativity is not a linear process, the final result will vary from what you pla
 
 Creativity is hard to capture by it's very nature of uniqueness and difference, but what we can say that it's not simple.
 
-Creativity is often the result of [complexity](/notes/complexity.md) and [multitude](/notes/a-person-is-a-community.md). Through a messy back and forth [deliberation](/notes/deliberation.md) between all the different parts of ourselves, through self knowledge in a process to create order out of the [ambiguity](/notes/ambiguity.md) we experience, through risk taking and unconventional methods of [Experimentation](/notes/testing.md) and [connection making](/notes/coherentism.md) we are able to be creative. [resonance](/notes/resonance.md).
+Creativity is often the result of [complexity](/notes/complexity.md) and [multitude](/notes/a-person-is-a-community.md). Through a messy back and forth [Deliberation is a discussion that bridges different perspectives](/notes/deliberation-is-a-discussion-that-bridges-different-perspectives.md) between all the different parts of ourselves, through self knowledge in a process to create order out of the [Ambiguity is the absence of clarity in values or facts](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.md) we experience, through risk taking and unconventional methods of [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md) and [connection making](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.md) we are able to be creative. [Resonance is being in sync with reality and others](/notes/resonance-is-being-in-sync-with-reality-and-others.md).
 
-Creativity also requires of us to be [adaptable](/notes/adaptability.md), to be explorative, willing to see and consider many different viewpoints and ideas [diversity](/notes/diversity.md), to be non conformist [Conformism](/notes/social-environment.md), and to be able to unify those multitude of ideas into a single creation.
+Creativity also requires of us to be [adaptable](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md), to be explorative, willing to see and consider many different viewpoints and ideas [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md), to be non conformist [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md), and to be able to unify those multitude of ideas into a single creation.
 
-This can also be perceived as two forces of push and pull, of generating new ideas and filtering/modifying them. They are loosely connected to the [downtime brain](/notes/downtime-brain.md) that helps us generate new ideas (while they "stew" in the brain ) and the [Executive Attention Network](/notes/executive-attention-network.md) that helps us focus and examine our ideas in a critical way and [distill](/notes/distillment.md) the creative spark.
+This can also be perceived as two forces of push and pull, of generating new ideas and filtering/modifying them. They are loosely connected to the [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md) that helps us generate new ideas (while they "stew" in the brain ) and the [Executive Attention Network](/notes/executive-attention-network.md) that helps us focus and examine our ideas in a critical way and [distill](/notes/distilling-separates-essence-from-noise-to-simplify-understanding.md) the creative spark.
 
-Creativity is best fulfilled when it's the result of having fun, of experiencing [flow](/notes/flow.md), not when we force ourselves to produce something but rather when we focus on the process itself [trust the process](/notes/trust-the-process.md).
+Creativity is best fulfilled when it's the result of having fun, of experiencing [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md), not when we force ourselves to produce something but rather when we focus on the process itself [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md).
 
 :::note[Introduction: Messy Minds]
 
@@ -101,13 +128,13 @@ Creativity is best fulfilled when it's the result of having fun, of experiencing
 
 ### Imaginative Play
 
-[play](/notes/gamification.md) is not something we just do for fun, it is a way for us to learn important skills and develop. It is like [Simulations](/notes/simulations.md) where we practice our skills in a enjoyable and safe way, and it is great for [intrinsic motivation](/notes/intrinsic-motivation.md). Imagination is key for [creativity](/notes/ideation.md), and it mostly the result of unrestricted play.
+[play](/notes/play.md) is not something we just do for fun, it is a way for us to learn important skills and develop. It is like [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md) where we practice our skills in a enjoyable and safe way, and it is great for [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md). Imagination is key for [creativity](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md), and it mostly the result of unrestricted play.
 
 At a younger age, it's better to focus on developing free play rather than specific knowledge such as math or reading. Let them develop the capabilities and motivation for learning better later on.
 
 ### Passion
 
-[passion](/notes/passion.md) is key for both productivity and creativity. Passion brings intrinsic motivation towards a certain field, giving us both an inspiration, a spark of motivation to start a project, believing we can achieve it [optimism](/notes/optimism.md) and the necessary [grit](/notes/grit.md) to follow through with the difficulties it brings. Harmonic passion helps us become one with the skill, feeling flow and allowing ourselves to grow in the process [growth mindset](/notes/growth-mindset.md). It is not only to have a dream about a better future self, but also to love the process that will get us there. Meanwhile obsessive passion is more possessive. We are compelled to do it to retain the status quo, without any desire for something to change [fixed mindset](/notes/fixed-mindset.md).
+[Passion is deep desire that sustains intrinsic motivation through difficulty](/notes/passion-is-deep-desire-that-sustains-intrinsic-motivation-through-difficulty.md) is key for both productivity and creativity. Passion brings intrinsic motivation towards a certain field, giving us both an inspiration, a spark of motivation to start a project, believing we can achieve it [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) and the necessary [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) to follow through with the difficulties it brings. Harmonic passion helps us become one with the skill, feeling flow and allowing ourselves to grow in the process [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md). It is not only to have a dream about a better future self, but also to love the process that will get us there. Meanwhile obsessive passion is more possessive. We are compelled to do it to retain the status quo, without any desire for something to change [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md).
 
 :::note[Passion]
 
@@ -122,7 +149,7 @@ At a younger age, it's better to focus on developing free play rather than speci
 
 ### Daydreaming
 
-It's important to let our minds rest and wander. While [mindfulness](/notes/intentionality.md) is essential to reclaim our focus, some inspiration can only come when we don't try to focus on the problem [The law of reverse effect](/notes/the-law-of-reverse-effect.md). By day dreaming, taking a [nature walk](/notes/nature-walk.md), or even a shower we can relax our brain and let new connections be formed by our subconscious that wasn't possible through our conscious thoughts.
+It's important to let our minds rest and wander. While [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) is essential to reclaim our focus, some inspiration can only come when we don't try to focus on the problem [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md). By day dreaming, taking a [Nature restores mental health and renews focus through immersive presence](/notes/nature-restores-mental-health-and-renews-focus-through-immersive-presence.md), or even a shower we can relax our brain and let new connections be formed by our subconscious that wasn't possible through our conscious thoughts.
 
 :::note[Daydreaming]
 
@@ -134,9 +161,9 @@ It's important to let our minds rest and wander. While [mindfulness](/notes/inte
 
 ### Solitude
 
-We are highly sensitive to the social world around us [social environment](/notes/social-environment.md). When we are surrounded by people, it blocks us from hearing our inner voice, and our attention is devoted to others or to our social status.
+We are highly sensitive to the social world around us [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md). When we are surrounded by people, it blocks us from hearing our inner voice, and our attention is devoted to others or to our social status.
 
-That's why [Solitude](/notes/solitude.md) is essential to the creative process, especially the first part of generating ideas. By being alone we can tune in with ourselves and gain [Self-awareness](/notes/self-awareness.md), to uncover and develop our innermost thoughts and feelings, resulting in knowledge that can be converted to our creation.
+That's why [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md) is essential to the creative process, especially the first part of generating ideas. By being alone we can tune in with ourselves and gain [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md), to uncover and develop our innermost thoughts and feelings, resulting in knowledge that can be converted to our creation.
 
 :::note[Solitude]
 
@@ -147,8 +174,8 @@ That's why [Solitude](/notes/solitude.md) is essential to the creative process, 
 
 ### Intuition
 
-[intuition](/notes/intuition.md) is a great undervalued source of creative thinking. It can be perceived as the conversion of knowledge from [system 2](/notes/system-2.md) into automated [system 1](/notes/system-1.md) decision making. While it is subconscious in some level, we can trigger or be more aware of our intuitions, for example:
-1. Experiencing all the range of emotions - emotions, both negative and positive are a useful tool of information. Being aware of them and processing them, listen to them and trying to understand what caused them can be a good source of information [Emotions as decision heuristics](/notes/emotions-as-decision-heuristics.md)
+[Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md) is a great undervalued source of creative thinking. It can be perceived as the conversion of knowledge from [System 2 enables deliberate analytical thinking for complex problems](/notes/system-2-enables-deliberate-analytical-thinking-for-complex-problems.md) into automated [Automatic thinking processes drive fast emotional responses](/notes/automatic-thinking-processes-drive-fast-emotional-responses.md) decision making. While it is subconscious in some level, we can trigger or be more aware of our intuitions, for example:
+1. Experiencing all the range of emotions - emotions, both negative and positive are a useful tool of information. Being aware of them and processing them, listen to them and trying to understand what caused them can be a good source of information [Emotions provide decision-relevant information when navigating choices](/notes/emotions-provide-decision-relevant-information-when-navigating-choices.md)
 2. Insightful questions - some riddles can spark the creative bug within us, forcing ourselves to think creatively about a problem
 3. Shutting down some senses - like how closing your eyes can allow you to imagine the problem differently in your head, sometimes by removing some of the noise we experience we can notice our intuitions better.
 
@@ -163,12 +190,12 @@ That's why [Solitude](/notes/solitude.md) is essential to the creative process, 
 
 Since creativity is connection making, the more points of information we have, and the better connected the are, the more creative we can be.
 
-To increase our information, we need to be open to new experiences [curiosity](/notes/curiosity.md), for example:
+To increase our information, we need to be open to new experiences [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md), for example:
 1. Intellectual curiosity - to pursue truth
 2. Emotional curiosity - to understand better the richness of human emotions
 3. Aesthetic curiosity - to seek beauty in all it's forms
 
-Having more knowledge makes it easier for us to make new connections because each point of Knowledge can be seen as a bridge making other points closer to each other. It can also helps us see the same information in a new light, create new [Analogies](/notes/mental-shortcuts.md) that deepen out knowledge and making it more connected.
+Having more knowledge makes it easier for us to make new connections because each point of Knowledge can be seen as a bridge making other points closer to each other. It can also helps us see the same information in a new light, create new [Analogies](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md) that deepen out knowledge and making it more connected.
 
 :::note[Openness to Experience]
 
@@ -193,7 +220,7 @@ Creativity requires the skill of observation, otherwise whatever we experience w
 
 ### Sensitivity
 
-It's not enough to be open to experiences, it's not enough to be mindful of them, we have to feel it [experience knowledge](/notes/experience-knowledge.md). By being connected with our emotions we enrich our lives. There are many types of sensitivity, from intellectual, to imaginative, sensitive, etc.
+It's not enough to be open to experiences, it's not enough to be mindful of them, we have to feel it [Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md). By being connected with our emotions we enrich our lives. There are many types of sensitivity, from intellectual, to imaginative, sensitive, etc.
 
 :::note[Sensitivity]
 
@@ -204,7 +231,7 @@ It's not enough to be open to experiences, it's not enough to be mindful of them
 
 ### Turning Adversity into Advantage
 
-A great source for internal knowledge and growth are adversities [Post Traumatic Growth](/notes/creative-destruction.md). While unfortunate, these events are often so shocking and destabilizing that we are able to overcome [path dependence](/notes/path-dependence.md), see ourselves in a new light and set in a new direction. This step of "rebuilding" is hard but essential. To find meaning in the suffering and having a way to channel all the emotions we have bottled up is the way to grow out of and with the help of those traumas. Art is often a useful tool for challenging these emotions.
+A great source for internal knowledge and growth are adversities [Post Traumatic Growth](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md). While unfortunate, these events are often so shocking and destabilizing that we are able to overcome [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md), see ourselves in a new light and set in a new direction. This step of "rebuilding" is hard but essential. To find meaning in the suffering and having a way to channel all the emotions we have bottled up is the way to grow out of and with the help of those traumas. Art is often a useful tool for challenging these emotions.
 
 :::note[Turning Adversity into Advantage]
 
@@ -215,7 +242,7 @@ A great source for internal knowledge and growth are adversities [Post Traumatic
 
 ### Thinking Differently
 
-Being creative requires having the courage to think differently, to escape the strong forces of conformism, to accept that being different involves making mistakes and failing over and over again. Creativity is not a matter of [perfectionism](/notes/perfectionism.md), it will take make tries until we get something right [first batch trash](/notes/first-batch-trash.md) so it's not a matter of quality but rather quantity. Creativity is a matter of approach, rather than the singular act of bringing something into existence. It's to look at things differently, to be explorative and open minded.
+Being creative requires having the courage to think differently, to escape the strong forces of conformism, to accept that being different involves making mistakes and failing over and over again. Creativity is not a matter of [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md), it will take make tries until we get something right [First attempts are inherently lower quality than iterations](/notes/first-attempts-are-inherently-lower-quality-than-iterations.md) so it's not a matter of quality but rather quantity. Creativity is a matter of approach, rather than the singular act of bringing something into existence. It's to look at things differently, to be explorative and open minded.
 
 :::note[Thinking Differently]
 

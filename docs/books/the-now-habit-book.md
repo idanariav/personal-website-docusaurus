@@ -1,7 +1,7 @@
 ---
 UUID: 20250221172532
 Created: '2025-02-21 17:25'
-Modified: '2026-03-23 19:30'
+Modified: '2026-04-13 06:19'
 tags: []
 FullTitle: >-
   The Now Habit - A Strategic Program for Overcoming Procrastination and
@@ -28,7 +28,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 226
 Reread: 0
 Rate: 3
@@ -37,6 +37,10 @@ StartDate: 2025-02-23T00:00:00.000Z
 FinishDate: 2025-03-07T00:00:00.000Z
 Image: null
 aliases: null
+Topic:
+  - '[[Mindset (Map)]]'
+  - '[[Procrastination is delaying intended actions despite preference to act]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -45,12 +49,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Mindset (Map)](/mocs/mindset-map.md)
-⬆️Topic:: [Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **why we procrastinate** - procrastination is not laziness, it is a logical response to stress, that often stem from:
 	1. *fear of failure* - we fear that a failure will be a an indication of our low self worth, that we failed as people, not just the project itself
@@ -62,11 +61,11 @@ SiteProcssed: true
 	3. *make time for play* - schedule guilt free play as the first thing that goes on your calendar, that will fuel you to focus on work
 	4. *short work sessions* - don't overwork throughout the day or week, maintain blocks of only 30 minute of focused work
 	5. *plan ahead* - distractions will come. Think about potential setbacks that might arise. Similarly, plan from your ultimate deadline backwards so that you will break a big long project into several small steps. Have realistic goals in advance and don't overcommit
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 We will no longer procrastinate, and start make small yet meaningful progress at our projects
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. Walking on a high ledge - we procrastinate because it feels like walking on a high ledge, where fear makes us freeze. However, if we will have a safe net to fall on, mixed with the feeling that where we are is burning so we can't stay still, we will find the strength to move.
@@ -77,15 +76,15 @@ If we don't schedule work in advance, how are we sure that we will find time to 
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book starts strong, giving a fresh view to why we procrastinate, yet the following methods are simplistic and shallow, and not very interesting.
-### 🖼️Outline
+### Outline
 
 ![The Now Habit (book)](/books/the-now-habit-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 

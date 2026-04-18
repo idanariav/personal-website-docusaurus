@@ -1,7 +1,7 @@
 ---
 UUID: 20251020060144
 Created: '2025-10-20 06:01'
-Modified: '2025-12-05 10:27'
+Modified: '2026-04-13 06:18'
 tags: []
 FullTitle: >-
   The Art and Science of Connection - Why Social Health Is the Missing Key to
@@ -19,8 +19,10 @@ URL:
 Cover: >-
   http://books.google.com/books/content?id=hALwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 Genre: Psychology
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 ASIN: B0CH8H465F
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
@@ -28,7 +30,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 282
 Reread: 0
 Rate: 3
@@ -37,6 +39,9 @@ StartDate: 2025-11-20T00:00:00.000Z
 FinishDate: 2025-12-04T00:00:00.000Z
 Image: '[[The Art and Science of Connection (book).png]]'
 aliases: ''
+Topic:
+  - '[[Health (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -45,11 +50,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [health (Map)](/mocs/health-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Relationships are essential to our health** - Health is not just physical or mental, it is also social. We require relationships in our lives. People to call to in an emergency, someone to be vulnerable with, friends we can share good moments with. It is as essential to our health as diet and low stress.
 2. **What social health is**:
@@ -68,10 +69,10 @@ SiteProcssed: true
 	3. *Tone* - deepen existing connections
 	4. *Flex* - You're doing great!
 5. **Social health is a process** - Like physical fitness, it's not a "one and done", it's about maintaining a habit of connecting with people, both strangers or co workers, and friends and family. To spend quality time together, preferably face to face, focusing just on them.
-### 🗒️Relate
+### Relate
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 
-### ✅Act
+### Act
 📋*What should I do to achieve the goals set out by this book?*
 1. **Take Social Risks** – Try to blend in with people you don't know yet.
 2. **Find Common Interests** – Seek shared hobbies or interests to connect with others.
@@ -84,7 +85,7 @@ SiteProcssed: true
 9. **Do the 5-3-1 method** – Connect with 5 people weekly, maintain 3 deep connections, and spend 1 hour a day to socialize.
 10. **Persist in Social Efforts** – Do not give up on the first try, recognizing that people often like you more than you assume.
 
-### 🔍Critique
+### Critique
 
 🧩 *relevant research, metaphors or examples that helps to convey the argument*
 1. Attributes of social health:
@@ -108,20 +109,20 @@ She says that quality is more important than quality, which personally I agree, 
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 It's a nice book, but it wasn't revolutionary. The assumption that we need relationships in our lives to be happy and healthy sounds common sense. The sections were mostly stories and little content, especially the parts that dealt with public policy which were more academic oriented but as a person not sure what I can do about it.
 
-### 🖼️Outline
+### Outline
 
 ![The Art and Science of Connection (book)](/books/the-art-and-science-of-connection-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### The Future of Health is Social
 
-Health isn't just physical or mental-it's also social. To live a long and happy life, we need strong [Relationships](/notes/relationships.md), [Human is a social being](/notes/human-is-a-social-being.md). Today, [Loneliness](/notes/loneliness.md) is more prevalent than ever and has a significant impact on our health.
+Health isn't just physical or mental-it's also social. To live a long and happy life, we need strong [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md), [Human is a social being](/notes/human-is-a-social-being.md). Today, [Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md) is more prevalent than ever and has a significant impact on our health.
 
 :::note[The Future of Health Is Social]
 
@@ -142,7 +143,7 @@ Health rests on three pillars:
 2. **Mental** - Fostering emotional resilience and a healthy mind with practices like therapy, meditation, and journaling.
 3. **Social** - Connecting with others.
 
-These pillars are interconnected and influence one another. For example, poor mental health can hurt your sleep quality, while social isolation can harm your mental well-being [Ripple effect](/notes/ripple-effect.md).
+These pillars are interconnected and influence one another. For example, poor mental health can hurt your sleep quality, while social isolation can harm your mental well-being [Actions spread effects across people and time beyond initial cause](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md).
 
 Research shows that strong social connections have several health benefits, including:
 1. A lower likelihood of getting sick or developing health problems.
@@ -153,7 +154,7 @@ Research shows that strong social connections have several health benefits, incl
 
 The impact of connection versus loneliness on our health is as significant as the effects of smoking or obesity.
 
-Social health is inherently [positive](/notes/positive-language.md). It's not about simply avoiding loneliness, but about thriving through meaningful relationships and finding purpose, rather than just preventing harm.
+Social health is inherently [positive](/notes/empowering-language-builds-confidence-and-agency.md). It's not about simply avoiding loneliness, but about thriving through meaningful relationships and finding purpose, rather than just preventing harm.
 
 :::note[Redefine What It Means to Be Healthy]
 
@@ -213,10 +214,10 @@ This is a basic recipe for good social health, same as *eat food, mostly greens,
 This makes sure you decide enough time throughout the week for developing strong connections, while also diversifying your sources.
 
 There are blockers for social health, such as:
-- racism [Us vs them](/notes/us-vs-them.md)
+- racism [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md)
 - problematic childhood
-- social media [Attention Economy](/notes/attention-economy.md)
-- social norms/policies - for example more [individualistic](/notes/individualism.md) societies experience more loneliness
+- social media [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md)
+- social norms/policies - for example more [individualistic](/notes/the-individual-is-the-smallest-unit-of-moral-worth.md) societies experience more loneliness
 
 :::note[Reveal Your Social Health Style]
 
@@ -231,25 +232,25 @@ There are blockers for social health, such as:
 
 Being social is important, but it's not easy. You have to take a risk and try to blend in with people you don't know yet. There is no other way to make friends. Try to find a common thread that will connect you, like a shared hobby.
 
-You also might get distracted or feeling that you just don't have the time to socialize [Hustle Culture](/notes/hustle-culture.md). The more stressed we are, the less likely we would even think about investing time in socializing. Remember that social health is just as important as other goals in life, as it a key pillar for your wellbeing.
+You also might get distracted or feeling that you just don't have the time to socialize [Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md). The more stressed we are, the less likely we would even think about investing time in socializing. Remember that social health is just as important as other goals in life, as it a key pillar for your wellbeing.
 
 Make do with the time you have. Don't have a full hour? Take 10 minutes to call someone. Also try to automate it as much as possible by turning it into a habit, like shared evening meals. It will help you maintain the activity without it being overrun by "urgency"
 
 #### Strengthen Your Social Muscles
 
-Just like workouts, it takes time, but as time progresses you get better at it [Allostasis](/notes/allostasis.md)
+Just like workouts, it takes time, but as time progresses you get better at it [We grow stronger by adapting to stress](/notes/we-grow-stronger-by-adapting-to-stress.md)
 There are methods for improving your social health:
 1. **Hobby groups** - find groups of like minded people that you will get easily comfortable with
 2. **Volunteering** - helping others is not only a good way to connect, it creates a deeper connection because both sides benefit from it (you both become happier).
 3. **Deeper conversations** - be a good listener, ask better questions and show genuine interest in the other party
-4. **Be vulnerable** - share your pain, your struggles, your "true self", worts and all. [Vulnerability](/notes/vulnerability.md)
+4. **Be vulnerable** - share your pain, your struggles, your "true self", worts and all. [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md)
 5. **Express gratitude** - be sincere, make them feel appreciated.
 
 #### Take One Small step for You, One Giant Leap for Social Health
 
 Just as you don't have to exercise seven hours a day to be fit, you also don't have to invest too much time to gain the benefits of social health.
 
-You'll be surprised how small acts can have meaningful effects [compounding](/notes/compounding.md)
+You'll be surprised how small acts can have meaningful effects [Repeated actions yield exponentially increasing returns over time](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md)
 
 So you should do things like:
 1. Invite someone for lunch
@@ -270,9 +271,9 @@ Any one of those things is a small step that can lead to a meaningful strong con
 
 #### Think like a Scientist, even if You're not One
 
-It's not easy to find friendships, but also we don't always know our own preferences. That why we need to treat our social life as an [Experimentation](/notes/testing.md).
+It's not easy to find friendships, but also we don't always know our own preferences. That why we need to treat our social life as an [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md).
 
-You can try our several social clubs, or conversations with someone, if it doesn't work out that's okay, just move on to the next opportunity. A "failed" connection says nothing about you personally [Cognitive Distancing](/notes/cognitive-distancing.md), only on the quality of the [Matching](/notes/matching.md)
+You can try our several social clubs, or conversations with someone, if it doesn't work out that's okay, just move on to the next opportunity. A "failed" connection says nothing about you personally [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md), only on the quality of the [Good decisions match the best option for both sides](/notes/good-decisions-match-the-best-option-for-both-sides.md)
 
 However, be aware of the [liking gap](/notes/liking-gap.md), we tend to underestimate how much people like us and assume the worst, so don't give up on the first try.
 
@@ -290,7 +291,7 @@ Remember to take it easy and enjoy your experiments, and don't be too hard on yo
 
 #### Build Communities where You Live
 
-Communities are the glue that connects us to others in a scalable way. Not just coworkers or childhood friends, but a network of people, of friendliness behavior that helps us feel welcomed and [Belong](/notes/inclusion.md).
+Communities are the glue that connects us to others in a scalable way. Not just coworkers or childhood friends, but a network of people, of friendliness behavior that helps us feel welcomed and [Belong](/notes/inclusion-means-proactively-welcoming-and-believing-in-others.md).
 
 The key is to find the "third places" that serve as a natural gathering place, such as a library, a coffee shop, a park, and be there. Find your local community leaders who create social gatherings and follow their lead. Turning strangers into neighbours has a huge impact on your social health. [Community](/notes/community.md)
 
@@ -306,7 +307,7 @@ It's important to remember that much of the work culture is dictated from above,
 
 You should decide whether this work culture is best for your social health.
 
-The rise of the internet and social media created many opportunities for Stretching and meeting new people, but we must be careful to not treat these friendships as real or as deep as real face to face friendships [Shallow copy](/notes/shallow-copy.md). Digital tools are great for creating the spark, but you must put the effort to keep it alive.
+The rise of the internet and social media created many opportunities for Stretching and meeting new people, but we must be careful to not treat these friendships as real or as deep as real face to face friendships [Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md). Digital tools are great for creating the spark, but you must put the effort to keep it alive.
 
 :::note[Nurture Connections at Work and Online]
 
@@ -319,5 +320,5 @@ The rise of the internet and social media created many opportunities for Stretch
 
 #### Flourish together
 
-Improving social health is also a matter of policy, and can be treated as a form of [Prevention](/notes/prevention.md). If schools will teach social skills as much as they focus on academic skills, we will be so much better off. We would have a thriving, healthy, happy society, one where loneliness is not a common problem.
+Improving social health is also a matter of policy, and can be treated as a form of [Handle problems while they are still small](/notes/handle-problems-while-they-are-still-small.md). If schools will teach social skills as much as they focus on academic skills, we will be so much better off. We would have a thriving, healthy, happy society, one where loneliness is not a common problem.
 

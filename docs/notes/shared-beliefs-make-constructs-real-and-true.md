@@ -1,19 +1,23 @@
 ---
 UUID: 20240219084152
 Created: '2024-02-19 08:41'
-Modified: '2026-04-09 09:08'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Social Construct
 Description: >-
   A concept or idea that gains validity and influence solely through collective
   acceptance and belief, rather than inherent truth or objective value.
 new_schema: true
+Topic:
+  - '[[Nature and Limits of Knowledge]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ For example, many believe that "womanhood" and "manhood" are social constructs [
 ## Visual
 
 ![Social Construct](/notes/social-construct.webp)
-
-## Overview
-🔼Topic:: [Nature and Limits of Knowledge](/notes/nature-and-limits-of-knowledge.md)
-↩️Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20241101182926
 Created: '2024-11-01 18:29'
-Modified: '2026-04-04 10:59'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Emotions provide decision-relevant information when navigating choices.png]]'
 ImageText: A dog guiding a blind man
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Emotions as decision heuristics
   - Emotions as information
 new_schema: true
+Topic:
+  - '[[Emotions as Signals]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ When emotions are information and nothing more, we are less likely to be [hijack
 ## Visual
 
 ![Emotions provide decision-relevant information when navigating choices](/notes/emotions-provide-decision-relevant-information-when-navigating-choices.webp)
-
-## Overview
-🔼Topic:: [Emotions as Signals](/notes/emotions-as-signals.md)
-↩️Origin::
-🔗Link::
-

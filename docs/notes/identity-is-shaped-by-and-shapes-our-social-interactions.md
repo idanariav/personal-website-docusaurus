@@ -1,13 +1,13 @@
 ---
 UUID: 20231231070530
 Created: '2023-12-31 07:05'
-Modified: '2026-04-01 09:37'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Interpersonal Identity
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   and environments, emphasizing that personal beliefs, values, and experiences
   are influenced by relationships with others.
 new_schema: true
+Topic:
+  - '[[Identity Structure]]'
+Origin: '[[Selfless (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,8 +54,3 @@ It could be argued that our innate tendency to [mirror](/notes/mirroring-copies-
 ## Visual
 
 ![Interpersonal Identity](/notes/interpersonal-identity.webp)
-## Overview
-🔼Topic:: [Identity Structure](/notes/identity-structure.md)
-Origin:: [Selfless (book)](/books/selfless-book.md)
-Link:: https://share.snipd.com/episode/3c740c3a-6bab-4440-87f1-997c3049f93c
-

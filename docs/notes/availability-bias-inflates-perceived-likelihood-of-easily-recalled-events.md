@@ -1,13 +1,13 @@
 ---
 UUID: 20231230204446
 Created: '2023-12-30 20:44'
-Modified: '2026-04-08 13:25'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Availability bias inflates perceived likelihood of easily recalled
   events.png]]
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Availability Bias
 new_schema: true
+Topic:
+  - '[[Selective Evidence]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -58,9 +62,3 @@ The availability bias can also limit our [creative thinking](/notes/innovation-i
 ## Visual
 
 ![Availability bias inflates perceived likelihood of easily recalled events](/notes/availability-bias-inflates-perceived-likelihood-of-easily-recalled-events.webp)
-
-## Overview
-🔼Topic:: [Selective Evidence](/notes/selective-evidence.md)
-↩️Origin::
-🔗Link::
-

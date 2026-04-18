@@ -1,13 +1,13 @@
 ---
 UUID: 20241204062632
 Created: '2024-12-04 06:26'
-Modified: '2026-04-10 06:20'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Impulsivity
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   leading to short-term focus and neglect of long-term consequences, akin to
   emotional hijacking.
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -31,7 +35,7 @@ Impulsivity is similar to [Emotional hijacking is uncontrolled System 1 dominanc
 
 ### Why it matters
 
-Usually the problem with impulsivity is that it leads to a [Short term bias](/notes/we-prefer-immediate-benefits-over-delayed-ones.md). We focus on immediate benefits while ignoring or forgetting long-term consequences. Our impulsive behavior, while appearing genuine, is often just a behavior that pushes us towards [Distractions](/notes/distraction.md) and activities that fail to represent the type of life we want [Knowing the right thing doesn't mean we do it](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md).
+Usually the problem with impulsivity is that it leads to a [Short term bias](/notes/we-prefer-immediate-benefits-over-delayed-ones.md). We focus on immediate benefits while ignoring or forgetting long-term consequences. Our impulsive behavior, while appearing genuine, is often just a behavior that pushes us towards [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) and activities that fail to represent the type of life we want [Knowing the right thing doesn't mean we do it](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md).
 
 ### Examples
 
@@ -46,9 +50,3 @@ However, impulsivity might also be similar to [Acting before understanding requi
 ## Visual
 
 ![Impulsivity](/notes/impulsivity.webp)
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-↩️Origin::
-🔗Link::
-

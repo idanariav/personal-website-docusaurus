@@ -1,13 +1,13 @@
 ---
 UUID: 20231224062041
 Created: '2023-12-24 06:20'
-Modified: '2026-04-08 13:57'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Symbolic fresh starts break entrenchment and enable change.png]]'
 ImageText: A person breaking chains attached to a ball of baggage
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Clean Slate
   - Fresh start effect
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: '[[How to change (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -57,9 +61,3 @@ Many start new habits at the beginning of a year, month, week. They use time as 
 ## Visual
 
 ![Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.webp)
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-↩️Origin:: [How to change (book)](/books/how-to-change-book.md)
-🔗Link::
-

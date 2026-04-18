@@ -1,13 +1,13 @@
 ---
 UUID: 20250228115721
 Created: '2025-02-28 11:57'
-Modified: '2026-04-06 23:11'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Positive freedom
   - freedom to
@@ -16,6 +16,10 @@ Description: >-
   without limitations, contrasting with negative freedom, which focuses on the
   absence of restrictions.
 new_schema: true
+Topic:
+  - '[[Freedom and Agency]]'
+Origin: '[[Isaiah Berlin (philosopher)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,9 +57,3 @@ Similarly, access to education is on the surface equal to all. However one can a
 ## Visual
 
 ![Positive freedom](/notes/positive-freedom.webp)
-
-## Overview
-🔼Topic:: [Freedom and Agency](/notes/freedom-and-agency.md)
-↩️Origin:: [Isaiah Berlin (philosopher)](/notes/isaiah-berlin-philosopher.md)
-🔗Link::
-

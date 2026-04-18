@@ -1,13 +1,13 @@
 ---
 UUID: 20240101081347
 Created: '2024-01-01 08:13'
-Modified: '2026-04-10 13:50'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Role Models
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   others' motivation and direction through their actions, often without direct
   personal connection.
 new_schema: true
+Topic:
+  - '[[Identity Formation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ Being a good role requires:
 ## Visual
 
 ![Role Models](/notes/role-models.webp)
-
-## Overview
-🔼Topic:: [Identity Formation](/notes/identity-formation.md)
-↩️Origin::
-🔗Link::
-

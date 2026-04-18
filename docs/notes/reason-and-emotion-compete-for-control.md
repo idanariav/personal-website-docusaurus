@@ -1,13 +1,13 @@
 ---
 UUID: 20240216064451
 Created: '2024-02-16 06:44'
-Modified: '2026-04-08 13:43'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Reason and emotion compete for control.png]]'
 ImageText: 'Elephant looking at a banana, person pointing towards a sign'
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Elephant and the Rider
 new_schema: true
+Topic:
+  - '[[Dual Process]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,9 +50,3 @@ One can envision our behavior as being made of two parts:
 ## Visual
 
 ![Reason and emotion compete for control](/notes/reason-and-emotion-compete-for-control.webp)
-
-## Overview
-🔼Topic:: [Dual Process](/notes/dual-process.md)
-↩️Origin::
-🔗Link::
-

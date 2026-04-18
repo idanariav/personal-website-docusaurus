@@ -1,13 +1,13 @@
 ---
 UUID: 20241102214533
 Created: '2024-11-02 21:45'
-Modified: '2026-04-10 06:19'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Alienation means feeling detached from life and others.png]]'
 ImageText: A person divided into several pieces
 Description: >-
@@ -17,6 +17,11 @@ Description: >-
 aliases:
   - Alienation
 new_schema: true
+Topic:
+  - '[[Social Connection and Belonging]]'
+  - '[[Value and Meaning]]'
+Origin: '[[Karl Marx (philosopher)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +59,3 @@ We feel [lonely](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-
 ## Visual
 
 ![Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.webp)
-
-## Overview
-🔼Topic:: [Social Connection and Belonging](/notes/social-connection-and-belonging.md)
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-↩️Origin:: [Karl Marx (philosopher)](/notes/karl-marx-philosopher.md)
-🔗Link::

@@ -1,13 +1,13 @@
 ---
 UUID: 20230406090009
 Created: '2023-04-06 09:00'
-Modified: '2026-04-08 10:25'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Deontology treats morality as duties and rights that transcend
   consequences.png]]
@@ -21,6 +21,10 @@ Description: >-
 aliases:
   - Deontology
 new_schema: true
+Topic:
+  - '[[Ethical Frameworks (Metaethics)]]'
+Origin: '[[Immanuel Kant (philosopher)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -59,9 +63,3 @@ What if an axe murderer comes to your house and asks where are your kids? Should
 ## Visual
 
 ![Deontology treats morality as duties and rights that transcend consequences](/notes/deontology-treats-morality-as-duties-and-rights-that-transcend-consequences.webp)
-
-## Overview
-🔼Topic:: [Ethical Frameworks (Metaethics)](/notes/ethical-frameworks-metaethics.md)
-◀Origin:: [Immanuel Kant (philosopher)](/notes/immanuel-kant-philosopher.md)
-🔗Link::
-

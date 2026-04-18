@@ -1,8 +1,8 @@
 ---
 UUID: 20230409070955
 Created: '2023-04-09 07:09'
-Modified: '2026-04-08 17:28'
-Version: 2
+Modified: '2026-04-11 22:22'
+Version: 3
 tags: []
 aliases:
   - Storytelling
@@ -15,6 +15,10 @@ Description: >-
   and retention by allowing individuals to visualize situations, conflicts, and
   resolutions.
 new_schema: true
+Topic:
+  - '[[Persuasion and Influence]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,16 +50,9 @@ The more we can picture what happened, the better the information will be.
 ### Open questions
 
 
-
 ### Claims
 
 
 ## Visual
 
 ![Storytelling](/notes/storytelling.webp)
-
-## Overview
-🔼Topic:: [Persuasion and Influence](/notes/persuasion-and-influence.md)
-◀Origin::
-🔗Link:: 
-

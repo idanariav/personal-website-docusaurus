@@ -1,13 +1,13 @@
 ---
 UUID: 20250207145200
 Created: '2025-02-07 14:52'
-Modified: '2026-04-08 13:46'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Blame is attributing fault instead of owning what''s in your control.png]]'
 ImageText: A person pointing fingers at all directions but himself
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Blame
   - fault
 new_schema: true
+Topic:
+  - '[[Attribution Bias]]'
+Origin: '[[Hidden Brain]]'
+URL: 'https://share.snipd.com/episode/2e163b35-055a-4cfa-ad12-501b70dcb7b0'
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ Blame focuses on the past, we want to focus on the future instead. What can we d
 ## Visual
 
 ![Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.webp)
-
-## Overview
-🔼Topic:: [Attribution Bias](/notes/attribution-bias.md)
-↩️Origin:: [Hidden Brain](/notes/hidden-brain.md)
-🔗Link:: [link](https://share.snipd.com/episode/2e163b35-055a-4cfa-ad12-501b70dcb7b0)
-

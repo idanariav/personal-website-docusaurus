@@ -1,27 +1,47 @@
 ---
 UUID: 20220811191542
 Created: '2022-08-11 19:15'
-Modified: '2025-03-19 11:58'
+Modified: '2026-04-17 15:54'
 tags: []
+FullTitle: Think Again - The Power of Knowing What You Don't Know
+Description: >-
+  It argues for a research-oriented mindset, emphasizing humility in knowledge
+  and the value of exploration. Effective persuasion relies on understanding and
+  communication, while fostering a culture of learning encourages feedback,
+  psychological safety, and critical thinking, steering clear of binary
+  thinking.
 Author:
   - '[[Adam Grant]]'
+URL: 'https://www.goodreads.com/book/show/55305389-think-again'
+Cover: >-
+  http://books.google.com/books/content?id=FdjgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B08H177WQP
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 7
 Pages: 307
+Reread: 0
 Rate: 5
 PublishDate: 2021-02-04T00:00:00.000Z
+StartDate: 2022-08-05T00:00:00.000Z
 FinishDate: 2022-08-16T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=FdjgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/55305389-think-again'
+Image: null
 aliases: []
+Topic:
+  - >-
+    [[Rethinking means updating beliefs by reconsidering what you thought you
+    knew]]
+  - '[[Communication (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -30,21 +50,17 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Rethinking](/notes/rethinking.md)
-⬆️Topic:: [Communication (Map)](/mocs/communication-map.md)
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Be a researcher** - treat your knowledge like a scientist. You can be wrong, but you are always exploring new theories and tries to validate your beliefs. Have humility about your knowledge, enjoy being wrong and don't get too attached to what you believe.
 3. **Persuasion is communication** - You can't force your opinions on the other side. Rather, try to understand, pay attention, use mirroring and labeling to signal that you understand.
 4. **Cultures of learning** - Communicate that you are open for feedback, create psychological safety, avoid binary and group thinking and promote critical thinking and skepticism.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -52,7 +68,7 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 1. I like the amount of drawings of mental models, really help to make the message stick
@@ -61,15 +77,15 @@ SiteProcssed: true
 
 however the book is a bit all over the place, and there isn't a clear connection between the different parts.
 
-### 🖼️Outline
+### Outline
 
-![Think Again (book).webp](/books/think-again-book.webp)
+![Think Again (book)](/books/think-again-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-we tend to stick to our first initial thought, thus falling to the [First instinct fallacy 2bc](/notes/first-instinct-fallacy-2bc.md). Thinking again is not as thinking slower or more, it's reexamine all out default assumptions and habits and [start frash](/notes/clean-slate.md) from a different point of view.
+we tend to stick to our first initial thought, thus falling to the [First instinct fallacy 2bc](/notes/first-instinct-fallacy-2bc.md). Thinking again is not as thinking slower or more, it's reexamine all out default assumptions and habits and [start frash](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md) from a different point of view.
 
 :::note[Prologue]
 
@@ -90,11 +106,11 @@ we tend to stick to our first initial thought, thus falling to the [First instin
 1. **Preachers** - stand your ground for what you believe in.
 2. **Prosecutors** - critique others for their faults
 3. **Politicians** - gather support for your ideas.
-4. **Scientist** - research your beliefs and hypothesis with evidence based thinking [scientific method](/notes/scientific-method.md)
+4. **Scientist** - research your beliefs and hypothesis with evidence based thinking [Empirical testing not reason alone discovers truth](/notes/empirical-testing-not-reason-alone-discovers-truth.md)
 
 We usually stick to the first three, unwilling to switch to other view points or even recognizing their merits. Those we succeeded have more scientific way of thinking.
 
-We have to be careful because [Conformation Bias](/notes/conformation-bias.md) and [desirability bias](/notes/desirability-bias.md) will turn out intelligence against us, making us proficient in finding reasons why we are right [Rationalization](/notes/rationalization.md). But thinking like a scientist is search why we are wrong. It's being actively open to other points of view. Being open is what allows us to grow, to recognize how much we still don't know. [Beginner's Mind](/notes/beginners-mind.md)
+We have to be careful because [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md) and [desirability bias](/notes/desirability-bias.md) will turn out intelligence against us, making us proficient in finding reasons why we are right [We justify our conclusions after acting, not before](/notes/we-justify-our-conclusions-after-acting-not-before.md). But thinking like a scientist is search why we are wrong. It's being actively open to other points of view. Being open is what allows us to grow, to recognize how much we still don't know. [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md)
 
 :::note[A Preacher, a Prosecutor, a Politician, and a Scientist Walk into Your Mind]
 
@@ -112,11 +128,11 @@ We have to be careful because [Conformation Bias](/notes/conformation-bias.md) a
 
 #### Chapter 2 - Armchair Quarterback Vs Imposter Syndrome
 
-We are unaware of our knowledge/capabilities, which can often lead us to [Dunning-kruger effect](/notes/dunning-kruger-effect.md) (thinking we know something when we don't) or [Imposter Syndrome](/notes/imposter-syndrome.md) (thinking we don't know something when we do). How do find the middle ground/how to get self awareness?
+We are unaware of our knowledge/capabilities, which can often lead us to [The less you know the more confident you are](/notes/the-less-you-know-the-more-confident-you-are.md) (thinking we know something when we don't) or [Imposter syndrome is feeling undeserving despite actual competence](/notes/imposter-syndrome-is-feeling-undeserving-despite-actual-competence.md) (thinking we don't know something when we do). How do find the middle ground/how to get self awareness?
 
-The sweet spot of confidence is just enough to be sure you can reach your goals while having enough humility to question the tools and knowledge you have. [confident humility](/notes/humility.md)
+The sweet spot of confidence is just enough to be sure you can reach your goals while having enough humility to question the tools and knowledge you have. [confident humility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md)
 
-Confident humility is gained through practice, of [Lifelong Learning](/notes/lifelong-learning.md) while also actively working on your goals. Not sitting and waiting, and not action without reflection.
+Confident humility is gained through practice, of [Learning must continue constantly throughout life](/notes/learning-must-continue-constantly-throughout-life.md) while also actively working on your goals. Not sitting and waiting, and not action without reflection.
 
 :::note[The Armchair Quarterback and the Impostor Finding the Sweet Spot of Confidence]
 
@@ -132,11 +148,11 @@ Confident humility is gained through practice, of [Lifelong Learning](/notes/lif
 
 
 #### Chapter 3 - the Joy of Being Wrong
-**We need to enjoy being wrong, not fear it. It is our chance to learn and improve**. The easiest way to enjoy being [wrong](/notes/failure.md) is:
-1. **Detach your present self from past self** - that way you feel less as the owner of past beliefs, which makes it easier to critique and mark as false [Cognitive Distancing](/notes/cognitive-distancing.md)
-2. **detach your beliefs from who you are** - your identity is what you value, not what you believe in. If these are detached, that means that changing your beliefs is not as a major change as changing yourself completely, only adjust the ways you implement/pov to realize your values.
+**We need to enjoy being wrong, not fear it. It is our chance to learn and improve**. The easiest way to enjoy being [wrong](/notes/failure-is-a-necessary-part-of-learning-and-growth.md) is:
+1. **Detach your present self from past self** - that way you feel less as the owner of past beliefs, which makes it easier to critique and mark as false [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md)
+2. **detach your beliefs from who you are** - your identity is what you value, not what you believe in. If these are detached, that means that changing your beliefs is not as a major change as changing yourself completely, only adjust the ways you implement/pov to realize your values. [Identity is defined by values not beliefs](/notes/identity-is-defined-by-values-not-beliefs.md)
 
-As long as our identity is connected to our beliefs, our ego will make us defend them even long after we are aware that they are wrong.
+As long as our identity is connected to our beliefs, our ego will make us defend them even long after we are aware that they are wrong. [Ego prevents growth](/notes/ego-prevents-growth.md)
 
 :::note[The Joy of Being Wrong The Thrill of Not Believing Everything You Think]
 
@@ -154,7 +170,7 @@ As long as our identity is connected to our beliefs, our ego will make us defend
 
 #### Chapter 4 - the Psychology of Constructive Conflict
 
-Conflict is not necessarily a bad thing. It can help you see new points of view, encourage creativity and improve cooperation, as long as you handle them with respect and dignity. Harmony is not a repeat of the same voice, it's the combination of several different voices. variety brings conflict but also growth. [Pluralism](/notes/diversity.md)
+Conflict is not necessarily a bad thing. It can help you see new points of view, encourage creativity and improve cooperation, as long as you handle them with respect and dignity. Harmony is not a repeat of the same voice, it's the combination of several different voices. variety brings conflict but also growth. [Pluralism](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md)
 
 :::note[The Good Fight Club The Psychology of Constructive Conflict]
 
@@ -170,12 +186,12 @@ Conflict is not necessarily a bad thing. It can help you see new points of view,
 
 #### Chapter 5 - Dances with Foes
 
-Negotiation [Debate](/notes/debate.md) is more like dance than battle. It takes cooperation [Negotiation is an act of connection](/notes/negotiation-is-an-act-of-connection.md).
-1. Listen to the other side and look for common ground [win win situations](/notes/win-win-situations.md) [Active Listening](/notes/active-listening.md)
-2. one strong argument is better than few weak ones [Addition by subtraction](/notes/addition-by-subtraction.md)
+Negotiation [Debate treats disagreement as a zero-sum game](/notes/debate-treats-disagreement-as-a-zero-sum-game.md) is more like dance than battle. It takes cooperation [Negotiation is an act of connection](/notes/negotiation-is-an-act-of-connection.md).
+1. Listen to the other side and look for common ground [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md) [Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.md)
+2. one strong argument is better than few weak ones [Improvement often comes from removing rather than adding](/notes/improvement-often-comes-from-removing-rather-than-adding.md)
 3. ask questions
 4. let the other side have a choice in the final outcome
-5. be calm and emphatic [Mirroring](/notes/mirroring.md) [Labeling](/notes/naming.md)
+5. be calm and emphatic [Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md) [Labeling](/notes/naming-a-phenomenon-gives-us-power-over-it.md)
 
 :::note[Dances with Foes How to Win Debates and Influence People]
 
@@ -201,10 +217,10 @@ to reduce someone's prejudice, don't try to actively change their mind. rather t
 
 
 #### Chapter 7 - Listening Helps Change Minds
-you cant convince someone to change his mind, and surly not with facts. usually its just makes his conviction stronger. rather, you should be a listener, a mirror to his perception and believe his desire to do good (and perhaps to change). help him find his own motivation and show why its best for him by his standard's. no judgment. give them a choice.
-• ask open ended questions [Open ended questions](/notes/open-ended-questions.md)
+you cant convince someone to change his mind, and surly not with facts. usually its just makes his conviction stronger. [Facts harden conviction rather than change minds](/notes/facts-harden-conviction-rather-than-change-minds.md) rather, you should be a listener, a mirror to his perception and believe his desire to do good (and perhaps to change). help him find his own motivation and show why its best for him by his standard's. no judgment. give them a choice.
+• ask open ended questions [Open-ended questions enable deeper understanding and meaningful dialogue](/notes/open-ended-questions-enable-deeper-understanding-and-meaningful-dialogue.md)
 • engage in active listening
-• affirm his desire and ability to change [Validation](/notes/validation.md).
+• affirm his desire and ability to change [Accepting others feelings and perspectives without dismissal](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md).
 
 :::note[Vaccine Whisperers and Mild-Mannered Interrogators How the Right Kind of Listening Motivates People to Change]
 
@@ -222,7 +238,7 @@ you cant convince someone to change his mind, and surly not with facts. usually 
 ### Part 3 Communities of Lifelong Learning
 
 #### Chapter 8 - Depolarizing Discussions
-bridging political and social divides comes not just from presenting both sides of the argument, but also presenting the [Complexity](/notes/complexity.md). not a black and white issue where one side is obviously right, but rather a lot of shades of gray. [Binary Thinking](/notes/binary-thinking.md)
+bridging political and social divides comes not just from presenting both sides of the argument, but also presenting the [Complexity](/notes/complexity.md). not a black and white issue where one side is obviously right, but rather a lot of shades of gray. [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md)
 
 Emotions are not the block for changing your mind. What blocks it is if you only focus on emotions that promotes separateness and suspicion. Don't just be angry, or apathic, by also curious , empathic, etc...
 
@@ -241,14 +257,14 @@ Emotions are not the block for changing your mind. What blocks it is if you only
 #### Chapter 9 - Teaching Skepticism
 
 teach kids to think like fact checkers:
-1. question and interrogate information instead of just consuming it. [Skepticism](/notes/critical-thinking.md)
+1. question and interrogate information instead of just consuming it. [Skepticism](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md)
 2. ignore rank and popularity as proxy for reliability
 3. sender (of info) != source
 
 lectures should only be fun, but also engaging, encourage discussions. otherwise, you get the [awestruck effect 2bc](/notes/awestruck-effect-2bc.md) - charismatic quotes get scrutinized less.
 
-spend less time lecturing in class, and more discussions [Deliberation](/notes/deliberation.md), critique and group work sessions.
-let the classmates express their opinions on the main subject/other peoples work using the [Feedback](/notes/feedback.md) best practices.
+spend less time lecturing in class, and more discussions [Deliberation is a discussion that bridges different perspectives](/notes/deliberation-is-a-discussion-that-bridges-different-perspectives.md), critique and group work sessions.
+let the classmates express their opinions on the main subject/other peoples work using the [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md) best practices.
 
 :::note[Rewriting the Textbook Teaching Students to Question Knowledge]
 
@@ -263,13 +279,13 @@ let the classmates express their opinions on the main subject/other peoples work
 
 #### Chapter 10 - Learning Culture at Work
 
-Learning cultures are based on [Psychological safety](/notes/psychological-safety.md), the sense that workers can freely express doubts, questions, feedback and admit their errors without harmful results or damage to reputation.
+Learning cultures are based on [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md), the sense that workers can freely express doubts, questions, feedback and admit their errors without harmful results or damage to reputation.
 
-The way to do that is by example, management has to show that it is truly open to feedback, to admit that they also make mistakes... [Role Models](/notes/role-models.md)
+The way to do that is by example, management has to show that it is truly open to feedback, to admit that they also make mistakes... [Role models embody behaviors and values we aspire to adopt](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md)
 
-**It takes confident humility to admit that we are a work in progress. It shows that we are focused more on improving ourselves than proving ourselves.** [Growth Mindset](/notes/growth-mindset.md)
+**It takes confident humility to admit that we are a work in progress. It shows that we are focused more on improving ourselves than proving ourselves.** [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)
 
-Test the processes that has lead to the result. "How do they know it's true", what are the limitations/disadvantages. [post-mortem](/notes/post-mortem.md)
+Test the processes that has lead to the result. "How do they know it's true", what are the limitations/disadvantages. [Analyze both results and methods to improve](/notes/analyze-both-results-and-methods-to-improve.md)
 
 :::note[That’s Not the Way We’ve Always Done It Building Cultures of Learning at Work]
 
@@ -285,13 +301,13 @@ Test the processes that has lead to the result. "How do they know it's true", wh
 
 #### Chapter 11 - Reconsidering Life Plans
 
-Sometimes we get locked by our own choices. Our past beliefs on who we wanted to be. We get overcommitted to it, treating our past decisions as a [Sunk Cost](/notes/sunk-cost.md), or [path dependency](/notes/path-dependence.md), an unseparated part of our identity, this all blocks our ability to change and be happy. We should do a checkup once in a while about our values and beliefs about what we do, to discard old notions and allow ourselves to change our identity and life plans. [Periodical Review](/notes/periodical-review.md)
+Sometimes we get locked by our own choices. Our past beliefs on who we wanted to be. We get overcommitted to it, treating our past decisions as a [Past costs irrationally justify future commitment decisions](/notes/past-costs-irrationally-justify-future-commitment-decisions.md), or [path dependency](/notes/past-choices-constrain-future-options-and-behavior.md), an unseparated part of our identity, this all blocks our ability to change and be happy. We should do a checkup once in a while about our values and beliefs about what we do, to discard old notions and allow ourselves to change our identity and life plans. [Regular review cycles enable progress tracking and alignment](/notes/regular-review-cycles-enable-progress-tracking-and-alignment.md)
 
 Misconceptions about wellbeing:
-1. We are focused too much on evaluating our happiness than experiencing it
+1. We are focused too much on evaluating our happiness than experiencing it [Measuring happiness interferes with experiencing it](/notes/measuring-happiness-interferes-with-experiencing-it.md)
 2. happiness is more of a steady flow of positive emotions than moments of peak happiness [Happiness is contentment](/notes/happiness-is-contentment.md)
-3. happiness is the by product of meaning, usually found in contributing to others [Giving](/notes/giving.md)
-4. happiness is a result of what we do [job crafting](/notes/job-crafting.md) not where we are
+3. happiness is the by product of meaning, usually found in contributing to others [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md)
+4. happiness is a result of what we do [Finding meaning in work increases fulfillment and resilience](/notes/finding-meaning-in-work-increases-fulfillment-and-resilience.md) not where we are
 
 :::note[Conclusion]
 

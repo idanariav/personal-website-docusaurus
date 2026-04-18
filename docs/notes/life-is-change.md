@@ -1,19 +1,23 @@
 ---
 UUID: 20240915204006
 Created: '2024-09-15 20:40'
-Modified: '2026-04-08 13:59'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases: []
 Description: >-
   The concept that change is an inherent and unavoidable aspect of existence,
   influencing identity and experiences, urging acceptance and adaptability
   rather than resistance or denial.
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: '[[Master of Change (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ In essence this defeats the notion of a [Fixed mindset assumes capabilities are 
 ## Visual
 
 ![life is change](/notes/life-is-change.webp)
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-↩️Origin:: [Master of Change (book)](/books/master-of-change-book.md)
-🔗Link::
-

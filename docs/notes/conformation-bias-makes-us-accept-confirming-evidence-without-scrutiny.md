@@ -1,13 +1,13 @@
 ---
 UUID: 20230325085434
 Created: '2023-03-25 08:54'
-Modified: '2026-04-08 13:25'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Conformation bias makes us accept confirming evidence without scrutiny.png]]'
 ImageText: >-
   A magnifying glass focused on text saying "What we like" while faded text
@@ -20,6 +20,10 @@ aliases:
   - Conformation Bias
   - Echo chamber
 new_schema: true
+Topic:
+  - '[[Selective Evidence]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,9 +60,3 @@ The best solution would be to practice [Separating actions from identity allows 
 ## Visual
 
 ![Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.webp)
-
-## Overview
-🔼Topic:: [Selective Evidence](/notes/selective-evidence.md)
-◀Origin::
-🔗Link::
-

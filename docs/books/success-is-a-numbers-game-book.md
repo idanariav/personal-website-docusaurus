@@ -1,7 +1,7 @@
 ---
 UUID: 20260216214908
 Created: '2026-02-16 21:49'
-Modified: '2026-03-15 22:46'
+Modified: '2026-04-13 06:18'
 tags: []
 FullTitle: Success Is a Numbers Game - Achieve Bigger Goals by Changing the Odds
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 240
 Reread: 0
 Rate: 3
@@ -35,17 +35,16 @@ StartDate: 2026-03-01T00:00:00.000Z
 FinishDate: 2026-03-14T00:00:00.000Z
 Image: '[[Success Is a Numbers Game (book).png]]'
 aliases: ''
+Topic:
+  - '[[Success (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # ✒️ Note-Making
 
-## 🔗Connect
-
-⬆️Topic:: [Success (Map)](/mocs/success-map.md)
-
-## 💡Clarify
+## Clarify
 🔈 *Summary of main ideas*
 1. **It's all about the odds** - each goal has a success rate. Your task is to increase it as much as possible
 2. **Don't believe base rates** - general statistics are too broad and abstract, they're not tailored for you
@@ -54,11 +53,11 @@ SiteProcssed: true
 5. **You can't guarantee success** - there's always a chance that something will go wrong. You have to accept that you might fail. All you can do is make it less likely.
 6. **Don't forget the basics** - sleep, nutrition, decision fatigue are all potential risks for bad decision making. Inversely - experimenting, starting small, and relying on others can boost your success rates.
 
-## 🗒️Relate
+## Relate
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 More likely of achieving the goals we're pursuing
 
-## ✅Act
+## Act
 📋*What should I do to achieve the goals set out by this book?*
 1. **Identify and address your weakest link** – determine which step in your process has the lowest likelihood of success and improve it first to increase overall odds.
 2. **Execute the most difficult step first** – front-load the milestone most likely to fail to "fail fast," which reduces the cost of errors and accelerates learning.
@@ -71,7 +70,7 @@ More likely of achieving the goals we're pursuing
 9. **Assess decision reversibility** – prioritize paths and decisions that are easy to correct or reverse over those that are permanent.
 10. **Start with small, manageable goals** – break down a large objective into smaller milestones to reduce resistance and build momentum through visible progress.
 
-## 🔍Critique
+## Critique
 
 🧩 *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -85,7 +84,7 @@ These do not conflict with his theory, they might be described as an implementat
 
 The section about probability hacking at the percentages level is an exaggeration and unrealistic section of the book. It's very hard to accurately measure your chances, we are very bad at making predictions.
 
-## 🗨️Review
+## Review
 
 💭 *my opinions on the book, the writers style...*
 
@@ -93,7 +92,7 @@ This book takes a mathematical approach for achieving your goals, in a way that'
 
 It's borderline "too simplistic", but it's a useful tool in the toolbox to have.
 
-## 🖼️Outline
+## Outline
 
 ![Success Is a Numbers Game (book)](/books/success-is-a-numbers-game-book.webp)
 

@@ -1,19 +1,23 @@
 ---
 UUID: 20241230164412
 Created: '2024-12-30 16:44'
-Modified: '2025-01-13 20:15'
+Modified: '2026-04-13 06:14'
 tags: []
 Author:
   - '[[Jamil Zaki]]'
 Genre: Psychology
-Stored: kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 252
 Rate: 3
 PublishDate: 2024-09-03T00:00:00.000Z
@@ -22,6 +26,18 @@ Cover: >-
   http://books.google.com/books/content?id=7PXrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/204593731-hope-for-cynics'
 aliases: []
+Description: >-
+  It argues that cynicism undermines trust and fosters negativity, while
+  skepticism encourages careful judgment. By setting positive expectations and
+  cultivating trust through kindness, individuals and communities can overcome
+  cynicism, enhancing resilience and well-being.
+FullTitle: Hope for Cynics - The Surprising Science of Human Goodness
+StartDate: 2024-12-31T00:00:00.000Z
+ASIN: B0CR93L55W
+Reread: 0
+Topic:
+  - '[[Optimism is choosing to believe outcomes can improve through action]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -30,11 +46,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [optimism](/notes/optimism.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Cynicism makes us worse off** - Cynicism is an empty shell. It tricks us with it's facade of intelligence, while in reality it is the other way around. If we assume everyone is evil or stupid, we can't sort the good from the bad, we can't trust others, and we give up on finding solutions to our problems because we lack belief in ourselves and others. It breeds negativity disguised as realism. Cynicism brings nothing but mistrust, stupidity, arrogance, and hopelessness.
 2. **Skepticism is the personal answer for cynicism** - Instead of being quick to judge others, we need to focus on the situation and the facts. Be skeptical, not cynical. Approach with caution, yet with good intentions.
@@ -42,11 +54,25 @@ SiteProcssed: true
 4. **Trust is the communal answer for cynicism** - As a community, a way to remove cynicism is by cultivating trust. Similarly, inequality and commodification erode trust (and cultivate cynicism). Take a leap of faith and be the first to trust others, and you will likely be reciprocated.
 5. **Trust is built through kindness** - The way to build trust is through positive shared interactions. Helping one another, being there in times of need, social safety net and solidarity create strong social capital within the community, increasing it's resilience and wellbeing.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 1. We would become less cynical, believing in hope, reaching out to others and more trusting, and finding solutions that were once considered impossible
-### 🔍Critique
+
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Affirm your core values** - practice short self-affirmations to remind yourself what brings meaning and joy, calming cynicism and building self-trust.
+2. **Question evidence, not people** - when doubtful, examine facts and data like a scientist instead of assuming bad intent.
+3. **Start small acts of trust** - take modest "leaps of faith" in everyday interactions to create a positive reciprocity loop.
+4. **Be kind without keeping score** - perform acts of generosity without tracking returns to build trust and happiness.
+5. **Spend time with neighbors and strangers** - intentionally share time and conversation to turn strangers into trusted others.
+6. **Help others regularly** - seek opportunities for compassion-driven giving (not self-care alone) to reduce cynicism and increase well-being.
+7. **Reduce attention-economy use** - cut back on social media and market-style interactions to focus on deep, honest relationships.
+8. **Seek and share solution-oriented news** - tune attention to examples of people and initiatives doing good, rather than focusing on bad-news availability bias.
+9. **Ask more questions and stay open-minded** - in cross-group interactions, probe others’ beliefs to reveal shared values and reduce dehumanization.
+10. **Treat people as partners at work and school** - design interactions and policies that assume cooperation (not zero-sum), encouraging trust, collaboration, and productivity.
+
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **Lake vs ocean village** - In one type of village, it is "every man to himself", while in the other we have solidarity. Despite being very close and similar in demographics, one is much more successful and happy, while the other is stressful and brutal.
@@ -55,30 +81,30 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 Aside from "be more skeptic instead of cynic", while also saying "be more trusting and kind" (which can be a sort of contradiction), it is hard to find any deep and detailed insights
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book has insights but they are few and far between. It is more of a eulogy for a good friend they've lost, one who spoke about hope and the goodness of people, and less of a research or a well thought-out book.
-### 🖼️Outline
+### Outline
 
-![Hope for Cynics (book).webp](/books/hope-for-cynics-book.webp)
+![Hope for Cynics (book)](/books/hope-for-cynics-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-While we know (from research) that [People are inherently good](/notes/humans-are-good-as-default.md) and that [giving](/notes/giving.md) improves our well-being, we don't always feel this way.
+While we know (from research) that [People are inherently good](/notes/humans-are-good-as-default.md) and that [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md) improves our well-being, we don't always feel this way.
 
-In a harsh world, we fall into cynicism because we mistakenly feel this would protect us. Unfortunately, it erodes [trust](/notes/trust.md) and hope in our society, which makes it a darker place.
+In a harsh world, we fall into cynicism because we mistakenly feel this would protect us. Unfortunately, it erodes [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) and hope in our society, which makes it a darker place.
 
 Some unknown truths about cynicism:
 1. **We become less intelligent** - We think that it shows wit, that it's the opposite of naiveté, but it doesn't make us smarter. Cynics are worse at understanding people and cognitive tasks
-2. **It pushes us away from others** - We think that by being a cynic and pushing everyone away, we would be safer from emotional damage. Without [Vulnerability](/notes/vulnerability.md) we lose our ability to connect to others, similarly, if we take no risks, we will never succeed as well. Without trust and collaboration, we can only advance so far.
-3. **It promotes helplessness** - We think being optimistic means seeing the world in a distorted way, to avoid reality, while cynicism is "down to earth" and realistic. However, cynicism is closer to [Pessimism](/notes/pessimism.md) than to [realism](/notes/objectivism.md). We focus on the negative, canceling any opportunity for change. We see the world as a dark place and us as powerless, so we do nothing, which only worsens the situation [helplessness](/notes/helplessness.md)
+2. **It pushes us away from others** - We think that by being a cynic and pushing everyone away, we would be safer from emotional damage. Without [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md) we lose our ability to connect to others, similarly, if we take no risks, we will never succeed as well. Without trust and collaboration, we can only advance so far.
+3. **It promotes helplessness** - We think being optimistic means seeing the world in a distorted way, to avoid reality, while cynicism is "down to earth" and realistic. However, cynicism is closer to [Pessimism is focusing attention on negative outcomes and threats](/notes/pessimism-is-focusing-attention-on-negative-outcomes-and-threats.md) than to [realism](/notes/seeing-reality-without-subjective-bias-reduces-distortion.md). We focus on the negative, canceling any opportunity for change. We see the world as a dark place and us as powerless, so we do nothing, which only worsens the situation [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md)
 
-Hope is wishful thinking, it's a [proactive](/notes/proactiveness.md) way of living. It is to see what could be better in the current situation and act towards it. Not ignoring the circumstances, but also not letting them stop you.
+Hope is wishful thinking, it's a [proactive](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md) way of living. It is to see what could be better in the current situation and act towards it. Not ignoring the circumstances, but also not letting them stop you.
 
-The answer to [cynicism](/notes/cynicism.md) is [Skepticism](/notes/critical-thinking.md). Instead of questioning people, we question their facts.
+The answer to [cynicism](/notes/cynicism.md) is [Skepticism](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md). Instead of questioning people, we question their facts.
 
 :::note[Introduction]
 
@@ -104,13 +130,13 @@ Today's cynics are very different, in general they believe that:
 
 It's the belief that people are selfish, greedy and dishonest.
 
-This view is very costly. To trust no one means that we lose chances of [cooperation](/notes/cooperation.md), which is the bedrock of human prosperity. Humanity has advanced so far because it has cooperated, even if out of self-interest [invisible hand](/notes/invisible-hand.md), but the guiding principle was trust. Without it, it is each person to themselves, with the limited capabilities they have by being self sustained.
+This view is very costly. To trust no one means that we lose chances of [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md), which is the bedrock of human prosperity. Humanity has advanced so far because it has cooperated, even if out of self-interest [Selfish incentives can produce collective prosperity](/notes/selfish-incentives-can-produce-collective-prosperity.md), but the guiding principle was trust. Without it, it is each person to themselves, with the limited capabilities they have by being self sustained.
 
-Additionally, mistrusting others leads to social isolation, which leads to [depression](/notes/depression.md)
+Additionally, mistrusting others leads to social isolation, which leads to [Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md)
 
-What's true for the individual is true for society at large. A community without trust has little to no solidarity, devoid of social capital, unable to withstand a crisis, little investment in public goods and many [Free rider](/notes/free-rider.md).
+What's true for the individual is true for society at large. A community without trust has little to no solidarity, devoid of social capital, unable to withstand a crisis, little investment in public goods and many [Some exploit the altruism of others](/notes/some-exploit-the-altruism-of-others.md).
 
-The first step for cultivating trust is to trust ourselves. To [affirm](/notes/self-affirmation.md) our [core values](/notes/core-values.md), to remember what brings meaning and joy to our lives. Perhaps being a parenting, having a meaningful work, what ever it is that connects us to ourselves, that manages to rise above our cynic view.
+The first step for cultivating trust is to trust ourselves. To [affirm](/notes/positive-self-talk-builds-resilience-and-compassion.md) our [Core values guide authentic identity and moral action](/notes/core-values-guide-authentic-identity-and-moral-action.md), to remember what brings meaning and joy to our lives. Perhaps being a parenting, having a meaningful work, what ever it is that connects us to ourselves, that manages to rise above our cynic view.
 
 :::note[Signs and Symptoms]
 
@@ -126,11 +152,11 @@ The first step for cultivating trust is to trust ourselves. To [affirm](/notes/s
 
 #### The Surprising Wisdom of Hope
 
-Cynicism has the appearance of "street smart", but it's actually the opposite. They lack [mindsight](/notes/mindsight.md), they are [over confident](/notes/over-confidence.md) and lack the ability to understand others. They preform worse at cognitive and social tasks.
+Cynicism has the appearance of "street smart", but it's actually the opposite. They lack [Mindsight is awareness of mental states in self and others](/notes/mindsight-is-awareness-of-mental-states-in-self-and-others.md), they are [over confident](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md) and lack the ability to understand others. They preform worse at cognitive and social tasks.
 
-So why are people still drawn to it? Perhaps it's the result of a [Negative cycle](/notes/negative-cycle.md). At some point in their lives, people got hurt, and turned from disappointed idealist into a cynic. They build walls to protect themselves from pain, which limits their ability to make friends and be close to people, which only leads to shallower relationships, which leads to further disappointment and higher walls.
+So why are people still drawn to it? Perhaps it's the result of a [Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md). At some point in their lives, people got hurt, and turned from disappointed idealist into a cynic. They build walls to protect themselves from pain, which limits their ability to make friends and be close to people, which only leads to shallower relationships, which leads to further disappointment and higher walls.
 
-How do we escape it? With [secure attachment](/notes/safe-base.md). It turns suspicion into [curiosity](/notes/curiosity.md), and cynicism into skepticism. We see the world with a [scientific method](/notes/scientific-method.md) mindset, we doubt evidence but not people, we try because we know we have a safe base to fall back to when we need support.
+How do we escape it? With [secure attachment](/notes/safe-base-provides-security-enabling-growth-and-exploration.md). It turns suspicion into [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md), and cynicism into skepticism. We see the world with a [Empirical testing not reason alone discovers truth](/notes/empirical-testing-not-reason-alone-discovers-truth.md) mindset, we doubt evidence but not people, we try because we know we have a safe base to fall back to when we need support.
 
 It's a slow healing process, but thinking like a scientist can heal us from being a cynic, and maybe we would pick up hope along the way
 
@@ -147,12 +173,12 @@ It's a slow healing process, but thinking like a scientist can heal us from bein
 
 #### Preexisting Conditions
 
-Cynics are not born, they are made. We have to look at the [social environment](/notes/social-environment.md) and how it breeds mistrust and cynicism. The main culprits are:
-1. **Inequality** - the less [equal](/notes/inequality.md) a society, the less trust there is. Interaction seems like a [Zero sum](/notes/binary-thinking.md) game, where each is focused on himself because you are either a victim or a vulture, with nothing in between.
-2. **Commodification** - when we turn interpersonal behavior into a transaction, we exchange sentiments of reciprocity with personal interest [commodification](/notes/commodification.md). We measure others based on what we get from them, not how we can help them. The worst contributor to that is [social media](/notes/attention-economy.md)
+Cynics are not born, they are made. We have to look at the [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md) and how it breeds mistrust and cynicism. The main culprits are:
+1. **Inequality** - the less [equal](/notes/inequality-is-a-normative-problem-caused-by-unjust-distribution-of-resources-and-rights.md) a society, the less trust there is. Interaction seems like a [Zero sum](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) game, where each is focused on himself because you are either a victim or a vulture, with nothing in between.
+2. **Commodification** - when we turn interpersonal behavior into a transaction, we exchange sentiments of reciprocity with personal interest [Commodification turns non-tradable values into economic transactions](/notes/commodification-turns-non-tradable-values-into-economic-transactions.md). We measure others based on what we get from them, not how we can help them. The worst contributor to that is [social media](/notes/our-attention-is-the-product-that-media-companies-sell.md)
 
 To build a society of trust:
-1. **Don't keep score** - be kind, it builds trust while also bringing happiness and reducing stress. When we focus on what we give, and not what we get, we actually get more in return [The law of reverse effect](/notes/the-law-of-reverse-effect.md). Quit social media and focus on deep, honest relationships
+1. **Don't keep score** - be kind, it builds trust while also bringing happiness and reducing stress. When we focus on what we give, and not what we get, we actually get more in return [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md). Quit social media and focus on deep, honest relationships
 2. **Share time together** - we distrust those who we don't know, or worse, learn to fear. The more we are exposed to others, especially our neighbors, the more we can trust them. They turn from strangers into friends.
 
 :::note[Preexisting Conditions]
@@ -169,7 +195,7 @@ To build a society of trust:
 
 Our desire to filter our free riders and cheaters from our society is a strong and deep defense mechanism meant to enable a society where cooperation is possible with people taking advantage of it (which would lead to the collapse of the cooperation and society as a whole).
 
-We do it through gossiping and tuning to news about immoral behavior. Nowadays, the media companies have used this tendency to generate views, presenting bad news as much more frequently than they truly are, causing an [availability bias](/notes/availability-bias.md) which makes us thing that people are worse than they actually are.
+We do it through gossiping and tuning to news about immoral behavior. Nowadays, the media companies have used this tendency to generate views, presenting bad news as much more frequently than they truly are, causing an [Availability bias inflates perceived likelihood of easily recalled events](/notes/availability-bias-inflates-perceived-likelihood-of-easily-recalled-events.md) which makes us thing that people are worse than they actually are.
 
 We are hungry for positive news. We just need to tune ourselves to them. Instead of focusing on problems, on what's wrong with the world, we can be more solution-oriented. To see examples of initiatives and people who try to do something good, what went well, and how we can do and be better ourselves.
 
@@ -182,11 +208,11 @@ We are hungry for positive news. We just need to tune ourselves to them. Instead
 
 #### Escaping the Cynicism Trap
 
-When we see people as free riders, it's not surprising that they start to act that way. [expectations](/notes/expectations.md) have a [Self fulfilling prophecy](/notes/fake-it-till-you-make-it.md) kind of effect on people. They react and adjust to our expectations. Therefore, it's not that people try to abuse the system, but more often a form of [reactance](/notes/reactance.md) towards an abusive system.
+When we see people as free riders, it's not surprising that they start to act that way. [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) have a [Self fulfilling prophecy](/notes/being-emerges-from-action-not-belief.md) kind of effect on people. They react and adjust to our expectations. Therefore, it's not that people try to abuse the system, but more often a form of [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) towards an abusive system.
 
-However, this effect works both ways. If we treat others with kindness, they are more likely to reciprocate kindness back to us. We can enter a [positive feedback loop](/notes/ripple-effect.md), where an act of trust breeds more trust. It doesn't mean to ignore cares of cheating, but to be aware that our behavior and expectations shape how others behave as well [interpersonal identity](/notes/interpersonal-identity.md).
+However, this effect works both ways. If we treat others with kindness, they are more likely to reciprocate kindness back to us. We can enter a [positive feedback loop](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md), where an act of trust breeds more trust. It doesn't mean to ignore cares of cheating, but to be aware that our behavior and expectations shape how others behave as well [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md).
 
-Trust is not easy, it requires a [Leap Into Faith](/notes/leap-into-faith.md) to get the first step started, but we can [start small](/notes/start-small.md)
+Trust is not easy, it requires a [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md) to get the first step started, but we can [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md)
 
 :::note[Escaping the Cynicism Trap]
 
@@ -202,9 +228,9 @@ Trust is not easy, it requires a [Leap Into Faith](/notes/leap-into-faith.md) to
 
 #### The Social Water is just Fine
 
-[loneliness](/notes/loneliness.md) is a terrible curse, it eats us from the inside, manifesting in mental and physical illnesses. What's worse, when we feel isolated, we tend to see others in a more negative light. As if we are more social/kinder than the average person.
+[Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md) is a terrible curse, it eats us from the inside, manifesting in mental and physical illnesses. What's worse, when we feel isolated, we tend to see others in a more negative light. As if we are more social/kinder than the average person.
 
-We drastically misjudge others and ourselves. We avoid talking with strangers, although in retrospect we enjoy it. Our fear of [rejection](/notes/rejection.md) pushes us towards isolation. pushes us towards isolation. However, the only way to truly care for ourselves is by caring for others. Giving, and [gratitude](/notes/gratitude.md) alleviate our suffering and bring us as much joy as it is to others [happiness is shared](/notes/happiness-is-shared.md). By opening ourselves out to the world, by conversing, giving and caring for others, we don't just reduce our cynicism, we become better, happier people.
+We drastically misjudge others and ourselves. We avoid talking with strangers, although in retrospect we enjoy it. Our fear of [Fear of rejection stems from perceived threat to self-worth and identity](/notes/fear-of-rejection-stems-from-perceived-threat-to-self-worth-and-identity.md) pushes us towards isolation. pushes us towards isolation. However, the only way to truly care for ourselves is by caring for others. Giving, and [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md) alleviate our suffering and bring us as much joy as it is to others [Happiness is shared](/notes/happiness-is-shared.md). By opening ourselves out to the world, by conversing, giving and caring for others, we don't just reduce our cynicism, we become better, happier people.
 
 :::note[The (Social) Water Is Just Fine]
 
@@ -215,7 +241,7 @@ We drastically misjudge others and ourselves. We avoid talking with strangers, a
 
 #### Building Cultures of Trust
 
-The organizational culture also has a great effect on whether employees would become cynics our not. Places that treat workers as [econs](/notes/econs.md), as people motivated only by greed and zero sum competitions where workers fight for ranking and status instead of cooperating, shouldn't be surprised when their employees start to act that way, resulting in low cooperation, low trust, low productivity, and creating huge costs for the company. What's true for organizations is true for schools and education in general. They way we see our kids is how they will act. If we treat them as the problem, instead of a partner vs a shared problem, we miss chances of finding [win win situations](/notes/win-win-situations.md), and they might just [voice](/notes/organizational-conflict.md) their opinions by leaving.
+The organizational culture also has a great effect on whether employees would become cynics our not. Places that treat workers as [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md), as people motivated only by greed and zero sum competitions where workers fight for ranking and status instead of cooperating, shouldn't be surprised when their employees start to act that way, resulting in low cooperation, low trust, low productivity, and creating huge costs for the company. What's true for organizations is true for schools and education in general. They way we see our kids is how they will act. If we treat them as the problem, instead of a partner vs a shared problem, we miss chances of finding [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md), and they might just [voice](/notes/we-respond-to-unsafe-environments-in-four-ways.md) their opinions by leaving.
 
 #### The Fault in Our Fault Lines
 
@@ -238,7 +264,7 @@ One of the ways we let cynicism crumble our society is the way we treat the weak
 
 #### The Optimism of Activism
 
-Cynicism leads us to [Status-quo bias](/notes/status-quo-bias.md). We lack the belief that we can change, so we don't. While we are upset about many things, we do nothing to change them. Knowing the truth, trusting others, is the way to form a movement for social change.
+Cynicism leads us to [We prefer existing situations over alternatives despite better options](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md). We lack the belief that we can change, so we don't. While we are upset about many things, we do nothing to change them. Knowing the truth, trusting others, is the way to form a movement for social change.
 
 Hope, just as cynicism, is also contagious, and one person can spark the flame that will inspire many more.
 

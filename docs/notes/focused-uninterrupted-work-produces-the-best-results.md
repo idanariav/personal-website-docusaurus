@@ -1,13 +1,13 @@
 ---
 UUID: 20250428071052
 Created: '2025-04-28 07:10'
-Modified: '2026-04-10 16:49'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Focused uninterrupted work produces the best results.png]]'
 ImageText: >-
   A magnifying glass focusing on a person working at a desk, blocking out
@@ -20,6 +20,10 @@ aliases:
   - Focus
   - Deep Work
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: '[[Deep Work (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -36,7 +40,7 @@ Deep work is the concept that by having [focused](/notes/focus-is-concentrated-c
 
 By trying to do many things at the same time we fail to do any of it well because of our limited [Full working memory reduces focus and task performance](/notes/full-working-memory-reduces-focus-and-task-performance.md) and [Unfinished tasks linger in the mind and reduce focus](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md).
 
-Similarly, shallow work filled with [Distractions](/notes/distraction.md) is also harmful for our productivity,
+Similarly, shallow work filled with [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) is also harmful for our productivity,
 
 ### Why it matters
 
@@ -53,7 +57,3 @@ Today, it is more essential than ever to be able to produce quality work, becaus
 ## Visual
 
 ![Focused uninterrupted work produces the best results](/notes/focused-uninterrupted-work-produces-the-best-results.webp)
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-↩️Origin:: [Deep Work (book)](/books/deep-work-book.md)
-🔗Link::

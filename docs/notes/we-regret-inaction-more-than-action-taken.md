@@ -1,13 +1,13 @@
 ---
 UUID: 20221005131630
 Created: '2022-10-05 13:16'
-Modified: '2026-04-08 13:35'
+Modified: '2026-04-11 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Regret
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   leading to self-blame, which can be transformed into motivation for future
   improvement through acceptance and responsibility.
 new_schema: true
+Topic:
+  - '[[Status Quo and Inertia]]'
+Origin: '[[Hidden Brain]]'
+URL: 'https://www.podcastrepublic.net/episode/71257112711'
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ Regret is a powerful tool. It is a mix of creative skills, the ability to imagin
 ## Visual
 
 ![Regret](/notes/regret.webp)
-
-## Overview
-🔼Topic:: [Status Quo and Inertia](/notes/status-quo-and-inertia.md)
-◀Origin:: [Hidden Brain](/notes/hidden-brain.md)
-🔗Link:: [Source](https://www.podcastrepublic.net/episode/71257112711)
-

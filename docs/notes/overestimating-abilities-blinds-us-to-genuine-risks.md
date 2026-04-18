@@ -1,13 +1,13 @@
 ---
 UUID: 20231228174240
 Created: '2023-12-28 17:42'
-Modified: '2026-04-08 13:37'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Over confidence
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   underestimate challenges, often leading to a false sense of certainty and
   resistance to re-evaluation of beliefs.
 new_schema: true
+Topic:
+  - '[[Overconfidence and Self-Assessment]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ In contrast, a bit more [Skepticism](/notes/examining-ideas-rigorously-before-ac
 ## Visual
 
 ![over confidence](/notes/over-confidence.webp)
-
-## Overview
-🔼Topic:: [Overconfidence and Self-Assessment](/notes/overconfidence-and-self-assessment.md)
-↩️Origin::
-🔗Link::
-

@@ -1,7 +1,7 @@
 ---
 UUID: 20220703184228
 Created: '2022-07-03 18:42'
-Modified: '2025-04-10 13:35'
+Modified: '2026-04-14 18:00'
 tags: []
 FullTitle: Atomic Habits - An Easy & Proven Way to Build Good Habits & Break Bad Ones
 Description: >-
@@ -15,8 +15,10 @@ URL: 'https://www.goodreads.com/book/show/40121378-atomic-habits'
 Cover: >-
   http://books.google.com/books/content?id=lFhbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 ASIN: B07D23CFGR
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
@@ -24,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 10
 Pages: 319
 Reread: 1
 Rate: 5
@@ -33,6 +35,8 @@ StartDate: 2022-01-03T00:00:00.000Z
 FinishDate: 2022-01-09T00:00:00.000Z
 Image: '[[Atomic Habits (book).png]]'
 aliases: ''
+Topic:
+  - '[[Habits (Map)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -42,10 +46,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: Habits (Map)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Compounding is the strongest force we can muster** - The most life changing thing we can do is to create systems that use compounding for our benefit. We use time and inter connectivity in our favor, turning small steps into huge wins.
 2. **Focus on identity, not goals** - Goals are not a good tool for motivation, there are limited and technical. However, when we focus on the person we want to become, it is easier to make the change happen, we internalize it, we become it, and it sustains itself. Similarly, we should focus on the systems that represent and support that identity. Usually this means to shape your environment in your favor, rather than relying on willpower.
@@ -57,13 +58,13 @@ SiteProcssed: true
 	4. make them satisfying - reward yourself by completing the habit, use a habit track to follow your progress
 5. **Compounding is hidden, demoralizing, takes patience** - Change, and success as a by-product, is a process that takes time. Focus only on the next step. What seems like a small, irrelevant step now will provide huge benefits in the future. Focus on the now, and the results will come.
 
-### 🗒️Relate
+### Relate
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 1. we would be system oriented instead of goal oriented, which is much more stable and useful in the long run for implementing change in a consistent way
 2. we would use the power of compounding in our favor, leading to significant improvements in our lives
 3. we would maintain good habits while stopping bad ones.
 
-### ✅Act
+### Act
 📋*What should I do to achieve the goals set out by this book?*
 1. **Start with tiny daily improvements** - perform one small habit every day (e.g., 1% better) and track it long-term to let compounding produce big results.
 2. **Use identity-based statements** - each morning declare a one-line identity (e.g., "I am a healthy person") and perform one small action that proves it to yourself.
@@ -77,9 +78,7 @@ SiteProcssed: true
 10. **Create immediate, identity‑consistent rewards and accountability** - choose short-term rewards that reinforce who you want to be, and set an accountability partner or contract with tangible consequences for failure.
 
 
-
-
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. The "point-and-say" method to add mindfulness to daily actions to reduce errors
@@ -90,22 +89,22 @@ The later section about the importance of genes in picking the right habits soun
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 How he opens his book with his personal stories is still one of the best openings I've read, even after ~200 books. It shows humility, persistence, grit and growth. He has achieved much, yet not clouded by power.
 
-### 🖼️Outline
+### Outline
 
 ![Atomic Habits (book)](/books/atomic-habits-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-It's all about compounding, even from the worst of situations, you can rise to the greatest heights.
+It's all about [Repeated actions yield exponentially increasing returns over time](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md), even from the worst of situations, you can rise to the greatest heights.
 
-Success takes time trust the process, nobody succeeds overnight. It takes consistency, which is built on even the smallest of actions
+Success takes time [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md), nobody succeeds overnight. It takes [Consistency compounds results through reliable repeated action](/notes/consistency-compounds-results-through-reliable-repeated-action.md), which is built on even the [smallest](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md) of actions
 
 :::note[Introduction My Story]
 
@@ -121,23 +120,23 @@ Success takes time trust the process, nobody succeeds overnight. It takes consis
 
 #### The Surprising Power of Atomic Habits
 
-Although compounding has such a strong effect, it's drawbacks are that it's far away in the future. The benefits are not tangible, so we don't consider these small acts as important, focusing either on huge one offs or simply falling to temptations because "what's the difference".
+Although compounding has such a strong effect, it's drawbacks are that it's far away in the future. The benefits are not [tangible](/notes/clarity-is-achieved-through-definition-and-presentation.md), so we don't consider these small acts as important, focusing either on huge one offs or simply falling to [temptations](/notes/temptations.md) because "what's the difference".
 
 Habits are a two sided sword. The good ones will improve you drastically, while the bad ones will hurt you drastically on the long run. A 1% daily improvement is 37x in a year. Similarly a 1% drop is 37x weaker by the end of the year.
 
-To know where your habits are taking you, it takes Self-awareness. To recognize where you can improve, it requires Experimentation to see what little changes you can do to improve in the long run. Don't accept the Defaults. Each area of your life, as little as can be, can be beneficial or harmful to you. You must find out which is which Quantifiable self.
+To know where your habits are taking you, it takes [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md). To recognize where you can improve, it requires [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md) to see what little changes you can do to improve in the long run. Don't accept the [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md). Each area of your life, as little as can be, can be beneficial or harmful to you. You must find out which is which [Self-knowledge can be driven by data](/notes/self-knowledge-can-be-driven-by-data.md).
 
-Compounding is not only across time, but across areas as well. For example, if you improve 1% over many different sub tasks, your overall productivity will improve much more than just 1%. optimization, even by just a bit has huge effects. It can serve as a Multiplier in many areas.
+Compounding is not only across time, but across areas as well. For example, if you improve 1% over many different sub tasks, your overall productivity will improve much more than just 1%. [Optimization finds the efficient point balancing outputs and inputs](/notes/optimization-finds-the-efficient-point-balancing-outputs-and-inputs.md), even by just a bit has huge effects. It can serve as a [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) in many areas.
 
-At some point, the compounding effect becomes tangible once it crosses a Critical mass, like a bamboo tree that spends years developing its roots, and suddenly bursts into the skies in just a short period of time. Progress is Non linear, and "overnight successes" are just the compounding outburst of years of preparation. Mastery requires Patience.
+At some point, the compounding effect becomes tangible once it crosses a [Change happens suddenly once a threshold is crossed](/notes/change-happens-suddenly-once-a-threshold-is-crossed.md), like a bamboo tree that spends years developing its roots, and suddenly bursts into the skies in just a short period of time. Progress is [Progress and change follow non-linear trajectories with thresholds](/notes/progress-and-change-follow-non-linear-trajectories-with-thresholds.md), and "overnight successes" are just the compounding outburst of years of preparation. [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md) requires [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md).
 
-Although the *plateau of latent potential* is unsatisfying, remember that all the effort you do is stored.
+Although the *plateau of latent potential* is unsatisfying, remember that all the effort you do is [stored](/notes/one-time-effort-investment-yields-future-benefits.md).
 
 We should all focus on systems (aka habits) rather than goals. The compass is more important than the destination. The problems with goals are:
-1. **Prone to survivors bias** - winners and losers had the same goals. It's not the goal that gets you to the finish line, it's the systems. Survivors Bias.
-2. **It's temporary** - like cleaning up a messy room, you'll have to do it again tomorrow. It's better to set it up such that it won't get messy in the first place, rather than working every time to clean it. It's a matter of GIGO. If we fix our inputs (aka the systems), the outputs will take care of themselves.
-3. **They're counter to happiness** - goals create a feeling of Future disillusionment, of "I'll be happy when", instead of focusing on the way you live right now. They lead to a Zero sum thinking, either we achieved it and we're successful, or failed to achieve it and we're miserable.
-4. **They leave you empty** - you achieved the goal, now what? You feel drained, empty, without motivation and nothing to do
+1. **Prone to survivors bias** - winners and losers had the same goals. It's not the goal that gets you to the finish line, it's the systems. [We draw conclusions only from what survived](/notes/we-draw-conclusions-only-from-what-survived.md).
+2. **It's temporary** - like cleaning up a messy room, you'll have to do it again tomorrow. It's better to set it up such that it won't get messy in the first place, rather than working every time to clean it. It's a matter of [GIGO](/notes/output-quality-depends-on-input-quality.md). If we fix our inputs (aka the systems), the outputs will take care of themselves.
+3. **They're counter to happiness** - goals create a feeling of [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md), of "I'll be happy when", instead of focusing on the way you live right now. They lead to a [Zero sum](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) thinking, either we achieved it and we're successful, or failed to achieve it and we're miserable.
+4. **They leave you empty** - you achieved the goal, now what? You feel drained, empty, without motivation and nothing to do [Achieving a goal removes the motivation that sustained it](/notes/achieving-a-goal-removes-the-motivation-that-sustained-it.md)
 
 Atomic habits are small steps that are part of a larger system for self improvement, they have a compounding effect.
 
@@ -170,15 +169,15 @@ There are two reasons why good habits don't stick and bad ones do:
 1. We change in the wrong direction
 2. We try the wrong way
 
-Most of us try to change by focusing on the outcomes - "I want to lose five pounds", "I want to quit smoking". This however doesn't stick because outcomes are the outermost circle of our behavior. The inner circles are processes (like habits) and identity (the center of the circle). A good change starts from the inside, by focusing on our identity - "I am not a smoker", "I am a healthy person".
+Most of us try to change by focusing on the outcomes - "I want to lose five pounds", "I want to quit smoking". This however doesn't stick because outcomes are the outermost circle of our behavior. The inner circles are processes (like habits) and identity (the center of the circle). A good change [starts from the inside](/notes/change-starts-from-the-inside-out.md), by focusing on our identity - "I am not a smoker", "I am a healthy person".
 
-Striving for a new identity is the best way to generate Intrinsic Motivation, we do these habits not because we want an external outcome, rather it is an alignment to who we believe ourselves to be.
+Striving for a new identity is the best way to generate [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md), we do these habits not because we want an external outcome, rather it is an alignment to who we believe ourselves to be.
 
-However, embracing a new identity requires Forgetting or Rewriting our existing identity.
+However, embracing a new identity requires [Forgetting](/notes/forgetfulness.md) or [We rewrite our memories every time we access them](/notes/we-rewrite-our-memories-every-time-we-access-them.md) our existing identity.
 
-Our identity isn't born out of nothing, it is the result of our actions. We are being by doing. By taking the actions that our desires identity would do, we become that identity. When we write, we are embodying a writer, when we play, we become a musician.
+Our identity isn't born out of nothing, it is the result of our actions. We are [being by doing](/notes/being-emerges-from-action-not-belief.md). By taking the actions that our desires identity would do, we become that identity. When we write, we are embodying a writer, when we play, we become a musician.
 
-All is true for bad habits and identities as well. When we practice Self Criticism, we embrace negative identities that limit us.
+All is true for bad habits and identities as well. When we practice [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md), we embrace negative identities that limit us.
 
 :::note[How Your Habits Shape Your Identity (and Vice Versa)]
 
@@ -204,15 +203,15 @@ All is true for bad habits and identities as well. When we practice Self Critici
 
 ### How to Build Better Habits in 4 Simple Steps
 
-Habits are the result of successful experimentation in the past. At first we try things at random, but once we found out something that works, we "save" this behavior for future cases to make our decision making easier and less costly Human Brain reinforced learning.
+Habits are the result of successful experimentation in the past. At first we try things at random, but once we found out something that works, we "save" this behavior for future cases to make our decision making easier and less costly [Human Brain](/notes/human-brain.md) [reinforced learning](/notes/reinforced-learning.md).
 
-This requires us to get feedback for our environment. If we don't know if something works, we won't turn it into a habit.
+This requires us to get [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md) for our environment. If we don't know if something works, we won't turn it into a habit.
 
-Habits are what allows us to thrive because it reduces the amount of Decision points we have throughout the day, leaving more energy available for other choices
+Habits are what allows us to thrive because it reduces the amount of [Decision points force re-evaluation or action by creating deliberate triggers](/notes/decision-points-force-re-evaluation-or-action-by-creating-deliberate-triggers.md) we have throughout the day, leaving more energy available for other choices
 
 This means that habits are the best solution to a problem, we do them because they are affective at achieving an outcome. Which problem and which outcome that's what determines whether they are "good" or "bad"
 
-Following The habit loop, we recognize two main component
+Following [Habits operate through a four-part loop](/notes/habits-operate-through-a-four-part-loop.md), we recognize two main component
 1. **The problem phase** - the cue we face and the craving it triggers within us
 2. **The solution phase** - the action we take in response to the craving, and the following reward it gives
 
@@ -234,9 +233,9 @@ Following The habit loop, we recognize two main component
 
 #### The Man Who Didn't Look Right
 
-The first step is to actually notice the cues, instead of letting them affect us without us noticing. It requires mindfulness and Focus, to truly pay attention to our environment.
+The first step is to actually notice the cues, instead of letting them affect us without us noticing. It requires [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) and [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md), to truly pay attention to our environment.
 
-Vocalizing our actions, like - "I'm about to eat this cookie despite it being unhealthy" or "tomorrow I'm going to wake up at seven to workout "adds Visibility, self awareness, and even have a coercive power due to Cognitive Alignment, because it's harder for us to "betray" what we already physically said we will do/avoid doing.
+Vocalizing our actions, like - "I'm about to eat this cookie despite it being unhealthy" or "tomorrow I'm going to wake up at seven to workout "adds [What matters most is often less visible than what is salient](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md), self awareness, and even have a coercive power due to [Actions and physical states unconsciously shape our beliefs](/notes/actions-and-physical-states-unconsciously-shape-our-beliefs.md), because it's harder for us to "betray" what we already physically said we will do/avoid doing.
 
 Awareness is the first step.
 
@@ -251,7 +250,7 @@ Awareness is the first step.
 
 #### The Best way to Start a New Habit
 
-Habits are easier to start and maintain once we have a plan that brings clarity. Replace "I will exercise more" with "I will do ten pushups every day at seven in my kitchen". This is called *implementation intention*, and it makes it more likely that we will follow through. Using *habit stacking*, we can chain habits together, turning one habit as the cue for the next one. For example, "after I do ten pushups, I will meditate for five minutes "
+Habits are easier to start and maintain once we have a [plan](/notes/planning-is-anticipating-the-future-and-preparing-action-accordingly.md) that brings clarity. Replace "I will exercise more" with "I will do ten pushups every day at seven in my kitchen". This is called *implementation intention*, and it makes it more likely that we will follow through. Using *habit stacking*, we can chain habits together, turning one habit as the cue for the next one. For example, "after I do ten pushups, I will meditate for five minutes " [Linking habits in sequence amplifies behavior adoption through habit stacking](/notes/linking-habits-in-sequence-amplifies-behavior-adoption-through-habit-stacking.md)
 
 :::note[The Best Way to Start a New Habit]
 
@@ -265,13 +264,13 @@ Habits are easier to start and maintain once we have a plan that brings clarity.
 
 #### Motivation is Overrated, Environment Often Matters More
 
-We are highly affected by our environment, that is why a Nudge can have huge effects on our habits.
+We are highly affected by our environment, that is why a [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md) can have huge effects on our habits.
 
 Our environment is more than a collection of objects, these are cues and contexts that trigger a craving within us. Seeing cookies makes us hungry, seeing the TV distracts us. That's why it's best to fill our environment with positive cues and reduce negative ones.
 
 Vision is the strongest sense for detecting cues.
 
-It is best to have one habit per cue. For example, only do work in your office room, and watch tv in the living room. If you mix (watch tv in your office), it's likely that the bad, easy habits will win. Make it clear for your body which behavior corresponds with which location. It's easy to have a Clean Slate and create new habits in a new environment, but you can also shape your existing one. Reduce Ambiguity by assigning a role to each location
+It is best to have one habit per cue. For example, only do work in your office room, and watch tv in the living room. If you mix (watch tv in your office), it's likely that the bad, easy habits will win. Make it clear for your body which behavior corresponds with which location. It's easy to have a [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md) and create new habits in a new environment, but you can also shape your existing one. Reduce [Ambiguity is the absence of clarity in values or facts](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.md) by assigning a role to each location
 
 :::note[Motivation Is Overrated; Environment Often Matters More]
 
@@ -292,9 +291,9 @@ It is best to have one habit per cue. For example, only do work in your office r
 
 #### The Secret to Self Control
 
-The key to Self-control is not to need it in the first place. It is better to shape your environment once so that you would not have to face situations that require self control
+The key to [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) is not to need it in the first place. It is better to shape your environment once so that you would not have to face situations that require self control
 
-This is especially true when we recall that habits can be overcome, but not forgotten. So the best way to reduce bad habits is to get rid of the cues that trigger them. It's better and easier to avoid temptations than to resist them Willpower is Limited
+This is especially true when we recall that habits can be overcome, but not forgotten. So the best way to reduce bad habits is to get rid of the cues that trigger them. It's better and easier to avoid temptations than to resist them [Willpower is Limited](/notes/willpower-is-limited.md)
 
 :::note[The Secret to Self-Control]
 
@@ -311,11 +310,11 @@ This is especially true when we recall that habits can be overcome, but not forg
 
 #### Good to Make a Habit Irresistible
 
-What makes us take action is dopamine which controls the reward center of the brain. It leads to the craving, the motivation that pushes us to act. Without it we will be indifferent.
+What makes us take action is dopamine which controls the reward center of the brain. It leads to the craving, the motivation that pushes us to act. Without it we will be [indifferent](/notes/indifference.md).
 
-At first, it's the reward itself that spikes our dopamine, but once a habit sets in, it's the craving that triggers it, while the reward itself does nothing. It's the anticipationof reward that brings the most joy.
+At first, it's the reward itself that spikes our dopamine, but once a habit sets in, it's the craving that triggers it, while the reward itself does nothing. It's the [anticipation](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md)of reward that brings the most joy.
 
-That it why Temptation Bundling is so strong. By connecting a habit we need to do, with a habit we want to do, the craving will give us the motivation to do the second while wishing for the latter.
+That it why [Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.md) is so strong. By connecting a habit we need to do, with a habit we want to do, the craving will give us the motivation to do the second while wishing for the latter.
 
 :::note[How to Make a Habit Irresistible]
 
@@ -329,7 +328,7 @@ That it why Temptation Bundling is so strong. By connecting a habit we need to d
 
 #### The Role of Family and Friends in Shaping Your Habits
 
-We are social creatiures, highly affected by our Social Environment. Our first habits are not a conscious choice we make, rather an Imitation of others. We tend to imitate those closest to us, the majority, and the powerful. The stronger the crowd, the more likely we will imitate them. Whether because we want to fit it, or afraid of being outcast, we embrace the identity of the group, which leads to a change in our behavior.
+We are [social creatiures](/notes/human-is-a-social-being.md), highly affected by our [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md). Our first habits are not a conscious choice we make, rather an [Imitation internalizes others' behaviors and mental models at varying depths](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md) of others. We tend to imitate those closest to us, the majority, and the powerful. The stronger the crowd, the more likely we will imitate them. Whether because we want to fit it, or afraid of being outcast, we embrace the identity of the group, which leads to a change in our behavior.
 
 :::note[The Role of Family and Friends in Shaping Your Habits]
 
@@ -346,9 +345,9 @@ We are social creatiures, highly affected by our Social Environment. Our first h
 
 #### How to Find and Fix the Cause of Your Bad Habits
 
-The craving we get from the cue is not dependent on the cue itself. For example, some people see a hamburger and are filled with hunger, others are might be disgusted by it. Which craving matches which cue is a matter of Framing. The emotions serve as information for what was the best solution when we encountered the same situation last time.
+The craving we get from the cue is not dependent on the cue itself. For example, some people see a hamburger and are filled with hunger, others are might be disgusted by it. Which craving matches which cue is a matter of [How we describe something shapes how it is perceived](/notes/how-we-describe-something-shapes-how-it-is-perceived.md). The emotions serve as [information](/notes/emotions-provide-decision-relevant-information-when-navigating-choices.md) for what was the best solution when we encountered the same situation last time.
 
-Doing something fun right after we get out of bed can cause our alarm clock to be something energizing, and not demoralizing. While it's hard, we can reprogram the craving per cue by forcing a new sensation over the cue. For example, if every time I see a dog I will eat chocolate, I will associate dogs with the positive sensation of eating chocolate, which overall will cause me to enjoy seeing dogs more.
+Doing something fun right after we get out of bed can cause our alarm clock to be something energizing, and not demoralizing. While it's hard, we can reprogram the craving per cue by forcing a new sensation over the cue. For example, if every time I see a dog I will eat chocolate, I will associate dogs with the positive sensation of eating chocolate, which overall will cause me to enjoy seeing dogs more. [Emotional associations between cues and cravings can be reprogrammed through new experiences](/notes/emotional-associations-between-cues-and-cravings-can-be-reprogrammed-through-new-experiences.md)
 
 :::note[How to Find and Fix the Causes of Your Bad Habits]
 
@@ -369,7 +368,7 @@ Doing something fun right after we get out of bed can cause our alarm clock to b
 
 #### Walk Slowly but Never backwards
 
-Planning can be a form of Distractions. We try to do everything perfectly, yet we should remember that Perfect is the enemy of good. Research shows that Practice beats perfection. The more we do, the better at something we become, even if we spend less time planning it to perfection.
+Planning can be a form of [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md). We try to do everything perfectly, yet we should remember that [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md). Research shows that [Practice beats perfection](/notes/practice-beats-perfection.md). The more we do, the better at something we become, even if we spend less time planning it to perfection.
 
 The more we practice, the more something becomes a habit, which is easier to maintain.
 
@@ -388,7 +387,7 @@ The more we practice, the more something becomes a habit, which is easier to mai
 
 #### The Law of Least Effort
 
-Habits are only possible if you don't have any Friction blocking your way of doing them. In essence, less is more. The more we simplify the process, the more we remove barriers from activating them, the easier it is to maintain good habits.
+Habits are only possible if you don't have any [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) blocking your way of doing them. In essence, [less is more](/notes/improvement-often-comes-from-removing-rather-than-adding.md). The more we simplify the process, the more we remove barriers from activating them, the easier it is to maintain good habits.
 
 :::note[The Law of Least Effort]
 
@@ -403,7 +402,7 @@ Habits are only possible if you don't have any Friction blocking your way of doi
 
 #### How to Stop Procrastinating by Using the Two Minute Rule
 
-at first, Momentum is more important than optimization. Doing our habits, even on a small scale, is a form of positioning, where one good choice leads to another. That's why it's important to start small. Adopt a strategy like the Five minute rule, where you try to do it for just five minutes, without feeling guilty if you stop afterwards. The momentum will likely carry you past the 5 minutes, but even just five is enough.
+at first, [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md) is more important than optimization. Doing our habits, even on a small scale, is a form of positioning, where one good choice leads to another. That's why it's important to start small. Adopt a strategy like the [Five minute rule](/notes/5-minute-rule.md), where you try to do it for just five minutes, without feeling guilty if you stop afterwards. The momentum will likely carry you past the 5 minutes, but even just five is enough.
 
 A series of small steps can have huge differences along the way.
 
@@ -426,15 +425,15 @@ A series of small steps can have huge differences along the way.
 
 #### How to Make Good Habits Inevitable and Bad Habits Impossible
 
-Using Commitment Devices is useful because they increase the friction of doing bad habits so much that it's practically impossible to implement them. When the "bad option" is not available, it's much easier to choose to do the right thing.
+Using [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md) is useful because they increase the friction of doing bad habits so much that it's practically impossible to implement them. When the "bad option" is not available, it's much easier to choose to do the right thing.
 
-Also, these commitment devices can be a form of automation, that past the initial setup, can serve as long term investments, like making an automated savings plan
+Also, these commitment devices can be a form of automation, that past the [initial setup](/notes/initial-effort-investments-create-friction-preventing-optimal-behavior-change.md), can serve as long term investments, like making an automated savings plan
 
 ### Make it Satisfying
 
 #### The Cardinal Rule of Behavior Change
 
-The reason we often opt to bad habits and avoid doing good habits is not because we lack the knowledge Akrasia, it's because we have a Present Bias.
+The reason we often opt to bad habits and avoid doing good habits is not because we lack the knowledge [Knowing the right thing doesn't mean we do it](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md), it's because we have a [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md).
 
 Usually bad habits have immediate benefits (like eating junk food), but the costs are in the future (gaining weight). For good habits it's the reverse.
 
@@ -463,9 +462,9 @@ A good method for sticking with your habits is habit tracking. Marking an "x" ea
 2. It is satisfying - it provides a sense of accomplishment
 3. It gives accountability -you don't want to break the chain
 
-However we will likely miss a day once in a while. What's important is to *not miss twice*. Once is acceptable, twice is losing the habit.
+However we will likely miss a day once in a while. What's important is to *not miss twice*. Once is acceptable, twice is losing the habit. [Breaking a streak kills all motivation](/notes/breaking-a-streak-kills-all-motivation.md)
 
-Also, we need to not give too much importance to the habit tracking, because otherwise we focus on the score rather than the habit it serves Goodhart’s Law. For example, we might eat one bite of a cucumber and consider it as "ate healthy" just to check the habit.
+Also, we need to not give too much importance to the habit tracking, because otherwise we focus on the score rather than the habit it serves [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md). For example, we might eat one bite of a cucumber and consider it as "ate healthy" just to check the habit.
 
 :::note[How to Stick with Good Habits Every Day]
 
@@ -483,11 +482,11 @@ Also, we need to not give too much importance to the habit tracking, because oth
 
 #### How an Accountability Partner Can Change Everything
 
-We are very responsive to punishments. We hate losing, it serves as a powerful lesson. That's why being accountable for our habits can be a strong force for maintaining them.
+We are very responsive to punishments. We hate losing, it serves as a powerful lesson [We prefer avoiding losses over gaining equivalent value](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md). That's why being accountable for our habits can be a strong force for maintaining them.
 
 For example, signing a contract that if you fail to stick with your habits, you will have to pay money or humiliate yourself, it's less likely for you to fail.
 
-The more immediate, concrete and related to the act the punishment is, the more effective it is.
+The more immediate, concrete and related to the act the punishment is, the more effective it is. [Punishment effectiveness scales with its immediacy and concreteness](/notes/punishment-effectiveness-scales-with-its-immediacy-and-concreteness.md)
 
 :::note[How an Accountability Partner Can Change Everything]
 
@@ -501,14 +500,14 @@ The more immediate, concrete and related to the act the punishment is, the more 
 
 ### ADVANCED TACTICS How to Go from Being Merely Good to Being Truly Great
 
-The most successful habits are the result of an alignment between the habits you choose and your personality. When you are passionate about something, it would be easier to gather the necessary motivation, and to sustain this habit.
+The most successful habits are the result of an alignment between the habits you choose and your personality. When you are [passionate](/notes/passion-is-deep-desire-that-sustains-intrinsic-motivation-through-difficulty.md) about something, it would be easier to gather the necessary motivation, and to sustain this habit.
 
-At first, it will probably take a series of experiments to find out what drives us, and how best to preform it. Even after you have found your method, keep 10% of your time dedicated to it to explore new ways or ideas. Make sure to keep the habit Challenging, to both make sure you are improving each day, and to avoid Boredom
+At first, it will probably take a series of experiments to find out what drives us, and how best to preform it. Even after you have found your method, keep 10% of your time dedicated to it to explore new ways or ideas. Make sure to keep the habit [Challenging](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md), to both make sure you are improving each day, and to avoid [Boredom signals under-stimulation and disconnection from intrinsic motivation](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md)
 ### How to Go from Being Merely Good to Being Truly Great
 
 #### The Truth about Talent
 
-Some habits are easier depending on the person. For example a short person would have a hard time being a good basketball player. You should choose the habits that corresponds with your personality and Skill synthesis, and we need to accept that not all habits are a good fit for us, although for every category of activity (like sports, art), there should be a habit that fits Practice beats talent.
+Some habits are easier depending on the person. For example a short person would have a hard time being a good basketball player. You should choose the habits that corresponds with your personality and [Unique skill combinations create competitive and creative advantage](/notes/unique-skill-combinations-create-competitive-and-creative-advantage.md), and we need to [accept](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) that not all habits are a good fit for us, although for every category of activity (like sports, art), there should be a habit that fits [Practice beats talent](/notes/practice-beats-talent.md).
 
 To identity which habits are a good fit, ask yourself:
 1. What feels like fun to me, but work to others
@@ -518,7 +517,7 @@ To identity which habits are a good fit, ask yourself:
 
 Also, keep on experimenting and searching for new habits/ways of fulfilling them, especially if you feel that they don't work.
 
-Let go of Comparisons, you should only focus on improving yourself and surpassing your Limits
+Let go of [Comparing ourselves to others damages wellbeing and progress](/notes/comparing-ourselves-to-others-damages-wellbeing-and-progress.md), you should only focus on improving yourself and surpassing your [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md)
 
 :::note[The truth about talent]
 
@@ -545,7 +544,7 @@ Let go of Comparisons, you should only focus on improving yourself and surpassin
 
 Eventually we will get bored, which is a risk for maintaining habit more than failure. One way of keeping motivation and avoiding boredom is to make sure you are always challenged, that it's not too easy or too hard.
 
-However, even in those cases boredom will eventually come. You will feel bored writing, weight lifting, acting every day, that's why grit and consistency are key traits that will carry us when motivation fails. This is the difference between professionals and amateurs. Some work consistently even when motivation is lacking, others do only when they feel like it.
+However, even in those cases boredom will eventually come. You will feel bored writing, weight lifting, acting every day, that's why [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) and consistency are key traits that will carry us when motivation fails. This is the difference between professionals and amateurs. Some work consistently even when motivation is lacking, others do only when they feel like it.
 
 :::note[The Goldilocks Rule: How to Stay Motivated in Life and Work]
 
@@ -560,9 +559,9 @@ However, even in those cases boredom will eventually come. You will feel bored w
 
 #### The Downside of Creating Good Habits
 
-The upside of habits is also their downside. Habits turn actions into automatic, but when they are automatic it is hard to improve. We need to combine habits with Deliberate Practice. The way to be mindful of what still needs improvement and practice and what we are already "nailing" that we can automate requires Periodical Review.
+The upside of habits is also their downside. Habits turn actions into automatic, but when they are automatic it is hard to improve. We need to combine habits with [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md). The way to be mindful of what still needs improvement and practice and what we are already "nailing" that we can automate requires [Regular review cycles enable progress tracking and alignment](/notes/regular-review-cycles-enable-progress-tracking-and-alignment.md).
 
-Similarly, our identity should be flexible as well. A change in the circumstances requires a change in our identity. If we cling too tight to the old identity, we won't be able to thrive. For example, an athlete that is injured will suffer if they try to hold on to their identity as an athlete despite the circumstances which suggest a different life for them now self
+Similarly, our identity should be [flexible](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md) as well. A change in the circumstances requires a change in our identity. If we cling too tight to the old identity, we won't be able to thrive. For example, an athlete that is injured will suffer if they try to hold on to their identity as an athlete despite the circumstances which suggest a different life for them now [self](/notes/self.md)
 
 :::note[The Downside of Creating Good Habits]
 

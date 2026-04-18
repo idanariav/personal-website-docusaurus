@@ -1,13 +1,13 @@
 ---
 UUID: 20231230184156
 Created: '2023-12-30 18:41'
-Modified: '2026-04-10 09:50'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 new_schema: true
 aliases:
   - Gamification
@@ -17,6 +17,11 @@ Description: >-
   A method of enhancing activities by incorporating elements of play and
   challenge to increase enjoyment and engagement, often transforming mundane
   tasks into fun experiences.
+Topic:
+  - '[[Habit Mechanics]]'
+  - '[[Peak States and Optimal Experience]]'
+Origin: '[[The Knowledge Project with Shane Parrish]]'
+URL: 'https://share.snipd.com/episode/858e9e0a-f2a4-4651-baae-19da8d88a64d'
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +60,3 @@ While perhaps not a true solution to the problem, it can put [Burnout is chronic
 ## Visual
 
 ![Gamification](/notes/gamification.webp)
-## Overview
-🔼Topic:: [Habit Mechanics](/notes/habit-mechanics.md)
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-↩️Origin:: [The Knowledge Project with Shane Parrish](/notes/the-knowledge-project-with-shane-parrish.md)
-🔗Link:: https://share.snipd.com/episode/858e9e0a-f2a4-4651-baae-19da8d88a64d
-

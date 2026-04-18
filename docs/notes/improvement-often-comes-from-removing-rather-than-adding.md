@@ -1,13 +1,13 @@
 ---
 UUID: 20220715053853
 Created: '2022-07-15 05:38'
-Modified: '2026-04-10 16:36'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 6
+Version: 7
 Image: '[[Improvement often comes from removing rather than adding.png]]'
 ImageText: A single strong line vs many small opposing lines
 Description: >-
@@ -19,6 +19,11 @@ aliases:
   - less is more
   - Minimalism
 new_schema: true
+Topic:
+  - '[[Conditions for Creative Thinking]]'
+  - '[[Prioritization and Leverage]]'
+Origin: '[[Hidden Brain]]'
+URL: 'https://www.podcastrepublic.net/episode/59136686861'
 draft: false
 SiteProcssed: true
 ---
@@ -54,8 +59,3 @@ For example, having one car might make sense, but having a dozen is a hassle, si
 ## Visual
 
 ![Improvement often comes from removing rather than adding](/notes/improvement-often-comes-from-removing-rather-than-adding.webp)
-## Overview
-🔼Topic:: [Conditions for Creative Thinking](/notes/conditions-for-creative-thinking.md)
-🔼Topic:: [Prioritization and Leverage](/notes/prioritization-and-leverage.md)
-↩️Origin:: [Hidden Brain](/notes/hidden-brain.md)
-🔗Link:: [Source](https://www.podcastrepublic.net/episode/59136686861)

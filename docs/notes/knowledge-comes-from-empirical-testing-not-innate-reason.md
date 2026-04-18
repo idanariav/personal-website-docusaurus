@@ -1,13 +1,13 @@
 ---
 UUID: 20230406091236
 Created: '2023-04-06 09:12'
-Modified: '2026-04-09 09:05'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Knowledge comes from empirical testing not innate reason.png]]'
 ImageText: A rock surrounded by a measure tape
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Empiricism
 new_schema: true
+Topic:
+  - '[[Foundations of Knowledge]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ While it sounds tempting to be an empiricists, and perhaps they are right most o
 ## Visual
 
 ![Knowledge comes from empirical testing not innate reason](/notes/knowledge-comes-from-empirical-testing-not-innate-reason.webp)
-
-## Overview
-🔼Topic:: [Foundations of Knowledge](/notes/foundations-of-knowledge.md)
-◀Origin::
-🔗Link::
-

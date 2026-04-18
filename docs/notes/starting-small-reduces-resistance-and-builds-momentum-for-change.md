@@ -1,13 +1,13 @@
 ---
 UUID: 20230404063807
 Created: '2023-04-04 06:38'
-Modified: '2026-04-08 13:58'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Start Small
   - Incremental
@@ -16,6 +16,11 @@ Description: >-
   is more effective and sustainable than making overwhelming commitments or
   drastic life changes.
 new_schema: true
+Topic:
+  - '[[Momentum is movement that builds self-reinforcing forward action]]'
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,10 +60,3 @@ But even if we continue maintaining our small commitment without changing it, as
 ## Visual
 
 ![Start Small](/notes/start-small.webp)
-
-## Overview
-🔼Topic:: [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md)
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-◀Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20230808165330
 Created: '2023-08-08 16:53'
-Modified: '2026-04-08 13:23'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Moral Taste Buds
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   variation in their emphasis reflects individual and cultural differences,
   organized along eight fundamental moral axes.
 new_schema: true
+Topic:
+  - '[[Moral Epistemology]]'
+Origin: '[[The Righteous Mind (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -66,9 +70,3 @@ I believe that the way he presents it is problematic. Each scale is made of one 
 ## Visual
 
 ![Moral Taste Buds](/notes/moral-taste-buds.webp)
-
-## Overview
-🔼Topic:: [Moral Epistemology](/notes/moral-epistemology.md)
-Origin:: [The Righteous Mind (book)](/books/the-righteous-mind-book.md)
-🔗Link::
-

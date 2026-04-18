@@ -1,12 +1,12 @@
 ---
 UUID: 20230903175402
 Created: '2023-09-03 17:54'
-Modified: '2026-04-08 14:24'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Confusing current reality with how things should be blocks change.png]]'
 ImageText: Water in a rectangle container vs triangle or circular ones
 Description: >-
@@ -16,6 +16,11 @@ Description: >-
 aliases:
   - Is vs ought
 new_schema: true
+Topic:
+  - '[[Status Quo and Inertia]]'
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +56,3 @@ Both because it is hard to think about the [Imagining alternatives sharpens our 
 ## Visual
 
 ![Confusing current reality with how things should be blocks change](/notes/confusing-current-reality-with-how-things-should-be-blocks-change.webp)
-
-## Overview
-🔼Topic:: [Status Quo and Inertia](/notes/status-quo-and-inertia.md)
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-🔗Link::
-

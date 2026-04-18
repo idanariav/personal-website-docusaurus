@@ -1,13 +1,13 @@
 ---
 UUID: 20240630075032
 Created: '2024-06-30 07:50'
-Modified: '2026-04-04 11:00'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Habit formation
   - Habituation
@@ -16,6 +16,11 @@ Description: >-
   efforts to automatic behaviors, aimed at conserving mental resources through
   repetition and reinforcement.
 new_schema: true
+Topic:
+  - '[[Human Brain]]'
+  - '[[Habit Mechanics]]'
+Origin: '[[Atomic Habits (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,10 +59,3 @@ Habits are a good way for creating [routines](/notes/focusing-on-process-and-con
 ## Visual
 
 ![Habit formation](/notes/habit-formation.webp)
-
-## Overview
-🔼Topic:: [Human Brain](/notes/human-brain.md)
-🔼Topic:: [Habit Mechanics](/notes/habit-mechanics.md)
-↩️Origin:: [Atomic Habits (book)](/books/atomic-habits-book.md)
-🔗Link::
-

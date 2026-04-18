@@ -1,19 +1,23 @@
 ---
 UUID: 20250308120302
 Created: '2025-03-08 12:03'
-Modified: '2026-04-09 06:47'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases: []
 Description: >-
   A concept emphasizing the importance of viewing others as partners in
   problem-solving rather than adversaries, fostering cooperation and mutual
   respect.
 new_schema: true
+Topic:
+  - '[[Collaborative Communication]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -47,8 +51,3 @@ Treating the other as the problem usually brings [Resistance emerges when people
 ## Visual
 
 ![people are not the problem](/notes/people-are-not-the-problem.webp)
-## Overview
-🔼Topic:: [Collaborative Communication](/notes/collaborative-communication.md)
-↩️Origin::
-🔗Link::
-

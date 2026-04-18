@@ -36,7 +36,7 @@ We all compare ourselves, but this often leads to inadequacy or burnout. How can
 
 ![Make the right comparisons (insight)](/posts/make-the-right-comparisons-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## So, We All Compare Ourselves. Now What?
 

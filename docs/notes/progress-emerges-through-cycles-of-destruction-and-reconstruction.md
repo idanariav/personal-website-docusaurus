@@ -1,13 +1,13 @@
 ---
 UUID: 20230326190649
 Created: '2023-03-26 19:06'
-Modified: '2026-04-10 06:04'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Progress emerges through cycles of destruction and reconstruction.png]]'
 ImageText: >-
   Three winner podiums across time showing CD in 1990, flash drive in 2010, and
@@ -23,6 +23,11 @@ aliases:
   - Adversarial Growth
   - Obstacles as stepping stones
 new_schema: true
+Topic:
+  - '[[Market Dynamics and Competition]]'
+  - '[[Growth Through Adversity]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -61,10 +66,3 @@ Cameras used film as its source of photography for many years, and this was the 
 ## Visual
 
 ![Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.webp)
-
-## Overview
-🔼Topic:: [Market Dynamics and Competition](/notes/market-dynamics-and-competition.md)
-🔼Topic:: [Growth Through Adversity](/notes/growth-through-adversity.md)
-◀Origin::
-🔗Link::
-

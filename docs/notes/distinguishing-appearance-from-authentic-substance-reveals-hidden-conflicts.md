@@ -1,13 +1,13 @@
 ---
 UUID: 20230714105041
 Created: '2023-07-14 10:50'
-Modified: '2026-04-02 09:16'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Distinguishing appearance from authentic substance reveals hidden
   conflicts.png]]
@@ -22,6 +22,10 @@ aliases:
   - External vs Internal
   - Ego
 new_schema: true
+Topic:
+  - '[[Authenticity and Values]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -65,6 +69,3 @@ It is much easier to post about being an environmentalist than actually caring a
 ![Distinguishing appearance from authentic substance reveals hidden conflicts](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.webp)
 
 ## Overview
-🔼Topic:: [Authenticity and Values](/notes/authenticity-and-values.md)
-◀Origin::
-🔗Link::

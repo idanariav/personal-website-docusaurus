@@ -29,7 +29,7 @@ Is creativity simply reimagining existing ideas in new ways? What if the true es
 
 ![creativity as a Rubik cube (insight).webp](/posts/creativity-as-a-rubik-cube-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 Creativity is a complex skill to define, often described as the ability to bring something new to life. It contrasts with imitation, like how AI mixes existing materials without true innovation.
 

@@ -1,40 +1,53 @@
 ---
 UUID: 20230902083034
 Created: '2023-09-02 08:30'
-Modified: '2025-09-08 07:02'
+Modified: '2026-04-13 06:21'
 tags: []
+FullTitle: The Second Sex
+Description: >-
+  It argues that women's oppression stems from a blend of biological, economic,
+  and social factors, perpetuated by historical myths. Economic empowerment is
+  essential for liberation, enabling women to redefine their identities beyond
+  male approval and challenge ingrained narratives about their roles in society.
 Author:
   - '[[Simone de Beauvoir (philosopher)|Simone de Beauvoir]]'
+URL: 'https://www.goodreads.com/book/show/18687491-the-second-sex'
+Cover: >-
+  https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.penguin.com.au%2Fcovers%2Foriginal%2F9781784870386.jpg&f=1&nofb=1&ipt=2f88017148d1b5f1e3497fe730fa53eb5780f2d3d970c925f335f341231a7817&ipo=images
 Genre: Feminism
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B007357B0W
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 835
+Reread: 0
 Rate: 4
 PublishDate: 1974-01-01T00:00:00.000Z
+StartDate: 2023-07-28T00:00:00.000Z
 FinishDate: 2023-09-22T00:00:00.000Z
-Cover: >-
-  https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.penguin.com.au%2Fcovers%2Foriginal%2F9781784870386.jpg&f=1&nofb=1&ipt=2f88017148d1b5f1e3497fe730fa53eb5780f2d3d970c925f335f341231a7817&ipo=images
-URL: 'https://www.goodreads.com/book/show/18687491-the-second-sex'
+Image: null
 aliases: []
+Topic:
+  - '[[feminism 2bc]]'
+  - '[[Political Philosophy (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Second Sex (book)
 
-## 🔗Connect
-🔼Topic:: [feminism 2bc](/notes/feminism-2bc.md)
-🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **interdisciplinary** - Women's oppressions as an object is a combination of biological, physiological and economical traits that have led to their social inferiority.
 2. **Path dependence** - Since biological traits were more relevant during historical times, men had a "head start" on shaping the world in their image, creating institutions, cultures and myths to prolong women's social inferiority, and even convince them of that.
@@ -43,12 +56,12 @@ SiteProcssed: true
 5. **outsourced transcendence** - since women are synonymous with nature (according to men), they can't transcend it. Therefore many women "double down" on becoming an object, seeking control of the household as their "freedom", treat external appearance as internal expression, and compete with other women for men's attention. All this to say that their transcendence is dependent on external approval, i.e to be accepted by men, creating total dependence. While men are free to fulfill their will to transcend existence, not needing anyone's approval, seeing women as a small part of their life.
 6. **what is a woman** - honestly it is hard to say. Much of women's behavior, situation and character has been developed either directly by, or as a response to men's oppression. Until true freedom is achieved, we will not know what is the true meaning of being a woman.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 1. **let their voices heard** - Women's involvement in all parts of life, from our political to the economical state should include women as active, equal and self representing voice.
 2. **Break preexisting myths** - introspect on what you believe it is true, and even if it doesn't seem related, ask yourself whether this value was created by and for the enslavement of women.
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. **Men's invisible hand** - you will see the "invisible hand" of preexisting patriarchy through myths and institutions that limit women's freedom and place them in a physiological prison, even in cases where it is of their own making
@@ -59,16 +72,16 @@ SiteProcssed: true
 🧱 *Implementations and limitations of it are...*
 1. **outdated** - it is fortunate to say that much has changed from the 1940s, and that many of the aspects described in the book are less common, or even non existent. Not only this means that some sections of the book are less relevant, it also means that it lacks the more modern aspects of what it means to be a woman, the challenges they are facing, and how they interacts with the "male world".
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 1. there is a tendency to provide all available examples to the situation of women around the world, instead of focusing on establishing an argument and connecting in to the general message of the book. Meaning that it is often repetitive and over elaborated, However in most case this elaboration is eye opening and enriching, showing just how thorough De Beauvoir is.
 
-### 🖼️Outline
+### Outline
 
-![The second sex (book).webp](/books/the-second-sex-book.webp)
+![The second sex (book)](/books/the-second-sex-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Part 1 - Facts and Myths
 
@@ -76,8 +89,8 @@ SiteProcssed: true
 
 **In our culture, to be a man is to be the default,** the positive and the neutral definition of humanity. It is the focal point, and everything else is defines relative to a man. To be a woman, is to detract several capabilities from a man, i.e to be defined relative to him, while he is to defined relative to her.
 
-It is because we, as humans, quickly divide ourselves into groups of [us vs them](/notes/us-vs-them.md). The process of self defining requires creating an "other".
-While the "we" (aka "one") group are more characterized by [subjectivity](/notes/subjectivity.md), as a capable, moral, transcendent being, the other is described as [objectivity](/notes/objectivity.md), as a lesser form, less deserving of rights and privileges.
+It is because we, as humans, quickly divide ourselves into groups of [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md). The process of self defining requires creating an "other".
+While the "we" (aka "one") group are more characterized by [subjectivity](/notes/subjectivity.md), as a capable, moral, transcendent being, the other is described as [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md), as a lesser form, less deserving of rights and privileges.
 
 While in most cases, both groups tend to accept themselves as the "one", while the other group is the "other". Women have agreed to this hierarchy and also define themselves as "other", they have accepted their objectivity.
 
@@ -85,7 +98,7 @@ Similarly, while other cases can "imagine a world" where the other disappears, w
 
 These relationship is not equal. **While men feels independent of women, women have internalized their need for men**. Similarly, men hold all the power in the relationship, usually through economical and political means. To demand equality would be an act of war, especially for men who are most insecure about their position in life.
 
-**It is a self fulfilling prophecy, that men use their power to make women inferior, and then justify their inferiority based on the situation they have created** [Is vs Ought](/notes/is-vs-ought.md). Like forcing a black person to be only a shoe-shine, and then justifying their inferiority by saying "look, they are only good for shining shoes".
+**It is a self fulfilling prophecy, that men use their power to make women inferior, and then justify their inferiority based on the situation they have created** [Confusing current reality with how things should be blocks change](/notes/confusing-current-reality-with-how-things-should-be-blocks-change.md). Like forcing a black person to be only a shoe-shine, and then justifying their inferiority by saying "look, they are only good for shining shoes".
 
 :::note[Quotes]
 
@@ -108,7 +121,7 @@ These relationship is not equal. **While men feels independent of women, women h
 ### Part 2 - DESTINY
 #### Biological Data
 
-What is the nature of different sexes in the animal world? the distinction is not as clear and simple as it seems. when considering evolutionary theory, neither biological system can be called “superior.” **The biological differences between the sexes within the human world doesn't entails a certain destiny**, for example, being a child barer doesn't mean that female should be the care takers of the children. Biology is not enough to explain why woman is “the Other” in society, because we as humans have already surpassed nature in many aspects, therefore **our social, and economical context is much more relevant when we analyze women's situation than biology**. [nature vs nurture](/notes/nature-vs-nurture.md)
+What is the nature of different sexes in the animal world? the distinction is not as clear and simple as it seems. when considering evolutionary theory, neither biological system can be called “superior.” **The biological differences between the sexes within the human world doesn't entails a certain destiny**, for example, being a child barer doesn't mean that female should be the care takers of the children. Biology is not enough to explain why woman is “the Other” in society, because we as humans have already surpassed nature in many aspects, therefore **our social, and economical context is much more relevant when we analyze women's situation than biology**. [Nature vs nurture](/notes/nature-vs-nurture.md)
 
 :::note[Quotes]
 
@@ -120,7 +133,7 @@ What is the nature of different sexes in the animal world? the distinction is no
 
 #### The Psychoanalytical Point of View
 
-Women feel inferior to men, they envy men and judge themselves based on the male standard. But in contrast with other thinkers who tie this feeling to women's subconscious, de Beauvoir ties it to society [Narratives](/notes/narratives.md). **Society, not their own subconscious, teaches them to feel this way**
+Women feel inferior to men, they envy men and judge themselves based on the male standard. But in contrast with other thinkers who tie this feeling to women's subconscious, de Beauvoir ties it to society [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md). **Society, not their own subconscious, teaches them to feel this way**
 
 :::note[Quotes]
 
@@ -282,7 +295,7 @@ But on the other hand, **when she is not yet "yours" to conquer, she is a threat
 ### Part 5 - Formative Years
 #### Childhood
 
-**One is not born, but rather becomes, a woman**. [Social Construct](/notes/social-construct.md)
+**One is not born, but rather becomes, a woman**. [Shared beliefs make constructs real and true](/notes/shared-beliefs-make-constructs-real-and-true.md)
 Nothing in our biology suggests that female should be grown up to be women. Children from both sexes act similarly during their early years.
 
 **It is when we, parents, family, society, start to treat those two differently, that we educate them to be "man" and "woman".** When we stop "pampering" the boys, telling them to be strong, to be independent.
@@ -398,7 +411,7 @@ Mothers are likely to try to control and limit their sons, while thinking of the
 
 #### Social Life
 
-marriage also limits women’s abilities to function in society. She claims that women can only try to show off and represent themselves to others in society, instead of having genuine connections with others. They express themselves through their wardrobes, which are often restrictive of movement and are designed only to make women appear attractive and limited. **Women’s clothes are so important because women are essentially thought of as decorative objects**. [form vs essence](/notes/form-vs-essence.md).
+marriage also limits women’s abilities to function in society. She claims that women can only try to show off and represent themselves to others in society, instead of having genuine connections with others. They express themselves through their wardrobes, which are often restrictive of movement and are designed only to make women appear attractive and limited. **Women’s clothes are so important because women are essentially thought of as decorative objects**. [Distinguishing appearance from authentic substance reveals hidden conflicts](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md).
 
 women often feel a rivalry with other women, since they are all competing for men’s attention, and this destroys women’s ability to remain true friends with one another. Adultery and women’s relationships with lovers are also shaped by their lack of freedom within their marriages; women often have lovers in order to take revenge on their husbands.
 

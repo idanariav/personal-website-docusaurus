@@ -1,16 +1,16 @@
 ---
 UUID: 20241120102405
 Created: '2024-11-20 10:24'
-Modified: '2024-11-30 07:37'
+Modified: '2026-04-13 06:14'
 tags: []
 Author:
   - '[[Paul Millerd]]'
 Genre: Biography & Autobiography
-Stored: kindle
-ReadingStatus: Read
+Stored: Kindle
+ReadingStatus: Done
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 224
 Rate: 2
 PublishDate: 2024-09-16T00:00:00.000Z
@@ -19,6 +19,19 @@ Cover: >-
   http://books.google.com/books/content?id=V4kgEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/213618261-good-work'
 aliases: []
+Description: >-
+  It argues that work should be exhilarating and fulfilling, not defined by
+  sacrifice or societal expectations. Burnout indicates misalignment with one's
+  true desires. Emphasizing self-belief, it highlights the uniqueness of each
+  individual's path and the courage needed to pursue personal passions amidst
+  challenges.
+FullTitle: Good Work - Reclaiming Your Inner Ambition
+StartDate: 2024-11-23T00:00:00.000Z
+ASIN: B0D4H86X1D
+Reread: 0
+Topic:
+  - '[[Self promotion and Entrepreneurship (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -27,11 +40,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Self promotion and Entrepreneurship (Map)](/mocs/self-promotion-and-entrepreneurship-map.md)
-
-### 💡Clarify
+### Clarify
 
 🔈 *Summary of main ideas*
 1. **Work should be something exhilarating** - we are led astray by salaries and others expectations that a good job requires sacrifice. This is not the case, a good work is something that sets a fire going within us, that fuels our soul, that we enjoy pursuing, and that connects well with the life we want to live
@@ -39,11 +48,24 @@ SiteProcssed: true
 3. **Believe in yourself** - it takes courage and faith to go on your path, but once you discover it you will want to protect it at all costs
 4. **Your road is unique** - going on your path is filled with unknowns because no one has ever gone that path before, it is yours, it is unique, you will face unique challenges following your personal passion. Only you can find the answers to the questions.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Slow down and reflect** - schedule regular time to stop, rest, and notice how different activities make you feel to identify what energizes you.
+2. **Take a sabbatical or create blank space** - arrange a period away from usual work to create mental and temporal space for clarity about your path.
+3. **Do structured introspection** - write answers to questions about what you care about, what activities you must do, and what makes you feel alive.
+4. **Follow your energy, not just money** - prioritize trying activities that light you up even if they don’t immediately pay well.
+5. **Experiment with trial and error** - try short projects, gigs, or creative experiments to discover and refine your good work.
+6. **Protect your good work** - set boundaries and remove tasks that drain you so your core work remains renewable and prioritized.
+7. **Commit and trust the process** - make a plan to stick with exploration over time, accepting slow progress and building confidence.
+8. **Question inherited job scripts** - list common cultural beliefs about work you’ve accepted and deliberately choose which to keep or replace.
+9. **Choose challenges that energize you** - pick problems and tasks that feel meaningful and maintain your sense of flow rather than suffering for its own sake.
+10. **Calculate opportunity cost before choosing money** - when deciding for higher pay, explicitly list what you will give up (time, peace, projects you care about) and weigh it against the gains.
+
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -52,20 +74,20 @@ SiteProcssed: true
 🧱 *Implementations and limitations of it are...*
 So what do I do now? Do I know how to find my good work? Do I know whether my work is just good enough? How do I succeed in following my passion? All these questions are mostly unanswered
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book is more about his personal experience through stories about his journey, rather than a dedicated research / deep dive on the subject.
 
 Since his story is so particular, moving to Taipei to start a writing career, it is hard to sympathize. Also, it is meant to inspire, not teach, so while the words are "glamorous", the content is repetitive and shallow.
 
-### 🖼️Outline
+### Outline
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-When you feel passionless, [burnout](/notes/burnout.md), and exhausted, it is probably because you haven't yet found your *good work*. It is something that resonates within you, that spark you with [intrinsic motivation](/notes/intrinsic-motivation.md). It is something that we have to discover, to protect, and requires much [introspection](/notes/introspection.md). Many of us won't find it in a rigid 9-5 editing slides.
+When you feel passionless, [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md), and exhausted, it is probably because you haven't yet found your *good work*. It is something that resonates within you, that spark you with [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md). It is something that we have to discover, to protect, and requires much [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md). Many of us won't find it in a rigid 9-5 editing slides.
 
 :::note[INTRODUCTION]
 
@@ -80,7 +102,7 @@ When you feel passionless, [burnout](/notes/burnout.md), and exhausted, it is pr
 
 #### Embrace the Unknown
 
-Embarking on the *pathless path* that needs to be taken to find your good work, requires a [leap into faith](/notes/leap-into-faith.md). It is one of the most scariest things to [quit](/notes/when-to-quit.md) everything and pursue your passions, but it is a leap we must make. You must rid yourself of all ties to the [Conventional](/notes/social-environment.md) life in order to start a new [clean slate](/notes/clean-slate.md).
+Embarking on the *pathless path* that needs to be taken to find your good work, requires a [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md). It is one of the most scariest things to [quit](/notes/knowing-when-to-stop-prevents-wasted-persistence-on-misaligned-goals.md) everything and pursue your passions, but it is a leap we must make. You must rid yourself of all ties to the [Conventional](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md) life in order to start a new [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md).
 
 At first you won't make any money, it is part of the journey, but you need to be ready for it.
 
@@ -99,9 +121,9 @@ Even when times are tough, it's better to not focus on the money, and focus abou
 
 #### Commit to the Journey
 
-Sometimes, acknowledging that you are doing a not-good work, and finding out what you good work is requires [slowing down](/notes/slowing-down.md), taking a [Break](/notes/rest.md), and reflecting on your life. For example, taking a sabbatical from work creates [Empty Space](/notes/blank-space.md) in your mind and time, that enables you to see your life more clearly.
+Sometimes, acknowledging that you are doing a not-good work, and finding out what you good work is requires [Slowing down prioritizes quality over speed and enables reflection](/notes/slowing-down-prioritizes-quality-over-speed-and-enables-reflection.md), taking a [Break](/notes/rest-enables-recovery-and-sustained-performance.md), and reflecting on your life. For example, taking a sabbatical from work creates [Empty Space](/notes/every-system-needs-empty-space-to-function.md) in your mind and time, that enables you to see your life more clearly.
 
-Other's might judge you for it, but it is one of the best things you can do for yourself. Instead of life's linearity, you will see work and life as something that ever changes and flows with one another [life as flow](/notes/life-as-flow.md)
+Other's might judge you for it, but it is one of the best things you can do for yourself. Instead of life's linearity, you will see work and life as something that ever changes and flows with one another [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md)
 
 :::note[COMMIT TO THE JOURNEY]
 
@@ -112,13 +134,13 @@ Other's might judge you for it, but it is one of the best things you can do for 
 
 #### Have Faith in Good Work
 
-Going on this path will be hard, it will take time, but you need to [trust the process](/notes/trust-the-process.md). Most importantly, it takes [confidence](/notes/confidence.md). We can be our own worse critics [self criticism](/notes/self-criticism.md), so we need someone who we could lean on when we lack the power to support ourselves.
+Going on this path will be hard, it will take time, but you need to [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md). Most importantly, it takes [confidence](/notes/confidence.md). We can be our own worse critics [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md), so we need someone who we could lean on when we lack the power to support ourselves.
 
 ### Rewrite Your Work Story
 
 #### Find a Positive Edge
 
-It's easy to internalize others [expectations](/notes/expectations.md) of ourselves, to go on the popular paths to success in life.
+It's easy to internalize others [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) of ourselves, to go on the popular paths to success in life.
 
 However, it is also easy to go on our own path, once we find a reason to fight for this kind of life
 
@@ -144,9 +166,9 @@ A "good job" might be what we expect, to get a high salary while sometimes doing
 
 #### Questions Your Job Scripts
 
-we are all born into a world with strong [narratives](/notes/narratives.md) around what a job is. That we have to work hard, that we have to make sacrifices for our family, that enjoyment is not the issue, pay and benefits are. That [hustle culture](/notes/hustle-culture.md) is a good thing, that being busy means doing something worth while, that burnout and exhaustion are things to be proud of.
+we are all born into a world with strong [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md) around what a job is. That we have to work hard, that we have to make sacrifices for our family, that enjoyment is not the issue, pay and benefits are. That [Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md) is a good thing, that being busy means doing something worth while, that burnout and exhaustion are things to be proud of.
 
-We have a choice, we can create new narratives, we can choose to see work differently, as something that nourishes us, that fuels us, that we feel a part of. [alienation](/notes/alienation.md)
+We have a choice, we can create new narratives, we can choose to see work differently, as something that nourishes us, that fuels us, that we feel a part of. [Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.md)
 
 :::note[QUESTION YOUR WORK SCRIPTS]
 
@@ -172,11 +194,11 @@ Ask yourself what you are drawn to, what makes you feel alive, and pursue this d
 
 #### Do what Feels Right
 
-Don't be afraid to slow down, to do whatever it takes to maintain the feeling of [flow](/notes/flow.md), instead of trying to rush things that eventually will destroy your good work, yourself, or both.
+Don't be afraid to slow down, to do whatever it takes to maintain the feeling of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md), instead of trying to rush things that eventually will destroy your good work, yourself, or both.
 
 #### Find the Zeal
 
-Suffering is not a badge of honor, especially not for the sake of suffering. You will face challenges, but you get to choose which. Do the ones that make you feel alive.
+Suffering is not a badge of honor [We wrongly equate effort with virtue](/notes/we-wrongly-equate-effort-with-virtue.md), especially not for the sake of suffering. You will face challenges, but you get to choose which. Do the ones that make you feel alive.
 #### See Your Work as it is
 
 Try to gain clarity in how you see your life and your work. Don't listen to the inner critic. The best information comes from focusing on what you do. How do you feel when you do these types of work?
@@ -185,7 +207,7 @@ Try to gain clarity in how you see your life and your work. Don't listen to the 
 
 #### Leave Money on the Table
 
-Leaving money on the table, i.e either to stay in the safe job as an employee, or becoming a sell-out as a writer, is hard. Money seems like a good proxy for all that we want in life. But we need to remember that it's not always the case. When we choose money, we need to think about the [Opportunity cost](/notes/alternative-cost.md). What are we missing by choosing money? Usually the price is living the life we want, achieving inner peace, spending time with our family, writing about what we care about and not what brings the most clicks. [McNamara Fallacy](/notes/mcnamara-fallacy.md)
+Leaving money on the table, i.e either to stay in the safe job as an employee, or becoming a sell-out as a writer, is hard. Money seems like a good proxy for all that we want in life. But we need to remember that it's not always the case. When we choose money, we need to think about the [Opportunity cost](/notes/every-choice-costs-the-alternatives-you-gave-up.md). What are we missing by choosing money? Usually the price is living the life we want, achieving inner peace, spending time with our family, writing about what we care about and not what brings the most clicks. [Treating measurable metrics as complete truth hides importance](/notes/treating-measurable-metrics-as-complete-truth-hides-importance.md)
 #### Reclaim Your Ambition
 
 To be ambitious means pursuing the life you want, nothing more and nothing less.

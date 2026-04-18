@@ -1,50 +1,76 @@
 ---
 UUID: 20230228064606
 Created: '2023-02-28 06:46'
-Modified: '2024-10-13 07:06'
+Modified: '2026-04-13 06:16'
 tags: []
+FullTitle: Quiet - The Power of Introverts in a World That Can't Stop Talking
+Description: >-
+  It argues that introverts are sensitive to overstimulation, thriving in
+  low-stimulation environments. They can expand their expressiveness while
+  needing time to recharge. Additionally, introverts often excel as leaders and
+  decision-makers due to their reflective nature and ability to listen, avoiding
+  distractions and biases.
 Author:
   - '[[Susan Cain]]'
+URL: 'https://www.goodreads.com/book/show/8520610-quiet'
+Cover: >-
+  http://books.google.com/books/content?id=uyjf3uaQ4TwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Psychology
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B004J4WNL2
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 333
+Reread: 0
 Rate: 3
 PublishDate: 2012-01-24T00:00:00.000Z
+StartDate: 2023-02-12T00:00:00.000Z
 FinishDate: 2023-02-28T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=uyjf3uaQ4TwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/8520610-quiet'
+Image: null
 aliases: null
+Topic:
+  - '[[behavioral psychology (Map)]]'
+  - '[[introvert]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Quiet (book)
 
-## Connect
-🔼Topic:: [Behavioral Psychology (Map)](/mocs/behavioral-psychology-map.md)
-🔼Topic:: [introvert](/notes/introvert.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **It's all about stimulus** - Introverts are not anti-social, they are anti over-stimulation. Since they are more sensitive to their environment, it will be easier for them to be in a low stimulation environment, such as a close circle of friends, or even time alone
 2. **Fake it till you make it** - we can stretch our boundaries, and "force" ourselves for outbursts of expressiveness, as long as we find time to charge
 3. **Slow and steady wins the race** - While they are not the most persuasive or fast, introverts tend to make better leaders and decision makers because they listen more, and reflect more on the decisions they make, and less prone to distractions, gratification, and biases.
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Situate Yourself** - consciously place yourself in environments that match your stimulation preference (neither overstimulating nor understimulating).
+2. **Protect Solitude Time** - schedule regular blocks of uninterrupted, independent work to foster creativity and deep focus.
+3. **Prefer Single-Tasking** - work on one task at a time to reduce switching costs and improve accuracy and productivity.
+4. **Use Written Expression** - express important thoughts in writing when it leads to clearer communication than speaking.
+5. **Prepare Individually Before Group Work** - generate ideas or solutions alone first to avoid production blocking, social loafing, and evaluation apprehension.
+6. **Design Quiet Workspaces** - arrange physical environments (privacy, personal space, control) that minimize interruptions and distractions.
+7. **Practice Situational Extroversion** - act more extroverted in short bursts when necessary for work or matters you value, then recharge afterward.
+8. **Lead by Listening** - when leading, prioritize listening and building the institution or team over projecting a charismatic personality.
+9. **Teach Balanced Collaboration** - educate children (and teams) in both cooperative skills and deliberate solitary practice to develop independent capability.
+10. **Cultivate Introverted Children** - read an introverted child’s cues, respect their individuality, push boundaries gently, and adapt learning/social activities to their temperament.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 It is heartwarming to find a definition that I am really comfortable with, and to understand that its not that introverts are apathic, but rather the opposite! they are more sensitive to the environment which causes them to avoid over stimulations.
@@ -54,15 +80,15 @@ what I don't like about this book is that its "hard to read", the topic and cont
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
-### 🖼️Outline
+### Outline
 
-![Quiet (book).webp](/books/quiet-book.webp)
+![Quiet (book)](/books/quiet-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### INTRODUCTION The North and South of Temperament
 
@@ -106,18 +132,18 @@ After the industrial revolution, there was also a change in the "ideal image" of
 
 ### The Myth of Charismatic Leadership
 
-nowadays, we tend to think of good leaders as strong, extrovert, charismatic leaders, like Tony Robbins, but **leadership can be quiet too**, like Rosa Parks. **Introvert leaders tend to listen more** to their team, which improves performance and innovation overall. [Active Listening](/notes/active-listening.md)
+nowadays, we tend to think of good leaders as strong, extrovert, charismatic leaders, like Tony Robbins, but **leadership can be quiet too**, like Rosa Parks. **Introvert leaders tend to listen more** to their team, which improves performance and innovation overall. [Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.md)
 
 ### Cooperation Vs Creativity
 
 cooperation can be harmful in several ways:
-1. **Group thinking** - in a group settings, people might "go with the group" and avoid voicing different opinions due to social pressure, and the desire to be part of the group. This can even cause people to believe that their ideas are actually wrong, and not just hide them. [Group Thinking](/notes/social-environment.md)
-2. **Lack of deliberate practice** - When we work as a team, we often don't get the chance to do [Deliberate Practice](/notes/deliberate-practice.md), i.e to tackle a challenge head on and try out different methods to solve it, let the challenge force you to become better [Flow](/notes/flow.md). Instead we rely too much on the group to save us [Free rider](/notes/free-rider.md)
-3. **Lack of control on our environment** - workplaces like open space are harmful to productivity, since they are filled with [Distractions](/notes/procrastination.md) and interruptions, preventing us from doing [Deep Work](/notes/deep-work.md). [Environmental design](/notes/nudge.md)
+1. **Group thinking** - in a group settings, people might "go with the group" and avoid voicing different opinions due to social pressure, and the desire to be part of the group. This can even cause people to believe that their ideas are actually wrong, and not just hide them. [Group Thinking](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
+2. **Lack of deliberate practice** - When we work as a team, we often don't get the chance to do [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md), i.e to tackle a challenge head on and try out different methods to solve it, let the challenge force you to become better [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md). Instead we rely too much on the group to save us [Some exploit the altruism of others](/notes/some-exploit-the-altruism-of-others.md)
+3. **Lack of control on our environment** - workplaces like open space are harmful to productivity, since they are filled with [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) and interruptions, preventing us from doing [Focused uninterrupted work produces the best results](/notes/focused-uninterrupted-work-produces-the-best-results.md). [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
 
 ### IS TEMPERAMENT DESTINY? Nature, Nurture, and the Orchid Hypothesis
 
-research suggests that **introverts are actually children who had high-temprament, meaning reacted more strongly to external stimulation and social situations**. Since they bear a higher cost in those situations, they tend to shy away from those when they grow up. Meaning **it's not that they care less, its the opposite, its just that its very difficult for them to mitigate their internal emotional state in those occasions.** [Emotional Resilience](/notes/emotional-resilience.md)
+research suggests that **introverts are actually children who had high-temprament, meaning reacted more strongly to external stimulation and social situations**. Since they bear a higher cost in those situations, they tend to shy away from those when they grow up. Meaning **it's not that they care less, its the opposite, its just that its very difficult for them to mitigate their internal emotional state in those occasions.** [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md)
 
 Therefore, since introverts are more likely to be high-temprament, it also means that they are more sensitive to effects of education. Its true for all children, but for introverts more so, the effects of good, supporting parenthood vs abusive ones create more extreme results for the children - "when its good its great, when its bad its awful".
 
@@ -140,7 +166,7 @@ a repetition of the temperament chapter
 
 ### “FRANKLIN WAS A POLITICIAN, BUT ELEANOR SPOKE OUT OF CONSCIENCE” Why Cool Is Overrated
 
-introverts, since they are more sensitive, tend to have a richer inner world, they tend to philosophize, to become artist, thinkers, inventors. That's why they also don't like small talks, its too shallow for them, and why they thrive in interesting [discussions](/notes/deliberation.md). The also tend to be more [empathic](/notes/empathy.md), having a greater sense of conscious, but it also comes with a larger sense of guilt and embarrassment.
+introverts, since they are more sensitive, tend to have a richer inner world, they tend to philosophize, to become artist, thinkers, inventors. That's why they also don't like small talks, its too shallow for them, and why they thrive in interesting [discussions](/notes/deliberation-is-a-discussion-that-bridges-different-perspectives.md). The also tend to be more [empathic](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md), having a greater sense of conscious, but it also comes with a larger sense of guilt and embarrassment.
 
 :::note[“FRANKLIN WAS A POLITICIAN, BUT ELEANOR SPOKE OUT OF CONSCIENCE” Why Cool Is Overrated]
 
@@ -151,7 +177,7 @@ introverts, since they are more sensitive, tend to have a richer inner world, th
 
 ### WHY DID WALL STREET CRASH AND WARREN BUFFETT PROSPER? How Introverts and Extroverts Think (and Process Dopamine) Differently
 
-**Introverts tend to be less reward seeking than extroverts**, meaning they are less distracted by the potential reward, less implosive and more able to [Delay Gratification](/notes/patience.md) In general, they tend to think more before acting, less prone to [Conformation Bias](/notes/conformation-bias.md), and compare the information to their initial beliefs.
+**Introverts tend to be less reward seeking than extroverts**, meaning they are less distracted by the potential reward, less implosive and more able to [Delay Gratification](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md) In general, they tend to think more before acting, less prone to [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md), and compare the information to their initial beliefs.
 **While they may not be the fastest to act, its not the fastest who wins the race**. By exploring more options, analyzing before acting, and staying focused on the goal rather than distractions or rewards, they usually have better achievements.
 
 :::note[WHY DID WALL STREET CRASH AND WARREN BUFFETT PROSPER? How Introverts and Extroverts Think (and Process Dopamine) Differently]
@@ -176,7 +202,7 @@ some cultures tend to be on average more introverted than others. For example As
 
 ### WHEN SHOULD YOU ACT MORE EXTROVERTED THAN YOU REALLY ARE
 
-Some argue that personality traits are not fixed but rather situational, we are acting one way at work, another with friends, and a different one at home. [A person is a community](/notes/a-person-is-a-community.md) While its not 100% flexible, we can see that **a "[fake it till you make it](/notes/fake-it-till-you-make-it.md) approach" is possible for introverts**, finding a way to give short bursts of extrovert personality when needed, for example before public speaking. But in the end you will times to relax and recharge, you can't fake it everywhere all the time.
+Some argue that personality traits are not fixed but rather situational, we are acting one way at work, another with friends, and a different one at home. [A person is a community](/notes/a-person-is-a-community.md) While its not 100% flexible, we can see that **a "[Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md) approach" is possible for introverts**, finding a way to give short bursts of extrovert personality when needed, for example before public speaking. But in the end you will times to relax and recharge, you can't fake it everywhere all the time.
 
 :::note[WHEN SHOULD YOU ACT MORE EXTROVERTED THAN YOU REALLY ARE?]
 
@@ -191,7 +217,7 @@ These opposites tend to attract to one another, and when a debate comes up on wh
 
 ### ON COBBLERS AND GENERALS How to Cultivate Quiet Kids in a World That Can’t Hear Them
 
-if your child is introvert, remember - **introvert is not something to be cured, rather to be cultivated**. You should understand how your child thinks, and treat him the way works best for him, and not how you think you should treat him. Try to push his boundaries, while being patient and understanding. **Adjust to his preferences of learning and socializing**. [Adaptability](/notes/adaptability.md)
+if your child is introvert, remember - **introvert is not something to be cured, rather to be cultivated**. You should understand how your child thinks, and treat him the way works best for him, and not how you think you should treat him. Try to push his boundaries, while being patient and understanding. **Adjust to his preferences of learning and socializing**. [Our beliefs must adapt as context and goals change](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md)
 
 :::note[ON COBBLERS AND GENERALS How to Cultivate Quiet Kids in a World That Can’t Hear Them]
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20231225065723
 Created: '2023-12-25 06:57'
-Modified: '2026-04-08 17:06'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 5
+Version: 6
 aliases:
   - Sense seeking creatures
 Description: >-
@@ -15,6 +15,11 @@ Description: >-
   reality, seeking patterns and justifications even in the absence of evidence,
   often leading to misconceptions.
 new_schema: true
+Topic:
+  - '[[Attribution Bias]]'
+  - '[[Innate Human Disposition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,10 +51,3 @@ All this goes to show that instead of matching our view based on the world and i
 ## Visual
 
 ![sense seeking creatures](/notes/sense-seeking-creatures.webp)
-
-## Overview
-🔼Topic:: [Attribution Bias](/notes/attribution-bias.md)
-🔼Topic:: [Innate Human Disposition](/notes/innate-human-disposition.md)
-↩️Origin::
-🔗Link::
-

@@ -1,8 +1,8 @@
 ---
 UUID: 20240409081136
 Created: '2024-04-09 08:11'
-Modified: '2026-04-06 23:11'
-Version: 2
+Modified: '2026-04-11 22:20'
+Version: 3
 tags: []
 excalidraw-plugin: null
 excalidraw-open-md: true
@@ -13,6 +13,10 @@ Description: >-
   that individuals are responsible for their actions when they act according to
   rational reasons, despite external influences.
 new_schema: true
+Topic:
+  - '[[Freedom and Agency]]'
+Origin: '[[the Free Will Podcast]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -45,12 +49,4 @@ Good deeds won't come out of sticking with [We tend to accept defaults and rarel
 
 
 ## Visual
-
-
-
-## Overview
-🔼Topic:: [Freedom and Agency](/notes/freedom-and-agency.md)
-Origin:: [the Free Will Podcast](/notes/the-free-will-podcast.md)
-Link:: https://share.snipd.com/episode/9315ebf7-0851-4222-a467-23e43bdea580
-
 

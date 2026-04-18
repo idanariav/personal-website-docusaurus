@@ -1,12 +1,12 @@
 ---
 UUID: 20230404064342
 Created: '2023-04-04 06:43'
-Modified: '2026-04-04 11:01'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: >-
   [[Bundling undesired tasks with enjoyable activities increases
   motivation.png]]
@@ -18,6 +18,10 @@ Description: >-
 aliases:
   - Temptation Bundling
 new_schema: true
+Topic:
+  - '[[Habit Mechanics]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -36,7 +40,7 @@ Temptation Bundling is the idea that if we want to increase the likelihood of do
 
 An advanced step would be to only do those enjoyable activates while doing the chore, which will be more beneficial due to:
 1. **Higher tolerance** - it will help avoid the [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) that comes from over exposure to something. If we only watch tv while working out, it probably means that we won't watch that much tv throughout the week, so it will still be enjoyable even after many weeks.
-2. **Time management** - It also makes it a good way of balancing between our desire for [leisure](/notes/leisure.md) and a more "effective" use of our time. This way [Distractions](/notes/distraction.md) are less harmful because at least we do something beneficial along the way
+2. **Time management** - It also makes it a good way of balancing between our desire for [leisure](/notes/leisure.md) and a more "effective" use of our time. This way [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) are less harmful because at least we do something beneficial along the way
 3. **Avoiding indulgence** - preforming good habits is usually taxing, which makes us susceptible to [Doing good gives us permission to do harm](/notes/doing-good-gives-us-permission-to-do-harm.md), where we reward ourselves too much after a good behavior. If we only reward ourselves during the behavior it makes us more resilient to indulgence.
 
 ### Examples
@@ -53,9 +57,3 @@ The goal is not to make the activity more [enjoyable](/notes/gamification-increa
 ## Visual
 
 ![Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.webp)
-
-## Overview
-🔼Topic:: [Habit Mechanics](/notes/habit-mechanics.md)
-◀Origin::
-🔗Link::
-

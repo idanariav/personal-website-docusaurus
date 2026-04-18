@@ -1,47 +1,60 @@
 ---
 UUID: 20240213213303
 Created: '2024-02-13 21:33'
-Modified: '2024-03-02 08:32'
-Version: 1
+Modified: '2026-04-13 06:19'
 tags: []
-PublishDate: 2007-04-03T00:00:00.000Z
-Pages: 255
+FullTitle: The Homework Myth - Why Our Kids Get Too Much of a Bad Thing
+Description: >-
+  It argues that homework does not enhance learning and may even hinder it by
+  fostering stress and obedience. Instead, genuine learning thrives on
+  children's natural curiosity and agency, leading to greater engagement when
+  they have the freedom to choose their learning paths.
 Author:
   - '[[Alfie Kohn]]'
-Genre: Education
-Stored: Kindle
-Purchased: true
-Fiction: false
+URL: 'https://www.goodreads.com/book/show/111210.The_Homework_Myth'
 Cover: >-
   http://books.google.com/books/content?id=kHdKDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/111210.The_Homework_Myth'
-ReadingStatus: Read
-FinishDate: 2024-03-02T00:00:00.000Z
+Genre: Education
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B06XCXP1WX
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 1
+Pages: 255
+Reread: 0
 Rate: 2
+PublishDate: 2007-04-03T00:00:00.000Z
+StartDate: 2024-02-22T00:00:00.000Z
+FinishDate: 2024-03-02T00:00:00.000Z
+Image: ''
 aliases: null
+Topic:
+  - '[[Education (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Homework Myth
 
-## 🔗Connect
-🔼Topic:: [Education (Map)](/mocs/education-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 
 🔈 *Summary of main ideas*
 1. **Homework is not contributing to learning** - There just isn't any proof that homework helps learning, more likely the opposite. By turning play into work, by overwhelming them with chores, and by promoting blind obedience rather than out of the box thinking and collaboration, we get people who specialize in memorization and hate learning. It brings stress to the children and pivot's their parents against them as monitors. 
 2. **Learning is based on natural curiosity and agency** - When children have the ability to choose what and how to learn, they won't be lazy, just the opposite. They will be curious, explorative, and you'll be surprised how much more engaged they will be in the learning process. 
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 1. Limit homework - don't let our children do mindless homework, and explore other alternatives
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -50,11 +63,11 @@ SiteProcssed: true
 🧱 *Implementations and limitations of it are...*
 Not sure what there is to do about it as parents, this seems to address teachers and policy makers, while the choices we have as parents are limited.
 Also the section of the alternatives is rather short and not deeply explored. 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 It is a nice book that opens our eyes to review the concept of homework and it's effects on the child but also on the parents and family as a whole.
-## 📒 Notes
+## Notes
 
 ### The Truth about Homework
 
@@ -63,13 +76,13 @@ It is a nice book that opens our eyes to review the concept of homework and it's
 **Homework has become a persistent problem in our life that no one has stopped to question it,** even worse, we treat it as an arms race where we compete to have more homework than others, as if it brings any educational benefits, which it unfortunately doesn't.
 
 It brings harm by:
-1. **Stressing the children** - facing such challenges and time consuming tasks each day brings [Stress](/notes/stress.md), anxiety into their lives. It is a threat the looms over their heads
-2. **Stressing the parents** - parents who want their child to succeed, or at least not be punished are turned into homework monitors [Micro-Management](/notes/micro-management.md)
-3. **Killing creativity and enjoyment of learning** - there's nothing more harmful to learning than to turn it into "work", to make it mandatory, boring and excessive. [Crowding Out](/notes/crowding-out.md)
+1. **Stressing the children** - facing such challenges and time consuming tasks each day brings [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md), anxiety into their lives. It is a threat the looms over their heads
+2. **Stressing the parents** - parents who want their child to succeed, or at least not be punished are turned into homework monitors [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md)
+3. **Killing creativity and enjoyment of learning** - there's nothing more harmful to learning than to turn it into "work", to make it mandatory, boring and excessive. [One activity displaces another when pursued excessively](/notes/one-activity-displaces-another-when-pursued-excessively.md)
 4. **Time consuming** - parents and kids don't have control over their free time at home due to homework, no time for play, relaxation, socializing or enjoying creative activities
 5. **Family conflicts** - turning children into workers and parents into managers is harmful for their relationship. The no longer share a goal, but rather as children try to escape this chore, parents are becoming tougher in supervision and punishment, taking the side of the homework, or using harmful methods such as monetary incentives to enlist their motivation, only for it to crowd out any innate motivation left.
 
-Homework has become the measurement for learning, especially in the eyes of the parents, while it is far from true. The treat time spent during homework as time spent learning, while the evidence isn't supportive of that, perhaps far from it. So as long as parent continue to demand it, and teachers keep treating it as the default, we have a problem. [Goodhart’s Law](/notes/goodhart’s-law.md)
+Homework has become the measurement for learning, especially in the eyes of the parents, while it is far from true. The treat time spent during homework as time spent learning, while the evidence isn't supportive of that, perhaps far from it. So as long as parent continue to demand it, and teachers keep treating it as the default, we have a problem. [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md)
 
 :::note[“Missing Out on Their Childhoods”]
 
@@ -93,8 +106,8 @@ Homework has become the measurement for learning, especially in the eyes of the 
 When you dive into the literature, you can see that the evidence that homework improves learning simply isn't there.
 It is full of methodological errors such as:
 1. **Causation and correlation** - students who succeed do homework, but there are other explaining factors [Correlation is not causation](/notes/correlation-is-not-causation.md)
-2. **GIGO** - research that was based on children's report on how much they do homework, which can be dishonest. Also teachers who both give the homework and grade the student could cause a false positive. [GIGO](/notes/garbage-in-garbage-out.md)
-3. **Wrong target value** - we focus on tests as a proxy for academic achievement, but it is not necessarily correlated with actual learning [McNamara Fallacy](/notes/mcnamara-fallacy.md)
+2. **GIGO** - research that was based on children's report on how much they do homework, which can be dishonest. Also teachers who both give the homework and grade the student could cause a false positive. [GIGO](/notes/output-quality-depends-on-input-quality.md)
+3. **Wrong target value** - we focus on tests as a proxy for academic achievement, but it is not necessarily correlated with actual learning [Treating measurable metrics as complete truth hides importance](/notes/treating-measurable-metrics-as-complete-truth-hides-importance.md)
 
 :::note[Does Homework Improve Learning?]
 
@@ -109,8 +122,8 @@ It is full of methodological errors such as:
 Some say that homework is a matter of character building rather than academic benefits, but to this we say:
 1. **There is no proof** - most research focus on academic, not "side benefits"
 2. **Why not in school** - even if there are benefits, why does it require the time spent at home when they spend so many hours at school every day?
-3. **Autonomy is needed** - to grow character, one needs a sense of [Autonomy](/notes/agency.md), control over their lives, but students have no say about the volume, content or method of the homework they have to do
-4. **Homework doesn't support good traits** - the "self discipline" of "grind your teeth" and do something you don't enjoy, is hardly the way we want students to view education. We want them to feel motivated about studying, but shoving it forcefully will only bring the opposite. [The law of reverse effect](/notes/the-law-of-reverse-effect.md)
+3. **Autonomy is needed** - to grow character, one needs a sense of [Autonomy](/notes/agency-is-the-ability-to-connect-desires-and-actions.md), control over their lives, but students have no say about the volume, content or method of the homework they have to do
+4. **Homework doesn't support good traits** - the "self discipline" of "grind your teeth" and do something you don't enjoy, is hardly the way we want students to view education. We want them to feel motivated about studying, but shoving it forcefully will only bring the opposite. [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md)
 5. **Outdated** - all it truly teaches is following rules blindly, instead of what we really need nowadays which is cooperation, creativity, sharing different viewpoints and discussion, all the things that can't be done through homework.
 
 :::note[Does Homework Provide Nonacademic Benefits?]
@@ -140,7 +153,7 @@ Not only that we don't have any studies which show the positive effect of homewo
 
 #### The Questions Left Unasked
 
-We have become complicit. We don't even think about asking whether homework is needed, only the very limited scope of this or that assignment. We are so blind to other ways of thinking. We believe in it without any justification, just the power of [Path Dependence](/notes/path-dependence.md), [Conformism](/notes/social-environment.md), and habits.
+We have become complicit. We don't even think about asking whether homework is needed, only the very limited scope of this or that assignment. We are so blind to other ways of thinking. We believe in it without any justification, just the power of [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md), [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md), and habits.
 
 :::note[The Questions Left Unasked]
 
@@ -155,9 +168,9 @@ We have become complicit. We don't even think about asking whether homework is n
 
 We use these justification for homework:
 1. **Time** - the basic assumption is that more time on a subject, the better the understanding of it. At the bare minimum, it has to be "engaged" time that brings understanding, and not just any time spent. Same as children not listening in school, it is not clear that during homework they will listen more
-2. **Practice** - practice does improve understanding, but it depends what kind. Homework is usually the repetitive, memorization, robotic kind of thinking. Shallow, towards not understanding but memorization, which means no improvement in learning in the long run. We are meaning creating beings, driven by exploration, which is lacking in today's homework. What homework doesn't improve is thinking, to develop processes rather than following blindly what the teacher said. Those who master the skill are bored by the irrelevant task. Those who don't understand can't do it on their own. [Critical Thinking](/notes/critical-thinking.md)
+2. **Practice** - practice does improve understanding, but it depends what kind. Homework is usually the repetitive, memorization, robotic kind of thinking. Shallow, towards not understanding but memorization, which means no improvement in learning in the long run. We are meaning creating beings, driven by exploration, which is lacking in today's homework. What homework doesn't improve is thinking, to develop processes rather than following blindly what the teacher said. Those who master the skill are bored by the irrelevant task. Those who don't understand can't do it on their own. [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md)
 
-It is actually the time at class that can best be used for understanding instead of [outsourcing](/notes/outsourcing.md) it to homework. **By having more discussions, collaboration and guidance during class instead of a one-way lecture, we can improve understanding**.
+It is actually the time at class that can best be used for understanding instead of [Delegating production trades control for efficiency](/notes/delegating-production-trades-control-for-efficiency.md) it to homework. **By having more discussions, collaboration and guidance during class instead of a one-way lecture, we can improve understanding**.
 
 :::note[What We Haven’t Learned About Learning]
 
@@ -174,7 +187,7 @@ It is actually the time at class that can best be used for understanding instead
 
 The thought that we need tougher standards in education in order to improve began in the political movement of George W bush. This has caused more standardization in schools, which have lead to more memorization and craming and less learning. Also, this gave rise to the flood of homework, which only increased socio-economic gaps, because it has enlisted the parents as assistant teachers, where the more educated ones could help more to their children.
 
-This "tougher standards" rose from a perception of a [globalized](/notes/globalization.md) competitive world, where our goal is to beat other countries and have the best workers, perhaps at the expanse of their sanity and wellbeing, although ironically we saw that it hurts their learning as well.
+This "tougher standards" rose from a perception of a [globalized](/notes/globalization-intensifies-competition-and-forces-specialization.md) competitive world, where our goal is to beat other countries and have the best workers, perhaps at the expanse of their sanity and wellbeing, although ironically we saw that it hurts their learning as well.
 
 When we will shift back to personal development rather than a testing contest, we would have true education.
 
@@ -187,7 +200,7 @@ When we will shift back to personal development rather than a testing contest, w
 
 #### Better Get Used to it
 
-The most absurd teleological argument about homework is that we need to start it as early as possible so that kids Better Get Used To It. Meaning that in order for them to be prepared for doing homework in high school, they should start doing it in elementary. This [arms race](/notes/red-queen-syndrome.md) argument is self destructive because at best what we get is children who are forced to face challenges that are way over their capacity, and at best its preparing kids for... Homework, meaning for something that won't even help develop them academically.
+The most absurd teleological argument about homework is that we need to start it as early as possible so that kids Better Get Used To It. Meaning that in order for them to be prepared for doing homework in high school, they should start doing it in elementary. This [arms race](/notes/sometimes-you-must-keep-adapting-just-to-stay-in-place.md) argument is self destructive because at best what we get is children who are forced to face challenges that are way over their capacity, and at best its preparing kids for... Homework, meaning for something that won't even help develop them academically.
 
 #### Idle hands
 
@@ -203,7 +216,7 @@ No homework should be the default, and only on rare cases where it is proven to 
 
 Some alternatives to homework:
 1. **Experiments that can only be done at home** - like interviewing the parent, outdoor activity, etc
-2. **Educational activity** - like playing board games, solving puzzles and crosswords [Play](/notes/gamification.md)
+2. **Educational activity** - like playing board games, solving puzzles and crosswords [Play](/notes/play.md)
 3. **Reading**
 
 **The key to all these activities is that they must be done out of interest**. Once we turn this into a chore, like "read x minutes or pages a day", it loses its value, it will crowed out the joy for the activity itself.

@@ -1,13 +1,13 @@
 ---
 UUID: 20230328190822
 Created: '2023-03-28 19:08'
-Modified: '2026-04-04 10:59'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Fixed mindset assumes capabilities are unchangeable from birth.png]]'
 ImageText: A grasshopper stuck in a glass jar
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Fixed Mindset
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,6 +60,3 @@ This is the opposite view of [Capabilities are malleable through effort and lear
 ![Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.webp)
 
 ## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-◀Origin::
-🔗Link::

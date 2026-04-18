@@ -1,13 +1,13 @@
 ---
 UUID: 20240502101110
 Created: '2024-05-02 10:11'
-Modified: '2026-04-08 14:10'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Helplessness
   - Life Denying
@@ -17,6 +17,10 @@ Description: >-
   one's life, leading to feelings of victimization, fear, and a tendency towards
   escapism in response to uncertainty and despair.
 new_schema: true
+Topic:
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ For example, video games, drinking, TV, etc.
 ## Visual
 
 ![Helplessness](/notes/helplessness.webp)
-
-## Overview
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-↩️Origin::
-🔗Link::
-

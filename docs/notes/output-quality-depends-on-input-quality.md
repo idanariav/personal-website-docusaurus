@@ -1,13 +1,13 @@
 ---
 UUID: 20230204082139
 Created: '2023-02-04 08:21'
-Modified: '2026-04-10 15:35'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Garbage in garbage out
   - GIGO
@@ -16,6 +16,10 @@ Description: >-
   on the quality of its input data, highlighting the importance of accurate and
   representative data for reliable results.
 new_schema: true
+Topic:
+  - '[[Selective Evidence]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -57,9 +61,3 @@ Similarly, if our decision making is biased, for example due to [Overestimating 
 ## Visual
 
 ![Garbage in garbage out](/notes/garbage-in-garbage-out.webp)
-
-## Overview
-🔼Topic:: [Selective Evidence](/notes/selective-evidence.md)
-◀Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20230314192647
 Created: '2023-03-14 19:26'
-Modified: '2026-04-04 10:59'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Slowing down
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   relentless goal pursuit, promoting mindfulness and acceptance to enhance
   life's quality rather than its quantity.
 new_schema: true
+Topic:
+  - '[[Acceptance and Effortless Action]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,9 +52,3 @@ We have to [accept](/notes/accepting-what-we-cannot-control-is-the-path-to-peace
 ## Visual
 
 ![Slowing down](/notes/slowing-down.webp)
-
-## Overview
-🔼Topic:: [Acceptance and Effortless Action](/notes/acceptance-and-effortless-action.md)
-Source:: [Einzelganger](/notes/einzelganger.md)
-Link:: https://www.youtube.com/watch?v=bK1g9bPHUTo
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20221021140703
 Created: '2022-10-21 14:07'
-Modified: '2026-04-06 22:11'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Intentionality
   - mindfulness
@@ -16,6 +16,10 @@ Description: >-
   automatic behaviors and external influences, and fostering self-awareness to
   enhance emotional resilience and reduce stress.
 new_schema: true
+Topic:
+  - '[[Intentional Decision-Making]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -26,7 +30,7 @@ SiteProcssed: true
 
 ### Claim
 
-A lot of the challenges we are facing today as modern humans is because we lack intentionality in our actions. our time is spent [automatically](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md), without [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md), being swept by the winds of external or internal [stimulus](/notes/distraction.md), controlled by forced who try to do just that, such as [social media](/notes/our-attention-is-the-product-that-media-companies-sell.md), tv, etc... we stick to the default settings in life, even when a good option is right next door.
+A lot of the challenges we are facing today as modern humans is because we lack intentionality in our actions. our time is spent [automatically](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md), without [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md), being swept by the winds of external or internal [stimulus](/notes/distractions-pull-us-towards-them-as-a-temptation.md), controlled by forced who try to do just that, such as [social media](/notes/our-attention-is-the-product-that-media-companies-sell.md), tv, etc... we stick to the default settings in life, even when a good option is right next door.
 
 ### Explanation
 
@@ -47,9 +51,3 @@ Mindfulness is also useful against [Stress can be adaptive or harmful depending 
 ## Visual
 
 ![intentionality](/notes/intentionality.webp)
-
-## Overview
-🔼Topic:: [Intentional Decision-Making](/notes/intentional-decision-making.md)
-◀Origin::
-🔗Link::
-

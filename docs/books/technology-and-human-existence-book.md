@@ -1,48 +1,61 @@
 ---
 UUID: 20240102064246
 Created: '2024-01-02 06:42'
-Modified: '2024-01-02 06:42'
-Version: 1
+Modified: '2026-04-13 06:18'
 tags: []
-ReadingStatus: Read
-FinishDate: 2024-01-05T00:00:00.000Z
-PublishDate: 2019-07-11T00:00:00.000Z
-Pages: 38
+FullTitle: Technology and Human Existence
+Description: >-
+  It argues that technology serves as a means for humanity to transcend nature
+  and fulfill grand ambitions. The integration of humanities with STEM is
+  essential to align technological advancements with human values and
+  well-being. Additionally, it emphasizes that individuals embody both their
+  aspirations and the circumstances of their environment.
 Author:
   - '[[Jose Ortega (philosopher)|Jose Ortega]]'
-Genre: Philosophy
-Rate: 2
-Stored: Kindle
-Purchased: true
-Fiction: false
+URL: 'https://www.goodreads.com/book/show/52476322-technology-and-human-existence'
 Cover: >-
   http://books.google.com/books/content?id=hbnOxwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/52476322-technology-and-human-existence'
+Genre: Philosophy
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B07S1F9HN5
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 1
+Pages: 38
+Reread: 0
+Rate: 2
+PublishDate: 2019-07-11T00:00:00.000Z
+StartDate: 2024-01-02T00:00:00.000Z
+FinishDate: 2024-01-05T00:00:00.000Z
+Image: ''
 aliases: null
+Topic:
+  - '[[Technology (Map)]]'
+  - '[[Philosophy (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Technology and Human Existence
 
-## 🔗Connect
-🔼Topic:: [Technology (Map)](/mocs/technology-map.md)
-🔼Topic:: [Philosophy (Map)](/mocs/philosophy-map.md)
-
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas* 
 1. **Technology is a tool for transcendence** - Humanity uses technology not as a tool to adapt itself to nature, but rather the opposite, to adapt nature to it, and it's ambitions. Technology was never just a tool for answering our basic needs, but to also fulfill our grand visions, and therefore it is a tool for transcendence. 
 2. **Humanities are relevant for STEM** - Since technology is always aimed towards a certain subjectivity, a value, a perception of the world of some kind, it is vital that we ask ourselves towards what are we aiming, and this is precisely the goal of the humanities. To explore what is truly contributing to our wellbeing. And that's why humanities and STEM should be more involved and familiarized with each others' fields. 
 3. **Humans are both nature and aspiration** - a person is a combination of it's subjectivity, it's higher aspirations, and it's circumstances, which is the nature around them, their objectivity. 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -52,17 +65,17 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book is a summary of Ortega's ideas in a modern context. The language is easy to read, and the summary is short and concise.
 
 
-## 📒 Notes
+## Notes
 
 ### introduction  
   
-It is a disaster that the humanities were separated from the scientific departments. Technology has a great effect on our lives but it is currently hidden, treated as the default way of life, turning us into slaves [Attention Economy](/notes/attention-economy.md). **Technology should become again a subject of inquiry for the humanities to further enrich our understanding of technology and it's effects**, while people who study science should also be familiar with the humanities to prevent from misuses of technology.
+It is a disaster that the humanities were separated from the scientific departments. Technology has a great effect on our lives but it is currently hidden, treated as the default way of life, turning us into slaves [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md). **Technology should become again a subject of inquiry for the humanities to further enrich our understanding of technology and it's effects**, while people who study science should also be familiar with the humanities to prevent from misuses of technology.
 
 
 :::note[Preface]
@@ -82,7 +95,7 @@ It is a disaster that the humanities were separated from the scientific departme
 
 ### Human needs  
   
-What makes humanity special is our ability to escape our circumstances [Context](/notes/context.md), to picture a different world [Planning](/notes/planning.md), and working towards that, rather than simply answering our basic needs [Maslows pyramid](/notes/maslows-pyramid.md). It is the fulfilment of our [Will to Power](/notes/will-to-power.md) through technology which changes our circumstances, the nature around us. With technology, we triumph over nature. 
+What makes humanity special is our ability to escape our circumstances [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md), to picture a different world [Planning is anticipating the future and preparing action accordingly](/notes/planning-is-anticipating-the-future-and-preparing-action-accordingly.md), and working towards that, rather than simply answering our basic needs [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md). It is the fulfilment of our [The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md) through technology which changes our circumstances, the nature around us. With technology, we triumph over nature. 
 
 
 :::note[Chapter 1: Human Needs]
@@ -95,7 +108,7 @@ What makes humanity special is our ability to escape our circumstances [Context]
 
 ### human wellbeing  
   
-**Technology is a way to change nature according to our needs**, and not adapt ourselves towards nature. Also, it was proven that technology was never just about primal survival, but it was also arts and higher aspirations from the start. Therefore technology is a tool for [transcendence](/notes/transcendence.md) , an expression of our pursue after well being, of development and overcoming nature.  
+**Technology is a way to change nature according to our needs**, and not adapt ourselves towards nature. Also, it was proven that technology was never just about primal survival, but it was also arts and higher aspirations from the start. Therefore technology is a tool for [Transcendence is the act of continuously becoming a better self](/notes/transcendence-is-the-act-of-continuously-becoming-a-better-self.md) , an expression of our pursue after well being, of development and overcoming nature.  
 
 
 :::note[Chapter 2: Human Well-Being]
@@ -110,7 +123,7 @@ What makes humanity special is our ability to escape our circumstances [Context]
 ### existing as humans  
   
 **Technology aims at a certain purpose, towards a definition of wellbeing. if that definition changes, then so does the technology.**  
-We need to think about our goals, the direction of our transcendence, because technology will eventually make all labor obsolete, so how will we spend our time? To what purpose will we dedicate ourselves? [introspection](/notes/introspection.md)
+We need to think about our goals, the direction of our transcendence, because technology will eventually make all labor obsolete, so how will we spend our time? To what purpose will we dedicate ourselves? [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md)
 
 
 :::note[Ch. 3: Existing as Human]
@@ -123,7 +136,7 @@ We need to think about our goals, the direction of our transcendence, because te
 
 ### programming life  
   
-Humans are a combination of "life", which is our [Subjectivity](/notes/subjectivity.md), our desire to transcend, to fulfill certain values, and our circumstances  which are our [Objectivity](/notes/objectivity.md), the context that shapes the way our project will be implemented. That is way **"I am I and my circumstances"**.  
+Humans are a combination of "life", which is our [Subjectivity](/notes/subjectivity.md), our desire to transcend, to fulfill certain values, and our circumstances  which are our [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md), the context that shapes the way our project will be implemented. That is way **"I am I and my circumstances"**.  
   
 
 :::note[Ch. 4: Programming Life]

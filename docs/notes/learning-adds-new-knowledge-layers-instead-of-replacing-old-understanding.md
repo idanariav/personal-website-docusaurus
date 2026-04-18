@@ -1,13 +1,13 @@
 ---
 UUID: 20221104144114
 Created: '2022-11-04 14:41'
-Modified: '2026-04-10 14:09'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Layering
   - Apperception
@@ -16,6 +16,10 @@ Description: >-
   rather than erasing previous understandings, reflecting the complexity and
   continuity of personal development.
 new_schema: true
+Topic:
+  - '[[Knowledge Structure and Transfer]]'
+Origin: '[[Behave (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ Whether it is due to our genes or our environment [Nature vs nurture](/notes/nat
 ## Visual
 
 ![Layering](/notes/layering.webp)
-
-## Overview
-🔼Topic:: [Knowledge Structure and Transfer](/notes/knowledge-structure-and-transfer.md)
-◀Origin:: [Behave (book)](/books/behave-book.md)
-🔗Link::
-

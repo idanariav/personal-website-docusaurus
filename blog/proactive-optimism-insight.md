@@ -37,7 +37,7 @@ Is life just about accepting the tough times, or is there more to it? Many of us
 
 ![proactive optimism (insight).webp](/posts/proactive-optimism-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Where the limit lies
 

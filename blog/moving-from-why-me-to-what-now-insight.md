@@ -48,7 +48,7 @@ Life often throws a curveball when we least expect it. While we can’t control 
 
 ![moving from why me to what now (insight)](/blogs/moving-from-why-me-to-what-now-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 Imagine taking a nice walk on a hill, the weather's great, the sun is shining. Suddenly you're struck with bird poo on your shoulder. What a shitty day. The stain on your shirt draws your complete attention that you fail to notice the second "delivery" on your way from the birds on the tree you walked under.
 

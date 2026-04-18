@@ -5,14 +5,18 @@ Image: null
 tags: []
 UUID: 20230417070246
 Created: '2023-04-17 07:02'
-Modified: '2026-03-24 11:00'
-Version: '2'
+Modified: '2026-04-11 22:33'
+Version: 3
 aliases: null
 excalidraw-open-md: true
 Description: >-
   A theoretical framework exploring the conditions under which individuals unite
   for mutual benefits, influenced by the prevailing societal values and the
   notion of consent.
+Topic:
+  - '[[Political Philosophy (Map)]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -36,9 +40,3 @@ The most persistent challenge to social contract theory is whether consent is re
 ## Visual
 
 ![Social Contract](/notes/social-contract.webp)
-
-## Overview
-🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
-↩️Origin::
-🔗Link:: 
-

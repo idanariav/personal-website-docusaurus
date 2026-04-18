@@ -1,13 +1,13 @@
 ---
 UUID: 20240426100523
 Created: '2024-04-26 10:05'
-Modified: '2026-04-06 23:11'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Lost in the infinite
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   regarding life's meaning, leading to feelings of helplessness and potential
   nihilism when one fails to act.
 new_schema: true
+Topic:
+  - '[[Freedom and Agency]]'
+Origin: '[[Soren Kierkegaard (philosopher)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ The only way to escape being lost is to make a [Acting before understanding requ
 ## Visual
 
 ![lost in the infinite](/notes/lost-in-the-infinite.webp)
-
-## Overview
-🔼Topic:: [Freedom and Agency](/notes/freedom-and-agency.md)
-↩️Origin:: [Soren Kierkegaard (philosopher)](/notes/soren-kierkegaard-philosopher.md)
-🔗Link::
-

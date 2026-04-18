@@ -24,7 +24,7 @@ It seems paradoxical: if self-love means accepting yourself, how can it also fue
 
 ![self_love_and_change_post.webp](/posts/self_love_and_change_post.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 They say that you can't change without loving yourself first, but that seems paradoxical. 
 

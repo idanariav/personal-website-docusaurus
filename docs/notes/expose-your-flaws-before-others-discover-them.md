@@ -1,13 +1,13 @@
 ---
 UUID: 20250302065924
 Created: '2025-03-02 06:59'
-Modified: '2026-04-08 17:16'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Expose your flaws before others discover them.png]]'
 ImageText: A presentation of your main drawbacks
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Accusation audit
 new_schema: true
+Topic:
+  - '[[Honest Communication]]'
+Origin: '[[Never Split The Difference (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,8 +50,3 @@ For example, if you have to do a presentation and you know that there are some d
 ## Visual
 
 ![Expose your flaws before others discover them](/notes/expose-your-flaws-before-others-discover-them.webp)
-## Overview
-🔼Topic:: [Honest Communication](/notes/honest-communication.md)
-↩️Origin:: [Never Split The Difference (book)](/books/never-split-the-difference-book.md)
-🔗Link::
-

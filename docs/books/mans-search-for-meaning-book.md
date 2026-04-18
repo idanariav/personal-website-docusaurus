@@ -1,24 +1,37 @@
 ---
 UUID: 20220704183026
 Created: '2022-07-04 18:30'
-Modified: '2024-02-09 18:00'
+Modified: '2026-04-13 06:15'
 Author:
   - '[[Viktor Frankel]]'
 FinishDate: 2022-03-24T00:00:00.000Z
 Purchased: true
 Rate: 5
 Pages: 165
-Stored: Kindle
+Stored:
+  - Kindle
+  - Epub
 tags: []
 Fiction: false
 URL: 'https://www.goodreads.com/book/show/17204679-man-s-search-for-meaning'
 aliases: null
-Version: 1.03
-ReadingStatus: Read
+Version: 4
+ReadingStatus: Done
 Genre: Philosophy
 Cover: >-
   http://books.google.com/books/content?id=W3q8R4dRZTwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 PublishDate: 1959-01-01T00:00:00.000Z
+Description: >-
+  One has to craft the meaning of their life, and follow it with all their
+  passion. Meaning is what provides us with a sense of purpose, of mental and
+  physical strength, it what makes us human, and not mere objects.
+FullTitle: Man's Search For Meaning
+StartDate: 2022-03-23T00:00:00.000Z
+ASIN: B009U9S6FI
+Reread: 0
+Topic:
+  - '[[Existentialism (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -27,19 +40,15 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
-
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas* 
 1. **Meaning is created, not found** - One has to craft the meaning of their life, and follow it with all their passion. Meaning is what provides us with a sense of purpose, of mental and physical strength, it what makes us human, and not mere objects. 
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -49,7 +58,7 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book is excellent as it is hard. The descriptions are vivid and are well combined such that the second psychological part that dives more deeply into his psychological attitude might not have been needed. The persuit after meaning as a coherent stance both to today's social issues and to humanties worst moments is very impressive.
@@ -57,25 +66,25 @@ The book is excellent as it is hard. The descriptions are vivid and are well com
 As a grandson to a holocaust survivor, this is not an easy read, it is difficult not to cry, to know that these things actually happened. 
 
 
-## 📒 Notes
+## Notes
 
-The first part is about his time in Auswitch. At the first step there is blind optimism that you will be the one who is saved, but it is quickly replaced with depression or black humor, until you reach emotional death. The lack of all emotion besides a pure will to survive [Will to life](/notes/will-to-life.md), nothing shocks or moves you anymore, you are a stone wall. Some chose to kill themselves at this step. 
+The first part is about his time in Auswitch. At the first step there is blind optimism that you will be the one who is saved, but it is quickly replaced with depression or black humor, until you reach emotional death. The lack of all emotion besides a pure will to survive [The will to live is a blind biological drive that causes suffering through endless desire](/notes/the-will-to-live-is-a-blind-biological-drive-that-causes-suffering-through-endless-desire.md), nothing shocks or moves you anymore, you are a stone wall. Some chose to kill themselves at this step. 
 
 There were several defense mechanisms: art (mostly poetry nights), religion, mysticism, humor, and even gratitude, mostly on "at least its not worse", even in their condition. Love also gave a sense of relief and meaning. People imagined talking to their loved ones, meeting them again, as if they are by their side. Love touches us in the deepest parts.
-Some thought about escaping, but Victor has let fate take the wheels [Amor Fati](/notes/amor-fati.md)He felt he should stay with his friends, and retroactively, it seems that's what saved him.
+Some thought about escaping, but Victor has let fate take the wheels [Love your fate as if you chose it](/notes/love-your-fate-as-if-you-chose-it.md)He felt he should stay with his friends, and retroactively, it seems that's what saved him.
 
-Freedom is the one thing they can't take you. It is not about physical freedom, rather the ability to choose how to respond to a situation [Freedom of response](/notes/agency.md), to see your existence as meaningful. **Those who kept their sense of freedom are those who were able to survive what has happened**. 
+Freedom is the one thing they can't take you. It is not about physical freedom, rather the ability to choose how to respond to a situation [Freedom of response](/notes/agency-is-the-ability-to-connect-desires-and-actions.md), to see your existence as meaningful. **Those who kept their sense of freedom are those who were able to survive what has happened**. 
 
-Another meaningful factor is the ability to look into the future and visualize a goal, a light at the end of the tunnel [Life's Mission](/notes/lifes-mission.md). Those who gave up had no more mental or physical strength. **Those who kept believing and imagine a better future were stronger and healthier** [Optimism](/notes/optimism.md)
+Another meaningful factor is the ability to look into the future and visualize a goal, a light at the end of the tunnel [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md). Those who gave up had no more mental or physical strength. **Those who kept believing and imagine a better future were stronger and healthier** [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md)
 
 The guards were a mix of angels and demons, as every group of people can be. They were not pure evil, but regular humans for better or worse. 
 
-When they were liberated, some at first didn't believe it actually happened, they were in complete denial, but quickly they turned to the other end of the scale. They felt they could do as they wanted, without any consideration for what is moral or accepted, completely unchecked, justifying their actions based on the suffering they went through [Moral Licensing](/notes/moral-licensing.md).
+When they were liberated, some at first didn't believe it actually happened, they were in complete denial, but quickly they turned to the other end of the scale. They felt they could do as they wanted, without any consideration for what is moral or accepted, completely unchecked, justifying their actions based on the suffering they went through [Doing good gives us permission to do harm](/notes/doing-good-gives-us-permission-to-do-harm.md).
 The hopes that have held people through the holocaust have been shattered and evaporated once they found out that their loved ones have passed away, their home was taken, and nobody has missed them, to say the least. 
 
 **Meaning is not an abstract concept out there, but rather something internal we create ourselves** [Meaning is Crafted](/notes/meaning-is-crafted.md), it is our personal mission in the world, whether it is an action, an experience (such as love), or even dealing with challenges such as pain. 
 
-We all have the tension between who we are and who we want to become. The goal in life is not balance but rather strive for [transcendence](/notes/transcendence.md) because if we stay put, we would settle for who we are now, and we might fall in toan existential vacuum [Absurdity of existence](/notes/absurdity-of-existence.md). This is when the "will for meaning" is replaced by cheap imitations such as the desire for money, power or status. 
+We all have the tension between who we are and who we want to become. The goal in life is not balance but rather strive for [Transcendence is the act of continuously becoming a better self](/notes/transcendence-is-the-act-of-continuously-becoming-a-better-self.md) because if we stay put, we would settle for who we are now, and we might fall in toan existential vacuum [Life has no predefined meaning we can discover](/notes/life-has-no-predefined-meaning-we-can-discover.md). This is when the "will for meaning" is replaced by cheap imitations such as the desire for money, power or status. 
 
 ### Highlights
 

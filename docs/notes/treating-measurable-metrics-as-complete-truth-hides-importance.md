@@ -1,13 +1,13 @@
 ---
 UUID: 20220716082406
 Created: '2022-07-16 08:24'
-Modified: '2026-04-08 13:25'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - McNamara Fallacy
   - what can't be measured isn't important
@@ -16,6 +16,10 @@ Description: >-
   overemphasis on quantifiable metrics while neglecting important qualitative
   aspects.
 new_schema: true
+Topic:
+  - '[[Selective Evidence]]'
+Origin: '[[The Curiosity Chronicle by Sahil Bloom]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -57,9 +61,3 @@ Second, we must find ways of incorporating qualitative measures. While they are 
 ## Visual
 
 ![McNamara Fallacy](/notes/mcnamara-fallacy.webp)
-
-## Overview
-🔼Topic:: [Selective Evidence](/notes/selective-evidence.md)
-Origin:: [The Curiosity Chronicle by Sahil Bloom](/notes/the-curiosity-chronicle-by-sahil-bloom.md)
-🔗Link::
-

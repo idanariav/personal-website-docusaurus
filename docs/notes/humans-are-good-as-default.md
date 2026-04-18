@@ -1,13 +1,13 @@
 ---
 UUID: 20221104144403
 Created: '2022-11-04 14:44'
-Modified: '2026-04-08 17:04'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - People are inherently good
   - we are born good
@@ -15,6 +15,10 @@ Description: >-
   A concept suggesting that humans possess an inherent tendency towards empathy,
   kindness, and trust, with negative behaviors being learned rather than innate.
 new_schema: true
+Topic:
+  - '[[Innate Human Disposition]]'
+Origin: '[[Behave (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,9 +50,3 @@ Those who live their lives guided by love and have an [optimistic](/notes/optimi
 ## Visual
 
 ![humans are good as default](/notes/humans-are-good-as-default.webp)
-
-## Overview
-🔼Topic:: [Innate Human Disposition](/notes/innate-human-disposition.md)
-◀Origin:: [Behave (book)](/books/behave-book.md)
-🔗Link::
-

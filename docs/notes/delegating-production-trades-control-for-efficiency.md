@@ -1,8 +1,8 @@
 ---
 UUID: 20250723070459
 Created: '2025-07-23 07:04'
-Modified: '2026-04-10 06:12'
-Version: 2
+Modified: '2026-04-11 22:20'
+Version: 3
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -15,6 +15,11 @@ Description: >-
   external source, often to optimize time and resources, while potentially
   sacrificing personal skill development.
 new_schema: true
+Topic:
+  - '[[Market Dynamics and Competition]]'
+  - '[[Mastery requires deliberate practice and hard work, not innate talent]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,13 +51,4 @@ Deciding what to outsource is not a simple decision, and has major consequences.
 ### Open questions
 
 ## Visual
-
-
-## Overview
-🔼Topic:: [Market Dynamics and Competition](/notes/market-dynamics-and-competition.md)
-🔼Topic:: [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md)
-↩️Origin::
-🔗Link:: 
-
-
 

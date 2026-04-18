@@ -1,13 +1,13 @@
 ---
 UUID: 20241130074121
 Created: '2024-11-30 07:41'
-Modified: '2026-04-10 13:47'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Optimization
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   minimizing inputs, considering opportunity costs, while balancing systematic
   thinking and inherent fragility.
 new_schema: true
+Topic:
+  - '[[Prioritization and Leverage]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ However, optimization often comes at the price of [fragility](/notes/some-system
 ## Visual
 
 ![Optimization](/notes/optimization.webp)
-
-## Overview
-🔼Topic:: [Prioritization and Leverage](/notes/prioritization-and-leverage.md)
-↩️Origin::
-🔗Link::
-

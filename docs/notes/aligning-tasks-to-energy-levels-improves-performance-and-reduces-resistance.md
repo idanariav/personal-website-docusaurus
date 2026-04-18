@@ -1,12 +1,12 @@
 ---
 UUID: 20220909082704
 Created: '2022-09-09 08:27'
-Modified: '2026-03-22 06:44'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: >-
   [[Aligning tasks to energy levels improves performance and reduces
   resistance.png]]
@@ -18,6 +18,10 @@ Description: >-
 aliases:
   - Motivational scheduling
 new_schema: true
+Topic:
+  - '[[Triage prioritizes limited resources by allocating attention wisely]]'
+Origin: '[[Elizabeth Filips]]'
+URL: 'https://www.youtube.com/watch?v=v8EaeKusFvA'
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ What happens if we don't have the energy to do this at any time of day/throughou
 ## Visual
 
 ![Aligning tasks to energy levels improves performance and reduces resistance](/notes/aligning-tasks-to-energy-levels-improves-performance-and-reduces-resistance.webp)
-
-## Overview
-🔼Topic:: [Triage prioritizes limited resources by allocating attention wisely](/notes/triage-prioritizes-limited-resources-by-allocating-attention-wisely.md)
-◀Origin:: [Elizabeth Filips](/notes/elizabeth-filips.md)
-🔗Link:: [Source](https://www.youtube.com/watch?v=v8EaeKusFvA)
-

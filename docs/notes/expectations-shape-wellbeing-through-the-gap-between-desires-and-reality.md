@@ -1,13 +1,13 @@
 ---
 UUID: 20221104145332
 Created: '2022-11-04 14:53'
-Modified: '2026-04-08 13:26'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Expectations shape wellbeing through the gap between desires and
   reality.png]]
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Expectations
 new_schema: true
+Topic:
+  - '[[Happiness (Nature and Sources)]]'
+Origin: '[[Behave (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ However, it is very difficult to avoid giving too much credit to expectations, w
 ## Visual
 
 ![Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.webp)
-
-## Overview
-🔼Topic:: [Happiness (Nature and Sources)](/notes/happiness-nature-and-sources.md)
-◀Origin:: [Behave (book)](/books/behave-book.md)
-🔗Link::
-

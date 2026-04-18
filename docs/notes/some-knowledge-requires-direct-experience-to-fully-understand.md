@@ -1,13 +1,13 @@
 ---
 UUID: 20230830152933
 Created: '2023-08-30 15:29'
-Modified: '2026-04-09 09:08'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Some knowledge requires direct experience to fully understand.png]]'
 ImageText: 'Musical notes on one side, not equal to a guitar'
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Experience knowledge
 new_schema: true
+Topic:
+  - '[[Nature and Limits of Knowledge]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,9 +60,3 @@ You can learn hours of music theory, but you won't know how to play the guitar u
 ## Visual
 
 ![Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.webp)
-
-## Overview
-🔼Topic:: [Nature and Limits of Knowledge](/notes/nature-and-limits-of-knowledge.md)
-Origin::
-🔗Link::
-

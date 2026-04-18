@@ -1,13 +1,13 @@
 ---
 UUID: 20230525161157
 Created: '2023-05-25 16:11'
-Modified: '2026-04-08 13:25'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Streetlight effect
   - to focus on what is easy to measure
@@ -16,6 +16,10 @@ Description: >-
   situation, neglecting more relevant but less visible factors, leading to
   misguided conclusions.
 new_schema: true
+Topic:
+  - '[[Selective Evidence]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ A policeman sees a drunk man searching for something under a streetlight and ask
 ## Visual
 
 ![streetlight effect](/notes/streetlight-effect.webp)
-
-## Overview
-🔼Topic:: [Selective Evidence](/notes/selective-evidence.md)
-◀Origin::
-🔗Link::
-

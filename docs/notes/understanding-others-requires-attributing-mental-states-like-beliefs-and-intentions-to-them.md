@@ -1,13 +1,13 @@
 ---
 UUID: 20230628214331
 Created: '2023-06-28 21:43'
-Modified: '2026-04-09 08:37'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Theory of Mind
   - We can't read minds
@@ -16,6 +16,10 @@ Description: >-
   mental states, such as beliefs and emotions, recognizing they may differ from
   one's own.
 new_schema: true
+Topic:
+  - '[[Self-Knowledge and Metacognition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ Perhaps language is too rational and rigid a solution. Perhaps true understandin
 ## Visual
 
 ![Theory of Mind](/notes/theory-of-mind.webp)
-
-## Overview
-🔼Topic:: [Self-Knowledge and Metacognition](/notes/self-knowledge-and-metacognition.md)
-◀Origin::
-🔗Link::
-

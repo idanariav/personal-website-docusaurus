@@ -25,7 +25,7 @@ With so much going wrong in the world, pessimism feels like the “realistic” 
 
 ![why_im_still_an_optimist.webp](/posts/why_im_still_an_optimist.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Introduction
 

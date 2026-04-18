@@ -27,7 +27,7 @@ Is living a good and happy life truly an impossible balancing act? How do we str
 
 ![Walking a tight rope (synthesis).webp](/posts/walking-a-tight-rope-synthesis.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 We aspire to be good people, yet it's unrealistic to expect ourselves to be saints who volunteer all day. We aim to achieve great things in life, but this often comes at a high cost, such as neglecting our relationships. We seek a calling, yet we often face either an overwhelming number of options or none at all.
 

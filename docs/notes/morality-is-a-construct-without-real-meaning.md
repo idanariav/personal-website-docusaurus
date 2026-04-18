@@ -1,13 +1,13 @@
 ---
 UUID: 20230903180427
 Created: '2023-09-03 18:04'
-Modified: '2026-04-08 13:23'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Nihilism
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   perceptions of good and bad are misleading and that life lacks intrinsic
   purpose or meaning.
 new_schema: true
+Topic:
+  - '[[Moral Epistemology]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,8 +55,3 @@ Nihilism is problematic due to:
 ## Visual
 
 ![Nihilism](/notes/nihilism.webp)
-
-## Overview
-🔼Topic:: [Moral Epistemology](/notes/moral-epistemology.md)
-🔗Link::
-

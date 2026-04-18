@@ -1,40 +1,55 @@
 ---
 UUID: 20240304185132
 Created: '2024-03-04 18:51'
-Modified: '2024-10-07 07:33'
+Modified: '2026-04-13 06:20'
 tags: []
+FullTitle: >-
+  The Opposite of Spoiled -  Raising Kids Who Are Grounded, Generous, and Smart
+  About Money
+Description: >-
+  It argues for promoting generosity by making giving visible, teaching
+  budgeting through spend, save, and give categories, and fostering
+  responsibility without tying chores to payment. Emphasizing gratitude and
+  honest discussions about money helps children understand its true value beyond
+  material wealth.
 Author:
   - '[[Ron Lieber]]'
+URL: 'https://www.goodreads.com/book/show/41014688-the-opposite-of-spoiled'
+Cover: >-
+  http://books.google.com/books/content?id=yfI2BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Family & Relationships
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B00KAC65PW
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 272
+Reread: 0
 Rate: 3
 PublishDate: 2015-02-03T00:00:00.000Z
+StartDate: 2024-04-18T00:00:00.000Z
 FinishDate: 2024-04-21T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=yfI2BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/41014688-the-opposite-of-spoiled'
+Image: null
 aliases: null
+Topic:
+  - '[[Financial education]]'
+  - '[[Education (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 # The Opposite of Spoiled
 
-## 🔗Connect
-🔼Topic:: [Financial education](/notes/financial-education.md)
-🔼Topic:: [Education (Map)](/mocs/education-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Make giving visible** - to promote generosity, we need to act like it and show it. Let them know what you are donating to and why, give them a say in what to donate, even give to beggars, show them how it feels to be kind, ask them whether they have done sometime kind to someone today.
 2. **Have a spend, save, give budget** - every gift or allowance they receive should be divided into spend, save, give buckets. This will teach them how to work with a budget, to prioritize between things, understand wants vs needs, and show them the importance of saving and giving your money
@@ -43,13 +58,13 @@ SiteProcssed: true
 5. **Give context to spending** - spending should be analyzed though a want-vs-need framework, and then through a usefulness/dollar ratio. This will teach them about scarcity and tradeoffs.
 6. **Be honest and open about money questions** - kids ask money questions either from curiosity or the need for security, both we don't want to dismiss or ignore. We should welcome these questions, be honest and open with our answers, and never lie. Remember that what we don't tell them, they will either figure out or their own or will speculate. You want to control the narrative.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 1. **Make savings visible** - Find a way to visualize savings, while actually keeping them in the bank (with interest), best of both worlds. Perhaps use Monopoly money or something similar.
 2. **Concentrate gifts into one** - instead of having everyone buy a gift, ask them to give money to a shared bucket (which is much more convenient ), and this sum can be used both for a meaningful giving, and for a huge gift.
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -57,16 +72,16 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book is thin with content, mostly it's stories that iterates the same point
 
-### 🖼️Outline
+### Outline
 
-![The Opposite of Spoiled (book).webp](/books/the-opposite-of-spoiled-book.webp)
+![The Opposite of Spoiled (book)](/books/the-opposite-of-spoiled-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Why We Need to Talk about Money
 
@@ -94,7 +109,7 @@ We fear that talking about money with our kids will either hurt them or make the
 
 The default is silence about money issues, we avoid it because we are too ashamed, or thinking that our kids won't be able to process what we're saying, and it can only spiral from there. But worse than not saying anything is to lie to them.
 
-**We should welcome questions, praise them for it. Say things like "did you ask a good question today" to promote their [Curiosity](/notes/curiosity.md).**
+**We should welcome questions, praise them for it. Say things like "did you ask a good question today" to promote their [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md).**
 
 It's also important to understand why they ask these questions, is it pure curiosity, or a specific fear and they just want reassurance that we are doing okay, without a need for specifics.
 
@@ -121,21 +136,21 @@ Remember that kids would most likely find the answer anyway, if not through you 
 
 ### The Allowance Debates
 
-**The worse thing we can do is to tie allowance to doing house chores**. It turns those chores from something we do as a family, as an act of care and responsibility for being part of this house, to something we do just for money. it (Related :: [commodifies](/notes/commodification.md) and [Crowding Out](/notes/crowding-out.md) feelings of generosity with mathematical calculations.
+**The worse thing we can do is to tie allowance to doing house chores**. It turns those chores from something we do as a family, as an act of care and responsibility for being part of this house, to something we do just for money. it (Related :: [commodifies](/notes/commodification-turns-non-tradable-values-into-economic-transactions.md) and [One activity displaces another when pursued excessively](/notes/one-activity-displaces-another-when-pursued-excessively.md) feelings of generosity with mathematical calculations.
 
 If they refuse to do chores, there are other privileges we can take aside money.
 
-However, we do wish for them to have an allowance, probably from age 5, so that they can practice [Patience](/notes/patience.md), and working with a budget. They become the masters of their own money. They **should get enough to buy things, but not too much such that they could avoid making hard decisions (i.e buy it all).**
-They will learn patience and prioritizing [Triage](/notes/triage.md) and that money is related to [Scarcity](/notes/scarcity.md).
+However, we do wish for them to have an allowance, probably from age 5, so that they can practice [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md), and working with a budget. They become the masters of their own money. They **should get enough to buy things, but not too much such that they could avoid making hard decisions (i.e buy it all).**
+They will learn patience and prioritizing [Triage prioritizes limited resources by allocating attention wisely](/notes/triage-prioritizes-limited-resources-by-allocating-attention-wisely.md) and that money is related to [Scarcity forces prioritization when resources are limited](/notes/scarcity-forces-prioritization-when-resources-are-limited.md).
 
 The allowance (or any money earned), should be divided into 3 categories:
 1. **Spend** - on whatever they like, as long as it doesn't cross any moral limit. Let them make mistakes and ask them post purchase whether it was a good buy. As they spend, ask them whether it is a need (like food, education) or a want (like leisure)
-2. **Give** - connect the concept of money with that of helping others, of generosity and [Altruism](/notes/giving.md). Let them choose what to donate to, and make it such that they will feel their contribution
+2. **Give** - connect the concept of money with that of helping others, of generosity and [Altruism](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md). Let them choose what to donate to, and make it such that they will feel their contribution
 3. **Save** - help them choose what are they saving for. Perhaps make it visual with an actual jar of money. Talk about saving for the short term because it's still a bit hard to grasp
 
 For simplicity, you can divide it equally between the piles. Use a matching rule or "compound" interest to incentivize them to save more, and show the effects of saving.
 
-Remember to [Dont Jump to the Rescue](/notes/dont-jump-to-the-rescue.md), the essential point with allowances is to teach them how to work with a budget, so **instead of letting them spend more than they have, or to buy for them, tell them that they'll have to wait, or "suffer" the consequences of taking a loan.**
+Remember to [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md), the essential point with allowances is to teach them how to work with a budget, so **instead of letting them spend more than they have, or to buy for them, tell them that they'll have to wait, or "suffer" the consequences of taking a loan.**
 
 :::note[The Allowance Debates]
 
@@ -149,15 +164,15 @@ Remember to [Dont Jump to the Rescue](/notes/dont-jump-to-the-rescue.md), the es
 
 ### The Smartest way for Kids to Spend
 
-**When kids choose on what to spend their money, it's useful to teach them to think through "usefulness/dollar" ratio**. [Alternative cost](/notes/alternative-cost.md). For example, how much fun would a get per dollar for a Lego, compared to a new shiny video game. Same for other purchases, such as buying clothes or going out to a restaurant.
+**When kids choose on what to spend their money, it's useful to teach them to think through "usefulness/dollar" ratio**. [Every choice costs the alternatives you gave up](/notes/every-choice-costs-the-alternatives-you-gave-up.md). For example, how much fun would a get per dollar for a Lego, compared to a new shiny video game. Same for other purchases, such as buying clothes or going out to a restaurant.
 
 Don't be ashamed to work with them on money saving techniques such as coupons, second-hand stores, etc.
 
 ### Are We Raising Materialistic Kids
 
 Materialistic people care more about possession than relationships. In order to avoid raising such people, we can:
-1. **Stay off commercial** - especially young children are highly affected, it changes their priorities to [consumerism](/notes/consumerism.md), and causes them to judge other people by their wealth instead of character
-2. **Place limits** - limit screen time to help the kids understand the importance of moderation, until they are able to delay gratification on their own. [Limits](/notes/limits.md)
+1. **Stay off commercial** - especially young children are highly affected, it changes their priorities to [Consumption is the other half of capitalism](/notes/consumption-is-the-other-half-of-capitalism.md), and causes them to judge other people by their wealth instead of character
+2. **Place limits** - limit screen time to help the kids understand the importance of moderation, until they are able to delay gratification on their own. [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md)
 
 Other ideas:
 1. **Unified birthday present** - instead of everyone buying a different present, they all contribute money to a single account, making it less of a hassle for them. The money would then be split into a donation, and one very large and interesting gift.
@@ -171,13 +186,13 @@ Other ideas:
 
 ### How to Talk about Giving
 
-While it seems that even kids enjoy giving [humans are good as default](/notes/humans-are-good-as-default.md), it is a tendency we wish to nurture. To encourage giving, we should not only be a [Role Models](/notes/role-models.md) to them, but also talk and act publicly with our givings.
+While it seems that even kids enjoy giving [Humans are good as default](/notes/humans-are-good-as-default.md), it is a tendency we wish to nurture. To encourage giving, we should not only be a [Role models embody behaviors and values we aspire to adopt](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md) to them, but also talk and act publicly with our givings.
 
 examples:
 1. **Daily kindness** - everyone shares at dinner what kind act they have done that day.
 2. **Share in donations** - let the child in on your donation strategy, debate on reasons and let the child have a say in who we are donating to
 3. **Small acts of giving** - always have something on you to give to beggars you see on the street. Even if they don't spend it wisely, you are teaching your child generosity which is way more important. To reduce chances of misuse, you can have protein bars or other non-monetary gifts to give
-4. **Make results visible** - make sure that the child will be able to see the results of their giving. This could be as simple as a "thank you" note, or perhaps share the news of the organization. [Visibility](/notes/visibility.md)
+4. **Make results visible** - make sure that the child will be able to see the results of their giving. This could be as simple as a "thank you" note, or perhaps share the news of the organization. [What matters most is often less visible than what is salient](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md)
 
 :::note[How to Talk About Giving]
 
@@ -189,7 +204,7 @@ examples:
 
 ### Why Kids Should Work
 
-Kids will likely want to work at some point. This **desire should not be discouraged, since having a work is great for a sense of independence, of competence, and mostly [Grit](/notes/grit.md).** While it's natural to fear that it will hurt their education, remember that kids have a lot of free time, which could be spent more wisely.
+Kids will likely want to work at some point. This **desire should not be discouraged, since having a work is great for a sense of independence, of competence, and mostly [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md).** While it's natural to fear that it will hurt their education, remember that kids have a lot of free time, which could be spent more wisely.
 
 :::note[Why Kids Should Work]
 
@@ -200,7 +215,7 @@ Kids will likely want to work at some point. This **desire should not be discour
 
 ### The Luckiest
 
-It's not a shame to have a lot of money, or at least be an upper middle class. What we don't want is our children to become blind to the suffering around them, to treat what they have as given, and those who don't as inferior. One way around it is through [Gratitude](/notes/gratitude.md), to help them express what they are grateful in life, and how lucky they are to have it. Another way is through exposure, either through volunteering, "down to earth" summer camps, or vacations that include getting to know the local culture.
+It's not a shame to have a lot of money, or at least be an upper middle class. What we don't want is our children to become blind to the suffering around them, to treat what they have as given, and those who don't as inferior. One way around it is through [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md), to help them express what they are grateful in life, and how lucky they are to have it. Another way is through exposure, either through volunteering, "down to earth" summer camps, or vacations that include getting to know the local culture.
 
 ### How much is Enough
 

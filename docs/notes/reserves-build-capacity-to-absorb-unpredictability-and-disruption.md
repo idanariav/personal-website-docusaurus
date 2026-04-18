@@ -1,14 +1,14 @@
 ---
 UUID: 20231113161518
 Created: '2023-11-13 16:15'
-Modified: '2026-04-10 16:18'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
 new_schema: true
-Version: 4
+Version: 5
 aliases:
   - Reserves
   - Buffers
@@ -17,6 +17,10 @@ Description: >-
   A strategy of maintaining additional resources, both abstract and physical, to
   mitigate the unpredictability of future events and enhance adaptability while
   reducing the risk of exhaustion.
+Topic:
+  - '[[Resource Allocation and Prioritization]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -62,9 +66,3 @@ Similarly, it reduces the chance of [Exhaustion](/notes/burnout-is-chronic-exhau
 ## Visual
 
 ![Reserves](/notes/reserves.webp)
-
-## Overview
-🔼Topic:: [Resource Allocation and Prioritization](/notes/resource-allocation-and-prioritization.md)
-Origin::
-🔗Link::
-

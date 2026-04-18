@@ -1,20 +1,27 @@
 ---
 UUID: 20230404161158
 Created: '2023-04-04 16:11'
-Modified: '2026-04-10 14:07'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 2
-aliases:
-  - Simplicity
+Version: 4
+Image: '[[Distilling to essentials creates clarity and actionability.png]]'
+ImageText: >-
+  A turned off light bulb covered by lines vs a shining lightbulb connected to
+  the wall
 Description: >-
   The concept of reducing complexity to its core elements, enhancing
   understanding and usability, thereby facilitating communication and
   adaptability in ideas and actions.
+aliases:
+  - Simplicity
 new_schema: true
+Topic:
+  - '[[Knowledge Structure and Transfer]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -31,7 +38,7 @@ Simplicity is the idea that [less is more](/notes/improvement-often-comes-from-r
 
 Simplicity is important because often the greatest barrier for communication and action is [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md). If something is difficult to use or understand, than even if it's the greatest idea in the world, no one would ever use it. A genius's [brilliance](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md) is not in doing things that nobody understands, it's the opposite, it's by translating smart ideas into something everyone can understand [Mental shortcuts enable faster learning through analogies and simplification](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md). This is also true in it's reverse, like the [Explaining ideas simply exposes gaps in understanding](/notes/explaining-ideas-simply-exposes-gaps-in-understanding.md) that says that if you can't explain it to others (in a simple way) that you don't understand it well enough.
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -43,14 +50,8 @@ Simple is elegant, is beautiful, but most of all it is [Flexible](/notes/our-bel
 
 Simplicity is the answer to [Complexity](/notes/complexity.md). It's not a mirror image of it, rather the mitigation for it. The more complex something is, the more we need to think about how to simplify it, like how check-lists were used to avoid errors in complicated flight scenarios.
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Simplicity](/notes/simplicity.webp)
-
-## Overview
-🔼Topic:: [Knowledge Structure and Transfer](/notes/knowledge-structure-and-transfer.md)
-◀Origin::
-🔗Link::
-
+![Distilling to essentials creates clarity and actionability](/notes/distilling-to-essentials-creates-clarity-and-actionability.webp)

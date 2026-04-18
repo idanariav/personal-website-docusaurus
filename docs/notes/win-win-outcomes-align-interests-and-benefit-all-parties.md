@@ -1,13 +1,13 @@
 ---
 UUID: 20231231071307
 Created: '2023-12-31 07:13'
-Modified: '2026-04-09 06:48'
+Modified: '2026-04-11 22:30'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Win win situations
   - Synergy
@@ -16,6 +16,11 @@ Description: >-
   understanding, cooperation, and active listening, fostering partnership rather
   than opposition to solve shared problems effectively.
 new_schema: true
+Topic:
+  - '[[Tradeoffs and Consequences]]'
+  - '[[Collaborative Communication]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,7 +59,3 @@ In general, being [kind](/notes/providing-value-without-expectation-of-return-cu
 ![win win situations](/notes/win-win-situations.webp)
 
 ## Overview
-🔼Topic:: [Tradeoffs and Consequences](/notes/tradeoffs-and-consequences.md)
-🔼Topic:: [Collaborative Communication](/notes/collaborative-communication.md)
-↩️Origin::
-🔗Link::

@@ -40,7 +40,7 @@ We often try to solve our lives like equations, hoping to find a universal rule 
 
 ![Making the perfect decision (insight)](/blogs/making-the-perfect-decision-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 So you know what you want in life, that's great! That's already an accomplishment that not everyone can claim. But what do you do next? How do you get from where you are now to where you want to be?
 

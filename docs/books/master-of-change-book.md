@@ -1,19 +1,23 @@
 ---
 UUID: 20240702060644
 Created: '2024-07-02 06:06'
-Modified: '2025-09-07 07:15'
+Modified: '2026-04-16 07:20'
 tags: []
 Author:
   - '[[Brad Stulberg]]'
 Genre: Self-Help
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 7
 Pages: 233
 Rate: 5
 PublishDate: 2023-09-05T00:00:00.000Z
@@ -22,6 +26,21 @@ Cover: >-
   http://books.google.com/books/content?id=qvTIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/75289864-master-of-change'
 aliases: []
+Description: >-
+  It argues that flexibility is essential for adapting to change, emphasizing a
+  fluid identity and a responsive mindset. By embracing change, managing
+  expectations, and aligning actions with core values, individuals can navigate
+  challenges and foster growth through resilience and self-compassion.
+FullTitle: >-
+  Master of Change - How to Excel When Everything Is Changing, Including You;
+  Embracing Life’s Instability with Rugged Flexibility—a Practical Model for
+  Resilience
+StartDate: 2024-08-03T00:00:00.000Z
+ASIN: B0BQMY2PT5
+Reread: 0
+Topic:
+  - '[[Change (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -30,10 +49,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [Change (Map)](/mocs/change-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Flexibility is key** - the world is ever changing, if we treat ourselves as something fixed, if we would expect the world to remain fixed, we would be filled with stress, anxiety and pain. We have to be flexible, to allow ourselves to adapt, to change who we are, to change how we view ourselves
 2. **Flexible mindset**
@@ -46,11 +62,25 @@ SiteProcssed: true
 	1. **Respond not react** - identity what's in your control and what isn't. Don't immediately react, use pause, process plan and proceed to gain distance from the situation, clear your mind and understand exactly what you can and should do.
 	2. **Making meaning and moving forward** - Growth takes time, first we need to recover from the crisis. With humility, asking for help, focusing on healthy routines, giving ourselves plenty of rest and self compassion we are more likely to finish the "recovery" part faster and better, and move towards "growth"
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 1. **Resilient, flexible identity** - one that withstands, if not thrives in moments of change. One that is able to accept change, yet has boundaries for it. That is able to convert trauma into growth
-### 🔍Critique
+
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Accept change as constant** - acknowledge that change is inevitable and stop trying to return to a previous state; focus energy on working with change to reach a favorable reorder.
+2. **Shift expectations to tragic optimism** - set realistic expectations by acknowledging inevitable pain but believing you can handle it, so you are prepared and less distressed.
+3. **Pause, process, plan, proceed** - when faced with upheaval, intentionally pause to gain distance, process the situation with curiosity, make a plan, then follow through.
+4. **Name your emotions** - practice labeling what you feel to reduce emotional hijacking and regain cognitive control.
+5. **Multitrack your identity** - nurture multiple roles, skills, and pursuits (friend, hobby, sport, work) so your sense of self is diverse and resilient.
+6. **Clarify and lean on core values** - identify your guiding values and use them as a rudder to make choices during change while allowing how you actualize them to evolve.
+7. **Respond, don’t react** - zoom out from target fixation, switch from reactive feeling-mode to perspective-taking mode, and choose intentional responses.
+8. **Build small routines for stability** - establish simple daily structures (work, exercise, walks, reading) that provide meaning and anchor during recovery.
+9. **Ask for help and connect** - reach out, express vulnerability, and find others or peers who’ve faced similar struggles to feel seen and supported.
+10. **Differentiate real vs. fake tired and act accordingly** - assess whether exhaustion is physical or emotional; if physical, rest and sleep more; if emotional and stuck, push into small actions to regain momentum.
+
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **Homeostasis vs allostasis** - we all remember homeostasis, the desire to return to a balance based on a fixed value no matter what happens, but true strength and stability is in allostasis. The ability to reach balance through adaptation, like developing muscles to withstands challenges.
@@ -62,30 +92,30 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book echoes deep, it is the "why" of change in a sea of "how",it's philosophical yet direct, honest, practical, and inspiring. The short summaries at the end of each chapter is nice, and the conclusion is a genuine quick guide summary.
 
 Sure, the examples are sometimes just okay, and the metaphors are not always on point (or a bit forced), but this is still a must read, it could be one of those books that can help you find hope in a dark place.
 
-### 🖼️Outline
+### Outline
 
-![Master of Change (book).webp](/books/master-of-change-book.webp)
-## 📒 Notes
+![Master of Change (book)](/books/master-of-change-book.webp)
+## Notes
 
 ### Rugged Flexibility
 **A new model for working on change and identity over time**
 
-**Change is the one true constant of nature and our lives**. On average once every two years something big changes in our lives. Those who think they can avoid it, either freezing time or themselves are at best misguided and at worst will suffer deeply from it. [life is change](/notes/life-is-change.md).
+**Change is the one true constant of nature and our lives**. On average once every two years something big changes in our lives. Those who think they can avoid it, either freezing time or themselves are at best misguided and at worst will suffer deeply from it. [Life is change](/notes/life-is-change.md).
 
-Change in itself is neither positive nor negative, it is up to our [Judgment](/notes/judgment.md) to choose how to react and work with it, that will enable us to convert these moments into periods of growth. It requires us to be [adaptable](/notes/adaptability.md).
+Change in itself is neither positive nor negative, it is up to our [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) to choose how to react and work with it, that will enable us to convert these moments into periods of growth. It requires us to be [adaptable](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md).
 
-We are too fixated by the notion of [Homeostasis](/notes/balance-extremes.md), that we can always return or maintain the same state of something no matter what happens. That's why change often causes us to experience [Reactance](/notes/reactance.md), we either ignore it or actively fight against it, trying to keep things how they were.
+We are too fixated by the notion of [Homeostasis](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md), that we can always return or maintain the same state of something no matter what happens. That's why change often causes us to experience [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md), we either ignore it or actively fight against it, trying to keep things how they were.
 
-In reality, systems work in a process called [Allostasis](/notes/allostasis.md), which means they create a new normal, one that is best suited to the situation. Like [neuroplasticity](/notes/neuroplasticity.md), the body adapts to the new situation by changing itself such that it's functioning would remain optimal. Like growing new muscles after a workout.
+In reality, systems work in a process called [We grow stronger by adapting to stress](/notes/we-grow-stronger-by-adapting-to-stress.md), which means they create a new normal, one that is best suited to the situation. Like [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md), the body adapts to the new situation by changing itself such that it's functioning would remain optimal. Like growing new muscles after a workout.
 
-Change therefore is a process of [creative destruction](/notes/creative-destruction.md), a constant process of order, disruption and reorder, or thesis, antithesis and synthesis. That's why flexibility is key. We can't treat change as an either or, we need to ditch [binary thinking](/notes/binary-thinking.md) and see both negative and positive in every change. We have to be [anti fragile](/notes/anti-fragility.md) towards change, to be better for it.
+Change therefore is a process of [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md), a constant process of order, disruption and reorder, or thesis, antithesis and synthesis. That's why flexibility is key. We can't treat change as an either or, we need to ditch [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) and see both negative and positive in every change. We have to be [anti fragile](/notes/some-systems-grow-stronger-through-disorder.md) towards change, to be better for it.
 
 :::note[Introduction]
 
@@ -107,17 +137,17 @@ Change therefore is a process of [creative destruction](/notes/creative-destruct
 
 #### Open to the Flow of Life
 
-**Change is never easy, but what makes it hard is our resistance or ignorance of it**. It leads to [stress](/notes/stress.md) and sometimes even [existential dread](/notes/absurdity-of-existence.md).
+**Change is never easy, but what makes it hard is our resistance or ignorance of it**. It leads to [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) and sometimes even [existential dread](/notes/life-has-no-predefined-meaning-we-can-discover.md).
 
-Meanwhile major philosophies around the world acknowledged the drawbacks of [attachment](/notes/attachment.md), and the importance of [acceptance](/notes/acceptance.md) of the circumstances of our lives, of how little we control and what we can do.
+Meanwhile major philosophies around the world acknowledged the drawbacks of [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md), and the importance of [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) of the circumstances of our lives, of how little we control and what we can do.
 
-We must embrace [Life as Flow|](/notes/life-as-flow|.md), it's not about trying to control the world, but rather use what's happening to our advantage, to be the best version we can be with the cards we've been dealt with.
+We must embrace [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md), it's not about trying to control the world, but rather use what's happening to our advantage, to be the best version we can be with the cards we've been dealt with.
 
-One way of doing so is to shift from a *having* to a *being* mentality, from basing your identity on what you [have](/notes/consumerism.md) in life (could be your possession, and even the functioning of your body), to be, to connect yourself with your circumstances and find ways to express who you are. [external influence](/notes/external-influence.md) [Image vs core](/notes/form-vs-essence.md).
+One way of doing so is to shift from a *having* to a *being* mentality, from basing your identity on what you [have](/notes/consumption-is-the-other-half-of-capitalism.md) in life (could be your possession, and even the functioning of your body), to be, to connect yourself with your circumstances and find ways to express who you are. [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md) [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md).
 
-Often what makes this shift easier is to accept the [inescapability](/notes/fatalism.md) of change. When we realize that **change is and will happen and there's nothing we can do to prevent it, we can shift our focus to "what do we do now"**. [Pragmatism](/notes/pragmatism.md)
+Often what makes this shift easier is to accept the [inescapability](/notes/fatalism.md) of change. When we realize that **change is and will happen and there's nothing we can do to prevent it, we can shift our focus to "what do we do now"**. [Truth and goodness are defined by practical usefulness](/notes/truth-and-goodness-are-defined-by-practical-usefulness.md)
 
-And to make it slightly more encouraging, the nature of change is what provides our life meaning, because it creates [scarcity](/notes/scarcity.md). It is because we know that we only have x years/months before something happens or ends, we cherish it more [Fleetingness](/notes/fleetingness.md).
+And to make it slightly more encouraging, the nature of change is what provides our life meaning, because it creates [Scarcity forces prioritization when resources are limited](/notes/scarcity-forces-prioritization-when-resources-are-limited.md). It is because we know that we only have x years/months before something happens or ends, we cherish it more [Experiences are unique because they are fleeting and irreplaceable](/notes/experiences-are-unique-because-they-are-fleeting-and-irreplaceable.md).
 
 :::note[Open to the Flow of Life]
 
@@ -132,11 +162,11 @@ And to make it slightly more encouraging, the nature of change is what provides 
 
 #### Expect it to Be Hard
 
-Our [subjective reality](/notes/subjective-reality.md) is highly influenced by our [expectations](/notes/expectations.md). Our mind constantly tries to [predict](/notes/prediction.md) what is going to happen and prepares in advance as if it is already happening. When reality exceeds our expectations we are happy, and when it fails it we are sad and frustrated. This means that the best way to promote our wellbeing is by shifting our expectations first. [Happiness is contentment](/notes/happiness-is-contentment.md)
+Our [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md) is highly influenced by our [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md). Our mind constantly tries to [predict](/notes/prediction.md) what is going to happen and prepares in advance as if it is already happening. When reality exceeds our expectations we are happy, and when it fails it we are sad and frustrated. This means that the best way to promote our wellbeing is by shifting our expectations first. [Happiness is contentment](/notes/happiness-is-contentment.md)
 
-That's why the worst thing for happiness is expecting to be happy all the time. Instead we should strive for tragic [optimism](/notes/optimism.md), which is to acknowledge the inescapability of pain on the one hand, yet know that we often have a way to handle it, like "it will be difficult but we will overcome". If reality turns out to be as bad as you thought, at least you are prepared. If it turns better than you thought, you will be happy and at ease. That's a [win win situations](/notes/win-win-situations.md).
+That's why the worst thing for happiness is expecting to be happy all the time. Instead we should strive for tragic [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md), which is to acknowledge the inescapability of pain on the one hand, yet know that we often have a way to handle it, like "it will be difficult but we will overcome". [Tragic optimism acknowledges suffering as inevitable while affirming our capacity to respond](/notes/tragic-optimism-acknowledges-suffering-as-inevitable-while-affirming-our-capacity-to-respond.md) If reality turns out to be as bad as you thought, at least you are prepared. If it turns better than you thought, you will be happy and at ease. That's a [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md).
 
-Expectations and especially resistance are like [Multiplier](/notes/multiplier.md) for pain. The more we resist to pain and [Challenge](/notes/struggle.md), the feeling of pain grows exponentially.
+Expectations and especially resistance are like [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) for pain. The more we resist to pain and [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md), the feeling of pain grows exponentially. [Resistance amplifies suffering beyond the original source of pain](/notes/resistance-amplifies-suffering-beyond-the-original-source-of-pain.md)
 
 :::note[Expect It to Be Hard]
 
@@ -156,9 +186,9 @@ Expectations and especially resistance are like [Multiplier](/notes/multiplier.m
 
 #### Cultivate a Fluid Sense of Self
 
-A flexible, strong identity is a [complex](/notes/diversity.md) one. When we focus too much on just one thing, when we tie our identity to a single pursuit, anxiety and stress follows. We become dependent on the one thing, and if it fails then so do we. That's why we should [multitrack](/notes/multitrack.md), to nurture several aspects of our identity simultaneously. For example being a good friend, playing a sport, have hobbies, etc.
+A flexible, strong identity is a [complex](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md) one. When we focus too much on just one thing, when we tie our identity to a single pursuit, anxiety and stress follows. We become dependent on the one thing, and if it fails then so do we. That's why we should [Generating multiple alternatives simultaneously improves outcomes](/notes/generating-multiple-alternatives-simultaneously-improves-outcomes.md), to nurture several aspects of our identity simultaneously. For example being a good friend, playing a sport, have hobbies, etc.
 
-In addition to maintaining the richness of our inner identity [A person is a community](/notes/a-person-is-a-community.md), so must we nourish our external one. We are forever influenced by the [context](/notes/context.md) of our surroundings. We are defined [interpersonal identity](/notes/interpersonal-identity.md) and think [extended mind](/notes/extended-mind.md) with others. By connecting, listening and being influenced by the world around us, we open ourselves for great development of character which would strengthen our resilience and flexibility.
+In addition to maintaining the richness of our inner identity [A person is a community](/notes/a-person-is-a-community.md), so must we nourish our external one. We are forever influenced by the [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md) of our surroundings. We are defined [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md) and think [Thinking extends beyond the brain to environment and society](/notes/thinking-extends-beyond-the-brain-to-environment-and-society.md) with others. By connecting, listening and being influenced by the world around us, we open ourselves for great development of character which would strengthen our resilience and flexibility.
 
 **Our identity has to be dynamic, and we should change it based on whether who we are currently helps "us" or not**, if it is a hindrance to our wellbeing. [change starts from the inside out](/notes/change-starts-from-the-inside-out.md).
 
@@ -174,7 +204,7 @@ Always hold in your heart that we contain multitudes, we are both who we are now
 
 #### Develop Rugged and Flexible Boundaries
 
-**Fluid identity doesn't mean simply flowing without any direction**. Like a river, we need banks to make sure we are on the right track. For us humans these are our [core values](/notes/core-values.md), they are our guide into the unknown, when everything is changing, we can trust ourselves to follow these values and find the next step in each situation. [virtue theory](/notes/virtue-theory.md). They make sure we don't "lose ourselves" due to over fluidity, yet are still capable of change. They are the glue between all our identities, present and future. They provide direction for our choices and actions. Flexible identity is therefore the harmony between the ever-changing circumstances and your values.
+**Fluid identity doesn't mean simply flowing without any direction**. Like a river, we need banks to make sure we are on the right track. For us humans these are our [Core values guide authentic identity and moral action](/notes/core-values-guide-authentic-identity-and-moral-action.md), they are our guide into the unknown, when everything is changing, we can trust ourselves to follow these values and find the next step in each situation. [Cultivating virtues creates a good moral character](/notes/cultivating-virtues-creates-a-good-moral-character.md). They make sure we don't "lose ourselves" due to over fluidity, yet are still capable of change. They are the glue between all our identities, present and future. They provide direction for our choices and actions. Flexible identity is therefore the harmony between the ever-changing circumstances and your values.
 
 Values might change over time, but this is a long and deep process. More often, what changes is not our values but how we actualize or follow them.
 
@@ -190,17 +220,17 @@ Values might change over time, but this is a long and deep process. More often, 
 
 #### Respond not React
 
-First we must accept that some things are simply beyond our control. However it is not always easy to differentiate between the two. We might experience *target fixation*, we become so focused on something that we lose control over it. Whether it is an external goal we pursue or an emotion that it taking over us [emotional hijacking](/notes/emotional-hijacking.md). The key is to [Zoom out](/notes/zoom-out.md), what the Japanese call *zanshin*, to focus on your surroundings and how you interact with it instead of your goal.
+First we must accept that some things are simply beyond our control. However it is not always easy to differentiate between the two. We might experience *target fixation*, we become so focused on something that we lose control over it. Whether it is an external goal we pursue or an emotion that it taking over us [Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md). The key is to [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md), what the Japanese call *zanshin*, to focus on your surroundings and how you interact with it instead of your goal.
 
-We are constantly either focused on feeling, on experiencing and going all out with our emotions [System 1](/notes/system-1.md), or we are seeking, gaining perspective and thinking clearly and creatively about the situation [System 2](/notes/system-2.md). These modes of thinking are [Mutually Exclusive](/notes/crowding-out.md), so the more we focused on seeking, the less "enraged" we will be.
+We are constantly either focused on feeling, on experiencing and going all out with our emotions [Automatic thinking processes drive fast emotional responses](/notes/automatic-thinking-processes-drive-fast-emotional-responses.md), or we are seeking, gaining perspective and thinking clearly and creatively about the situation [System 2 enables deliberate analytical thinking for complex problems](/notes/system-2-enables-deliberate-analytical-thinking-for-complex-problems.md). These modes of thinking are [Mutually Exclusive](/notes/one-activity-displaces-another-when-pursued-excessively.md), so the more we focused on seeking, the less "enraged" we will be.
 
-Another issue that can help us identify what's within our control is to simply try. Making a difference is often an issue of [momentum](/notes/momentum.md). **We don't have to be confident or motivational in order to start doing, it's the reverse. By doing we become motivated** and [Confident](/notes/self-worth.md) [fake it till you make it](/notes/fake-it-till-you-make-it.md). When we are more confident, change is less scary because we know we are able to do something about it. [Reverse Thinking](/notes/reverse-thinking.md)
+Another issue that can help us identify what's within our control is to simply try. Making a difference is often an issue of [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md). **We don't have to be confident or motivational in order to start doing, it's the reverse. By doing we become motivated** and [Confident](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md) [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md). When we are more confident, change is less scary because we know we are able to do something about it. [Flipping assumptions reveals hidden possibilities and better solutions](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md)
 
 This doesn't mean that we have to instantly react to change. Instead we need to *pause, process, plan and proceed*.
 
-First we need to [pause](/notes/rest.md), to gain some [cognitive distancing](/notes/cognitive-distancing.md) by noticing and [Labeling](/notes/naming.md) what we are feeling. Often just naming our emotions removes their control over us. Other options of pausing is taking a [nature walk](/notes/nature-walk.md) or [Meditation](/notes/meditation.md)
+First we need to [pause](/notes/rest-enables-recovery-and-sustained-performance.md), to gain some [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md) by noticing and [Labeling](/notes/naming-a-phenomenon-gives-us-power-over-it.md) what we are feeling. Often just naming our emotions removes their control over us. Other options of pausing is taking a [Nature restores mental health and renews focus through immersive presence](/notes/nature-restores-mental-health-and-renews-focus-through-immersive-presence.md) or [Meditation strengthens focus and mindfulness through intentional presence](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md)
 
-Then we must process and plan. To use this distance from the situation to approach it with [curiosity](/notes/curiosity.md), as a riddle that needs an answer, and not a crisis that's overwhelming. Think of it as something that happens to a friend, what would you recommend to him? Or imagine future you years after this, how would he react?
+Then we must process and plan. To use this distance from the situation to approach it with [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md), as a riddle that needs an answer, and not a crisis that's overwhelming. Think of it as something that happens to a friend, what would you recommend to him? Or imagine future you years after this, how would he react?
 
 Lastly we should proceed, which is to follow through with our plan the best way we can.
 
@@ -218,18 +248,18 @@ Lastly we should proceed, which is to follow through with our plan the best way 
 
 **Converting a traumatic event to a moment of growth can't always be forced, and usually takes time**. If we try too hard to "see the bright side", we might be [decepting](/notes/deception.md) ourselves and minimizing our experience.
 
-At first, it is better to practice [Self-compassion](/notes/self-compassion.md) than anything else. To accept that sometimes life just suck, and not everything has clearly visible and convenient meaning. We should [validate](/notes/validation.md) our own emotions instead of trying to suppress them, and remember that like physical healing, mental healing also takes time.
+At first, it is better to practice [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md) than anything else. To accept that sometimes life just suck, and not everything has clearly visible and convenient meaning. We should [validate](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md) our own emotions instead of trying to suppress them, and remember that like physical healing, mental healing also takes time.
 
-The intensity of the situation and the [Availability Bias](/notes/availability-bias.md), the fact that the trauma is the last serious thing we have experienced, causes it to feel stronger and longer than it actually was, and worst of all it causes to feel like this is the new normal, we would be depressed, fearful and stressed forever, and things will never change. **The most comforting advice is that what feels like forever now, won't feel this way in the future**. You will rise out of it, with time you could reflect back and search for meaning, and thanks to the [Hedonic Treadmill](/notes/hedonic-treadmill.md) your feelings will balance back.
+The intensity of the situation and the [Availability bias inflates perceived likelihood of easily recalled events](/notes/availability-bias-inflates-perceived-likelihood-of-easily-recalled-events.md), the fact that the trauma is the last serious thing we have experienced, causes it to feel stronger and longer than it actually was, and worst of all it causes to feel like this is the new normal, we would be depressed, fearful and stressed forever, and things will never change. **The most comforting advice is that what feels like forever now, won't feel this way in the future**. You will rise out of it, with time you could reflect back and search for meaning, and thanks to the [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) your feelings will balance back.
 
 Common methods of converting trauma into growth
-1. **Connection to higher power** - Feeling connected to something larger than ourselves, to shared humanity, to community, to nature, to [Surrender](/notes/leap-into-faith.md) our hopes of complete dominance over our lives, and understand that we are only capable of so much.
-2. **Ask for help** - United we stand, alone we fall. We need to express our [Vulnerability](/notes/vulnerability.md), to connect to others, to find those who experienced similar things and managed to climb out of the hole we are in, to make us feel heard, seen, understood [peer support](/notes/peer-support.md)
-3. **Routines** - Find the small things that keep you in line, and even give you meaning and happiness. This could be work, training, reading, taking a walk, whatever it is that gives you structure. [trust the process](/notes/trust-the-process.md)
+1. **Connection to higher power** - Feeling connected to something larger than ourselves, to shared humanity, to community, to nature, to [Surrender](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md) our hopes of complete dominance over our lives, and understand that we are only capable of so much.
+2. **Ask for help** - United we stand, alone we fall. We need to express our [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md), to connect to others, to find those who experienced similar things and managed to climb out of the hole we are in, to make us feel heard, seen, understood [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
+3. **Routines** - Find the small things that keep you in line, and even give you meaning and happiness. This could be work, training, reading, taking a walk, whatever it is that gives you structure. [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
 4. **Real vs fake tired** - try to notice whether the exhaustion your feel is physical or emotional. Try to do less and sleep more at the beginning, but if it doesn't go away, that means you are "stuck in a runt" and need to push yourself into doing, and further rest will only bring you down
-5. **Control and compassion** - we need both [Self Dicipline](/notes/self-control.md) to push ourselves out of a crisis, but also self compassion to support ourselves through these hard times.
+5. **Control and compassion** - we need both [Self Dicipline](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) to push ourselves out of a crisis, but also self compassion to support ourselves through these hard times. [Recovering from hardship requires both self-discipline and self-compassion](/notes/recovering-from-hardship-requires-both-self-discipline-and-self-compassion.md)
 
-Suffering is never fun, but that's the price we pay for expressing our humanity, for loving, caring, daring and doing. There can be no one without the other. And the bright side is that it gets a bit easier with time, the more we learn to deal with changes.
+Suffering is never fun, but that's the price we pay for expressing our humanity, for loving, caring, daring and doing. There can be no one without the other. [Life is pain](/notes/life-is-pain.md) And the bright side is that it gets a bit easier with time, the more we learn to deal with changes.
 
 :::note[Making Meaning and Moving Forward]
 

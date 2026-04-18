@@ -3,8 +3,8 @@ excalidraw-plugin: parsed
 tags: []
 UUID: 20240207083656
 Created: '2024-02-07 08:36'
-Modified: '2026-03-23 19:15'
-Version: '2'
+Modified: '2026-04-11 22:32'
+Version: 3
 aliases: null
 excalidraw-open-md: true
 excalidraw-autoexport: png
@@ -13,6 +13,10 @@ Description: >-
   A classification of challenges based on complexity, ranging from simple tasks
   requiring minimal experience to complicated tasks that, despite best
   practices, yield variable outcomes.
+Topic:
+  - '[[Decision Making (Map)|problem management]]'
+Origin: '[[The Checklist Manifesto (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -39,8 +43,3 @@ Problems also vary by when they are addressed. [Handle problems while they are s
 ## Visual
 
 ![Problems](/notes/problems.webp)
-
-## Overview
-🔼Topic:: [problem management](/mocs/decision-making-map.md)
-↩️Origin:: [The Checklist Manifesto (book)](/books/the-checklist-manifesto-book.md)
-🔗Link:: 

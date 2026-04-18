@@ -1,13 +1,13 @@
 ---
 UUID: 20240112064933
 Created: '2024-01-12 06:49'
-Modified: '2026-04-08 15:19'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Hustle Culture
   - Busyness
@@ -17,6 +17,10 @@ Description: >-
   material success over personal well-being, often leading to burnout and a
   distorted sense of fulfillment.
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ It is like the tale about the businessman who meets a fisherman, that suggests h
 ## Visual
 
 ![Hustle Culture](/notes/hustle-culture.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-↩️Origin::
-🔗Link::
-

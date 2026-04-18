@@ -1,13 +1,13 @@
 ---
 UUID: 20250402203430
 Created: '2025-04-02 20:34'
-Modified: '2026-04-05 21:51'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Quantifiable self
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   measurement of behavior over time, cautioning against the McNamara Fallacy of
   prioritizing only what is measurable.
 new_schema: true
+Topic:
+  - '[[Self-Tracking and Reflection]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -44,8 +48,3 @@ As with other quantitative measurements, it's important to avoid the [Treating m
 ### Open questions
 
 ## Visual
-
-## Overview
-🔼Topic:: [Self-Tracking and Reflection](/notes/self-tracking-and-reflection.md)
-↩️Origin::
-🔗Link::

@@ -1,13 +1,13 @@
 ---
 UUID: 20230328192618
 Created: '2023-03-28 19:26'
-Modified: '2026-04-09 09:00'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Lifelong Learning
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   adapt to changing circumstances and avoid obsolescence, emphasizing growth,
   consistency, and a beginner's mindset.
 new_schema: true
+Topic:
+  - '[[Learning Through Experience]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ Having a lifelong learning mindset, we need to:
 ## Visual
 
 ![Lifelong Learning](/notes/lifelong-learning.webp)
-
-## Overview
-🔼Topic:: [Learning Through Experience](/notes/learning-through-experience.md)
-◀Origin::
-🔗Link::
-

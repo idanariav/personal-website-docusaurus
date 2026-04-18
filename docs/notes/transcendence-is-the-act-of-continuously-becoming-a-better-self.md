@@ -1,13 +1,13 @@
 ---
 UUID: 20240101082728
 Created: '2024-01-01 08:27'
-Modified: '2026-04-08 13:48'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Transcendence
   - Transcendence
@@ -16,6 +16,10 @@ Description: >-
   self-knowledge, self-compassion, and determination, focusing on continuous
   growth rather than a final goal.
 new_schema: true
+Topic:
+  - '[[Growth Through Adversity]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -58,9 +62,3 @@ We can develop transcendence by:
 ## Visual
 
 ![transcendence](/notes/transcendence.webp)
-
-## Overview
-🔼Topic:: [Growth Through Adversity](/notes/growth-through-adversity.md)
-↩️Origin::
-🔗Link::
-

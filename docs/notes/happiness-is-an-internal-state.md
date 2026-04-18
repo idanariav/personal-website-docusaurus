@@ -1,8 +1,8 @@
 ---
 UUID: 20230410071753
 Created: '2023-04-10 07:17'
-Modified: '2026-04-08 15:23'
-Version: 2
+Modified: '2026-04-11 22:22'
+Version: 3
 tags: []
 aliases: null
 excalidraw-plugin: parsed
@@ -14,6 +14,10 @@ Description: >-
   arises from within, independent of external circumstances or factors, and is
   ultimately a conscious choice.
 new_schema: true
+Topic:
+  - '[[Happiness (Nature and Sources)]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -47,9 +51,3 @@ This doesn't mean that being happy is a simple choice, we often feel overwhelmed
 ## Visual
 
 ![Happiness is an internal state](/notes/happiness-is-an-internal-state.webp)
-
-## Overview
-🔼Topic:: [Happiness (Nature and Sources)](/notes/happiness-nature-and-sources.md)
-◀Origin::
-🔗Link:: 
-

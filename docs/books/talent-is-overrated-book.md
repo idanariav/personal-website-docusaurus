@@ -1,50 +1,64 @@
 ---
 UUID: 20240119063316
 Created: '2024-01-19 06:33'
-Modified: '2024-10-22 05:55'
+Modified: '2026-04-13 06:18'
 tags: []
+FullTitle: >-
+  Talent is Overrated - What Really Separates World-Class Performers from
+  Everybody Else
+Description: >-
+  It argues that peak performance arises solely from dedicated practice, not
+  innate talent. Intrinsic motivation can be fostered through early recognition
+  of success, and improvement necessitates both directed efforts and the freedom
+  to innovate, allowing for exploration and potential failure.
 Author:
   - '[[Geoffrey Colvin]]'
+URL: 'https://www.goodreads.com/book/show/4485966-talent-is-overrated'
+Cover: >-
+  http://books.google.com/books/content?id=PQrtV67iqgEC&printsec=frontcover&img=1&zoom=1&source=gbs_api
 Genre: Performance
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B001HD8NZ8
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 244
+Reread: 0
 Rate: 3
 PublishDate: 2008
+StartDate: 2024-02-02T00:00:00.000Z
 FinishDate: 2024-02-13T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=PQrtV67iqgEC&printsec=frontcover&img=1&zoom=1&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/4485966-talent-is-overrated'
+Image: null
 aliases: []
+Topic:
+  - '[[Mastery requires deliberate practice and hard work, not innate talent]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Talent is Overrated
 
-## 🔗Connect
-🔼Topic:: [Mastery](/notes/mastery.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Peak performance is only through practice** - Not innate talent, genetics, experience or intelligence, there is no explanation to peak performance other than having a challenging, demanding set of practices during a long period. Thinking that it's a matter of talent and no effort is a myth, and a harmful one.
 2. **Motivation is cultivated** - One can develop intrinsic motivation for a field if they are acknowledged of their relative success early on compared to their peers.
 3. **Improvement requires direction and freedom** - to improve at something, both as a person and as an organization, requires both the direction to make sure creative effort are solving the most dire problem, but also the freedom to experiment and explore new ways of problem solving, at the risk of failing more.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -53,22 +67,22 @@ SiteProcssed: true
 🧱 *Implementations and limitations of it are...*
 The unfortunate tone of the book is that if you haven't started something at a young age, there is little chance you will achieve greatness later in life, because you just don't have the time to truly compete
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book gives a good intro to the concept of deliberate practice, perhaps I would read it before reading [Peak (book)](/books/peak-book.md) that dives deeper into deliberate practice but expands less on the general topic of talent.
 
-### 🖼️Outline
+### Outline
 
-![Talent is Overrated (book).webp](/books/talent-is-overrated-book.webp)
+![Talent is Overrated (book)](/books/talent-is-overrated-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### The Mystery
 
 How do you reach peak performance? **Experience, i.e time invested training is not enough. It will get you to "okay", but not to extraordinary**. This leads us to believe that peak training is an issue of innate talent, which is simply wrong.
 
-The answer is [Deliberate Practice](/notes/deliberate-practice.md). Nowadays, it is more crucial than before to understand how to achieve greatness. Due to [Globalization](/notes/globalization.md) and [Complexity](/notes/complexity.md), the average workers are either replaced by cheaper ones, or simply don't shine enough to succeed/being hired. **Today the scarce resource is not money but human capital**.
+The answer is [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md). Nowadays, it is more crucial than before to understand how to achieve greatness. Due to [Globalization intensifies competition and forces specialization](/notes/globalization-intensifies-competition-and-forces-specialization.md) and [Complexity](/notes/complexity.md), the average workers are either replaced by cheaper ones, or simply don't shine enough to succeed/being hired. **Today the scarce resource is not money but human capital**.
 
 **The rise of talented people in the modern era is a result of a change in how we train, not our genetics**.
 
@@ -85,9 +99,9 @@ The answer is [Deliberate Practice](/notes/deliberate-practice.md). Nowadays, it
 
 ### Talent is Overrated
 
-**Natural [Competence](/notes/competence.md) doesn't exist**. Top performance has to include many hours spent training. Innate talent might give you a head start, but you will be left behind if you don't combine it with rigorous training.
+**Natural [Competence is developed through practice not innate talent](/notes/competence-is-developed-through-practice-not-innate-talent.md) doesn't exist**. Top performance has to include many hours spent training. Innate talent might give you a head start, but you will be left behind if you don't combine it with rigorous training.
 
-Talent is more like a myth we use to explain things we don't understand how they came about. But research shows that talent, at least in young age, has no correlation with peak performance later in life, and even in the best case, it serves as a "self fulfilling prophecy" for the parents that decide to dedicate time and money in developing the kids potential, which brings the actual improvements in skills. [fake it till you make it](/notes/fake-it-till-you-make-it.md)
+Talent is more like a myth we use to explain things we don't understand how they came about. But research shows that talent, at least in young age, has no correlation with peak performance later in life, and even in the best case, it serves as a "self fulfilling prophecy" for the parents that decide to dedicate time and money in developing the kids potential, which brings the actual improvements in skills. [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md)
 
 Even exceptional cases like tiger woods, Mozart and Bill Gates are actually an example of early age training rather than innate talent
 
@@ -100,7 +114,7 @@ Even exceptional cases like tiger woods, Mozart and Bill Gates are actually an e
 
 ### How Smart Do You Have to Be?
 
-**There is also no correlation between general intelligence, aka IQ and performance.** Putting aside that question of the varsity of types of intelligence and ways to measure it. Whether it is memory, personality traits, or specific skills, it can be taught, we can develop and change ourselves [Growth Mindset](/notes/growth-mindset.md). Experts rely more on "mental images" [Mental Representations](/notes/mental-representations.md) rather than brute memory.
+**There is also no correlation between general intelligence, aka IQ and performance.** Putting aside that question of the varsity of types of intelligence and ways to measure it. Whether it is memory, personality traits, or specific skills, it can be taught, we can develop and change ourselves [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md). Experts rely more on "mental images" [We store knowledge as visual mental models](/notes/we-store-knowledge-as-visual-mental-models.md) rather than brute memory.
 
 So it seems that just experience, innate talent, or general intelligence are not the factors that explain performance, so what is?
 
@@ -129,20 +143,20 @@ Those who get better are those who are willing to face the challenges of getting
 ### What Deliberate Practice is and Isn't
 
 The components of deliberate practice:
-1. **Mentor** - having an expert as an external viewer to see things that you can't see [Mentor](/notes/mentor.md)
-2. **Chunking** - the goal of the training would be to improve at a specific part of the overall skill until it has reached a sufficient level of mastery [Chunking](/notes/chunking.md)
-3. **Challenging** - the practice should always be hard enough to help us grow. We can imagine this as stepping out of the innermost circle, aka the "comfort zone", into the middle circle, aka the "learning zone", but not too far into the outermost layer, aka the "panic zone", where it is too difficult to operate [Challenge](/notes/struggle.md)
-4. **Adaptive** - we shouldn't just do what we have done in the past. The practice should evolve with time, both to take advantage of new knowledge that has been gathered in the field, and to keep the practice useful [Adaptability](/notes/adaptability.md)
-5. **Feedback** - feedback on our performance should be constant, clear and immediate. without feedback we won't improve and lack motivation [Feedback](/notes/feedback.md)
+1. **Mentor** - having an expert as an external viewer to see things that you can't see [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md)
+2. **Chunking** - the goal of the training would be to improve at a specific part of the overall skill until it has reached a sufficient level of mastery [Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.md)
+3. **Challenging** - the practice should always be hard enough to help us grow. We can imagine this as stepping out of the innermost circle, aka the "comfort zone", into the middle circle, aka the "learning zone", but not too far into the outermost layer, aka the "panic zone", where it is too difficult to operate [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md)
+4. **Adaptive** - we shouldn't just do what we have done in the past. The practice should evolve with time, both to take advantage of new knowledge that has been gathered in the field, and to keep the practice useful [Our beliefs must adapt as context and goals change](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md)
+5. **Feedback** - feedback on our performance should be constant, clear and immediate. without feedback we won't improve and lack motivation [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md)
 6. **Repetition** - practice is a process, and results take time [gradual process](/notes/gradual-process.md)
 
 However, deliberate practice is not that determines performance, we should still account for:
-1. **Luck** - both conditions and opportunities that affect our success [Luck](/notes/luck.md)
-2. **Environment** - the way our environment is shaped that affects our ability to train and improve [Environmental design](/notes/nudge.md)
-3. **Motivation** - aka [Intrinsic Motivation](/notes/intrinsic-motivation.md) and [Grit](/notes/grit.md), which determines our ability to stick to training
-4. **Genetics** - while it is a [nature vs nurture](/notes/nature-vs-nurture.md) discussion, genes might still play a role as to your level of passion towards a field, but not your limit in it
+1. **Luck** - both conditions and opportunities that affect our success [Luck is external randomness affecting outcomes beyond control](/notes/luck-is-external-randomness-affecting-outcomes-beyond-control.md)
+2. **Environment** - the way our environment is shaped that affects our ability to train and improve [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
+3. **Motivation** - aka [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) and [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md), which determines our ability to stick to training
+4. **Genetics** - while it is a [Nature vs nurture](/notes/nature-vs-nurture.md) discussion, genes might still play a role as to your level of passion towards a field, but not your limit in it
 
-We should remember that deliberate practice forces us to be [mindful](/notes/intentionality.md) of our actions, since we are constantly trying to improve, **we can't allow ourselves to stop when it has become automated, because this is only the "good enough" level, but not excellent**.
+We should remember that deliberate practice forces us to be [mindful](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) of our actions, since we are constantly trying to improve, **we can't allow ourselves to stop when it has become automated, because this is only the "good enough" level, but not excellent**.
 
 :::note[What Deliberate Practice Is and Isn’t]
 
@@ -158,7 +172,7 @@ We should remember that deliberate practice forces us to be [mindful](/notes/int
 
 ### How Deliberate Practice Works
 
-Experts are better because they perceive and process information differently [Intuition](/notes/intuition.md), by :
+Experts are better because they perceive and process information differently [Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md), by :
 
 "seeing more":
 1. **Seeing smaller details** - they can pick up on small details that novices either miss or mark as unimportant
@@ -167,7 +181,7 @@ Experts are better because they perceive and process information differently [In
 
   "know more":
   1. **Better understanding** - have more expertise in their field
-  2. **Better memory** - They have easier memory storage and recollection. Compare for example trying to memorize words in a language you so not know vs one you do. In the unfamiliar one, you would be able to memorize a few letters at best. In the native one, it's not that you are able to remember more "chunks" of information, but rather the size of those chunks is bigger (chunking). Instead of letters, it could be complete words, or even sentences. The requirement is that it will maintain the logic we are familiar with. When comparing random chess board distributions, experts don't outperform the novices. It is the familiarity + logical settings that allow experts to increase their chunk size and have better [Working Memory](/notes/working-memory.md).
+  2. **Better memory** - They have easier memory storage and recollection. Compare for example trying to memorize words in a language you so not know vs one you do. In the unfamiliar one, you would be able to memorize a few letters at best. In the native one, it's not that you are able to remember more "chunks" of information, but rather the size of those chunks is bigger (chunking). Instead of letters, it could be complete words, or even sentences. The requirement is that it will maintain the logic we are familiar with. When comparing random chess board distributions, experts don't outperform the novices. It is the familiarity + logical settings that allow experts to increase their chunk size and have better [Full working memory reduces focus and task performance](/notes/full-working-memory-reduces-focus-and-task-performance.md).
 
 :::note[How Deliberate Practice Works]
 
@@ -209,7 +223,7 @@ Besides these models, it is important to focus on our implementation on three di
 
 ### Applying the Principles in Our Organization
 
-**To apply deliberate practice in your organization means to focus on people development** [People First](/notes/people-first.md), not just on the team leader level, but all the way from the CEO to the newest worker.
+**To apply deliberate practice in your organization means to focus on people development** [People are the most valuable organizational resource](/notes/people-are-the-most-valuable-organizational-resource.md), not just on the team leader level, but all the way from the CEO to the newest worker.
 The ways to improve workers are:
 1. **Job assignment** - usually we divide work based on existing skill level. The goal however is to assign based on development potential, which means not necessarily the best worker for the task will get it, but rather the one who can develop from it the most
 2. **Mentoring** - assigning employees and leaders to mentor new workers, provide instant, candid and clear feedback
@@ -218,7 +232,7 @@ The ways to improve workers are:
 **Nowadays, employee's development is essential to success, no longer a luxury**. Similarly, it is essential to focus not just on individuals but on teams as well.
 Team building is a skill that can make or break a team.
 
-The main points to focus on are unified goal, [Trust](/notes/trust.md), and [Transparency](/notes/transparency.md). Make sure hierarchy and ego are not in the teams culture. **Usually smaller teams that don't replace members often have easier time develop these traits**
+The main points to focus on are unified goal, [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md), and [Transparency requires actively revealing truth to others](/notes/transparency-requires-actively-revealing-truth-to-others.md). Make sure hierarchy and ego are not in the teams culture. **Usually smaller teams that don't replace members often have easier time develop these traits**
 
 :::note[Applying the Principles in Our Organizations]
 
@@ -229,11 +243,11 @@ The main points to focus on are unified goal, [Trust](/notes/trust.md), and [Tra
 
 ### Preforming Great at Innovation
 
-Nowadays innovation is key for success. Business models last only a few years before they are replaced by a better alternative. The need for [Innovation](/notes/innovation.md) has never been higher.
+Nowadays innovation is key for success. Business models last only a few years before they are replaced by a better alternative. The need for [Innovation is generating something genuinely new that hasn't existed before](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md) has never been higher.
 
 **Creativity is not a eureka moment, it is the result of a long process where we immerse ourselves within our field**, when we know exactly all the nuances and limits and find the hidden answers that are revealed only to experts. Knowledge is essential to the creative process, without it we would be left with the shallow low hanging fruits that have been collected years ago. Remember that even for those who practice often, it usually takes about 10 years to reach peak performance.
 
-Organizations often lack innovation because they fail to support the creativity of their employees. **Organizational innovation is the result of company culture, which is directed from above**. Employees should be told where innovation is needed (for example, we need a better solution in our logistic line) and giving them the freedom to explore. Like googles 10% free time, it is maybe risky to waste their time working on ineffective ideas, but it is even riskier to not innovate. Only through employee's innovation a company can have it's [Competitive Advantage](/notes/competitive-advantage.md)
+Organizations often lack innovation because they fail to support the creativity of their employees. **Organizational innovation is the result of company culture, which is directed from above**. Employees should be told where innovation is needed (for example, we need a better solution in our logistic line) and giving them the freedom to explore. Like googles 10% free time, it is maybe risky to waste their time working on ineffective ideas, but it is even riskier to not innovate. Only through employee's innovation a company can have it's [Finding your unique strength creates sustainable advantage](/notes/finding-your-unique-strength-creates-sustainable-advantage.md)
 
 :::note[Performing Great at Innovation]
 
@@ -250,13 +264,13 @@ Organizations often lack innovation because they fail to support the creativity 
 
 ### Great Performance in Youth and Age
 
-Since expertise takes time, it is no surprise that most of the high achievers started early. Not only that children have more free time to use for studying, it is also biologically more efficient to do so. [Range](/notes/breath-beats-depth.md). However no one succeeds alone, our environment, from society and culture to our family has great implications on our ability to stick to deliberate practice and maintain a sense of [Flow](/notes/flow.md).
+Since expertise takes time, it is no surprise that most of the high achievers started early. Not only that children have more free time to use for studying, it is also biologically more efficient to do so. [Range](/notes/breath-beats-depth.md). However no one succeeds alone, our environment, from society and culture to our family has great implications on our ability to stick to deliberate practice and maintain a sense of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md).
 
 The environment has to be both:
-1. **Stimulating** - encouraging the children's [Curiosity](/notes/curiosity.md), and many opportunities for learning
+1. **Stimulating** - encouraging the children's [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md), and many opportunities for learning
 2. **Supportive** - a place of trust, where has its own role, and they help each other fulfill it.
 
-Deliberate practice also helps us to avoid the damages of aging in the skills relevant to our domain. These can be both physical and mental capabilities. The mind maintains it's[Neuroplasticity](/notes/neuroplasticity.md) as long as we continue to train it.
+Deliberate practice also helps us to avoid the damages of aging in the skills relevant to our domain. These can be both physical and mental capabilities. The mind maintains it's[The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md) as long as we continue to train it.
 
 :::note[Great Performance in Youth and Age]
 
@@ -274,7 +288,7 @@ Deliberate practice also helps us to avoid the damages of aging in the skills re
 It is noticeable that high achievers continue to do rigid practices because they enjoy it, they are full of intrinsic motivation. **It is known that intrinsic motivation is not only stronger as a source of motivation for the long term, but it is also better at encouraging creativity, which is essential for peak performance**.
 
 But where does it come from?
-Their answer is a little push or advantage that sets a [Multiplier](/notes/multiplier.md) effect in action. This advantage means that the person is slightly better than others (of their age) in the field, and it is noticeable and praised by their environment (could be parents, school, community). T**his sparks motivation for further practice, which improves the skill, which increases the gap, and so forth**. By the time they meet their equals, they have already developed the internal motivation for this field.
+Their answer is a little push or advantage that sets a [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) effect in action. This advantage means that the person is slightly better than others (of their age) in the field, and it is noticeable and praised by their environment (could be parents, school, community). T**his sparks motivation for further practice, which improves the skill, which increases the gap, and so forth**. By the time they meet their equals, they have already developed the internal motivation for this field.
 
 This advantage can be the result of a biological trait, but also the way parents treat the child and help them explore their interest and develop their skills. All it takes is the first investment of practices and the immediate worthwhile results, and the rest would come. This means that development is an issue of belief, do you believe in a growth mindset or a fixed mindset?
 

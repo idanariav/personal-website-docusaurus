@@ -1,13 +1,13 @@
 ---
 UUID: 20230418064920
 Created: '2023-04-18 06:49'
-Modified: '2026-04-08 15:22'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Stress
 Description: >-
@@ -15,6 +15,11 @@ Description: >-
   transformed into a motivating challenge through perception, preparation, and
   controlled exposure, enhancing resilience and performance.
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+  - '[[Emotional resilience enables managing hardship and maintaining composure]]'
+Origin: '[[The extended mind (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -59,11 +64,3 @@ Those who manage to handle stress prepare in advance for the moment to come, lik
 ## Visual
 
 ![Stress](/notes/stress.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-🔼Topic:: [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md)
-Origin:: [The extended mind (book)](/books/the-extended-mind-book.md)
-◀Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)
-🔗Link::
-

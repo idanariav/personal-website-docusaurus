@@ -1,13 +1,13 @@
 ---
 UUID: 20231002192928
 Created: '2023-10-02 19:29'
-Modified: '2026-04-04 10:59'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - self talk
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   compassionate and objective manner, to gain perspective, wisdom, and emotional
   resilience during challenging situations.
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: '[[Chatter (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -57,9 +61,3 @@ These aspects combined allow us to undergo a moment of [Critical moments force e
 ## Visual
 
 ![self talk](/notes/self-talk.webp)
-
-## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-Origin:: [Chatter (book)](/books/chatter-book.md)
-🔗Link::
-

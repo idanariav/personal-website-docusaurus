@@ -1,13 +1,13 @@
 ---
 UUID: 20250308120758
 Created: '2025-03-08 12:07'
-Modified: '2026-04-10 06:22'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Shallow copy
   - Proxy
@@ -18,6 +18,10 @@ Description: >-
   details, leading to a misunderstanding of the original concept or experience
   it aims to depict.
 new_schema: true
+Topic:
+  - '[[Nature and Limits of Knowledge]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,8 +59,3 @@ However, sometimes we would want to purposefully use a shallow copy, because it 
 ## Visual
 
 ![shallow copy](/notes/shallow-copy.webp)
-## Overview
-🔼Topic:: [Nature and Limits of Knowledge](/notes/nature-and-limits-of-knowledge.md)
-↩️Origin::
-🔗Link::
-

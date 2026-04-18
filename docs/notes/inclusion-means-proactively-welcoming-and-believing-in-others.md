@@ -1,13 +1,13 @@
 ---
 UUID: 20240626054741
 Created: '2024-06-26 05:47'
-Modified: '2026-04-10 06:16'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Inclusion
   - Belonging
@@ -16,6 +16,10 @@ Description: >-
   and involving them in tasks, fostering mutual growth and a sense of
   accomplishment within a group.
 new_schema: true
+Topic:
+  - '[[Social Connection and Belonging]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -47,9 +51,3 @@ For example, for parent's inclusion could be the change in perspective from "I h
 ## Visual
 
 ![Inclusion](/notes/inclusion.webp)
-
-## Overview
-🔼Topic:: [Social Connection and Belonging](/notes/social-connection-and-belonging.md)
-↩️Origin::
-🔗Link::
-

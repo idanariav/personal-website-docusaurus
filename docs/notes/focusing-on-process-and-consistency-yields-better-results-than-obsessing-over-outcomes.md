@@ -1,13 +1,13 @@
 ---
 UUID: 20240106081208
 Created: '2024-01-06 08:12'
-Modified: '2026-04-04 11:02'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Trust the Process
   - Trust the Process
@@ -18,6 +18,10 @@ Description: >-
   abstract goals, asserting that steady effort leads to desired outcomes despite
   uncertainty.
 new_schema: true
+Topic:
+  - '[[Compounding and Consistency]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -61,9 +65,3 @@ We usually hold in a high regard the importance of goals, especially as our main
 ## Visual
 
 ![Trust the Process](/notes/trust-the-process.webp)
-
-## Overview
-🔼Topic:: [Compounding and Consistency](/notes/compounding-and-consistency.md)
-↩️Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20250428071940
 Created: '2025-04-28 07:19'
-Modified: '2026-04-04 10:59'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Rituals
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   self-criticism and decision points, enabling a focused mental state conducive
   to flow and performance.
 new_schema: true
+Topic:
+  - '[[Habit Mechanics]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ As with cases of [Absolute rules trade flexibility for willpower savings](/notes
 ## Visual
 
 ![Rituals](/notes/rituals.webp)
-
-## Overview
-🔼Topic:: [Habit Mechanics](/notes/habit-mechanics.md)
-↩️Origin::
-🔗Link::
-

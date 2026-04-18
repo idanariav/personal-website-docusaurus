@@ -1,8 +1,8 @@
 ---
 UUID: 20240217075258
 Created: '2024-02-17 07:52'
-Modified: '2026-04-09 09:46'
-Version: 2
+Modified: '2026-04-11 22:25'
+Version: 3
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
@@ -15,6 +15,10 @@ Description: >-
   company, advocating for their well-being and development to enhance
   organizational growth and productivity.
 new_schema: true
+Topic:
+  - '[[Psychological Safety and Team Conditions]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -44,9 +48,3 @@ To acknowledge that by having an organizational [Capabilities are malleable thro
 ## Visual
 
 ![People First](/notes/people-first.webp)
-
-## Overview
-🔼Topic:: [Psychological Safety and Team Conditions](/notes/psychological-safety-and-team-conditions.md)
-↩️Origin::
-🔗Link:: 
-

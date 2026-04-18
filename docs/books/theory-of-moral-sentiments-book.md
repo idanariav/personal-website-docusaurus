@@ -1,39 +1,54 @@
 ---
 UUID: 20230526072856
 Created: '2023-05-26 07:28'
-Modified: '2025-06-06 08:36'
+Modified: '2026-04-13 06:21'
 tags: []
+FullTitle: Theory of Moral Sentiments
+Description: >-
+  It argues that sympathy stems from personal motives, evolving into a
+  collective moral environment. Factors influencing sympathy include emotion
+  transferability, understanding reasons and purposes, contextual familiarity,
+  resonance matching, and existing connections, emphasizing the importance of
+  shared experiences and emotional awareness.
 Author:
   - '[[Adam Smith (philosopher)|Adam Smith]]'
+URL: 'https://www.goodreads.com/book/show/11804584-the-theory-of-moral-sentiments'
+Cover: >-
+  https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565721395i/25700.jpg
 Genre: Ethics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B004UOAJ76
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.03
+Version: 4
 Pages: 368
+Reread: 0
 Rate: 4
 PublishDate: 1759-01-01T00:00:00.000Z
+StartDate: 2023-05-11T00:00:00.000Z
 FinishDate: 2023-06-13T00:00:00.000Z
-Cover: >-
-  https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565721395i/25700.jpg
-URL: 'https://www.goodreads.com/book/show/11804584-the-theory-of-moral-sentiments'
+Image: null
+aliases: ''
+Topic:
+  - '[[Ethics (Map)]]'
+  - '[[Empathy means understanding and acting on another''s perspective]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Theory of Moral Sentiments (book)
 
-## 🔗Connect
-🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
-🔼Topic:: [Empathy](/notes/empathy.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 
 We all wish to receive the sympathy of others, and naturally inclined to be sympathetic towards others. This causes a movement that starts from personal motives, and grows into a community wide moral environment where it is in your interest to share the feelings of others, from many we become one.
@@ -44,7 +59,7 @@ Additionally, there are several factors which affect the level of sympathy we ge
 4. **resonance matching** - Sympathy is highest when the actor listens to their spectators, is aware of the "frequency" of sympathy that they can deliver, the situations that are most familiar to them, the emotional level they deem worthy in this case, and adjust his behavior accordingly. This requires both listening and self control.
 5. **existing connection** - In general, it is likely that we will receive more sympathy from people in our inner circle, such as friends and family.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 1. **search for impartiality** - True moral character develops when surrounded by impartial viewers, because they will give honest response, and not support us even when we don't deserve to.
@@ -52,7 +67,7 @@ Additionally, there are several factors which affect the level of sympathy we ge
 3. **Sympathy is a two way process** - in order for others to connect to you, they are not the only ones who should be open to connection, but you as well.
 4. **Sympathy is created through shared experience** - is it the situation that triggers sympathy, not who you are.
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. **Invisible hand** - when each one tries to act in a way that maximizes that sympathy he receives, we can have a moral community.
@@ -72,17 +87,17 @@ Additionally, there are several factors which affect the level of sympathy we ge
 🧱 *Implementations and limitations of it are...*
 1. **good is a social norm** - one who follows this method is highly dependent on the "will of the people", or the cultural perception of those around us. Does it mean that I can't be a moral person, or that morality is limited to only what others around me conceive as moral?
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 1. it is hard to judge this book, as it sets the stage for many important views and thinkers later on. Some sections are very interesting and profonde, others seem more like a monolog without a clear foundation behind it
 2. While the order of the parts is perhaps arbitrary, the chapters are divided into separate distinct ideas, with a very informative title which makes it easy to follow.
 
-### 🖼️Outline
+### Outline
 
-![Theory of Moral Sentiments (book).webp](/books/theory-of-moral-sentiments-book.webp)
+![Theory of Moral Sentiments (book)](/books/theory-of-moral-sentiments-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Part 1 - the Propriety of Action
 
@@ -90,13 +105,13 @@ Additionally, there are several factors which affect the level of sympathy we ge
 
 ##### Chapter 1 - of Sympathy
 
-**All people**, selfish as they can be, **have the innate power or inclination to sympathize** with others, as if it is a natural response, without it being in their interest to do so. [Imitation](/notes/imitation.md)
+**All people**, selfish as they can be, **have the innate power or inclination to sympathize** with others, as if it is a natural response, without it being in their interest to do so. [Imitation internalizes others' behaviors and mental models at varying depths](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md)
 
-Since we cannot truly experience what the other person is experiencing, because all experience is subjective. [Subjective Reality](/notes/subjective-reality.md), we imagine ourselves in his place, going though everything that he is going through, and feeling what we believe that *should* be the right emotion in that case. It is not because of facial expressions that we experience sympathy, since we don't share the anger of an angry man, but rather we get angry at him. [Mirroring](/notes/mirroring.md)
+Since we cannot truly experience what the other person is experiencing, because all experience is subjective. [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md), we imagine ourselves in his place, going though everything that he is going through, and feeling what we believe that *should* be the right emotion in that case. It is not because of facial expressions that we experience sympathy, since we don't share the anger of an angry man, but rather we get angry at him. [Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md)
 
 Until we know why a person is experiencing those things, every sympathy will remain incomplete, and would be (at least partially) replaced by curiosity or indifference.
 
-**It is the situation, not the person, who triggers the sympathetic emotions**. It is not the poor man that makes us sympathetic, but rather the [situation](/notes/context.md) (what would I feel if I was also poor like that). That's why we sympathize with inanimate or inhuman objects, because it's the situation that triggers the emotion.
+**It is the situation, not the person, who triggers the sympathetic emotions**. It is not the poor man that makes us sympathetic, but rather the [situation](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md) (what would I feel if I was also poor like that). That's why we sympathize with inanimate or inhuman objects, because it's the situation that triggers the emotion.
 
 It is only because of this capability to sympathize with a situation that we fear death, since it will never be someone's experience, but rather a situation that we would all face, and can imagine today how we would feel in that case. This fear, is the nightmare of the individual, but the protector of society.
 
@@ -130,7 +145,7 @@ As the friend, we can feel the disconnect when we can't share the sadness of oth
 
 ##### Chapter 3 - how We Judge Others by Our Standards
 
-[sympathy is an act of connection](/notes/sympathy-is-an-act-of-connection.md). **To sympathize with someone means that we agree with the reasons that has led him to feel joy or sadness**. For example, to enjoy hearing his song means that we ourselves also appreciate his song. [Active Listening](/notes/active-listening.md) The is a unity between feeling connected and rational conclusion.
+[sympathy is an act of connection](/notes/sympathy-is-an-act-of-connection.md). **To sympathize with someone means that we agree with the reasons that has led him to feel joy or sadness**. For example, to enjoy hearing his song means that we ourselves also appreciate his song. [Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.md) The is a unity between feeling connected and rational conclusion.
 
 The source of sympathy is therefore a connection based on two aspects:
 1. **Past reasons** - the source of his feelings
@@ -139,7 +154,7 @@ The source of sympathy is therefore a connection based on two aspects:
 For example, a person who experiences pain due to the loss of his father, will get sympathy if he will appear sad and wishes to avoid working for a few days. The past reasons and future goal are logical and reasonable. However, if for the same reason he wanted to hit a child, then he would not get sympathy for lack of accordance with his future goal. Similarly if his past reasons were losing a game rather than a father, we would likely not sympathize with him due to lack of accordance with his past reasons.
 **Sympathy, and morality in general, is the result of both a rational and emotional connection** [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md)
 
-Again, it is worth noting that we judge others by our standards, since any other point of view is far from our reach. [We can't read minds](/notes/theory-of-mind.md)
+Again, it is worth noting that we judge others by our standards, since any other point of view is far from our reach. [We can't read minds](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md)
 
 :::note[Quotes]
 
@@ -153,7 +168,7 @@ Again, it is worth noting that we judge others by our standards, since any other
 ##### Chapter 4 - Sympathy is Bidirectional
 
 **Sympathy doesn't only passes emotion from the subject to the audience, but also the other way around.**
-By seeing how others react to our situation, we gain [clarity](/notes/clarity.md) about our own emotions, whether we overreacted, whether our feelings are justified, and we can correct ourselves immediately. [Self-awareness](/notes/self-awareness.md) One should note that **the level of sympathy might vary depending on the listener.** A friend will exhibit higher sympathy than a stranger.
+By seeing how others react to our situation, we gain [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md) about our own emotions, whether we overreacted, whether our feelings are justified, and we can correct ourselves immediately. [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md) One should note that **the level of sympathy might vary depending on the listener.** A friend will exhibit higher sympathy than a stranger.
 
 :::note[Quotes]
 
@@ -165,7 +180,7 @@ By seeing how others react to our situation, we gain [clarity](/notes/clarity.md
 
 ##### Chapter 5 - of Sympathy and Virtues
 
-It is **because we are reactive to the sympathy of others to us, that we try to match the emotional level that they can resonate back to us** [Resonance](/notes/resonance.md), since we want them to share our feelings, that is exactly the reason why we can achieve a moral society out of selfish individuals. [Invisible hand](/notes/invisible-hand.md) [Emergence](/notes/emergence.md).
+It is **because we are reactive to the sympathy of others to us, that we try to match the emotional level that they can resonate back to us** [Resonance is being in sync with reality and others](/notes/resonance-is-being-in-sync-with-reality-and-others.md), since we want them to share our feelings, that is exactly the reason why we can achieve a moral society out of selfish individuals. [Selfish incentives can produce collective prosperity](/notes/selfish-incentives-can-produce-collective-prosperity.md) [System properties arise from component interactions not individual parts](/notes/system-properties-arise-from-component-interactions-not-individual-parts.md).
 
 :::note[Quotes]
 
@@ -182,7 +197,7 @@ It is **because we are reactive to the sympathy of others to us, that we try to 
 1. **Common Language** - Physical emotions requires a common language that might be hard to generate. A man cannot understand a woman's labor. A well-fed doesn't remember hunger.
 2. **Importance** - physical emotions are regarded as more short term and less important. Once we eat, we no longer remember our own hunger, or give it any more credit. So why should others?
 
-With physical pain, it's best to exercise [Self-control](/notes/self-control.md) and not express it.
+With physical pain, it's best to exercise [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) and not express it.
 
 :::note[Quotes]
 
@@ -231,9 +246,9 @@ similarly to joy and sadness, sorrow is a hard emotion to imitate rather than jo
 ##### Chapter 2 - on Ambition and Hierarchy
 
 there is an a-symmetry when looking at the actions of those who are on top and those at the bottom.
-Those at the top focus on presenting the differences between them and everyone else, symbols of their status and power, while those at the bottom focus on presenting their worth, proofs of knowledge, bravery and action, to convince others that they deserve their attention. [Signaling](/notes/signaling.md)
+Those at the top focus on presenting the differences between them and everyone else, symbols of their status and power, while those at the bottom focus on presenting their worth, proofs of knowledge, bravery and action, to convince others that they deserve their attention. [Signaling is displaying qualities to appear worthy or successful](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md)
 I.e **those on top demand, while those on the bottom ask**.
-by testing himself and his skills, the powerful can only lose (if he fails) [fixed mindset](/notes/fixed-mindset.md), while the person with ambition can only gain (if he succeeds) [growth mindset](/notes/growth-mindset.md)
+by testing himself and his skills, the powerful can only lose (if he fails) [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md), while the person with ambition can only gain (if he succeeds) [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)
 
 :::note[Quotes]
 
@@ -245,7 +260,7 @@ by testing himself and his skills, the powerful can only lose (if he fails) [fix
 
 ##### Chapter 3 - why Classes Corrupt Our Empathy
 
-to admire (the rich) or to despite (the poor) because of anything that is not due to wisdom and virtue but rather their class is a corruption to our ability to sympathize in the right situations. [Inequality](/notes/inequality.md)
+to admire (the rich) or to despite (the poor) because of anything that is not due to wisdom and virtue but rather their class is a corruption to our ability to sympathize in the right situations. [Inequality is a normative problem caused by unjust distribution of resources and rights](/notes/inequality-is-a-normative-problem-caused-by-unjust-distribution-of-resources-and-rights.md)
 
 :::note[Quotes]
 
@@ -301,7 +316,7 @@ Similarly, we would not sympathize with the victim if we knew that the actor did
 ##### Chapter 1 - Comparison of Those Two Virtues
 
 **justice is the minimal standard we all are obligated to meet**. For example not hurting one another. In some sense, justice could be passive thing. Usually by doing nothing we can still abide by the laws of justice. [justice is obedience](/notes/justice-is-obedience.md)
-**Beneficence however is what we wish others would behave like**. We can't coerce someone to be kind and giving, and this necessarily requires an action and perhaps a sacrifice from the actor. [Intention](/notes/intention.md)
+**Beneficence however is what we wish others would behave like**. We can't coerce someone to be kind and giving, and this necessarily requires an action and perhaps a sacrifice from the actor. [Good action requires intention aligned with values](/notes/good-action-requires-intention-aligned-with-values.md)
 While acts of justice can cause resentment and punishment, no one can be punished for not acting in a beneficial way.
 Similarly, we can't praise someone who acted justly, but will praise someone who is giving more than he ought to.
 
@@ -325,7 +340,7 @@ Similarly, we can't praise someone who acted justly, but will praise someone who
 
 ##### Chapter 1 - of the Causes of This Influence of Fortune
 
-[Luck](/notes/luck.md) can greatly affect how we see each other. A person who drove drunk and killed someone will be hated, and the one who didn't will be forgotten, simply because of the outcome, which was based on luck. They preformed the same action, and got different results.
+[Luck is external randomness affecting outcomes beyond control](/notes/luck-is-external-randomness-affecting-outcomes-beyond-control.md) can greatly affect how we see each other. A person who drove drunk and killed someone will be hated, and the one who didn't will be forgotten, simply because of the outcome, which was based on luck. They preformed the same action, and got different results.
 
 Therefore, sympathy and resentment should be based on three things:
 1. **result** - Whether it brings joy or pain (and the amount of it)
@@ -346,7 +361,7 @@ A failed thief is punished less than a successful one, although they had the sam
 
 While at first, it seems that intention should be our only method of judging people, it would be awful to actually implement it, causing a "thought police" without any regards to the actions of people, a "minority report" existence.
 
-Therefore, **our second best option is to remain with actions as our method for evaluating the moral level of a person.** [Utilitarianism](/notes/utilitarianism.md)
+Therefore, **our second best option is to remain with actions as our method for evaluating the moral level of a person.** [Maximizing pleasure and minimizing suffering defines moral action](/notes/maximizing-pleasure-and-minimizing-suffering-defines-moral-action.md)
 
 :::note[Quotes]
 
@@ -362,7 +377,7 @@ Therefore, **our second best option is to remain with actions as our method for 
 ##### Chapter 1 - of the Principle of Self Acceptance and Disapproval
 
 **the way we interact with others depend on the way we judge ourselves**. A person who is sure of his beauty won't mind some jokes on his looks, while a person who feels ugly will be hurt by those jokes.
-We can sometimes become our own critics, splitting ourselves into two people, the actor and the viewer. [form vs essence](/notes/form-vs-essence.md)
+We can sometimes become our own critics, splitting ourselves into two people, the actor and the viewer. [Distinguishing appearance from authentic substance reveals hidden conflicts](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md)
 
 :::note[Quotes]
 
@@ -374,7 +389,7 @@ We can sometimes become our own critics, splitting ourselves into two people, th
 ##### Chapter 2 - the Love of Praise and Dread of Blame
 
 **we don't only seek praise, but also to be praise worthy.**
-These two desires are the core of virtue. If we only wished for praise, we would have acted in a deceiving manner, falsely presenting ourselves as if we have done something that merits praise. But since we also search for praise worthiness, we know, and judge ourselves, to act in a way that it truly praise worthy, and not the mere façade of it. This is in essence, virtue. [Authenticity](/notes/authenticity.md)
+These two desires are the core of virtue. If we only wished for praise, we would have acted in a deceiving manner, falsely presenting ourselves as if we have done something that merits praise. But since we also search for praise worthiness, we know, and judge ourselves, to act in a way that it truly praise worthy, and not the mere façade of it. This is in essence, virtue. [Acting in alignment with your values is authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.md)
 
 :::note[Quotes]
 
@@ -386,16 +401,16 @@ These two desires are the core of virtue. If we only wished for praise, we would
 
 ##### Chapter 3 - the Influence of Conscience
 
-**we have a tendency to prefer first ourselves, than those around us, and finally those who are remote to us**. Sympathy is affected by distance [us vs them](/notes/us-vs-them.md). But this preference is only legitimate when we are not those who are responsible for the situation. If we must act, we must be impartial, even if the gain to us is larger than the loss to them. If we cannot act in anyway, then we shouldn't care.
+**we have a tendency to prefer first ourselves, than those around us, and finally those who are remote to us**. Sympathy is affected by distance [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md). But this preference is only legitimate when we are not those who are responsible for the situation. If we must act, we must be impartial, even if the gain to us is larger than the loss to them. If we cannot act in anyway, then we shouldn't care.
 
-This acceptance of what can and can't be done is not the only thing we should adopt from the [stoicism](/notes/stoicism.md). We can also see that approval and disapproval of an emotion matches the level of self control that we posses.
+This acceptance of what can and can't be done is not the only thing we should adopt from the [Stoicism teaches detachment from external events to maintain inner freedom](/notes/stoicism-teaches-detachment-from-external-events-to-maintain-inner-freedom.md). We can also see that approval and disapproval of an emotion matches the level of self control that we posses.
 As mentioned earlier, a man who has experienced hardship but acts in a calm and noble way will get the most praise.
 
 **There is a link between sympathy and self control. Those who sympathize the most, are most likely those who can also exert the most self control,** since (as mentioned), to be sympathetic is to be aware of the feelings of others, and to match your emotional level to theirs. Therefore, if you can regulate your emotional level in order to connect to others, than you just exhibited self control.
 
 Similarly, the connection is bi-directional. Those who can exhibit self control can be highly sympathetic, which makes them great leaders. They will not enjoy the suffering of their enemies, and would make decisions that are for the benefit of all.
 
-To be truly moral, you have to be around impartial spectators. Since those around us, friends, family, fans, tend (either truthfully or by means of deceiving) embrace our happiness and sorrow more easily than it should be, than we don't get to truly fulfill our capability of sympathy and self regulation, which is a short way to corrupt our moral sentiments. [peer support](/notes/peer-support.md)
+To be truly moral, you have to be around impartial spectators. Since those around us, friends, family, fans, tend (either truthfully or by means of deceiving) embrace our happiness and sorrow more easily than it should be, than we don't get to truly fulfill our capability of sympathy and self regulation, which is a short way to corrupt our moral sentiments. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
 For example, if for any hardship we face we get immediate assistance and sympathy, how will we ever learn to self control? How would we appreciate the hardship of others if ours is always the most important and severe (while it actually isn't)?
 
 **Therefore, take yourself out to the world, interact with strangers, this is truly the only way to nourish your moral sentiments.**
@@ -485,7 +500,7 @@ No notes
 
 #### Section 1 - of the Character of the Individual, as it Affects Himself
 
-Prudence is one of the most important yet neglected virtues. Since we humans tend to have [loss aversion](/notes/risk-management.md), it is essential to our wellbeing to be prudent. To never declare skills we don't have, venture with money that can be lost, or taking responsibly when time is short.
+Prudence is one of the most important yet neglected virtues. Since we humans tend to have [loss aversion](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md), it is essential to our wellbeing to be prudent. To never declare skills we don't have, venture with money that can be lost, or taking responsibly when time is short.
 
 #### Section 2 - of the Character of the Individual, as it Affects Others
 
@@ -517,14 +532,14 @@ as much as we would have wished to care for everyone in the world, it is beyond 
 
 #### Section 3 - on Self Control
 
-**Perfect knowledge is useless without self control** [to be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md).
+**Perfect knowledge is useless without self control** [To be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md).
 We have to learn to control the two greatest emotions - fear and anger.
 Anger pushes us to act implosively, and fear pushes us to not act at all.
 
 [self control is not apathy](/notes/self-control-is-not-apathy.md), and we have no admiration for a person who feels nothing. **The highest admiration, and virtue, arises from he who feels everything, and yet exhibit self control.**
-This is also the case for the actor. The one who doesn't care about his own pain, how could he care for the pain of others? [Self Worth](/notes/self-worth.md)
+This is also the case for the actor. The one who doesn't care about his own pain, how could he care for the pain of others? [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md)
 
-There is a connection between the esteem you give to yourself, and the esteem you get from others. As is in other cases, the best case is when you act according to the level of the impartial spectator. Give yourself too much credit, be too proud or vain, and you will get nothing in return. Similarly, give yourself too little, you will most likely not get a lot from others as well. **Only he who evaluate himself just in the right amount not only receives the esteem he deserves, but will probably be the only one satisfied with it**. [The law of reverse effect](/notes/the-law-of-reverse-effect.md).
+There is a connection between the esteem you give to yourself, and the esteem you get from others. As is in other cases, the best case is when you act according to the level of the impartial spectator. Give yourself too much credit, be too proud or vain, and you will get nothing in return. Similarly, give yourself too little, you will most likely not get a lot from others as well. **Only he who evaluate himself just in the right amount not only receives the esteem he deserves, but will probably be the only one satisfied with it**. [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md).
 
 :::note[Quotes]
 
@@ -560,7 +575,7 @@ To Aristotle, **virtue lies in proper habits that direct us towards a middle gro
 Virtue according to [zeno](/notes/zeno.md):
 We are all guided by self love, so we should do what supports ourselves, in the true sense of the word. **To live according to nature. Health, wisdom, but also the well being of others, friendship, are the things most essential to us**.
 
-virtue according to [Stoicism](/notes/stoicism.md):
+virtue according to [Stoicism teaches detachment from external events to maintain inner freedom](/notes/stoicism-teaches-detachment-from-external-events-to-maintain-inner-freedom.md):
 **To live in accordance with nature, means knowing what is and is not in your control**. We should be unaffected by the latter, and simply act when it is in our control. Good and bad, happy and sad are matters of personal judgment, not a natural fact embedded in the event.
 
 :::note[Quotes]

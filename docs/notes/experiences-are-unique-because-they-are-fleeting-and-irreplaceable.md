@@ -1,13 +1,13 @@
 ---
 UUID: 20241109082156
 Created: '2024-11-09 08:21'
-Modified: '2026-04-08 15:19'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Experiences are unique because they are fleeting and irreplaceable.png]]'
 ImageText: Water passes through a strainer
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Fleetingness
   - Ichigo Ichi
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: '[[Einzelganger]]'
+URL: 'https://www.youtube.com/embed/pn4nMvgH710'
 draft: false
 SiteProcssed: true
 ---
@@ -55,11 +59,3 @@ As opposed to [Fear of missing out fuels anxiety about opportunities we cannot t
 ## Visual
 
 ![Experiences are unique because they are fleeting and irreplaceable](/notes/experiences-are-unique-because-they-are-fleeting-and-irreplaceable.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-↩️Origin:: [Einzelganger](/notes/einzelganger.md)
-🔗Link:: [link](https://www.youtube.com/embed/pn4nMvgH710)
-
-
-==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'

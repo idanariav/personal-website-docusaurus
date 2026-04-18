@@ -1,13 +1,13 @@
 ---
 UUID: 20240106083134
 Created: '2024-01-06 08:31'
-Modified: '2026-04-09 09:28'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Pareto Principle
   - the 80-20 rule
@@ -16,6 +16,10 @@ Description: >-
   majority of outputs (80%), highlighting the importance of focusing on the most
   impactful activities.
 new_schema: true
+Topic:
+  - '[[Prioritization and Leverage]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -60,9 +64,3 @@ Sticking with "what works" sounds good but remember that without experimentation
 ## Visual
 
 ![Pareto Principle](/notes/pareto-principle.webp)
-
-## Overview
-🔼Topic:: [Prioritization and Leverage](/notes/prioritization-and-leverage.md)
-↩️Origin::
-🔗Link::
-

@@ -29,7 +29,7 @@ Are you truly aware of the depths of your potential for growth? Just as nature c
 
 ![You are always a work in progress (insight).webp](/posts/you-are-always-a-work-in-progress-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 Caterpillars grow into butterflies, and tadpoles into frogs. We humans also change, though perhaps in more subtle ways.
 

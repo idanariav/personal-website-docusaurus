@@ -1,13 +1,13 @@
 ---
 UUID: 20240219081432
 Created: '2024-02-19 08:14'
-Modified: '2026-04-09 09:15'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Imitation
   - Best Practice
@@ -18,6 +18,10 @@ Description: >-
   models, facilitating learning and efficiency while emphasizing the importance
   of adaptation and personal ownership in applying these practices.
 new_schema: true
+Topic:
+  - '[[Creative Ideation and Innovation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -60,9 +64,3 @@ However, we have to be careful not to fall for [We draw conclusions only from wh
 ## Visual
 
 ![Imitation](/notes/imitation.webp)
-
-## Overview
-🔼Topic:: [Creative Ideation and Innovation](/notes/creative-ideation-and-innovation.md)
-↩️Origin::
-🔗Link::
-

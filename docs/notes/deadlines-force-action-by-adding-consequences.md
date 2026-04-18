@@ -1,13 +1,13 @@
 ---
 UUID: 20240522065848
 Created: '2024-05-22 06:58'
-Modified: '2026-04-09 16:54'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Deadlines force action by adding consequences.png]]'
 ImageText: >-
   People partying and relaxing one month before a test versus someone stressed
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Deadline Effect
 new_schema: true
+Topic:
+  - '[[Strategic Planning and Preparation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,9 +52,3 @@ This also helps limits the effect of [A task takes as much time as you give it](
 ## Visual
 
 ![Deadlines force action by adding consequences](/notes/deadlines-force-action-by-adding-consequences.webp)
-
-## Overview
-🔼Topic:: [Strategic Planning and Preparation](/notes/strategic-planning-and-preparation.md)
-↩️Origin::
-🔗Link::
-

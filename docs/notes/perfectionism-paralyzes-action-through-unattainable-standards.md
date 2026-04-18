@@ -1,13 +1,13 @@
 ---
 UUID: 20240106081556
 Created: '2024-01-06 08:15'
-Modified: '2026-04-10 16:43'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Perfectionism
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   performance, which can hinder progress, lead to burnout, and overlook the
   costs of time and resources.
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ However, it is known that perfectionism can be actually harmful to our progress 
 ## Visual
 
 ![Perfectionism](/notes/perfectionism.webp)
-
-## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-↩️Origin::
-🔗Link::
-

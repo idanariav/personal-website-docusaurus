@@ -5,8 +5,8 @@ Image: null
 tags: []
 UUID: 20231230203726
 Created: '2023-12-30 20:37'
-Modified: '2026-04-10 06:07'
-Version: 2
+Modified: '2026-04-11 22:29'
+Version: 3
 aliases:
   - Weak Ties
 excalidraw-open-md: true
@@ -15,6 +15,10 @@ Description: >-
   acquaintances or former colleagues, providing access to diverse networks and
   potential opportunities.
 new_schema: true
+Topic:
+  - '[[Social Connection and Belonging]]'
+Origin: '[[The Power Of Habit (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,8 +52,3 @@ Weak ties could be useful, for example, when looking for a new job.
 ## Visual
 
 ![Weak Ties](/notes/weak-ties.webp)
-
-## Overview
-🔼Topic:: [Social Connection and Belonging](/notes/social-connection-and-belonging.md)
-↩️Origin:: [The Power Of Habit (book)](/books/the-power-of-habit-book.md)
-🔗Link:: 

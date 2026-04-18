@@ -26,7 +26,7 @@ That inner conflict between your rational goals and emotional impulses might be 
 
 ![emotional_aikido_post.webp](/posts/emotional_aikido_post.webp)
 
-<!-- truncate -->
+{/* truncate */}
 ## Introduction
 
 We have all faced struggles in our lives, especially internal ones. It's as if we are made up of two distinct selves: the "Rational " side that strives for action without excuses, and the "emotional" side that prefers the easier, more enjoyable path.

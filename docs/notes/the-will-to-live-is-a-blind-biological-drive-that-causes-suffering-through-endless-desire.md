@@ -5,8 +5,8 @@ Image: null
 tags: []
 UUID: 20230624071925
 Created: '2023-06-24 07:19'
-Modified: '2026-04-10 06:27'
-Version: 2
+Modified: '2026-04-11 22:28'
+Version: 3
 URL: 'https://www.youtube.com/watch?v=tvj-r0socXA'
 author:
   - Einzelgänger
@@ -18,6 +18,9 @@ Description: >-
   conflicting with logic, leading to pain and unhappiness, mitigated only by
   reducing attachments and expectations.
 new_schema: true
+Topic:
+  - '[[Value and Meaning]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -47,19 +50,9 @@ Reducing [Attachment distorts how we see the things we cling to](/notes/attachme
 ### Open questions
 
 
-
 ### Claims
 
 
 ## Visual
 
 ![Will to life](/notes/will-to-life.webp)
-
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-Source::  [Schopenhauer](/notes/arthur-schopenhauer-philosopher.md)
-Source:: [Einzelganger](/notes/einzelganger.md)
-Link:: https://www.youtube.com/watch?v=tvj-r0socXA
-
-
-

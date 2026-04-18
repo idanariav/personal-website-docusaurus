@@ -1,13 +1,13 @@
 ---
 UUID: 20250823205821
 Created: '2025-08-23 20:58'
-Modified: '2026-04-08 13:59'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Detox
   - Detoxing
@@ -15,6 +15,10 @@ Description: >-
   A process of removing addiction influences from one's life, often requiring
   strict rules to achieve a fresh start and regain control over habits.
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -44,8 +48,3 @@ Detoxing allows us to trigger the [Fresh start effect](/notes/symbolic-fresh-sta
 ### Open questions
 
 ## Visual
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-↩️Origin::
-🔗Link::

@@ -1,13 +1,13 @@
 ---
 UUID: 20241125072605
 Created: '2024-11-25 07:26'
-Modified: '2026-04-08 13:44'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Econs are purely rational agents who maximize utility.png]]'
 ImageText: >-
   A robotic person with a thought bubble containing a mathematical formula for
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Econs
 new_schema: true
+Topic:
+  - '[[Dual Process]]'
+Origin: '[[thinking fast and slow (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ We never were, and never will be econs. We are social creatures, guided by emoti
 ## Visual
 
 ![Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.webp)
-
-## Overview
-🔼Topic:: [Dual Process](/notes/dual-process.md)
-↩️Origin:: [thinking fast and slow (book)](/notes/thinking-fast-and-slow-book.md)
-🔗Link::
-

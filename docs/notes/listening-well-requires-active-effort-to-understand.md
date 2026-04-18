@@ -1,13 +1,13 @@
 ---
 UUID: 20230627175105
 Created: '2023-06-27 17:51'
-Modified: '2026-04-08 17:17'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Listening well requires active effort to understand.png]]'
 ImageText: 'A magnifying glass, focusing on a person'
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Active Listening
 new_schema: true
+Topic:
+  - '[[Active Listening and Empathy]]'
+Origin: '[[The Knowledge Project with Shane Parrish]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,8 +53,3 @@ Active listening could improve the chances of achieving [Empathy means understan
 ## Visual
 
 ![Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.webp)
-## Overview
-🔼Topic:: [Active Listening and Empathy](/notes/active-listening-and-empathy.md)
-◀Origin:: [The Knowledge Project with Shane Parrish](/notes/the-knowledge-project-with-shane-parrish.md)
-Link:: https://share.snipd.com/episode/de9fc04c-d1a1-4cd4-9568-a71f86a0131d
-

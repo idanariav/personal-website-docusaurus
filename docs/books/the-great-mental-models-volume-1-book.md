@@ -1,24 +1,47 @@
 ---
 UUID: 20250428074432
 Created: '2025-04-28 07:44'
-Modified: '2025-05-14 19:20'
+Modified: '2026-04-13 06:19'
 tags: []
+FullTitle: 'The Great Mental Models, Volume 1 - General Thinking Concepts'
+Description: >-
+  It argues that better thinkers minimize blind spots in decision-making, thus
+  enhancing well-being by avoiding mistakes. Additionally, it emphasizes the
+  importance of expanding one's mental models toolkit to learn from others'
+  experiences, enabling a more objective understanding of reality.
 Author:
   - '[[Shane Parrish]]'
   - '[[Rhiannon Beaubien]]'
-Genre: Business & Economics
-Stored: kindle
-ReadingStatus: Read
-Purchased: true
-Fiction: false
-Version: 1.01
-Pages: 209
-Rate: 3
-PublishDate: 2024-10-15T00:00:00.000Z
-FinishDate: 2025-05-14T00:00:00.000Z
+URL: 'https://www.goodreads.com/book/show/205435070-the-great-mental-models-volume-1'
 Cover: >-
   http://books.google.com/books/content?id=PknuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/205435070-the-great-mental-models-volume-1'
+Genre: Business & Economics
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B0CSFH8VQS
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 209
+Reread: 0
+Rate: 3
+PublishDate: 2024-10-15T00:00:00.000Z
+StartDate: 2025-05-06T00:00:00.000Z
+FinishDate: 2025-05-14T00:00:00.000Z
+Image: ''
+aliases: ''
+Topic:
+  - >-
+    [[Mental shortcuts enable faster learning through analogies and
+    simplification]]
+  - '[[Decision Making (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -27,22 +50,17 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Mental Shortcuts](/notes/mental-shortcuts.md)
-⬆️Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Better thinkers have less blind spots** - decision making is often a loser's game, by not making mistakes we can drastically improve our wellbeing. We make a lot of mistakes because we can't know everything, and learning from experience is expensive and slow.
 2. **Expand your mental models toolkit** - don't reinvent the wheel. Learn from others mistakes and wisdom. By having efficient proven mental models at our disposal, we are better at understanding reality in a non biased way
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 You will make fewer mistakes and have less blind spots while making decisions because you could use proven efficient mental models in your decision making toolkit.
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -51,28 +69,28 @@ You will make fewer mistakes and have less blind spots while making decisions be
 🧱 *Implementations and limitations of it are...*
 There is little guidance on how and when to pick each model.
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book is interesting, on the one hand it lacks the grand argument of regular non fiction books that focus on a single topic, yet on the other hand it is a collection of good mental models that can be used in various situations.
 
 I would recommend it as a starter book for people who just got into the world of decision making.
 
-### 🖼️Outline
+### Outline
 
-## 📒 Notes
+## Notes
 
 ### Introduction: Acquiring Wisdom
 
-Being a good decision maker can be similar to a [losers game](/notes/winner-or-loser-game.md), the fewer blind spots we have, the better decision we can make because increased knowledge reduces [Uncertainty](/notes/uncertainty.md).
+Being a good decision maker can be similar to a [losers game](/notes/winner-or-loser-game.md), the fewer blind spots we have, the better decision we can make because increased knowledge reduces [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md).
 
-Since we can't know everything, and we won't have time to know everything, it is useful to have mental models, which serve as a [Effort Storing](/notes/effort-storing.md). They are [medium independent](/notes/medium-independent.md) ideas that are true in many contexts. For example, ideas from physics are relevant for social interactions as well [Transferred Learning](/notes/transferred-learning.md).
+Since we can't know everything, and we won't have time to know everything, it is useful to have mental models, which serve as a [One-time effort investment yields future benefits](/notes/one-time-effort-investment-yields-future-benefits.md). They are [Content is independent from the medium that transmits it](/notes/content-is-independent-from-the-medium-that-transmits-it.md) ideas that are true in many contexts. For example, ideas from physics are relevant for social interactions as well [Knowledge applied across contexts enables learning generalization](/notes/knowledge-applied-across-contexts-enables-learning-generalization.md).
 
-The more mental models in your toolkit, the more [Flexible](/notes/adaptability.md) you are, capable of adapting and combining multiple ways of looking and understanding reality, which makes you a better decision maker. You might even reach [Objectivism](/notes/objectivism.md), of seeing reality "as it is".
+The more mental models in your toolkit, the more [Flexible](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md) you are, capable of adapting and combining multiple ways of looking and understanding reality, which makes you a better decision maker. You might even reach [Seeing reality without subjective bias reduces distortion](/notes/seeing-reality-without-subjective-bias-reduces-distortion.md), of seeing reality "as it is".
 
-Mental models are not true for every situation, nor are they permanent. They can and should be updated based on [Experimentation](/notes/testing.md). However, sometimes we are [too close](/notes/attachment.md) or our ego is too involved in something for us to see that it no longer works or needs updating. Instead of admitting our [mistakes](/notes/failure.md), we double down, try to prove the world we are right, only digging ourselves deeper, or are tempted by [Conformation Bias](/notes/conformation-bias.md). That's why [Self Reflection](/notes/introspection.md) is a critical part of the learning process.
+Mental models are not true for every situation, nor are they permanent. They can and should be updated based on [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md). However, sometimes we are [too close](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) or our ego is too involved in something for us to see that it no longer works or needs updating. Instead of admitting our [mistakes](/notes/failure-is-a-necessary-part-of-learning-and-growth.md), we double down, try to prove the world we are right, only digging ourselves deeper, or are tempted by [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md). That's why [Self Reflection](/notes/introspection-develops-self-knowledge-through-internal-examination.md) is a critical part of the learning process.
 
-Sometimes we lack the [Feedback](/notes/feedback.md) necessary to do so, especially if we are distanced from the results of our decisions.
+Sometimes we lack the [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md) necessary to do so, especially if we are distanced from the results of our decisions.
 
 :::note[Introduction: Acquiring Wisdom]
 
@@ -85,9 +103,9 @@ Sometimes we lack the [Feedback](/notes/feedback.md) necessary to do so, especia
 
 ### The Map is not the Territory
 
-To [simplify](/notes/simplicity.md) the great [Complexity](/notes/complexity.md) of the world, we create maps, which serve as a proxy for the territory. For example, we make maps for navigations, we use financial reports to measure the company's health, yet we fail when we think the map is a perfect representation of the territory [Goodhart’s Law](/notes/goodhart’s-law.md), we are so fixated on the map that we forget that the simplification process removes (vital) information, and freezes it in time. By definition, the map can't contain all the information otherwise, the map would be the same size as the territory itself. A simplified version means less information, and lower quality, it is a limited snapshot of reality [shallow copy](/notes/shallow-copy.md).
+To [simplify](/notes/distilling-to-essentials-creates-clarity-and-actionability.md) the great [Complexity](/notes/complexity.md) of the world, we create maps, which serve as a proxy for the territory. For example, we make maps for navigations, we use financial reports to measure the company's health, yet we fail when we think the map is a perfect representation of the territory [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md), we are so fixated on the map that we forget that the simplification process removes (vital) information, and freezes it in time. By definition, the map can't contain all the information otherwise, the map would be the same size as the territory itself. A simplified version means less information, and lower quality, it is a limited snapshot of reality [Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md).
 
-Unfortunately, we often subconsciously assume that if a map represents one aspect well, it is correct in other elements as well [Halo effect](/notes/halo-effect.md).
+Unfortunately, we often subconsciously assume that if a map represents one aspect well, it is correct in other elements as well [One good trait makes us assume others are good too](/notes/one-good-trait-makes-us-assume-others-are-good-too.md).
 
 To overcome this problem:
 1. **Reality is more important than the map** - reality changes, the map doesn't. Reality is complex and rich, the map isn't.
@@ -104,14 +122,14 @@ To overcome this problem:
 
 ### Circle of Competence
 
-Have [Self-awareness](/notes/self-awareness.md), knowing exactly what your [Competitive Advantage](/notes/competitive-advantage.md) is, what the borders of your [Competence](/notes/competence.md) are, what you are proficient in, and what you're clueless about.
+Have [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md), knowing exactly what your [Finding your unique strength creates sustainable advantage](/notes/finding-your-unique-strength-creates-sustainable-advantage.md) is, what the borders of your [Competence is developed through practice not innate talent](/notes/competence-is-developed-through-practice-not-innate-talent.md) are, what you are proficient in, and what you're clueless about.
 
-Reality is constantly changing, so our circle will change as well. We have to [constantly learn](/notes/lifelong-learning.md) to maintain it. It is not achieved overnight, it takes a lot of effort. Those who invest only a short time might fall to [Dunning-kruger effect](/notes/dunning-kruger-effect.md).
+Reality is constantly changing, so our circle will change as well. We have to [constantly learn](/notes/learning-must-continue-constantly-throughout-life.md) to maintain it. It is not achieved overnight, it takes a lot of effort. Those who invest only a short time might fall to [The less you know the more confident you are](/notes/the-less-you-know-the-more-confident-you-are.md).
 
 To expand your circle of competence:
-1. [imitate](/notes/imitation.md) other, use their hard-earned knowledge to progress faster than you could have on your own
-2. Find a [Mentor](/notes/mentor.md), someone who can see what you don't, an outsider's perspective that can provide valuable feedback.
-3. [document](/notes/journaling.md) your thoughts, remember which choices you made and why, so that you can learn from it when you see the results [post-mortem](/notes/post-mortem.md)
+1. [imitate](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md) other, use their hard-earned knowledge to progress faster than you could have on your own
+2. Find a [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md), someone who can see what you don't, an outsider's perspective that can provide valuable feedback.
+3. [document](/notes/journaling-enables-reflection-and-self-understanding-through-written-documentation.md) your thoughts, remember which choices you made and why, so that you can learn from it when you see the results [Analyze both results and methods to improve](/notes/analyze-both-results-and-methods-to-improve.md)
 
 :::note[Circle of Competence]
 
@@ -122,9 +140,9 @@ To expand your circle of competence:
 
 ### First Principles Thinking
 
-First principles thinking is a form of [Fundamentalism](/notes/fundamentalism.md), we search for the basic, undeniable truth, and start reasoning from there instead of being fixated by the status quo. The world is like a pre-built Lego set, while we often do marginal changes based on what's already existing [Anchoring](/notes/anchoring.md), we can theoretically create completely different things from the same materials.
+First principles thinking is a form of [Every belief chain needs a foundational belief](/notes/every-belief-chain-needs-a-foundational-belief.md), we search for the basic, undeniable truth, and start reasoning from there instead of being fixated by the status quo. The world is like a pre-built Lego set, while we often do marginal changes based on what's already existing [The first number sets the frame for all that follow](/notes/the-first-number-sets-the-frame-for-all-that-follow.md), we can theoretically create completely different things from the same materials.
 
-First principles thinking requires heavy [Skepticism](/notes/critical-thinking.md), to challenge all that we know, all that we are told is true, and all of our assumptions. It is to break everything apart until we reach an undeniable truth. It is not easy, but usually this type of thinking is what leads to breakthroughs rather than incremental improvements.
+First principles thinking requires heavy [Skepticism](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md), to challenge all that we know, all that we are told is true, and all of our assumptions. It is to break everything apart until we reach an undeniable truth. It is not easy, but usually this type of thinking is what leads to breakthroughs rather than incremental improvements.
 
 :::note[First Principles Thinking]
 
@@ -135,11 +153,11 @@ First principles thinking requires heavy [Skepticism](/notes/critical-thinking.m
 
 ### Thought Experiment
 
-Thought experiments are a form of mental [Simulations](/notes/simulations.md) that can help us reason and discover things that are much harder to do or impossible to test [Rationalism](/notes/rationalism.md).
+Thought experiments are a form of mental [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md) that can help us reason and discover things that are much harder to do or impossible to test [Truth is discoverable through reason and logic alone](/notes/truth-is-discoverable-through-reason-and-logic-alone.md).
 
 Common use cases for thought experiments:
 1. **Test the impossible** - finding pure effects under perfect conditions such as the *veil of ignorance*, or *the experience machine*.
-2. **Consider what if** - imagine different realities and try to guess the [Counterfactual](/notes/counterfactual.md), to think what could have happened under different circumstances or if we acted differently.
+2. **Consider what if** - imagine different realities and try to guess the [Imagining alternatives sharpens our judgment](/notes/imagining-alternatives-sharpens-our-judgment.md), to think what could have happened under different circumstances or if we acted differently.
 3. **Uncovering intuitions** - we present a sterile case to see what our intuitions are about the subject, like the *trolley problem*
 
 :::note[Thought Experiment]
@@ -153,7 +171,7 @@ Common use cases for thought experiments:
 
 Second-order thinking means considering the reasons and follow-up consequences of our decisions.
 
-Usually, we are so focused on the problem at hand that we forget to consider the broader implications [Short term bias](/notes/present-bias.md).
+Usually, we are so focused on the problem at hand that we forget to consider the broader implications [Short term bias](/notes/we-prefer-immediate-benefits-over-delayed-ones.md).
 
 For example, cases like the *tragedy of the Commons* are an example because everyone is focused on their short-term gain, failing to see how they will all be worse off because of it. Similarly, cutting corners in high school might give you good grades, but then you will lack the skills necessary to successfully hold a job.
 
@@ -161,7 +179,7 @@ Remember that you can't accurately [predict](/notes/prediction.md) the future, s
 
 ### Probabilistic Thinking
 
-Deciding what to do depends on the probabilities of each potential outcome. We should remember that it is all dependent on [Context](/notes/context.md), each situation has its features that can influence the probability, but we should be familiar with the [Statistical Distribution](/notes/statistical-distribution.md)
+Deciding what to do depends on the probabilities of each potential outcome. We should remember that it is all dependent on [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md), each situation has its features that can influence the probability, but we should be familiar with the [Statistical Distribution](/notes/statistical-distribution.md)
  and the [conditional probability](/notes/conditional-probability.md) of the "average case" we are in. For example, before launching a business, we should know what the probabilities of success are for the "average" business, and then adjust them based on our circumstances.
 
 Other problems with thinking about probabilities are:
@@ -169,7 +187,7 @@ Other problems with thinking about probabilities are:
 2. **Correlation is not causation** - We sometimes [imagine](/notes/correlation-is-not-causation.md) causality where there is none. Only [Hypothesis Testing](/notes/hypothesis-testing.md) can help us sort out the random from the real [Regression towards the mean](/notes/regression-towards-the-mean.md)
 ### Inversion
 
-[inversion](/notes/reverse-thinking.md) means to flip how we think about a problem. Instead of "how can I be happy?", ask "what makes me sad?", instead of "how do I sell more products?", ask "what do my clients want?". Often, taking a different viewpoint on the same question can lead to creative thinking [Ideation](/notes/ideation.md). The good yet not obvious solutions are often cases of [less is more](/notes/addition-by-subtraction.md). We can be much happier if we stop doing things that make us sad, such as bad nutrition, social media, overworking, etc.
+[inversion](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md) means to flip how we think about a problem. Instead of "how can I be happy?", ask "what makes me sad?", instead of "how do I sell more products?", ask "what do my clients want?". Often, taking a different viewpoint on the same question can lead to creative thinking [Ideation generates ideas through exploratory thinking freed from constraints](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md). The good yet not obvious solutions are often cases of [less is more](/notes/improvement-often-comes-from-removing-rather-than-adding.md). We can be much happier if we stop doing things that make us sad, such as bad nutrition, social media, overworking, etc.
 
 :::note[Inversion]
 
@@ -186,7 +204,7 @@ This is a tendency, not a rule, and it is useful only in areas where the issue c
 
 ### Hanlon's Razor
 
-Like Occam's Razor, the explanation that attributes the least malice is usually the right one [Hanlon's Razor](/notes/hanlons-razor.md). For example, if someone cuts you off at traffic, it's more likely that they didn't see you or made a mistake than doing it on purpose.
+Like Occam's Razor, the explanation that attributes the least malice is usually the right one [Avoid attributing malice when ignorance or circumstance explains action](/notes/avoid-attributing-malice-when-ignorance-or-circumstance-explains-action.md). For example, if someone cuts you off at traffic, it's more likely that they didn't see you or made a mistake than doing it on purpose.
 
 :::note[Occam’s Razor]
 

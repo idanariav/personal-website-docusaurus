@@ -1,13 +1,13 @@
 ---
 UUID: 20240522064521
 Created: '2024-05-22 06:45'
-Modified: '2026-04-10 15:35'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: raw
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Selection Bias
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   resulting from unintentional sampling methods that do not accurately represent
   the intended population.
 new_schema: true
+Topic:
+  - '[[Selective Evidence]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,8 +50,3 @@ Some cases can be less obvious, like doing surveys over the phone, while not ask
 ## Visual
 
 ![Selection Bias](/notes/selection-bias.webp)
-
-## Overview
-🔼Topic:: [Selective Evidence](/notes/selective-evidence.md)
-↩️Origin::
-🔗Link::

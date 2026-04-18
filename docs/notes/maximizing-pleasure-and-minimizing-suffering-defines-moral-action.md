@@ -1,13 +1,13 @@
 ---
 UUID: 20230406090453
 Created: '2023-04-06 09:04'
-Modified: '2026-04-08 10:25'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Maximizing pleasure and minimizing suffering defines moral action.png]]'
 ImageText: Calculator
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Utilitarianism
   - Utilitarianism
 new_schema: true
+Topic:
+  - '[[Ethical Frameworks (Metaethics)]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -64,9 +68,3 @@ There are additional reasons why utilitarianism would be a worse moral theory co
 ## Visual
 
 ![Maximizing pleasure and minimizing suffering defines moral action](/notes/maximizing-pleasure-and-minimizing-suffering-defines-moral-action.webp)
-
-## Overview
-🔼Topic:: [Ethical Frameworks (Metaethics)](/notes/ethical-frameworks-metaethics.md)
-◀Origin::
-🔗Link::
-

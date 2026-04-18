@@ -1,10 +1,10 @@
 ---
 UUID: 20240102063113
 Created: '2024-01-02 06:31'
-Modified: '2024-02-13 06:31'
-Version: 1
+Modified: '2026-04-13 06:14'
+Version: 2
 tags: []
-ReadingStatus: Read
+ReadingStatus: Done
 FinishDate: 2024-02-13T00:00:00.000Z
 PublishDate: 2012-07-12T00:00:00.000Z
 Pages: 205
@@ -19,29 +19,36 @@ Cover: >-
   http://books.google.com/books/content?id=hUC8AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/631985.How_We_Think'
 aliases: null
+Description: >-
+  It argues for fostering curiosity in education to enhance creative thinking
+  and analytical skills. Additionally, it emphasizes the need for tailored
+  educational approaches that align with each student's potential, promoting
+  their optimal growth.
+FullTitle: How We Think John - Dewey's Exploration of Thought Processes
+StartDate: 2024-01-29T00:00:00.000Z
+ASIN: B06Y4RJYCZ
+Reread: 0
+Topic:
+  - '[[Education (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # How We Think
 
-## 🔗Connect
-🔼Topic:: [Education (Map)](/mocs/education-map.md)
-
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas* 
 1. **Focus on curiosity** - to support the student's abilities to develop creative thinking, to logically break down a topic and analyze it deeply, we need to encourage play, let them pursue their curiosity, and be a role model for them.
 2. **Tailor education** - education should match student's potential by field and teaching method based on their potential, to help them grow to their fullest
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 We would be able to educate children better, support deep thinking and not just memorization
@@ -52,17 +59,17 @@ We would be able to educate children better, support deep thinking and not just 
 
 🧱 *Implementations and limitations of it are...*
 While it gives us a good definition of "what's wrong" and "where we should aim", we have no clear route on "how to do it"
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book is not an easy read, the language is often convoluted and it takes a while to understand the point of each chapter.
 
 
-## 📒 Notes
+## Notes
 
 ### Preface  
   
-Children are naturally curious, this [Beginner's Mind](/notes/beginners-mind.md) is very close in it's nature to the [scientific method](/notes/scientific-method.md)  
+Children are naturally curious, this [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md) is very close in it's nature to the [Empirical testing not reason alone discovers truth](/notes/empirical-testing-not-reason-alone-discovers-truth.md)  
 
 :::note[Preface]
 
@@ -77,7 +84,7 @@ Children are naturally curious, this [Beginner's Mind](/notes/beginners-mind.md)
   
 We can separate between two kinds of thinking:  
 1. **Idle thinking** - more similar to daydreaming, thoughts go in and out with any processing, any effect on our knowledge or beliefs, like watching a face in the cloud. It can also be when we are simply accept something as a fact without question, like believing rumors or the news.  [idle thinking](/notes/idle-thinking.md)
-2. **Reflective thinking** - when we are perplexed by a situation, when we face [Uncertainty](/notes/uncertainty.md) and [Ambiguity](/notes/ambiguity.md), and we decide not to accept something at face value, but rather suspend judgment and demand for additional evidence for those beliefs, in order for our thinking to be justified. **Those uncomfortable situations are what develops our beliefs into knowledge**, which starts with the process of reflective thinking. It is to force logic on those thoughts, to **explore connection and causality between thoughts and outcomes, to be a researcher of ideas**.  [Critical Thinking](/notes/critical-thinking.md)
+2. **Reflective thinking** - when we are perplexed by a situation, when we face [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md) and [Ambiguity is the absence of clarity in values or facts](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.md), and we decide not to accept something at face value, but rather suspend judgment and demand for additional evidence for those beliefs, in order for our thinking to be justified. **Those uncomfortable situations are what develops our beliefs into knowledge**, which starts with the process of reflective thinking. It is to force logic on those thoughts, to **explore connection and causality between thoughts and outcomes, to be a researcher of ideas**.  [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md)
   
 :::note[What is Thought?]
 
@@ -116,11 +123,11 @@ Thinking in general opens us up to better outcomes and wellbeing, along with the
 
 #### Natural resources in the training of the mind  
   
-Educating is more about observing than ordering. We need to detect the potential within each student both to develop them to *their* fullest and to fit the methods accordingly. [People First](/notes/people-first.md) A student who is behind at one subject can be a star in another, and even in the same subject, there are high differences in performance based on the student's best fitting method. Perhaps abstract ideas might not work as best with one in contrast with field training. [Diversity](/notes/diversity.md)  
+Educating is more about observing than ordering. We need to detect the potential within each student both to develop them to *their* fullest and to fit the methods accordingly. [People are the most valuable organizational resource](/notes/people-are-the-most-valuable-organizational-resource.md) A student who is behind at one subject can be a star in another, and even in the same subject, there are high differences in performance based on the student's best fitting method. Perhaps abstract ideas might not work as best with one in contrast with field training. [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md)  
   
 **It is our role as educators to tailor education both in subject and method to each student. There no "unintellectual subjects", all benefit from thinking and concentration**.  This also means that thought is not a single thing, but rather a collection of different types and shapes of thought, the combination of all human subjects  
   
-One of the best things we can inspire in students is [Curiosity](/notes/curiosity.md). This will reduce [Friction](/notes/friction.md) and enlist their [Intrinsic Motivation](/notes/intrinsic-motivation.md) towards self growth and become a [Multiplier](/notes/multiplier.md) to our education efforts.  
+One of the best things we can inspire in students is [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md). This will reduce [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) and enlist their [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) towards self growth and become a [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) to our education efforts.  
   
 :::note[Natural Resources in the Training of Thought]
 
@@ -135,9 +142,9 @@ One of the best things we can inspire in students is [Curiosity](/notes/curiosit
 
 #### School conditions and the training of thought  
   
-The teacher is more than the educator of a subject, he is not an invisible medium, but is influential as part of the education process. He is a [Role Models](/notes/role-models.md) which shapes how the student perceives the subject itself. To love math is a combination of the content of the lesson, and the method and attitude of the teacher.  
+The teacher is more than the educator of a subject, he is not an invisible medium, but is influential as part of the education process. He is a [Role models embody behaviors and values we aspire to adopt](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md) which shapes how the student perceives the subject itself. To love math is a combination of the content of the lesson, and the method and attitude of the teacher.  
   
-**The most harmful thing a teacher can do is to teach as if there is one "correct answer"**. This leads students to shallow and narrow [Binary Thinking](/notes/binary-thinking.md), to treating education as something that needs to be memorized, but not understood, and therefore lose [Transferred Learning](/notes/transferred-learning.md). [Goodhart’s Law](/notes/goodhart’s-law.md)  
+**The most harmful thing a teacher can do is to teach as if there is one "correct answer"**. This leads students to shallow and narrow [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md), to treating education as something that needs to be memorized, but not understood, and therefore lose [Knowledge applied across contexts enables learning generalization](/notes/knowledge-applied-across-contexts-enables-learning-generalization.md). [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md)  
   
 :::note[School Conditions and the Training of Thought]
 
@@ -149,11 +156,11 @@ The teacher is more than the educator of a subject, he is not an invisible mediu
 
 
 #### the means and end of mental training, the psychological and the logical  
-Logical thinking is similar to [Systematical Thinking](/notes/systematical-thinking.md), to be able to break down a subject into it's component and understand the relations between them.  
+Logical thinking is similar to [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md), to be able to break down a subject into it's component and understand the relations between them.  
 **This is the end goal of education, not the stating point**.  
-Educators should avoid teaching students through the different components [Chunking](/notes/chunking.md), but rather promote [Play](/notes/gamification.md) and reflective thinking. Only this would bring them to the expertise required to think systematically, otherwise it will only bring memorization, not understanding. 
+Educators should avoid teaching students through the different components [Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.md), but rather promote [Play](/notes/play.md) and reflective thinking. Only this would bring them to the expertise required to think systematically, otherwise it will only bring memorization, not understanding. 
   
-Also, it will bring discipline and freedom to the mind [Balance Extremes](/notes/balance-extremes.md). **A free mind is one who is capable of assessing statements and follow their logical conclusion and act accordingly**, in contrast with those who are slave to external pressure and beliefs who take statements without judgment. Similarly, a disciplined mind has the power to control it's focus.  
+Also, it will bring discipline and freedom to the mind [Optimal outcomes emerge from balance between extremes not absolutes](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md). **A free mind is one who is capable of assessing statements and follow their logical conclusion and act accordingly**, in contrast with those who are slave to external pressure and beliefs who take statements without judgment. Similarly, a disciplined mind has the power to control it's focus.  
   
 :::note[The Means and End of Mental Training: The Psychological and the Logical]
 
@@ -201,7 +208,7 @@ Reflective thinking has five steps:
 
 #### judgment: the interpretation of facts  
   
-Judgment is a process that follows a logical method, that is supposed to guide us like a string in a maze towards the conclusion. **While we don't know what it will be when we start, we know that this process will get us there**. [Trust the Process](/notes/trust-the-process.md) That's how without knowing what we're looking, we are still able to find a good answer.  
+Judgment is a process that follows a logical method, that is supposed to guide us like a string in a maze towards the conclusion. **While we don't know what it will be when we start, we know that this process will get us there**. [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md) That's how without knowing what we're looking, we are still able to find a good answer.  
   
 This conclusion serves us as a meaning of something in the world that can be tested, and if proved fruitful, it can serve as a basis for other judgements. An idea is therefore a potential meaning waiting to be proven.  
   

@@ -29,7 +29,7 @@ What if your inner conflicts are the key to discovering your true "selves"? As w
 
 ![council of selves (Insight).webp](/posts/council-of-selves-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 What do we have in common with Aladdin and Hamilton? We all see ourselves as a "diamond in the rough." 
 

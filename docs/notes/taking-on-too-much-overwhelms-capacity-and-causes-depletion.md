@@ -1,13 +1,13 @@
 ---
 UUID: 20250823201205
 Created: '2025-08-23 20:12'
-Modified: '2026-04-09 08:47'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Overloading
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   capacity, often driven by societal pressures that prioritize busyness, leading
   to stress and decreased effectiveness.
 new_schema: true
+Topic:
+  - '[[Working Memory and Cognitive Limits]]'
+Origin: '[[Effortless (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ It is not always easy to tell when someone is overloading themselves, and parado
 ## Visual
 
 ![Overloading](/notes/overloading.webp)
-
-## Overview
-🔼Topic:: [Working Memory and Cognitive Limits](/notes/working-memory-and-cognitive-limits.md)
-↩️Origin:: [Effortless (book)](/books/effortless-book.md)
-🔗Link::
-

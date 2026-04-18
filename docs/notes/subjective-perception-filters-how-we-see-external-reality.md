@@ -1,13 +1,13 @@
 ---
 UUID: 20230330064733
 Created: '2023-03-30 06:47'
-Modified: '2026-04-09 09:08'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Subjective Reality
   - Mental Glasses
@@ -18,6 +18,10 @@ Description: >-
   external world, leading to varied interpretations influenced by personal
   experiences, language, and cultural context.
 new_schema: true
+Topic:
+  - '[[Nature and Limits of Knowledge]]'
+Origin: '[[You are not so smart]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -58,9 +62,3 @@ As a population of people, we have a lot of [Range](/notes/breath-beats-depth.md
 ## Visual
 
 ![Subjective Reality](/notes/subjective-reality.webp)
-
-## Overview
-🔼Topic:: [Nature and Limits of Knowledge](/notes/nature-and-limits-of-knowledge.md)
-Origin:: [You are not so smart](/notes/you-are-not-so-smart.md)
-Link:: https://share.snipd.com/episode/00991c8f-35ad-40c0-b47e-29645d4505f9
-

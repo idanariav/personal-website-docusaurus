@@ -1,13 +1,13 @@
 ---
 UUID: 20231230072933
 Created: '2023-12-30 07:29'
-Modified: '2026-04-10 15:48'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Luck
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
   and awareness, highlighting the interplay between randomness and individual
   agency.
 new_schema: true
+Topic:
+  - '[[Randomness]]'
+Origin: '[[The Curiosity Chronicle by Sahil Bloom]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,9 +60,3 @@ Luck can also have a moral importance. For example the difference of killing and
 ## Visual
 
 ![Luck](/notes/luck.webp)
-
-## Overview
-🔼Topic:: [Randomness](/notes/randomness.md)
-↩️Origin:: [The Curiosity Chronicle by Sahil Bloom](/notes/the-curiosity-chronicle-by-sahil-bloom.md)
-🔗Link::
-

@@ -1,47 +1,59 @@
 ---
 UUID: 20220703185142
 Created: '2022-07-03 18:51'
-Modified: '2022-07-03 18:51'
+Modified: '2026-04-13 06:20'
+tags: []
+FullTitle: The Power of Habit - Why We Do What We Do in Life and Business
+Description: >-
+  It argues that bad habits cannot be eliminated but transformed by recognizing
+  the cues and rewards that fuel them. Additionally, it emphasizes that the
+  effectiveness of a habit relies on our belief in its value, making commitment
+  essential for lasting change.
 Author:
   - '[[Charles Duhigg]]'
-FinishDate: 2022-01-28T00:00:00.000Z
-Purchased: true
-Rate: 2
-Pages: 375
-Stored: Kindle
-tags: []
-Fiction: false
 URL: 'https://www.goodreads.com/book/show/40488122-the-power-of-habit'
-aliases: null
-Version: 1
-ReadingStatus: Read
-Genre: Business & Economics
 Cover: >-
   http://books.google.com/books/content?id=O1MInVXd_aoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+Genre: Business & Economics
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B0055PGUYU
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 375
+Reread: 0
+Rate: 2
 PublishDate: 2012-02-28T00:00:00.000Z
+StartDate: 2022-01-21T00:00:00.000Z
+FinishDate: 2022-01-28T00:00:00.000Z
+Image: ''
+aliases: null
+Topic:
+  - '[[Habits (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Power Of Habit (book)
 
-## 🔗Connect
-🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
-
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas* 
 1.  “The Golden Rule of Habit Change: You can’t extinguish a bad habit, you can only change it.”
 2. “The key to changing a habit is to understand the cues and rewards that drive the behavior.”
 3. “Successful habits are, by definition, ones we believe are worth the effort. We can't make ourselves stick to something unless we believe it's worth it.”
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -51,23 +63,22 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 compared to [Atomic Habits (book)](/books/atomic-habits-book.md), this is much less focused on tips for self improvement, but rather the basis of the phenomenon of habit formation and how it characterized in different situations. At the bottom line this is not as good as atomic habits.
 In summary, habits are something that humans as individuals and as part of social communities learn to develop to seek for simplicity and reduce cognitive effort. But like any computer, reprogramming is possible. With adapting our cues and rewards we can change our habits.
 
 
-
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-Habits are the way for our brain to save energy and clear resources for other things [Effort Storing](/notes/effort-storing.md). The more our behavior is based on a patter, it will encourage us to repeat it automatically (no matter whether its a "good" or a "bad" habit).
+Habits are the way for our brain to save energy and clear resources for other things [One-time effort investment yields future benefits](/notes/one-time-effort-investment-yields-future-benefits.md). The more our behavior is based on a patter, it will encourage us to repeat it automatically (no matter whether its a "good" or a "bad" habit).
 
 
-[The habit loop](/notes/the-habit-loop.md) is made up of:
-1. A [Cue](/notes/priming.md) (external signal)
+[Habits operate through a four-part loop](/notes/habits-operate-through-a-four-part-loop.md) is made up of:
+1. A [Cue](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) (external signal)
 2. Routine (the behavior)
 3. Reward
 
@@ -91,15 +102,15 @@ Habits are the way for our brain to save energy and clear resources for other th
 ### Main section
 
 To change a habit, the easiest way is to keep the same reward and cue, but just change the behavior.
-Change will be easier if you feel committed to the change, and even better if you join a group of people dedicated to make this change. [peer support](/notes/peer-support.md)
-Developing self discipline is best done through a through plan of what you're going to do in those situations where will power is going to be needed. For example: when to workout, what will I eat for lunch. [Clarity](/notes/clarity.md).
+Change will be easier if you feel committed to the change, and even better if you join a group of people dedicated to make this change. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
+Developing self discipline is best done through a through plan of what you're going to do in those situations where will power is going to be needed. For example: when to workout, what will I eat for lunch. [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md).
 
 Most of the book is about habits on the organizational or state level. 
 On the organization, habits are a set of rules that determine the formal and informal behavior between teams, things like hierarchy and methods of interactions. In his opinion, a good organization is an organization will habits of cooperation but also clear hierarchy.
 
-as an organization, the best way to implement new habits is to use the "sandwich method", which is to insert the habit between two familiar ones. For example you can encourage listening to a new artist if its in between two familiar ones, same goes for products on the shelf. That makes it *feel* more similar. [Familiarity bias](/notes/familiarity-bias.md)
+as an organization, the best way to implement new habits is to use the "sandwich method", which is to insert the habit between two familiar ones. For example you can encourage listening to a new artist if its in between two familiar ones, same goes for products on the shelf. That makes it *feel* more similar. [We prefer what is familiar over what is better](/notes/we-prefer-what-is-familiar-over-what-is-better.md)
 
-On the societal level, social movements are built on social habits, which usually start from family and friends, then to a larger audience through [Weak Ties](/notes/weak-ties.md), and eventually develop to a national movement though habits that leaders make.
+On the societal level, social movements are built on social habits, which usually start from family and friends, then to a larger audience through [Weak social ties bridge different networks and expand access to opportunities](/notes/weak-social-ties-bridge-different-networks-and-expand-access-to-opportunities.md), and eventually develop to a national movement though habits that leaders make.
 
 :::note[THE CRAVING BRAIN How to Create New Habits]
 

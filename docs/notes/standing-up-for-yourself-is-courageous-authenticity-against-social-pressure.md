@@ -1,13 +1,13 @@
 ---
 UUID: 20240512081453
 Created: '2024-05-12 08:14'
-Modified: '2026-04-02 09:17'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Standing up for yourself
   - Courage
@@ -16,6 +16,10 @@ Description: >-
   fueled by intrinsic motivation and supported by a safe base, enabling
   courageous actions against fear.
 new_schema: true
+Topic:
+  - '[[Authenticity and Values]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,8 +53,3 @@ If and when you start to lose faith in the path you have set up for yourself, it
 ## Visual
 
 ![Standing up for yourself](/notes/standing-up-for-yourself.webp)
-
-## Overview
-🔼Topic:: [Authenticity and Values](/notes/authenticity-and-values.md)
-↩️Origin::
-🔗Link::

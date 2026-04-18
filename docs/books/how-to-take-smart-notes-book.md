@@ -3,25 +3,44 @@ excalidraw-plugin: parsed
 tags: []
 UUID: 20241001221939
 Created: '2024-10-01 22:19'
-Modified: '2024-10-01 22:19'
-Version: 1
+Modified: '2026-04-13 06:14'
+Version: 2
 PublishDate: 2022-03-11T00:00:00.000Z
 Pages: 190
 Author:
   - '[[Sönke Ahrens]]'
 Genre: Self-Help
-Stored: Kindle
+Stored:
+  - Kindle
+  - Epub
 Purchased: true
 Fiction: false
 Cover: >-
   http://books.google.com/books/content?id=QmBjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes'
-ReadingStatus: Read
+ReadingStatus: Done
 FinishDate: 2024-10-14T00:00:00.000Z
 Rate: 3
 aliases: null
 excalidraw-open-md: true
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
+Description: >-
+  It argues that writing enhances thinking by highlighting knowledge gaps,
+  allowing for mindful content consumption. By utilizing a bottom-up approach
+  and a holistic knowledge management system, individuals can improve their
+  writing and thinking processes, fostering deeper connections between ideas and
+  simplifying decision-making.
+FullTitle: >-
+  How to Take Smart Notes - One Simple Technique to Boost Writing, Learning and
+  Thinking
+StartDate: 2024-10-04T00:00:00.000Z
+ASIN: B09V5M8FR5
+Reread: 0
+Topic:
+  - '[[PKM (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -30,20 +49,31 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [PKM (Map)](/mocs/pkm-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas* 
 1. **Writing is thinking** - Writing is not the end result of a thinking process, but rather a part of the process itself. By forcing ourselves to write about a topic, we are much more likely to detect the holes in our knowledge, and by trying to explain it to others we improve our learning.
 2. **Thinking amplifiers** - Our mind is not meant to store endless knowledge, instead it works much better as a processer. Once we dump our knowledge into an external system through writing, we are able to focus on what matters - which is to consume content mindfully, to think deeply about a single thing each time, to distill a source into it's core aspects, to separate the valuable from the redundant, to detect connections between ideas.
 3. **Bottom up thinking** - thinking or writing is shallow when we try to implement a top down approach, i.e to choose a topic and start writing on a blank page. Instead, we should be guided by our passion. To see which topics and connections pop up in our slip-box, and to let it guide what we choose to write about. An additional advantage is that we don't start writing from scratch, but rather have a vast collection of notes to work with. To make it work, we need to connect and tag notes not based on topic, but rather what is the context (the cues) in which we would like this note to resurface
 4. **Knowledge management is an holistic system**  - Having a system in place helps us become better writers and thinkers because it helps us avoid distractions, it brings simplicity to the process and reduces the number of decisions we have to make along the way. Such a system doesn't arise naturally, we have to intentionally create it and not just pick and choose different aspects of it. It's advantages are emerging properties of having all the pieces working together harmonically. 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 1. **Better thinker and writer** - we need to externalize our knowledge in order to process it fully, we make room in our mind to think about ideas when we empty it out. So externalizing both clears our brain, and in the process we write more, so we are more practiced with it. Additionally, we have much more written knowledge to start with when we want to write a longer essay. 
-### 🔍Critique
+
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Capture fleeting notes** - carry a pen/paper or device and quickly record any idea or reminder into your inbox without worrying about quality.
+2. **Take literature notes** - while reading or consuming content, write concise notes that capture core ideas and potential connections to your vault.
+3. **Write one permanent note per idea** - distill literature and fleeting notes into a single clear, concise permanent note written in your own words as if explaining to someone else.
+4. **Assign topic links and keywords** - connect each permanent note to relevant topic/index notes and add keywords with your ongoing interests in mind.
+5. **Create and maintain index (topic) notes** - build index notes that map and locate related notes to form contexts for encountering ideas later.
+6. **Prune fleeting notes regularly** - review your inbox and delete or convert only valuable fleeting notes into permanent notes to reduce noise.
+7. **Use a simple, consistent note structure** - adopt a rigid, minimal template (sources, full sentences, references) so adding and linking notes is fast and uniform.
+8. **Read with intent for connections** - while reading, focus on material that can connect to existing notes or spark new links in the slip-box.
+9. **Link notes frequently** - create explicit note-to-note links to build a dense network that reveals patterns and aids memory and creativity.
+10. **Write and share small outputs** - use your networked notes to produce small written pieces (articles, drafts) by selecting topics with many related notes and iterating drafts.
+
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 Lumin with the help of his slip-box had managed to publish countless books and articles.
@@ -53,28 +83,28 @@ Is there really no other way to have good knowledge management other than the sl
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 I remember how I waited to read this book when I just started diving into the pkm world, now a few years after, I have to say that this book is hardly innovating. It is highly repetitive, and the attempt to persuade us to use the slip-box method is partial in it's success. Tying the content of the book to the slip-box method narrows it's scope which makes it shallow and limited, while if it only focused on the ideas of writing and documenting knowledge this could have been much better. 
-### 🖼️Outline
+### Outline
 
-![How to Take Smart Notes (book).webp](/books/how-to-take-smart-notes-book.webp)
+![How to Take Smart Notes (book)](/books/how-to-take-smart-notes-book.webp)
 
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
 We all write, because writing is not the end product of the process of thinking, rather it is an essential part of the process itself, **we think through writing**. The problem is that we assume that writing starts when we have chosen a topic and now face an empty note waiting to be filled.
 
-The truth is that good writing starts earlier in the preparation phase. It is all about [systematical thinking](/notes/systematical-thinking.md), by having a good system set in place, we can [trust the process](/notes/trust-the-process.md), we can let go of the belief that all the content has to be constantly remembered and situated in our mind, and focus on writing. Therefore it is not our IQ that determines the quality of our work, but rather the systems we set up. A good system also reduces the need for [Self discipline](/notes/self-control.md) because it reduces [friction](/notes/friction.md) and creates a sense of [flow](/notes/flow.md), which is much more beneficial than relying on willpower because [willpower is limited](/notes/willpower-is-limited.md). They also reduce the threats of [procrastination](/notes/procrastination.md)
+The truth is that good writing starts earlier in the preparation phase. It is all about [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md), by having a good system set in place, we can [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md), we can let go of the belief that all the content has to be constantly remembered and situated in our mind, and focus on writing. Therefore it is not our IQ that determines the quality of our work, but rather the systems we set up. A good system also reduces the need for [Self discipline](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) because it reduces [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) and creates a sense of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md), which is much more beneficial than relying on willpower because [Willpower is Limited](/notes/willpower-is-limited.md). They also reduce the threats of [Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md)
 
-Such a system doesn't get built by chance, it is the result of a conscious choice. This doesn't mean that it is a complex system, on the contrary, it's beauty is in it's [simplicity](/notes/simplicity.md), which means you don't have to rearrange what you've already done, you just need to get started. However, it does require an holistic approach, just focusing on one or two aspects will remove it's benefits, i.e the system's benefits are an [emerging](/notes/emergence.md) property. 
+Such a system doesn't get built by chance, it is the result of a conscious choice. This doesn't mean that it is a complex system, on the contrary, it's beauty is in it's [Distilling to essentials creates clarity and actionability](/notes/distilling-to-essentials-creates-clarity-and-actionability.md), which means you don't have to rearrange what you've already done, you just need to get started. However, it does require an holistic approach, just focusing on one or two aspects will remove it's benefits, i.e the system's benefits are an [emerging](/notes/system-properties-arise-from-component-interactions-not-individual-parts.md) property. 
 
-That system, is [Zettelkasten 2bc](/notes/zettelkasten-2bc.md) (or the "slip-box"), this system uses the concept of [atomism](/notes/atomism.md) and [extended mind](/notes/extended-mind.md) to be able to externalize and [distilling](/notes/distillment.md) ideas into small parts that can be put together in different ways, facilitating [Connection Making](/notes/coherentism.md).
+That system, is [Zettelkasten 2bc](/notes/zettelkasten-2bc.md) (or the "slip-box"), this system uses the concept of [Understanding requires breaking things to their smallest parts](/notes/understanding-requires-breaking-things-to-their-smallest-parts.md) and [Thinking extends beyond the brain to environment and society](/notes/thinking-extends-beyond-the-brain-to-environment-and-society.md) to be able to externalize and [distilling](/notes/distilling-separates-essence-from-noise-to-simplify-understanding.md) ideas into small parts that can be put together in different ways, facilitating [Connection Making](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.md).
 
-The key is also to [engage](/notes/engagement.md) with the notes, it's more than coping highlights, it's to think, process and connect them to other ideas.
+The key is also to [engage](/notes/active-engagement-turns-information-into-knowledge.md) with the notes, it's more than copying highlights, it's to think, process and connect them to other ideas.
 
 In short, the system is:
 1. **Literature notes** - notes about external sources such as books and articles
@@ -103,12 +133,12 @@ In short, the system is:
 
 ### Everything you need to do
 
-We learn best the more we engage with what we learn, and writing is a part of that. Not only emptying your mind, but also attempting to explain it to others [learning by doing](/notes/learning-by-doing.md)
+We learn best the more we engage with what we learn, and writing is a part of that. Not only emptying your mind, but also attempting to explain it to others [Active engagement with material accelerates learning](/notes/active-engagement-with-material-accelerates-learning.md)
 
 a typical workflow:
-1. **Fleeting notes** - capture ideas quickly from your mind, doesn't matter the quality or the medium, just to serve as a remainder and put it in your inbox [our mind is a processor and not a warehouse](/notes/our-mind-is-a-processor-and-not-a-warehouse.md)
+1. **Fleeting notes** - capture ideas quickly from your mind, doesn't matter the quality or the medium, just to serve as a remainder and put it in your inbox [Our mind is a processor and not a warehouse](/notes/our-mind-is-a-processor-and-not-a-warehouse.md)
 2. **Literature notes** - take notes about the things you read/consume. Follow your passion about which content to invest in, and don't focus too much about having a "plan", motivation is the key here
-3. **Permanent notes** - distill your literature and fleeting notes into a permanent note. Write it as if you explain it to someone else [Feynman Technique](/notes/feynman-technique.md), in your own words, as concise, simple and clear as possible. Connect each note to a "topic note", and to other related notes.
+3. **Permanent notes** - distill your literature and fleeting notes into a permanent note. Write it as if you explain it to someone else [Explaining ideas simply exposes gaps in understanding](/notes/explaining-ideas-simply-exposes-gaps-in-understanding.md), in your own words, as concise, simple and clear as possible. Connect each note to a "topic note", and to other related notes.
 
 :::note[Everything You Need to Do]
 
@@ -120,7 +150,7 @@ a typical workflow:
 
 ### Everything you need to have
 
-A good system's main attribute is [less is more](/notes/addition-by-subtraction.md), the simpler it is, the better it works.
+A good system's main attribute is [less is more](/notes/improvement-often-comes-from-removing-rather-than-adding.md), the simpler it is, the better it works.
 
 The slip box method require:
 1. something to write with/on
@@ -149,9 +179,9 @@ Writing is the main tool of research, therefore it should be it's focus. Everyth
 
 The advantage of a slip-box method is an emergent property, it gets better the more it grows, thanks to:
 1. **Bottom up approach** - Instead of trying to divide ideas into topics, which gets messy the more notes and topics we have, we arrange ideas by context, i.e "where would I want to encounter the idea next". A bottom up approach is much more resilient to size, and it allows for creation of new (and multiple) contexts as the knowledge grows.
-2. **Pruning** - If we keep every thought we ever had, it is going to get messy, and good ideas will be lost between all the [noise](/notes/noise.md). That's why it's important for us to have the "fleeting notes", a place where we only temporarily store ideas, and process them into permanent note if we see value in them. 
+2. **Pruning** - If we keep every thought we ever had, it is going to get messy, and good ideas will be lost between all the [Noise obscures truth with external interference and confusion](/notes/noise-obscures-truth-with-external-interference-and-confusion.md). That's why it's important for us to have the "fleeting notes", a place where we only temporarily store ideas, and process them into permanent note if we see value in them. 
 
-Explore many different fields, not just the one you are currently interested in [Range](/notes/breath-beats-depth.md), because you don't know which notes/content will be the one who will give you the most insights [pareto principle](/notes/pareto-principle.md)
+Explore many different fields, not just the one you are currently interested in [Range](/notes/breath-beats-depth.md), because you don't know which notes/content will be the one who will give you the most insights [Most benefits come from a small proportion of inputs](/notes/most-benefits-come-from-a-small-proportion-of-inputs.md)
 
 :::note[Simplicity Is Paramount]
 
@@ -173,7 +203,7 @@ First choosing a topic to write about and then focusing on it is a sure way to g
 
 #### Let the work carry you forward
 
-A good workflow creates a [Positive feedback loop](/notes/ripple-effect.md) of improvement, because it provides multiple opportunities for [feedback](/notes/feedback.md). Every time we are trying to process an idea and write it in our own words, we get feedback on how well we really understood the idea, and how well can we express it in writing. Therefore the slip-box method not only "forces" us to make many small notes i.e more chances of getting feedback vs one large paper, we also are "forced" to write our thoughts which is the only way to improve both at thinking and in writing. This system promotes a [growth mindset](/notes/growth-mindset.md)
+A good workflow creates a [Positive feedback loop](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md) of improvement, because it provides multiple opportunities for [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md). Every time we are trying to process an idea and write it in our own words, we get feedback on how well we really understood the idea, and how well can we express it in writing. Therefore the slip-box method not only "forces" us to make many small notes i.e more chances of getting feedback vs one large paper, we also are "forced" to write our thoughts which is the only way to improve both at thinking and in writing. This system promotes a [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)
 
 :::note[Let the Work Carry You Forward]
 
@@ -192,17 +222,17 @@ There are three main bottlenecks for productivity.
 
 Attention:
 
-The goal is to maximize our attention and our [focus](/notes/focus.md). This requires us to first acknowledge and try to limit any [Distractions](/notes/procrastination.md). A famous unknown distraction is [planning](/notes/planning.md), when we focus too much on planning we are delaying the process of actual learning. The moment we stop planning and start doing we begin to learn. Doing is the only way to achieve [mastery](/notes/mastery.md) because each experience helps us develop our [intuition](/notes/intuition.md) which is the bedrock of expertise. 
+The goal is to maximize our attention and our [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md). This requires us to first acknowledge and try to limit any [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md). A famous unknown distraction is [Planning is anticipating the future and preparing action accordingly](/notes/planning-is-anticipating-the-future-and-preparing-action-accordingly.md), when we focus too much on planning we are delaying the process of actual learning. The moment we stop planning and start doing we begin to learn. Doing is the only way to achieve [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md) because each experience helps us develop our [Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md) which is the bedrock of expertise. 
 
-Then we need to stop [multitasking](/notes/multitasking-doesnt-exist.md), because it only hurts our ability to concentrate fully on each task. Starting to focus on a task is called *focused attention*, but what we hope to achieve is *sustained attention*, where focusing is no longer difficult to do, when we achieve a sense of flow.
+Then we need to stop [multitasking](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md), because it only hurts our ability to concentrate fully on each task. Starting to focus on a task is called *focused attention*, but what we hope to achieve is *sustained attention*, where focusing is no longer difficult to do, when we achieve a sense of flow.
 
 Memory:
 
-Things are easier to memories and perform the smaller they are [start small](/notes/start-small.md). We can reduce the size of information by [chunking](/notes/chunking.md) it, which means separate it into smaller pieces and provide context to each piece to make it memorable. For example, a random collection of numbers is hard to memorize, but easier if we divide it into sets of numbers that can become someone's telephone number. 
+Things are easier to memories and perform the smaller they are [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md). We can reduce the size of information by [Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.md) it, which means separate it into smaller pieces and provide context to each piece to make it memorable. For example, a random collection of numbers is hard to memorize, but easier if we divide it into sets of numbers that can become someone's telephone number. 
 
-When we create new notes, by connecting them to other notes we make them easier to remember, because we provide the context [Mental Shortcuts](/notes/mental-shortcuts.md) that will help us remember it later on.
+When we create new notes, by connecting them to other notes we make them easier to remember, because we provide the context [Mental shortcuts enable faster learning through analogies and simplification](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md) that will help us remember it later on.
 
-Additionally, having smaller tasks helps us avoid the [zeigarnik effect](/notes/attention-residue.md) (unfinished tasks linger in our minds)
+Additionally, having smaller tasks helps us avoid the [zeigarnik effect](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md) (unfinished tasks linger in our minds)
 
 Willpower:
 
@@ -218,9 +248,9 @@ Since willpower is limited, the best way to preserve it is to make fewer decisio
 
 #### Read for understanding
 
-We have to read with intent, like how we understand text better when we write it by hand instead of typing it [learning should be hard](/notes/learning-should-be-hard.md). The goal is to avoid [conformation bias](/notes/conformation-bias.md) and instead focusing on what enriches our vault. What either connects or could be connected to other ideas? What makes the discussion in the vault more detailed and deep?
+We have to read with intent, like how we understand text better when we write it by hand instead of typing it [Learning should be hard](/notes/learning-should-be-hard.md). The goal is to avoid [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md) and instead focusing on what enriches our vault. What either connects or could be connected to other ideas? What makes the discussion in the vault more detailed and deep?
 
-Learning is a form of [deliberate practice](/notes/deliberate-practice.md), which means it takes both effort and time. The more we read intently, the more we try to distill books and resources into their core ideas, the better we would be at it [practice beats perfection](/notes/practice-beats-perfection.md).
+Learning is a form of [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md), which means it takes both effort and time. The more we read intently, the more we try to distill books and resources into their core ideas, the better we would be at it [Practice beats perfection](/notes/practice-beats-perfection.md).
 
 :::note[Read for Understanding]
 
@@ -235,7 +265,7 @@ Learning is a form of [deliberate practice](/notes/deliberate-practice.md), whic
 
 #### Take smart notes
 
-Writing turns the value of the slip box into a [compounding](/notes/compounding.md) one. The more notes we have, the exponentially better the box is. Writing also improves our ability to understand ideas because it gives us both the space [Empty Space](/notes/blank-space.md) and the distance [zoom out](/notes/zoom-out.md) needed to understand and think critically about complex ideas. Therefore we learn through writing.
+Writing turns the value of the slip box into a [Repeated actions yield exponentially increasing returns over time](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md) one. The more notes we have, the exponentially better the box is. Writing also improves our ability to understand ideas because it gives us both the space [Empty Space](/notes/every-system-needs-empty-space-to-function.md) and the distance [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md) needed to understand and think critically about complex ideas. Therefore we learn through writing.
 
 Another key aspect in learning is [Forgetfulness](/notes/forgetfulness.md), to remember everything is to be filled with noise, unable to detect the core message. Filtering out irrelevant information is key, but how can we know what is relevant and what is not? Our mind consider the information that has more cues to be more relevant, because it is more likely we will need it again someday. In the slip box method, more cues means more connections to other notes. That's why the value of an idea is mostly the amount of connections it has to other ideas.
 
@@ -245,9 +275,9 @@ Ideas starts from making connections, and that's why it is important to invest i
 
 Second, remember to invest in your note-to-note links, this helps you develop the external system and your internal knowledge simultaneously. By creating links we can detect patterns, which will be easier to remember. 
 
-Linking can also help you improve your [Critical Thinking](/notes/critical-thinking.md) because connecting ideas is the underlying concept of creativity. [creativity](/notes/transferred-learning.md) requires abstract thinking, to reduce ideas to their core essence, separated from the context and method in which they were captured [medium independent](/notes/medium-independent.md), to compare, combine and test. Only simple ideas can be combined in such a way, that is the benefit of having a system that distill ideas to a simple concept, which can be later used as a basis for a more complex idea, built on top of many notes. 
+Linking can also help you improve your [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md) because connecting ideas is the underlying concept of creativity. [creativity](/notes/knowledge-applied-across-contexts-enables-learning-generalization.md) requires abstract thinking, to reduce ideas to their core essence, separated from the context and method in which they were captured [Content is independent from the medium that transmits it](/notes/content-is-independent-from-the-medium-that-transmits-it.md), to compare, combine and test. Only simple ideas can be combined in such a way, that is the benefit of having a system that distill ideas to a simple concept, which can be later used as a basis for a more complex idea, built on top of many notes. 
 
-Another contributing factor for creativity is [standartization](/notes/limits.md), by having a clear and rigid structure to our notes, we first reduce the amount of [decision points](/notes/decision-points.md) we make when writing, while also making it easier to add new content or use existing one because it is in the same format, like how languages have clear grammar rules that helps us communicate better with fewer words. 
+Another contributing factor for creativity is [standartization](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md), by having a clear and rigid structure to our notes, we first reduce the amount of [Decision points force re-evaluation or action by creating deliberate triggers](/notes/decision-points-force-re-evaluation-or-action-by-creating-deliberate-triggers.md) we make when writing, while also making it easier to add new content or use existing one because it is in the same format, like how languages have clear grammar rules that helps us communicate better with fewer words. 
 
 :::note[Develop Ideas]
 
@@ -264,7 +294,7 @@ Writing an article or a book suddenly becomes much easier thanks to the bottom u
 1. **Deciding on a topic** - instead of searching for a topic to write about, we can just take a look at which topics resurface and have a large base of related notes in our slip-box. Additionally, the content of these topics could be converted into an article because we know it came from such a source already. We will also be more motivated to write on whatever sparks our passion, which is probably what we are already reading and writing about.
 2. **Making small decisions** - by writing every day, we have already noted which ideas are worth being written on, and we already have created a basis for an article so we don't need to start from scratch. 
 
-When planning how long your writing will take, remember that [first batch trash](/notes/first-batch-trash.md), our first draft will always be sub-par, and that it will probably take more time than we estimate [planning fallacy](/notes/planning-fallacy.md)
+When planning how long your writing will take, remember that [First attempts are inherently lower quality than iterations](/notes/first-attempts-are-inherently-lower-quality-than-iterations.md), our first draft will always be sub-par, and that it will probably take more time than we estimate [We underestimate task duration through overconfident predictions](/notes/we-underestimate-task-duration-through-overconfident-predictions.md)
 
 #### Make it a habit
 

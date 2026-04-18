@@ -1,13 +1,13 @@
 ---
 UUID: 20231230203220
 Created: '2023-12-30 20:32'
-Modified: '2026-04-09 08:54'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Abstract information is easier to remember spatially.png]]'
 ImageText: A person thinking about a house
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
 aliases:
   - Memory Palace
 new_schema: true
+Topic:
+  - '[[Memory Strategies and Mnemonics]]'
+Origin: '[[Moonwalking with Einstein (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,8 +52,3 @@ For example, instead of trying to memorize a todo-list such as go to the groceri
 ## Visual
 
 ![Abstract information is easier to remember spatially](/notes/abstract-information-is-easier-to-remember-spatially.webp)
-## Overview
-🔼Topic:: [Memory Strategies and Mnemonics](/notes/memory-strategies-and-mnemonics.md)
-↩️Origin:: [Moonwalking with Einstein (book)](/notes/moonwalking-with-einstein-book.md)
-🔗Link::
-

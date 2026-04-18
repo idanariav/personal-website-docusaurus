@@ -1,13 +1,13 @@
 ---
 UUID: 20241024182851
 Created: '2024-10-24 18:28'
-Modified: '2026-04-02 22:44'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Comparing ourselves to others damages wellbeing and progress.png]]'
 ImageText: >-
   A small person with a crown standing on a podium looking up at tall people on
@@ -20,6 +20,10 @@ aliases:
   - Comparisons
   - Comparing
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ To compare yourself to others is to become a slave to [Jealousy is focusing on w
 ## Visual
 
 ![Comparing ourselves to others damages wellbeing and progress](/notes/comparing-ourselves-to-others-damages-wellbeing-and-progress.webp)
-
-## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-↩️Origin::
-🔗Link::
-

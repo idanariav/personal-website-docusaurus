@@ -1,28 +1,47 @@
 ---
 UUID: 20240812072156
 Created: '2024-08-12 07:21'
-Modified: '2024-08-26 07:34'
+Modified: '2026-04-13 06:21'
 tags: []
+FullTitle: >-
+  The Yes Brain -  How to Cultivate Courage, Curiosity, and Resilience in Your
+  Child
+Description: >-
+  It argues for a proactive approach to life, emphasizing emotional and rational
+  integration, balance in relationships, resilience through support,
+  self-reflection, empathy, and the dangers of harmful parenting behaviors.
+  These elements foster personal growth, happiness, and deeper connections with
+  others.
 Author:
   - '[[Daniel J. Siegel]]'
   - '[[Tina Payne Bryson]]'
+URL: 'https://www.goodreads.com/book/show/34962308-the-yes-brain'
+Cover: >-
+  http://books.google.com/books/content?id=aMGtDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Family & Relationships
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B071Y2BTT4
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 209
+Reread: 0
 Rate: 4
 PublishDate: 2018-01-09T00:00:00.000Z
+StartDate: 2024-08-16T00:00:00.000Z
 FinishDate: 2024-08-24T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=aMGtDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/34962308-the-yes-brain'
+Image: null
 aliases: null
+Topic:
+  - '[[developing capabilities]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -31,10 +50,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [developing capabilities](/notes/developing-capabilities.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Yes brain = positive capable person** - A yes brain is having a proactive (rather than reactive) approach to life. It is to say yes to experiences, to strong feelings, to failures, and have the strength to rise above difficulties and use them as a way to grow. This is not by chance also the way to achieve happiness.
 2. **It's all about integration** - competence and happiness stem from being able to integrate between the emotional and rational part of the brain. Practicing integration is a self reinforcing process. It requires (and creates) balance, resilience, insights and empathy.
@@ -44,11 +60,11 @@ SiteProcssed: true
 6. **Empathy - understand others to understand yourself** - the more we divert the attention to others' emotional state, and approach it with curiosity, the better we will be at not only understanding others, but also share their pain, and care about their happiness. By understanding other's emotions, we will also be better at understanding our owns.
 7. **Gaslighting, ignoring, lecturing or controlling - the 4 horseman of parent apocalypse** - The most harmful approaches to our kids emotional crisis are these. Gaslighting - to tell them "oh it's not so bad" or "you're a big boy you shouldn't be afraid of it". Ignoring - to ignore their crisis which teaches them that we simply don't care, and that they can't rely on us. Lecturing - treating them as the problem, and be angry at them for acting that way. Controlling - doing things for them or telling them what to do, an act of distrust.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 1. Happier more resilient kids
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **Brain integration** - happiness and competence is when we integrate between the different sides of the mind, the rational and the emotional.
@@ -63,30 +79,30 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 I love their way of writing, and the comic strips that demonstrates the main arguments in a simple visual frame. The writing is clear, thoughtful and interesting.
 
 However it is felt that this book is thin, both in length and in variety of content, especially considering the previous books.
 
-### 🖼️Outline
+### Outline
 
-![The Yes Brain (book).webp](/books/the-yes-brain-book.webp)
-## 📒 Notes
+![The Yes Brain (book)](/books/the-yes-brain-book.webp)
+## Notes
 
 ### The Yes Brain: Introduction
 
 The brain has two main modes, the "Yes" and the "No".
 
-1. **The NO state** - this state is a reactive one, one that stems from the [Amygdala](/notes/amygdala.md) and focuses on reducing threats. It limits our view and our ability to think creatively, think more critically and abstractly, thinking about values or other people. People with a "no" brain are victims to their circumstances and emotions [emotional hijacking](/notes/emotional-hijacking.md). It leads to stubbornness, anxiety and competitiveness [stress](/notes/stress.md) [Zero sum](/notes/binary-thinking.md)
-2. **The YES state** - This state combines the prefrontal cortex with the rest of the brain, it allows for open thinking, [empathy](/notes/empathy.md), [emotional resilience](/notes/emotional-resilience.md), [authenticity](/notes/authenticity.md) and [cooperation](/notes/cooperation.md). They see challenges as something they can overcome and learn from [Obstacles as stepping stones](/notes/creative-destruction.md)
+1. **The NO state** - this state is a reactive one, one that stems from the [Amygdala](/notes/amygdala.md) and focuses on reducing threats. It limits our view and our ability to think creatively, think more critically and abstractly, thinking about values or other people. People with a "no" brain are victims to their circumstances and emotions [Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md). It leads to stubbornness, anxiety and competitiveness [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) [Zero sum](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md)
+2. **The YES state** - This state combines the prefrontal cortex with the rest of the brain, it allows for open thinking, [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md), [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md), [Acting in alignment with your values is authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.md) and [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md). They see challenges as something they can overcome and learn from [Obstacles as stepping stones](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
 
 The importance of developing a "yes" brain is twofold:
-1. **Perpetuating state** - how we think about the world is a [self renforcing loop](/notes/habit-formation.md). The more we practice a "yes" brain, the easier it will become, and vice versa for thinking like a "no" brain. It's all due to the brain's [neuroplasticity](/notes/neuroplasticity.md), what we do, experience and pay attention to shapes who we are.
-2. **Integration** - the yes brain promotes integration between the different parts of the [human brain](/notes/human-brain.md), which research shows it's the best way to connect one to himself [harmonious self](/notes/harmonious-self.md), bringing [Self-awareness](/notes/self-awareness.md), understanding of who we are, but also connect us to others and help form [relationships](/notes/relationships.md) and find meaning and happiness in our lives.
+1. **Perpetuating state** - how we think about the world is a [self renforcing loop](/notes/repeated-actions-become-automatic-through-habit-formation.md). The more we practice a "yes" brain, the easier it will become, and vice versa for thinking like a "no" brain. It's all due to the brain's [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md), what we do, experience and pay attention to shapes who we are.
+2. **Integration** - the yes brain promotes integration between the different parts of the [human brain](/notes/human-brain.md), which research shows it's the best way to connect one to himself [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md), bringing [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md), understanding of who we are, but also connect us to others and help form [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md) and find meaning and happiness in our lives.
 
-This doesn't mean that a yes brain is about permissiveness or being always happy, on the contrary, it's about embracing difficulties and pain as part of our process of growth [growth mindset](/notes/growth-mindset.md).
+This doesn't mean that a yes brain is about permissiveness or being always happy, on the contrary, it's about embracing difficulties and pain as part of our process of growth [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md).
 
 The development of a yes brain takes time, remember that a fully developed "upstairs brain" happens only at 25, but to make our child more capable, balanced, and happy we need to work on developing these parts of the brain, through:
 1. Balance
@@ -94,7 +110,7 @@ The development of a yes brain takes time, remember that a fully developed "upst
 3. Empathy
 4. Insights
 
-One of the best ways is to do so yourself, be [role models](/notes/role-models.md) for your kid.
+One of the best ways is to do so yourself, be [Role models embody behaviors and values we aspire to adopt](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md) for your kid.
 
 :::note[The yes brain: Introduction]
 
@@ -114,18 +130,18 @@ One of the best ways is to do so yourself, be [role models](/notes/role-models.m
 
 ### The Balanced Yes Brain
 
-Balance is knowing how to regulate your emotions, to be able to stay in control when emotions are high, to recognize our [Freedom of response](/notes/agency.md). It's very hard for adults, let alone kids to do so, so **when they are having a crisis it's mostly because they can't control their emotions, not that they choose not to**. In these moments they need support, a calming presence, not a lecture. Moments of crisis can be either a tantrum (aka "red zone") or shutting down (aka "blue zone"), balance is achieving when they are able to withstand their emotions, which is not the same as not experiencing them at all (aka "green zone")
+Balance is knowing how to regulate your emotions, to be able to stay in control when emotions are high, to recognize our [Freedom of response](/notes/agency-is-the-ability-to-connect-desires-and-actions.md). It's very hard for adults, let alone kids to do so, so **when they are having a crisis it's mostly because they can't control their emotions, not that they choose not to**. In these moments they need support, a calming presence, not a lecture. Moments of crisis can be either a tantrum (aka "red zone") or shutting down (aka "blue zone"), balance is achieving when they are able to withstand their emotions, which is not the same as not experiencing them at all (aka "green zone")
 
-Our goal as parents is to make their green zone wider, and help them get back to the green zone in moments of crisis. Both of which are done through a stable, strong, supportive relationship. It's not our job to rescue them [Dont Jump to the Rescue](/notes/dont-jump-to-the-rescue.md), but we should [validation](/notes/validation.md) their feelings, to really hear them out and share their pain, even if we don't change or mind or so something to solve their crisis.
+Our goal as parents is to make their green zone wider, and help them get back to the green zone in moments of crisis. Both of which are done through a stable, strong, supportive relationship. It's not our job to rescue them [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md), but we should [Accepting others feelings and perspectives without dismissal](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md) their feelings, to really hear them out and share their pain, even if we don't change or mind or so something to solve their crisis.
 
 If we lecture, blame or gaslight them, this will only either worsen the study's crisis, or they will learn to hide their true feelings from us. If we instead bubble wrap them and protect them from the world, we are robing their ability to grow, and project as if we don't believe in them.
 
 The goal therefore is to be both *linked* (to care, show love, acceptance and support) and to *differentiate* (to not impose our worldview on them, not to take control over their lives and allow them to feel and do things their way)
 
-Part of that balance is also balancing their time. Parents tend to over schedule their kid's time and leave no room for [Play](/notes/gamification.md) and letting them choose what to do [Empty Space](/notes/blank-space.md). Even [boredom](/notes/boredom.md) is something that might be useful because it will push them towards creative pursuits and being active in their lives. Play is essential because it helps them develop many social, cognitive and physical skills
+Part of that balance is also balancing their time. Parents tend to over schedule their kid's time and leave no room for [Play](/notes/play.md) and letting them choose what to do [Empty Space](/notes/every-system-needs-empty-space-to-function.md). Even [Boredom signals under-stimulation and disconnection from intrinsic motivation](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md) is something that might be useful because it will push them towards creative pursuits and being active in their lives. Play is essential because it helps them develop many social, cognitive and physical skills
 
 To make sure we are not over scheduling them, see if they have enough time in the day for;
-1. **Focus time** - to get into [flow](/notes/flow.md) while doing something
+1. **Focus time** - to get into [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md) while doing something
 2. **Play time** - to explore new experiences, to be spontaneous and creative
 3. **Connecting time** - time with other people
 4. **Physical time** - to move around
@@ -156,14 +172,14 @@ Other than sleep, there's no recommended time per activity, just make sure all a
 
 While balance is all about staying in the green zone without crossing into the blue or red zone, the resilient piece is all about expanding the green zone such that it will be harder to escape it, and increase grit such that it will be easier to bounce back in.
 
-Developing [grit](/notes/grit.md) is all about acknowledging that life will be difficult, they will face challenges, but we believe in them, we love them, and we know that they can get over the frustration, failure and anxiety that comes with those difficulties, coming out stronger and wiser. **We have to let them fail, and come up with solutions on their own**.
+Developing [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) is all about acknowledging that life will be difficult, they will face challenges, but we believe in them, we love them, and we know that they can get over the frustration, failure and anxiety that comes with those difficulties, coming out stronger and wiser. **We have to let them fail, and come up with solutions on their own**.
 
 It starts with us acknowledging that a "problematic behavior" doesn't mean that our child "is problematic", but rather as a sign of communication that they are experiencing a problem, a certain skill that they haven't developed yet. The worse thing we can do is to gaslight them, to say "there's nothing to worry about", or "don't be scared" or "you're already a big boy now, and big boy's don't do x". Instead say things like "I know this can be scary, and I see how much you make an effort. I'm right here with you."
 
 The key is to find the balance between *pushing* - to let them experience challenges and failure, and *cushioning* - to not let them crash facing challenges too big, and be there for them when they need support. Just one or the other isn't enough.
 
 When we have a strong connection with our child, we help them grow by:
-1. **Safe base** - when they know we are there to support them whenever they wish to, that they always have a safe base to lean on, it gives them the strength and freedom to explore without stress [Safe Base](/notes/safe-base.md)
+1. **Safe base** - when they know we are there to support them whenever they wish to, that they always have a safe base to lean on, it gives them the strength and freedom to explore without stress [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md)
 2. **Familiarity** - a strong connection leads to a deeper understanding, we know them better, so we can detect more subtle cues and respond accordingly
 
 :::note[the resilient yes brain]
@@ -179,11 +195,11 @@ When we have a strong connection with our child, we help them grow by:
 
 ### The Insightful Yes Brain
 
-Insights is all about gaining self awareness through [introspection](/notes/introspection.md), which will allow to put a wedge between your emotional state and the decisions you make afterwards. This pause is essential, without it we would be slave to our tantrums.
+Insights is all about gaining self awareness through [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md), which will allow to put a wedge between your emotional state and the decisions you make afterwards. This pause is essential, without it we would be slave to our tantrums.
 
-This pause gives us the ability to switch from being the "player" (the one who experiences the situation) to the "spectator", a person with some [cognitive distancing](/notes/cognitive-distancing.md) that can provide consul on how we should act, like a [mentor](/notes/mentor.md).
+This pause gives us the ability to switch from being the "player" (the one who experiences the situation) to the "spectator", a person with some [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md) that can provide consul on how we should act, like a [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md).
 
-We can generate this pause either by [reframe](/notes/framing.md) the pain. To saw that not only that struggle is often unavoidable, and that it helps us grow, but that we can also choose our pain. For example, we can either stay afraid of going to summer camp, thus losing friends and exciting events, or we can face the fear head on, and let it be our struggle.
+We can generate this pause either by [reframe](/notes/how-we-describe-something-shapes-how-it-is-perceived.md) the pain. To saw that not only that struggle is often unavoidable, and that it helps us grow, but that we can also choose our pain. For example, we can either stay afraid of going to summer camp, thus losing friends and exciting events, or we can face the fear head on, and let it be our struggle.
 
 We can also try to help them understand the metaphor of the red volcano. If we manage to stop ourselves before we erupt, and understand what triggers that then we are able to pause and stay in the green zone.
 
@@ -205,7 +221,7 @@ Empathy, like all other brain development, takes time. Also, development is some
 To encourage empathy, it's all about diverting their attention into the emotional state of others, sparking their curiosity instead of judgement.
 
 Common methods:
-1. **Open ended questions** - whenever someone displays emotions, could even be in a book, we ask "why did he act that way?" Or "what do you think he is feeling right now?" [Open ended questions](/notes/open-ended-questions.md)
+1. **Open ended questions** - whenever someone displays emotions, could even be in a book, we ask "why did he act that way?" Or "what do you think he is feeling right now?" [Open-ended questions enable deeper understanding and meaningful dialogue](/notes/open-ended-questions-enable-deeper-understanding-and-meaningful-dialogue.md)
 2. **Role play** - try to switch places with your child. They will act as someone else while you act as them, and see how the scene plays out and whether your child can tap into someone else's emotions
 3. **I statements** - instead of them saying "you should..." Or "you always do...", they should switch to I statements such as "I feel bad when..."
 4. **Altruistic care** - to point them towards suffering of others and inviting them to volunteer with you to help someone else.
@@ -220,7 +236,7 @@ Common methods:
 
 ### Rethinking Success: a Yes Brain Perspective
 
-Happiness is not about pursuing external achievements and rewards, this creates a [Future disillusionment](/notes/future-disillusionment.md) when thinking about happiness. Instead of exploring who we are, we are embracing a cold, numeric proxy of the outside world. This is why a yes brain connects so well with true happiness. It is about learning who you are, while also having the necessary skills to venture through life and creating your own path, nursing your own unique spark. And that's exactly our goal as parents, to provide this support in identity discovery and fulfillment. We shouldn't control nor dictate their lives, and not fall pray to any metric that tries to define our kid such as test results, which university they picked, or overwhelm them with extracurricular classes. We must provide them with time to explore and play, while also exposing them to challenges such that they will learn to fall and get back up.
+Happiness is not about pursuing external achievements and rewards, this creates a [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md) when thinking about happiness. Instead of exploring who we are, we are embracing a cold, numeric proxy of the outside world. This is why a yes brain connects so well with true happiness. It is about learning who you are, while also having the necessary skills to venture through life and creating your own path, nursing your own unique spark. And that's exactly our goal as parents, to provide this support in identity discovery and fulfillment. We shouldn't control nor dictate their lives, and not fall pray to any metric that tries to define our kid such as test results, which university they picked, or overwhelm them with extracurricular classes. We must provide them with time to explore and play, while also exposing them to challenges such that they will learn to fall and get back up.
 
 :::note[rethinking success: a yes brain perspective]
 

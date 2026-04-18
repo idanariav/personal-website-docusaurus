@@ -1,13 +1,13 @@
 ---
 UUID: 20221201211327
 Created: '2022-12-01 21:13'
-Modified: '2026-04-10 14:07'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 6
+Version: 7
 Image: >-
   [[System properties arise from component interactions not individual
   parts.png]]
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Emergence
 new_schema: true
+Topic:
+  - '[[Systems and Structural Thinking]]'
+Origin: '[[Kurzgesagt]]'
+URL: 'https://www.youtube.com/embed/16W7c0mb-rE'
 draft: false
 SiteProcssed: true
 ---
@@ -56,10 +60,3 @@ Similarly, the advantages of a good knowledge system stem not from the quality o
 ## Visual
 
 ![System properties arise from component interactions not individual parts](/notes/system-properties-arise-from-component-interactions-not-individual-parts.webp)
-
-## Overview
-🔼Topic:: [Systems and Structural Thinking](/notes/systems-and-structural-thinking.md)
-◀Origin:: [Kurzgesagt](/notes/kurzgesagt.md)
-🔗Link:: https://www.youtube.com/embed/16W7c0mb-rE
-
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20230403065231
 Created: '2023-04-03 06:52'
-Modified: '2026-04-09 16:56'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Systematical Thinking
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   results of underlying systems, emphasizing the need to change causes rather
   than actions to improve outcomes.
 new_schema: true
+Topic:
+  - '[[Systems and Structural Thinking]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ However, setting up a system is not easy. Sometimes there's already a [system](/
 ## Visual
 
 ![Systematical Thinking](/notes/systematical-thinking.webp)
-
-## Overview
-🔼Topic:: [Systems and Structural Thinking](/notes/systems-and-structural-thinking.md)
-◀Origin::
-🔗Link::
-

@@ -1,14 +1,14 @@
 ---
 UUID: 20221101075539
 Created: '2022-11-01 07:55'
-Modified: '2026-04-10 10:12'
+Modified: '2026-04-12 07:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
 new_schema: true
-Version: 7
+Version: 9
 Image: '[[A person is a community.png]]'
 ImageText: Person with people arguing within his head
 Description: >-
@@ -20,6 +20,10 @@ aliases:
   - intrapersonal conflict
   - a human is a community
   - we contain multitude
+Topic:
+  - '[[Identity Structure]]'
+Origin: '[[First Things First (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,8 +56,3 @@ In some sense, this also means that [What we do is not who we are](/notes/separa
 ## Visual
 
 ![A person is a community](/notes/a-person-is-a-community.webp)
-
-## Overview
-🔼Topic:: [Identity Structure](/notes/identity-structure.md)
-◀Origin:: [First Things First (book)](/books/first-things-first-book.md)
-🔗Link::

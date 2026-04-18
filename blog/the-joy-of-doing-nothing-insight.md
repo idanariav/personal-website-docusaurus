@@ -25,7 +25,7 @@ In a world where time always feels scarce, we squeeze every moment for output, o
 
 ![joy_of_doing_nothing.webp](/posts/joy_of_doing_nothing.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 Doing nothing is apparently very hard.
 

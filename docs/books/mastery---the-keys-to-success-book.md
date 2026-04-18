@@ -1,17 +1,17 @@
 ---
 UUID: 20250525191158
 Created: '2025-05-25 19:11'
-Modified: '2025-06-11 03:09'
+Modified: '2026-04-13 06:15'
 tags: []
 Author:
   - '[[George Leonard]]'
 Genre: self-help
 Stored: Kindle
-ReadingStatus: Read
+ReadingStatus: Done
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 193
 Rate: 2
 PublishDate: 1991-02-01T00:00:00.000Z
@@ -28,6 +28,9 @@ FullTitle: Mastery - The Keys to Success and Long-Term Fulfillment
 StartDate: 2025-06-03T00:00:00.000Z
 ASIN: B01ND0X91Y
 Reread: 0
+Topic:
+  - '[[Mastery requires deliberate practice and hard work, not innate talent]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -36,16 +39,12 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: Mastery
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Mastery is a long road** - it takes time and effort to reach mastery, and it involves "surviving" through long periods of plateau where improvement is non existing
 2. **Always be a student** - we fall off the road to mastery once we decide that we have nothing more to learn. Always be curious and open for learning.
 
-### ✅Act
+### Act
 📋*What should I do to achieve the goals set out by this book?*
 1. **Practice diligently** - commit to consistent, repeated practice and enjoy the process rather than only aiming for outcomes.
 2. **Persist through plateaus** - continue training during slow progress periods and treat plateaus as normal parts of the path to mastery.
@@ -58,12 +57,12 @@ SiteProcssed: true
 9. **Stay present and intentional during routine tasks** - treat everyday chores and basic practice as opportunities for awake, focused training.
 10. **Maintain long-term immersion** - choose a direction or goal and immerse yourself in it, building momentum and increasing energy capacity over time.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 We would not quit while experiencing a plateau because we know it is part of the journey to mastery.
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -71,14 +70,14 @@ We would not quit while experiencing a plateau because we know it is part of the
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 Another "meh" book, perhaps a representation of how books were like before the information age, where editing was scarce. It is a simple, slightly inspirational, and shallow book.
 
-### 🖼️Outline
+### Outline
 
-## 📒 Notes
+## Notes
 
 ### The Masters Journey
 
@@ -88,11 +87,11 @@ Mastery begins with learning the most basic of skills.
 
 #### What is Mastery
 
-The road to mastery is long and unrewarding. Early on you would reach a plateau which seems like mastery is unreachable or so far into the future Non linear. Training would be hard and you will feel like you're making zero progress.
+The road to mastery is long and unrewarding. Early on you would reach a plateau which seems like mastery is unreachable or so far into the future [Progress and change follow non-linear trajectories with thresholds](/notes/progress-and-change-follow-non-linear-trajectories-with-thresholds.md). Training would be hard and you will feel like you're making zero progress.
 
-While we all have the potential for greatness Practice beats talent, it is those with Grit that stay on the frustrating long path to mastery that achieve it.
+While we all have the potential for greatness [Practice beats talent](/notes/practice-beats-talent.md), it is those with [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) that stay on the frustrating long path to mastery that achieve it.
 
-It is long because it takes a lot of time to Habituate a skill, to make it automatic which allows us to advance to the next skill.
+It is long because it takes a lot of time to [Habituate](/notes/repeated-actions-become-automatic-through-habit-formation.md) a skill, to make it automatic which allows us to advance to the next skill.
 
 :::note[What Is Mastery?]
 
@@ -105,13 +104,13 @@ It is long because it takes a lot of time to Habituate a skill, to make it autom
 #### Meet the Dabbler, the Obsessive, and the Hacker
 
 There are three types of learners:
-1. **The dabblers** - easily distracted by novelty, they start something new and quit once a plateau is reached, because it's "not for them". They lack the patience necessary to withstand the plateau.
+1. **The dabblers** - easily distracted by [novelty](/notes/distraction-by-novelty-undermines-commitment-and-depth.md), they start something new and quit once a plateau is reached, because it's "not for them". They lack the patience necessary to withstand the plateau.
 2. **The obsessive** - They have to be the best. Every time they hit a plateau they double down their efforts in attempts to shorten or bypass it. In the process, they burn resources and prioritize short-term gains over long-term development.
 3. **The hacker** - They stay on the plateau because it's comfortable, they don't have the energy to do what it takes to start something new or advance beyond the current plateau.
 
 #### America's War against Mastery
 
-Today's Attention Economy is based on selling us short-term gains, causing us to be Short term biased, and hedonistic. We believe in immediate gratification, which goes against the long hard road to mastery.
+Today's [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md) is based on selling us short-term gains, causing us to be [Short term biased](/notes/we-prefer-immediate-benefits-over-delayed-ones.md), and [hedonistic](/notes/pleasure-and-pain-are-the-only-measures-of-good.md). We believe in immediate gratification, which goes against the long hard road to mastery.
 
 #### Loving the Plateau
 
@@ -129,9 +128,9 @@ Life is a journey, not a destination. We will spend most of it on a plateau, so 
 
 #### Key 1 - Instruction
 
-It's hard and wasteful to reinvent the wheel. There's no better form of learning than seeking a Mentor, because of their ability to provide accurate detailed Feedback.
+It's hard and wasteful to reinvent the wheel. There's no better form of learning than seeking a [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md), because of their ability to provide accurate detailed [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md).
 
-Remember that it's easy to coach the best. Most of us, and most of the students are not born talented, and not fast learners. Therefore a good mentor is one with Patience.
+Remember that it's easy to coach the best. Most of us, and most of the students are not born talented, and not fast learners. Therefore a good mentor is one with [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md).
 
 :::note[Key 1: Instruction]
 
@@ -153,7 +152,7 @@ Practice, practice, practice, and love doing so.
 
 #### Key 3 - Surrender
 
-Have a Beginner's Mind. Don't think you know more than your master, or that you're above practicing the basics.
+Have a [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md). Don't think you know more than your master, or that you're above practicing the basics.
 
 :::note[Key 3: Surrender]
 
@@ -165,7 +164,7 @@ Have a Beginner's Mind. Don't think you know more than your master, or that you'
 
 #### Key 4 - Intentionality
 
-Using Mental Representations helps your performance. It prepares the body for the upcoming activity.
+Using [We store knowledge as visual mental models](/notes/we-store-knowledge-as-visual-mental-models.md) helps your performance. It prepares the body for the upcoming activity.
 
 #### Key 5 - the Edge
 
@@ -175,7 +174,7 @@ Don't stay in your comfort zone, push beyond your limits.
 
 #### Why Resolutions Fail and what to Do about I
 
-Homeostasis is not just for our temperature, it's for our behavior as well. As we try something new, it will resist back, trying to maintain the status quo. It will be a step forward step backward kind of thing when we try to get back up on the path to mastery. But, with time our "benchmark" will change to this new way of living, making the master's path the default.
+[Homeostasis](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md) is not just for our temperature, it's for our behavior as well. As we try something new, it will resist back, trying to maintain the status quo. It will be a step forward step backward kind of thing when we try to get back up on the path to mastery. But, with time our "benchmark" will change to this new way of living, making the master's path the default.
 
 #### Getting Energy for Mastery
 
@@ -183,7 +182,7 @@ How can we find the energy to follow through with our choices? Energy is a matte
 
 We can also increase our energy capacity by working out and being optimistic.
 
-Lastly, we need to choose a direction to follow, a goal, and be immersed in it. To convert any "negative feelings" that arise from the challenges along the way to fuel for our journey Emotional Aikido
+Lastly, we need to choose a direction to follow, a goal, and be immersed in it. To convert any "negative feelings" that arise from the challenges along the way to fuel for our journey [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md)
 
 #### Pitfalls along the Path
 

@@ -1,27 +1,45 @@
 ---
 UUID: 20250201175206
 Created: '2025-02-01 17:52'
-Modified: '2025-06-24 16:02'
+Modified: '2026-04-13 06:17'
 tags: []
+FullTitle: Raising Resilience - How to Help Our Children Thrive in Times of Uncertainty
+Description: >-
+  It argues that resilience stems from connection and acceptance rather than
+  trauma, emphasizing the importance of nurturing parental relationships.
+  Mistakes are part of growth, and parents should model resilience while
+  providing structure and emotional support, allowing children to learn from
+  their experiences.
 Author:
   - '[[Tovah P. Klein]]'
   - '[[Billie Fitzpatrick]]'
+URL: 'https://www.goodreads.com/book/show/150351823-raising-resilience'
+Cover: >-
+  http://books.google.com/books/content?id=dSjBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Family & Relationships
-Stored: kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B0C4LDND8D
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 256
+Reread: 0
 Rate: 3
 PublishDate: 2024-09-03T00:00:00.000Z
+StartDate: 2025-06-09T00:00:00.000Z
 FinishDate: 2025-06-23T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=dSjBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/150351823-raising-resilience'
+Image: null
+aliases: ''
+Topic:
+  - '[[Education (Map)|Parenting (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -30,22 +48,33 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Parenting (Map)](/mocs/education-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Resilience is created through connection and acceptance, not trauma** - Stressful moments don't lead to more resilience, they only separate between those who do and don't already have it. Resilience is created when a child has the emotional and physical safety net of their parents, knowing we support, accept and embrace them when times are tough, so that they could venture on by themselves after they get back up.
 2. **Parental relationship is an emotional umbilical cord** - Until they reach full maturity, kids are incapable of growing on their own. Same as the umbilical cord in the womb, it is our responsibility to nurture their skills and independence until they will be ready to handle life's challenges themselves.
 3. **It's okay to mess up** - It's not a matter of being the perfect parent, we have our issues to handle as well. It is better for our kid to see us falling down and getting back up, to be a role model for resilience rather than painting a fake picture of a perfect life. They learn that they can mess up too without it destroying our appreciation of them, their self worth or identity.
 4. **The parental tooltip** - avoid shaming, gaslighting or micro-managing. Stand your ground with your boundaries, but let them choose freely within them, don't save them from their mistakes. Accept who they are, the good and the bad. Give structure to their experience, with routines, labeling their emotions, and helping them build their narrative.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 We would help build resilience in our children, while also being more connected to them.
-### 🔍Critique
+
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Show up consistently** - be a dependable, supportive parent who consistently offers presence and stability so your child internalizes that support.
+2. **Provide emotional safety by validating feelings** - accept and validate your child's emotions without judgment so they feel safe to explore and express themselves.
+3. **Use routines and 1:1 moments as safety touch points** - create regular routines (meals, bedtime, getting dressed) and dedicated one-on-one time to practice being your child's safety net.
+4. **Co-regulate and model self-regulation** - remain calm during meltdowns, use comforting physical language (hugs), slow deep breaths, label their feelings, and ground them through sensory focus.
+5. **Repair and reconnect after conflicts** - initiate repair after moments of anger or disconnection by addressing what happened, validating feelings, and discussing how to avoid repeats.
+6. **Set clear boundaries while granting freedom within them** - mark what is allowed and not allowed, enforce reasonable limits, and progressively increase freedom as trust develops.
+7. **Let children make mistakes and face consequences** - allow failures and natural consequences to build agency, skill, and a growth mindset instead of rescuing or overprotecting.
+8. **Foster social skills and quality connections** - role-play social scenarios, model good communication, arrange playdates, and discuss difficult social events to build empathy and resilience.
+9. **Provide clear narratives for events** - explain complicated or upsetting events in simple terms so your child doesn't fill in the blanks or blame themselves.
+10. **Model acceptance and self-care; apologize when you mess up** - show unconditional acceptance, avoid perfectionism and shaming, practice self-care (sleep, movement, gratitude), and repair by apologizing to teach resilience.
+
+
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -54,22 +83,22 @@ We would help build resilience in our children, while also being more connected 
 🧱 *Implementations and limitations of it are...*
 The examples are nice, but perhaps they needed to be included at the end as an appendix, because they are very forgettable once you finish the chapter
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 I feel like this book has only one argument to deliver, which is the idea of acceptance, and all the other parts are the sub components of it, it builds up to the final chapter, although by then we already know all that there is to know.
 
-### 🖼️Outline
+### Outline
 
-![Raising Resilience (book).webp](/books/raising-resilience-book.webp)
+![Raising Resilience (book)](/books/raising-resilience-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-We mistakenly think that overcoming challenges *builds* our resilience. However, it only *shows* it. We build resilience through [Showing up](/notes/consistency.md) as a supportive parent, helping our children develop self-regulation tools that they will use in moments of crisis [developing capabilities](/notes/developing-capabilities.md).
+We mistakenly think that overcoming challenges *builds* our resilience. However, it only *shows* it. We build resilience through [Showing up](/notes/consistency-compounds-results-through-reliable-repeated-action.md) as a supportive parent, helping our children develop self-regulation tools that they will use in moments of crisis [developing capabilities](/notes/developing-capabilities.md).
 
-To do that, we can't parent from a top-down approach [Micro-Management](/notes/micro-management.md). We should be their [Safe Base](/notes/safe-base.md), like a harbor that allows them to move freely within its boundaries, to let them express themselves without fearing our reaction. We in turn must stay stable, and don't act without thinking.
+To do that, we can't parent from a top-down approach [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md). We should be their [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md), like a harbor that allows them to move freely within its boundaries, to let them express themselves without fearing our reaction. We in turn must stay stable, and don't act without thinking.
 
 There are five pillars for cultivating resilience:
 1. Emotional safety
@@ -91,9 +120,9 @@ There are five pillars for cultivating resilience:
 
 #### The Opportunity during times of Uncertainty
 
-Life is [stressful](/notes/stress.md), full of [Uncertainty](/notes/uncertainty.md) and [change](/notes/life-is-change.md).
+Life is [stressful](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md), full of [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md) and [change](/notes/life-is-change.md).
 
-Challenges and changes are daunting and require a period of adjustment until we are back to emotional stability, but the key message is that we can all get there, we all have [Neuroplasticity](/notes/neuroplasticity.md).
+Challenges and changes are daunting and require a period of adjustment until we are back to emotional stability, but the key message is that we can all get there, we all have [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md).
 
 However, some things shorten the adjustment process and make it more bearable, these are:
 1. Believing that we could overcome it
@@ -120,9 +149,9 @@ Without this connection, the children will be deprived, similar to malnourishmen
 
 #### The You Factor
 
-We tend to [project](/notes/emotional-projection.md) the way we were parented onto our children. The good, the bad and the ugly. It is mostly subconscious, and that's the problem. Without knowing what we do and why, we can't choose differently, which is even more critical when [empotions](/notes/emotional-hijacking.md) are running high.
+We tend to [project](/notes/we-attribute-our-emotions-to-others-and-misread-theirs.md) the way we were parented onto our children. The good, the bad and the ugly. It is mostly subconscious, and that's the problem. Without knowing what we do and why, we can't choose differently, which is even more critical when [empotions](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md) are running high.
 
-How we handle our emotions is highly correlated to how they handle them because they [imitate](/notes/imitation.md) us. That's also why we have to stop trying to be [perfect](/notes/perfectionism.md). When we mess up, they can learn how to get back up, instead of being trapped in a (fake) bubble of a perfect life where nothing goes wrong. Strive for *good enough* and [Repair](/notes/apology.md)
+How we handle our emotions is highly correlated to how they handle them because they [imitate](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md) us. That's also why we have to stop trying to be [perfect](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md). When we mess up, they can learn how to get back up, instead of being trapped in a (fake) bubble of a perfect life where nothing goes wrong. Strive for *good enough* and [Repair](/notes/a-true-apology-includes-intent-to-repair.md)
 
 :::note[The You Factor]
 
@@ -136,13 +165,13 @@ How we handle our emotions is highly correlated to how they handle them because 
 
 #### The Safety Net
 
-In order for the child to go out into the world, explore their curiosity and learn new things, they have to feel that they stand on stable ground [Maslows pyramid](/notes/maslows-pyramid.md).
+In order for the child to go out into the world, explore their curiosity and learn new things, they have to feel that they stand on stable ground [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md).
 
-We can provide that stable ground by constantly [validating](/notes/validation.md) their emotions, accepting them, and expressing our love and support no matter what happens. With time, they internalize these messages which become part of their [narravtive](/notes/narratives.md). They believe that they are loved, that they are valued, and have self-worth, and that they have the support they need to go out into the world.
+We can provide that stable ground by constantly [validating](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md) their emotions, accepting them, and expressing our love and support no matter what happens. With time, they internalize these messages which become part of their [narravtive](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md). They believe that they are loved, that they are valued, and have self-worth, and that they have the support they need to go out into the world.
 
 **Routines** are useful not just for bringing order and clarity to your day, they also provide valuable touch points where you can practice being their safety net, to show that you care and love them. Even in small moments like meals or getting dressed, although having a dedicated 1o1 is the best.
 
-Another method is by providing **narratives** for important events in their lives, and even on the daily plan. A narrative helps them make sense of what is happening and where they fit in in all of this. With time it helps them develop [Cognitive Distancing](/notes/cognitive-distancing.md) which allows them to separate the external world from the internal one. For example, a child who sees his parents arguing will blame themselves and perhaps misjudge what's going on until their parents will explain it. Complicated events are hard to digest and easy to misinterpret through bad judgment or partial viewpoint. **We need to help our children see the whole picture in a clear, easy way**.
+Another method is by providing **narratives** for important events in their lives, and even on the daily plan. A narrative helps them make sense of what is happening and where they fit in in all of this. With time it helps them develop [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md) which allows them to separate the external world from the internal one. For example, a child who sees his parents arguing will blame themselves and perhaps misjudge what's going on until their parents will explain it. Complicated events are hard to digest and easy to misinterpret through bad judgment or partial viewpoint. **We need to help our children see the whole picture in a clear, easy way**.
 
 Lastly, we need to repair the damage we cause in moments of anger, frustration, or lack of focus. It starts by addressing what happened, validating your child's feelings and your own (that you still love and support them if necessary), and then talking about what can be done to avoid such cases in the future.
 
@@ -159,11 +188,11 @@ Lastly, we need to repair the damage we cause in moments of anger, frustration, 
 
 Kids learn to self-regulate by experiencing high levels of emotions and then returning back to balance. If we protect them from these emotions, they will never know how to handle tough times.
 
-Similarly, we can't delete these feelings, [Gaslighting](/notes/gaslighting.md) or [authority](/notes/authority.md) will only backfire. We have to accept their emotions. Together, we can help them learn how to self-regulate through co-regulation, using our connection as an anchor.
+Similarly, we can't delete these feelings, [Dismissing someone's experience erodes their reality](/notes/dismissing-someones-experience-erodes-their-reality.md) or [authority](/notes/authority.md) will only backfire. We have to accept their emotions. Together, we can help them learn how to self-regulate through co-regulation, using our connection as an anchor.
 
 We mustn't get caught up in their emotions, we must remain calm through it all.
 
-When an event starts, remain and project calmness. Use physical language like hugs to calm them down, practice slow deep breaths, then try to [label](/notes/naming.md) their feelings and focus on the senses (what they hear, see, touch) to ground them back from their disconnected stressful episode. A comforting environment or a toy can go a long way. Remember that most often they need someone who listens, not problem-solving [Dont Jump to the Rescue](/notes/dont-jump-to-the-rescue.md)
+When an event starts, remain and project calmness. Use physical language like hugs to calm them down, practice slow deep breaths, then try to [label](/notes/naming-a-phenomenon-gives-us-power-over-it.md) their feelings and focus on the senses (what they hear, see, touch) to ground them back from their disconnected stressful episode. A comforting environment or a toy can go a long way. Remember that most often they need someone who listens, not problem-solving [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md)
 
 Stressors can come in many ways, as little as missing the bus, and as big as moving to a new place or having a sibling.
 
@@ -180,19 +209,19 @@ Low levels of stress are good for our resilience, like developing muscle, but to
 
 #### The Freedom Trail
 
-[Agency](/notes/agency.md) is critical for the child's development. Paradoxically, a child develops their sense of agency by having clear [Boundaries](/notes/boundaries.md) [parental rules](/notes/parental-rules.md). We as parents have the responsibility of marking the boundary of what's allowed and not allowed so that the child can move freely as they see fit within these boundaries, knowing that they are safe and that we have their back.
+[Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) is critical for the child's development. Paradoxically, a child develops their sense of agency by having clear [Boundaries](/notes/boundaries.md) [parental rules](/notes/parental-rules.md). We as parents have the responsibility of marking the boundary of what's allowed and not allowed so that the child can move freely as they see fit within these boundaries, knowing that they are safe and that we have their back.
 
-Boundaries are not easily accepted, they don't have to like them, and we will likely get [Reactance](/notes/reactance.md) in return. That doesn't mean we should remove them, nor should we discourage them from resisting. Pushing boundaries is part of developing their agency and thinking capacity.
+Boundaries are not easily accepted, they don't have to like them, and we will likely get [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) in return. That doesn't mean we should remove them, nor should we discourage them from resisting. Pushing boundaries is part of developing their agency and thinking capacity.
 
-Boundaries are also important as a way to build [Trust](/notes/trust.md). When a child follows the parents' rules, it shows them that they can trust their child, which should lead with time to increasing the child's freedom and lowering the restrictions.
+Boundaries are also important as a way to build [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md). When a child follows the parents' rules, it shows them that they can trust their child, which should lead with time to increasing the child's freedom and lowering the restrictions.
 
 **Even though they constantly ask for more freedom, that doesn't mean it will be easy for them. Increased independence is a stressor of its own**, so we should be supportive in those cases.
 
-Part of developing agency is having the freedom to make mistakes and face their consequences. When we save or do things for them, we encourage a [Fixed Mindset](/notes/fixed-mindset.md), while letting them try, fail and try again helps develop a [Growth Mindset](/notes/growth-mindset.md)
+Part of developing agency is having the freedom to make mistakes and face their consequences. When we save or do things for them, we encourage a [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md), while letting them try, fail and try again helps develop a [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)
 
 Even participation in house chores is an opportunity to develop their independence and skills.
 
-We must avoid [Shaming](/notes/guilt.md) our kids as it hurts their growth. Even if it's "behind their back". Don't say things like "act your age" or "you're a big boy now", make fun, belittle, or criticize them.
+We must avoid [Shaming](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) our kids as it hurts their growth. Even if it's "behind their back". Don't say things like "act your age" or "you're a big boy now", make fun, belittle, or criticize them.
 
 :::note[The Freedom Trail]
 
@@ -204,7 +233,7 @@ We must avoid [Shaming](/notes/guilt.md) our kids as it hurts their growth. Even
 
 #### The Power of Connection
 
-It's important to show our kids that we should ask and receive help from others, we are [wired](/notes/human-is-a-social-being.md) to connect with others. Seeking help is the first step to understanding others, and helping us better understand ourselves through a social lens [mindsight](/notes/mindsight.md). It helps us see differences and similarities with others, strengthening social connections and empathy through the skill of *perspective-taking*
+It's important to show our kids that we should ask and receive help from others, we are [wired](/notes/human-is-a-social-being.md) to connect with others. Seeking help is the first step to understanding others, and helping us better understand ourselves through a social lens [Mindsight is awareness of mental states in self and others](/notes/mindsight-is-awareness-of-mental-states-in-self-and-others.md). It helps us see differences and similarities with others, strengthening social connections and empathy through the skill of *perspective-taking*
 
 We can help our child develop social skills through:
 1. Role-playing scenarios
@@ -225,7 +254,7 @@ Remember that in friendships, it's *quality over quantity*. Also, they will be m
 
 Everyone wants to be understood, but it begins with understanding and loving ourselves, all of our sides, the good, the bad, and the ugly, and forgiving ourselves when we are not being our best selves.
 
-When we show them how much we accept them for who they are, for all they are without judgment or shame, they will be able to believe the same about themselves. We are their cheerleaders, we value them, and we trust them. Our love for them is unconditional of their achievements, otherwise, they will become their own [critic](/notes/self-criticism.md).
+When we show them how much we accept them for who they are, for all they are without judgment or shame, they will be able to believe the same about themselves. We are their cheerleaders, we value them, and we trust them. Our love for them is unconditional of their achievements, otherwise, they will become their own [critic](/notes/self-criticism-is-being-your-own-harsh-judge.md).
 
 We support them or their journey, not ours. We respect their pace and understand that the challenges they face are difficult for them. We would also be tested, by our fears, biases, or prejudice. Our patience and resolve will be measured by how much we can maintain this support despite their choices and life circumstances.
 

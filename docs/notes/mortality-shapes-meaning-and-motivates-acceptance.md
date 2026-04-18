@@ -1,13 +1,13 @@
 ---
 UUID: 20240218073946
 Created: '2024-02-18 07:39'
-Modified: '2026-04-09 16:58'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Mortality shapes meaning and motivates acceptance.png]]'
 ImageText: A person standing by a building thinking of a gravestone in a thought bubble
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Death
 new_schema: true
+Topic:
+  - '[[Value and Meaning]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ In general, the [Stoicism teaches detachment from external events to maintain in
 ## Visual
 
 ![Mortality shapes meaning and motivates acceptance](/notes/mortality-shapes-meaning-and-motivates-acceptance.webp)
-
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-↩️Origin::
-🔗Link::
-

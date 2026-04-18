@@ -1,54 +1,66 @@
 ---
 UUID: 20230512070955
 Created: '2023-05-12 07:09'
-Modified: '2024-10-25 06:57'
+Modified: '2026-04-13 06:21'
 tags: []
+FullTitle: The Extended Mind - The Power of Thinking Outside the Brain
+Description: >-
+  It argues that thinking extends beyond the brain to include the environment,
+  body, and social interactions. Engaging physically, personalizing spaces, and
+  collaborating with others enhance creativity and problem-solving, emphasizing
+  the importance of holistic approaches in cognitive processes.
 Author:
   - '[[Annie Murphy Paul]]'
+URL: >-
+  https://www.goodreads.com/book/show/42291479-the-extended-mind?ac=1&from_search=true&qid=NyZHZp2wOB&rank=2
+Cover: >-
+  http://books.google.com/books/content?id=Dk-_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Psychology
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B07FKB3V5S
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 352
+Reread: 0
 Rate: 3
 PublishDate: 2021-01-01T00:00:00.000Z
+StartDate: 2023-04-27T00:00:00.000Z
 FinishDate: 2023-05-12T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=Dk-_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: >-
-  https://www.goodreads.com/book/show/42291479-the-extended-mind?ac=1&from_search=true&qid=NyZHZp2wOB&rank=2
+Image: null
 aliases: null
+Topic:
+  - '[[Memory, Attention and cognitive load (Map)]]'
+  - '[[Creativity (Map)]]'
+  - '[[Learning (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Extended Mind (book)
 
-## 🔗Connect
-🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
-🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
-🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Thinking is not only in the brain** - The concept of extended mind suggests that our thinking is not limited to our brain, but can be extended to the environment, our body, and other people. When we think "outside of our brain", we can access much more information, develop our thinking, and explore creative options. Like the difference between a single person and a team, or a sole computer and the internet.
 2. **Think with your body** - Use your hands, walk around, listen to your body, and don't let your mind take control in stressful situations.
 3. **Think with spaces** - Do nature walks, personalize your work area, limit distractions and negative cues, use visual representations
 4. **Think with others** - consult with your peers, imitate experts, and teach others
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -62,23 +74,23 @@ The part that says to trust your body or your instincts doesn't include enough c
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book is "okay". The idea of an extended mind sounds promising at the start but it is clearly a collection of life hacks smashed together into a book that was perhaps unnecessarily inflated. The distinction between some of the parts is arbitrary and not memorable.
 The writer was clearly affected by a certain philosopher and wanted to carry on his legacy.
 
-### 🖼️Outline
+### Outline
 
-![The extended mind (book).webp](/books/the-extended-mind-book.webp)
+![The extended mind (book)](/books/the-extended-mind-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Prolog
 
-believing that our thinking starts and ends with our brain is mistaken. Extended thinking, that can increase our [creativity](/notes/remixing.md). richness and overall quality of our thoughts can be done using 3 things:
+believing that our thinking starts and ends with our brain is mistaken. Extended thinking, that can increase our [creativity](/notes/creativity-is-combining-existing-ideas-in-new-ways.md). richness and overall quality of our thoughts can be done using 3 things:
 1. **Bodily thinking** - for example, using your hands while thinking or talking increases memory
-2. **Situational thinking** - using cues from the environment can spark new ideas [Nudge](/notes/nudge.md)
+2. **Situational thinking** - using cues from the environment can spark new ideas [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
 3. **Disturbed thinking** - discussions with others can also stir up new thoughts and increase their quality. [discussions as tools for thinking](/notes/discussions-as-tools-for-thinking.md)
 
 :::note[Prolog]
@@ -92,15 +104,15 @@ believing that our thinking starts and ends with our brain is mistaken. Extended
 
 ### Intro
 In the recent century, two main metaphors for the brain ruled our thoughts:
-1. **A brain is like a computer** - a series of components and functions which using a given input will produce a similar output [Functionalism](/notes/functionalism.md)
-2. **A brain is like a muscle** - the more you use it, the better it will be [Growth Mindset](/notes/growth-mindset.md)
+1. **A brain is like a computer** - a series of components and functions which using a given input will produce a similar output [Everything can be seen as a machine with a function](/notes/everything-can-be-seen-as-a-machine-with-a-function.md)
+2. **A brain is like a muscle** - the more you use it, the better it will be [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)
 
 However, both have led to a misconception of how our brain actually works.
 Our brain is like magpies, a type of bird which build its nest from whatever is around it. Preferably planets, but when that's not available - then metal scraps, plastic products, and even barbed wire.
 
 By using this analogy, we can understand that:
-1. **Inter connectivity** - thought happens no only "in our head" but also by using the world around us. It is a continuous act of sampling and assembling using resources external to our brain. [Coherentism](/notes/coherentism.md)
-2. **GIGO** - the types of "external mental resources" affect the nature of quality of the thought that can be produced. [GIGO](/notes/garbage-in-garbage-out.md)
+1. **Inter connectivity** - thought happens no only "in our head" but also by using the world around us. It is a continuous act of sampling and assembling using resources external to our brain. [Knowledge emerges from interconnected beliefs not foundational truths](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.md)
+2. **GIGO** - the types of "external mental resources" affect the nature of quality of the thought that can be produced. [GIGO](/notes/output-quality-depends-on-input-quality.md)
 3. **Expansion** - Intelligent thoughts, and our ability to improve our thinking in general, is also the result of our understanding on how to access and use such external resources.
 
 :::note[Intro]
@@ -118,19 +130,19 @@ By using this analogy, we can understand that:
 ### Chapter 1 - Thinking with Sensations
 
 #### Intuition - the Body Knows Best
-People with a keener sense of self awareness, who are able to [introspection](/notes/introspection.md) more easily are usually more successful. **Meaning that those who follow their gut have a higher chance of success.**
-The reason for their success is that the body not only learns faster than our brain, but also able to hold more complex ideas. [Instincts](/notes/heuristics.md) is actually advanced learning internalized perhaps even before it was consciously understood by the brain.
+People with a keener sense of self awareness, who are able to [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md) more easily are usually more successful. **Meaning that those who follow their gut have a higher chance of success.**
+The reason for their success is that the body not only learns faster than our brain, but also able to hold more complex ideas. [Instincts](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.md) is actually advanced learning internalized perhaps even before it was consciously understood by the brain.
 
-Therefore, meditations and specifically body scans are a useful tool for a better connection with your body, and hence the cues it is trying to send. [mindfulness](/notes/intentionality.md)
+Therefore, meditations and specifically body scans are a useful tool for a better connection with your body, and hence the cues it is trying to send. [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md)
 
 #### The way to Handle Stress
 
-We think that it's mind over matter, that [Grit](/notes/grit.md) and willpower is our way to control our body into submission, but it's actually the other way around. [Mind-body connection](/notes/mind-body-connection.md)
+We think that it's mind over matter, that [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) and willpower is our way to control our body into submission, but it's actually the other way around. [Physical states and actions unconsciously shape beliefs and behavior](/notes/physical-states-and-actions-unconsciously-shape-beliefs-and-behavior.md)
 Our body is in charge of managing our energy resources, which it allocates for our memory, attention and readiness for action.
-**By tunning in to our body, we can have a better allocation of resources than if we just "let our brain" react to the situation.** [Life as Flow](/notes/life-as-flow.md)
+**By tunning in to our body, we can have a better allocation of resources than if we just "let our brain" react to the situation.** [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md)
 
-**Untrained people tend to be not aroused right before a [Challenge](/notes/struggle.md), and then highly stressed during the challenge, which makes them preform worse since their energy is misallocated. It is focused on the problem and not the solution.**
-Whereas trained people tend to have a spike of stress right before the challenge, and then relaxed during it. Essentially, their body knows how to prepare for the challenge when the cue appears, and then run smoothly and efficiently during the challenge. [Stress](/notes/stress.md)
+**Untrained people tend to be not aroused right before a [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md), and then highly stressed during the challenge, which makes them preform worse since their energy is misallocated. It is focused on the problem and not the solution.**
+Whereas trained people tend to have a spike of stress right before the challenge, and then relaxed during it. Essentially, their body knows how to prepare for the challenge when the cue appears, and then run smoothly and efficiently during the challenge. [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md)
 
 #### Where Emotions come from
 
@@ -169,7 +181,7 @@ Talking with gestures is helpful for
 3. **understanding concepts** - especially in spatial, visual ideas, hands are a key component of understanding
 4. **creativity** - we tend to explore ideas more when we can use hand gestures to think about them
 
-In general, we have only treated hands as complementary to speaking, but this is a language of it's own. **We express ideas in gestures before we do so in speech.** [non verbal communication](/notes/non-verbal-communication.md)
+In general, we have only treated hands as complementary to speaking, but this is a language of it's own. **We express ideas in gestures before we do so in speech.** [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md)
 
 :::note[Gestures for memory]
 
@@ -183,7 +195,7 @@ In general, we have only treated hands as complementary to speaking, but this is
 
 ### Chapter 4 - Natural Spaces Are Good for Attention
 
-**Nature has a renewing power on our mental health**, it clears our heads, restores tranquility and reduces stress. Having the ability to do [Nature walk](/notes/nature-walk.md), or even simply having plants and access to natural light in your place of work could be highly beneficial.
+**Nature has a renewing power on our mental health**, it clears our heads, restores tranquility and reduces stress. Having the ability to do [Nature restores mental health and renews focus through immersive presence](/notes/nature-restores-mental-health-and-renews-focus-through-immersive-presence.md), or even simply having plants and access to natural light in your place of work could be highly beneficial.
 
 :::note[Natural spaces are good for attention]
 
@@ -195,12 +207,12 @@ In general, we have only treated hands as complementary to speaking, but this is
 
 ### Chapter 5 - Environment for Better Creativity
 
-The spaces we work in have a great effect on our creativity and productivity. The open office has caused severe damage for the benefit of a reduced price of construction. Key elements to enable [creative thinking](/notes/ideation.md) that can't be done in an open office settings, and will probably require some type of a private office is:
-1. **Reduced distractions** - noise, incoming visitors and visual distractions can harm our focus greatly. [Distractions](/notes/procrastination.md)
-2. **Privacy** - you tend to be less creative and risk taker when you know others are watching you. Exploration is replaced with repetition. [Psychological safety](/notes/psychological-safety.md)
-3. **Social safety** - even if we are not aware of it, when we are surrounded by others, much of our mental capability goes on analyzing the social situation at any given moment. Understanding the latest gossip, how others see you, and how you should react according to the social norm can take a large bandwidth of your mind. [Social Environment](/notes/social-environment.md)
-4. **Ownership** - having a place that you feel as it is yours, that you can shape as you wish, adjust to your preferences is also very helpful for productivity. Having a sense of "home turf", where you belong and that it is a safe space for you can give you the confidence to "give it all" in your work. [Ownership](/notes/ownership.md)
-5. **Identity** - environment [cues](/notes/priming.md) can trigger certain identity traits within us. For example reminding Asians that they are "good in math" can improve their performance. Similarly, having the ability to control which cues are apparent in your workplace and knowing which traits they trigger can turn disability to creativity, by giving us a sense of belonging, of a shared identity with the company, by enabling diverse points of view. Instead of a single "blank" worker identity, we should nurture diverse personal identity.
+The spaces we work in have a great effect on our creativity and productivity. The open office has caused severe damage for the benefit of a reduced price of construction. Key elements to enable [creative thinking](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md) that can't be done in an open office settings, and will probably require some type of a private office is:
+1. **Reduced distractions** - noise, incoming visitors and visual distractions can harm our focus greatly. [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md)
+2. **Privacy** - you tend to be less creative and risk taker when you know others are watching you. Exploration is replaced with repetition. [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md)
+3. **Social safety** - even if we are not aware of it, when we are surrounded by others, much of our mental capability goes on analyzing the social situation at any given moment. Understanding the latest gossip, how others see you, and how you should react according to the social norm can take a large bandwidth of your mind. [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
+4. **Ownership** - having a place that you feel as it is yours, that you can shape as you wish, adjust to your preferences is also very helpful for productivity. Having a sense of "home turf", where you belong and that it is a safe space for you can give you the confidence to "give it all" in your work. [Ownership means taking active responsibility and control of your environment](/notes/ownership-means-taking-active-responsibility-and-control-of-your-environment.md)
+5. **Identity** - environment [cues](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) can trigger certain identity traits within us. For example reminding Asians that they are "good in math" can improve their performance. Similarly, having the ability to control which cues are apparent in your workplace and knowing which traits they trigger can turn disability to creativity, by giving us a sense of belonging, of a shared identity with the company, by enabling diverse points of view. Instead of a single "blank" worker identity, we should nurture diverse personal identity.
 
 :::note[Environment for better creativity]
 
@@ -217,8 +229,8 @@ Spatial thinking is a great multiplier to our mental capabilities. Like the tech
 Therefore, at the least, you should:
 1. **size does matter** - Use a big monitor (more "space" for thought)
 2. **capture** - write down your thoughts [Capture content](/notes/capture-content.md)
-3. **spatialize ideas** - employ [Memory Palace](/notes/memory-palace.md)
-4. **visualize** - use visual representations of your ideas, make them tangible [Clarity](/notes/clarity.md)
+3. **spatialize ideas** - employ [Abstract information is easier to remember spatially](/notes/abstract-information-is-easier-to-remember-spatially.md)
+4. **visualize** - use visual representations of your ideas, make them tangible [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md)
 
 :::note[Thinking with space]
 
@@ -231,7 +243,7 @@ Therefore, at the least, you should:
 
 ### Chapter 7 - Think with Experts
 
-To benefit as much as you can from experts, imitate them. [Imitation](/notes/imitation.md)
+To benefit as much as you can from experts, imitate them. [Imitation internalizes others' behaviors and mental models at varying depths](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md)
 The advantages of imitations are:
 1. **filtering** - You utilize the wisdom of others, let them be your filter for the irrelevant knowledge.
 2. **mixing** - you can combine knowledge from multiple sources
@@ -244,7 +256,7 @@ However, imitation is an art of its own. To be a good imitator, you need to know
 2. **what** to imitate - which part of their behavior is relevant
 3. **Why** to imitate - why their actions lead to their success, don't just blindly imitate others.
 
-**It's best to find an expert that is as close as possible to your situation**, meaning that they were a novice not so long ago, perhaps even made the same path as you. That way, they are more aware of the necessary bits of information that are critical for you. [Mentor](/notes/mentor.md)
+**It's best to find an expert that is as close as possible to your situation**, meaning that they were a novice not so long ago, perhaps even made the same path as you. That way, they are more aware of the necessary bits of information that are critical for you. [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md)
 
 :::note[think with experts]
 
@@ -262,8 +274,8 @@ Learning and idea forming in general is a social activity.
 **Usually we pay much more attention to the actions of our peers rather than the teachings of the teacher**, since this involves understanding our social status. If a class member does something well, there is a much higher chance that I will imitate him rather than being told to do that by the teacher.
 
 The best ways to develop ideas with your colleagues is:
-1. **Discussions** - To switch on our critical thinking glasses we need to enter "teacher mode", that means debating, discussing ideas with our colleagues. [peer support](/notes/peer-support.md)
-2. **Stories** - Stories are a powerful tool for learning, it is much more engaging and memorable than a simple delivery of information. Therefore when talking with colleagues, try to deliver your messages using stories. [Storytelling](/notes/storytelling.md)
+1. **Discussions** - To switch on our critical thinking glasses we need to enter "teacher mode", that means debating, discussing ideas with our colleagues. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
+2. **Stories** - Stories are a powerful tool for learning, it is much more engaging and memorable than a simple delivery of information. Therefore when talking with colleagues, try to deliver your messages using stories. [Humans process and retain information better through stories than abstract facts](/notes/humans-process-and-retain-information-better-through-stories-than-abstract-facts.md)
 
 :::note[thinking with colleagues]
 
@@ -276,7 +288,7 @@ The best ways to develop ideas with your colleagues is:
 
 ### Chapter 9 - Group Thinking
 
-Group thinking can be a powerful source of [Intrinsic Motivation](/notes/intrinsic-motivation.md) and a sense of belonging. **By becoming one with the group, we internalize the group goals as our own, and we share an identity with others, which makes the connection strong.**
+Group thinking can be a powerful source of [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) and a sense of belonging. **By becoming one with the group, we internalize the group goals as our own, and we share an identity with others, which makes the connection strong.**
 
 In order to develop a shared identity, we need to:
 1. **learn** together

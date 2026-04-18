@@ -1,13 +1,13 @@
 ---
 UUID: 20230722083757
 Created: '2023-07-22 08:37'
-Modified: '2026-04-09 16:56'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Shirky Principle
   - Moral Hazard
@@ -15,6 +15,10 @@ Description: >-
   A concept stating that institutions tend to maintain the problems they solve
   to avoid obsolescence, balancing usefulness and dependency on their services.
 new_schema: true
+Topic:
+  - '[[Systems and Structural Thinking]]'
+Origin: '[[The Curiosity Chronicle by Sahil Bloom]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ This is also similar to cases of moral hazard. If you are not the bearer of the 
 ## Visual
 
 ![Shirky Principle](/notes/shirky-principle.webp)
-
-## Overview
-🔼Topic:: [Systems and Structural Thinking](/notes/systems-and-structural-thinking.md)
-Origin:: [The Curiosity Chronicle by Sahil Bloom](/notes/the-curiosity-chronicle-by-sahil-bloom.md)
-Link:: [Link](https://www.sahilbloom.com/newsletter/the-greatest-life-hack-decision-making-tools-more)
-

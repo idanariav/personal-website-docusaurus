@@ -1,19 +1,23 @@
 ---
 UUID: 20230628215041
 Created: '2023-06-28 21:50'
-Modified: '2026-04-09 08:48'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Multitasking doesnt exist
 Description: >-
   The concept that involves attempting to perform multiple tasks simultaneously,
   which is a myth, as true focus can only be maintained on one task at a time.
 new_schema: true
+Topic:
+  - '[[Working Memory and Cognitive Limits]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,10 +53,3 @@ The key is [less is more](/notes/improvement-often-comes-from-removing-rather-th
 ## Visual
 
 ![Multitasking doesnt exist](/notes/multitasking-doesnt-exist.webp)
-
-## Overview
-🔼Topic:: [Working Memory and Cognitive Limits](/notes/working-memory-and-cognitive-limits.md)
-🔼Topic:: [Working Memory and Cognitive Limits](/notes/working-memory-and-cognitive-limits.md)
-◀Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20240512082835
 Created: '2024-05-12 08:28'
-Modified: '2026-04-06 22:11'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: >-
   [[Decision points force re-evaluation or action by creating deliberate
   triggers.png]]
@@ -20,6 +20,10 @@ aliases:
   - Decision points
   - Trip Wires
 new_schema: true
+Topic:
+  - '[[Intentional Decision-Making]]'
+Origin: '[[Decisive (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,8 +60,3 @@ Tripwire methods (planned decision points):
 ## Visual
 
 ![Decision points force re-evaluation or action by creating deliberate triggers](/notes/decision-points-force-re-evaluation-or-action-by-creating-deliberate-triggers.webp)
-
-## Overview
-🔼Topic:: [Intentional Decision-Making](/notes/intentional-decision-making.md)
-↩️Origin:: [Decisive (book)](/books/decisive-book.md)
-🔗Link::

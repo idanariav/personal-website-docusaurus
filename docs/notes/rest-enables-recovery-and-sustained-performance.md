@@ -1,13 +1,13 @@
 ---
 UUID: 20240823075924
 Created: '2024-08-23 07:59'
-Modified: '2026-04-08 15:22'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Rest
   - Relax
@@ -19,6 +19,10 @@ Description: >-
   reflection, and emotional regulation, essential for preventing burnout and
   enhancing productivity.
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ Rest gives us back the power we need in order to act according to who we want to
 ## Visual
 
 ![Rest](/notes/rest.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-↩️Origin::
-🔗Link::
-

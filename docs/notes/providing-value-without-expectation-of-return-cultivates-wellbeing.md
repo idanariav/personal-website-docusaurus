@@ -1,13 +1,13 @@
 ---
 UUID: 20231226190220
 Created: '2023-12-26 19:02'
-Modified: '2026-04-08 17:15'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Giving
   - Altruism
@@ -18,6 +18,11 @@ Description: >-
   often exemplified through altruistic acts that enhance both individual and
   societal well-being.
 new_schema: true
+Topic:
+  - '[[Virtuous Disposition]]'
+  - '[[Social Connection and Belonging]]'
+Origin: '[[The Happiness Lab with Dr. Laurie Santos]]'
+URL: 'https://share.snipd.com/episode/14503de7-6ddb-49a3-bb18-e541cdc9bb8c'
 draft: false
 SiteProcssed: true
 ---
@@ -63,10 +68,3 @@ When we give, we fight the forces of [Econs are purely rational agents who maxim
 ## Visual
 
 ![Giving](/notes/giving.webp)
-
-## Overview
-🔼Topic:: [Virtuous Disposition](/notes/virtuous-disposition.md)
-🔼Topic:: [Social Connection and Belonging](/notes/social-connection-and-belonging.md)
-↩️Origin:: [The Happiness Lab with Dr. Laurie Santos](null)
-🔗Link:: https://share.snipd.com/episode/14503de7-6ddb-49a3-bb18-e541cdc9bb8c
-

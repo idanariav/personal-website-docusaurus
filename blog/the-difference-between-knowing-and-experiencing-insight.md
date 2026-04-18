@@ -41,7 +41,7 @@ Most of us believe we would make the most logical choice in a crisis, yet we oft
 
 ![The difference between knowing and experiencing (insight)](/blogs/the-difference-between-knowing-and-experiencing-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Don't Think about it Too much
 

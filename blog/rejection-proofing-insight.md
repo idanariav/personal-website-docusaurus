@@ -49,7 +49,7 @@ We often treat a "no" as a final verdict on our worth, but what if it is actuall
 
 ![Rejection proofing (insight)](/blogs/rejection-proofing-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Why Rejection Isn’t About Your Worth
 

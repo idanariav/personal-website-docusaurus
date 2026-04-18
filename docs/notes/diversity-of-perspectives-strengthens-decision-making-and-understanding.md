@@ -1,13 +1,13 @@
 ---
 UUID: 20230702111531
 Created: '2023-07-02 11:15'
-Modified: '2026-04-10 14:17'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Diversity of perspectives strengthens decision-making and
   understanding.png]]
@@ -22,6 +22,10 @@ aliases:
   - Diversity
   - Pluralism
 new_schema: true
+Topic:
+  - '[[Psychological Safety and Team Conditions]]'
+Origin: '[[Philosophize This!]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -59,10 +63,3 @@ Diversity is also often references as an issue of [representation](/notes/repres
 ## Visual
 
 ![Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.webp)
-
-## Overview
-🔼Topic:: [Psychological Safety and Team Conditions](/notes/psychological-safety-and-team-conditions.md)
-Origin:: [Philosophize This!](/notes/philosophize-this.md)
-Origin:: [Isaiah Berlin (philosopher)](/notes/isaiah-berlin-philosopher.md)
-Link:: https://share.snipd.com/episode/e1f0a11f-af0d-4e09-9c42-1d75cd126d48
-

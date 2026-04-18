@@ -1,13 +1,13 @@
 ---
 UUID: 20241011102101
 Created: '2024-10-11 10:21'
-Modified: '2026-04-08 15:20'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Meditation
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   mindfulness, promoting solitude, self-compassion, and mental clarity while
   recharging energy and reducing self-criticism.
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ It is a method of [Rest enables recovery and sustained performance](/notes/rest-
 ## Visual
 
 ![Meditation](/notes/meditation.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-↩️Origin::
-🔗Link::
-

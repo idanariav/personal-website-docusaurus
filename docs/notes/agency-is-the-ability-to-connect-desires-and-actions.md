@@ -1,13 +1,13 @@
 ---
 UUID: 20230321064703
 Created: '2023-03-21 06:47'
-Modified: '2026-04-10 16:36'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Agency is the ability to connect desires and actions.png]]'
 ImageText: A fork in the road between your values (a compass) and distractions
 Description: >-
@@ -20,6 +20,10 @@ aliases:
   - freedom of choice
   - Freedom of response
 new_schema: true
+Topic:
+  - '[[Freedom and Agency]]'
+Origin: '[[How to think like a roman emperor (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -63,8 +67,3 @@ Making decisions without following the right process can lead to a false sense o
 ## Visual
 
 ![Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.webp)
-
-## Overview
-🔼Topic:: [Freedom and Agency](/notes/freedom-and-agency.md)
-◀Origin:: [How to think like a roman emperor (book)](/books/how-to-think-like-a-roman-emperor-book.md)
-🔗Link::

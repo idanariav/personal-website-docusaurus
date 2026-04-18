@@ -1,10 +1,10 @@
 ---
 UUID: 20240102064353
 Created: '2024-01-02 06:43'
-Modified: '2024-01-02 06:43'
-Version: 1
+Modified: '2026-04-13 06:13'
+Version: 2
 tags: []
-ReadingStatus: Read
+ReadingStatus: Done
 FinishDate: 2024-01-08T00:00:00.000Z
 PublishDate: 2011-12-26T00:00:00.000Z
 Pages: 52
@@ -19,29 +19,36 @@ Cover: >-
   http://books.google.com/books/content?id=wU-JtgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/20421277-freedom-and-circumstance'
 aliases: null
+Description: >-
+  It argues that our identity is shaped by the interplay between ourselves and
+  our environment, emphasizing the importance of engaging with the world. The
+  pursuit of a meaningful life project is essential, as it involves actively
+  influencing our surroundings rather than passively existing.
+FullTitle: Freedom and Circumstance
+StartDate: 2024-01-05T00:00:00.000Z
+ASIN: B006P760XS
+Reread: 0
+Topic:
+  - '[[Existentialism (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Freedom and Circumstance
 
-## 🔗Connect
-🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
-
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas* 
 1. **Myself and my environment** - In every experience we have both the "I" and the "thing" we interact with, both are always present. Therefore, we can't really separate ourselves from our environment, which means that it has a great effect on our identity.
 2. **Life project** - the goal in life is to create a meaningful project, that involves affecting our environment, not to sit idly by and give up on who we are
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -51,13 +58,12 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
 
-
-## 📒 Notes
+## Notes
 
 ### Who was ortega
 
@@ -72,7 +78,7 @@ SiteProcssed: true
 
 ### surpassing modern philosophy  
   
-Modern philosophy has become more and more about [Idealism](/notes/idealism.md), that things only exist for us inside our perception, we can never know the things as they truly are [Objectivism](/notes/objectivism.md), or even if they exist outside of ourselves, because we are always present in connection to other things.  
+Modern philosophy has become more and more about [Objects imitate a perfect version of themselves](/notes/objects-imitate-a-perfect-version-of-themselves.md), that things only exist for us inside our perception, we can never know the things as they truly are [Seeing reality without subjective bias reduces distortion](/notes/seeing-reality-without-subjective-bias-reduces-distortion.md), or even if they exist outside of ourselves, because we are always present in connection to other things.  
 This is the view the Ortega wishes to surpass.  
 
 
@@ -89,7 +95,7 @@ This is the view the Ortega wishes to surpass.
 
 ### Starting again  
   
-The "problem" with idealism is that it takes two to tango. Yes, there is a mind that perceives everything, but the "everything" must exists for the perceiver to perceive anything, otherwise everything would just be blank. So **the internal and external world co-exist together inseparably**. But this means that the human endeavor of philosophy is to explore the connection between those two worlds, both the "i" and the "circumstances". [Context](/notes/context.md)  
+The "problem" with idealism is that it takes two to tango. Yes, there is a mind that perceives everything, but the "everything" must exists for the perceiver to perceive anything, otherwise everything would just be blank. So **the internal and external world co-exist together inseparably**. But this means that the human endeavor of philosophy is to explore the connection between those two worlds, both the "i" and the "circumstances". [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md)  
 
 
 :::note[CHAPTER 4   STARTING AGAIN]

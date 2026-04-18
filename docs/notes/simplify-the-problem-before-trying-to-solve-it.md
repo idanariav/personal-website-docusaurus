@@ -1,7 +1,7 @@
 ---
 UUID: 20221025182532
 Created: '2022-10-25 18:25'
-Modified: '2026-04-06 22:11'
+Modified: '2026-04-11 22:27'
 tags: []
 Description: >-
   A strategy for addressing complex challenges by simplifying them, focusing on
@@ -10,11 +10,16 @@ excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Solve the easier problem
   - relaxation
 new_schema: true
+Topic:
+  - '[[Intentional Decision-Making]]'
+  - '[[Momentum is movement that builds self-reinforcing forward action]]'
+Origin: '[[Algorithms to Live By (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +59,3 @@ The problem is that some decisions [lose](/notes/shallow-copies-mistake-partial-
 ## Visual
 
 ![Solve the easier problem](/notes/solve-the-easier-problem.webp)
-## Overview
-🔼Topic:: [Intentional Decision-Making](/notes/intentional-decision-making.md)
-🔼Topic:: [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md)
-◀Origin:: [Algorithms to Live By (book)](/books/algorithms-to-live-by-book.md)
-🔗Link::
-

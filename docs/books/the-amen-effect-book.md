@@ -1,26 +1,42 @@
 ---
 UUID: 20250221172252
 Created: '2025-02-21 17:22'
-Modified: '2025-03-29 09:35'
+Modified: '2026-04-13 06:18'
 tags: []
+FullTitle: The Amen Effect - Ancient Wisdom to Mend Our Broken Hearts and World
+Description: >-
+  This book emphasizes open vulnerability and connecting with others to make
+  pain more bearable. It advocates for defaulting to kindness, showing respect,
+  and listening with curiosity, even when disagreeing. It also highlights the
+  importance of self-care, seeking help, and pursuing one's own calling instead
+  of just pleasing others.
 Author:
   - '[[Sharon Brous]]'
+URL: 'https://www.goodreads.com/book/show/127482688-the-amen-effect'
+Cover: >-
+  http://books.google.com/books/content?id=yyq4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 Genre: Religion
-Stored: kindle
-ReadingStatus: Reading
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B0C1Y9PG46
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 241
+Reread: 0
 Rate: 2
 PublishDate: 2024-01-09T00:00:00.000Z
+StartDate: 2025-03-20T00:00:00.000Z
 FinishDate: 2025-03-28T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=yyq4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/127482688-the-amen-effect'
+Image: null
+aliases: ''
+Topic:
+  - '[[Communication (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -29,22 +45,18 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Communication (Map)](/mocs/communication-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **You are not alone** - in your pain, in your loneliness, you are not alone. We should be seen by others, exposing our vulnerability and pain. Sharing it with our close, strong relationships, people who care. They won't take the pain away, but it will make it more bearable. We have to show up, be their in the good and bad moments of life.
 2. **Default to kindness** - we are all created in image of God, we all deserve respect and kindness. Even when we don't agree with someone, we should approach with curiosity and desire to actually listen.
 3. **Take care of yourself** - even the helpers need help. Don't shy away from seeking help. Also, don't try just to please others and meet their expectations. You have your own calling, something that makes you feel alive, do that and both you and the world will be better for it.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 We will have a stronger society, one that helps us get up when we are down, that supports one another, one of empathy, kindness and understanding
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -52,16 +64,16 @@ We will have a stronger society, one that helps us get up when we are down, that
 
 🧱 *Implementations and limitations of it are...*
 The "practice" section is short and shallow, and most of what we get is inspirational stories but not a lot of "how to implement it in my life"
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This is a motivational book more than a practical one. I finish the book feeling energized, but with little to go with. Also there's a strong focus on Jewish traditions which is on the one hand nice as a way to get to know this religion, however since it is combined with "real life stories", there's little room for the "conclusion", diving deep to the logic behind the arguments.
 
-### 🖼️Outline
+### Outline
 
-![The Amen Effect (book).webp](/books/the-amen-effect-book.webp)
+![The Amen Effect (book)](/books/the-amen-effect-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
@@ -76,9 +88,9 @@ Now more than ever, whether for religious people or not, we need to revive the f
 
 ### Show up
 
-Our greatest strength as people is the power to show up, to [empathize](/notes/empathy.md). It's easy when we are happy [Happiness is shared](/notes/happiness-is-shared.md),but it's even more important when we are hurt. Those who experience pain, even though they want to be alone, should be surrounded by the community, they should be seen, hugged, embraced, even when we have no words. Even if we don't know what it's like to be them, we help them walk the path of those who suffered.
+Our greatest strength as people is the power to show up, to [empathize](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md). It's easy when we are happy [Happiness is shared](/notes/happiness-is-shared.md),but it's even more important when we are hurt. Those who experience pain, even though they want to be alone, should be surrounded by the community, they should be seen, hugged, embraced, even when we have no words. Even if we don't know what it's like to be them, we help them walk the path of those who suffered.
 
-It's our [Mirror neurons](/notes/mirroring.md) that trigger this tendency to automatically share others feelings, in joy and in sadness.
+It's our [Mirror neurons](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md) that trigger this tendency to automatically share others feelings, in joy and in sadness.
 
 The Jewish tradition is full of subtle ways of making a mourning person not be alone, from the Kadish, to the Shiva, they are "forced" to be with other people, it pushes them towards the community, for shared suffering and healing. Saying "amen" is like saying "we are here with you and we see you"
 
@@ -93,9 +105,9 @@ The Jewish tradition is full of subtle ways of making a mourning person not be a
 
 ### Please, Hold on
 
-[Loneliness](/notes/loneliness.md) is a terrible illness, especially prevalent during the pandemic years. We all yearn for connection, and suffer the lack of it.
+[Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md) is a terrible illness, especially prevalent during the pandemic years. We all yearn for connection, and suffer the lack of it.
 
-Life is chaotic enough that we know that [pain](/notes/life-is-pain.md) is unavoidable. The question is whether we will have someone to share it with, to talk to us when we need to, to support us through hard times. [Relationships](/notes/relationships.md)
+Life is chaotic enough that we know that [pain](/notes/life-is-pain.md) is unavoidable. The question is whether we will have someone to share it with, to talk to us when we need to, to support us through hard times. [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md)
 
 These should be deep relationships, built on mutual care and a shared purpose, not shallow ones.
 
@@ -120,7 +132,7 @@ We were all created in the image of God, we are all worthy of compassion, of dig
 
 ### Come Alive
 
-We shouldn't wait for the world to demand something of us, nor for a sign or a wake up call. We are responsible for being ourselves, to come alive, to do what *we* were meant to do, to fullfil our potential and find our [Life's Mission](/notes/lifes-mission.md).
+We shouldn't wait for the world to demand something of us, nor for a sign or a wake up call. We are responsible for being ourselves, to come alive, to do what *we* were meant to do, to fullfil our potential and find our [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md).
 
 Don't be anybody else, you are not a copy.
 
@@ -147,7 +159,7 @@ Although grieving is an inseparable part of life, we can't let it take away all 
 
 On the one hand, to be good supporters of others, we must experience pain ourselves. It is through the shared experience of suffering that we can truly connect on equal grounds. We have been there, we have felt what you felt, we know what it's like.
 
-However, when we help others, it is if we transfer some of their pain into us. With time, this can cause either [Burnout](/notes/burnout.md) or [Indifference](/notes/indifference.md) as we try instinctively to protect ourselves from the pain. But, the only way to keep our health and sanity is to remember that even the helpers need help, that we too need to be listened and comforted.
+However, when we help others, it is if we transfer some of their pain into us. With time, this can cause either [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md) or [Indifference](/notes/indifference.md) as we try instinctively to protect ourselves from the pain. But, the only way to keep our health and sanity is to remember that even the helpers need help, that we too need to be listened and comforted.
 
 :::note[Hold the Healers]
 
@@ -169,9 +181,9 @@ We are not meant to fix other people, we shouldn't deny them of their suffering.
 
 ### Wonder
 
-We have become more polarized than ever. [tribalism](/notes/us-vs-them.md) has become a part of our social life,we see an erosion of empathy and understanding.
+We have become more polarized than ever. [tribalism](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md) has become a part of our social life,we see an erosion of empathy and understanding.
 
-The only way to create a bridge, to narrow the gap is to approach with [Humility](/notes/humility.md) and [Curiosity](/notes/curiosity.md), to really try and [listen](/notes/active-listening.md) to the other side. It won't be a magical solution, but it's the only way forward.
+The only way to create a bridge, to narrow the gap is to approach with [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md) and [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md), to really try and [listen](/notes/listening-well-requires-active-effort-to-understand.md) to the other side. It won't be a magical solution, but it's the only way forward.
 
 ### Write a New Story
 

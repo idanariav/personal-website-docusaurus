@@ -1,13 +1,13 @@
 ---
 UUID: 20230324064023
 Created: '2023-03-24 06:40'
-Modified: '2026-04-10 06:12'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Every choice costs the alternatives you gave up.png]]'
 ImageText: 'A fork in the road between two options, one of which is disappearing'
 Description: >-
@@ -18,6 +18,11 @@ aliases:
   - Alternative cost
   - Opportunity cost
 new_schema: true
+Topic:
+  - '[[Tradeoffs and Consequences]]'
+  - '[[Decision Traps and Biases]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -58,9 +63,3 @@ For example, it is very easy to see and feel the direct costs of the vacation, b
 ## Value
 
 ![Every choice costs the alternatives you gave up](/notes/every-choice-costs-the-alternatives-you-gave-up.webp)
-
-## Overview
-🔼Topic:: [Tradeoffs and Consequences](/notes/tradeoffs-and-consequences.md)
-🔼Topic:: [Decision Traps and Biases](/notes/decision-traps-and-biases.md)
-◀Origin::
-🔗Link::

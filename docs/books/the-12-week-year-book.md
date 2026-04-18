@@ -1,51 +1,63 @@
 ---
 UUID: 20230929062943
 Created: '2023-09-29 06:29'
-Modified: '2024-10-27 05:28'
+Modified: '2026-04-13 06:18'
 tags: []
+FullTitle: The 12 Week Year - Get More Done in 12 Weeks than Others Do in 12 Months
+Description: >-
+  It argues that shorter timeframes enhance motivation through deadlines, weekly
+  plans align better with our natural scheduling, and the challenge lies not in
+  a lack of information but in the absence of a framework to translate knowledge
+  into action.
 Author:
   - '[[Brian P. Moran]]'
   - '[[Michael Lennington]]'
+URL: 'https://www.goodreads.com/book/show/18961505-the-12-week-year'
+Cover: >-
+  http://books.google.com/books/content?id=rFDxXq5sD5QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B00CU9P31K
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 209
+Reread: 0
 Rate: 3
 PublishDate: 2013-05-20T00:00:00.000Z
+StartDate: 2023-09-22T00:00:00.000Z
 FinishDate: 2023-09-29T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=rFDxXq5sD5QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/18961505-the-12-week-year'
+Image: null
 aliases: null
+Topic:
+  - '[[Productivity (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The 12 Week Year (book)
 
-## 🔗Connect
-🔼Topic:: [Productivity (Map)](/mocs/productivity-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **shorter is better** - a shorter timeframe is better since it uses the "deadline" effect to boost our motivation, higher certainty than yearly planning, and less options to get distracted or procrastinate
 2. **harmonic resonance** - a weekly plan is much easier to implement than a monthly/quarterly/yearly plan since we are used to visualize work, goals, and actions on a weekly basis, so it fits well with our schedule.
 3. **We lack in action, not information** - since the digital age has begun, we are no longer lacking in information. We know exactly what we need to do, what is the best course of action, and we simply lack the framework that would enable us to implement this knowledge into action.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 1. **More productive** - the entire goal of the book is to help you produce better plans, and narrow down your focus into 12 week segments which will help you achieve your goals
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **use a 12 week plan** - use the 12 week framework to boost your productivity, start from a vision, write a plan for 12 weeks, break it down to weekly measurements, and review weekly your progress.
@@ -58,22 +70,22 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 1. The split between the "things you know", and "putting it together" is a waste. It is very repetitive, with the minor difference of adding a section to write it when you want to start your 12 week plan.
 
-### 🖼️Outline
+### Outline
 
-![The 12 week year (book).webp](/books/the-12-week-year-book.webp)
+![The 12 week year (book)](/books/the-12-week-year-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Part 1 - Things You Think You Know
 
 #### Chapter 1 - The Challenge
 
-**Today our main barrier to having the life we want, to be who we want to be, is not a knowledge problem, it is an execution problem**. Like dieting, most of us know that we should workout and eat mostly vegetables, but it is the "doing" that is lacking. [Insight Gap](/notes/akrasia.md)
+**Today our main barrier to having the life we want, to be who we want to be, is not a knowledge problem, it is an execution problem**. Like dieting, most of us know that we should workout and eat mostly vegetables, but it is the "doing" that is lacking. [Insight Gap](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md)
 
 :::note[Quotes]
 
@@ -86,9 +98,9 @@ SiteProcssed: true
 
 #### Chapter 2 - Redefining the Year
 
-**Annual planning is more harmful than good**. It creates [procrastination](/notes/procrastination.md) at the beginning, because we "have a lot of time left", and we make up for it at the end.
+**Annual planning is more harmful than good**. It creates [Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md) at the beginning, because we "have a lot of time left", and we make up for it at the end.
 
-The "end" of the year is an arbitrary deadline [Deadline Effect](/notes/deadline-effect.md) that pushes us towards action. Therefore, **why not create a shorter timeframe, where the deadline is close enough to generate the sense of urgency right from the start**, and avoid procrastination, but far enough to have time to produce meaningful results?
+The "end" of the year is an arbitrary deadline [Deadlines force action by adding consequences](/notes/deadlines-force-action-by-adding-consequences.md) that pushes us towards action. Therefore, **why not create a shorter timeframe, where the deadline is close enough to generate the sense of urgency right from the start**, and avoid procrastination, but far enough to have time to produce meaningful results?
 
 :::note[Quotes]
 
@@ -103,9 +115,9 @@ The "end" of the year is an arbitrary deadline [Deadline Effect](/notes/deadline
 
 #### Chapter 3 - the Emotional Connection
 
-**Action doesn't come without motivation, and motivation stems from having a vision**. [change starts from the inside out](/notes/change-starts-from-the-inside-out.md). Without it, it will be much harder to stick to actions that are annoying or painful in the short term, for the benefits in the long term. [Present Bias](/notes/present-bias.md)
+**Action doesn't come without motivation, and motivation stems from having a vision**. [change starts from the inside out](/notes/change-starts-from-the-inside-out.md). Without it, it will be much harder to stick to actions that are annoying or painful in the short term, for the benefits in the long term. [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md)
 
-Having a vision has an additional benefit, due to [Neuroplasticity](/notes/neuroplasticity.md), thinking about fulfilling our potential, about growth, can cause our brain to change such that actions related to growth are seem more positive, with more internal motivation to do them, and less stress. **Thinking about change allows us to want it.** [fake it till you make it](/notes/fake-it-till-you-make-it.md)
+Having a vision has an additional benefit, due to [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md), thinking about fulfilling our potential, about growth, can cause our brain to change such that actions related to growth are seem more positive, with more internal motivation to do them, and less stress. **Thinking about change allows us to want it.** [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md)
 
 :::note[Quotes]
 
@@ -124,7 +136,7 @@ In general, plans are great, they:
 2. **saves time** - you think of better ways to reach your goals
 3. **gives focus** - knowing what to do if half the battle
 
-and the 12 week year is an even more powerful plan since it is in a shorter deadline than a yearly plan, which increases predictability. That means that your plan can be more concrete, and more likely to succeed. [Life's Mission](/notes/lifes-mission.md)
+and the 12 week year is an even more powerful plan since it is in a shorter deadline than a yearly plan, which increases predictability. That means that your plan can be more concrete, and more likely to succeed. [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md)
 
 :::note[Quotes]
 
@@ -137,8 +149,8 @@ and the 12 week year is an even more powerful plan since it is in a shorter dead
 
 #### Chapter 5 - One Week at a time
 
-**The best way to make progress is focusing on your actions**, results will be the by product of that, so don't focus on them. [Trust the Process](/notes/trust-the-process.md)
-Review your weekly plan once a week, and your daily plan at the start of the day to stay focused. [Periodical Review](/notes/periodical-review.md).
+**The best way to make progress is focusing on your actions**, results will be the by product of that, so don't focus on them. [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
+Review your weekly plan once a week, and your daily plan at the start of the day to stay focused. [Regular review cycles enable progress tracking and alignment](/notes/regular-review-cycles-enable-progress-tracking-and-alignment.md).
 
 :::note[Quotes]
 
@@ -152,7 +164,7 @@ Review your weekly plan once a week, and your daily plan at the start of the day
 
 **To only way to know if you are sticking to your plan is to do score keeping**, both of lag (results) indicators, and lead (inputs) indicators.
 
-These indicators can give a useful feedback on the usefulness of our plan and outcomes. The key is consistency, not perfection. Sometimes we will fail to reach our weekly goal, but we should use that as motivation to improve the week after. [Goodhart’s Law](/notes/goodhart’s-law.md)
+These indicators can give a useful feedback on the usefulness of our plan and outcomes. The key is consistency, not perfection. Sometimes we will fail to reach our weekly goal, but we should use that as motivation to improve the week after. [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md)
 
 :::note[Quotes]
 
@@ -184,7 +196,7 @@ Have three separate blocks during your week:
 
 #### Chapter 8 - Accountability as Ownership
 
-[Accountability](/notes/accountability.md) is not an external entity that forces responsibility on your results. **It's you taking responsibility for your actions. It's look at everything in life as a choice, not as an external obligation**. This gives us freedom and power to act, not just do the bare minimum. [Agency](/notes/agency.md).
+[You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md) is not an external entity that forces responsibility on your results. **It's you taking responsibility for your actions. It's look at everything in life as a choice, not as an external obligation**. This gives us freedom and power to act, not just do the bare minimum. [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md).
 
 :::note[Quotes]
 
@@ -210,7 +222,7 @@ However, **to be committed is to promise yourself, to bind yourself**. It requir
 #### Chapter 10 - Greatness in the Moment
 
 Results are an indication of your success, not the success itself.
-**True success are your habits, your commitment, dedication, grit, to do what's necessary** [Grit](/notes/grit.md)
+**True success are your habits, your commitment, dedication, grit, to do what's necessary** [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md)
 
 :::note[Quotes]
 
@@ -229,7 +241,7 @@ Life is not a perfect balance between all areas of life. Try and be intentional 
 
 #### Chapter 12 - The Execution System
 
-The 12 week year will be your operating system, meant to facilitate and incorporate all the other systems in your life, to activate them. [Medium Independent](/notes/medium-independent.md)
+The 12 week year will be your operating system, meant to facilitate and incorporate all the other systems in your life, to activate them. [Content is independent from the medium that transmits it](/notes/content-is-independent-from-the-medium-that-transmits-it.md)
 In order for it to succeed, you need three principles: commitment, accountability and consistency,
 But also 5 components: vision, plan, alignment tools, measurements, and time management
 
@@ -284,7 +296,7 @@ Process control are tools that reduce your need for will power when sticking to 
 
 There are two main components:
 1. **Weekly plan** - based on the 12 week plan, create a weekly plan that takes the necessary tactics and deadlines for that week. Best to plan it at the beginning of the week, and review it each day
-2. **Wam** - weekly accountability meetings. Peers are a great tool for motivation. In these meetings, each one will say what his plan is, how well did he preform, and receive support and compliments from his peers. [peer support](/notes/peer-support.md)
+2. **Wam** - weekly accountability meetings. Peers are a great tool for motivation. In these meetings, each one will say what his plan is, how well did he preform, and receive support and compliments from his peers. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
 
 :::note[Quotes]
 
@@ -319,7 +331,7 @@ Focus on your priorities first, don't assume that you can "do it all". If you st
 have 3 blocks:
 1. **Strategic**: a weekly, 3-hour block to deal with deep work and advance towards your goal
 2. **buffer**: once or twice a day for 30 minutes, where you deal with the "common" tasks, such as emails, phones, chores, etc...
-3. **break**: a weekly 3-hour break for rest to avoid [Burnout](/notes/burnout.md), focus on satisfying leisure, not numbing ones
+3. **break**: a weekly 3-hour break for rest to avoid [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md), focus on satisfying leisure, not numbing ones
 
 Don't fall for distractions, use your calendar, your plan, and your vision to stay focused.
 

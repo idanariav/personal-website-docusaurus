@@ -1,13 +1,13 @@
 ---
 UUID: 20231226062850
 Created: '2023-12-26 06:28'
-Modified: '2026-04-08 17:07'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Proactiveness
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   self-awareness, and intrinsic motivation, while rejecting victimhood and
   emotional hijacking.
 new_schema: true
+Topic:
+  - '[[Proactive Agency and Accountability]]'
+Origin: '[[Creativity Inc (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ Proactiveness is the opposite of [Resistance emerges when people feel controlled
 ## Visual
 
 ![Proactiveness](/notes/proactiveness.webp)
-
-## Overview
-🔼Topic:: [Proactive Agency and Accountability](/notes/proactive-agency-and-accountability.md)
-↩️Origin:: [Creativity Inc (book)](/books/creativity-inc-book.md)
-🔗Link::
-

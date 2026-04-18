@@ -1,13 +1,13 @@
 ---
 UUID: 20240701070100
 Created: '2024-07-01 07:01'
-Modified: '2026-04-08 13:21'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Intention
   - Moral reasons
@@ -16,6 +16,10 @@ Description: >-
   importance of intentions alongside agency, while recognizing that outcomes can
   sometimes differ from the underlying motives.
 new_schema: true
+Topic:
+  - '[[Moral Psychology]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ However, we see that not only that people can sometimes fail to act well even if
 ## Visual
 
 ![Intention](/notes/intention.webp)
-
-## Overview
-🔼Topic:: [Moral Psychology](/notes/moral-psychology.md)
-↩️Origin::
-🔗Link::
-

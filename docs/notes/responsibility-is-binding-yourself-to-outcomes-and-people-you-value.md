@@ -1,13 +1,13 @@
 ---
 UUID: 20241125073256
 Created: '2024-11-25 07:32'
-Modified: '2026-04-08 17:07'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Responsibility
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   proactiveness and accountability while fostering a sense of belonging and
   agency in our lives.
 new_schema: true
+Topic:
+  - '[[Proactive Agency and Accountability]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ While being responsible usually means being [accountable](/notes/you-are-respons
 ## Visual
 
 ![Responsibility](/notes/responsibility.webp)
-
-## Overview
-🔼Topic:: [Proactive Agency and Accountability](/notes/proactive-agency-and-accountability.md)
-↩️Origin::
-🔗Link::
-

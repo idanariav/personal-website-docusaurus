@@ -1,47 +1,62 @@
 ---
 UUID: 20240803155109
 Created: '2024-08-03 15:51'
-Modified: '2024-08-12 07:15'
+Modified: '2026-04-13 06:19'
 tags: []
+FullTitle: >-
+  The Gift of Failure - How the Best Parents Learn to Let Go So Their Children
+  Can Succeed
+Description: >-
+  It argues that "good" parenting involves letting children make their own
+  decisions, as failure fosters competence and learning. Overparenting stifles
+  intrinsic motivation, turning experiences into chores, and undermines the joy
+  of learning. Autonomy is essential for their development and growth.
 Author:
   - '[[Jessica Lahey]]'
-Genre: Family & Relationships
-Stored: Kindle
-ReadingStatus: Read
-Purchased: true
-Fiction: false
-Version: 1.02
-Pages: 304
-Rate: 2
-PublishDate: 2015-09-03T00:00:00.000Z
-FinishDate: 2024-08-12T00:00:00.000Z
+URL: 'https://www.goodreads.com/book/show/18813645-the-gift-of-failure'
 Cover: >-
   http://books.google.com/books/content?id=SQDuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/18813645-the-gift-of-failure'
+Genre: Family & Relationships
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B00GLS00LY
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 3
+Pages: 304
+Reread: 0
+Rate: 2
+PublishDate: 2015-09-03T00:00:00.000Z
+StartDate: 2024-08-03T00:00:00.000Z
+FinishDate: 2024-08-12T00:00:00.000Z
+Image: ''
 aliases: null
+Topic:
+  - '[[developing capabilities]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Gift Of Failure (book)
 
-## 🔗Connect
-🔼Topic:: [developing capabilities](/notes/developing-capabilities.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **"Good" parenting is letting go** - while it feels good to save our kids, to take care of their troubles, it prevents them from developing. As hard as it may be, we need to let go, we need to provide them with the power of making decisions, having autonomy over their lives.
 2. **Failure creates competence** - you can't learn without experiencing what it means to fail. When they feel the failure, when they get feedback for their actions, they learn best. It will take time, and it will be messy, and we need the patience to not swoop in and save them or do it for them. As long as its not dangerous, let them try and fail on their own.
 3. **Over parenting blocks intrinsic motivation** - when we try to mold them to be like us, when we lecture them on how to "do it right", we turn the act into something discouraging, into a chore. It's a surefire way to snuff out any intrinsic motivation. External rewards are even worse, taking out incentives to enjoy the task, and prioritize stress and success over experience.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 More independent children, by letting them fail, and when we let go, we allow them to develop.
@@ -50,22 +65,22 @@ More independent children, by letting them fail, and when we let go, we allow th
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The idea is very simple, described well in the first section, and then the entire rest of the book is just a repeat and examples of the same principle, often giving very little substance and more focused on personal stories.
 
 Compare to [The Self-Driven Child (book)](/books/the-self-driven-child-book.md), this book is much more shallow and less polished, and barely adds anything new over it.
 
-## 📒 Notes
+## Notes
 
 ### How I Learned to Let Go
 
-We as parents wish to protect our children, to care, to help, to ease their pain. We see it as a sign of love, as good parenting. We also tie their successes and failures to us as parents and as people. It's all about [signaling](/notes/signaling.md), even for ourselves, that we make a good job. We try to measure their progress as much as possible, looking for every indication that they are doing well. Usually those are numeric metrics, while the important ones are neglected and hidden [McNamara Fallacy](/notes/mcnamara-fallacy.md).
+We as parents wish to protect our children, to care, to help, to ease their pain. We see it as a sign of love, as good parenting. We also tie their successes and failures to us as parents and as people. It's all about [Signaling is displaying qualities to appear worthy or successful](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md), even for ourselves, that we make a good job. We try to measure their progress as much as possible, looking for every indication that they are doing well. Usually those are numeric metrics, while the important ones are neglected and hidden [Treating measurable metrics as complete truth hides importance](/notes/treating-measurable-metrics-as-complete-truth-hides-importance.md).
 
-In truth, when we overprotect our children, we actually harm them [The law of reverse effect](/notes/the-law-of-reverse-effect.md). **By doing things for them and protecting them from failures, we send a clear message that we don't [Trust](/notes/trust.md) them, that they're incapable of doing things on their own**. They later internalize that message, as they give up on even trying, either hoping we would come to their rescue, and/or feel [helplessness](/notes/helplessness.md) vs the difficulties of life.
+In truth, when we overprotect our children, we actually harm them [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md). **By doing things for them and protecting them from failures, we send a clear message that we don't [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) them, that they're incapable of doing things on their own**. They later internalize that message, as they give up on even trying, either hoping we would come to their rescue, and/or feel [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md) vs the difficulties of life.
 
-Instead, **we should embrace failures, let them meet them head on**, while we show our trust in their competence to overcome. [dont jump to the rescue](/notes/dont-jump-to-the-rescue.md).
+Instead, **we should embrace failures, let them meet them head on**, while we show our trust in their competence to overcome. [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md).
 
 :::note[HOW I LEARNED TO LET GO]
 
@@ -97,11 +112,11 @@ The simple answer that followed was "do what feels good". Parents indulged their
 #### Why Parenting for Dependence Doesn't Work
 **The power of intrinsic motivation**
 
-When we impose our will and our viewpoint on the children, when we use external rewards as motivation, we [crowed out](/notes/crowding-out.md) their [intrinsic motivation](/notes/intrinsic-motivation.md) for external one. However the external motivation is short lasting, it harms their [creativity](/notes/innovation.md) and focus because they focus on the reward and not the activity. It often creates backlash if they feel they are being controlled. It is only useful for basic, repetitive boring tasks.
+When we impose our will and our viewpoint on the children, when we use external rewards as motivation, we [crowed out](/notes/one-activity-displaces-another-when-pursued-excessively.md) their [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) for external one. However the external motivation is short lasting, it harms their [creativity](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md) and focus because they focus on the reward and not the activity. It often creates backlash if they feel they are being controlled. It is only useful for basic, repetitive boring tasks.
 
-So how do we maintain the intrinsic motivation and their sense of [curiosity](/notes/curiosity.md)? We need to back off [acceptance](/notes/acceptance.md). We need to let go of our attempts to control them, to give them a sense of [Autonomy](/notes/agency.md) over their lives, and let them explore however they like, as long as it's within safe accepted limits. [Micro-Management](/notes/micro-management.md).
+So how do we maintain the intrinsic motivation and their sense of [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md)? We need to back off [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md). We need to let go of our attempts to control them, to give them a sense of [Autonomy](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) over their lives, and let them explore however they like, as long as it's within safe accepted limits. [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md).
 
-When they are able to set and pursue their own goals, they increase their risk taking and are willing to face failures in a safe environment. Similarly, they should have a [growth mindset](/notes/growth-mindset.md). When we jump to their rescue and solve their problems, we deny them of that.
+When they are able to set and pursue their own goals, they increase their risk taking and are willing to face failures in a safe environment. Similarly, they should have a [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md). When we jump to their rescue and solve their problems, we deny them of that.
 
 :::note[WHY PARENTING FOR DEPENDENCE DOESN’T WORK:]
 
@@ -120,7 +135,7 @@ When they are able to set and pursue their own goals, they increase their risk t
 #### Less Really is More
 **parenting for autonomy and competence**
 
-It seems that **failures and the competence that follows can only happen when the child is both responsible for their actions, and experience the failure itself**. It's all about [experience knowledge](/notes/experience-knowledge.md), if we see them heading towards a failure and try to save them from it, even if we lecture them about it it's not the same as if they have felt what it's like to fail themselves.
+It seems that **failures and the competence that follows can only happen when the child is both responsible for their actions, and experience the failure itself**. It's all about [Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md), if we see them heading towards a failure and try to save them from it, even if we lecture them about it it's not the same as if they have felt what it's like to fail themselves.
 
 Therefore we should not be too rigid, we can't force "best practices" or determine what is the right path for them to do something. **Even if it seems like an act of kindness or care, we should let them be the owners of their fate, for better or worse**.
 
@@ -134,7 +149,7 @@ Therefore we should not be too rigid, we can't force "best practices" or determi
 #### Encouragement from the Sidelines
 **The real connection between praise and self esteem**
 
-We should praise effort, and not achievements. When we praise achievements, the child develops a [fixed mindset](/notes/fixed-mindset.md). They think we only love them if they succeed in life, and that's why they would want to avoid difficult challenges because they might fail and damage their self esteem. However when we praise for effort, and give concrete feedback such as "You did great practicing perspective in drawing" would give them a growth mindset, they would learn that as long as they try their best, that what counts. Similarly, it shows them that we see their effort, we validate their emotions through those struggles and empathize with their pain, instead of a "you are so smart" that might belittle their experience. [how to give praises](/notes/how-to-give-praises.md)
+We should praise effort, and not achievements. When we praise achievements, the child develops a [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md). They think we only love them if they succeed in life, and that's why they would want to avoid difficult challenges because they might fail and damage their self esteem. However when we praise for effort, and give concrete feedback such as "You did great practicing perspective in drawing" would give them a growth mindset, they would learn that as long as they try their best, that what counts. Similarly, it shows them that we see their effort, we validate their emotions through those struggles and empathize with their pain, instead of a "you are so smart" that might belittle their experience. [Praise effort not ability](/notes/praise-effort-not-ability.md)
 
 :::note[ENCOURAGEMENT FROM THE SIDELINES:]
 
@@ -186,7 +201,7 @@ Sport is all about having fun, cooperation and being in the zone. Your role as a
 #### Middle School
 **Prime time for failure**
 
-Middle school is when expectations rise up, while mental faculty remains partial and they lack the [Self-awareness](/notes/self-awareness.md) needed to bridge the gap themselves. They are overwhelmed with so many internal, social and mental changes that's sometimes too much to handle. Our job is to make it easy for them, while not doing it for them.
+Middle school is when expectations rise up, while mental faculty remains partial and they lack the [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md) needed to bridge the gap themselves. They are overwhelmed with so many internal, social and mental changes that's sometimes too much to handle. Our job is to make it easy for them, while not doing it for them.
 
 Mostly, it's about helping them manage their time and focus. Having a calendar, a Pomodoro timer, and a weekly planning session could help keep themselves on track.
 

@@ -1,12 +1,12 @@
 ---
 UUID: 20260312074401
 Created: '2026-03-12 07:44'
-Modified: '2026-04-01 15:17'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Competitive mindset harms wellbeing by focusing on opponents.png]]'
 ImageText: >-
   two arrows towards each other splitting a bar in half, rather than pushing
@@ -16,6 +16,10 @@ Description: >-
   others, harming wellbeing for winners and losers alike
 aliases:
   - Competition
+Topic:
+  - '[[Competition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -43,10 +47,3 @@ A competitive mindset creates a win/lose mentality where we focus on our opponen
 ## Visual
 
 ![Competitive mindset harms wellbeing by focusing on opponents](/notes/competitive-mindset-harms-wellbeing-by-focusing-on-opponents.webp)
-
-## Overview
-🔼Topic:: [Competition](/notes/competition.md)
-↩️Origin::
-🔗Link::
-
-

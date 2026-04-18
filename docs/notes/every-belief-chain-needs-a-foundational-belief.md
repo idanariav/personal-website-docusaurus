@@ -1,8 +1,8 @@
 ---
 UUID: 20241122164603
 Created: '2024-11-22 16:46'
-Modified: '2026-04-10 06:22'
-Version: 2
+Modified: '2026-04-11 22:20'
+Version: 3
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -15,6 +15,10 @@ Description: >-
   belief, contrasting with coherentism, which values the interconnections among
   beliefs.
 new_schema: true
+Topic:
+  - '[[Foundations of Knowledge]]'
+Origin: '[[Rene Descartes (philosopher)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,12 +53,4 @@ One of the challenges of fundamentalism stems from issues with the matter of [Tr
 
 
 ## Visual
-
-
-## Overview
-🔼Topic:: [Foundations of Knowledge](/notes/foundations-of-knowledge.md)
-↩️Origin:: [Rene Descartes (philosopher)](/notes/rene-descartes-philosopher.md)
-🔗Link:: 
-
-
 

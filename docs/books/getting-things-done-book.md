@@ -1,19 +1,23 @@
 ---
 UUID: 20220703190222
 Created: '2022-07-03 19:02'
-Modified: '2024-10-20 06:58'
+Modified: '2026-04-13 06:13'
 tags: []
 Author:
   - '[[David Allen]]'
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 267
 Rate: 3
 PublishDate: 2015-03-25T00:00:00.000Z
@@ -23,6 +27,19 @@ Cover: >-
 URL: 'https://www.goodreads.com/book/show/22573850-getting-things-done'
 aliases:
   - GTD
+Description: >-
+  How to act in a productive way to make sure your mind stays clear and focused
+  on creativity, on enjoying life and on what matters most. The GTD is focused
+  on emptying your mind, brining clarity on your "next task" in each one of your
+  project, and general upkeep and maintenance of things that are pilling up in
+  your todo list.
+FullTitle: Getting Things Done - How To Achieve Stress-free Productivity
+StartDate: 2022-02-09T00:00:00.000Z
+ASIN: B00KWG9M2E
+Reread: 0
+Topic:
+  - '[[Triage prioritizes limited resources by allocating attention wisely]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -32,19 +49,15 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [Triage](/notes/triage.md)
-
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 How to act in a productive way to make sure your mind stays clear and focused on creativity, on enjoying life and on what matters most. The GTD is focused on emptying your mind, brining clarity on your "next task" in each one of your project, and general upkeep and maintenance of things that are pilling up in your todo list.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -52,22 +65,22 @@ How to act in a productive way to make sure your mind stays clear and focused on
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book has a lot of irrelevant parts. unnecessary examples, repetitive, and it just might be that the book wasn't written for me, maybe for those who feel that they are stuck. Also this book is "old" and its showing, advising us to use a secretary and work with physical inbox etc.
 
 Also, there's not a lot of added value compared to videos' that you can find for free online.
 
-### 🖼️Outline
+### Outline
 
-![Getting Things Done (book).webp](/books/getting-things-done-book.webp)
+![Getting Things Done (book)](/books/getting-things-done-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Intro
 
-an attempt to convince us in the necessity of the logic behind the GTD system. 13% of the book to tell us the "our minds are clouded by thoughts, pressure, commitments and information" and that it makes our life hard. [our mind is a processor and not a warehouse](/notes/our-mind-is-a-processor-and-not-a-warehouse.md)
+an attempt to convince us in the necessity of the logic behind the GTD system. 13% of the book to tell us the "our minds are clouded by thoughts, pressure, commitments and information" and that it makes our life hard. [Our mind is a processor and not a warehouse](/notes/our-mind-is-a-processor-and-not-a-warehouse.md)
 
 :::note[Welcome to Getting Things Done]
 
@@ -80,9 +93,9 @@ an attempt to convince us in the necessity of the logic behind the GTD system. 1
 
 ### Part 1 - The Art of Getting Things Done
 
-[Systematical Thinking](/notes/systematical-thinking.md)
+[Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md)
 
-We have taken more than we could chew. The amount of information, tasks, roles and conversations we have to do is simply overwhelming. We need a system in order to function, something that would reduce our cognitive load, and help us bring [clarity](/notes/clarity.md) to our life.
+We have taken more than we could chew. The amount of information, tasks, roles and conversations we have to do is simply overwhelming. We need a system in order to function, something that would reduce our cognitive load, and help us bring [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md) to our life.
 
 GTD is a bottoms-up approach, because there's no point in talking about grand visions if your day-to-day is chaotic without any room for relaxation. The main goal of GTD is defining what done looks like, and how to get there. The rest our system will handle and make sure we're on the right track.
 
@@ -254,7 +267,7 @@ Briefly:
 #### Reflect
 
 During the day work mainly with your calendar, since it defines your anchors and your timed chores along the day. If you have free time, use your "next actions" list.
-Once a week, go over all your lists, your projects, the captures, next missions and someday tasks and make sure everything is clean and organized. [Periodical Review](/notes/periodical-review.md)
+Once a week, go over all your lists, your projects, the captures, next missions and someday tasks and make sure everything is clean and organized. [Regular review cycles enable progress tracking and alignment](/notes/regular-review-cycles-enable-progress-tracking-and-alignment.md)
 
 :::note[Reflecting: Keeping It All Fresh and Functional]
 
@@ -275,7 +288,7 @@ Once a week, go over all your lists, your projects, the captures, next missions 
 
 ##### How Should You Prioritize Tasks?
 
-1. **[context](/notes/context.md)** - each action requires you to be in a certain place/time, having access to resources, etc...
+1. **[Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md)** - each action requires you to be in a certain place/time, having access to resources, etc...
 2. **Time** - do you have enough time right now to preform this task?
 3. **Energy** - some tasks are more mentally or physically exhausting than others. Choose tasks according to your level of energy
 4. **Urgency** - how important it is to finish it now?
@@ -295,7 +308,7 @@ Once a week, go over all your lists, your projects, the captures, next missions 
 
 ##### Project Planning
 
-The [Planning](/notes/planning.md) should be natural, top down oriented.
+The [Planning is anticipating the future and preparing action accordingly](/notes/planning-is-anticipating-the-future-and-preparing-action-accordingly.md) should be natural, top down oriented.
 You must define the:
 1. goal (the "why")
 2. our values (our limitations and rules)
@@ -350,7 +363,7 @@ To handle the workload, we have to do one of three: [Eisenhower matrix](/notes/e
 
 #### Goal Setting
 
-goal setting is important as long as it is connect to present tasks. Having ordered goals is only possible after organizing your tasks - i.e "a sinking ship doesn't matter where its headed". (although In the long run our goals affect our daily workload). [Life's Mission](/notes/lifes-mission.md)
+goal setting is important as long as it is connect to present tasks. Having ordered goals is only possible after organizing your tasks - i.e "a sinking ship doesn't matter where its headed". (although In the long run our goals affect our daily workload). [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md)
 
 #### Figuring out the "next task"
 

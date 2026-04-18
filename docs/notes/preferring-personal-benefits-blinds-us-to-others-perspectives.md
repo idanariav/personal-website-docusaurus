@@ -1,13 +1,13 @@
 ---
 UUID: 20240218075837
 Created: '2024-02-18 07:58'
-Modified: '2026-04-08 13:46'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Self Bias
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   overestimation of personal abilities and undervaluation of others, often
   resulting in avoidance of accountability and distorted self-perception.
 new_schema: true
+Topic:
+  - '[[Attribution Bias]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ Unfortunately, in attempts to defend ourselves (or more accurately - our [ego](/
 ## Visual
 
 ![Self Bias](/notes/self-bias.webp)
-
-## Overview
-🔼Topic:: [Attribution Bias](/notes/attribution-bias.md)
-↩️Origin::
-🔗Link::
-

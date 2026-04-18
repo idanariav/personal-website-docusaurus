@@ -1,9 +1,9 @@
 ---
 UUID: 20230314192649
 Created: '2023-03-14 19:26'
-Modified: '2026-04-10 14:17'
+Modified: '2026-04-11 22:20'
 tags: []
-Version: 2
+Version: 3
 aliases:
   - Veil of ignorance
 Description: >-
@@ -11,6 +11,10 @@ Description: >-
   prioritize the worst-off individuals' situation, promoting the maximin
   principle without necessarily advocating for equality.
 new_schema: true
+Topic:
+  - '[[Rights, Justice and Equality]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -39,9 +43,3 @@ Making decisions this way doesn't necessarily mean we should be egalitarian, sin
 
 ### Open questions
 
-
-## Overview
-🔼Topic:: [Rights, Justice and Equality](/notes/rights-justice-and-equality.md)
-Source:: [John rawls](/notes/john-rawls.md)
-Source:: [Philosophize This!](/notes/philosophize-this.md) 
-Link:: https://share.snipd.com/episode/6140eb3e-f09d-485f-93d2-bf235b6635c2

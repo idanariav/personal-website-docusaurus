@@ -1,13 +1,13 @@
 ---
 UUID: 20241102213256
 Created: '2024-11-02 21:32'
-Modified: '2026-04-08 13:23'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Hedonism
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   evaluating morality based on the pleasure or pain derived from experiences,
   often blurring the distinction between types of pleasures.
 new_schema: true
+Topic:
+  - '[[Moral Epistemology]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -44,9 +48,3 @@ The appeal of hedonism is that it is really easy to [Love what is good](/notes/l
 ## Visual
 
 ![Hedonism](/notes/hedonism.webp)
-
-## Overview
-🔼Topic:: [Moral Epistemology](/notes/moral-epistemology.md)
-↩️Origin::
-🔗Link::
-

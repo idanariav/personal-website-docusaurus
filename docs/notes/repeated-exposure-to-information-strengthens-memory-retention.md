@@ -1,13 +1,13 @@
 ---
 UUID: 20230825155014
 Created: '2023-08-25 15:50'
-Modified: '2026-04-09 08:42'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Spaced repetition
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   memory retention by reinforcing the importance of information, thereby
   preventing forgetfulness and facilitating long-term knowledge storage.
 new_schema: true
+Topic:
+  - '[[Active Learning and Deep Encoding]]'
+Origin: '[[Behave (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ There is no clear mechanism on what should be the gap between study sessions, mo
 ## Visual
 
 ![spaced repetition](/notes/spaced-repetition.webp)
-
-## Overview
-🔼Topic:: [Active Learning and Deep Encoding](/notes/active-learning-and-deep-encoding.md)
-Origin:: [Behave (book)](/books/behave-book.md)
-🔗Link::
-

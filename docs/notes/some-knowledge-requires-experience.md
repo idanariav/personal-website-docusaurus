@@ -1,8 +1,8 @@
 ---
 UUID: 20240217075554
 Created: '2024-02-17 07:55'
-Modified: '2026-04-10 06:22'
-Version: 2
+Modified: '2026-04-11 22:27'
+Version: 3
 tags: []
 excalidraw-plugin: null
 aliases:
@@ -12,6 +12,10 @@ Description: >-
   such as perceiving color, differs from theoretical understanding, highlighting
   the distinction between information and conscious experience.
 new_schema: true
+Topic:
+  - '[[Nature and Limits of Knowledge]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -43,11 +47,4 @@ Then, she is allowed to step outside and sees red for the first time. The questi
 
 
 ## Visual
-
-
-
-## Overview
-🔼Topic:: [Nature and Limits of Knowledge](/notes/nature-and-limits-of-knowledge.md)
-↩️Origin::
-🔗Link:: 
 

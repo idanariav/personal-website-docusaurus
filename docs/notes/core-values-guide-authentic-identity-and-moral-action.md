@@ -1,13 +1,13 @@
 ---
 UUID: 20240218074404
 Created: '2024-02-18 07:44'
-Modified: '2026-04-02 09:16'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Core values guide authentic identity and moral action.png]]'
 ImageText: A person silhouette with a compass in their chest
 Description: >-
@@ -19,6 +19,10 @@ aliases:
   - Core Beliefs
   - Core Principles
 new_schema: true
+Topic:
+  - '[[Authenticity and Values]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -45,15 +49,10 @@ They often bring meaning to our lives, and a sense of direction. As long as we f
 
 ### Opposers
 
-However, we don't always live up to our ideals, sometimes we don't even try [Insight Gap](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md) even though we know we should. Sometimes [Distractions](/notes/distraction.md) get the better of us, or we don't know which core value to follow in case they clash [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md).
+However, we don't always live up to our ideals, sometimes we don't even try [Insight Gap](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md) even though we know we should. Sometimes [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) get the better of us, or we don't know which core value to follow in case they clash [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md).
 
 ### Open questions
 
 ## Visual
 
 ![Core values guide authentic identity and moral action](/notes/core-values-guide-authentic-identity-and-moral-action.webp)
-
-## Overview
-🔼Topic:: [Authenticity and Values](/notes/authenticity-and-values.md)
-↩️Origin::
-🔗Link::

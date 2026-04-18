@@ -1,8 +1,8 @@
 ---
 UUID: 20260323061801
 Created: '2026-03-23 06:18'
-Modified: '2026-03-23 06:18'
-Version: 1
+Modified: '2026-04-11 22:23'
+Version: 2
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -13,6 +13,10 @@ Description: >-
   excluded.
 aliases:
   - Neutrality
+Topic:
+  - '[[Neutrality]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -41,8 +45,3 @@ This form of neutrality is easier to pursue in the humanities, where exclusive n
 
 ## Visual
 
-
-## Overview
-🔼Topic:: [Neutrality](/notes/neutrality.md)
-↩️Origin::
-🔗Link::

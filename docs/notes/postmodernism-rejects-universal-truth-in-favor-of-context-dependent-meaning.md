@@ -5,8 +5,8 @@ Image: null
 tags: []
 UUID: 20230416065653
 Created: '2023-04-16 06:56'
-Modified: '2026-04-10 14:17'
-Version: 2
+Modified: '2026-04-11 22:25'
+Version: 3
 aliases:
   - Post-Modernism
 excalidraw-open-md: true
@@ -15,6 +15,10 @@ Description: >-
   and individuality, critiquing grand narratives that lead to totalitarianism
   and a lack of uniqueness in thought and identity.
 new_schema: true
+Topic:
+  - '[[Nature and Limits of Knowledge]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ What do you do when there are conflicts between societies? usually the one who "
 ## Visual
 
 ![Post-Modernisem](/notes/post-modernisem.webp)
-
-## Overview
-🔼Topic:: [Nature and Limits of Knowledge](/notes/nature-and-limits-of-knowledge.md)
-Source:: [Philosophize This!](/notes/philosophize-this.md)
-Link:: https://share.snipd.com/episode/d8943990-cf1e-4f82-87c5-f448f606a297
-

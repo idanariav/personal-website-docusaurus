@@ -1,13 +1,13 @@
 ---
 UUID: 20230721181416
 Created: '2023-07-21 18:14'
-Modified: '2026-04-08 13:59'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Self-control
   - Self discipline
@@ -16,6 +16,10 @@ Description: >-
   actions with one's true preferences, often involving the balance between
   rationality and emotional responses.
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -30,7 +34,7 @@ Self control is perhaps a contradiction of a sort, but in essence it means that 
 
 ### Explanation
 
-For example, to [Delay Gratification](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md), resist [Temptations](/notes/distraction.md), or obey [Absolute rules trade flexibility for willpower savings](/notes/absolute-rules-trade-flexibility-for-willpower-savings.md) are simple examples of self control.
+For example, to [Delay Gratification](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md), resist [Temptations](/notes/distractions-pull-us-towards-them-as-a-temptation.md), or obey [Absolute rules trade flexibility for willpower savings](/notes/absolute-rules-trade-flexibility-for-willpower-savings.md) are simple examples of self control.
 
 We might imagine self control as the victory of our [Rational System](/notes/system-2-enables-deliberate-analytical-thinking-for-complex-problems.md) over our [Emotional Side](/notes/automatic-thinking-processes-drive-fast-emotional-responses.md), yet it is far from the truth. Emotions are not something to be discarded, they can be [helpful](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md) as much as our rational side, and similarly our rational side can lead us [astray](/notes/we-justify-our-conclusions-after-acting-not-before.md) just the same.
 
@@ -51,9 +55,3 @@ Paradoxically, self control can also be a sign of [intrapersonal conflict](/note
 ## Visual
 
 ![Self-control](/notes/self-control.webp)
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-◀Origin::
-🔗Link::
-

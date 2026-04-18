@@ -1,38 +1,52 @@
 ---
 UUID: 20240415191120
 Created: '2024-04-15 19:11'
-Modified: '2024-05-05 08:15'
-Version: 1
+Modified: '2026-04-13 06:21'
 tags: []
-PublishDate: 2015-05-19T00:00:00.000Z
-Pages: 274
+FullTitle: Triggers - Creating Behavior That Lasts--Becoming the Person You Want to Be
+Description: >-
+  It argues that triggers for behavior stem from our environment and
+  interactions. Personal change requires awareness and engagement, making us
+  role models for others. Change involves a collaborative process, and
+  adaptability in response to shifting environments is essential for effective
+  behavior modification.
 Author:
   - '[[Marshall Goldsmith]]'
   - '[[Mark Reiter]]'
-Genre: Business & Economics
-Stored: Kindle
-Purchased: true
-Fiction: false
+URL: 'https://www.goodreads.com/book/show/22544758-triggers'
 Cover: >-
   http://books.google.com/books/content?id=UY5oBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/22544758-triggers'
-ReadingStatus: Read
-FinishDate: '[[2024-05-04|2024-05-04]]'
+Genre: Business & Economics
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B00N6PEN0Y
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 274
+Reread: 0
 Rate: 2
+PublishDate: 2015-05-19T00:00:00.000Z
+StartDate: 2024-04-27T00:00:00.000Z
+FinishDate: '[[2024-05-04|2024-05-04]]'
+Image: ''
 aliases: null
+Topic:
+  - '[[Change (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Triggers
 
-## 🔗Connect
-🔼Topic:: [Change (Map)](/mocs/change-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **A trigger is both environment, person, and behavior** - we are highly affected by our environment, and there are many possible things that triggers a certain behavior within you, it could be the culture of the place, the people you interact with, and even certain phrases, like a triggering word.
 2. **You are also a trigger** - once you take control of your life and work towards the person you want to be, you can become a role model, a trigger, for others to behave better
@@ -40,11 +54,11 @@ SiteProcssed: true
 4. **Try to do your best** - to change, one needs both awareness of what to change, and the engagement of doing what it takes, doing the best you can. To do so, ask yourself daily questions which starts with "did I do my best to..."
 5. **Environment is a two way conversation** - since the environment is also human, we can't control it and expect it to be stable over time, meaning that it constantly changes, so habits can't be a solution, we rather need an adaptable approach of noticing triggers and use the space between trigger and action to respond well to the situation
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 I should judge myself not by factual status, but rather by did I do my best. For example, not the objective nutrition quality of what I ate, but rather did I eat the healthiest food I could find (like trying to eat vegetables in the army)
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -53,7 +67,7 @@ I should judge myself not by factual status, but rather by did I do my best. For
 🧱 *Implementations and limitations of it are...*
 He describes the "situational leadership" model but it's very unclear how to use it, and even don't reference the specific strategies described there
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 In general, the book is a collection of quick simple models he uses in his coaching to help his clients change, but a lack of theme is visible. Models aren't used from one chapter to the next, and part 2 seems unrelated to the first, and to change in general.
@@ -62,15 +76,15 @@ Perhaps in his coaching he expects inputs from his clients to build a process, a
 
 He talks religiously about how the environment controls us, but the entire second section just says "try harder", instead of adapting the environment, and later says that we often blame the environment for not succeeding in changing, which is counterintuitive to the main point of the book.
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-The most impactful aspect of our behavior is the triggers [Cue](/notes/priming.md) that influence us to behave in a specific way. The smell of food makes us hungry, seeing people run makes us impatient. Therefore [Environmental design](/notes/nudge.md) is the most important thing we can do to change our behavior and be the person we want to become.
+The most impactful aspect of our behavior is the triggers [Cue](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) that influence us to behave in a specific way. The smell of food makes us hungry, seeing people run makes us impatient. Therefore [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md) is the most important thing we can do to change our behavior and be the person we want to become.
 
-But most often we feel [helplessness](/notes/helplessness.md), either unable to change the environment, or realizing too late the effect it had on us, spending years following bad behavior patterns, causing us to feel [Regret](/notes/regret.md).
+But most often we feel [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md), either unable to change the environment, or realizing too late the effect it had on us, spending years following bad behavior patterns, causing us to feel [We regret inaction more than action taken](/notes/we-regret-inaction-more-than-action-taken.md).
 
-Regret is not a feeling we should avoid, we should embrace it, use it as fuel for motivation [emotional aikido](/notes/emotional-aikido.md), to drive us to change the environment in our favor.
+Regret is not a feeling we should avoid, we should embrace it, use it as fuel for motivation [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md), to drive us to change the environment in our favor.
 
 ### Why Don't We Become the Person We want to Be
 
@@ -79,23 +93,23 @@ Regret is not a feeling we should avoid, we should embrace it, use it as fuel fo
 Change is hard, for several reasons:
 
 1. We are not always aware or can admit that we need to change
-2. We ignore the power of inertia [momentum](/notes/momentum.md) over us
-3. We don't know how to start changing [free will is knowledge](/notes/free-will-is-knowledge.md)
+2. We ignore the power of inertia [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md) over us
+3. We don't know how to start changing [Free will is knowledge](/notes/free-will-is-knowledge.md)
 
-The first point is the most important one. Either due to [addiction](/notes/addiction.md) or [path dependence](/notes/path-dependence.md), we fail to acknowledge our need to change. When considering that change is not just about you, but also your close environment that would be affected by it, like friends and family, wanting to change and involving them both in the process and in the outcomes is unsurprisingly hard.
+The first point is the most important one. Either due to [Addiction is escapism that destroys self-control](/notes/addiction-is-escapism-that-destroys-self-control.md) or [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md), we fail to acknowledge our need to change. When considering that change is not just about you, but also your close environment that would be affected by it, like friends and family, wanting to change and involving them both in the process and in the outcomes is unsurprisingly hard.
 
 #### Belief Triggers that Stop Behavioral Change in It's Tracks
 
 There are several types of beliefs, or internal ways of thinking the prevent us from actualizing a desire for change, these are:
 
-1. [Insight Gap](/notes/akrasia.md) - knowing what to do and actually doing it are two different things
+1. [Insight Gap](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md) - knowing what to do and actually doing it are two different things
 2. Willpower gap - our willpower level when we decide to change is always higher than the actual willpower level when trying to change.
 3. Special excuses - we search for reasons why "today specifically" we shouldn't do the habit, because today we are tired, today's our birthday, etc. this hurts momentum.
-4. [Moral Licensing](/notes/moral-licensing.md) - we compare ourselves to an easy alternative, which "permits" us to fail this time
+4. [Doing good gives us permission to do harm](/notes/doing-good-gives-us-permission-to-do-harm.md) - we compare ourselves to an easy alternative, which "permits" us to fail this time
 5. I don't need help - we think we can do everything ourselves with no help from others or need to follow instructions 
-6. I will not waiver - we forget that [willpower is limited](/notes/willpower-is-limited.md), and our energy decreases over time
-7. There's always tomorrow - we [procrastinate](/notes/procrastination.md) our dreams further and further into the future as if we have all the time in the world
-8. We don't plan for distractions - we think we will constantly be focused, and that everything will be according to plan [planning fallacy](/notes/planning-fallacy.md)
+6. I will not waiver - we forget that [Willpower is Limited](/notes/willpower-is-limited.md), and our energy decreases over time
+7. There's always tomorrow - we [procrastinate](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md) our dreams further and further into the future as if we have all the time in the world
+8. We don't plan for distractions - we think we will constantly be focused, and that everything will be according to plan [We underestimate task duration through overconfident predictions](/notes/we-underestimate-task-duration-through-overconfident-predictions.md)
 9. Epiphanies are strong motivators - we think that having a "eureka" moment is enough for change 
 10. Change is a one time investment - we forget that change also has to be maintained, like staying in shape
 11. There will be no new problems - we think that no new problems will arise from our change
@@ -106,7 +120,7 @@ There are several types of beliefs, or internal ways of thinking the prevent us 
 
 #### It's the Environment
 
-Our behavior affected by the environment in more ways than we think, and it's often in harmful ways. This includes both the physical environment [context](/notes/context.md), like how the place is built , which features it includes, but also the [social environment](/notes/social-environment.md), meaning how others expect us to behave in those situations, and the actual behavior of the people around us. Even a certain person can trigger us to behave in a certain way.
+Our behavior affected by the environment in more ways than we think, and it's often in harmful ways. This includes both the physical environment [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md), like how the place is built , which features it includes, but also the [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md), meaning how others expect us to behave in those situations, and the actual behavior of the people around us. Even a certain person can trigger us to behave in a certain way.
 
 Even if we are aware of it's power, we are powerless to stop it, stuck in inertia. We end up having several "roles" we fill based on the environment we are in. From the hardworking employee, to the caring parents, to the obnoxious speaker at a meeting 
 
@@ -143,17 +157,17 @@ Analyze the triggers in your life. Do you have enough productive triggers (both 
 
 #### How Triggers Work
 
-Contrary to [The habit loop](/notes/the-habit-loop.md), the line between cue and response is not direct, it passes through some small points in between that can happen in the blink of an eye, seeming as if they don't exist at all, but these are:
+Contrary to [Habits operate through a four-part loop](/notes/habits-operate-through-a-four-part-loop.md), the line between cue and response is not direct, it passes through some small points in between that can happen in the blink of an eye, seeming as if they don't exist at all, but these are:
 
 1. **Impulse** - what the cue pushes us to do
 2. **Awareness** - we become aware of our desire and it's source
 3. **Choice** - we make a conscious choice what we want to do
 
-It's this bridge, this reminder that we always have the [Freedom of response](/notes/agency.md) that helps us escape bad triggers. Not habits, but rather [adaptability](/notes/adaptability.md), to adjust ourselves to the situation. This is critical since in most cases we won't be able to predict the trigger. It could be a person, something someone said. Human interaction makes triggers problematic. It's not always as simple as "hiding the food in your fridge", where you have complete knowledge and control over the triggers in your environment.
+It's this bridge, this reminder that we always have the [Freedom of response](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) that helps us escape bad triggers. Not habits, but rather [Our beliefs must adapt as context and goals change](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md), to adjust ourselves to the situation. This is critical since in most cases we won't be able to predict the trigger. It could be a person, something someone said. Human interaction makes triggers problematic. It's not always as simple as "hiding the food in your fridge", where you have complete knowledge and control over the triggers in your environment.
 
 #### We Are Superior Planners and Inferior Doers
 
-We each have inside of us a planner and a doer [Elephant and the Rider](/notes/elephant-and-the-rider.md), and while we feel they are one and the same, they are most often not, especially as the day goes by and the energy dwindles. We naively believe we can just simple "delegate" a task to ourselves, to tell ourselves to do it and we will follow through. However, as any leader knows, it's not always the correct approach.
+We each have inside of us a planner and a doer [Reason and emotion compete for control](/notes/reason-and-emotion-compete-for-control.md), and while we feel they are one and the same, they are most often not, especially as the day goes by and the energy dwindles. We naively believe we can just simple "delegate" a task to ourselves, to tell ourselves to do it and we will follow through. However, as any leader knows, it's not always the correct approach.
 
 We should use "situational leadership" when managing ourselves too. In each situation, we need to assess the need, and match the type of strategy used.
 
@@ -182,7 +196,7 @@ Before we can start changing, we need to understand how to change. A useful mode
 
 #### The Power of Active Questions
 
-Passive questions like "how was your day" are bad at creating engagement. Instead, replace it with active questions like "did you do your best to be happy?" These promote responsibility and accountability. [Periodical Review](/notes/periodical-review.md)
+Passive questions like "how was your day" are bad at creating engagement. Instead, replace it with active questions like "did you do your best to be happy?" These promote responsibility and accountability. [Regular review cycles enable progress tracking and alignment](/notes/regular-review-cycles-enable-progress-tracking-and-alignment.md)
 
 #### The Engaging Questions
 
@@ -194,10 +208,10 @@ Asking yourself these questions on a daily basis creates accountability and forc
 
 The advantages of daily questions:
 
-1. Create [intrinsic motivation](/notes/intrinsic-motivation.md) 
-2. A form of [Commitment Devices](/notes/commitment-devices.md)
+1. Create [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) 
+2. A form of [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md)
 3. Increase [self discipline](/notes/self-discipline.md) 
-4. Makes us focus on the process, not the goal [trust the process](/notes/trust-the-process.md)
+4. Makes us focus on the process, not the goal [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
 
 #### Planner, Doer and Coach
 

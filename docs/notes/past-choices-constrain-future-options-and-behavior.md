@@ -1,13 +1,13 @@
 ---
 UUID: 20230403065733
 Created: '2023-04-03 06:57'
-Modified: '2026-04-08 13:57'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Path Dependence
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   resulting in entrenched systems that resist change despite potentially better
   alternatives.
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -60,9 +64,3 @@ We simply "got used" [Repeated actions become automatic through habit formation]
 ## Visual
 
 ![Path Dependence](/notes/path-dependence.webp)
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-◀Origin::
-🔗Link::
-

@@ -32,7 +32,7 @@ Are you struggling to find enough hours in the day to chase your dreams? What if
 
 ![Find your frequency (insight).webp](/posts/find-your-frequency-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 I often wish there were more than 24 hours in a day.
 

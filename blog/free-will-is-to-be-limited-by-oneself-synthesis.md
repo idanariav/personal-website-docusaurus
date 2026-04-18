@@ -26,7 +26,7 @@ SiteProcssed: true
 **Is free will about giving in, or taking control?**  
 Whether you surrender to every impulse or let just one side of you take over, you're not truly free. Real free will is an internal agreement, a collaboration between all parts of yourself. It takes compromise, creativity, and the courage to listen to your whole self.
 
-<!-- truncate -->
+{/* truncate */}
 
 ## What is Free Will Anyway?
 

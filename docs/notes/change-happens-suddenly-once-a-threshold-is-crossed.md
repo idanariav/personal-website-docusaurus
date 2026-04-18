@@ -1,13 +1,13 @@
 ---
 UUID: 20250303073721
 Created: '2025-03-03 07:37'
-Modified: '2026-04-08 13:58'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Change happens suddenly once a threshold is crossed.png]]'
 ImageText: >-
   A dam holding back water showing calm conditions versus the same dam
@@ -18,6 +18,10 @@ Description: >-
 aliases:
   - Critical mass
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ If I only binge for an hour a day, perhaps it's fine, but I assume that once you
 ## Visual
 
 ![Change happens suddenly once a threshold is crossed](/notes/change-happens-suddenly-once-a-threshold-is-crossed.webp)
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-↩️Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20230721174813
 Created: '2023-07-21 17:48'
-Modified: '2026-04-06 23:11'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Objectivity
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   intrinsic value, focusing on quantifiable traits while neglecting qualitative
   aspects of existence, often linked to dehumanization.
 new_schema: true
+Topic:
+  - '[[Freedom and Agency]]'
+Origin: '[[Ethics of ambiguity (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ It is to turn ourselves into [Multidimensional identity collapses into single fi
 ## Visual
 
 ![Objectivity](/notes/objectivity.webp)
-
-## Overview
-🔼Topic:: [Freedom and Agency](/notes/freedom-and-agency.md)
-◀Origin:: [Ethics of ambiguity (book)](/books/ethics-of-ambiguity-book.md)
-🔗Link::
-

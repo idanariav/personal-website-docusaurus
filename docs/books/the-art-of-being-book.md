@@ -1,47 +1,60 @@
 ---
-tags: []
 UUID: 20240418204317
 Created: '2024-04-18 20:43'
-Modified: '2024-05-01 10:52'
-Version: 1.01
-PublishDate: 2013-02-26T00:00:00.000Z
-Pages: 222
+Modified: '2026-04-13 06:18'
+tags: []
+FullTitle: The Art of Being
+Description: >-
+  It argues that society promotes a culture of possession, reducing individuals
+  to mere objects in competition. To shift from this mindset, self-awareness and
+  courageous action are essential. Additionally, it emphasizes the need to
+  discern harmful desires that distract from personal growth and resilience.
 Author:
   - '[[Erich Fromm (philosopher)]]'
-Genre: Psychology
-Stored: Kindle
-Purchased: true
-Fiction: false
+URL: 'https://www.goodreads.com/book/show/25492.The_Art_of_Being'
 Cover: >-
   http://books.google.com/books/content?id=QGit6bbnGLEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/25492.The_Art_of_Being'
-ReadingStatus: Read
-FinishDate: 2024-04-27T00:00:00.000Z
+Genre: Psychology
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B00BBPWAH4
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 222
+Reread: 0
 Rate: 2
+PublishDate: 2013-02-26T00:00:00.000Z
+StartDate: 2024-04-20T00:00:00.000Z
+FinishDate: 2024-04-27T00:00:00.000Z
+Image: ''
 aliases: null
+Topic:
+  - '[[Existentialism (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Art of Being (book)
 
-## 🔗Connect
-🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **A culture of having** - we live in a culture of having, one that forces us to see the world through the lens of possession, to treat ourselves and others as objects, competing in a zero sum game
 2. **From having to being** - To transform our life from one of having to being, we first need self awareness, then courage to act by our will
 3. **Our will must be protected** - not all wants are created equal. There are wants that are harmful for the self and should be avoided. With awareness, we can see which wants are the cause of external or internal forces that drives us away from hardship, which is the one source for growth
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -49,12 +62,12 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book is disorganized to say the least, chapters include paragraphs on unrelated content, some highly influenced by the time such that without context it's difficult to understand. Seems more like a manifest vs new age philosophy and support of "good old fashion" psychotherapy
 
-## 📒 Notes
+## Notes
 
 :::note[Introduction]
 
@@ -76,18 +89,18 @@ There are two basic answers:
 1. **Needs are subjective** - no matter what the need is, whether it is listening to music or taking drugs, the sole judge is the individual, and fulfilling them is what will bring them happiness 
 2. **Some needs are worth more** - there are some needs that we should want and others we should avoid, and only answering those needs is what will give us happiness.
 
-We want to believe the second type, but it requires an objective norm of what counts a good [need](/notes/desire.md) and what doesn't. This involves questions of science and human nature. It seems philosophers throughout the ages have supported that the "**good needs" are to overcome hardships and promote the development of good capabilities such as love, wisdom, courage.** (Related :: [virtue theory](/notes/virtue-theory.md)) Since we don't have a problem claiming such an objective metric over the health of the body (such as avoiding sweets and doing exercises), why not have a similar claim on the mind?
+We want to believe the second type, but it requires an objective norm of what counts a good [need](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md) and what doesn't. This involves questions of science and human nature. It seems philosophers throughout the ages have supported that the "**good needs" are to overcome hardships and promote the development of good capabilities such as love, wisdom, courage.** (Related :: [Cultivating virtues creates a good moral character](/notes/cultivating-virtues-creates-a-good-moral-character.md)) Since we don't have a problem claiming such an objective metric over the health of the body (such as avoiding sweets and doing exercises), why not have a similar claim on the mind?
 
-The reason some of our needs for happiness requires avoiding things is because those things can override our ability to reason, thus turning us into their slaves instead of the other way around. [Escapism](/notes/escapism.md)
+The reason some of our needs for happiness requires avoiding things is because those things can override our ability to reason, thus turning us into their slaves instead of the other way around. [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md)
 
 These effects can be:
 
 1. **Internal** - such as the desire for greed, for lust, all forms of temptations
-2. **External** - [influence](/notes/external-influence.md) from society which tries to enforce it's view on us, causing us to believe we are free while in reality we are simply it's tools. We lack [Positive freedom](/notes/positive-freedom.md)
+2. **External** - [influence](/notes/external-influence-constrains-authentic-identity-and-agency.md) from society which tries to enforce it's view on us, causing us to believe we are free while in reality we are simply it's tools. We lack [Freedom means having the ability to pursue your goals](/notes/freedom-means-having-the-ability-to-pursue-your-goals.md)
 
 While no prescription can be given to the meaning of life, know this:
 
-There's little chance that you will figure out on your own that objective metric of being, that philosophers have searched and developed their theories based on one another in an evolutionary process for thousands of years. So read what they think, form your own opinion, and continue from there [Effort Storing](/notes/effort-storing.md)
+There's little chance that you will figure out on your own that objective metric of being, that philosophers have searched and developed their theories based on one another in an evolutionary process for thousands of years. So read what they think, form your own opinion, and continue from there [One-time effort investment yields future benefits](/notes/one-time-effort-investment-yields-future-benefits.md)
 
 :::note[On the Art of Being]
 
@@ -103,11 +116,11 @@ There's little chance that you will figure out on your own that objective metric
 
 #### Great Shams
 
-One of the obstacles is as been said to be free of illusion. This requires [Self-awareness](/notes/self-awareness.md), to be able to detect the "great shams", all the forces who tries to sell us quick and easy happiness. Essentially, these are forces of escapism wrapped with capitalistic marketing to make it approachable, tempting, and popular. 
+One of the obstacles is as been said to be free of illusion. This requires [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md), to be able to detect the "great shams", all the forces who tries to sell us quick and easy happiness. Essentially, these are forces of escapism wrapped with capitalistic marketing to make it approachable, tempting, and popular. 
 
 We must realize the we can't allow ourselves to be deceived, that we mustn't ignore the complexity and difficulties of the world, that happiness isn't something we can just get without effort, that if it's too good to be true, it probably is.
 
-We must be aware of salespersons, especially those who we tend to believe just because of their [Halo effect](/notes/halo-effect.md).
+We must be aware of salespersons, especially those who we tend to believe just because of their [One good trait makes us assume others are good too](/notes/one-good-trait-makes-us-assume-others-are-good-too.md).
 
 :::note[Great Shams]
 
@@ -125,11 +138,11 @@ We should also avoid bad company, people who seek friendship only to gain someth
 
 #### No Effort no Pain
 
-We feel as if [Friction](/notes/friction.md) is a problem, and [Hardship](/notes/struggle.md) are something that we need to get rid of. As if life is meant to be easy, simple, effortless. However, we have failed to acknowledge that it is through difficulties that we grow, live, rise [Adversarial Growth](/notes/creative-destruction.md).
+We feel as if [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) is a problem, and [Hardship](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) are something that we need to get rid of. As if life is meant to be easy, simple, effortless. However, we have failed to acknowledge that it is through difficulties that we grow, live, rise [Adversarial Growth](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md).
 
 #### Anti Authority
 
-We wish to see ourselves free of chains, no matter if those chains are useful or not. We think through the prism of "why not", doing whatever comes to mind just to get rid of [Boredom](/notes/boredom.md) instead of asking ourselves "why". We have become slaves to our whims, passively following every random thought instead of being active and acting in accordance with our will
+We wish to see ourselves free of chains, no matter if those chains are useful or not. We think through the prism of "why not", doing whatever comes to mind just to get rid of [Boredom signals under-stimulation and disconnection from intrinsic motivation](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md) instead of asking ourselves "why". We have become slaves to our whims, passively following every random thought instead of being active and acting in accordance with our will
 
 :::note[“Antiauthoritarianism”]
 
@@ -143,15 +156,15 @@ We wish to see ourselves free of chains, no matter if those chains are useful or
 
 #### To Will One Thing
 
-(Jump:: [Multitasking doesnt exist](/notes/multitasking-doesnt-exist.md), it only reduces our focus on whatever we are doing, therefore we must narrow it down to just one thing, one goal at a time
+(Jump:: [Multitasking is sequential task switching with cognitive switching costs](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md), it only reduces our focus on whatever we are doing, therefore we must narrow it down to just one thing, one goal at a time
 
 #### To Be Awake
 
-We might be physically awake, but that doesn't mean we give enough attention [Focus](/notes/focus.md) to what we're doing. We have to be mindful, to quiet the external and internal noise and just focus on the experience, or on the person in front of us
+We might be physically awake, but that doesn't mean we give enough attention [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md) to what we're doing. We have to be mindful, to quiet the external and internal noise and just focus on the experience, or on the person in front of us
 
 #### To Be Aware
 
-Self awareness is key to all our endeavors [free will is knowledge](/notes/free-will-is-knowledge.md), without knowing what our current emotional state is, what are the main causes for that, which forces influence our behavior and even just to be aware what we are doing and what we are focusing on in every single moment, we would be slaves to ourselves and others, incapable of acting in accordance with our will.
+Self awareness is key to all our endeavors [Free will is knowledge](/notes/free-will-is-knowledge.md), without knowing what our current emotional state is, what are the main causes for that, which forces influence our behavior and even just to be aware what we are doing and what we are focusing on in every single moment, we would be slaves to ourselves and others, incapable of acting in accordance with our will.
 
 :::note[To Be Aware]
 
@@ -162,7 +175,7 @@ Self awareness is key to all our endeavors [free will is knowledge](/notes/free-
 
 #### To Concentrate
 
-One must learn to focus, to be able to provide their complete attention to something. While we think that to concentrate is exhausting, the opposite is true. To lose concentration is to get bored, and that's tiring, as opposed to moments of complete concentration which provides a sense of [Flow](/notes/flow.md)
+One must learn to focus, to be able to provide their complete attention to something. While we think that to concentrate is exhausting, the opposite is true. To lose concentration is to get bored, and that's tiring, as opposed to moments of complete concentration which provides a sense of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md)
 
 :::note[To Concentrate]
 
@@ -191,7 +204,7 @@ Psychoanalysis can be a sham, trying to give answers to people to justify their 
 
 #### Self Analysis
 
-Self analysis [introspection](/notes/introspection.md) can be difficult but very rewarding.
+Self analysis [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md) can be difficult but very rewarding.
 
 #### Methods of Self Analysis
 
@@ -224,7 +237,7 @@ To have usually means to be in complete control of something, which you are free
 
 #### On the Psychology of Having
 
-People who work from the mindset of having have a distorted view of reality. They treat others as [objectas](/notes/objectivity.md) to manipulate and control. They measure themselves only by the amount of "things" that they have or consume, therefore turning themselves to objects as well. They treat all human interaction as transactional, and see the world as a [Zero sum](/notes/binary-thinking.md) game.
+People who work from the mindset of having have a distorted view of reality. They treat others as [objectas](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md) to manipulate and control. They measure themselves only by the amount of "things" that they have or consume, therefore turning themselves to objects as well. They treat all human interaction as transactional, and see the world as a [Zero sum](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) game.
 
 ### Part 6
 

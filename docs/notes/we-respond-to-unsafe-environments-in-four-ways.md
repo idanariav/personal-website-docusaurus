@@ -1,8 +1,8 @@
 ---
 UUID: 20240425182625
 Created: '2024-04-25 18:26'
-Modified: '2026-04-08 14:09'
-Version: 2
+Modified: '2026-04-11 22:29'
+Version: 3
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
@@ -15,6 +15,10 @@ Description: >-
   categorized into proactive or passive reactions, including voice, exit,
   neglect, and persistence.
 new_schema: true
+Topic:
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: '[[Originals (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ Remember that no matter how you feel, you always have the [Freedom of response](
 ## Visual
 
 ![Reactional behavior](/notes/reactional-behavior.webp)
-
-## Overview
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-↩️Origin:: [Originals (book)](/books/originals-book.md)
-🔗Link:: 
-

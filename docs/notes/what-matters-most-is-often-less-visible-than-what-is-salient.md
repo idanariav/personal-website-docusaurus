@@ -1,13 +1,13 @@
 ---
 UUID: 20240219080836
 Created: '2024-02-19 08:08'
-Modified: '2026-04-10 14:07'
+Modified: '2026-04-11 22:30'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Visibility
   - Tangible
@@ -17,6 +17,10 @@ Description: >-
   beliefs, behaviors, and understanding, often linked to familiarity and
   imitation.
 new_schema: true
+Topic:
+  - '[[Selective Evidence]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,9 +57,3 @@ However, the fact that something is in plain sight doesn't mean it is noticeable
 ## Visual
 
 ![Visibility](/notes/visibility.webp)
-
-## Overview
-🔼Topic:: [Selective Evidence](/notes/selective-evidence.md)
-↩️Origin::
-🔗Link::
-

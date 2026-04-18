@@ -1,24 +1,44 @@
 ---
 UUID: 20250121163116
 Created: '2025-01-21 16:31'
-Modified: '2025-01-24 08:11'
+Modified: '2026-04-13 06:18'
 tags: []
+FullTitle: Tao Te Ching
+Description: >-
+  It argues that striving often leads to suffering and detachment from natural
+  harmony. True mastery and peace come from embracing flow and non-action,
+  allowing life to unfold naturally. Additionally, overthinking can hinder
+  genuine experience, as understanding the Tao requires immersion rather than
+  intellectual reasoning.
 Author:
   - '[[Lao Tzu]]'
-Genre: Religion
-Stored: kindle
-ReadingStatus: Read
-Purchased: true
-Fiction: false
-Version: 1.01
-Pages: 104
-Rate: 3
-PublishDate: 0351-01-01T00:00:00.000Z
-FinishDate: 2025-01-24T00:00:00.000Z
+URL: 'https://www.goodreads.com/book/show/67896.Tao_Te_Ching'
 Cover: >-
   http://books.google.com/books/content?id=PEdlsn3crPoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/67896.Tao_Te_Ching'
+Genre: Religion
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B003SHDM8O
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 104
+Reread: 0
+Rate: 3
+PublishDate: 0351-01-01T00:00:00.000Z
+StartDate: 2025-01-21T00:00:00.000Z
+FinishDate: 2025-01-24T00:00:00.000Z
+Image: ''
 aliases: []
+Topic:
+  - '[[Existentialism (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -27,18 +47,14 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 see "notes"
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -46,22 +62,22 @@ see "notes"
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 A short collection of poems, all reference the "Tao" or the "Master" of it in someway, describing the indescribable.
 
 As opposed to Nietzsche's writings that are often poem based, I actually enjoyed this book, even more than the translators comments. Perhaps because it's short, and the poems are intriguing yet easy to digest, no added layers just for flair.
-### 🖼️Outline
+### Outline
 
-## 📒 Notes
+## Notes
 
 Several ideas that resonate from all these poems:
 
-1. **To try is to push away** - same idea as [The law of reverse effect](/notes/the-law-of-reverse-effect.md). Much of what we try to achieve gets farther away from us simply by trying. For example, those who care about money and want more of it, will never be rich. While it's those who are content with what they have that are rich. When we actively try to do something, when we have a goal we pursue, we only get farther away from it, suffering along the way [attachment](/notes/attachment.md).
-2. **The goal is flow** - The only state of peace, of mastery, of strength and harmony comes when we [live as flow](/notes/life-as-flow.md). When we become one with nature, when we only listen to the natural rhythms of the world, when we don't fight it, we [resonate](/notes/resonance.md) with it, when there is no separation between us and nature, no "self" and "it", just "us". Every human action, whichever goal we pursue, whatever we try to do in the world, only detaches us from the natural harmony of the world, which will only bring suffering and weakness [will to power](/notes/will-to-power.md)
-3. **The best action, is no action** - When we are one with nature, when we live the "Tao", we don't "do" anything, yet with this "non action" we achieve much. It's like a state of [flow](/notes/flow.md), or [Wu wei](/notes/wu-wei.md). A rock doesn't "want" to fall, yet it does. A river doesn't try to carve the rock, and yet it does. When we free ourselves completely from our human desires and actions, we prosper. Like an artist that by not focusing has the best ideas, or how aikido manages to defeat their enemies by using their momentum against them. The less they do (or the more they do nothing), the better off they are.
-4. **Thinking damages experience** - The "Tao", like nature, is something that can't be taught, nor can it be described. When we name it, we don't understand it. To be is a matter of immersion, of [experience knowledge](/notes/experience-knowledge.md). We can't reason our way to it. Thinking, as is reason, are methods by which we try to detach ourselves from nature, to grasp in our limited mind an endless reality, we can't handle that complexity. It can only be lived, be experienced, but never "thought of".
+1. **To try is to push away** - same idea as [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md). Much of what we try to achieve gets farther away from us simply by trying. For example, those who care about money and want more of it, will never be rich. While it's those who are content with what they have that are rich. When we actively try to do something, when we have a goal we pursue, we only get farther away from it, suffering along the way [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md).
+2. **The goal is flow** - The only state of peace, of mastery, of strength and harmony comes when we [live as flow](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md). When we become one with nature, when we only listen to the natural rhythms of the world, when we don't fight it, we [resonate](/notes/resonance-is-being-in-sync-with-reality-and-others.md) with it, when there is no separation between us and nature, no "self" and "it", just "us". Every human action, whichever goal we pursue, whatever we try to do in the world, only detaches us from the natural harmony of the world, which will only bring suffering and weakness [The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md)
+3. **The best action, is no action** - When we are one with nature, when we live the "Tao", we don't "do" anything, yet with this "non action" we achieve much. It's like a state of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md), or [Achieve more by not resisting](/notes/achieve-more-by-not-resisting.md). A rock doesn't "want" to fall, yet it does. A river doesn't try to carve the rock, and yet it does. When we free ourselves completely from our human desires and actions, we prosper. Like an artist that by not focusing has the best ideas, or how aikido manages to defeat their enemies by using their momentum against them. The less they do (or the more they do nothing), the better off they are.
+4. **Thinking damages experience** - The "Tao", like nature, is something that can't be taught, nor can it be described. When we name it, we don't understand it. To be is a matter of immersion, of [Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md). We can't reason our way to it. Thinking, as is reason, are methods by which we try to detach ourselves from nature, to grasp in our limited mind an endless reality, we can't handle that complexity. It can only be lived, be experienced, but never "thought of".
 
 :::note[Highlights]
 

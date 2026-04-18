@@ -1,12 +1,12 @@
 ---
 UUID: 20240427150419
 Created: '2024-04-27 15:04'
-Modified: '2026-04-09 16:54'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Analyze both results and methods to improve.png]]'
 ImageText: 'A magnifying glass, focusing on a process, showing one pin leading to another'
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
 aliases:
   - Post-mortem
 new_schema: true
+Topic:
+  - '[[Strategic Planning and Preparation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ Note that positive results doesn't necessarily mean that we acted well, perhaps 
 ## Visual
 
 ![post-mortem](/notes/post-mortem.webp)
-
-## Overview
-🔼Topic:: [Strategic Planning and Preparation](/notes/strategic-planning-and-preparation.md)
-↩️Origin::
-🔗Link::
-

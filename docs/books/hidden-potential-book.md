@@ -1,7 +1,7 @@
 ---
 UUID: 20240516185115
 Created: '2024-05-16 18:51'
-Modified: '2024-05-21 06:58'
+Modified: '2026-04-13 06:14'
 Version: 1
 tags: []
 PublishDate: 2023-10-26T00:00:00.000Z
@@ -15,34 +15,56 @@ Fiction: false
 Cover: >-
   http://books.google.com/books/content?id=dUelEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/157095669-hidden-potential'
-ReadingStatus: Read
+ReadingStatus: Done
 FinishDate: 2024-05-21T00:00:00.000Z
 Rate: null
 aliases: null
+Description: >-
+  It argues that success is measured by the journey of growth rather than a
+  final destination. Emphasizing character development, mentorship, and
+  supportive systems, it highlights the importance of creating opportunities for
+  collective potential and fostering environments that encourage exploration and
+  collaboration.
+FullTitle: Hidden Potential - The Science of Achieving Greater Things
+StartDate: 2024-05-16T00:00:00.000Z
+ASIN: B0C5LN1BCM
+Reread: 0
+Topic:
+  - '[[Competence is developed through practice not innate talent]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Hidden Potential
 
-## 🔗Connect
-🔼Topic:: [Competence](/notes/competence.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Talent is distanced traveled, not destination** - Success is not where you are, but how far you traveled to get there. It is precisely this ability to travel that represents growth and fulfillment of potential.
 1. **Character over personality** - more than any other skill, it's important to develop character skills. discipline, prosocial, determination and proactiveness is helps us overcome our tendencies, embrace being uncomfortable as we work on improving ourselves by doing, being as a sponge that seeks information and filters only the most relevant, and knowing that we need to acknowledge our imperfections.
 2. **Scaffolding to kick-start your potential** - It's difficult to fulfill our potential on our own. We often need mentors to show us the way, preferably someone who has recently been a novice like us. We need to incorporate fun, breaks and play to make it attractive and maintain motivation, and use our peers to compensate our weaknesses while also strengthening them.
 3. **Create systems of opportunities** - To help others fulfill their potential we need to have systems in place to give them the opportunity to do so. By focusing not on the genius few but on the potential of the whole, of providing safe spaces for people to speak up, the freedom to explore and avoidance of group think we could see people rise to the occasion.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Make practice fun** - design practice sessions with play, constraints, and variety so they remain enjoyable and sustainable over time.
+2. **Take initiative to learn** - proactively seek out challenging tasks and practice by doing rather than waiting to feel ready.
+3. **Embrace discomfort** - deliberately place yourself in awkward or difficult learning situations and accept making many mistakes as part of growth.
+4. **Seek and filter high-quality feedback** - ask advisors for actionable advice (future-oriented: "what can I do better?") and evaluate sources for credibility, caring, and familiarity.
+5. **Teach what you’re learning** - explain concepts to others or take responsibility for teaching to solidify and deepen your understanding.
+6. **Use temporary scaffolds** - create short-term supports (training wheels, constraints, mentors) to maintain motivation and remove them when you’ve internalized the skill.
+7. **Break perfectionism by prioritizing progress** - focus on meeting your own standards and making large meaningful changes rather than chasing flawless details.
+8. **When stuck, change route and collect small wins** - pivot direction, experiment, seek diverse mentors, and generate unrelated small victories to rebuild momentum.
+9. **Work as a sponge—filter information proactively** - actively search for useful knowledge, evaluate it against growth goals (not ego), assimilate what helps, and discard the rest.
+10. **Run individual brainstorming then anonymous sharing in teams** - have everyone develop ideas alone, submit them anonymously, and review before group discussion to avoid groupthink and surface better contributions.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. **Better growth** - when you develop character skills, have the right scaffolding and use opportunities, you can get much farther than previously believed.
@@ -51,12 +73,12 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book, similar to it's metaphor, is more of a compass rather than a map. We now know where to look but not necessarily what to do. The book's breath comes at the price of it's depth. But I do have to say that i like the personal story + in depth research combination which gives a good hook for the principle and than an explanation for it. If it was any other author it would probably be a 3, but Adam Grant manages to turn it into a 4. 
 
-## 📒 Notes
+## Notes
 
 ### Preface
 
@@ -82,9 +104,9 @@ Those three things together translates to the ability and will to push ourselves
 
 ### Skills of Character
 
-Character is not our personality, it's more like [Second order thinking](/notes/second-order-thinking.md), it is our ability to overcome our personality, which is like our tendencies, and stick with our values. It is measured by how much are we able to be true to ourselves when the times are hard. [Authenticity](/notes/authenticity.md)
+Character is not our personality, it's more like [Examine your desires not just your actions](/notes/examine-your-desires-not-just-your-actions.md), it is our ability to overcome our personality, which is like our tendencies, and stick with our values. It is measured by how much are we able to be true to ourselves when the times are hard. [Acting in alignment with your values is authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.md)
 
-Since character skills are what determines our ability to overcome, it's not surprise why they are one of the most important skills to learn, they work as a [multiplier](/notes/multiplier.md) for other skills. For example, having financial education is worthless if we don't have the courage to resist temptations.
+Since character skills are what determines our ability to overcome, it's not surprise why they are one of the most important skills to learn, they work as a [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) for other skills. For example, having financial education is worthless if we don't have the courage to resist temptations.
 
 Character skills gives us:
 1. Courage to challenge ourselves
@@ -103,11 +125,11 @@ Character skills gives us:
 #### Creatures of Discomfort
 **Embracing the unbearable awkwardness of learning**
 
-To learn something new we have to get out of our comfort zone [learning should be hard](/notes/learning-should-be-hard.md). It requires us to let go of how we used to act or perceive something, to test out our knowledge while still learning, and accept that we will make many mistakes, especially at the beginning.
+To learn something new we have to get out of our comfort zone [Learning should be hard](/notes/learning-should-be-hard.md). It requires us to let go of how we used to act or perceive something, to test out our knowledge while still learning, and accept that we will make many mistakes, especially at the beginning.
 
-Sometimes we confuse comfort with "learning tendencies" such as "I learn better through videos" to avoid discomfort. We are making learning easy, and unfortunately less effective. Alternatively, we can push ourselves too much out of our comfort zone that we start to [procrastinate](/notes/procrastination.md). This is not a sign of laziness or time management, but rather [motivational scheduling](/notes/motivational-scheduling.md).
+Sometimes we confuse comfort with "learning tendencies" such as "I learn better through videos" to avoid discomfort. We are making learning easy, and unfortunately less effective. Alternatively, we can push ourselves too much out of our comfort zone that we start to [procrastinate](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md). This is not a sign of laziness or time management, but rather [Aligning tasks to energy levels improves performance and reduces resistance](/notes/aligning-tasks-to-energy-levels-improves-performance-and-reduces-resistance.md).
 
-To learn, we can't allow ourselves to procrastinate, to start only once we reach "sufficient knowledge", it is both a lie to ourselves, because [perfectionism](/notes/perfectionism.md) is a standard that keeps getting away from us, so we will never be content with our knowledge, but also because it's an inefficient method. A better approach is [learning by doing](/notes/learning-by-doing.md). **Through trying and making mistakes we learn**. **[Failure](/notes/failure.md) are not just an inherit part of learning, they are learning**. We need [exposure therapy](/notes/experience-knowledge.md) to become true masters, which can only be achieved through pushing ourselves to the limit while practicing our skills. **Comfort is the result of knowledge, not the prerequisite of it.**
+To learn, we can't allow ourselves to procrastinate, to start only once we reach "sufficient knowledge", it is both a lie to ourselves, because [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md) is a standard that keeps getting away from us, so we will never be content with our knowledge, but also because it's an inefficient method. A better approach is [Active engagement with material accelerates learning](/notes/active-engagement-with-material-accelerates-learning.md). **Through trying and making mistakes we learn**. **[Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md) are not just an inherit part of learning, they are learning**. We need [exposure therapy](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md) to become true masters, which can only be achieved through pushing ourselves to the limit while practicing our skills. **Comfort is the result of knowledge, not the prerequisite of it.**
 
 :::note[Creatures of Discomfort]
 
@@ -126,13 +148,13 @@ To learn, we can't allow ourselves to procrastinate, to start only once we reach
 #### Human Sponges
 **Building the capacity to absorb and adapt**
 
-Learning is like being a sponge. While we think it means to absorb everything around us, it's far from the truth. Actual living sponges are a highly sophisticated filtering machines, [controlling](/notes/filtering.md) exactly what goes in and out [imitation](/notes/imitation.md) [Mastery](/notes/mastery.md). Even their structure while seems flexible on the outside, also has a rigid skeleton to be able to withstand hardships.
+Learning is like being a sponge. While we think it means to absorb everything around us, it's far from the truth. Actual living sponges are a highly sophisticated filtering machines, [controlling](/notes/filtering-is-choosing-what-to-consume-before-distilling-it.md) exactly what goes in and out [Imitation internalizes others' behaviors and mental models at varying depths](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md) [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md). Even their structure while seems flexible on the outside, also has a rigid skeleton to be able to withstand hardships.
 
-In this metaphor, we need to be wary of the information around us. **We need to be capable of recognize, evaluate, assimilate and apply good information while denying bad information**. We need to be both [proactive](/notes/proactiveness.md) in our search for information, to seek feedback for improvement, and also to have a [growth mindset](/notes/growth-mindset.md), to use the feedback as a way to grow, and let go of our ego that can only get in our way or cause us to behave differently just to support our image rather than our skills.
+In this metaphor, we need to be wary of the information around us. **We need to be capable of recognize, evaluate, assimilate and apply good information while denying bad information**. We need to be both [proactive](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md) in our search for information, to seek feedback for improvement, and also to have a [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md), to use the feedback as a way to grow, and let go of our ego that can only get in our way or cause us to behave differently just to support our image rather than our skills.
 
-To gain helpful feedback, it's better to be [future oriented](/notes/forward-thinking.md) than past oriented. Instead of asking "how did I do", ask "what can I do better" [Constructive Criticism](/notes/constructive-criticism.md), this will turn hurtful criticism to actionable advices.
+To gain helpful feedback, it's better to be [future oriented](/notes/focus-on-what-you-can-do-next-not-what-went-wrong.md) than past oriented. Instead of asking "how did I do", ask "what can I do better" [Constructive Criticism](/notes/constructive-criticism.md), this will turn hurtful criticism to actionable advices.
 
-Also, we have to pay attention to who we pain attention to. Not everyone can be our [mentor](/notes/mentor.md). It depends on:
+Also, we have to pay attention to who we pain attention to. Not everyone can be our [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md). It depends on:
 1. **credibility** - They are knowledgeable at the relevant skill
 2. **caring** - They really wish for you to improve
 3. **familiarity** - They can identify your strength and weaknesses and connect the abstract knowledge to actionable steps.
@@ -151,11 +173,11 @@ Also, we have to pay attention to who we pain attention to. Not everyone can be 
 #### The Imperfectionist
 **Finding the sweet spot between flawed and flawless**
 
-Perfectionism is a trap, it causes to focus on unimportant small details, which causes us to miss the big picture, but even worse it causes us to treat failures as a sign of incompetence so we narrow which fields we focus on "because we aren't talented enough" [fixed mindset](/notes/fixed-mindset.md).
+Perfectionism is a trap, it causes to focus on unimportant small details, which causes us to miss the big picture, but even worse it causes us to treat failures as a sign of incompetence so we narrow which fields we focus on "because we aren't talented enough" [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md).
 
-We should embrace some imperfections, knowing that everything in life is a tradeoff, and that there's beauty in doing things just "good enough" like [kintsugi](/notes/kintsugi.md) and [wabi sabi](/notes/wabi-sabi.md).
+We should embrace some imperfections, knowing that everything in life is a tradeoff, and that there's beauty in doing things just "good enough" like [What is broken can become more beautiful](/notes/what-is-broken-can-become-more-beautiful.md) and [wabi sabi](/notes/wabi-sabi.md).
 
-**To get rid of perfectionism, focus on living up to your own standards, rather than everybody else's**, and remember that all you need is to focus on making big changes rather than delicate tweaks, that **you have to be pleased with how far you've come, not your distance from perfection**. While hard to accept, this is the only way to improve while also being content with your actions. [Expectations](/notes/expectations.md)
+**To get rid of perfectionism, focus on living up to your own standards, rather than everybody else's**, and remember that all you need is to focus on making big changes rather than delicate tweaks, that **you have to be pleased with how far you've come, not your distance from perfection**. While hard to accept, this is the only way to improve while also being content with your actions. [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md)
 
 :::note[The Imperfectionists]
 
@@ -176,18 +198,18 @@ Scaffoldings are temporary structure that allows us to maintain our motivation i
 #### Transforming the Daily Grind
 **Infusing passion into practice**
 
-While [deliberate practice](/notes/deliberate-practice.md) is a famous way of improving at something, it usually caused [burnout](/notes/burnout.md) and even [Boreout](/notes/boredom.md) since it is so repetitive and difficult. To prevent those and maintain our [Intrinsic Motivation](/notes/intrinsic-motivation.md) in the long run, we need to add [Play](/notes/gamification.md) and [limits](/notes/limits.md) to our practice, like trying to do it in a different way, to compete against ourselves in time or other unique challenges. Only if it's enjoyable we would be able to stick with it in the long run.
+While [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md) is a famous way of improving at something, it usually caused [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md) and even [Boreout](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md) since it is so repetitive and difficult. To prevent those and maintain our [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) in the long run, we need to add [Play](/notes/play.md) and [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md) to our practice, like trying to do it in a different way, to compete against ourselves in time or other unique challenges. Only if it's enjoyable we would be able to stick with it in the long run.
 
-To make sure play doesn't turn into "work", we need to take breaks [Empty Space](/notes/blank-space.md), not only it allows us to recharge, but also the skill is further developed by our [downtime brain](/notes/downtime-brain.md) that keeps on processing in the background.
+To make sure play doesn't turn into "work", we need to take breaks [Empty Space](/notes/every-system-needs-empty-space-to-function.md), not only it allows us to recharge, but also the skill is further developed by our [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md) that keeps on processing in the background.
 
 #### Getting Unstuck
 **The roundabout path to forward progress**
 
-**Progressing is not a linear process**. When we get stuck it's not a sign of reaching out peak, just that we have to change direction. Therefore, it's not likely that we can map in advance all the points we have to travel through to reach mastery, as it is highly affected by our weaknesses and strengths, and what happens along the way. The best we can do is to have a compass showing a general direction to the next point, and we can reevaluate once we get there. [Experimentation](/notes/testing.md)
+**Progressing is not a linear process**. When we get stuck it's not a sign of reaching out peak, just that we have to change direction. Therefore, it's not likely that we can map in advance all the points we have to travel through to reach mastery, as it is highly affected by our weaknesses and strengths, and what happens along the way. The best we can do is to have a compass showing a general direction to the next point, and we can reevaluate once we get there. [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md)
 
-This compass can be given by a mentor, but against popular belief, having an expert is not necessarily helpful due to the [Curse of Knowledge](/notes/curse-of-knowledge.md). Being an expert means that they have forgotten what it's like to be a beginner, and most of their skills are also part of their [intuition](/notes/intuition.md) so they might forget making them a part of the curriculum, or teach things at a much higher level than you are able to comprehend. Also, since they face different challenges than you in the field, they might focus on aspects that are irrelevant to you. Also, don't stick to just one mentor, as their path might vary from yours due to your differences. Therefore to get a good understanding you need [diversity](/notes/diversity.md) of mentors, from each you will pick and choose what to embrace. [Multitrack](/notes/multitrack.md)
+This compass can be given by a mentor, but against popular belief, having an expert is not necessarily helpful due to the [Once learned, knowledge makes it impossible to imagine its absence](/notes/once-learned-knowledge-makes-it-impossible-to-imagine-its-absence.md). Being an expert means that they have forgotten what it's like to be a beginner, and most of their skills are also part of their [Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md) so they might forget making them a part of the curriculum, or teach things at a much higher level than you are able to comprehend. Also, since they face different challenges than you in the field, they might focus on aspects that are irrelevant to you. Also, don't stick to just one mentor, as their path might vary from yours due to your differences. Therefore to get a good understanding you need [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md) of mentors, from each you will pick and choose what to embrace. [Generating multiple alternatives simultaneously improves outcomes](/notes/generating-multiple-alternatives-simultaneously-improves-outcomes.md)
 
-Getting stuck can be really discouraging, so in order to get back up we need to generate [small wins](/notes/small-wins.md), this could be taking a break, practicing hobbies, playing a game, whatever it is it can be completely unrelated to what you're trying to do, as long as you can get a small sense of satisfaction and victory that will bounce back your self confidence.
+Getting stuck can be really discouraging, so in order to get back up we need to generate [Visible progress sustains motivation](/notes/visible-progress-sustains-motivation.md), this could be taking a break, practicing hobbies, playing a game, whatever it is it can be completely unrelated to what you're trying to do, as long as you can get a small sense of satisfaction and victory that will bounce back your self confidence.
 
 :::note[Getting Unstuck]
 
@@ -206,7 +228,7 @@ Getting stuck can be really discouraging, so in order to get back up we need to 
 
 When we lack internal motivation or having self doubts, we can use others as support.
 
-The combination of [peer support](/notes/peer-support.md) and the [Feynman technique](/notes/feynman-technique.md) allows us to group together resources, to think together and use each individual's advantage to solve together a task that was impossible for each person on their own [cooperation](/notes/cooperation.md). Even if we are not experts in the field, the fact that we have the responsibility to teach others what we know or assigned to know is a great tool and source of motivation for learning. Additionally, living up to our close one's positive expectations, or smashing nay-sayers negative expectations can also be a great source of motivation.
+The combination of [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md) and the [Explaining ideas simply exposes gaps in understanding](/notes/explaining-ideas-simply-exposes-gaps-in-understanding.md) allows us to group together resources, to think together and use each individual's advantage to solve together a task that was impossible for each person on their own [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md). Even if we are not experts in the field, the fact that we have the responsibility to teach others what we know or assigned to know is a great tool and source of motivation for learning. Additionally, living up to our close one's positive expectations, or smashing nay-sayers negative expectations can also be a great source of motivation.
 
 :::note[Defying Gravity]
 
@@ -219,7 +241,7 @@ The combination of [peer support](/notes/peer-support.md) and the [Feynman techn
 
 ### Systems of Opportunity
 
-While scaffolding and character skills help us achieve our potential, we are still limited by circumstances. It is good systems that provides opportunities to growth for those less fortunate or discriminated against. [systematical thinking](/notes/systematical-thinking.md)
+While scaffolding and character skills help us achieve our potential, we are still limited by circumstances. It is good systems that provides opportunities to growth for those less fortunate or discriminated against. [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md)
 
 :::note[Systems of Opportunity]
 
@@ -246,9 +268,9 @@ The Finnish has amazing education system, one that has allowed them to travel a 
 #### Mining for Gold
 **Unearthing collective intelligence in teams**
 
-Leading a team and have good collective decisions is not a matter of finding a genius and it's definitely not just go along with the boss's idea. Team efficiency is a matter of creating an environment of cooperation, of [psychological safety](/notes/psychological-safety.md), to help one another for the betterment of the common cause. This requires firstly that the leader would be a good listener. Leading is about maximizing potential and allowing voices to be heard, not to micromanage your workers. Second, we have to combat [Group Thinking](/notes/social-environment.md). **In order to maintain the benefits of brainstorming without causing voices to be shut down, we first need that everyone would brainstorm on their own, developing their ideas by themselves and only then regroup to discuss those ideas**. [Unbiased brainstorming](/notes/unbiased-brainstorming.md) To make sure fairness and psychological safety is kept, those ideas have to be submitted anonymously and each one reviews them first before discussing together.
+Leading a team and have good collective decisions is not a matter of finding a genius and it's definitely not just go along with the boss's idea. Team efficiency is a matter of creating an environment of cooperation, of [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md), to help one another for the betterment of the common cause. This requires firstly that the leader would be a good listener. Leading is about maximizing potential and allowing voices to be heard, not to micromanage your workers. Second, we have to combat [Group Thinking](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md). **In order to maintain the benefits of brainstorming without causing voices to be shut down, we first need that everyone would brainstorm on their own, developing their ideas by themselves and only then regroup to discuss those ideas**. [Brainstorming should be anonymous to increase idea diversity](/notes/brainstorming-should-be-anonymous-to-increase-idea-diversity.md) To make sure fairness and psychological safety is kept, those ideas have to be submitted anonymously and each one reviews them first before discussing together.
 
-Developing [creativity](/notes/innovation.md) is also a matter of giving free time for exploration, letting workers work on personal projects or ideas that they are interested in. While those are risky bets, they are also a way to have great payoffs, especially if the workers are motivated to work on it.
+Developing [creativity](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md) is also a matter of giving free time for exploration, letting workers work on personal projects or ideas that they are interested in. While those are risky bets, they are also a way to have great payoffs, especially if the workers are motivated to work on it.
 
 :::note[Mining for Gold]
 
@@ -261,7 +283,7 @@ Developing [creativity](/notes/innovation.md) is also a matter of giving free ti
 #### Diamonds in the Rough
 **Discovering uncut gems in job interviews and college admissions**
 
-The problem with screening is that it's hard to understand the context of the candidate. We focus on observable achievements, while missing out obstacles they faced and how the overcome them, or the amount of growth they had over time. We take the students with the better grades, not the one who picked the hardest classes. [Selection Bias](/notes/selection-bias.md). Aside from asking about obstacles, one good way of showing capabilities is to do challenges throughout the interview instead of questions.
+The problem with screening is that it's hard to understand the context of the candidate. We focus on observable achievements, while missing out obstacles they faced and how the overcome them, or the amount of growth they had over time. We take the students with the better grades, not the one who picked the hardest classes. [Biased inputs produce biased conclusions](/notes/biased-inputs-produce-biased-conclusions.md). Aside from asking about obstacles, one good way of showing capabilities is to do challenges throughout the interview instead of questions.
 
 :::note[Diamonds in the Rough]
 
@@ -273,7 +295,7 @@ The problem with screening is that it's hard to understand the context of the ca
 
 ### Epilogue
 
-[Imposter Syndrome](/notes/imposter-syndrome.md) is probably a sign for hidden potential. It's more likely that it's not that others are over valuing you, but rather you under valuing yourself. They see your potential and can't wait for you to fulfill it.
+[Imposter syndrome is feeling undeserving despite actual competence](/notes/imposter-syndrome-is-feeling-undeserving-despite-actual-competence.md) is probably a sign for hidden potential. It's more likely that it's not that others are over valuing you, but rather you under valuing yourself. They see your potential and can't wait for you to fulfill it.
 
 :::note[Epilogue]
 

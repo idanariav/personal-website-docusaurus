@@ -1,13 +1,13 @@
 ---
 UUID: 20231224062856
 Created: '2023-12-24 06:28'
-Modified: '2026-04-09 09:34'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Every system needs empty space to function.png]]'
 ImageText: 'A closet full with boxes to the brim, vs an organized closet with free space'
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Blank Space
   - Empty Space
 new_schema: true
+Topic:
+  - '[[Working Memory and Cognitive Limits]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -65,10 +69,3 @@ A warehouse without a white space would have to take out all the blocking boxes 
 ## Visual
 
 ![Every system needs empty space to function](/notes/every-system-needs-empty-space-to-function.webp)
-
-## Overview
-🔼Topic:: [Working Memory and Cognitive Limits](/notes/working-memory-and-cognitive-limits.md)
-🔼Topic:: [Working Memory and Cognitive Limits](/notes/working-memory-and-cognitive-limits.md)
-↩️Origin::
-🔗Link::
-

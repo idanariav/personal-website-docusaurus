@@ -1,12 +1,12 @@
 ---
 UUID: 20240217085226
 Created: '2024-02-17 08:52'
-Modified: '2026-04-10 06:27'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Acting before understanding requires trusting instinct and resonance.png]]'
 ImageText: A person leaps towards the sun
 Description: >-
@@ -19,6 +19,10 @@ aliases:
   - All in
   - No turning back
 new_schema: true
+Topic:
+  - '[[Authenticity and Values]]'
+Origin: '[[Soren Kierkegaard (philosopher)|Kierkegaard]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ Living can't be on reason alone, it would often lead to [Too much information pr
 ## Visual
 
 ![Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.webp)
-
-## Overview
-🔼Topic:: [Authenticity and Values](/notes/authenticity-and-values.md)
-↩️Origin:: [Kierkegaard](/notes/soren-kierkegaard-philosopher.md)
-🔗Link::
-

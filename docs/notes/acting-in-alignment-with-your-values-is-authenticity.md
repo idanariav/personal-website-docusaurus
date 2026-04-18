@@ -1,13 +1,13 @@
 ---
 UUID: 20230323064250
 Created: '2023-03-23 06:42'
-Modified: '2026-04-02 09:17'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Acting in alignment with your values is authenticity.png]]'
 ImageText: when your values (compass) is equal to your actions (footprint)
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Authenticity
 new_schema: true
+Topic:
+  - '[[Authenticity and Values]]'
+Origin: '[[Muriel Leuenberger]]'
+URL: 'http://blog.practicalethics.ox.ac.uk/2023/02/the-authentic-liar/'
 draft: false
 SiteProcssed: true
 ---
@@ -54,8 +58,3 @@ Often our desire to be socially accepted can cause us to act like how others [ex
 ## Visual
 
 ![Acting in alignment with your values is authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.webp)
-
-## Overview
-🔼Topic:: [Authenticity and Values](/notes/authenticity-and-values.md)
-◀Origin:: [Muriel Leuenberger](/notes/muriel-leuenberger.md)
-🔗Link:: http://blog.practicalethics.ox.ac.uk/2023/02/the-authentic-liar/

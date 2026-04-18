@@ -1,13 +1,13 @@
 ---
 UUID: 20240217074048
 Created: '2024-02-17 07:40'
-Modified: '2026-04-09 08:40'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Mentor
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   feedback in a specific field, aiming to enhance the mentee's skills and
   understanding without necessarily being a personal confidant.
 new_schema: true
+Topic:
+  - '[[Deliberate Practice and Skill Acquisition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ Note that a mentor is not necessarily someone who would be your [Safe Base provi
 ## Visual
 
 ![Mentor](/notes/mentor.webp)
-
-## Overview
-🔼Topic:: [Deliberate Practice and Skill Acquisition](/notes/deliberate-practice-and-skill-acquisition.md)
-↩️Origin::
-🔗Link::
-

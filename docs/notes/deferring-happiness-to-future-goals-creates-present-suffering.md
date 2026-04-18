@@ -1,12 +1,12 @@
 ---
 UUID: 20240621115214
 Created: '2024-06-21 11:52'
-Modified: '2026-04-10 10:40'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Deferring happiness to future goals creates present suffering.png]]'
 ImageText: >-
   A person running in a hamster wheel towards a prize on a hook at the end of a
@@ -19,6 +19,10 @@ aliases:
   - Future disillusionment
   - Arrival fallacy
 new_schema: true
+Topic:
+  - '[[Status Quo and Inertia]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,8 +58,3 @@ Either because we already have a new goal to reach [Focusing on process and cons
 ## Visual
 
 ![Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.webp)
-
-## Overview
-🔼Topic:: [Status Quo and Inertia](/notes/status-quo-and-inertia.md)
-↩️Origin::
-🔗Link::

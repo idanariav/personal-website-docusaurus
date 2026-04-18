@@ -1,19 +1,23 @@
 ---
 UUID: 20241015110817
 Created: '2024-10-15 11:08'
-Modified: '2024-11-02 17:04'
+Modified: '2026-04-13 06:11'
 tags: []
 Author:
   - '[[Todd May]]'
 Genre: Philosophy
-Stored: kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 210
 Rate: 3
 PublishDate: 2015-04-02T00:00:00.000Z
@@ -22,19 +26,27 @@ Cover: >-
   http://books.google.com/books/content?id=yQvyBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/22859686-a-significant-life'
 aliases: []
+Description: >-
+  It explores the essence of meaning as a journey rather than a destination. It
+  emphasizes the subjective and objective nature of meaning, discusses the
+  interplay of meaning, value, happiness, and morality, and asserts that a
+  fulfilling life is defined by our choices and actions.
+FullTitle: A Significant Life - Human Meaning in a Silent Universe
+StartDate: 2024-10-22T00:00:00.000Z
+ASIN: B00SLVOM0O
+Reread: 0
+Topic:
+  - '[[Existentialism (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
-
+ 
 # A Significant Life (book)
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
-
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **journey over destination** - meaning in life is not something we achieve, it is not a measure of success or a title we acquire. It is not a point to reach, it is a way of life. Meaningful life is a life filled with meaningfulness, the way we act, the choices we make, the values we embody. It is the journey, the story of our lives, and not where it ends.
 2. **meaning is subjective and objective** - Meaning has both a subjective value - something we have a sense of flow in, that we engage with and are completely dedicated to it. Additionally, it most have an objective value, something that is perceived as worthwhile, as meaning is not just internal but also dependent on it's effect on the world, on others, so it must be acknowledge as meaningful.
@@ -43,36 +55,49 @@ SiteProcssed: true
 	2. **Value** - One's worth, somewhat independent on what one does, but rather who one is. A person has value independent from the meaning in their lives.
 	3. **Happiness** - Life can be meaningful yet hard in such a way that they are not enjoyable, and vice versa.
 	4. **Morality** - One can have meaningful life without being moral (to a certain degree). Morality is a measure of behavior, while meaning is a measure of value.
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 We might not have the answer to the meaning of life, but we will be able to have clearer boundaries as to how we can enrich our lives with meaningfulness
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Embrace the absurd** - daily remind yourself that the universe may offer no final meaning and continue the search for meaning anyway (e.g., 5-minute morning reflection to accept ambiguity and recommit to searching).
+2. **Question dogma** - habitually challenge beliefs you take for granted (e.g., once a week list core beliefs and ask what evidence or reasons you have for each).
+3. **Develop virtues** - practice one virtue intentionally each week (e.g., focus on courage this week: take one small courageous action every day).
+4. **Trust the process of flourishing** - set and review long-term character goals monthly, treating virtue as ongoing practice rather than a destination.
+5. **Cultivate meaningful projects** - commit time every week to a project that feels personally significant and reaches beyond yourself (e.g., 3 focused sessions weekly on a project that affects others).
+6. **Seek engagement/flow** - schedule regular activities that produce deep engagement (e.g., block uninterrupted 60–90 minute sessions for tasks that absorb you).
+7. **Build giving relationships** - practice offering support or value to friends regularly (e.g., weekly check-ins where you ask “what can I offer?” rather than “what do I need?”).
+8. **Narrate your life** - keep a weekly narrative journal tracking how your actions connect over time and shape your identity and trajectory.
+9. **Practice introspection** - perform periodic self-examinations comparing how you live to how you aspire to live (e.g., monthly review of actions vs. narrative values like integrity, courage, creativity).
+10. **Evaluate values pragmatically and coherently** - regularly assess whether your adopted values make life better in practice and fit coherently with your other commitments (e.g., quarterly value audit: note conflicts, justify continuance or revision).
 
-✅ *relevant research, metaphors or examples that helps to convey the argument*
+### Critique
+
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
 🧱 *Implementations and limitations of it are...*
 The name of "narrative values" doesn't represent correctly the concept he is trying to convey. These narrative values are not part of the narrative we tell ourselves, but it is a theme of our behavior.
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This is a very nice and short overview about meaning in life, which answers we might be able to find, and how to start answering the question of a life worth living.
 
-### 🖼️Outline
+### Outline
 
-![A Significant Life (book).webp](/books/a-significant-life-book.webp)
+![A Significant Life (book)](/books/a-significant-life-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-As [death](/notes/death.md) approaches, we are often faced with the question of what is the meaning of our lives. Unfortunately we quickly see the [absurdity of existence](/notes/absurdity-of-existence.md), **we search for meaning in a cold, random, universe that won't offer such an answer**.
+As [Mortality shapes meaning and motivates acceptance](/notes/mortality-shapes-meaning-and-motivates-acceptance.md) approaches, we are often faced with the question of what is the meaning of our lives. Unfortunately we quickly see the [Life has no predefined meaning we can discover](/notes/life-has-no-predefined-meaning-we-can-discover.md), **we search for meaning in a cold, random, universe that won't offer such an answer**.
 
-According to [Albert Camus](/notes/albert-camus-philosopher.md), to search for meaning is a necessary part of [human nature](/notes/sense-seeking-creatures.md). To give up on that is to give up on being human. This sort of escape is either physical (to physically commit suicide), or philosophical - when we are contempt with believing that there is a meaning out there, but we stop searching for it. We are [lost in the finite](/notes/lost-in-the-finite.md), we believe in a dogma that offers truth, without questioning it or searching for an answer ourselves.
+According to [Albert Camus](/notes/albert-camus-philosopher.md), to search for meaning is a necessary part of [human nature](/notes/humans-compulsively-seek-patterns-and-meaning-even-in-chaos.md). To give up on that is to give up on being human. This sort of escape is either physical (to physically commit suicide), or philosophical - when we are contempt with believing that there is a meaning out there, but we stop searching for it. We are [Surrendering agency to external forces destroys individual identity](/notes/surrendering-agency-to-external-forces-destroys-individual-identity.md), we believe in a dogma that offers truth, without questioning it or searching for an answer ourselves.
 
-The only answer for Camus is to embrace the [ambiguity](/notes/ambiguity.md), to continue on with our search despite knowing it is without an end.
+The only answer for Camus is to embrace the [Ambiguity is the absence of clarity in values or facts](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.md), to continue on with our search despite knowing it is without an end.
 
 :::note[Introduction]
 
@@ -86,24 +111,24 @@ The only answer for Camus is to embrace the [ambiguity](/notes/ambiguity.md), to
 
 ### A Meaningful Life?
 
-Is meaning something we generate [meaning is crafted](/notes/meaning-is-crafted.md), or something that exists outside of us, an absolute fact of the universe unrelated to humans?
+Is meaning something we generate [Meaning is Crafted](/notes/meaning-is-crafted.md), or something that exists outside of us, an absolute fact of the universe unrelated to humans?
 
 We will discuss (or have discussed) three options:
 1. Camus and life as embracing absurdity
 2. Aristotle and life as developing and expressing virtues
 3. Following God's teaching
 
-[Aristotle](/notes/aristotle-philosopher.md) believed that happiness and meaning are intertwined. That meaning comes from living a good life, of flourishing. [happiness is to be virtuous](/notes/happiness-is-to-be-virtuous.md).
+[Aristotle](/notes/aristotle-philosopher.md) believed that happiness and meaning are intertwined. That meaning comes from living a good life, of flourishing. [Happiness is to be virtuous](/notes/happiness-is-to-be-virtuous.md).
 
-This is not something we achieve, but rather something we are. It is a matter of process, not destination [trust the process](/notes/trust-the-process.md). **By developing and expressing our virtues, we are living a good life. Virtues therefore are the expression and the tool for meaning simultaneously**, and are usually involve [balance extremes](/notes/balance-extremes.md), using the powers of reason to balance virtues and their extremes based on the situation.
+This is not something we achieve, but rather something we are. It is a matter of process, not destination [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md). **By developing and expressing our virtues, we are living a good life. Virtues therefore are the expression and the tool for meaning simultaneously**, and are usually involve [Optimal outcomes emerge from balance between extremes not absolutes](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md), using the powers of reason to balance virtues and their extremes based on the situation.
 
-If we develop our virtues in the right way, being moral becomes not only our default, but even something enjoyable [Love what is good](/notes/love-what-is-good.md). We would have no [friction](/notes/friction.md) while being moral, it will be easy to act morally.
+If we develop our virtues in the right way, being moral becomes not only our default, but even something enjoyable [Love what is good](/notes/love-what-is-good.md). We would have no [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) while being moral, it will be easy to act morally.
 
-Being moral also connects us to others. Having true [friendships](/notes/relationships.md) will be a connects of mutual [giving](/notes/giving.md), which we strengthen each other, rather than trying to get from the other as much as we can [human is a social being](/notes/human-is-a-social-being.md).
+Being moral also connects us to others. Having true [friendships](/notes/deep-relationships-require-trust-listening-and-empathy.md) will be a connects of mutual [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md), which we strengthen each other, rather than trying to get from the other as much as we can [Human is a social being](/notes/human-is-a-social-being.md).
 
-And what about religious belief? On the one hand, it seems tempting to accept the rulings of a wise, good, omnipotent being. However, even if we assume the existence of god, we still have many unresolved questions. First of all, which god and which teachings? Whether between religions or even within religions, knowing which teachings to follow is a choice, and we can get [lost in the infinite](/notes/lost-in-the-infinite.md). We would never know which one is correct, which turns it into the same problem as trying to pry the meaning of life from a silent universe. *however what about* - [leap into faith](/notes/leap-into-faith.md), *some decisions are beyond rational debate*
+And what about religious belief? On the one hand, it seems tempting to accept the rulings of a wise, good, omnipotent being. However, even if we assume the existence of god, we still have many unresolved questions. First of all, which god and which teachings? Whether between religions or even within religions, knowing which teachings to follow is a choice, and we can get [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md). We would never know which one is correct, which turns it into the same problem as trying to pry the meaning of life from a silent universe. *however what about* - [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md), *some decisions are beyond rational debate*
 
-But even if we did know which god, there is something problematic about god's teaching and it's relations to the *good*. Does god simply points at the good - in that way god is more of a map than an all powerful being, and we could get to the good without him. However, if good decides what is good, it can sometimes clash with our [Moral Taste Buds](/notes/moral-taste-buds.md), like saying rape and murder is okay, which proves that there is a sense of good inside us, and we can't just override it with god's teachings.
+But even if we did know which god, there is something problematic about god's teaching and it's relations to the *good*. Does god simply points at the good - in that way god is more of a map than an all powerful being, and we could get to the good without him. However, if good decides what is good, it can sometimes clash with our [Morality is a shared palette mixed in different proportions](/notes/morality-is-a-shared-palette-mixed-in-different-proportions.md), like saying rape and murder is okay, which proves that there is a sense of good inside us, and we can't just override it with god's teachings.
 
 :::note[A Meaningful Life?]
 
@@ -122,16 +147,16 @@ We tend to combine happiness with meaning, or at least treat it as a necessary c
 
 If meaning is something so elusive, so secretive and perhaps we will never find the answer, it is tempting to treat happiness as it's proxy, and work towards it instead. But aside from asking what happiness is exactly, we should ask ourselves if it is really a good proxy and a worthwhile pursuit instead of meaning.
 
-What is happiness? a basic definition can be of maximizing [utility](/notes/utility.md), to pursue pleasure and minimize pain. However the more we dive into it, [Hedonism](/notes/hedonism.md) seems not enough. What about pleasures that require pain to achieve? Like climbing a mountain, they seem radically different from watching tv although they are weighted the same. A bigger problem is the [experience machine](/notes/experience-machine.md), what if we could have a level that instantly makes us happy, but we will be trapped in a room with nothing but a bed, water and food. We technically can be happy until the day we die, but this option doesn't seem enticing. It seems to be missing what makes people happy - relationships, overcoming challenges, rich experiences.
+What is happiness? a basic definition can be of maximizing [Utility quantifies measurable benefits and guides rational decisions](/notes/utility-quantifies-measurable-benefits-and-guides-rational-decisions.md), to pursue pleasure and minimize pain. However the more we dive into it, [Pleasure and pain are the only measures of good](/notes/pleasure-and-pain-are-the-only-measures-of-good.md) seems not enough. What about pleasures that require pain to achieve? Like climbing a mountain, they seem radically different from watching tv although they are weighted the same. A bigger problem is the [experience machine](/notes/experience-machine.md), what if we could have a level that instantly makes us happy, but we will be trapped in a room with nothing but a bed, water and food. We technically can be happy until the day we die, but this option doesn't seem enticing. It seems to be missing what makes people happy - relationships, overcoming challenges, rich experiences.
 
 According to [John Stuart Mill](/notes/john-stuart-mill-philosopher.md), pleasures are not all equal. There are higher and lowers ones. A lower could be watching TV, while a high one is doing philosophy. That's why we shy away from the pleasure machine. But even if it was a full experience machine, a matrix like world where we could have any experience we want, even to philosophize until we're 120, most of us would still won't want that. Why? Because it seems that happiness is not just a matter of how we feel, but how our lives connects to others, the implication of our life projects, the progress of our lives. That's why offering a virtual environment feels empty, because we know we would be the only ones experiencing it.
 
-Haybron suggests a different take on happiness, that reminds [Maslows pyramid](/notes/maslows-pyramid.md). Happiness is built on three layers:
-1. **Attunement** - to feel safe in the world, that we have few to no sources of worries, insecurities and fear [Stress](/notes/stress.md)
-2. **Engagement** - a feeling of [flow](/notes/flow.md), to be one with what we are doing
+Haybron suggests a different take on happiness, that reminds [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md). Happiness is built on three layers:
+1. **Attunement** - to feel safe in the world, that we have few to no sources of worries, insecurities and fear [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md)
+2. **Engagement** - a feeling of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md), to be one with what we are doing
 3. **Endorsement** - to feel satisfied with what we do in life, with what we choose to invest in [Happiness is contentment](/notes/happiness-is-contentment.md)
 
-To the author, meaning is more than being happy about your life, there has to be a *more* to it. He agrees with [Suzan wolf](/notes/suzan-wolf.md), that supports the idea that **meaning is a combination of subject and an object. It is to be fully immersed in a project that matters**. We have to feel connection to these project, that they are part of us [Alienation](/notes/alienation.md), of our identity, yet they have to go beyond our own identity, to go out into the world and affect others. It can't be just caring for a goldfish as an example.
+To the author, meaning is more than being happy about your life, there has to be a *more* to it. He agrees with [Suzan wolf](/notes/suzan-wolf.md), that supports the idea that **meaning is a combination of subject and an object. It is to be fully immersed in a project that matters**. We have to feel connection to these project, that they are part of us [Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.md), of our identity, yet they have to go beyond our own identity, to go out into the world and affect others. It can't be just caring for a goldfish as an example.
 
 It must have *objective attractiveness*, something that many can agree that has importance. But we need to be careful not to fall into [elitism](/notes/elitism.md), where only philosophers determine what is meaningful. Also worth noting that meaning is unrelated to value. A life without meaning still has the same [moral worth](/notes/moral-worth.md) as a meaningful life.
 
@@ -150,9 +175,9 @@ It must have *objective attractiveness*, something that many can agree that has 
 
 ### Narrative Values
 
-Humans have [Intertemporal Identity](/notes/intertemporal-identity.md), we are our past, present and future all at the same time, while we also evolve and change over time. We are unified by the [narratives](/notes/narratives.md) of our lives. **These narratives not only depict who we are, they are shaping who we are**.
+Humans have [Identity persists across time through psychological continuity](/notes/identity-persists-across-time-through-psychological-continuity.md), we are our past, present and future all at the same time, while we also evolve and change over time. We are unified by the [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md) of our lives. **These narratives not only depict who we are, they are shaping who we are**.
 
-Since meaning is not a one-time achievement, but rather a meaningful life is one filled with meaningfulness, than narratives could be highly relevant to that meaning. By expressing *narrative values*, i.e to live a life of virtue, we can combine meaning with narratives. Such forms of life don't happen usually by chance, they are the result of deep [introspection](/notes/introspection.md), where we examine how we live our lives, and how it differs from our aspirations. To live courageously, honorably, with kindness, compassion and creativity takes effort and a conscious decision. **Having such values doesn't necessarily means that they are inherently meaningful, but they do shape the boundaries of a meaningful life, i.e they are a necessary yet not sufficient condition**.
+Since meaning is not a one-time achievement, but rather a meaningful life is one filled with meaningfulness, than narratives could be highly relevant to that meaning. By expressing *narrative values*, i.e to live a life of virtue, we can combine meaning with narratives. Such forms of life don't happen usually by chance, they are the result of deep [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md), where we examine how we live our lives, and how it differs from our aspirations. To live courageously, honorably, with kindness, compassion and creativity takes effort and a conscious decision. **Having such values doesn't necessarily means that they are inherently meaningful, but they do shape the boundaries of a meaningful life, i.e they are a necessary yet not sufficient condition**.
 
 Interestingly, expressing such values can be detached from the narratives themselves. Whether we are seeing life as *Episodic* (a series of identities and ways of life without a strong connection between them) or *Diachronic* (a single continuum of identity, although changing, connected through a unifying narrative)
 
@@ -191,7 +216,7 @@ While they are not identical, they do somewhat overlap. For example, a person wh
 
 We talked about narrative values having objective attraction, but where does this objectivity comes from? After all, values are not based on science, nor can science tell us which values we should follow. Additionally, claiming that while an individual can't decide what is objective, but a larger group can is just having the same problem on a different scale.
 
-The solution he offers includes the combination of [pragmatism](/notes/pragmatism.md) and [coherentism](/notes/coherentism.md).
+The solution he offers includes the combination of [Truth and goodness are defined by practical usefulness](/notes/truth-and-goodness-are-defined-by-practical-usefulness.md) and [Knowledge emerges from interconnected beliefs not foundational truths](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.md).
 
 Why pragmatism? Values, as with any practice of human behavior such as a game, politics, economics, it all revolves around whether a rule we should follow makes things better. For example, does a rule make a game more fun, more exciting, more challenging, does it serve the purpose of the game? If so, than this is a good rule. Values are judged in a similar manner, things like honesty, integrity, courage, kindness and compassion are not values that seem random or that a group of people just decided these are values that are worthy of pursuing, but because it is easy to imagine why a society that follows these values have better life for it's people. **Values make our life better, this is what makes them objectively good over other values**.
 

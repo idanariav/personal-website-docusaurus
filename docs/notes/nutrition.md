@@ -1,19 +1,23 @@
 ---
 UUID: 20241102212226
 Created: '2024-11-02 21:22'
-Modified: '2026-04-09 17:40'
+Modified: '2026-04-11 22:32'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Diet
 Description: >-
   The practice of providing healthy, natural food to the body, emphasizing the
   avoidance of tempting but harmful processed foods, and promoting a balanced
   intake primarily of vegetables and nuts.
+Topic:
+  - '[[Wellbeing (Map)]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -31,9 +35,3 @@ The challenge of eating well is less about knowledge and more about environment.
 ## Visual
 
 ![Nutrition](/notes/nutrition.webp)
-
-## Overview
-🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
-↩️Origin::
-🔗Link::
-

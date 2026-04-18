@@ -1,8 +1,8 @@
 ---
 UUID: 20250523092042
 Created: '2025-05-23 09:20'
-Modified: '2026-04-08 13:38'
-Version: 2
+Modified: '2026-04-11 22:29'
+Version: 3
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -15,6 +15,10 @@ Description: >-
   concept, revealed when asked to explain it, leading to introspection and
   critical thinking.
 new_schema: true
+Topic:
+  - '[[Overconfidence and Self-Assessment]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,8 +50,3 @@ For example, when people were asked to draw a pair of bicycle, or explain how a 
 
 ## Visual
 
-
-## Overview
-🔼Topic:: [Overconfidence and Self-Assessment](/notes/overconfidence-and-self-assessment.md)
-↩️Origin::
-🔗Link:: 

@@ -1,48 +1,62 @@
 ---
 UUID: 20240401054715
 Created: '2024-04-01 05:47'
-Modified: '2025-05-02 06:43'
+Modified: '2026-04-13 06:18'
 tags: []
+FullTitle: The Art of Loving
+Description: >-
+  It argues that love is an active choice focused on nurturing others and
+  promoting wellbeing, rather than a mere emotional experience. It critiques the
+  commodification of love in modern society and emphasizes that true love
+  extends beyond individuals, advocating for a universal approach to loving all.
 Author:
   - '[[Erich Fromm]]'
+URL: 'https://www.goodreads.com/book/show/14142.The_Art_of_Loving'
+Cover: >-
+  http://books.google.com/books/content?id=pM8MzzntBRcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Psychology
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: 0061129739
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 157
+Reread: 1
 Rate: 4
 PublishDate: 1956-01-01T00:00:00.000Z
+StartDate: 2024-04-01T00:00:00.000Z
 FinishDate: 2024-04-06T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=pM8MzzntBRcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/14142.The_Art_of_Loving'
+Image: null
+aliases: ''
+Topic:
+  - '[[Deep relationships require trust, listening, and empathy]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Art of Loving
 
-## 🔗Connect
-🔼Topic:: [Relationships](/notes/relationships.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Love is an activity** - Love is not a matter of object, of "finding the right person", it is also not about being loved, or the overwhelming sensation of "falling in love" but rather our capability to love others. To be in love with life itself, and wish to see it grow. To bring wellbeing into the world by sharing ourselves with others, and helping them be who they want to be. To be caring, respecting, and responsible for the other. It is a rational decision, fueled by a leap into faith that we must love, even if we might not be loved back. It is to share our identity, our experiences, the good and the bad, while keeping ourselves whole and independent, a paradox of two become one while still being two.
 2. **Love has been commodified** - Modern economics has created a culture where we view love as a matter of transactional benefit. We treat others and ourselves as objects in the process. For example when we use them for sexual gains only, as a replacement for parental figure, when we search for an unrealistic idol, or when we are looking for someone to control or to control us.
 3. **To love one is to love all** - While it is only human that we feel different levels and types of connection to others, such as sibling love, romantic, friendship, etc, since love is a matter of promoting life, it is not a matter of finding just one person to love, but rather by a loving person, which means to treat others in a loving way, even and perhaps most importantly yourself.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -51,22 +65,22 @@ It sometimes shows the sexist side of him, denouncing homosexuality because a he
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book is a mixture between wonderful segments about love, and a bit of a mess on the other. The ordering and sectioning of the chapters is a bit confusing, and the segments are intertwined with criticisms of Froid and modern economics instead of focusing on the main issue.
 
-### 🖼️Outline
+### Outline
 
-![The Art of Loving (book).webp](/books/the-art-of-loving-book.webp)
-## 📒 Notes
+![The Art of Loving (book)](/books/the-art-of-loving-book.webp)
+## Notes
 
 ### Is Love an Art
 
 There are some misleading conceptions around love:
-1. *To goal is to be loved* - we focused on being loved rather than developing the capability to love [Self Bias](/notes/self-bias.md). We focus on our externalities, on being attractive, rather than on our virtues. [Image vs core](/notes/form-vs-essence.md)
-2. *Love is a search "for the one"* - we think that love is a matter of find the best possible option for us out there, as if we are comparing different products. Economics has [commodified](/notes/commodification.md) our attitude towards love. We treat others as [items](/notes/objectivity.md) with "market value" rather than human beings.
-3. *Love is instantaneous* - we being that to love is "to fall in love", that love is the sudden rush of emotions and attraction towards a stranger, instead of it being only the result of our loneliness [Instant Gratification](/notes/gamification.md).
+1. *To goal is to be loved* - we focused on being loved rather than developing the capability to love [Preferring personal benefits blinds us to others' perspectives](/notes/preferring-personal-benefits-blinds-us-to-others-perspectives.md). We focus on our externalities, on being attractive, rather than on our virtues. [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md)
+2. *Love is a search "for the one"* - we think that love is a matter of find the best possible option for us out there, as if we are comparing different products. Economics has [commodified](/notes/commodification-turns-non-tradable-values-into-economic-transactions.md) our attitude towards love. We treat others as [items](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md) with "market value" rather than human beings.
+3. *Love is instantaneous* - we being that to love is "to fall in love", that love is the sudden rush of emotions and attraction towards a stranger, instead of it being only the result of our loneliness [Instant Gratification](/notes/gamification-increases-motivation-by-making-activities-enjoyable.md).
 
 :::note[I.   Is Love an Art?]
 
@@ -80,19 +94,19 @@ There are some misleading conceptions around love:
 
 #### Love - the Answer to the Problems of Humans Existence
 
-The tale of human existence is one of tension between helplessness and understanding the [Absurdity of existence](/notes/absurdity-of-existence.md), vs our will to [transcend](/notes/transcendence.md) it. This knowledge that everything is finite and will end in death is the source of all [Stress](/notes/stress.md) and feelings of [separatedness](/notes/loneliness.md), but also what drives us to escape it.
+The tale of human existence is one of tension between helplessness and understanding the [Life has no predefined meaning we can discover](/notes/life-has-no-predefined-meaning-we-can-discover.md), vs our will to [transcend](/notes/transcendence-is-the-act-of-continuously-becoming-a-better-self.md) it. This knowledge that everything is finite and will end in death is the source of all [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) and feelings of [separatedness](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md), but also what drives us to escape it.
 
 There are three main paths chosen for escaping it:
-1. *Sensual climaxing* - Alcohol, drugs, and erotic's are all such forms. There are meant as a numbing of our pain and fear by overloading our senses with something else, more powerful. This is a problem of addiction, which only grows worse with time as the doses rise and the payoff diminishes. [Addiction](/notes/addiction.md)
-2. *Conformity* - we resolve the anxiety by becoming one with society, a member of the herd, we lose ourselves in the process, we embrace the world's expectation on work, on habits, even on leisure. We lie even to ourselves, believing that society's thoughts are our own. [Conformism](/notes/social-environment.md)
+1. *Sensual climaxing* - Alcohol, drugs, and erotic's are all such forms. There are meant as a numbing of our pain and fear by overloading our senses with something else, more powerful. This is a problem of addiction, which only grows worse with time as the doses rise and the payoff diminishes. [Addiction is escapism that destroys self-control](/notes/addiction-is-escapism-that-destroys-self-control.md)
+2. *Conformity* - we resolve the anxiety by becoming one with society, a member of the herd, we lose ourselves in the process, we embrace the world's expectation on work, on habits, even on leisure. We lie even to ourselves, believing that society's thoughts are our own. [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 3. *Legacy* - through creative work we strive to leave a mark, to be remembered, to last even after our death.
 
 The problem with these methods is that they are all either partial or destined to fail. Sensual is temporary, conformity is sacrificing the self, and legacy is devoid of reciprocity, we throw our words into the void, without a true connection to others, without conversation. This is why **love is the only healthy viable way. It is a connection so deep that two people become one, yet they are still two authentic beings**.
 
 This connection is based on the fact that love is an activity, not a passive phenomenon. This activity has three main attributes:
-1. **Giving** - not giving through the expectation of receiving, and not giving out of a desire to be a martyr. Giving is not a sacrifice, but rather an indication of our power, of our richness, of our aliveness. It is he who gives which is rich, no matter how much money he has. But *the greatest giving is not material but one of life. To give yourself entirely, your thoughts, your experiences, your joy, your anger and fear, every part of who you are*. [Giving](/notes/giving.md)
-2. **Responsibility** - By giving life, we bring something to life, we not only increase the lifeness in another, but also grow something together, a connection between us. This connection is the expression of our giving, but also of our care. We become responsible for it. Therefore *love is an act of care of another's wellbeing, and the duty we embrace for it.* [Responsibility](/notes/responsibility.md)
-3. **Respect** - But if it was just a feeling of responsibility, it would become possessive and controlling. *Truly caring for another is to have respect, to accept who they are and wish to see them grow to who they want to be*. To strive for them to find their own path, develop their authenticity, be the makers of their identity. They are not a tool to be used for your own benefit. [Respect](/notes/validation.md)
+1. **Giving** - not giving through the expectation of receiving, and not giving out of a desire to be a martyr. Giving is not a sacrifice, but rather an indication of our power, of our richness, of our aliveness. It is he who gives which is rich, no matter how much money he has. But *the greatest giving is not material but one of life. To give yourself entirely, your thoughts, your experiences, your joy, your anger and fear, every part of who you are*. [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md)
+2. **Responsibility** - By giving life, we bring something to life, we not only increase the lifeness in another, but also grow something together, a connection between us. This connection is the expression of our giving, but also of our care. We become responsible for it. Therefore *love is an act of care of another's wellbeing, and the duty we embrace for it.* [Responsibility is binding yourself to outcomes and people you value](/notes/responsibility-is-binding-yourself-to-outcomes-and-people-you-value.md)
+3. **Respect** - But if it was just a feeling of responsibility, it would become possessive and controlling. *Truly caring for another is to have respect, to accept who they are and wish to see them grow to who they want to be*. To strive for them to find their own path, develop their authenticity, be the makers of their identity. They are not a tool to be used for your own benefit. [Respect](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md)
 4. **Independence** - to be able to let the other grow in their own way, and for us to treat them as a person and not a tool, we need to remain independent. We can't lose ourselves in the act of loving, nor could we be able to give without being able to stand on our own first. Our identity cannot be dependent on the relationship, it feeds and being fed by it, but exists separately [supporting independence](/notes/supporting-independence.md).
 
 :::note[Love, the Answer to the Problem of Human Existence]
@@ -154,9 +168,9 @@ Also it is worth noting that self love is very different from selfishness. **To 
 
 ### Love and It's Disintegration in Contemporary Western Society
 
-[Capitalism](/notes/capitalism.md) has changed the way we perceive love, and since the culture around love is highly influential on the personal view. The economic ideology has commodified love, turning it into a matter of transaction, a reciprocal trade of goods between partners, until a better alternative arrives. Meanwhile, the nature of work has [alienated](/notes/alienation.md) us from our work, from others, and even in our free time we have been reduced to view happiness as "having fun", as being numb while watching movies and tv [Hedonism](/notes/hedonism.md). **We don't only treat others as objects, but also ourselves**.
+[Capitalism](/notes/capitalism.md) has changed the way we perceive love, and since the culture around love is highly influential on the personal view. The economic ideology has commodified love, turning it into a matter of transaction, a reciprocal trade of goods between partners, until a better alternative arrives. Meanwhile, the nature of work has [alienated](/notes/alienation-means-feeling-detached-from-life-and-others.md) us from our work, from others, and even in our free time we have been reduced to view happiness as "having fun", as being numb while watching movies and tv [Pleasure and pain are the only measures of good](/notes/pleasure-and-pain-are-the-only-measures-of-good.md). **We don't only treat others as objects, but also ourselves**.
 
-Economics is just one example of a contributor to "pseudo love" [shallow copy](/notes/shallow-copy.md). Any time we treat the other as an object for our needs, whether consciously or not is such fake love. For example when we use them for sexual gains only, as a replacement for parental figure, when we search for an unrealistic idol, or when we are looking for someone to control or to control us.
+Economics is just one example of a contributor to "pseudo love" [Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md). Any time we treat the other as an object for our needs, whether consciously or not is such fake love. For example when we use them for sexual gains only, as a replacement for parental figure, when we search for an unrealistic idol, or when we are looking for someone to control or to control us.
 
 **True love is only when the two sides communicate for the core of their identity,** of their existence. When they share everything, their joy and sadness, their highs and lows. Love can't be a journey of only happiness, conflicts can't be rushed or avoided, relationships take time and effort.
 
@@ -172,16 +186,16 @@ Economics is just one example of a contributor to "pseudo love" [shallow copy](/
 ### The Practice of Love
 
 To be good at something usually requires a variety of skills, some unrelated to the main art. For example, to be a good archer, one must learn to breath. Art requires the totality of ourselves, our complete dedication. Therefore, to be good at any art, requires a set of key virtues, these are:
-1. [Self Dicipline](/notes/self-control.md)
-2. [mindfulness](/notes/intentionality.md)
-3. [Patience](/notes/patience.md)
-4. [Self-awareness](/notes/self-awareness.md)
+1. [Self Dicipline](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md)
+2. [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md)
+3. [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md)
+4. [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md)
 
 Love, as a specific art, requires additional virtues in order to break free from the risks of narcissism:
-1. [Humility](/notes/humility.md)
-2. [Objectivism](/notes/objectivism.md)
-3. [Proactiveness](/notes/proactiveness.md)
-4. **Rational faith** - the unwavering belief in the persistence of our identity and our partner, [Leap Into Faith](/notes/leap-into-faith.md) that this connection will outlast many changes that will happen to who we are, what we think and believe. That in the end, there will be an "I" and "they" that will stay together. To give love in the hopes, without any guarantee, that we will receive love back
+1. [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md)
+2. [Seeing reality without subjective bias reduces distortion](/notes/seeing-reality-without-subjective-bias-reduces-distortion.md)
+3. [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md)
+4. **Rational faith** - the unwavering belief in the persistence of our identity and our partner, [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md) that this connection will outlast many changes that will happen to who we are, what we think and believe. That in the end, there will be an "I" and "they" that will stay together. To give love in the hopes, without any guarantee, that we will receive love back
 
 :::note[The Practice of Love]
 

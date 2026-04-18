@@ -1,13 +1,13 @@
 ---
 UUID: 20250226135454
 Created: '2025-02-26 13:54'
-Modified: '2026-04-09 09:15'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Ideation
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   environmental factors and requiring curiosity, while balancing freedom with
   certain constraints for optimal creativity.
 new_schema: true
+Topic:
+  - '[[Creative Ideation and Innovation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,8 +54,3 @@ While this process can be improved, it can't be perfected. Many of the ideas, es
 ## Visual
 
 ![Ideation](/notes/ideation.webp)
-## Overview
-🔼Topic:: [Creative Ideation and Innovation](/notes/creative-ideation-and-innovation.md)
-↩️Origin::
-🔗Link::
-

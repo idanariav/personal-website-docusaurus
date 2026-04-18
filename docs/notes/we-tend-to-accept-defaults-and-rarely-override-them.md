@@ -1,13 +1,13 @@
 ---
 UUID: 20231230191213
 Created: '2023-12-30 19:12'
-Modified: '2026-04-06 22:00'
+Modified: '2026-04-11 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[We tend to accept defaults and rarely override them.png]]'
 ImageText: An auto-play button for "Next episode" with an arrow pointing forward
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Defaults
 new_schema: true
+Topic:
+  - '[[Decision Traps and Biases]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -36,7 +40,7 @@ This could be due to:
 2. **Ambivalence** - we don't care which option to choose, so might as well stick to the default [Indifference](/notes/indifference.md)
 3. **Low friction** - by being the default, it often involves [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) to switch to a different option, which makes it so much harder to choose otherwise [Saying no protects time and energy for what matters most](/notes/saying-no-protects-time-and-energy-for-what-matters-most.md).
 4. **Exhaustion** - Since making a good choice requires willpower, which is a [limited](/notes/willpower-is-limited.md) resource, we can't rely on it to constantly save us from defaults. When we are [exhausted](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md), we are much more likely to follow with the default behavior rather than making a better choice.
-5. **Emotional instability** - Defaults are usually [tempting](/notes/distraction.md), which means we need [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md) to combat the urge to stick with it.
+5. **Emotional instability** - Defaults are usually [tempting](/notes/distractions-pull-us-towards-them-as-a-temptation.md), which means we need [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md) to combat the urge to stick with it.
 
 ### Why it matters
 
@@ -53,8 +57,3 @@ Defaults can be good or bad, depending on the default choice. Unfortunately, the
 ## Visual
 
 ![We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.webp)
-## Overview
-🔼Topic:: [Decision Traps and Biases](/notes/decision-traps-and-biases.md)
-↩️Origin::
-🔗Link::
-

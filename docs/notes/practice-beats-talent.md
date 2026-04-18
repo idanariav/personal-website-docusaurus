@@ -1,19 +1,23 @@
 ---
 UUID: 20230916080346
 Created: '2023-09-16 08:03'
-Modified: '2026-04-09 08:40'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases: []
 Description: >-
   A concept emphasizing that consistent and deliberate practice, rather than
   innate talent, is essential for achieving mastery and long-term success in any
   field.
 new_schema: true
+Topic:
+  - '[[Deliberate Practice and Skill Acquisition]]'
+Origin: '[[Peak (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ Furthermore, the idea of innate talent can be harmful in several ways:
 ## Visual
 
 ![practice beats talent](/notes/practice-beats-talent.webp)
-
-## Overview
-🔼Topic:: [Deliberate Practice and Skill Acquisition](/notes/deliberate-practice-and-skill-acquisition.md)
-Origin:: [Peak (book)](/books/peak-book.md)
-🔗Link::
-

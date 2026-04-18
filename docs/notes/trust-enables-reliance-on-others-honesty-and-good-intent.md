@@ -1,13 +1,13 @@
 ---
 UUID: 20240115181723
 Created: '2024-01-15 18:17'
-Modified: '2026-04-08 17:16'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Trust
   - Trust
@@ -16,6 +16,12 @@ Description: >-
   communication and collaboration without suspicion or fear, essential for
   personal and group well-being.
 new_schema: true
+Topic:
+  - '[[Social Connection and Belonging]]'
+  - '[[Virtuous Disposition]]'
+  - '[[Honest Communication]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,11 +60,3 @@ Unfortunately, since trustworthiness is a trait with many benefits, some people 
 ## Visual
 
 ![Trust](/notes/trust.webp)
-
-## Overview
-🔼Topic:: [Social Connection and Belonging](/notes/social-connection-and-belonging.md)
-🔼Topic:: [Virtuous Disposition](/notes/virtuous-disposition.md)
-🔼Topic:: [Honest Communication](/notes/honest-communication.md)
-↩️Origin::
-🔗Link::
-

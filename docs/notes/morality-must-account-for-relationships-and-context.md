@@ -1,7 +1,7 @@
 ---
 UUID: 20220903063010
 Created: '2022-09-03 06:30'
-Modified: '2026-04-08 10:28'
+Modified: '2026-04-11 22:24'
 tags: []
 aliases:
   - Ethics of care
@@ -10,7 +10,11 @@ Description: >-
   contrasting with traditional reasoning by highlighting the emotional and
   communal aspects of moral decision-making.
 new_schema: true
-Version: 2
+Version: 3
+Topic:
+  - '[[Ethical Frameworks (Metaethics)]]'
+Origin: '[[Philosophize This!]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -64,6 +68,3 @@ Women however gave answers like:
 ### Open questions
 
 ## Overview
-🔼Topic:: [Ethical Frameworks (Metaethics)](/notes/ethical-frameworks-metaethics.md)
-◀Origin:: [Philosophize This!](/notes/philosophize-this.md)
-🔗Link:: 

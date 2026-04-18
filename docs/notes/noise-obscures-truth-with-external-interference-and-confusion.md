@@ -1,13 +1,13 @@
 ---
 UUID: 20240103082328
 Created: '2024-01-03 08:23'
-Modified: '2026-04-10 16:47'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Noise
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   necessitating the filtering of unhelpful information to discern valuable
   insights.
 new_schema: true
+Topic:
+  - '[[Selective Evidence]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,8 +54,3 @@ Remember that noise might be extremally difficult in cases of [Conformation bias
 ## Visual
 
 ![Noise](/notes/noise.webp)
-## Overview
-🔼Topic:: [Selective Evidence](/notes/selective-evidence.md)
-↩️Origin::
-🔗Link::
-

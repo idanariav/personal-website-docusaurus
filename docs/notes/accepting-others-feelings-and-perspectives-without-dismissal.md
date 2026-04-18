@@ -1,12 +1,12 @@
 ---
 UUID: 20240417172116
 Created: '2024-04-17 17:21'
-Modified: '2026-04-08 17:18'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Accepting others feelings and perspectives without dismissal.png]]'
 ImageText: A person looking at the mirror and smiling
 Description: >-
@@ -17,6 +17,10 @@ aliases:
   - Validation
   - Respect
 new_schema: true
+Topic:
+  - '[[Active Listening and Empathy]]'
+Origin: '[[Raising Good Humans]]'
+URL: 'https://share.snipd.com/episode/085f88f6-23e8-477c-abb0-0cf29f0e4c03'
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ Remember that sometimes, the person who needs validation the most is yourself [P
 ## Visual
 
 ![Accepting others feelings and perspectives without dismissal](/notes/accepting-others-feelings-and-perspectives-without-dismissal.webp)
-
-## Overview
-🔼Topic:: [Active Listening and Empathy](/notes/active-listening-and-empathy.md)
-↩️Origin:: [Raising Good Humans](/notes/raising-good-humans.md)
-🔗Link:: https://share.snipd.com/episode/085f88f6-23e8-477c-abb0-0cf29f0e4c03
-

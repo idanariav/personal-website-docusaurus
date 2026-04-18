@@ -1,13 +1,13 @@
 ---
 UUID: 20230911071047
 Created: '2023-09-11 07:10'
-Modified: '2026-04-01 09:37'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - One-dimensional being
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   limited in identity and capabilities, often feeling alienated from their
   multifaceted nature and lacking a harmonious self.
 new_schema: true
+Topic:
+  - '[[Identity Structure]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ We might even feel [alienated](/notes/alienation-means-feeling-detached-from-lif
 ## Visual
 
 ![one-dimentional being](/notes/one-dimentional-being.webp)
-
-## Overview
-🔼Topic:: [Identity Structure](/notes/identity-structure.md)
-Origin::
-🔗Link::
-

@@ -1,52 +1,79 @@
 ---
 UUID: 20230428071833
 Created: '2023-04-28 07:18'
-Modified: '2025-05-07 19:19'
+Modified: '2026-04-13 06:17'
 tags: []
+FullTitle: Range -  Why Generalists Triumph in a Specialized World
+Description: >-
+  It argues for a "test and learn" approach over rigid planning, warns against
+  overspecialization in complex problems, emphasizes the importance of
+  interdisciplinary diversity for creativity, and advocates for challenging
+  learning experiences that promote exploration rather than easy solutions.
 Author:
   - '[[David Epstein]]'
+URL: 'https://www.goodreads.com/book/show/41795733-range'
+Cover: >-
+  http://books.google.com/books/content?id=oEGCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Psychology
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B07H1ZYWTM
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 352
+Reread: 0
 Rate: 4
 PublishDate: 2019-06-27T00:00:00.000Z
+StartDate: 2023-04-09T00:00:00.000Z
 FinishDate: 2023-04-28T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=oEGCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/41795733-range'
+Image: null
+aliases: ''
+Topic:
+  - '[[Breath beats depth|Range]]'
+  - '[[Competence is developed through practice not innate talent]]'
+  - '[[Creativity (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Range (book)
 
-## 🔗Connect
-🔼Topic:: [Range](/notes/breath-beats-depth.md)
-🔼Topic:: [competence](/notes/competence.md)
-🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Experimentation** - it's better to "test and learn" than "plan and implement" approach to achieve specialization. Being too focused on grit can cause us to get locked on sub optimal options
 2. **Overspecialization is a trap** - to overspecialize in one domain is good when we're dealing with "kind problems", where everything is clear and well defined. However we face mostly wicked problems that change and become complex over time. Only adaptability, learning and interdisciplinary will allow for creative solutions.
 3. **Diversity is key** - interdisciplinary learning increases creativity, matching of skills with desires. Diversity, especially if opinions helps us avoid confirmation bias and enables us to see problems in a new light
 4. **Learning should be hard** - using analogies as mental shortcuts, and encouraging struggle for exploration rather than giving easy answers or procedures.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 1. **Every knowledge could be useful someday**, you just don't know it
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Undertake a sampling period** - spend deliberate time trying several related activities before committing to one specialty to discover better skill-fit and personality-fit opportunities.
+2. **Delay narrow specialization** - avoid early hyperspecialization; prioritize breadth of experience so you can find longer-term suitable work and creative advantages.
+3. **Run quick experiments (test-and-learn)** - treat career and project choices as short experiments you can try, evaluate, and change rather than fixed long-term plans.
+4. **Practice hard, effortful learning** - design learning sessions that force retrieval and struggle (tests without hints) to produce durable, flexible knowledge.
+5. **Use analogies to transfer knowledge** - consciously map concepts from one domain to another to speed learning and generate creative solutions.
+6. **Prioritize matching before grit** - test multiple fields to learn about yourself and choose where to commit sustained effort rather than persisting blindly.
+7. **Encourage cognitive distancing and drop familiar tools** - intentionally question default methods, and be willing to abandon or repurpose core tools when facing novel problems.
+8. **Treat your ideas as hypotheses to falsify** - actively seek disconfirming evidence and invite teammates to help test and break your theories.
+9. **Build interdisciplinary bridges** - work to connect disparate pieces of knowledge deliberately (bridge-building projects) even if they seem unfundable or ignored initially.
+10. **Compare progress to your past self and adapt** - regularly evaluate your development against your own prior state, adjust goals, and be willing to change direction as you learn.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. **Better Matching** - One can find a better match for his skills which will increase his well-being, his productivity, and achievements.
@@ -59,16 +86,16 @@ SiteProcssed: true
 1. **no prior knowledge** - As he says at the end, being creative is a hit and miss, so you can never know in advance which knowledge fields would be beneficial for you to learn, because it is a rare act where intersectionality works in your favor, but when it does its amazing.
 2. **if not planning, what else?** - While we get the message that planning is bad, we are left without something else to guide us instead other than "do you think you will enjoy it? great" or "were you forced to spend time on this? it might still be useful"
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book is nice, but not a lot more than that. The two main ideas are presented in the beginning of the book, and later chapters are just examples of those ideas. Some chapters are just the examples without even a distillment of the author to the main takeaways of that chapter.
 
-### 🖼️Outline
+### Outline
 
-![Range (book).webp](/books/range-book.webp)
+![Range (book)](/books/range-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Intro
 
@@ -88,9 +115,9 @@ However, **its the turtle, not the rabbit, who gets the last laugh**.
 
 ### Chapter 1 - the Curse of Overspecialization
 
-in todays world, it seems like [Specialization](/notes/specialization.md) in early age is the key for achievement in life. However, most fields are not as easy to master as others [Complexity](/notes/complexity.md) Fields are divided into 2 types:
-1. **Kind fields** - where the field is a closed system, usually scientific in origin, where each interaction provides useful information, feedback, and the goal is clear. Examples are usually abstract games such as chess, individual sports such as golf, or fields such as physics and mathematics. in these types of fields, it's easier to develop [Mental Representations](/notes/mental-representations.md) that help you become an expert. [Clarity](/notes/clarity.md). *Does that means that [Deliberate Practice](/notes/deliberate-practice.md) can only happen in kind fields?*
-2. **Wicked fields** - these fields are open-ended, which means that the rules, the motivation and the type of interaction between agents constantly change [Problems](/notes/problems.md), the feedback is far off and obscure if any, and perhaps you have low control on the outcome. Usually social sciences fit into this criteria, areas such as economics, psychology, predictions, etc... [Ambiguity](/notes/ambiguity.md).
+in todays world, it seems like [Specialization develops deep expertise by focusing narrowly on a domain](/notes/specialization-develops-deep-expertise-by-focusing-narrowly-on-a-domain.md) in early age is the key for achievement in life. However, most fields are not as easy to master as others [Complexity](/notes/complexity.md) Fields are divided into 2 types:
+1. **Kind fields** - where the field is a closed system, usually scientific in origin, where each interaction provides useful information, feedback, and the goal is clear. Examples are usually abstract games such as chess, individual sports such as golf, or fields such as physics and mathematics. in these types of fields, it's easier to develop [We store knowledge as visual mental models](/notes/we-store-knowledge-as-visual-mental-models.md) that help you become an expert. [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md). *Does that means that [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md) can only happen in kind fields?*
+2. **Wicked fields** - these fields are open-ended, which means that the rules, the motivation and the type of interaction between agents constantly change [Problems](/notes/problems.md), the feedback is far off and obscure if any, and perhaps you have low control on the outcome. Usually social sciences fit into this criteria, areas such as economics, psychology, predictions, etc... [Ambiguity is the absence of clarity in values or facts](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.md).
 
 We now know that narrow specialization will be the realm of AI. Tactics is their specialty, while we have to think strategy.
 
@@ -125,8 +152,8 @@ Lastly, the jump the face today has to be from imagining abstract concepts, to c
 ### Chapter 3 - Breath for Mastery
 
 When looking at musical prodigies in the past, it's those who have tried our different instruments that were the best performers.
-By learning through experience [learning by doing](/notes/learning-by-doing.md) rather than closed ended thinking (the difference between improvising music to only reading from a music sheet) they could achieve much higher mastery.
-That led to a better [Intuition](/notes/intuition.md) on how to become better and be more creative.
+By learning through experience [Active engagement with material accelerates learning](/notes/active-engagement-with-material-accelerates-learning.md) rather than closed ended thinking (the difference between improvising music to only reading from a music sheet) they could achieve much higher mastery.
+That led to a better [Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md) on how to become better and be more creative.
 
 :::note[When Less of the Same Is More]
 
@@ -139,12 +166,12 @@ That led to a better [Intuition](/notes/intuition.md) on how to become better an
 
 There are two types of learning:
 1. **Using-procedure**: when x happens, do y. This is a close ended way of thinking, similar to a computer program, we treat knowledge like a dictionary, and we're able to give a response only if we have the right translation for the task at hand.
-2. **connection making** - this is the more abstract kind of learning. [learning should be hard](/notes/learning-should-be-hard.md). By combining knowledge from different areas, or [Systematical Thinking](/notes/systematical-thinking.md), we can theorize, test and derive the solution ourselves even on unfamiliar situations.
+2. **connection making** - this is the more abstract kind of learning. [Learning should be hard](/notes/learning-should-be-hard.md). By combining knowledge from different areas, or [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md), we can theorize, test and derive the solution ourselves even on unfamiliar situations.
 
-The key here is that there is a tradeoff between these two. **Procedural thinking is faster in the short run, but preforms worse in the long run**. This is similar to [exploration vs exploitation](/notes/exploration-vs-exploitation.md), when a short term investment is worth it in the long run
+The key here is that there is a tradeoff between these two. **Procedural thinking is faster in the short run, but preforms worse in the long run**. This is similar to [Growth requires balancing the new and the proven](/notes/growth-requires-balancing-the-new-and-the-proven.md), when a short term investment is worth it in the long run
 
 Teachers, parents sometimes try to be helpful but in the end lead to worse outcomes, we tend to give the kid the answer, or the way to solve the question, therefore denying him from the struggle of exploration. It is this struggle which exactly produces long term learning.
-If learning is easy, then you know it's not working. [Dont Jump to the Rescue](/notes/dont-jump-to-the-rescue.md)
+If learning is easy, then you know it's not working. [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md)
 Instead, we should help the child to think on its own, giving him tools for explore rather than procedures to follow.
 
 :::note[Learning, Fast and Slow]
@@ -158,8 +185,8 @@ Instead, we should help the child to think on its own, giving him tools for expl
 
 ### Chapter 5 - Analogs as Mental Shortcuts
 
-Using analogies could be very helpful for learning. They allow us to quickly move mental representations from one field of knowledge to the other. [Transferred Learning](/notes/transferred-learning.md)
-Like saying that newton mechanics are like billiard balls, or that gravity is like magnets. By using analogies, we save mental effort and increase creativity at the same time [Analogies](/notes/mental-shortcuts.md)
+Using analogies could be very helpful for learning. They allow us to quickly move mental representations from one field of knowledge to the other. [Knowledge applied across contexts enables learning generalization](/notes/knowledge-applied-across-contexts-enables-learning-generalization.md)
+Like saying that newton mechanics are like billiard balls, or that gravity is like magnets. By using analogies, we save mental effort and increase creativity at the same time [Analogies](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md)
 
 :::note[Thinking Outside Experience]
 
@@ -170,8 +197,8 @@ Like saying that newton mechanics are like billiard balls, or that gravity is li
 
 ### Chapter 6 - Grit Vs Matching
 
-we tend to believe that [Grit](/notes/grit.md) is the answer for success, that by sticking out no matter what we will achieve the best result. However, **it is worth knowing to pick our battles, to choose which field should we have grit for**.
-Therefore, **[Matching](/notes/matching.md) should come before grit**. When we test our different fields, we have more benefits in the long run than early specializers. We have more chances of finding the field that is right for us in terms of welfare and skills.
+we tend to believe that [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) is the answer for success, that by sticking out no matter what we will achieve the best result. However, **it is worth knowing to pick our battles, to choose which field should we have grit for**.
+Therefore, **[Good decisions match the best option for both sides](/notes/good-decisions-match-the-best-option-for-both-sides.md) should come before grit**. When we test our different fields, we have more benefits in the long run than early specializers. We have more chances of finding the field that is right for us in terms of welfare and skills.
 
 :::note[The Trouble with Too Much Grit]
 
@@ -181,7 +208,7 @@ Therefore, **[Matching](/notes/matching.md) should come before grit**. When we t
 
 
 ### Chapter 7 - Flirting with Your Possible Selves
-**Our mode of thinking should be "test and learn" rather than "plan and implement"** [Empiricism](/notes/empiricism.md). We learn who we are by acting, not by [introspection](/notes/introspection.md).
+**Our mode of thinking should be "test and learn" rather than "plan and implement"** [Knowledge comes from empirical testing not innate reason](/notes/knowledge-comes-from-empirical-testing-not-innate-reason.md). We learn who we are by acting, not by [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md).
 
 :::note[Flirting with Your Possible Selves]
 
@@ -218,7 +245,7 @@ By combining knowledge from different fields, it is more likely to come up with 
 ### Chapter 10 - Fooled by Expertise
 
 Why sometimes experts get it wrong? It happens when they are fixated by their opinions.
-**A true expert should think of his ideas as theories to be tested**. [Falsification](/notes/scientific-method.md) He should be encouraged to find cases where he is wrong, and avoid [Conformation Bias](/notes/conformation-bias.md).
+**A true expert should think of his ideas as theories to be tested**. [Falsification](/notes/empirical-testing-not-reason-alone-discovers-truth.md) He should be encouraged to find cases where he is wrong, and avoid [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md).
 
 :::note[Fooled by Expertise]
 
@@ -230,10 +257,10 @@ Why sometimes experts get it wrong? It happens when they are fixated by their op
 ### Chapter 11 - Learning by Forgetting
 
 **In situations we haven't encountered before, that don't fit any of our known powers, it is sometimes useful to rethink our default "tools" that we use to analyze the situation.**
-For example, firefighters who are caught in a rapidly expanding fire should drop their tools to be able to run faster, but since their tools are part of their identity as firefighters, most don't do it even when commanded to [Attachment](/notes/attachment.md).
-By creating [Cognitive Distancing](/notes/cognitive-distancing.md) between the situation and our "go -o" methods of thinking, we can perhaps find new and creative ways to solve it. [Rethinking](/notes/rethinking.md)
+For example, firefighters who are caught in a rapidly expanding fire should drop their tools to be able to run faster, but since their tools are part of their identity as firefighters, most don't do it even when commanded to [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md).
+By creating [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md) between the situation and our "go -o" methods of thinking, we can perhaps find new and creative ways to solve it. [Rethinking means updating beliefs by reconsidering what you thought you knew](/notes/rethinking-means-updating-beliefs-by-reconsidering-what-you-thought-you-knew.md)
 
-Therefore, **it is important to develop [Diversity](/notes/diversity.md) of opinions in your team, and encourage flow of information through various connections, and not just top-down hierarchy.**
+Therefore, **it is important to develop [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md) of opinions in your team, and encourage flow of information through various connections, and not just top-down hierarchy.**
 
 :::note[Learning to Drop Your Familiar Tools]
 

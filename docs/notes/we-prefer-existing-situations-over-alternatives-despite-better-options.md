@@ -1,13 +1,13 @@
 ---
 UUID: 20240502101612
 Created: '2024-05-02 10:16'
-Modified: '2026-04-08 14:24'
+Modified: '2026-04-11 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Status-quo bias
 Description: >-
@@ -15,6 +15,11 @@ Description: >-
   when better alternatives exist, often driven by fear of uncertainty and loss
   aversion.
 new_schema: true
+Topic:
+  - '[[Status Quo and Inertia]]'
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,10 +53,3 @@ We are highly affected by both [Momentum is movement that builds self-reinforcin
 ## Visual
 
 ![Status-quo bias](/notes/status-quo-bias.webp)
-
-## Overview
-🔼Topic:: [Status Quo and Inertia](/notes/status-quo-and-inertia.md)
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-↩️Origin::
-🔗Link::
-

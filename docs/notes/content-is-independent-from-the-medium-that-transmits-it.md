@@ -1,12 +1,12 @@
 ---
 UUID: 20231002070320
 Created: '2023-10-02 07:03'
-Modified: '2026-04-10 14:07'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Content is independent from the medium that transmits it.png]]'
 ImageText: >-
   A blob of water that can either be turned into a triangular, rectangle or
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Medium independent
 new_schema: true
+Topic:
+  - '[[Knowledge Structure and Transfer]]'
+Origin: '[[Zsolt''s Visual Personal Knowledge Management]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,8 +59,3 @@ I can learn about physics from reading a book, hearing a podcast, learning from 
 ## Visual
 
 ![Content is independent from the medium that transmits it](/notes/content-is-independent-from-the-medium-that-transmits-it.webp)
-
-## Overview
-🔼Topic:: [Knowledge Structure and Transfer](/notes/knowledge-structure-and-transfer.md)
-Origin:: [Zsolt's Visual Personal Knowledge Management](/notes/zsolts-visual-personal-knowledge-management.md)
-🔗Link::

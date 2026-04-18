@@ -1,13 +1,13 @@
 ---
 UUID: 20240101081630
 Created: '2024-01-01 08:16'
-Modified: '2026-04-08 17:16'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 new_schema: true
 aliases:
   - Transparency
@@ -16,6 +16,10 @@ Description: >-
   The quality of being open and forthcoming, requiring honesty and proactiveness
   to communicate truthfully, fostering understanding, trust, and clarity in
   interactions.
+Topic:
+  - '[[Honest Communication]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,9 +57,3 @@ When we are transparent, we are much more likely to generate [Trust enables reli
 ## Visual
 
 ![Transparency](/notes/transparency.webp)
-
-## Overview
-🔼Topic:: [Honest Communication](/notes/honest-communication.md)
-↩️Origin::
-🔗Link::
-

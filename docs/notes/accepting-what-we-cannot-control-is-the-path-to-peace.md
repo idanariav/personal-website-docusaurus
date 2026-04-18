@@ -1,13 +1,13 @@
 ---
 UUID: 20240219081829
 Created: '2024-02-19 08:18'
-Modified: '2026-04-04 10:59'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Accepting what we cannot control is the path to peace.png]]'
 ImageText: A circle of control
 Description: >-
@@ -20,6 +20,10 @@ aliases:
   - Circles of control
   - Letting go
 new_schema: true
+Topic:
+  - '[[Acceptance and Effortless Action]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,8 +54,3 @@ We also shouldn't see our circles of control are fixed. The more we improve our 
 ## Visual
 
 ![Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.webp)
-
-## Overview
-⬆️Topic:: [Acceptance and Effortless Action](/notes/acceptance-and-effortless-action.md)
-↩️Origin::
-🔗Link::

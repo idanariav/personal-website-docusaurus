@@ -1,7 +1,7 @@
 ---
 UUID: 20241001160941
 Created: '2024-10-01 16:09'
-Modified: '2026-04-05 20:41'
+Modified: '2026-04-13 06:20'
 tags: []
 FullTitle: >-
   The Power of Full Engagement - Managing Energy, Not Time, is the Key to High
@@ -30,7 +30,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 256
 Reread: 0
 Rate: 3
@@ -39,6 +39,10 @@ StartDate: 2024-11-11T00:00:00.000Z
 FinishDate: 2024-11-24T00:00:00.000Z
 Image: null
 aliases: []
+Topic:
+  - '[[Wellbeing (Map)]]'
+  - '[[Mindset (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -47,12 +51,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
-⬆️Topic:: [Mindset (Map)](/mocs/mindset-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Energy is more important than time** - having all the time in the world doesn't matter if we lack the energy to do something with that time. Therefore managing our energy is more important than managing our time
 2. **Become an athlete** - athletes are arguably the experts when it comes to peak performance, so we should follow their advice - short, uninterrupted sprints, with time to rest and recover
@@ -64,12 +63,12 @@ SiteProcssed: true
 	3. **Spiritual** - meaning, purpose, values
 	4. **Mental** - reducing distractions, choosing one think to focus on
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?
 1. **Energetic purposeful life** - you will replenish and increase your energy capacity, enabling you to give your all to what matters, and avoid burnout or boredom.
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **Sprint and rest vs constant marathon** - to be better at something, we can't spend energy in a linear way. This leads to burnout and no improvement. Rather, we should do short sprints where we stretch the levels of maximum energy, while also giving us time to rest and replenish it
@@ -78,7 +77,7 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 The book is dedicated mostly to CEOs or that who work in an American work culture that are overwhelmed despite giving their all
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The sections should have been reversed, first the theory and the tool box, and then the examples.
@@ -86,7 +85,7 @@ Also the introduction is filled with theory that is barely repeated throughout t
 Since the majority of the book is examples of their past clients, it is thin with actual material.
 I do like the "bear in mind" summaries at the end of each chapter
 
-### 🖼️Outline
+### Outline
 
 ![The Power of Full Engagement (book)](/books/the-power-of-full-engagement-book.webp)
 

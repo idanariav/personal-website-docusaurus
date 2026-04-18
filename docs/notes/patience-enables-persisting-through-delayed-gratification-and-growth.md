@@ -1,13 +1,13 @@
 ---
 UUID: 20240409082927
 Created: '2024-04-09 08:29'
-Modified: '2026-04-08 13:49'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Patience
   - Delay Gratification
@@ -16,6 +16,10 @@ Description: >-
   thoughtful decision-making and recognizing that some outcomes require time to
   develop for optimal results.
 new_schema: true
+Topic:
+  - '[[Growth Through Adversity]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -30,7 +34,7 @@ To be patient is perhaps one of the hardest things to master as humans.
 
 ### Explanation
 
-Resisting [Temptations](/notes/distraction.md) is perhaps against our biological tendencies. Especially as [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md) goes up, our tendency for [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md) is stronger, which makes patience all the more difficult.
+Resisting [Temptations](/notes/distractions-pull-us-towards-them-as-a-temptation.md) is perhaps against our biological tendencies. Especially as [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md) goes up, our tendency for [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md) is stronger, which makes patience all the more difficult.
 
 Patience, more than being a skill that is based on [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md), is rather based on [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md). Since it's our emotions that try to impact our decisions the most, whether it's the urge to fall for temptations, or stressing about what might happen, it's only when we learn to balance ourselves that we can resist them and choose differently.
 
@@ -53,9 +57,3 @@ Being patient also means that we don't rush things, that we are aware that some 
 ## Visual
 
 ![Patience](/notes/patience.webp)
-
-## Overview
-🔼Topic:: [Growth Through Adversity](/notes/growth-through-adversity.md)
-↩️Origin::
-🔗Link::
-

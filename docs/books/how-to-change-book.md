@@ -1,19 +1,23 @@
 ---
 UUID: 20231113101149
 Created: '2023-11-13 10:11'
-Modified: '2024-11-14 16:40'
+Modified: '2026-04-13 06:14'
 tags: []
 Author:
   - '[[Katy Milkman]]'
 Genre: Self-actualization (Psychology)
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 272
 Rate: 3
 PublishDate: 2021-05-04T00:00:00.000Z
@@ -22,18 +26,29 @@ Cover: >-
   http://books.google.com/books/content?id=b_QMzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/55655032-how-to-change'
 aliases: []
+Description: >-
+  It argues for effective strategies to initiate change, emphasizing the
+  importance of fresh starts, gamification, commitment devices, cue-based
+  planning, reducing friction, building confidence, and finding supportive
+  communities to foster lasting habits.
+FullTitle: >-
+  How to Change - The Science of Getting from Where You Are to Where You Want to
+  Be
+StartDate: 2023-10-25T00:00:00.000Z
+ASIN: 059308375X
+Reread: 0
+Topic:
+  - '[[Change (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # How to Change (book)
 
-## 🔗Connect
-🔼Topic:: [Change (Map)](/mocs/change-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Fresh start** - when asking when to change, use the fresh start effect to jumpstart it, perhaps a new location, start of a new year, etc.
 2. **Make it fun** - use temptation bundling and gamification to fight present bias and make the "long term actions" gratifying .
@@ -42,11 +57,25 @@ SiteProcssed: true
 5. **Remove Friction** - set up good defaults and turn good behavior into a habit.
 6. **Confidence** - boost confidence by giving advices to others, have peers to debate with, and remember that failure is a step forward.
 7. **Imitation** - find a group of similar minded people to support you on your journey, learn and imitate their behavior.
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 1. **Tailored solutions** - to make change stick, I need to be aware of *my* specific barriers for success, and not just imitate what others are doing. I need to create solutions that are best fitted for me, my skills and my problems, so that I could solve them efficiently.
-### 🔍Critique
+
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Diagnose the obstacle** - identify the specific barrier (forgetfulness, lack of confidence, impulsivity, etc.) that prevents progress before choosing a change strategy.
+2. **Start at a fresh-slate moment** - pick calendar, location, or arbitrary new-beginning dates (new week/month/year, move, birthday) to launch a change.
+3. **Protect existing good routines at transitions** - when encountering a fresh start or life disruption, review and explicitly preserve any functioning habits so they don’t reset.
+4. **Use temptation bundling** - pair a boring but important task with a limited fun activity (e.g., only watch a favorite show while exercising).
+5. **Gamify repetitive tasks** - add game-like elements (points, badges, leaderboards, competition) to make dull activities more engaging.
+6. **Create commitment devices** - set up penalties or restrictions (soft or hard) ahead of time to lock in choices (e.g., public pledge, monetary loss, app blockers, locked savings).
+7. **Make cue-based plans with concrete when/how** - write vivid implementation intentions that link an action to a specific cue and location (e.g., “After brushing my teeth at night, I will floss”).
+8. **Engineer positive defaults and reduce friction** - rearrange the environment and automate choices so the easiest option is the desired one (e.g., only healthy food in the fridge, automatic savings transfer).
+9. **Give advice to others** - practice advising peers or join peer “council circles” to clarify your own plan, boost confidence, and internalize solutions.
+10. **Copy positive peers and signal desired norms** - actively observe and imitate similar people’s effective habits and surround yourself with supporters who value the behavior you want.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 It will be easier to change and make good habits stick by creating the best solution based on the problem at hand that prevents me from succeeding
@@ -55,16 +84,16 @@ It will be easier to change and make good habits stick by creating the best solu
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book is a collection of short chapters, each on a different barrier for change, such as laziness or impulsivity. There is no arching theme.
 
-### 🖼️Outline
+### Outline
 
-![How to change (book).webp](/books/how-to-change-book.webp)
+![How to change (book)](/books/how-to-change-book.webp)
 
-## 📒 Notes
+## Notes
 
 :::note[Quotes]
 
@@ -87,7 +116,7 @@ Only by understanding the obstacle we are facing, we could come up we a useful p
 
 ### Getting Started
 
-**Changes are easier to do when we don't have old bad habits to break, when we feel that we are in a clean state** [Clean Slate](/notes/clean-slate.md), for example, educating young parents is effective compare to other "awareness programs" because they don't yet have bad parental habits.
+**Changes are easier to do when we don't have old bad habits to break, when we feel that we are in a clean state** [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md), for example, educating young parents is effective compare to other "awareness programs" because they don't yet have bad parental habits.
 
 The way fresh start encounters us humans is that we don't perceive time and space as a continuum, but rather as a series of separated chapters. **Between those chapters we can have a feeling of a fresh start.**
 
@@ -114,12 +143,12 @@ The most famous example are new year's resolution. While we don't always succeed
 
 ### Impulsivity
 
-Long term goals and the actions that will bring us there are often boring and exhausting, and since we humans naturally prefer fun, we have a [Present Bias](/notes/present-bias.md), focusing on short term gratification rather than long term benefits. [stimulus response compatibility](/notes/stimulus-response-compatibility.md)
+Long term goals and the actions that will bring us there are often boring and exhausting, and since we humans naturally prefer fun, we have a [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md), focusing on short term gratification rather than long term benefits. [stimulus response compatibility](/notes/stimulus-response-compatibility.md)
 The answer, **instead of using brute willpower to subdue ourselves into obeying** (which is not only painful but also ineffective), **is to bring instant gratification to our positive habits**.
 
 Two possible strategies:
-1. **Temptation bundling** - combine the boring activity with a fun one, like watching your favorite show while working out. It works best when the fun activity is limited only to the temptation bundling, which means it's "forbidden" the rest of the time. The disadvantage is that it's not always possible to bundle every activity, like reading email while listening to a podcast, both require focus. [Temptation Bundling](/notes/temptation-bundling.md)
-2. **Gamification** - we can try to make the boring activity itself more enjoyable, making it into a game, with leader boards, rewards and badges. The disadvantage is that people have to "enter the magic circle", which means want to participate in the game in the first place. [Gamification](/notes/gamification.md)
+1. **Temptation bundling** - combine the boring activity with a fun one, like watching your favorite show while working out. It works best when the fun activity is limited only to the temptation bundling, which means it's "forbidden" the rest of the time. The disadvantage is that it's not always possible to bundle every activity, like reading email while listening to a podcast, both require focus. [Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.md)
+2. **Gamification** - we can try to make the boring activity itself more enjoyable, making it into a game, with leader boards, rewards and badges. The disadvantage is that people have to "enter the magic circle", which means want to participate in the game in the first place. [Gamification increases motivation by making activities enjoyable](/notes/gamification-increases-motivation-by-making-activities-enjoyable.md)
 
 :::note[Quotes]
 
@@ -139,10 +168,10 @@ Two possible strategies:
 
 ### Procrastination
 
-**We are fully aware on what we want to do, but fail to do so, falling into distractions and procrastinate**. Like seeing a delicious burger when we are on a diet. [Procrastination](/notes/procrastination.md)
-A way to solve that is [Commitment Devices](/notes/commitment-devices.md), meant to be set up when we are clearheaded, to be used when we are overwhelmed by emotions.
+**We are fully aware on what we want to do, but fail to do so, falling into distractions and procrastinate**. Like seeing a delicious burger when we are on a diet. [Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md)
+A way to solve that is [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md), meant to be set up when we are clearheaded, to be used when we are overwhelmed by emotions.
 * Commitment devices are defined by penalties and restrictions, either soft or hard.
-	* **Restrictions vs penalties** - While restrictions are more powerful because they block us from preforming the harmful action, they are harder to implement because not all actions can be blocked. Penalties however are reversed, they don't restrict you whatsoever from doing the harmful action, but they pose a punishment which increase the cost of the action, makes it more salient, and can make you think twice. [Limits](/notes/limits.md) [Incentives](/notes/incentives.md)
+	* **Restrictions vs penalties** - While restrictions are more powerful because they block us from preforming the harmful action, they are harder to implement because not all actions can be blocked. Penalties however are reversed, they don't restrict you whatsoever from doing the harmful action, but they pose a punishment which increase the cost of the action, makes it more salient, and can make you think twice. [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md) [Incentives shape behavior by making certain actions more attractive](/notes/incentives-shape-behavior-by-making-certain-actions-more-attractive.md)
 	* **Hard vs soft** - Hard measures are more effective, but also less forgiving, for example in cases where you fail because of forces outside your control, or not having access to your money in case of emergency
 - **Penalties**:
 	- **Soft** - a formal pledge to yourself or others not to fail your commitment.
@@ -151,8 +180,8 @@ A way to solve that is [Commitment Devices](/notes/commitment-devices.md), meant
 	- **Soft** - having smaller plates to encourage eating smaller portions, or putting the cookies in an uncomfortable place
 	- **Hard** - apps that block social media apps during certain hours. Putting money in a closed savings account that only opens once in a long while.
 
-Making smaller commitments are easier to pull through than big ones [Start Small](/notes/start-small.md).
-Most people don't use commitment devices because they naively believe that their willpower is sufficient to uphold their commitment, and that their willpower is the best tool for the job. [Willpower is Limited](/notes/willpower-is-limited.md) ) (Opposes:: [over confidence](/notes/over-confidence.md)
+Making smaller commitments are easier to pull through than big ones [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md).
+Most people don't use commitment devices because they naively believe that their willpower is sufficient to uphold their commitment, and that their willpower is the best tool for the job. [Willpower is Limited](/notes/willpower-is-limited.md) ) (Opposes:: [Overestimating abilities blinds us to genuine risks](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md)
 
 :::note[Quotes]
 
@@ -164,15 +193,15 @@ Most people don't use commitment devices because they naively believe that their
 
 ### Forgetfulness
 
-**Sometimes we fail to act simply because we forget** [Forgetfulness](/notes/forgetfulness.md). In our modern age, when we are exposed to endless interruptions and also expected to do much more than before, it is no surprise we forget. [Attention Economy](/notes/attention-economy.md)
+**Sometimes we fail to act simply because we forget** [Forgetfulness](/notes/forgetfulness.md). In our modern age, when we are exposed to endless interruptions and also expected to do much more than before, it is no surprise we forget. [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md)
 
 Remainders could solve the problem if they are built correctly, which is if they are as detailed and as close to the action as possible. For example, reminding you in the morning what you need to do in the evening is ineffective, but putting the gym clothes next to the car keys is much relevant.
-**This is called "cue based planning", the more we describe the "when" and "how" we will preform the action, the more likely we are to do it.** [Clarity](/notes/clarity.md) [Planning](/notes/planning.md)
+**This is called "cue based planning", the more we describe the "when" and "how" we will preform the action, the more likely we are to do it.** [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md) [Planning is anticipating the future and preparing action accordingly](/notes/planning-is-anticipating-the-future-and-preparing-action-accordingly.md)
 For example, instead of "I'll floss more" -> "before going to sleep, after brushing my teeth I will floss" is more concrete.
 
 Advantages:
 1. **Detailed** - The act of planning in itself increases the likelihood, since information that is reviewed is easier to recall, and it creates a commitment.
-2. **Cue** - planning helps us connect the action to a [Cue](/notes/priming.md) in the environment. Now that I'll brush my teeth I will remember to floss. The more noticeable the cue is, the more effective it will be. [Visibility](/notes/visibility.md) You can either create your own cues or use existing ones. Even techniques such as [Memory Palace](/notes/memory-palace.md) could be useful. [Nudge](/notes/nudge.md)
+2. **Cue** - planning helps us connect the action to a [Cue](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) in the environment. Now that I'll brush my teeth I will remember to floss. The more noticeable the cue is, the more effective it will be. [What matters most is often less visible than what is salient](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md) You can either create your own cues or use existing ones. Even techniques such as [Abstract information is easier to remember spatially](/notes/abstract-information-is-easier-to-remember-spatially.md) could be useful. [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
 
 :::note[Quotes]
 
@@ -189,10 +218,10 @@ Advantages:
 
 ### Laziness
 
-Laziness is an asset as well as a disadvantage. Our tendency to stick to [Defaults](/notes/defaults.md) can be positive or negative, depends on the defaults. **Positive defaults can help us maintenance a streak of good behavior without exercising our willpower**. It will make the good behavior the "path of least resistance". [Friction](/notes/friction.md)
+Laziness is an asset as well as a disadvantage. Our tendency to stick to [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) can be positive or negative, depends on the defaults. **Positive defaults can help us maintenance a streak of good behavior without exercising our willpower**. It will make the good behavior the "path of least resistance". [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md)
 To build good defaults:
 1. **Nudge** - make the better decision your default. Have only healthy food in the fridge, have an automated transfer of money to a savings account, etc. The less friction you have with making a good decision, the better.
-2. **Habits** - after good habits are formed, they tend to stick. It will take repetition and reward, but afterwards it will become a habit. Note that the best habits are flexible, so that you can continue to do them in some shape or form even if circumstances change. [Robustness](/notes/anti-fragility.md)
+2. **Habits** - after good habits are formed, they tend to stick. It will take repetition and reward, but afterwards it will become a habit. Note that the best habits are flexible, so that you can continue to do them in some shape or form even if circumstances change. [Robustness](/notes/some-systems-grow-stronger-through-disorder.md)
 
 :::note[Quotes]
 
@@ -210,19 +239,19 @@ To build good defaults:
 
 ### Confidence
 
-**Sometimes we don't act not because of ignorance, but rather lack of confidence**. We don't believe that we can change, or have something to offer. When we fail to act, others rush in to give us advice, which only further hurts our self esteem and our ability to change. [Advice](/notes/advice.md)
+**Sometimes we don't act not because of ignorance, but rather lack of confidence**. We don't believe that we can change, or have something to offer. When we fail to act, others rush in to give us advice, which only further hurts our self esteem and our ability to change. [Seeking and giving advice both expand our perspective](/notes/seeking-and-giving-advice-both-expand-our-perspective.md)
 Counterintuitively, **giving advice is what can help us achieve our own goals**, because:
 1. **Clarity** - we imagine what we would do in that case, which makes the change tangible for us
-2. **self-worth** - We feel valued and relevant, which boosts confidence [Self Worth](/notes/self-worth.md)
-3. **Cognitive Alignment** - if we say something, we are more likely to believe it in order to prevent internal conflict, so we "convince ourselves". [Cognitive Alignment](/notes/cognitive-alignment.md)
+2. **self-worth** - We feel valued and relevant, which boosts confidence [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md)
+3. **Cognitive Alignment** - if we say something, we are more likely to believe it in order to prevent internal conflict, so we "convince ourselves". [Actions and physical states unconsciously shape our beliefs](/notes/actions-and-physical-states-unconsciously-shape-our-beliefs.md)
 
-Overall , giving advice is a [win win situations](/notes/win-win-situations.md) because it helps both sides.
-In order to give this benefit to everyone, you can have "council circles" with peers where each one gives advice to someone else. [peer support](/notes/peer-support.md)
-**Another huge factor is our perception of our lives**. Like housekeepers who were told that their work is actually a workout, and had their vitals improved. We can use the [Placebo effect](/notes/placebo-effect.md) to believe we are confident, and it will be so.
+Overall , giving advice is a [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md) because it helps both sides.
+In order to give this benefit to everyone, you can have "council circles" with peers where each one gives advice to someone else. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
+**Another huge factor is our perception of our lives**. Like housekeepers who were told that their work is actually a workout, and had their vitals improved. We can use the [Belief alone can produce real effects](/notes/belief-alone-can-produce-real-effects.md) to believe we are confident, and it will be so.
 
 Another way to increase confidence is to improve the way we perceive failure. We can:
-1. **Allow for mulligans** - having the option of a mulligan, aka "cheat days", can give you the safety and flexibility of maintaining your habit despite small failures, instead of a "all or nothing" approach. [Failure](/notes/failure.md)
-2. **Growth mindset** - looking at failure as a chance to learn and improve, rather than an indication of being unworthy. [Growth Mindset](/notes/growth-mindset.md)
+1. **Allow for mulligans** - having the option of a mulligan, aka "cheat days", can give you the safety and flexibility of maintaining your habit despite small failures, instead of a "all or nothing" approach. [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md)
+2. **Growth mindset** - looking at failure as a chance to learn and improve, rather than an indication of being unworthy. [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)
 
 :::note[Quotes]
 
@@ -240,15 +269,15 @@ Another way to increase confidence is to improve the way we perceive failure. We
 
 ### Conformity
 
-**Who we spend time with are crucial for our behavior**. People tend to imitate others whether consciously or subconsciously, both to avoid social exclusion, and because we believe others (the majority) have insights we don't have. [Conformism](/notes/social-environment.md)
+**Who we spend time with are crucial for our behavior**. People tend to imitate others whether consciously or subconsciously, both to avoid social exclusion, and because we believe others (the majority) have insights we don't have. [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 
 The main method we can use for our benefit is "copy and paste", which is to embrace the positive habits of those around us.
-**We tend to learn more from observation than from advices**. [experience knowledge](/notes/experience-knowledge.md)
-The more active we are in the "copy and paste" method, the higher the chance it will stick. For example if we actively look how others are studying, rather than just sit and study with them. [Mastery](/notes/mastery.md)
+**We tend to learn more from observation than from advices**. [Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md)
+The more active we are in the "copy and paste" method, the higher the chance it will stick. For example if we actively look how others are studying, rather than just sit and study with them. [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md)
 
 **We tend to imitate more the more similar we are to others**. [representation](/notes/representation.md)
 However, imitation has its limits, if we feel that it is too difficult for us to follow the social norm, we will get discouraged and would actually preform worse, like failing students who are paired with geniuses [creaming](/notes/creaming.md)
-To reduce negative effects, we can focus on [Signaling](/notes/signaling.md), where positive behavior is not mandatory, but is valued.
+To reduce negative effects, we can focus on [Signaling is displaying qualities to appear worthy or successful](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md), where positive behavior is not mandatory, but is valued.
 
 :::note[Quotes]
 
@@ -266,7 +295,7 @@ To reduce negative effects, we can focus on [Signaling](/notes/signaling.md), wh
 
 ### Changing for Good
 
-**To make change stick, we need [Grit](/notes/grit.md)**. The obstacles mentioned previously are more like symptoms of a chronic illness. A one-time effort isn't enough, we have to continue with these methods in the long run. However, we should be aware that obstacles change over time, so our strategy should be adapted accordingly, preferably matching our strengths and weaknesses
+**To make change stick, we need [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md)**. The obstacles mentioned previously are more like symptoms of a chronic illness. A one-time effort isn't enough, we have to continue with these methods in the long run. However, we should be aware that obstacles change over time, so our strategy should be adapted accordingly, preferably matching our strengths and weaknesses
 
 :::note[Quotes]
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20240115182435
 Created: '2024-01-15 18:24'
-Modified: '2026-04-09 16:57'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Instrumental
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   rather than its inherent importance, often leading to weaker emotional
   connections and pragmatic, transactional relationships.
 new_schema: true
+Topic:
+  - '[[Value and Meaning]]'
+Origin: '[[The Knowledge Project with Shane Parrish]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -58,9 +62,3 @@ To see things only in terms of their instrumental value, and prioritize things b
 ## Visual
 
 ![Instrumental](/notes/instrumental.webp)
-
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-Origin:: [The Knowledge Project with Shane Parrish](/notes/the-knowledge-project-with-shane-parrish.md)
-Link:: https://share.snipd.com/episode/1098c93b-c96b-43cd-b756-5cfa378aec19
-

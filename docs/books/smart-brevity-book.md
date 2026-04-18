@@ -1,7 +1,7 @@
 ---
 UUID: 20250925084048
 Created: '2025-09-25 08:40'
-Modified: '2025-10-25 16:04'
+Modified: '2026-04-13 06:17'
 tags: []
 FullTitle: Smart Brevity - The Power of Saying More with Less
 Description: >-
@@ -19,7 +19,7 @@ Cover: >-
   http://books.google.com/books/content?id=BEp4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 Genre: Business & Economics
 Stored: Kindle
-ReadingStatus: Read
+ReadingStatus: Done
 ASIN: B09TGMK8G6
 excalidraw-plugin: ''
 excalidraw-autoexport: png
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 199
 Reread: 0
 Rate: 2
@@ -36,6 +36,9 @@ StartDate: 2025-10-18T00:00:00.000Z
 FinishDate: 2025-10-24T00:00:00.000Z
 Image: ''
 aliases: ''
+Topic:
+  - '[[Communication (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -44,23 +47,19 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: Communication (Map)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **In a world of noise, brevity is key** - Volume of communication has never been higher, so people tend to skim most of the content they receive. In such a "harsh" environment for communication, you need to rise above the noise. Writing short, clear messages that immediately get to the point is the way to go. Less is more.
 2. **adjusting your writing to their preference** - To communicate, you need the other to listen. Adjusting your writing style and length to how they want to consume information is vital. Put your ego and preconceived notions aside, focus on them.
 3. **who's your audience** - In terms of jargon, inclusivity, and tone, the more we match our message to our audience, the more likely it is to be received at all, and especially internalized.
 4. **get to the point** - Don't give excuses, to start with a backstory. Get to the point, then once they are hooked, explain your reasons why.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 You will be a better communicator, one whose messages are read instead of ignored, that can get their message across much more efficiently with much fewer words.
 
-### ✅Act
+### Act
 📋*What should I do to achieve the goals set out by this book?*
 1. **Authority** - be the expert, or find one
 2. **Brevity** - stay short, not shallow
@@ -73,7 +72,7 @@ You will be a better communicator, one whose messages are read instead of ignore
 9. **Audience** - shape your message accordingly. What type of language/style would help your message come across better.
 10. **Concise** - remove non essentials, use as few words as possible.
 
-### 🔍Critique
+### Critique
 
 🧩 *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -83,32 +82,32 @@ There's something inhuman as to how the want us to communicate, even when they i
 🧱 *Implementations and limitations of it are...*
 While brevity is something to be aspired in all forms of writings, their structure is very rigid, and I wouldn't want my newsletter to look like this, and not the books I'm reading as well. Perhaps it's limited to communicating as a worker.
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The entire book is in their "smart brevity" method. I get why they did that, but a method that might work for short essays seems weird and slightly annoying in book format. It seems forced.
 
 Even when it's so short, it's highly repetitive, shallow, and not interesting.
 
-### 🖼️Outline
+### Outline
 
-## 📒 Notes
+## Notes
 
 ### Introduction - The Fog of Words
 
-The combination of our tendency to be Distracted, along with the rise of the internet and the Attention Economy, has resulted in a bombardment of messages that we simply can't keep up with anymore.
+The combination of our tendency to be [Distracted](/notes/distractions-pull-us-towards-them-as-a-temptation.md), along with the rise of the internet and the [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md), has resulted in a bombardment of messages that we simply can't keep up with anymore.
 
-The techniques of *smart brevity* will allow your message to rise above the Noise, to be heared and understood.
+The techniques of *smart brevity* will allow your message to rise above the [Noise obscures truth with external interference and confusion](/notes/noise-obscures-truth-with-external-interference-and-confusion.md), to be heared and understood.
 
 ### What is Smart Brevity
 
 #### Short, not Shallow
 
-Since people's attention is limited, we need to reformat how we communicate to match their preferences and limitations, which means less is more.
+Since people's [attention](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md) is limited, we need to reformat how we communicate to match their preferences and limitations, which means [less is more](/notes/improvement-often-comes-from-removing-rather-than-adding.md).
 
 Fewer words, getting to the point, and easy to digest structure is key.
 
-People are looking for Novelty and "why it matters", so let's give them that.
+People are looking for [Novelty](/notes/distraction-by-novelty-undermines-commitment-and-depth.md) and "why it matters", so let's give them that.
 
 :::note[What Is Smart Brevity?]
 
@@ -130,7 +129,7 @@ The smart brevity structure:
 3. **"Why it matters"** - What is the context of your message, why does it matter to the reader
 4. **Choice of "going deeper"** - Allow the reader the option of reading more if they want
 
-elevator pitch (what if, such that, for example, there's more)
+[elevator pitch](/notes/elevator-pitch.md) (what if, such that, for example, there's more)
 
 #### The Road to Smart Brevity
 
@@ -138,9 +137,9 @@ With the rise of the internet they were finally able to measure the reading patt
 
 #### Audience First
 
-You have to match the content to your audience, this will help you tailor the message to their style, and also help you narrow down unnecessary noise. The "audience" doesn't want you to overload them with words, they want the message short and simple. Give it to them straight, they will also remember more of it.
+You have to match the content to your [audience](/notes/audience.md), this will help you tailor the message to their style, and also help you narrow down unnecessary noise. The "audience" doesn't want you to overload them with words, they want the message short and simple. Give it to them straight, they will also remember more of it.
 
-Just say what you mean, sincerely and short. Don't say excuses, don't hide or try to sugar coat it. When we're insecure we tend to babble. People appreciate Honesty and smell bullshit or fake smiles from a long way Authenticity
+Just say what you mean, sincerely and short. Don't say excuses, don't hide or try to sugar coat it. When we're insecure we tend to babble. People appreciate [Speaking truth about yourself and others enables authentic action](/notes/speaking-truth-about-yourself-and-others-enables-authentic-action.md) and smell bullshit or fake smiles from a long way [Acting in alignment with your values is authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.md)
 
 Tips:
 1. Focus on one person you're targeting
@@ -189,7 +188,7 @@ Bold or highlight important words. Use strong, active, simple, decisive words. B
 
 #### Emojis
 
-Emojis are useful as they convey a message much faster, while also being more engaging visual representations
+Emojis are useful as they convey a message much faster, while also being more engaging [visual representations](/notes/visual-representations.md)
 
 ### Smart Brevity in Action
 

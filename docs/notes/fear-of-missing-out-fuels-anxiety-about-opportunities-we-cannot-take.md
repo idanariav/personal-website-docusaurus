@@ -1,13 +1,13 @@
 ---
 UUID: 20241030070729
 Created: '2024-10-30 07:07'
-Modified: '2026-04-08 14:09'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Fear of missing out fuels anxiety about opportunities we cannot take.png]]'
 ImageText: A gray box surrounded by colorful boxes
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - FOMO
   - Fear of missing out
 new_schema: true
+Topic:
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,8 +53,3 @@ Another way is to consider the [Every choice costs the alternatives you gave up]
 ## Visual
 
 ![Fear of missing out fuels anxiety about opportunities we cannot take](/notes/fear-of-missing-out-fuels-anxiety-about-opportunities-we-cannot-take.webp)
-## Overview
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-↩️Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20240217085548
 Created: '2024-02-17 08:55'
-Modified: '2026-04-09 08:47'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Working Memory
 Description: >-
@@ -15,6 +15,11 @@ Description: >-
   by capacity and efficiency, affecting focus and retention of data for
   short-term tasks.
 new_schema: true
+Topic:
+  - '[[Human Brain]]'
+  - '[[Working Memory and Cognitive Limits]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,10 +60,3 @@ For example, remembering a random set of numbers is hard, but if we give meaning
 ## Visual
 
 ![Working Memory](/notes/working-memory.webp)
-
-## Overview
-🔼Topic:: [Human Brain](/notes/human-brain.md)
-🔼Topic:: [Working Memory and Cognitive Limits](/notes/working-memory-and-cognitive-limits.md)
-↩️Origin::
-🔗Link::
-

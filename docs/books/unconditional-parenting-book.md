@@ -1,7 +1,7 @@
 ---
 UUID: 20241230232036
 Created: '2024-12-30 23:20'
-Modified: '2026-03-23 19:30'
+Modified: '2026-04-13 06:21'
 tags: []
 FullTitle: >-
   Unconditional Parenting - Moving from Rewards and Punishments to Love and
@@ -29,7 +29,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 274
 Reread: 0
 Rate: 3
@@ -38,6 +38,9 @@ StartDate: 2025-09-17T00:00:00.000Z
 FinishDate: 2025-10-08T00:00:00.000Z
 Image: ''
 aliases: []
+Topic:
+  - '[[Education (Map)|Parenting (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,11 +49,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Parenting (Map)](/mocs/education-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Parenting can't be transactional** - When we condition our love based on their behavior, we turn the relationship into a transactional one. Only if they "help" you, you will "help" them. This is a source of abandonment and insecurity issues.
 2. **Rewards and punishments are harmful** - They are counterproductive in the long run. It fixates them on the reward instead of the behavior or the motives behind it, while the "effectiveness" of the punishment decreases over time and creates reactances.
@@ -59,13 +58,13 @@ SiteProcssed: true
 5. **Maintain a calm and compassionate perspective** - How we react in the moment determines our parenting style. We need to be guided by respect, authenticity and curiosity. To be mindful of our choices, to seek to empower them yet accept and be patient with them when they "misbehave"
 6. **Be a role model** - Actions speak louder than words. We need to model the behavior we want them to embrace, such as doing acts of kindness to improve their emphatic tendencies.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 1. You will have a more calm life as a parent
 2. Your parenting still would support instead of harm your child's growth
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **Conditional vs unconditional parenting** - conditional means that our love and affection depends on the child's actions, specifically bad behavior and/or achievements. Unconditional means that we love them the same amount no matter what.
@@ -75,7 +74,7 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 Something about his writing makes it hard for me to connect with it. It seems longer than it is, scattered, unappealing. Even though the content is good.
@@ -84,11 +83,11 @@ You can tell that this book was amongst the first that talked about validating p
 
 The last few chapters are repetitive and feels "pasted" compare to the rest of the book.
 
-### 🖼️Outline
+### Outline
 
 ![Unconditional Parenting (book)](/Unconditional Parenting (book))
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 

@@ -1,51 +1,63 @@
 ---
 UUID: 20230823165912
 Created: '2023-08-23 16:59'
-Modified: '2024-10-03 05:52'
+Modified: '2026-04-13 06:16'
 tags: []
+FullTitle: Outsmart Your Brain - Why Learning is Hard and How You Can Make It Easy
+Description: >-
+  It argues that learning requires challenging oneself and being aware of the
+  study process. Memory serves as cues for thoughts, and effective habits are
+  crucial for success. Additionally, seeking support from others enhances the
+  learning experience and provides valuable perspectives.
 Author:
   - '[[Daniel T. Willingham]]'
+URL: 'https://www.goodreads.com/book/show/59366180-outsmart-your-brain'
+Cover: >-
+  http://books.google.com/books/content?id=XFGkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Health & Fitness
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B09JPJVSBK
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 336
+Reread: 0
 Rate: 3
 PublishDate: 2023-01-24T00:00:00.000Z
+StartDate: 2023-08-01T00:00:00.000Z
 FinishDate: 2023-08-23T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=XFGkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/59366180-outsmart-your-brain'
+Image: null
 aliases: null
+Topic:
+  - '[[Learning (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Outsmart Your Brain (book)
 
-## 🔗Connect
-🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Learning is challenging ourselves** - our brain always searches for the simplest solution, but learning is hard, and it needs to be hard in order to sink in.
 2. **Learn with awareness** - prepare in advance, know what you are going to study, how you will study, and how you will learn from your mistakes to improve later on. Don't just try harder, try better.
 3. **Memory are cues for thoughts** - memory in general and notes specifically are meant to be a cue that will trigger the original thought we had at that time. That means that when we take notes, we need to remember which cues triggered the thought in the first place, and how to "tag" the thought such that it will resurface with the same cue.
 4. **Habits are key** - learning habits, and physical/mental health habits are essential for success and wellbeing
 5. **You are not alone** - Other people are valuable resource that you can use to improve your learning process. Teachers, other students, parents, all those can give you new perspectives, better understanding, and support.
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. **Confidence** - confidence is built through successes and the right perspective. Both can be achieved through better learning practices
@@ -57,23 +69,23 @@ SiteProcssed: true
 🧱 *Implementations and limitations of it are...*
 1. **college learning** - This book is targeted to students, perhaps undergraduates, and it is not always easy to convert the recommendations to a lifelong learner.
 2. **Practice driven** - if you were looking for a deep analysis on learning, you won't find it here, it is mainly a collection of tips, a manual for learners, with a 1-2 pages introduction to each chapter.
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 1. **summaries** - I really liked the "in a sentence" at the end of each tip, it helped highlighting and understanding the message
 2. **Repetitiveness** - some of the content is repetitive just with a slight change in how it is presented to match the topic of the chapter, for example sleep was recommended many times.
 
-### 🖼️Outline
+### Outline
 
-![Outsmart your brain (book).webp](/books/outsmart-your-brain-book.webp)
+![Outsmart your brain (book)](/books/outsmart-your-brain-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-Against common beliefs, learning is not a matter of repetition [spaced repetition](/notes/spaced-repetition.md) and not even our desire to learn, after all, we know a lot of things that are "irrelevant/uninteresting", but also we miss things that we encounter daily.
+Against common beliefs, learning is not a matter of repetition [Repeated exposure to information strengthens memory retention](/notes/repeated-exposure-to-information-strengthens-memory-retention.md) and not even our desire to learn, after all, we know a lot of things that are "irrelevant/uninteresting", but also we miss things that we encounter daily.
 
-The main issue is the [learning should be hard](/notes/learning-should-be-hard.md), **while our brain will push us towards easy exercises to get satisfaction from false success, we must choose the harder exercise that will bring the larger benefit in the long run,** even if right now we are frustrated and feel like we're not progressing
+The main issue is the [Learning should be hard](/notes/learning-should-be-hard.md), **while our brain will push us towards easy exercises to get satisfaction from false success, we must choose the harder exercise that will bring the larger benefit in the long run,** even if right now we are frustrated and feel like we're not progressing
 
 :::note[Quote]
 
@@ -89,7 +101,7 @@ The main issue is the [learning should be hard](/notes/learning-should-be-hard.m
 
 ### Chapter 1 - how to Understand a Lecture
 
-**People try to convey maximum meaning in the easiest way possible**. That's why we more often communicate in an abbreviate way, assuming that others are able to connect the dots. [We can't read minds](/notes/theory-of-mind.md).
+**People try to convey maximum meaning in the easiest way possible**. That's why we more often communicate in an abbreviate way, assuming that others are able to connect the dots. [We can't read minds](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md).
 
 Like saying "I called dominos an hour ago, where's my phone?"
 These sentences assume that:
@@ -98,19 +110,19 @@ These sentences assume that:
 3. that an hour is too long to wait
 4. that calling them is our way of solving the problem
 
-More has been unsaid than said. The meaning is based on [context](/notes/context.md).
+More has been unsaid than said. The meaning is based on [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md).
 
 There are two types of understanding:
 1. Vocabulary
 2. connections
 
-Usually, misunderstandings of the first type are much more noticeable, we are aware that we don't recognize a word. But in the second type, **errors are happening when we assume connections that are different from what the instructor meant, or miss connections all together**. [Subjective Reality](/notes/subjective-reality.md)
+Usually, misunderstandings of the first type are much more noticeable, we are aware that we don't recognize a word. But in the second type, **errors are happening when we assume connections that are different from what the instructor meant, or miss connections all together**. [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md)
 
 Tips:
-1. **Structure** - analyze what you hear based on the overall structure of the lecture. What is the main theme/questions, and which supporting claims were made? [Systematical Thinking](/notes/systematical-thinking.md)
-2. **Active listening** - don't treat the lecture as a movie. Always pay attention and relate what you hear the what you know, and to the main question of the lecture. [Active Listening](/notes/active-listening.md)
-3. **Take notes** - by writing your thoughts in your own words, you are much more likely to remember and understand the material. [Distillment](/notes/distillment.md)
-4. **Ask good questions** - seek to understand, especially clarification questions are never wrong to ask. [Proactiveness](/notes/proactiveness.md)
+1. **Structure** - analyze what you hear based on the overall structure of the lecture. What is the main theme/questions, and which supporting claims were made? [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md)
+2. **Active listening** - don't treat the lecture as a movie. Always pay attention and relate what you hear the what you know, and to the main question of the lecture. [Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.md)
+3. **Take notes** - by writing your thoughts in your own words, you are much more likely to remember and understand the material. [Distilling separates essence from noise to simplify understanding](/notes/distilling-separates-essence-from-noise-to-simplify-understanding.md)
+4. **Ask good questions** - seek to understand, especially clarification questions are never wrong to ask. [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md)
 
 :::note[Quote]
 
@@ -126,11 +138,11 @@ Tips:
 
 ### Chapter 2 - how to Take Notes
 
-Since [Multitasking doesnt exist](/notes/multitasking-doesnt-exist.md), writing notes during a lecture between understanding and recording.
+Since [Multitasking is sequential task switching with cognitive switching costs](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md), writing notes during a lecture between understanding and recording.
 1. **On fact-heavy presentations, prefer speed on understanding and write more**, but never word by word, digest it first, write in your own words.
 2. **On complicated lectures, first listen and understand**, then write a short summary of what you understood.
 3. **Think about future you** - what would help you understand better when you have forgotten the topic
-4. **Use abbreviations** - both for words and for hints, like comments, differentiation between your words and the speakers, rebuttal, etc [Mental Shortcuts](/notes/mental-shortcuts.md)
+4. **Use abbreviations** - both for words and for hints, like comments, differentiation between your words and the speakers, rebuttal, etc [Mental shortcuts enable faster learning through analogies and simplification](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md)
 5. **Review** - go over your notes at the end of class, see if something needs adjustments, adding content, etc
 
 :::note[Quote]
@@ -153,7 +165,7 @@ Activities can have one of three possible goals:
 
 Knowing the goal in advance is key to learn more from the activity, because
 Of two aspects:
-1. **Focus** - we remember what we focus on, and different goals mean different aspects of the activity that we should focus on. [Focus](/notes/focus.md)
+1. **Focus** - we remember what we focus on, and different goals mean different aspects of the activity that we should focus on. [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md)
 2. **Mental tagging** - when we create memories, we "tag" them based on the context in which the thought arise. Knowing what we are expected to get out of the lecture will help us make better notes and mental images that will resurface in the right time
 
 :::note[Quote]
@@ -216,7 +228,7 @@ Only by being prepared and by being active while reading we have a chance of und
 ### Chapter 7 - how to Know when You're Ready
 
 Don't confuse between understanding the material and thinking you can recall it during the test.
-**The best way to know you're ready is to have successful simulations**. I.e test yourself similar to how you will be tested. [Simulations](/notes/simulations.md)
+**The best way to know you're ready is to have successful simulations**. I.e test yourself similar to how you will be tested. [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md)
 Remember that you can be questioned on anything, so don't just use past tests as an example, since they contain but a fraction of the entire course material.
 
 :::note[Quote]
@@ -272,12 +284,12 @@ In addition, have a study plan, which will take into account all your expected t
 
 ### Chapter 11 - how to Avoid Procrastination
 
-We procrastinate the most when we relay on our willpower [willpower is limited](/notes/willpower-is-limited.md). When we make our study session a habit, it will be easier to start it in the first place.
+We procrastinate the most when we relay on our willpower [Willpower is Limited](/notes/willpower-is-limited.md). When we make our study session a habit, it will be easier to start it in the first place.
 Other methods to keep us from procrastination are:
-1. **Small steps** - [start small](/notes/start-small.md). Don't try to finish all at once, think about the smallest step that you can do right now to help you advance. This is combined with the [5 minute rule](/notes/5-minute-rule.md)
-2. **Clarity** - the more you define your tasks, especially breaking it down to specific, tangible tasks, the easier it will be. [Clarity](/notes/clarity.md)
-3. **Accountability** - have others support you, whether by giving you advice, or by holding you accountable to have your study sessions. [Accountability](/notes/accountability.md).
-4. **Rewards** - [temptation bundling](/notes/temptation-bundling.md). Have a reward for finishing your task. Make it enticing to do it.
+1. **Small steps** - [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md). Don't try to finish all at once, think about the smallest step that you can do right now to help you advance. This is combined with the [5 minute rule](/notes/5-minute-rule.md)
+2. **Clarity** - the more you define your tasks, especially breaking it down to specific, tangible tasks, the easier it will be. [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md)
+3. **Accountability** - have others support you, whether by giving you advice, or by holding you accountable to have your study sessions. [You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md).
+4. **Rewards** - [Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.md). Have a reward for finishing your task. Make it enticing to do it.
 
 :::note[Quote]
 
@@ -290,11 +302,11 @@ Other methods to keep us from procrastination are:
 
 ### Chapter 12 - how to Keep Focus
 
-1. **Plan your environment** - control the cues in your environment. Go and study in a quiet place. [Nudge](/notes/nudge.md)
-2. **Friction** - Make distractions harder to follow. [Friction](/notes/friction.md)
-3. **Distancing** - ask yourself in 3rd person what should you do now? [Cognitive Distancing](/notes/cognitive-distancing.md)
+1. **Plan your environment** - control the cues in your environment. Go and study in a quiet place. [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
+2. **Friction** - Make distractions harder to follow. [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md)
+3. **Distancing** - ask yourself in 3rd person what should you do now? [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md)
 4. **multitasking is a myth** - doing two things at once will rob you of your focus for both
-5. **take breaks** - things like pomodoro can help you maintain focus during the work. Have scheduled breaks, fill up your mental and emotional reserves. [Rest](/notes/rest.md)
+5. **take breaks** - things like pomodoro can help you maintain focus during the work. Have scheduled breaks, fill up your mental and emotional reserves. [Rest enables recovery and sustained performance](/notes/rest-enables-recovery-and-sustained-performance.md)
 
 :::note[Quote]
 
@@ -304,9 +316,9 @@ Other methods to keep us from procrastination are:
 
 ### Chapter 13 - how to Have Self Confidence
 
-1. **Maintain** [growth mindset](/notes/growth-mindset.md)
-2. **Compare yourself to yourself**, not to others. [Perspective](/notes/subjective-reality.md)
-3. **surround yourself with people who value learning** and education [Social Environment](/notes/social-environment.md)
+1. **Maintain** [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)
+2. **Compare yourself to yourself**, not to others. [Perspective](/notes/subjective-perception-filters-how-we-see-external-reality.md)
+3. **surround yourself with people who value learning** and education [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 
 :::note[Quote]
 
@@ -320,7 +332,7 @@ Other methods to keep us from procrastination are:
 
 1. **Acknowledge your feelings**
 2. **Start small
-3. **Convert anxiety to excitement** - (Related[Emotional Aikido](/notes/emotional-aikido.md))
+3. **Convert anxiety to excitement** - (Related[Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md))
 4. **Practice mindfulness**
 5. **Don't give up** - look at your progress, don't catastrophize, instead use cognitive distancing
 

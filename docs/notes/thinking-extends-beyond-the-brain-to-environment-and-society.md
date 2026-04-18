@@ -1,13 +1,13 @@
 ---
 UUID: 20240220081426
 Created: '2024-02-20 08:14'
-Modified: '2026-04-09 09:34'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Thinking extends beyond the brain to environment and society.png]]'
 ImageText: 'A brain, surrounded by a body, a tree, a robot, and a conversation bubble'
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Extended Mind
 new_schema: true
+Topic:
+  - '[[Working Memory and Cognitive Limits]]'
+Origin: '[[The extended mind (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,10 +54,3 @@ We can separate it into:
 ## Visual
 
 ![Thinking extends beyond the brain to environment and society](/notes/thinking-extends-beyond-the-brain-to-environment-and-society.webp)
-
-## Overview
-🔼Topic:: [Working Memory and Cognitive Limits](/notes/working-memory-and-cognitive-limits.md)
-🔼Topic:: [Working Memory and Cognitive Limits](/notes/working-memory-and-cognitive-limits.md)
-↩️Origin:: [The extended mind (book)](/books/the-extended-mind-book.md)
-🔗Link::
-

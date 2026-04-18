@@ -1,19 +1,23 @@
 ---
 UUID: 20231211084454
 Created: '2023-12-11 08:44'
-Modified: '2024-12-14 09:46'
+Modified: '2026-04-13 06:12'
 tags: []
 Author:
   - '[[Ed Catmull]]'
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 368
 Rate: 4
 PublishDate: 2014-04-08T00:00:00.000Z
@@ -22,19 +26,31 @@ Cover: >-
   http://books.google.com/books/content?id=HM5UAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/18077903-creativity-inc'
 aliases: []
+Description: >-
+  It argues for prioritizing people by investing in their growth and fostering
+  trust through authenticity and transparency. Emphasizing non-micromanagement,
+  it advocates for proactive problem-solving and the importance of feedback
+  circles, highlighting that creativity is an iterative process requiring
+  multiple revisions.
+FullTitle: >-
+  Creativity, Inc. - Overcoming the Unseen Forces That Stand in the Way of True
+  Inspiration
+StartDate: 2023-11-28T00:00:00.000Z
+ASIN: 812993012
+Reread: 0
+Topic:
+  - '[[Creativity (Map)]]'
+  - '[[Team Management (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Creativity Inc (book)
 
-## 🔗Connect
-🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
-🔼Topic:: [Team Management (Map)](/mocs/team-management-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Put people first** - invest in their development and fulfilling their potential. When you give your employees a stake in the company and in the decision making, they will become the best they can be.
 2. **Build trust** - authenticity, transparency, and setting an example are key to build trust within and across hierarchy.
@@ -42,11 +58,24 @@ SiteProcssed: true
 4. **Feedback circles** - honest yet compassionate feedback, share and explore world views and perspectives with a group of peers, with no hierarchy, just the shared vision of creating something beautiful together.
 6. **Proactivity is key** - don't wait for problems to happen, look for them. Either intentionally or by chance, you might miss them if you trust that problems would resurface.
 7. **Creativity is a process** - nothing is perfect from the start, and not even good. It takes many iterations to distill a good idea.
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Assume competence** - treat every worker as creative and motivated; give them responsibility and permission to act without asking for approval.
+2. **Loosen controls** - reduce micromanagement and clear obstacles so teams can explore, take risks, and set plans into motion.
+3. **Hold inclusive discussions** - run meetings that remove hierarchy (no single final authority) so ideas flow up, down and across teams.
+4. **Create small peer feedback teams** - form small, authority-free groups (Braintrust style) that give candid, problem-focused notes and practice active listening.
+5. **Share failures openly** - model transparent discussion of mistakes, encourage others to report problems, and treat failures as learning investments.
+6. **Run frequent dailies** - schedule regular sessions for sharing incomplete work, soliciting suggestions, and removing embarrassment around rough drafts.
+7. **Experiment early and multitrack** - test multiple ideas in short, low-cost experiments early in projects to “fail fast” and reduce attachment.
+8. **Protect new ideas** - allocate time and resources to nurture early-stage projects (the “ugly baby”) while balancing delivery pressures (the “hungry beast”).
+9. **Conduct postmortems with balance** - after projects, have teams list top five things to do again and top five to avoid, using data as one input among many.
+10. **Run Notes Day and allow personal project time** - hold an open annual Notes Day for cross-role improvement proposals with volunteer champions, and permit two days/month for personal exploration.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 If done correctly, perhaps you will have the chance of managing people without crushing their innate creativity and will to contribute, and if you're a good manager, you might even succeed at helping them fulfill their potential.
@@ -55,23 +84,23 @@ If done correctly, perhaps you will have the chance of managing people without c
 
 🧱 *Implementations and limitations of it are...*
 What if you are a small manager facing pressures and limitations from upper management? How could you implement the tips from this book?
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The stories within the book are captivating, even though some of them are highly technical and aren't really related to the story of creativity, but rather the specific context of pixar at the time.
 Since this is a "story first" kind of book, the structure of it is a bit messy, like trying to catch two birds with one stone. The "lessons" are distributed between the chapters and are hidden within the stories, only to be later displayed in a future chapter that feels unconnected to the rest of the book.
 
-### 🖼️Outline
+### Outline
 
-![Creativity Inc (book).webp](/books/creativity-inc-book.webp)
+![Creativity Inc (book)](/books/creativity-inc-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Intro
 
 managers should assume that:
-1. Workers are creative, motivated, and care about non-monitary aspects. They want to contribute [humans are good as default](/notes/humans-are-good-as-default.md)
-2. Managing can hurt creativity
+1. Workers are creative, motivated, and care about non-monitary aspects. They want to contribute [Humans are good as default](/notes/humans-are-good-as-default.md)
+2. Managing can hurt creativity [Oversight hurts creativity](/notes/oversight-hurts-creativity.md)
 3. Mistakes will be made, and need to explore, analyze and test solutions
 
 :::note[INTRODUCTION: LOST AND FOUND]
@@ -87,10 +116,10 @@ managers should assume that:
 
 #### Chapter 1 - Animated
 
-Three critical aspects of [creativity](/notes/innovation.md):
-1. **No hierarchy** - discussions must be inclusive [Psychological safety](/notes/psychological-safety.md), ideas flowing freely up, down and across teams. Note that the environment can be influential. For example, a long table where the "important" people sit in the middle can silence those who sit on the edge [Environmental design](/notes/nudge.md)
-2. **Trust** - [Micro-Management](/notes/micro-management.md) hurts creativity and motivation. Workers should feel free to advance, explore and set their plan into motion on their own [Ownership](/notes/ownership.md).
-3. **Sharing** - the success of one is the success of all, lessons should flow, each person can and should use the best practices from each other [Cooperation](/notes/cooperation.md)
+Three critical aspects of [creativity](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md):
+1. **No hierarchy** - discussions must be inclusive [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md), ideas flowing freely up, down and across teams. Note that the environment can be influential. For example, a long table where the "important" people sit in the middle can silence those who sit on the edge [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md) [Hierarchy](/notes/hierarchy.md)
+2. **Trust** - [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md) hurts creativity and motivation. Workers should feel free to advance, explore and set their plan into motion on their own [Ownership means taking active responsibility and control of your environment](/notes/ownership-means-taking-active-responsibility-and-control-of-your-environment.md).
+3. **Sharing** - the success of one is the success of all, lessons should flow, each person can and should use the best practices from each other [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md)
 
 :::note[ANIMATED]
 
@@ -102,7 +131,7 @@ Three critical aspects of [creativity](/notes/innovation.md):
 
 #### Chapter 2 - Pixar is Born
 
-being a [Giver](/notes/giving.md) is helpful in unexpected ways, mainly creating connections and reputation [Mingling](/notes/small-talk.md) [Weak Ties](/notes/weak-ties.md).
+being a [Giver](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md) is helpful in unexpected ways, mainly creating connections and reputation [Mingling](/notes/small-talk.md) [Weak social ties bridge different networks and expand access to opportunities](/notes/weak-social-ties-bridge-different-networks-and-expand-access-to-opportunities.md).
 
 :::note[PIXAR IS BORN]
 
@@ -116,7 +145,7 @@ being a [Giver](/notes/giving.md) is helpful in unexpected ways, mainly creating
 
 #### Chapter 3 - Defining Goal
 
-Communication is more than just an "open door" policy, communication should flow beyond hierarchy, **the lowest worker should be able to talk to high management**, make their voice heard and affect the company, this will increase involvement and responsibility [Proactiveness](/notes/proactiveness.md) [Freedom of speech](/notes/freedom-of-speech.md)
+Communication is more than just an "open door" policy, communication should flow beyond hierarchy, **the lowest worker should be able to talk to high management**, make their voice heard and affect the company, this will increase involvement and responsibility [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md) [Freedom of speech enables open deliberation and underpins democratic society](/notes/freedom-of-speech-enables-open-deliberation-and-underpins-democratic-society.md)
 
 :::note[A DEFINING GOAL]
 
@@ -129,7 +158,7 @@ Communication is more than just an "open door" policy, communication should flow
 
 #### Chapter 4 - Pixar's Identity
 
-**investing in people is key to success, more than "the process" or smart ideas**. [People First](/notes/people-first.md). Good, divers teams will produce good ideas. Investing means more than just workers, but as people with a life, hobbies, family, homes. [Trust the Process](/notes/trust-the-process.md)
+**investing in people is key to success, more than "the process" or smart ideas**. [People are the most valuable organizational resource](/notes/people-are-the-most-valuable-organizational-resource.md). Good, divers teams will produce good ideas. Investing means more than just workers, but as people with a life, hobbies, family, homes. [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
 
 :::note[ESTABLISHING PIXAR’S IDENTITY]
 
@@ -146,15 +175,15 @@ Communication is more than just an "open door" policy, communication should flow
 
 #### Chapter 5 - Honesty and Candor
 
-[Trust](/notes/trust.md) and [Honesty](/notes/honesty.md) are crucial for a healthy workplace. To promote honesty, we can create teams with psychological safety to speak up and open up. [peer support](/notes/peer-support.md). Keys for healthy communication:
-1. **Small** - teams should be small. Makes the interaction easier with less tension and social pressure. [Start Small](/notes/start-small.md)
+[Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) and [Speaking truth about yourself and others enables authentic action](/notes/speaking-truth-about-yourself-and-others-enables-authentic-action.md) are crucial for a healthy workplace. To promote honesty, we can create teams with psychological safety to speak up and open up. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md). Keys for healthy communication:
+1. **Small** - teams should be small. Makes the interaction easier with less tension and social pressure. [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md)
 2. **No authority** - no one has "final say", all are considered equal peers
-3. **Feedback** - Focus on perspective and identifying problems, not offering solutions. The problem indicates nothing on the person. [Feedback](/notes/feedback.md)
+3. **Feedback** - Focus on perspective and identifying problems, not offering solutions. The problem indicates nothing on the person. [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md)
 4. **Collaboration** - we work together for a shared goal and authentic desire to help each other. We are guided by constructive feedback, not ego.
 5. **Time** - it takes time to build trust
-6. **Active listening** - People should be actively listening to one another, trying to share their perspective and understand the other side [Active Listening](/notes/active-listening.md)
+6. **Active listening** - People should be actively listening to one another, trying to share their perspective and understand the other side [Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.md)
 
-Sharing ideas with others grants not only access to new skills, but mainly fresh perspective [Clean Slate](/notes/clean-slate.md).
+Sharing ideas with others grants not only access to new skills, but mainly fresh perspective [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md) [Seeking and giving advice both expand our perspective](/notes/seeking-and-giving-advice-both-expand-our-perspective.md).
 
 :::note[HONESTY AND CANDOR]
 
@@ -181,15 +210,15 @@ Sharing ideas with others grants not only access to new skills, but mainly fresh
 
 #### Chapter 6 - Fear and Failure
 
-**Failure is an investment**, an opportunity to learn and improve. [Failure](/notes/failure.md), **but it is also (and always) painful**. The worst thing you can do is to try and avoid it. When avoiding failures, you avoid risk, avoid trying new things, which is a recipe for decay. [Risk Management](/notes/risk-management.md) [Experimentation](/notes/testing.md) To be more open for failure and to reduce the pain of it:
+**Failure is an investment**, an opportunity to learn and improve. [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md), **but it is also (and always) painful**. The worst thing you can do is to try and avoid it. When avoiding failures, you avoid risk, avoid trying new things, which is a recipe for decay. [We prefer avoiding losses over gaining equivalent value](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md) [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md) To be more open for failure and to reduce the pain of it:
 1. **Share** - Talk openly about your failures in a safe space
-2. **set an example** - be a role model for processing failure in a healthy way. [Role Models](/notes/role-models.md)
-3. **Cultivate trust** - it takes time, [Authenticity](/notes/authenticity.md) and [Consistency](/notes/consistency.md) to create a feeling of trust, where its okay to fail, to develop a growth mindset. [Trust](/notes/trust.md)
-4. **Transparency** - sharing problems, fears, doubts and failures with your team you make them part of the company, increasing ownership and comradery. [Transparency](/notes/transparency.md)
+2. **set an example** - be a role model for processing failure in a healthy way. [Role models embody behaviors and values we aspire to adopt](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md)
+3. **Cultivate trust** - it takes time, [Acting in alignment with your values is authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.md) and [Consistency compounds results through reliable repeated action](/notes/consistency-compounds-results-through-reliable-repeated-action.md) to create a feeling of trust, where its okay to fail, to develop a growth mindset. [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md)
+4. **Transparency** - sharing problems, fears, doubts and failures with your team you make them part of the company, increasing ownership and comradery. [Transparency requires actively revealing truth to others](/notes/transparency-requires-actively-revealing-truth-to-others.md)
 
-Like scientific experiments, every result, even "failed ones" are useful for progress, they indicate where you *do* need to go. Experimentation beats overplanning because failure is inevitable, so its better to "fail fast". [Obstacles as stepping stones](/notes/creative-destruction.md)
+Like scientific experiments, every result, even "failed ones" are useful for progress, they indicate where you *do* need to go. Experimentation beats overplanning because failure is inevitable, so its better to "fail fast". [Obstacles as stepping stones](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
 
-Risk should be taken when the cost is low, i.e at the beginning of a project rather at the end, when it's more difficult and pricy. To reduce [Attachment](/notes/attachment.md), and increase the chances for a clean slate, you can use [Multitrack](/notes/multitrack.md) in your favor, working on multiple ideas simultaneously.
+Risk should be taken when the cost is low, i.e at the beginning of a project rather at the end, when it's more difficult and pricy. [Front-load risk before costs compound](/notes/front-load-risk-before-costs-compound.md) To reduce [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md), and increase the chances for a clean slate, you can use [Generating multiple alternatives simultaneously improves outcomes](/notes/generating-multiple-alternatives-simultaneously-improves-outcomes.md) in your favor, working on multiple ideas simultaneously.
 
 :::note[FEAR AND FAILURE]
 
@@ -217,9 +246,9 @@ Risk should be taken when the cost is low, i.e at the beginning of a project rat
 
 In each creative process you have two forces:
 1. **The beast** - the need to deliver finalized products, to make investments worthwhile, to bring efficiency into creativity, to know when to stop developing and investing because its beyond repair
-2. **The baby** - new creations are always bad at first [First Batch Trash](/notes/first-batch-trash.md), they need time, attention, resources to become valuable, self sustaining.
+2. **The baby** - new creations are always bad at first [First attempts are inherently lower quality than iterations](/notes/first-attempts-are-inherently-lower-quality-than-iterations.md), they need time, attention, resources to become valuable, self sustaining.
 
-When either side "wins", companies collapse, either because they no longer innovate (beast wins), or because they don't know [When to Quit](/notes/when-to-quit.md), [Perfectionism](/notes/perfectionism.md) and attachment takes over ("baby" wins). Therefore you must balance the two, which is tricky, and there' no "clear way" of doing it [Balance Extremes](/notes/balance-extremes.md)
+When either side "wins", companies collapse, either because they no longer innovate (beast wins), or because they don't know [Knowing when to stop prevents wasted persistence on misaligned goals](/notes/knowing-when-to-stop-prevents-wasted-persistence-on-misaligned-goals.md), [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md) and attachment takes over ("baby" wins). Therefore you must balance the two, which is tricky, and there' no "clear way" of doing it [Optimal outcomes emerge from balance between extremes not absolutes](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md)
 
 :::note[THE HUNGRY BEAST AND THE UGLY BABY]
 
@@ -234,15 +263,15 @@ When either side "wins", companies collapse, either because they no longer innov
 #### Chapter 8 - Change and Randomness
 
 We fear change because of:
-1. **Uncertainty** - whether the change will be good or not, how the new life would look like. Uncertainty is one of the deepest fears [sense seeking creatures](/notes/sense-seeking-creatures.md) [Uncertainty](/notes/uncertainty.md).
-2. **Blindness** - the "familiar" becomes so entrenched that we are blind to its flaws, so we are unaware of what needs change, and therefore we lack the motivation to do so [Familiarity bias](/notes/familiarity-bias.md)
+1. **Uncertainty** - whether the change will be good or not, how the new life would look like. Uncertainty is one of the deepest fears [Humans compulsively seek patterns and meaning even in chaos](/notes/humans-compulsively-seek-patterns-and-meaning-even-in-chaos.md) [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md).
+2. **Blindness** - the "familiar" becomes so entrenched that we are blind to its flaws, so we are unaware of what needs change, and therefore we lack the motivation to do so [We prefer what is familiar over what is better](/notes/we-prefer-what-is-familiar-over-what-is-better.md)
 Change is essential for creativity and quality because of first batch trash.
 
-[Randomness](/notes/randomness.md) in it's pure form is unpredictable, and is mixed as "[Noise](/notes/noise.md)" in everyday events in various quantities, and hurts our ability to explain past events, and predict future ones. **While we can retroactively learn from randomness to create more robust systems, we can't avoid it, and the failures it will bring** [Anti-Fragility](/notes/anti-fragility.md) .
+[Randomness](/notes/randomness.md) in it's pure form is unpredictable, and is mixed as "[Noise obscures truth with external interference and confusion](/notes/noise-obscures-truth-with-external-interference-and-confusion.md)" in everyday events in various quantities, and hurts our ability to explain past events, and predict future ones. **While we can retroactively learn from randomness to create more robust systems, we can't avoid it, and the failures it will bring** [Some systems grow stronger through disorder](/notes/some-systems-grow-stronger-through-disorder.md) .
 
-Therefore we shouldn't [Blame](/notes/blame.md) people when such mistakes occur, rather trust them to handle the situation and find a creative solution. Randomness can also be positive, and can attribute much to our success [Luck](/notes/luck.md). Which means we should be [humble](/notes/humility.md) about our contribution to our success, and be aware that what worked in the past might not work again.
+Therefore we shouldn't [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md) people when such mistakes occur, rather trust them to handle the situation and find a creative solution. Randomness can also be positive, and can attribute much to our success [Luck is external randomness affecting outcomes beyond control](/notes/luck-is-external-randomness-affecting-outcomes-beyond-control.md). Which means we should be [humble](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md) about our contribution to our success, and be aware that what worked in the past might not work again.
 
-Change is easier to implement if we frame it as a "what if" when discussing, and as pilots [Framing](/notes/framing.md), When we "try it out". It makes people more open cognitively and emotionally less fearful. [Reverse Thinking](/notes/reverse-thinking.md)
+Change is easier to implement if we frame it as a "what if" when discussing, and as pilots [How we describe something shapes how it is perceived](/notes/how-we-describe-something-shapes-how-it-is-perceived.md), When we "try it out". It makes people more open cognitively and emotionally less fearful. [Flipping assumptions reveals hidden possibilities and better solutions](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md)
 
 :::note[CHANGE AND RANDOMNESS]
 
@@ -266,11 +295,11 @@ Change is easier to implement if we frame it as a "what if" when discussing, and
 
 #### Chapter 9 - Hidden
 
-We always have unknown unknowns, even if we have perfect knowledge in every human field, because the main unknown is humans. **especially for managers, people would act, convey knowledge differently around you**, and would avoid contacting you in critical situations out of fear or respect. All these can cause you to believe you know and see everything even when you're far from the truth.
+We always have unknown unknowns, even if we have perfect knowledge in every human field, because the main unknown is humans. **especially for managers, people would act, convey knowledge differently around you**, and would avoid contacting you in critical situations out of fear or respect. All these can cause you to believe you know and see everything even when you're far from the truth. [Hierarchy creates fear based informational blindspots](/notes/hierarchy-creates-fear-based-informational-blindspots.md)
 
-More than that, we are all blind to others' perspective and experience. [Theory of Mind](/notes/theory-of-mind.md). We see with our "mind", not our eyes, meaning that our brain "fills the gap" on what we expect to see, not what we actually see (and don't see). Even on hindsight, we are blind, seeing only our [Subjective Reality](/notes/subjective-reality.md), and we are blind to our own blindness. For example: [Conformation Bias](/notes/conformation-bias.md).
+More than that, we are all blind to others' perspective and experience. [Understanding others requires attributing mental states like beliefs and intentions to them](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md). We see with our "mind", not our eyes, meaning that our brain "fills the gap" on what we expect to see, not what we actually see (and don't see). Even on hindsight, we are blind, seeing only our [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md), and we are blind to our own blindness. For example: [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md).
 
-Miscommunication, misunderstanding, biases and ignorance can result from these mental models (aka mental glasses). **Honesty, exploration and [introspection](/notes/introspection.md) are mechanisms against it**
+Miscommunication, misunderstanding, biases and ignorance can result from these mental models (aka mental glasses). **Honesty, exploration and [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md) are mechanisms against it**
 
 :::note[THE HIDDEN]
 
@@ -299,13 +328,13 @@ Miscommunication, misunderstanding, biases and ignorance can result from these m
 
 To solve the difficulties that can arise from the existence of, and conflicting mental glasses, which are magnified as an organization grows, we use these techniques:
 1. **Dailies** - sessions where the explicit/declared goal is to share incomplete work, be open for suggestions, and putting ego at the door, so we could solve problems together and share viewpoints
-2. **Research trips** - go and explore new topics, physically if possible, gain [experience knowledge](/notes/experience-knowledge.md), interview people who "live" this field, shadow them. To enrich your ability to create detailed, authentic, new creations. [creativity](/notes/ideation.md) isn't just a mixture of the familiar, you have to add something new.
-3. **limits** - [Limits](/notes/limits.md), if done right, can be seen as challenges and opportunities to explore new options, like achievements in video games [Gamification](/notes/gamification.md), with the added benefit of the limit itself, which is usually to set resource or time constraints.
-4. **Mixing tech and art** - explore new tech that can expand your [creativity](/notes/remixing.md)
-5. **Short experimentation** - do small simulations to explore more deeply certain skills in a low-risk, low cost environment [Simulations](/notes/simulations.md) [Pivot](/notes/pivot.md) [Chunking](/notes/chunking.md)
-6. **Learning to see** - when faced with a problem, we need to learn to switch between the problems specific context, and it's archetype, so we could solve not only this problem, but others that stem from the same root [Ripple effect](/notes/ripple-effect.md).
-7. **postmortem** - useful for collecting and passing along lessons, solving communication issues. It forces self reflection, and prepare for the next project. Use data to support it, but don't rely solely on it because you can't measure everything. Be wary of it's structure, because each structure "forces" ways of thinking and answers. A basic frame is what to start/stop/continue doing. [post-mortem](/notes/post-mortem.md)
-8. **Continue learning** - learning sessions are not only useful socially - mingling people from different fields together in a light setting, but also it brings us back to [Beginner's Mind](/notes/beginners-mind.md), where we are open to new ideas, love learning in a non-judgmental way, like children, which is essential for creativity [Lifelong Learning](/notes/lifelong-learning.md)
+2. **Research trips** - go and explore new topics, physically if possible, gain [Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md), interview people who "live" this field, shadow them. To enrich your ability to create detailed, authentic, new creations. [creativity](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md) isn't just a mixture of the familiar, you have to add something new.
+3. **limits** - [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md), if done right, can be seen as challenges and opportunities to explore new options, like achievements in video games [Gamification increases motivation by making activities enjoyable](/notes/gamification-increases-motivation-by-making-activities-enjoyable.md), with the added benefit of the limit itself, which is usually to set resource or time constraints.
+4. **Mixing tech and art** - explore new tech that can expand your [creativity](/notes/creativity-is-combining-existing-ideas-in-new-ways.md)
+5. **Short experimentation** - do small simulations to explore more deeply certain skills in a low-risk, low cost environment [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md) [Test assumptions with small experiments first](/notes/test-assumptions-with-small-experiments-first.md) [Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.md)
+6. **Learning to see** - when faced with a problem, we need to learn to switch between the problems specific context, and it's archetype, so we could solve not only this problem, but others that stem from the same root [Actions spread effects across people and time beyond initial cause](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md).
+7. **postmortem** - useful for collecting and passing along lessons, solving communication issues. It forces self reflection, and prepare for the next project. Use data to support it, but don't rely solely on it because you can't measure everything. Be wary of it's structure, because each structure "forces" ways of thinking and answers. A basic frame is what to start/stop/continue doing. [Analyze both results and methods to improve](/notes/analyze-both-results-and-methods-to-improve.md)
+8. **Continue learning** - learning sessions are not only useful socially - mingling people from different fields together in a light setting, but also it brings us back to [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md), where we are open to new ideas, love learning in a non-judgmental way, like children, which is essential for creativity [Learning must continue constantly throughout life](/notes/learning-must-continue-constantly-throughout-life.md)
 
 :::note[BROADENING OUR VIEW]
 
@@ -336,8 +365,8 @@ To solve the difficulties that can arise from the existence of, and conflicting 
 :::
 
 #### Chapter 11 - The Unmade Future
-**management is like sailing, you don't [control](/notes/acceptance.md) everything**, you will encounter storms, mirages, you don't even see your destination, but you have to confidently set a destination, prepare navigation systems [Systematical Thinking](/notes/systematical-thinking.md) and course correct along the way.
-**Second, a manager needs to listen, and adapt to the situation and to people's views in order to find the best way to align their view to the company's**, to create balance and synthesis [Adaptability](/notes/adaptability.md). Lastly, you need to be [mindful](/notes/intentionality.md), focus on the problem at hand, embrace the pain, not escape it. Know what you do and don't control, and put all other thoughts aside.
+**management is like sailing, you don't [control](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) everything**, you will encounter storms, mirages, you don't even see your destination, but you have to confidently set a destination, prepare navigation systems [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md) and course correct along the way.
+**Second, a manager needs to listen, and adapt to the situation and to people's views in order to find the best way to align their view to the company's**, to create balance and synthesis [Our beliefs must adapt as context and goals change](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md). Lastly, you need to be [mindful](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md), focus on the problem at hand, embrace the pain, not escape it. Know what you do and don't control, and put all other thoughts aside.
 
 :::note[THE UNMADE FUTURE]
 
@@ -359,7 +388,7 @@ To solve the difficulties that can arise from the existence of, and conflicting 
 
 #### Chapter 13 - Notes Day
 Two methods of maintaining excitement in large old organizations are:
-1. **Personal projects** - two days a month a worker can spend his time freely, exploring new ideas that don't directly connect to his team/project
+1. **Personal projects** - two days a month a worker can spend his time freely, exploring new ideas that don't directly connect to his team/project [Unstructured personal exploration time produces unexpected creative breakthroughs](/notes/unstructured-personal-exploration-time-produces-unexpected-creative-breakthroughs.md)
 2. **Notes day** - an open full day of suggestions and debates by employees on how to improve the company. It's important that hierarchy won't interrupt, and that people will be divided by interest, not role. Suggestions will need a volunteer to advocate and work on after Notes day has ended.
 
 :::note[NOTES DAY]

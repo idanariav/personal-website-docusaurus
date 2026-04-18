@@ -1,13 +1,13 @@
 ---
 UUID: 20240101070724
 Created: '2024-01-01 07:07'
-Modified: '2026-04-08 15:22'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Sleep
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   memory, and learning, requiring 7-9 hours nightly for optimal stability and
   growth.
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: '[[The Knowledge Project with Shane Parrish]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -40,7 +44,7 @@ Tips for better sleep:
 2. Don't miss the first half of the night, most of the "brain cleaning" happens there
 3. Stick to the natural cycle of the body. For example, light keeps you awake, so add a lot of light in the morning, but less so at the evening.
 4. Alcohol, coffee have bad influence on sleep
-5. Keep electronics away from you at night, the less sources of [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) the better [Distractions](/notes/distraction.md)
+5. Keep electronics away from you at night, the less sources of [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) the better [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md)
 6. Don't eat too much before going to bed [Nutrition](/notes/nutrition-is-a-foundational-need-that-enables-higher-functioning.md)
 7. Especially for kids and teenagers, the night is crucial for development, so set an example and also go to sleep early
 
@@ -55,9 +59,3 @@ Tips for better sleep:
 ## Visual
 
 ![Sleep](/notes/sleep.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-Origin:: [The Knowledge Project with Shane Parrish](/notes/the-knowledge-project-with-shane-parrish.md)
-Link:: https://share.snipd.com/episode/75a2c874-0189-45d9-a28a-b6f985cb2001
-

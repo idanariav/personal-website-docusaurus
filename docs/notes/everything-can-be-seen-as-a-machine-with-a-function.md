@@ -1,8 +1,8 @@
 ---
 UUID: 20230314192645
 Created: '2023-03-14 19:26'
-Modified: '2026-04-10 14:17'
-Version: 2
+Modified: '2026-04-11 22:20'
+Version: 3
 tags: []
 aliases:
   - Functionalism
@@ -11,6 +11,10 @@ Description: >-
   interconnected "machines" with specific functions aimed at producing outcomes,
   shaped by their interactions and inherent motivations.
 new_schema: true
+Topic:
+  - '[[Political Power and Norms]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -42,9 +46,3 @@ For example a bike has a certain function, but its use is going to vary based on
 
 ### Open questions
 
-
-## Overview
-🔼Topic:: [Political Power and Norms](/notes/political-power-and-norms.md)
-Source:: [Philosophize This!](/notes/philosophize-this.md) 
-Source:: [Gilles Deleuze](/notes/gilles-deleuze.md)
-Link: https://share.snipd.com/episode/82e88bf6-8fce-49a2-bca8-4356da5f2957

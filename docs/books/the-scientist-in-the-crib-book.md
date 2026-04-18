@@ -1,52 +1,65 @@
 ---
 UUID: 20240501122646
 Created: '2024-05-01 12:26'
-Modified: '2024-10-04 07:55'
+Modified: '2026-04-13 06:20'
 tags: []
+FullTitle: The Scientist in the Crib - What Early Learning Tells Us About the Mind
+Description: >-
+  It argues that babies are inherently designed to learn through imitation and
+  social interaction, engaging in a cycle of exploration and exploitation.
+  Initially, they test various connections, but as they grow, they refine their
+  knowledge by strengthening useful connections and discarding the irrelevant
+  ones.
 Author:
   - '[[Alison Gopnik]]'
   - '[[Andrew N. Meltzoff]]'
   - '[[Patricia K. Kuhl]]'
+URL: 'https://www.goodreads.com/book/show/27667.The_Scientist_in_the_Crib'
+Cover: >-
+  http://books.google.com/books/content?id=ui6KAniUJfsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Family & Relationships
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B00134XEU0
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.03
+Version: 2
 Pages: 308
+Reread: 0
 Rate: 3
 PublishDate: 2009-10-13T00:00:00.000Z
+StartDate: 2024-07-09T00:00:00.000Z
 FinishDate: 2024-07-18T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=ui6KAniUJfsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/27667.The_Scientist_in_the_Crib'
+Image: null
 aliases: null
+Topic:
+  - '[[developing capabilities]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Scientist in the Crib
 
-## 🔗Connect
-🔼Topic:: [developing capabilities](/notes/developing-capabilities.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Babies are imitation machines** - babies learn through social interaction and social cues. Using a built-in method of imitation and learning, they are both motivated and capable of learning from the people near them.
 2. **Learning is a boom and bust cycle** - at the first few years, it's all about exploration. They test everything, making new connections and run countless simulations. At later years, it's all about exploitation, old and useless connections are removed and useful connections are strengthened. No wonders babies do everything, while teenagers start to focus on "who they are"
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 1. Spend more time with your child, be present, be communicative, and be a good role model
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. You will understand how babies develop over time, how do they see the world, what are the limits of their knowledge and capabilities with each age/developmental milestone
@@ -56,28 +69,28 @@ SiteProcssed: true
 🧱 *Implementations and limitations of it are...*
 1. This is not a practical book, you have a better understanding of babies but it's more theoretical than practical. It satisfies your curiosity, not help you be a better parent necessarily
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 I love the amount of philosophy mentioned in this book, each theory is referenced to ancient philosophers and known philosophical experiments. This is how science should be, the combination of modern scientific method with a strong foundation on philosophy.
 
 However, most of the book is stuff that's interesting to read at the moment like scientific experiments and discoveries, but very forgettable with time, so there are few take aways from this book.
 
-### 🖼️Outline
+### Outline
 
-![The Scientist in the Crib (book).webp](/books/the-scientist-in-the-crib-book.webp)
+![The Scientist in the Crib (book)](/books/the-scientist-in-the-crib-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Ancient Questions and a Young Science
 
-How do we know what we know? As people, senses were our only method of studying for a long time, and as we know senses can be misleading [subjective reality](/notes/subjective-reality.md). Yet somehow babies are able to translate random sounds and sights into meaningful language and people in their lives.
+How do we know what we know? As people, senses were our only method of studying for a long time, and as we know senses can be misleading [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md). Yet somehow babies are able to translate random sounds and sights into meaningful language and people in their lives.
 
-This debate has a long history, from [Socrates](/notes/socrates-philosopher.md) argument in Meno that people are born with innate knowledge and all that we do is just to uncover it. In contrast with [John Locke](/notes/john-locke-philosopher.md) that said that people are born "tabula rasa", a [clean slate](/notes/clean-slate.md) to which we can imprint whatever we desire. In this debate of [nature vs nurture](/notes/nature-vs-nurture.md), while both have an influence on our behavior, it seems nurture has won. [empiricism](/notes/empiricism.md)
+This debate has a long history, from [Socrates](/notes/socrates-philosopher.md) argument in Meno that people are born with innate knowledge and all that we do is just to uncover it. In contrast with [John Locke](/notes/john-locke-philosopher.md) that said that people are born "tabula rasa", a [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md) to which we can imprint whatever we desire. In this debate of [Nature vs nurture](/notes/nature-vs-nurture.md), while both have an influence on our behavior, it seems nurture has won. [Knowledge comes from empirical testing not innate reason](/notes/knowledge-comes-from-empirical-testing-not-innate-reason.md)
 
-We are born with the genetic ability to learn from others [imitation](/notes/imitation.md), and this learning capabilities is what allows us to surpass hard-coded systems in our brain and adapt to our current environment's specific needs and conditions. We can't program endless situations in our brain, but we can learn quickly to adapt ourselves to each situation [adaptability](/notes/adaptability.md).
+We are born with the genetic ability to learn from others [Imitation internalizes others' behaviors and mental models at varying depths](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md), and this learning capabilities is what allows us to surpass hard-coded systems in our brain and adapt to our current environment's specific needs and conditions. We can't program endless situations in our brain, but we can learn quickly to adapt ourselves to each situation [Our beliefs must adapt as context and goals change](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md).
 
-As a general rule, we can view the infancy period as a prolong time for running [simulations](/notes/simulations.md), there's a lot to learn and a safe environment to do so.
+As a general rule, we can view the infancy period as a prolong time for running [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md), there's a lot to learn and a safe environment to do so.
 
 :::note[Ancient Questions and a Young Science]
 
@@ -90,17 +103,17 @@ As a general rule, we can view the infancy period as a prolong time for running 
 
 ### What Children Learn about People
 
-So far we had problems researching babies due to lack of technology and theory. The main issue with babies since we can't communicate with them is that we don't know what happens in their minds [We can't read minds](/notes/theory-of-mind.md).
+So far we had problems researching babies due to lack of technology and theory. The main issue with babies since we can't communicate with them is that we don't know what happens in their minds [We can't read minds](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md).
 
-However, through research we have discovered that their ability to connect with other people, especially people who they are familiar with like parents, is as innate as it gets [Human is a social being](/notes/human-is-a-social-being.md). Even day old newborns have the ability to [mirror](/notes/mirroring.md) your behavior. They will try to stick out their tongue or open their mouth if you do the same. They will prefer people over animals/objects, and prefer familiar people by sight or smell. They attempt to solve the "other minds" problem by linking themselves to others, they assume that "we are the same", and develop through imitating others [interpersonal identity](/notes/interpersonal-identity.md).
+However, through research we have discovered that their ability to connect with other people, especially people who they are familiar with like parents, is as innate as it gets [Human is a social being](/notes/human-is-a-social-being.md). Even day old newborns have the ability to [mirror](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md) your behavior. They will try to stick out their tongue or open their mouth if you do the same. They will prefer people over animals/objects, and prefer familiar people by sight or smell. They attempt to solve the "other minds" problem by linking themselves to others, they assume that "we are the same", and develop through imitating others [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md).
 
-This means that solving the other mind problem is also key to [Self-awareness](/notes/self-awareness.md), through understanding others we understand ourselves.
+This means that solving the other mind problem is also key to [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md), through understanding others we understand ourselves.
 
 One year old's will start to take social cues from others, for example following where grown ups are pointing, imitating how they interact with objects, adjust their reactions to events based on how grown ups react.
 
 When they reach 1.5 year old, they start to understand that they and others don't share the same preferences. For example, if they have a choice between two snacks, they would offer the snack the other prefers, even if it is not their own favorite.
 
-This realization is deepened around 2 year olds, that can start to feel [empathy](/notes/empathy.md) to others. They not only recognize someone else have a different mental state than they do, they will also share their pain and try to alleviate it.
+This realization is deepened around 2 year olds, that can start to feel [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md) to others. They not only recognize someone else have a different mental state than they do, they will also share their pain and try to alleviate it.
 
 At around age 3, this develops into accepting differences in knowledge and perspective. What you see might not be what I see, what you know might not be what I know and vice versa.
 
@@ -125,11 +138,11 @@ It was found that babies from a very early age already have a sense of distance,
 
 More abstract concepts such as object permanence and causality takes more time to develop, usually around 1.5 year old.
 
-From their first moment, every interaction with an object is a method of [Experimentation](/notes/testing.md). Through what looks like play, the understand the limits, the features and the purpose of each object.
+From their first moment, every interaction with an object is a method of [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md). Through what looks like play, the understand the limits, the features and the purpose of each object.
 
 ### What Children Learn about Language
 
-Language is a work of magic, of deep complex. yet babies are able to do what computers (so far) have failed to do. To translate sound into meaning and ideas. This is even more astonishing considering not only the vast amount of words out there, but also the fact that letters sound different depending on the word, each speaker sounds different, and lastly the co dependence of words on each other and on the culture [Semantics of words](/notes/semantics-of-words.md).
+Language is a work of magic, of deep complex. yet babies are able to do what computers (so far) have failed to do. To translate sound into meaning and ideas. This is even more astonishing considering not only the vast amount of words out there, but also the fact that letters sound different depending on the word, each speaker sounds different, and lastly the co dependence of words on each other and on the culture [Word meaning varies with history and social context](/notes/word-meaning-varies-with-history-and-social-context.md).
 
 Some say this is an innate talent of humans. That we are hardwired to learn language because it is a useful social tool, part of the context of the environment.
 
@@ -148,13 +161,13 @@ When we speak "parentese", i.e a slow, melodic, with high pronunciation of words
 
 ### What Scientists Have Learned about Children's Minds
 
-When we want to understand a computer, it's much more useful to see which program it has, what kind of outputs we get based on the inputs, rather than prying it open and see it's components. What makes human research even more difficult is that babies are much more like scientists than computers. Not only that they have multiple complex programs, they also adjust and rewrite those over time. They change what they know and believe based on what they experience [scientific method](/notes/scientific-method.md). Not only that, but they also enjoy the learning process.
+When we want to understand a computer, it's much more useful to see which program it has, what kind of outputs we get based on the inputs, rather than prying it open and see it's components. What makes human research even more difficult is that babies are much more like scientists than computers. Not only that they have multiple complex programs, they also adjust and rewrite those over time. They change what they know and believe based on what they experience [Empirical testing not reason alone discovers truth](/notes/empirical-testing-not-reason-alone-discovers-truth.md). Not only that, but they also enjoy the learning process.
 
 ### What Scientists Have Learned about Children's Brains
 
-When it comes to brain development, it's all about [Neuroplasticity](/notes/neuroplasticity.md). The brain can and does change over time, new [Connections](/notes/coherentism.md) are made. At the early years it prefers quantity over quality, but around puberty it ruthlessly destroys old, weak connections it doesn't need, thus improving the strength of the existing connections [less is more](/notes/addition-by-subtraction.md).
+When it comes to brain development, it's all about [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md). The brain can and does change over time, new [Connections](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.md) are made. At the early years it prefers quantity over quality, but around puberty it ruthlessly destroys old, weak connections it doesn't need, thus improving the strength of the existing connections [less is more](/notes/improvement-often-comes-from-removing-rather-than-adding.md).
 
-However, it does seem that it's also about [Timing](/notes/contextual-synergy.md). The brain develops more as the person is younger, meaning that some habits and skills are easier to learn.
+However, it does seem that it's also about [Timing](/notes/actions-yield-more-when-timed-to-context.md). The brain develops more as the person is younger, meaning that some habits and skills are easier to learn.
 
 :::note[What Scientists Have Learned About Children’s Brains]
 

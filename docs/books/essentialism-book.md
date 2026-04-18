@@ -1,19 +1,23 @@
 ---
 UUID: 20231226182753
 Created: '2023-12-26 18:27'
-Modified: '2024-10-16 05:50'
+Modified: '2026-04-13 06:13'
 tags: []
 Author:
   - '[[Greg Mckeown]]'
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 260
 Rate: 3
 PublishDate: 2014-04-17T00:00:00.000Z
@@ -22,20 +26,28 @@ Cover: >-
   http://books.google.com/books/content?id=YWlcAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/18077875-essentialism'
 aliases: null
+Description: >-
+  It argues for identifying and prioritizing essential goals in life, advocating
+  for the elimination of non-essential commitments. By setting clear intentions,
+  saying no to distractions, and focusing on well-being, individuals can enhance
+  productivity and achieve meaningful outcomes with less effort.
+FullTitle: Essentialism - The Disciplined Pursuit of Less
+StartDate: 2023-12-11T00:00:00.000Z
+ASIN: B00G1J1D28
+Reread: 0
+Topic:
+  - '[[workflows (Map)]]'
+  - '[[Habits (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Essentialism (book)
 
-## 🔗Connect
-🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
-🔼Topic:: [Habits (Map)](/mocs/habits-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Find your essential intent** - To be able to detect and keep only the essential parts of your life, you have to first know what is the most essential thing for you. This is achieved through defining your "Essential Intent", which is a combination of goal + clarity, such as "I will become a doctor in five years".
 2. **Select the vital few** - After having your essential intent, you can then compare each aspect of your life to it, and see if it is worth keeping. For example "Does this thing promotes me towards my essential intent"?
@@ -43,12 +55,25 @@ SiteProcssed: true
 4. **Less is more** - Be the editor of your narrative, distill the essence from each action and habit. Try to do more with less, don't invest more resources, but rather free resources from unnecessary things
 5. **Protect your wellbeing** - Remember that productivity is not the results of machines, but humans, that can burnout and be drained. Focus on yourself, on what recharges you, like sleep, nutrition and social life. Don't ignore those things or "do them later". They are not a waste of your time, but rather what provides you with the ability to be productive.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 1. **Define my essential intent** - I need to thing of the "one thing" that drives me, and work towards that. Perhaps philosophy, writing, educating, the combination of the three.
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Create an Essential Intent** - write a clear, specific goal that answers “how will I know when I have succeeded?” to filter future decisions.
+2. **Explore and Evaluate Options** - schedule time to survey a broad set of options for each area of your life and ask “is this the best thing for me?” before committing.
+3. **Apply Extreme Criteria to Opportunities** - for each opportunity, write it down, list three minimum criteria and three extreme criteria, and reject it if it fails the tests.
+4. **Say No Gracefully** - practice declining nonessential requests firmly and respectfully, offering alternatives or delegating when appropriate.
+5. **Uncommit and Cut Losses** - review existing commitments, assume “all bets are off,” and remove commitments that no longer pass your current criteria.
+6. **Build Thinking Space** - time-block quiet reflection periods (escape/unavailable time) to look, listen, and discern what truly matters.
+7. **Protect Sleep and Recovery** - prioritize sufficient sleep (around eight hours) and rest as an essential resource for creativity and focus.
+8. **Create Buffers in Plans** - add extra time and resources (e.g., 50% more time or earlier deadlines) to projects to absorb the unexpected.
+9. **Remove Constraints (Subtract Obstacles)** - identify the “slowest hiker” or primary constraint in a project and take actions to eliminate that bottleneck.
+10. **Design Routines and Cues for Flow** - establish routines and associate cues so essential behaviors become the default and deliver small, regular wins.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. You will have a more relaxed and enjoyable life since you will work only towards the essential aspects of it, and clear your mind and your resources from all other non-essential things.
@@ -57,29 +82,29 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 1. **Repetitive** - even the headlines are hard to distinguish from one another, and by the third part there is hardly anything new
 2. **shallow** - while the idea is not too complicated, somehow it got stretched over many pages while not diving too deep to any specific point
 3. **unbacked** - most of the scientific evidence is the form of "I met people" or "have this ever happen to you"
 
-### 🖼️Outline
+### Outline
 
-![Essentialism (book).webp](/books/essentialism-book.webp)
+![Essentialism (book)](/books/essentialism-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### The Essentialist
 
-Essentialism is to make the best use of our time, energy and motivation. That means we need to know "how to say no" [Saying no](/notes/saying-no.md), and to believe that "less is more" [Addition by subtraction](/notes/addition-by-subtraction.md). When we narrow down our focus, we would be able to progress much more, but more critically, we would enjoy the process much more, and not just chase an endless destination while feeling stuck in place and stretched too thin.
+Essentialism is to make the best use of our time, energy and motivation. That means we need to know "how to say no" [Saying no protects time and energy for what matters most](/notes/saying-no-protects-time-and-energy-for-what-matters-most.md), and to believe that "less is more" [Improvement often comes from removing rather than adding](/notes/improvement-often-comes-from-removing-rather-than-adding.md). When we narrow down our focus, we would be able to progress much more, but more critically, we would enjoy the process much more, and not just chase an endless destination while feeling stuck in place and stretched too thin.
 
 Non essentialism is here because:
 1. **Explosion of choices** - we have so much more to choose from, it is unavoidable that it will be harder for us to focus on just one thing [Complexity](/notes/complexity.md)
-2. Social pressure - we are exposed more than ever to people's expectations on who we should be and what we should do [Social Environment](/notes/social-environment.md)
+2. Social pressure - we are exposed more than ever to people's expectations on who we should be and what we should do [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 3. The "you could have it all" dream - everything is within our grasp, allegedly. But even if everything is possible, it doesn't mean that it's all possible all at once [the American dream](/notes/the-american-dream.md)
 
-Life is like a messy closet. Only by going through it, dumping what's unnecessary and keep it organized we have a chance for a calm, focused life. [Systematical Thinking](/notes/systematical-thinking.md). What's more, it is a dynamic closet, people are filling it with the cloths they expect us to wear and messing it up.
+Life is like a messy closet. Only by going through it, dumping what's unnecessary and keep it organized we have a chance for a calm, focused life. [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md). What's more, it is a dynamic closet, people are filling it with the cloths they expect us to wear and messing it up.
 
 The essentialist toolbox:
 1. **Explore and evaluate** - for each part of your life, ask yourself is this the best thing for me?
@@ -124,10 +149,10 @@ The enemy of the essentialist (and it's conversion)
 
 #### CHOOSE The Invincible Power of Choice
 
-**We don't always have control on which options are available to us, but we are always free to choose among them**. [Freedom of response](/notes/agency.md)
+**We don't always have control on which options are available to us, but we are always free to choose among them**. [Freedom of response](/notes/agency-is-the-ability-to-connect-desires-and-actions.md)
 
 To deny our ability to choose is to give others the power and permission to choose for ourselves.
-Also, when we deny this ability, we become helpless. We either surrender to nothingness [lost in the infinite](/notes/lost-in-the-infinite.md), we simply give up and do nothing, or we become hyper and try to do everything, and say yes to everything.
+Also, when we deny this ability, we become helpless. We either surrender to nothingness [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md), we simply give up and do nothing, or we become hyper and try to do everything, and say yes to everything.
 
 :::note[CHOOSE The Invincible Power of Choice]
 
@@ -140,7 +165,7 @@ Also, when we deny this ability, we become helpless. We either surrender to noth
 
 #### DISCERN The Unimportance of Practically Everything
 
-Effort is not directly linked to results, we can work harder with barely achieving anything, while also the opposite is true. [Struggle](/notes/struggle.md) **We can work smarter instead of harder and achieve a lot**. The way to do that is to **identify the vital few from the trivial many**, like the [Pareto Principle](/notes/pareto-principle.md), we should focus on the 20% opportunities that generates the most outcomes, and discard the rest. [triage](/notes/triage.md)
+Effort is not directly linked to results, we can work harder with barely achieving anything, while also the opposite is true. [Struggle is an inevitable and necessary part of any meaningful growth or achievement](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) **We can work smarter instead of harder and achieve a lot**. The way to do that is to **identify the vital few from the trivial many**, like the [Most benefits come from a small proportion of inputs](/notes/most-benefits-come-from-a-small-proportion-of-inputs.md), we should focus on the 20% opportunities that generates the most outcomes, and discard the rest. [Triage prioritizes limited resources by allocating attention wisely](/notes/triage-prioritizes-limited-resources-by-allocating-attention-wisely.md)
 
 :::note[DISCERN The Unimportance of Practically Everything]
 
@@ -151,7 +176,7 @@ Effort is not directly linked to results, we can work harder with barely achievi
 
 #### TRADE-OFF Which Problem Do I Want?
 
-[Multitasking doesnt exist](/notes/multitasking-doesnt-exist.md). We need to choose a strategy and stick to it [Pivot](/notes/pivot.md) [Hustle Culture](/notes/hustle-culture.md). **Only by truly dedicating ourselves into just one thing we can be truly successful** .
+[Multitasking is sequential task switching with cognitive switching costs](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md). We need to choose a strategy and stick to it [Test assumptions with small experiments first](/notes/test-assumptions-with-small-experiments-first.md) [Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md). **Only by truly dedicating ourselves into just one thing we can be truly successful** .
 
 Life is about trade-offs, we can't do it all, and we must focus on the one thing that we truly want. **Saying yes to many things will hurt our progress in all of them**.
 
@@ -184,7 +209,7 @@ To be able to discern the vital few from the trivial many, we need:
 
 #### ESCAPE The Perks of Being Unavailable
 
-**The busier we are, the more we need time to reflect, to think and process**. To do that we have to limit [Distractions](/notes/procrastination.md) [Minimalism](/notes/addition-by-subtraction.md), use [Time Blocking](/notes/time-blocking.md) and create spaces where we can just stop and think. [Blank Space](/notes/blank-space.md) [Solitude](/notes/solitude.md). We need to give ourselves time and space to activate our [Downtime brain](/notes/downtime-brain.md).
+**The busier we are, the more we need time to reflect, to think and process**. To do that we have to limit [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) [Minimalism](/notes/improvement-often-comes-from-removing-rather-than-adding.md), use [Time Blocking](/notes/time-blocking.md) and create spaces where we can just stop and think. [Every system needs empty space to function](/notes/every-system-needs-empty-space-to-function.md) [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md). We need to give ourselves time and space to activate our [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md).
 
 :::note[ESCAPE The Perks of Being Unavailable]
 
@@ -201,11 +226,11 @@ To be able to discern the vital few from the trivial many, we need:
 
 Many problems arise because we don't pay enough attention, not only to our thinking process, but mainly to the questions themselves, we don't notice the important details in our environment, such as patterns, or hints to complex situations.
 
-One way is to keep a journal and review it from time to time, the other is to research New points of view. [Periodical Review](/notes/periodical-review.md)
+One way is to keep a journal and review it from time to time, the other is to research New points of view. [Regular review cycles enable progress tracking and alignment](/notes/regular-review-cycles-enable-progress-tracking-and-alignment.md)
 
 #### PLAY Embrace the Wisdom of Your Inner Child
 
-**Play is essential to our lives**, it restores us to a [Beginner's Mind](/notes/beginners-mind.md), enjoying our surroundings and exploring new options [Gamification](/notes/gamification.md). It also helps to reduce stress.
+**Play is essential to our lives**, it restores us to a [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md), enjoying our surroundings and exploring new options [Play](/notes/play.md). It also helps to reduce stress.
 
 :::note[PLAY Embrace the Wisdom of Your Inner Child]
 
@@ -219,8 +244,8 @@ One way is to keep a journal and review it from time to time, the other is to re
 
 #### SLEEP Protect the Asset
 
-**Against the stigma, sleep is not a waste of time, it is the necessary resource to bring us to the optimal state of peak efficiency**. Sleep is the source of our creativity, sharpness and focus. It is the [Multiplier](/notes/multiplier.md) factor of our waking hours. Eight hours is optimal, less than seven is not ideal.
-We need to care for ourselves if we want to avoid burnout, and sleep is one of the most contributing factors. [Sleep](/notes/sleep.md)
+**Against the stigma, sleep is not a waste of time, it is the necessary resource to bring us to the optimal state of peak efficiency**. Sleep is the source of our creativity, sharpness and focus. It is the [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) factor of our waking hours. Eight hours is optimal, less than seven is not ideal.
+We need to care for ourselves if we want to avoid burnout, and sleep is one of the most contributing factors. [Sleep is essential for cognitive function and peak performance](/notes/sleep-is-essential-for-cognitive-function-and-peak-performance.md)
 
 :::note[SLEEP Protect the Asset]
 
@@ -233,7 +258,7 @@ We need to care for ourselves if we want to avoid burnout, and sleep is one of t
 
 #### SELECT The Power of Extreme Criteria
 
-**When we don't feel like "hell yeah" then we should say no**. It's better to let go of a good opportunity, to make room for the best one [Binary Thinking](/notes/binary-thinking.md) [Perfectionism](/notes/perfectionism.md) [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md).
+**When we don't feel like "hell yeah" then we should say no**. It's better to let go of a good opportunity, to make room for the best one [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md) [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md).
 We should have an explicit, selective criteria to filter opportunities, and generally only consider the top 10%. If there's a doubt, it's a no.
 
 :::note[SELECT The Power of Extreme Criteria]
@@ -251,7 +276,7 @@ We learned how to filter the best from the good, now it is time to learn how to 
 
 #### CLARIFY One Decision That Makes a Thousand
 
-Without a clear goal, we have no [Intrinsic Motivation](/notes/intrinsic-motivation.md), and any step we do is only semi beneficial at best because we're not even sure if it's in the right direction. Furthermore, it can cause us to focus on the non essentials, specifically our image, favoring that over true essence of progress. [Life's Mission](/notes/lifes-mission.md)
+Without a clear goal, we have no [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md), and any step we do is only semi beneficial at best because we're not even sure if it's in the right direction. Furthermore, it can cause us to focus on the non essentials, specifically our image, favoring that over true essence of progress. [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md)
 
 What we need is a **essential intent**, which is both clear and inspirational.
 The result of the clarity-inspiration matrix is:
@@ -298,7 +323,7 @@ It's hard to say no, mostly due to social pressure and embarrassment, but rememb
 
 #### UNCOMMIT Win Big by Cutting Your Losses
 
-The [Sunk Cost](/notes/sunk-cost.md) and [Attachment](/notes/attachment.md) can cause us to invest more time and energy into things we know are beyond saving. We need to admit our failures and move on, to act as if this is not part of our commitments and ask ourselves whether it is truly worthwhile to commit to it. Getting an outside view (either from an actual person or convert yourself to an external viewer)
+The [Past costs irrationally justify future commitment decisions](/notes/past-costs-irrationally-justify-future-commitment-decisions.md) and [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) can cause us to invest more time and energy into things we know are beyond saving. We need to admit our failures and move on, to act as if this is not part of our commitments and ask ourselves whether it is truly worthwhile to commit to it. Getting an outside view (either from an actual person or convert yourself to an external viewer)
 
 :::note[UNCOMMIT Win Big by Cutting Your Losses]
 
@@ -324,7 +349,7 @@ Edit is the main essentialist craft, it is to both remove the unnecessary, and a
 
 #### LIMIT The Freedom of Setting Boundaries
 
-Setting boundaries is a [win win situations](/notes/win-win-situations.md). **When people ask for your help and you always come to their rescue, you're both hurting the things you care about since you don't dedicate time for them**, and you rob of the other person's ability to solve their issues on their own. [Crowding Out](/notes/crowding-out.md)
+Setting boundaries is a [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md). **When people ask for your help and you always come to their rescue, you're both hurting the things you care about since you don't dedicate time for them**, and you rob of the other person's ability to solve their issues on their own. [One activity displaces another when pursued excessively](/notes/one-activity-displaces-another-when-pursued-excessively.md)
 **Setting [boundaries](/notes/boundaries.md) will actually increase your freedom to act without interference from others' agendas**.
 
 :::note[LIMIT The Freedom of Setting Boundaries]
@@ -341,8 +366,8 @@ Setting boundaries is a [win win situations](/notes/win-win-situations.md). **Wh
 
 #### BUFFER The Unfair Advantage
 
-The world is full of [Uncertainty](/notes/uncertainty.md), and even on the best case we fail to predict how long it would actually take us to finish something [planning fallacy](/notes/planning-fallacy.md).
-Therefore we need tools to help us protect ourselves from [Randomness](/notes/randomness.md) [Robustness](/notes/anti-fragility.md), specifically, **we need Buffers - extra time and resources that are reserved for emergencies** [Reserves](/notes/reserves.md). This could be 50% more time on your project, having a much earlier deadline, to have reserves of in case the main thing fails, broken, or lost.
+The world is full of [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md), and even on the best case we fail to predict how long it would actually take us to finish something [We underestimate task duration through overconfident predictions](/notes/we-underestimate-task-duration-through-overconfident-predictions.md).
+Therefore we need tools to help us protect ourselves from [Randomness](/notes/randomness.md) [Robustness](/notes/some-systems-grow-stronger-through-disorder.md), specifically, **we need Buffers - extra time and resources that are reserved for emergencies** [Reserves build capacity to absorb unpredictability and disruption](/notes/reserves-build-capacity-to-absorb-unpredictability-and-disruption.md). This could be 50% more time on your project, having a much earlier deadline, to have reserves of in case the main thing fails, broken, or lost.
 
 :::note[BUFFER The Unfair Advantage]
 
@@ -367,7 +392,7 @@ Therefore we need tools to help us protect ourselves from [Randomness](/notes/ra
 
 #### PROGRESS The Power of Small Wins
 
-We can either have huge goals and nothing to show for, or we can [Start Small](/notes/start-small.md), which would provide us with the [Momentum](/notes/momentum.md) to actually achieve those huge goals in the long run. It reinforces your motivation, and provides a positive feedback.
+We can either have huge goals and nothing to show for, or we can [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md), which would provide us with the [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md) to actually achieve those huge goals in the long run. It reinforces your motivation, and provides a positive feedback.
 
 :::note[PROGRESS The Power of Small Wins]
 
@@ -379,7 +404,7 @@ We can either have huge goals and nothing to show for, or we can [Start Small](/
 
 #### FLOW The Genius of Routine
 
-Make an initial effort [Upfront costs](/notes/upfront-costs.md) to create positive habits. You can either change the behavior based on an existing [Cue](/notes/priming.md), or create new cues for better habits.
+Make an initial effort [Initial effort investments create friction preventing optimal behavior change](/notes/initial-effort-investments-create-friction-preventing-optimal-behavior-change.md) to create positive habits. You can either change the behavior based on an existing [Cue](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md), or create new cues for better habits.
 **Once you have good habits, good results will become effortless and automatic.**
 
 :::note[FLOW The Genius of Routine]
@@ -392,7 +417,7 @@ Make an initial effort [Upfront costs](/notes/upfront-costs.md) to create positi
 
 #### FOCUS What’s Important Now?
 
-We need to focus on the now, to find peace and balance. We can do it through [mindfulness](/notes/intentionality.md) practices and remembering the multitasking doesn't exist. **Ask yourself what is the most important thing now and focus on it.**
+We need to focus on the now, to find peace and balance. We can do it through [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) practices and remembering the multitasking doesn't exist. **Ask yourself what is the most important thing now and focus on it.**
 
 :::note[FOCUS What’s Important Now?]
 

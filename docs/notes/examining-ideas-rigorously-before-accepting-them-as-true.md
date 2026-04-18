@@ -1,13 +1,13 @@
 ---
 UUID: 20230325091548
 Created: '2023-03-25 09:15'
-Modified: '2026-04-09 08:34'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Examining ideas rigorously before accepting them as true.png]]'
 ImageText: >-
   A central claim circle with arrows pointing to risks, data, logical gaps,
@@ -21,6 +21,10 @@ aliases:
   - Analytical Thinking
   - Skepticism
 new_schema: true
+Topic:
+  - '[[Self-Knowledge and Metacognition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ To be a skeptic means to constantly be [Curiosity is the joy of filling knowledg
 ## Visual
 
 ![Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.webp)
-
-## Overview
-🔼Topic:: [Self-Knowledge and Metacognition](/notes/self-knowledge-and-metacognition.md)
-◀Origin::
-🔗Link::
-

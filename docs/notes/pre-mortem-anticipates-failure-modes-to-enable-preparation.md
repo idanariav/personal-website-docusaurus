@@ -1,13 +1,13 @@
 ---
 UUID: 20231113163227
 Created: '2023-11-13 16:32'
-Modified: '2026-04-09 16:54'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Pre-Mortem
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   before initiation, fostering creativity and solutions by reversing thinking
   and creating a safe space for discussion.
 new_schema: true
+Topic:
+  - '[[Strategic Planning and Preparation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,10 +54,3 @@ For example, we can state as a fact "our project has failed. Why is that?", the 
 ## Visual
 
 ![Pre-Mortem](/notes/pre-mortem.webp)
-
-## Overview
-🔼Topic:: [Strategic Planning and Preparation](/notes/strategic-planning-and-preparation.md)
-🔼Topic:: [Strategic Planning and Preparation](/notes/strategic-planning-and-preparation.md)
-Origin::
-🔗Link::
-

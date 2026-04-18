@@ -1,13 +1,13 @@
 ---
 UUID: 20230616125532
 Created: '2023-06-16 12:55'
-Modified: '2026-04-08 17:28'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Signaling
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   authenticity, often serving as a means to convey social status or
   desirability.
 new_schema: true
+Topic:
+  - '[[Persuasion and Influence]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ Signaling matters only because we are a [social](/notes/human-is-a-social-being.
 ## Visual
 
 ![Signaling](/notes/signaling.webp)
-
-## Overview
-🔼Topic:: [Persuasion and Influence](/notes/persuasion-and-influence.md)
-◀Origin::
-🔗Link::
-

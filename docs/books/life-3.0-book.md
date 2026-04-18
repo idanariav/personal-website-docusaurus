@@ -1,19 +1,23 @@
 ---
 UUID: 20230917161304
 Created: '2023-09-17 16:13'
-Modified: '2024-09-26 09:55'
+Modified: '2026-04-13 06:15'
 tags: []
 Author:
   - '[[Max Tegmark]]'
 Genre: Computers
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 384
 Rate: 3
 PublishDate: 2017-08-29T00:00:00.000Z
@@ -22,30 +26,39 @@ Cover: >-
   http://books.google.com/books/content?id=3_otDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/34272565-life-3-0'
 aliases: null
+Description: >-
+  It argues that intelligent AI may be indifferent to human welfare, emphasizing
+  the importance of information as a future resource. The text advocates for
+  philosophical discussions on morality and consciousness in AI, suggesting that
+  human consciousness might be medium independent, allowing for potential AI
+  simulations of human beings.
+FullTitle: Life 3.0 - Being Human in the Age of Artificial Intelligence
+StartDate: 2023-08-23T00:00:00.000Z
+ASIN: B06WGNPM7V
+Reread: 0
+Topic:
+  - '[[Artificial Intelligence]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Life 3.0 (book)
 
-## 🔗Connect
-🔼Topic:: [Artificial Intelligence](/notes/artificial-intelligence.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Intelligence is more scary than maleficent** - an intelligent AI will simply won't care about us, our goals, or our wellbeing, like humans who are ignorant of ants
 2. **information is the resource of the future** - since both matter and energy will be abundant in our cosmic future, it is information that will be critical to trade with
 3. **philosophize now** - theories of morality and consciousness should be at the heart of today's discussion around AI
 4. **Medium independence** - maybe aspects of our life as human beings, specifically information and how we process it (consciousness), is medium independent. In those aspects, an AI could simulate a human being with no difficulty, or a human could replace his biology with technology.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 You will be more aware for the possible benefits and dangers from the upcoming AI, i.e superintelligence, that will pose a threat but also the biggest breakthroughs for humanity.
@@ -56,16 +69,16 @@ There is little added value from reading this book. Not having action items is o
 🧱 *Implementations and limitations of it are...*
 Since the AI field is very new at the time it was written, there are hardly any evidence or clues to the possible futures we might face, so everything is described as a fairytale without credibility, and the rest is invitation for discussion, without much basis for that.
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book is easy to read - the chapters are well divided, and well summarized at the end of chapter. Accompanying tables and charts makes the topic easier to understand
 The writing style is nice, it is interesting enough to continue along
 
-### 🖼️Outline
+### Outline
 
-![Life 3.0 (book).webp](/books/life-3.0-book.webp)
-## 📒 Notes
+![Life 3.0 (book)](/books/life-3.0-book.webp)
+## Notes
 
 ### Part 1 - Welcome to the Most Important Conversation of Our time
 
@@ -140,11 +153,11 @@ Our main focus with AI is about aligning our goal with theirs.
 
 #### Chapter 2 - what is Memory?
 
-**Memory is the ability to store information in a permanent state**, like a map which represents the world. There is no relation between what is stored, and how it is stored. The same information (i.e world map), can be on a piece of paper, a digital file, a song, whatever. The medium is independent from the content. That is why computers were able to improve so much without noticeable interference by improving memory medium without affecting what is stored. [Medium Independent](/notes/medium-independent.md)
+**Memory is the ability to store information in a permanent state**, like a map which represents the world. There is no relation between what is stored, and how it is stored. The same information (i.e world map), can be on a piece of paper, a digital file, a song, whatever. The medium is independent from the content. That is why computers were able to improve so much without noticeable interference by improving memory medium without affecting what is stored. [Content is independent from the medium that transmits it](/notes/content-is-independent-from-the-medium-that-transmits-it.md)
 
 **machines can "remember" since there's no difference between digital and biological memory mediums**
 
-However, there is a difference in how we extract information from memory. In computer system this is based on location (life a file in a folder) vs association (where have I seen this before) for biological systems. [Memory Palace](/notes/memory-palace.md)
+However, there is a difference in how we extract information from memory. In computer system this is based on location (life a file in a folder) vs association (where have I seen this before) for biological systems. [Abstract information is easier to remember spatially](/notes/abstract-information-is-easier-to-remember-spatially.md)
 
 :::note[Quotes]
 
@@ -219,7 +232,7 @@ Four major issues that we need to resolve when inserting AI into our lives. The 
 
 AI judges can be faster, more efficient, and less biased, whether implicit or explicit. For example, people are not only racist, but also act differently when they're tired or hungry.
 
-However, AIs can be biased too, if they are fed biased data [GIGO](/notes/garbage-in-garbage-out.md), and it will be harder to detect since modern AI are less explainable.
+However, AIs can be biased too, if they are fed biased data [GIGO](/notes/output-quality-depends-on-input-quality.md), and it will be harder to detect since modern AI are less explainable.
 
 :::note[Quotes]
 
@@ -421,10 +434,10 @@ Goals are essential to our own meaning in life as humans, and even more so when 
 
 #### Chapter 2 - Biology the Evolution of Goals
 
-Biology simply continues the same physical tendencies of [Optimization](/notes/optimization.md). Life is the ability to replicate successful complex structure that fight for resources with other entities. A replicating optimization process.
+Biology simply continues the same physical tendencies of [Optimization finds the efficient point balancing outputs and inputs](/notes/optimization-finds-the-efficient-point-balancing-outputs-and-inputs.md). Life is the ability to replicate successful complex structure that fight for resources with other entities. A replicating optimization process.
 
 **Since life is complex, we can't abide by a simple single rule anymore for optimization**. [Complexity](/notes/complexity.md) We also can't have endless rules to follow since this is impractical. Therefore we have heuristics that guides us in general, partially ambiguate cases, such as "when hungry -> eat".
-These heuristics are our emotions. [Emotions as decision heuristics](/notes/emotions-as-decision-heuristics.md)
+These heuristics are our emotions. [Emotions provide decision-relevant information when navigating choices](/notes/emotions-provide-decision-relevant-information-when-navigating-choices.md)
 
 :::note[Quotes]
 
@@ -445,7 +458,7 @@ To make sure AI remains a tool that is beneficial to us, it has to be able to:
 2. **Adapt when our goals change**
 3. r**etain our goals over time**
 
-This is in essence the [AI alignment problem](/notes/ai-ethics.md).
+This is in essence the [AI alignment problem](/notes/ai-alignment-is-inherently-difficult.md).
 **It has to be smart enough to understand our goals, but not too smart to ignore us**. This leaves a tight window for us to train AI.
 Adapt is difficult on it's own, since people are often contradictory, change over time, and have different goals depending on context. This requires a lot of subtlety from our AI to comprehend.
 Retainment is also difficult since every AI will have two subgoals, no matter what the initial goals will be:
@@ -497,7 +510,7 @@ We have to start talking now about philosophy before it is too late to align AI 
 consciousness is the second pillar in which we differ from machines, not only that we have moral codes, but also subjective experience.
 
 But even more than passing along moral codes, we have a lesser understanding of consciousness.
-We are not sure what it is (which physical process produces it), how to explain it [the hard problem of consciousness](/notes/the-hard-problem-of-consciousness.md), or where it is located (which parts of the brain "contain" our consciousness).
+We are not sure what it is (which physical process produces it), how to explain it [Subjective experience resists scientific explanation](/notes/subjective-experience-resists-scientific-explanation.md), or where it is located (which parts of the brain "contain" our consciousness).
 
 It is unclear how a group of particles form a consciousness, but allegedly somehow it does, since stones are not conscious and we are (although panpsychism might object).
 

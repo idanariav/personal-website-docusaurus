@@ -1,13 +1,13 @@
 ---
 UUID: 20230626191735
 Created: '2023-06-26 19:17'
-Modified: '2026-04-08 17:18'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Mirroring
   - Mirror neurons
@@ -16,6 +16,10 @@ Description: >-
   individuals to imitate and empathize with others' emotional states, fostering
   cooperation, shared learning, and communication.
 new_schema: true
+Topic:
+  - '[[Active Listening and Empathy]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ Since mirroring is mostly an automatic process (although we can also try to spar
 ## Visual
 
 ![Mirroring](/notes/mirroring.webp)
-
-## Overview
-🔼Topic:: [Active Listening and Empathy](/notes/active-listening-and-empathy.md)
-◀Origin::
-🔗Link::
-

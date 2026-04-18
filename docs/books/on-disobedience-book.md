@@ -1,45 +1,58 @@
 ---
 UUID: 20240414170344
 Created: '2024-04-14 17:03'
-Modified: '2024-05-01 10:49'
-Version: 1
+Modified: '2026-04-13 06:16'
 tags: []
-PublishDate: 1981-01-01T00:00:00.000Z
-Pages: 115
+FullTitle: On Disobedience - Why Freedom Means Saying “No” to Power
+Description: >-
+  It argues that disobedience is an act of creation. To disobey is to work
+  towards something, not just against something, an act of will and reason,
+  despite the powers at be that try to hold you back, to bring something new
+  into existence
 Author:
   - '[[Erich Fromm (philosopher)]]'
-Genre: Philosophy
-Stored: Kindle
-Purchased: true
-Fiction: false
+URL: 'https://www.goodreads.com/book/show/1159461.On_Disobedience_and_Other_Essays'
 Cover: >-
   http://books.google.com/books/content?id=aUvXAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/1159461.On_Disobedience_and_Other_Essays'
-ReadingStatus: Read
-FinishDate: '[[2024-04-19|2024-04-19]]'
+Genre: Philosophy
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B003XDUCJK
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 115
+Reread: 0
 Rate: 2
+PublishDate: 1981-01-01T00:00:00.000Z
+StartDate: 2024-04-18T00:00:00.000Z
+FinishDate: '[[2024-04-19|2024-04-19]]'
+Image: ''
 aliases: null
+Topic:
+  - '[[Political Philosophy (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # On Disobedience and Other Essays
 
-## 🔗Connect
-🔼Topic:: [Political Philosophy (Map)](/mocs/political-philosophy-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Disobedience is an act of creation** - to disobey is to work towards something, not just against something, an act of will and reason, despite the powers at be that try to hold you back, to bring something new into existence
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -48,20 +61,20 @@ The last chapter focuses on socialism and how it should be, but gives no reason 
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book is short enough and interesting, deeply affected by the time where capitalism and socialism where head to head, and lack some depth.
 
-## 📒 Notes
+## Notes
 
 ### Disobedience as a Psychological and Moral Problem
 
-Disobedience is like an act of [Creative Destruction](/notes/creative-destruction.md), it is through acts of going against the common beliefs, whether political or scientific that we progress as humans.
+Disobedience is like an act of [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md), it is through acts of going against the common beliefs, whether political or scientific that we progress as humans.
 
-**If we only obey, we are slaves, but if we only disobey, we rebel for rebel sake, an outburst of anger, not of progress. That's why we need both**, to [Balance Extremes](/notes/balance-extremes.md)
+**If we only obey, we are slaves, but if we only disobey, we rebel for rebel sake, an outburst of anger, not of progress. That's why we need both**, to [Optimal outcomes emerge from balance between extremes not absolutes](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md)
 
-We tend to obey as default because [Conformism](/notes/social-environment.md) provides social safety.
+We tend to obey as default because [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md) provides social safety.
 
 :::note[Disobedience as a Psychological and Moral Problem]
 
@@ -76,8 +89,8 @@ We tend to obey as default because [Conformism](/notes/social-environment.md) pr
 ### Prophets and Priests
 
 There are two kinds of people:
-1. **Prophets** - those who speak their truth, they live by it, they care about others and talk about a different world, a better world, If we only acted differently [to be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md)
-2. **Priests** - they speak the "truth" of others, they don't live by it, they judge, they accuse, and they spread fear as their main source of power. [Image vs core](/notes/form-vs-essence.md)
+1. **Prophets** - those who speak their truth, they live by it, they care about others and talk about a different world, a better world, If we only acted differently [To be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md)
+2. **Priests** - they speak the "truth" of others, they don't live by it, they judge, they accuse, and they spread fear as their main source of power. [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md)
 
 To disobey is like being a prophet. You don't act against something, but rather for something. It is the expression of your will and reason. An act of belief that this is the best course of actions. Meanwhile most of us are disciples of priests, whether religious, political, etc. we live within a system and we are blind to it's influence on us. We "just happen" to support whatever they preach, as if it's our authentic expression, while in reality it's far from it
 
@@ -94,9 +107,9 @@ To disobey is like being a prophet. You don't act against something, but rather 
 
 Two economical systems, both glorify the freedom of the individual, both fail to do so and are based on obedience, [Capitalism](/notes/capitalism.md) and [Communism](/notes/communism.md).
 
-**Capitalism has turned people into machines**, not only in the production but also in consumption. It has transferred power to the managers, while the workers are cogs in the machine, working to serve the capital, while being alienated from their work. In their "free time", they are also told to consume, to fill themselves with tv and other distractions, to keep the economical machine flowing. [Alienation](/notes/alienation.md) [consumerism](/notes/consumerism.md)
+**Capitalism has turned people into machines**, not only in the production but also in consumption. It has transferred power to the managers, while the workers are cogs in the machine, working to serve the capital, while being alienated from their work. In their "free time", they are also told to consume, to fill themselves with tv and other distractions, to keep the economical machine flowing. [Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.md) [Consumption is the other half of capitalism](/notes/consumption-is-the-other-half-of-capitalism.md)
 This empty life is hard for the individual, which seeks to escape in every way possible, only to find the forces of the economy stronger than him, he is completely powerless, subdued by it, indoctrinated by it's values.
-He has no ability to think, no tools for critical thinking, he has become a (Aka:: [one-dimensional being](/notes/one-dimensional-being.md).
+He has no ability to think, no tools for critical thinking, he has become a (Aka:: [Multidimensional identity collapses into single fixed characteristic](/notes/multidimensional-identity-collapses-into-single-fixed-characteristic.md).
 
 Communism, which was based on socialism which tried to free the worker of these forces and create a society where man is free and in the center, also lost purpose. They created unity, ideology and hierarchy only to keep the state going, instead of improving the citizens lives.
 

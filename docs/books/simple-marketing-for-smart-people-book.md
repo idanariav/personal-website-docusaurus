@@ -1,7 +1,7 @@
 ---
 UUID: 20251128074619
 Created: '2025-11-28 07:46'
-Modified: '2025-12-16 14:26'
+Modified: '2026-04-13 06:17'
 tags: []
 FullTitle: >-
   Simple Marketing For Smart People - The One Question You Need to Win Customers
@@ -23,7 +23,9 @@ Genre:
   - Nonfiction
   - Writing
   - Professional Development
-Stored: Kindle
+Stored:
+  - Kindle
+  - Epub
 ReadingStatus: Done
 ASIN: B0CW1MQZXP
 excalidraw-plugin: parsed
@@ -32,7 +34,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 174
 Reread: 0
 Rate: 3
@@ -41,17 +43,16 @@ StartDate: 2025-12-04T00:00:00.000Z
 FinishDate: 2025-12-13T00:00:00.000Z
 Image: '[[Simple Marketing For Smart People (book).png]]'
 aliases: ''
+Topic:
+  - '[[Self promotion and Entrepreneurship (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # ✒️ Note-Making
 
-## 🔗Connect
-
-⬆️Topic:: [Self promotion and Entrepreneurship (Map)](/mocs/self-promotion-and-entrepreneurship-map.md)
-
-## 💡Clarify
+## Clarify
 🔈 *Summary of main ideas*
 1. **You don't have to sell your soul** - Marketing is not inherently bad or evil. You don't have trick your clients or use sleazy tactics. On the contrary, by being you, providing value and having integrity you'll be a better creator and marketer
 2. **Put yourself in their shoes** - We tend to over complicate thinks, we get tripped by the curse of knowledge, thinking from our viewpoint after spending weeks/months/years diving into a topic. This is great for our expertise, but bad for our marketing. We need to imagine what it's like to be someone who isn't familiar with our topic, what their beliefs are, how they see the world, what do they need most.
@@ -60,10 +61,10 @@ SiteProcssed: true
 5. **Every claim needs a proof** - They won't believe you just because you told them so. Either with stories, evidence or testimonials, you have to provide credibility to your claims.
 6. **You have to do it** - The product won't sell itself, and there's no one with your type of expertise that you can delegate the marketing task to. You can hire someone to build your website, but not it's message.
 
-## 🗒️Relate
+## Relate
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 To become a better marketer, to be able to use your time wisely generating quality sales, without feeling dishonest.
-## ✅Act
+## Act
 📋*What should I do to achieve the goals set out by this book?*
 Here are the 10 most important actions, workflows, or habits derived from the book notes:
 
@@ -78,7 +79,7 @@ Here are the 10 most important actions, workflows, or habits derived from the bo
 9. **Experiment with Marketing Channels** – Use different marketing channels to test responses, and then focus your efforts on those that prove most effective.
 10. **Market Genuinely and Address Core Concerns** – Avoid manipulative tactics; instead, focus on being honest, providing value, and answering "Why should they care?", "How are you different?", and "How can they trust you?".
 
-## 🔍Critique
+## Critique
 
 🧩 *relevant research, metaphors or examples that helps to convey the argument*
 1. **Upstream vs downstream decisions** - Upstream decisions create a path dependence for all the decisions that comes after, so it makes them more important and impactful than the "downstream" decisions. Things like which house to live in is more impactful than which furniture to bring.
@@ -88,14 +89,14 @@ Here are the 10 most important actions, workflows, or habits derived from the bo
 
 🧱 *Implementations and limitations of it are...*
 
-## 🗨️Review
+## Review
 
 💭 *my opinions on the book, the writers style...*
 Even though they focus on "honest, good marketing", I can feel like they're trying to give compliments to turn us into loyal customers. From the title of the book "for smart people", to their tone throughout the book. It feels sleazy, even though they go against it.
 
 Also, there's little synergy between the two writers. They labeled the author of each chapter, and most of them are by the marketing guy. Tiago is just there to serve as the use case of the book's message, and I guess to be a living testimonial.
 
-## 🖼️Outline
+## Outline
 
 ![Simple Marketing For Smart People (book)](/books/simple-marketing-for-smart-people-book.webp)
 
@@ -107,7 +108,7 @@ Marketing it tough, but it can be made simple. It's not only for the super extro
 
 The tldr is that you can and need to be yourself, to focus on providing value.
 
-However, you do need to see it through the eyes of your customers, to see why *they* need your product, instead of why *you* want to sell it to them [Mindsight](/notes/mindsight.md).
+However, you do need to see it through the eyes of your customers, to see why *they* need your product, instead of why *you* want to sell it to them [Mindsight is awareness of mental states in self and others](/notes/mindsight-is-awareness-of-mental-states-in-self-and-others.md).
 
 :::note[Introduction]
 
@@ -120,13 +121,13 @@ However, you do need to see it through the eyes of your customers, to see why *t
 
 ## The Achilles Heel of Smart People
 
-Smart people tend to over [complicate](/notes/complexity.md) things, because they have the capability of doing so. However this is a main disadvantage when it comes to marketing, because by making something complex, it becomes harder to understand and communicate [Analysis paralysis](/notes/analysis-paralysis.md).
+Smart people tend to over [complicate](/notes/complexity.md) things, because they have the capability of doing so. However this is a main disadvantage when it comes to marketing, because by making something complex, it becomes harder to understand and communicate [Too much information prevents decision-making](/notes/too-much-information-prevents-decision-making.md).
 
-Also, the more we complicate things from the start, it becomes a form of [Procrastination](/notes/procrastination.md), which only hurts down the line.
+Also, the more we complicate things from the start, it becomes a form of [Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md), which only hurts down the line.
 
-Our early decisions (aka *upstream decisions*) have a lot of impact on how the rest of the process (aka downstream decisions) goes [Path Dependence](/notes/path-dependence.md). For example, choosing which software to use can affect all the products you generate, while trying out a new strategy will only affect the ones you try it on.
+Our early decisions (aka *upstream decisions*) have a lot of impact on how the rest of the process (aka downstream decisions) goes [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md). For example, choosing which software to use can affect all the products you generate, while trying out a new strategy will only affect the ones you try it on.
 
-It's tempting to believe that we should stick with [Specialization](/notes/specialization.md), that we as the expert of our domain should focus on that and [outsource](/notes/outsourcing.md) the marketing to other people.
+It's tempting to believe that we should stick with [Specialization develops deep expertise by focusing narrowly on a domain](/notes/specialization-develops-deep-expertise-by-focusing-narrowly-on-a-domain.md), that we as the expert of our domain should focus on that and [outsource](/notes/delegating-production-trades-control-for-efficiency.md) the marketing to other people.
 
 While we can delegate marketing tasks, such as website creation to others, we can't delegate the decisions. Others won't have the passion, the knowledge, and the point of view that we have. No one understands our business like we do. It's a tempting yet destructive thing to outsource our marketing to others.
 
@@ -142,7 +143,7 @@ While we can delegate marketing tasks, such as website creation to others, we ca
 
 ## I Can Relate
 
-Trying to learn marketing can feel [overwhelming](/notes/overloading.md), but at it's core, it's about **talking to your clients in their language, understanding their needs**.
+Trying to learn marketing can feel [overwhelming](/notes/taking-on-too-much-overwhelms-capacity-and-causes-depletion.md), but at it's core, it's about **talking to your clients in their language, understanding their needs**.
 
 Also, try to avoid these mistakes:
 1. **It will sell itself** - even amazing products require marketing. It's not enough to build something good and "putting it out there", you have to reach out
@@ -163,7 +164,7 @@ Also, try to avoid these mistakes:
 ## The upstream/downstream Marketing Metaphor
 
 The most important marketing decisions:
-1. **Core message** (upstream) - this "why" guides every marketing content you make. Answer the question - *why should someone choose your product/service?* [Life's Mission](/notes/lifes-mission.md)
+1. **Core message** (upstream) - this "why" guides every marketing content you make. Answer the question - *why should someone choose your product/service?* [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md)
 2. **Marketing channels** (midstream) - Work on multiple channels (such as Facebook, YouTube, LinkedIn) until you find the one that works best, and then invest most of your time there.
 3. **Marketing tactic** (downstream) - things like giveaways, limited offers, contests and guest appearances.
 
@@ -223,10 +224,10 @@ Also be aware of:
 
 To know which beliefs your prospect currently hold:
 1. **Listen to their questions** - It can show you what they are focusing on, which you can determine with your expertise whether it's the right questions to ask at their current stage, and you can try to deflect their focus to what's important. That's the real answer they want to get from you.
-2. **Ask them** - "why" questions (such as "why did you do that") might come across as assertive and judgmental, so try to ask "what" and "how" questions, like - "what were you trying to achieve?" "how do you approach these kinds of issues" [Open ended questions](/notes/open-ended-questions.md)
-3. **Search for patterns** - With time, and with enough examples you will start noticing patterns in your prospect's behavior, which can shed a light to their reasoning process [Behavioralism](/notes/behavioralism.md). For example, you might see clients go to productivity advices when stress increases, even if it is not the correct response.
+2. **Ask them** - "why" questions (such as "why did you do that") might come across as assertive and judgmental, so try to ask "what" and "how" questions, like - "what were you trying to achieve?" "how do you approach these kinds of issues" [Open-ended questions enable deeper understanding and meaningful dialogue](/notes/open-ended-questions-enable-deeper-understanding-and-meaningful-dialogue.md)
+3. **Search for patterns** - With time, and with enough examples you will start noticing patterns in your prospect's behavior, which can shed a light to their reasoning process [Behavior reveals true preferences](/notes/behavior-reveals-true-preferences.md). For example, you might see clients go to productivity advices when stress increases, even if it is not the correct response.
 
-These will help you avoid the [Curse of Knowledge](/notes/curse-of-knowledge.md), to see what your prospects are thinking about, and not what you think they need.
+These will help you avoid the [Once learned, knowledge makes it impossible to imagine its absence](/notes/once-learned-knowledge-makes-it-impossible-to-imagine-its-absence.md), to see what your prospects are thinking about, and not what you think they need.
 
 :::note[Identifying Your Customer’s Existing Beliefs]
 
@@ -303,7 +304,7 @@ Use the following template when generating content:
 
 When creating free content, remember to focus on belief building and upstream decisions. Instead of flooding them with tutorials, instead make them agree on the problem. Instead of breaking down your product to a thousand pieces, make them understand that they need your product.
 
-Use marketing channels as a form of [Experimentation](/notes/testing.md). Like testing the waters, seeing how they respond to your posts, and which posts they find more relevant.
+Use marketing channels as a form of [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md). Like testing the waters, seeing how they respond to your posts, and which posts they find more relevant.
 
 Skip the sleezy sales tactics such as limited time offers, focus on being genuine, providing value, being honest and on point. Always ask yourself:
 1. Why should they care

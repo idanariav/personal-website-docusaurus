@@ -1,13 +1,13 @@
 ---
 UUID: 20240103081854
 Created: '2024-01-03 08:18'
-Modified: '2026-04-08 15:20'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - solitude
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   self-development by eliminating external distractions, thereby enhancing
   mental clarity and creativity.
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: '[[Anne-Laure Le Cunff]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ Common methods for solitude can be [Meditation strengthens focus and mindfulness
 ## Visual
 
 ![Solitude](/notes/solitude.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)
-Link:: https://nesslabs.com/loneliness-solitude
-

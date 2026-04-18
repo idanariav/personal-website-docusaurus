@@ -1,13 +1,13 @@
 ---
 UUID: 20230326191419
 Created: '2023-03-26 19:14'
-Modified: '2026-04-10 15:47'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Failure is a necessary part of learning and growth.png]]'
 ImageText: A person climbing up stairs towards a diamond
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Failure
 new_schema: true
+Topic:
+  - '[[Growth Through Adversity]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ A positive view on failures can help us turn them into [stepping stones](/notes/
 ## Visual
 
 ![Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.webp)
-
-## Overview
-🔼Topic:: [Growth Through Adversity](/notes/growth-through-adversity.md)
-◀Origin::
-🔗Link::
-

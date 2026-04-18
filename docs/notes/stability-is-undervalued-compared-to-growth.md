@@ -1,8 +1,8 @@
 ---
 UUID: 20250306124703
 Created: '2025-03-06 12:47'
-Modified: '2026-04-04 11:01'
-Version: 3
+Modified: '2026-04-11 22:27'
+Version: 4
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -15,6 +15,10 @@ Description: >-
   robust and adaptive amid changes, prioritizing process optimization over
   aggressive growth strategies.
 new_schema: true
+Topic:
+  - '[[Compounding and Consistency]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -43,12 +47,4 @@ However, it's better to have a [anti fragile](/notes/some-systems-grow-stronger-
 ### Open questions
 
 ## Visual
-
-
-## Overview
-🔼Topic:: [Compounding and Consistency](/notes/compounding-and-consistency.md)
-↩️Origin::
-🔗Link:: 
-
-
 

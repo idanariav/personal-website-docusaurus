@@ -1,13 +1,13 @@
 ---
 UUID: 20240101064724
 Created: '2024-01-01 06:47'
-Modified: '2026-04-09 09:28'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Multitrack
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   enhance creativity, acceptance of feedback, and solution comparison, thereby
   increasing the likelihood of finding effective solutions.
 new_schema: true
+Topic:
+  - '[[Prioritization and Leverage]]'
+Origin: '[[Decisive (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ The advantages are:
 ## Visual
 
 ![Multitrack](/notes/multitrack.webp)
-
-## Overview
-🔼Topic:: [Prioritization and Leverage](/notes/prioritization-and-leverage.md)
-↩️Origin:: [Decisive (book)](/books/decisive-book.md)
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20231230201950
 Created: '2023-12-30 20:19'
-Modified: '2026-04-02 09:17'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Openness to new ideas without expert bias.png]]'
 ImageText: 'A full bowl overflowing with water, and an empty bowl'
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Beginner's Mind
   - Beginner's Mind
 new_schema: true
+Topic:
+  - '[[Authenticity and Values]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,8 +57,3 @@ It's not easy to be in this state, especially for extended periods of time. It r
 ## Visual
 
 ![Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.webp)
-
-## Overview
-🔼Topic:: [Authenticity and Values](/notes/authenticity-and-values.md)
-↩️Origin::
-🔗Link::

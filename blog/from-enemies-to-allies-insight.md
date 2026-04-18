@@ -27,7 +27,7 @@ Conflicts are inevitable, but how we handle them makes all the difference. Inste
 
 ![from_enemies_to_allies.webp](/posts/from_enemies_to_allies.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## How (not) to Handle a Conflict
 

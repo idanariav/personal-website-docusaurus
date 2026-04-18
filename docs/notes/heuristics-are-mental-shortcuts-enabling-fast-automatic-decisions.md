@@ -1,8 +1,8 @@
 ---
 UUID: 20240101070402
 Created: '2024-01-01 07:04'
-Modified: '2026-04-06 22:00'
-Version: 2
+Modified: '2026-04-11 22:22'
+Version: 3
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
@@ -17,6 +17,10 @@ Description: >-
   judgments, typically manifesting as instincts or gut feelings, but can lead to
   biases and stereotypes.
 new_schema: true
+Topic:
+  - '[[Decision Traps and Biases]]'
+Origin: '[[The Curiosity Chronicle by Sahil Bloom]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -70,8 +74,3 @@ Nowadays, heuristics results often in biases and stereotypes.
 
 ![Heuristics](/notes/heuristics.webp)
 
-
-## Overview
-🔼Topic:: [Decision Traps and Biases](/notes/decision-traps-and-biases.md)
-↩️Origin:: [The Curiosity Chronicle by Sahil Bloom](/notes/the-curiosity-chronicle-by-sahil-bloom.md)
-🔗Link::

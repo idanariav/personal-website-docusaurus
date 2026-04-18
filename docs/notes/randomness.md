@@ -1,18 +1,23 @@
 ---
 UUID: 20231228170954
 Created: '2023-12-28 17:09'
-Modified: '2026-04-10 15:48'
+Modified: '2026-04-11 22:32'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases: []
 Description: >-
   The perception of unpredictability in events, which raises questions about
   determinism and can influence decision-making, creativity, and planning in
   various contexts.
+Topic:
+  - '[[Statistics (Map)]]'
+  - '[[Success (Map)]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -43,9 +48,3 @@ At the systems level, randomness is the adversary that most engineered structure
 ## Visual
 
 ![Randomness](/notes/randomness.webp)
-
-## Overview
-🔼Topic:: [Statistics (Map)](/mocs/statistics-map.md) [Success (Map)](/mocs/success-map.md)
-↩️Origin::
-🔗Link::
-

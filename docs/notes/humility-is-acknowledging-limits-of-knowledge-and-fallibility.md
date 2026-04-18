@@ -1,13 +1,13 @@
 ---
 UUID: 20240219081109
 Created: '2024-02-19 08:11'
-Modified: '2026-04-09 08:34'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Humility
 new_schema: true
@@ -15,6 +15,10 @@ Description: >-
   Acknowledging one's limitations and mistakes while maintaining a balanced
   self-worth, fostering a mindset of continuous learning and openness to diverse
   perspectives.
+Topic:
+  - '[[Self-Knowledge and Metacognition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ Humility is perhaps the opposite of [Overestimating abilities blinds us to genui
 ## Visual
 
 ![Humility](/notes/humility.webp)
-
-## Overview
-🔼Topic:: [Self-Knowledge and Metacognition](/notes/self-knowledge-and-metacognition.md)
-↩️Origin::
-🔗Link::
-

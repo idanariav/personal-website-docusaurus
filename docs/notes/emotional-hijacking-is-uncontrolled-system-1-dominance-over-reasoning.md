@@ -1,13 +1,13 @@
 ---
 UUID: 20240705103533
 Created: '2024-07-05 10:35'
-Modified: '2026-04-10 06:16'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Emotional hijacking is uncontrolled System 1 dominance over reasoning.png]]'
 ImageText: Anger from inside-out sitting behind the control desk with a big red button
 Description: >-
@@ -18,6 +18,12 @@ aliases:
   - Emotional hijacking
   - Tantrum
 new_schema: true
+Topic:
+  - '[[Dual Process]]'
+Origin: '[[Unruffled]]'
+URL: >-
+  https://share.snipd.com/episode/c78824e3-0439-4566-8a9f-dd5db0f40ebb)
+  [source](https://share.snipd.com/episode/73b2a323-719f-4564-b471-961df33a1151
 draft: false
 SiteProcssed: true
 ---
@@ -59,9 +65,3 @@ Similarly, and it's true for adults as well, that taking a [Break](/notes/rest-e
 ## Visual
 
 ![Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.webp)
-
-## Overview
-🔼Topic:: [Dual Process](/notes/dual-process.md)
-↩️Origin:: [Unruffled](/notes/unruffled.md)
-🔗Link:: [source](https://share.snipd.com/episode/c78824e3-0439-4566-8a9f-dd5db0f40ebb) [source](https://share.snipd.com/episode/73b2a323-719f-4564-b471-961df33a1151)
-

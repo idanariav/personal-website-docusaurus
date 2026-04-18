@@ -1,27 +1,43 @@
 ---
 UUID: 20220704075332
 Created: '2022-07-04 07:53'
-Modified: '2024-10-02 07:28'
+Modified: '2026-04-13 06:21'
 tags: []
+FullTitle: The Wisdom of Insecurity
+Description: >-
+  It argues that the quest for stability leads to societal problems, and true
+  happiness lies in embracing reality and living in the present. By
+  relinquishing the notion of a separate self and fostering self-awareness, one
+  can achieve inner peace, freedom, and a morality aligned with the universe.
 Author:
   - '[[Allan Watts]]'
+URL: 'https://www.goodreads.com/book/show/53356280-the-wisdom-of-insecurity'
+Cover: >-
+  https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcf.shopee.com.my%2Ffile%2Fsg-11134201-22120-uraexjpuvdlve7&f=1&nofb=1&ipt=4bf4c2ae39257283f32c4755773e7149dd914c6245d81c4c07b14dd4054b8f30&ipo=images
 Genre: Certainty
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B005YNPBH0
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 152
+Reread: 0
 Rate: 3
 PublishDate: 1951-01-01T00:00:00.000Z
+StartDate: 2022-03-13T00:00:00.000Z
 FinishDate: 2022-03-15T00:00:00.000Z
-Cover: >-
-  https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcf.shopee.com.my%2Ffile%2Fsg-11134201-22120-uraexjpuvdlve7&f=1&nofb=1&ipt=4bf4c2ae39257283f32c4755773e7149dd914c6245d81c4c07b14dd4054b8f30&ipo=images
-URL: 'https://www.goodreads.com/book/show/53356280-the-wisdom-of-insecurity'
+Image: null
 aliases: null
+Topic:
+  - '[[Personal identity (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -34,20 +50,16 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [Personal identity (Map)](/mocs/personal-identity-map.md)
-
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 1. **The quest for stability is futile** - we live in an uncertain world, that constantly changes. Moreover, it is we who keep changing as well. To demand for stability is to demand to stay frozen in place, to stopping a melody or a river, once we do that, the thing we are trying to preserve withers and dies.
 2. **To be aware is to experience** - The duality of the thinking self and experiencing self only removes us from the world. We are stuck in imaginations, on expectations of how the future looks like and what it holds, only to be disappointed because we both miss the present, and it turns out not as we hopped for. And even when it does, it is not as exciting as we thought. Therefore there is no other answer than to be completely present all the time, to forget about the "self" and simply be.
 3. **Life is about both extremes** - life and death, pain and pleasure, are both sides of the same coin. We can't have one without the other.
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -57,39 +69,39 @@ SiteProcssed: true
 I empathize with the definition of the problem as the author sees it. But he assumes that every conscious activity creates a vicious cycle. The fact that I can't think and experience at the same time doesn't mean that there is no observer, but rather an observer that can look inwards, and that thinking is it's own type of observation. There is something cynical in saying that morality is always cold and disconnected, like an egoistic view that if donating makes you happy than you're doing it for yourself and not for others.
 Perhaps moral laws grew from the unity and our identity, like he says that love is the basis of our universe.
 By the same logic, its possible that the experiencing creature will be no more than an animal, does as he pleases since he's just living in the moment, without introspection, stealing and taking without a second thought. Its not clear how canceling the self necessarily makes us want to do good. Everything is a little bit forced to promote a Buddhistic world-view, if some partial connection to today's problems in our society.
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
-### 🖼️Outline
+### Outline
 
-![The Wisdom of Insecurity (book).webp](/books/the-wisdom-of-insecurity-book.webp)
+![The Wisdom of Insecurity (book)](/books/the-wisdom-of-insecurity-book.webp)
 
-## 📒 Notes
+## Notes
 
 In my opinion the author has a problematic way of thinking that is expressed in various ways, but the common thread is that we all work as two separate entities. Planning and trying to "live in the future", and looking for stable and unchanging things in an ever changing world. The only way to solve the problem and find inner peace is living in the present, improve self awareness and give up on the "self".
 
 ### Current Problems
 
-We are creatures looking for stability in a world that is by definition unstable. [Uncertainty](/notes/uncertainty.md). Happiness is not guaranteed, and all life ends and starts with death. **Happiness is therefore either immediate pleasure, which quickly becomes a dependency in the next gratification, or believing in the afterlife, whether in the religious sense or in "leaving a legacy".**
-**Either way we "live in the future", where happiness is guaranteed, but chasing future happiness is like chasing a ghost** that keeps on running away from you, whether its because the immediate pleasure is always sweeter in the future and fleeting faster, or because its harder for us to believe in the "afterlife". [Expectations](/notes/expectations.md)
+We are creatures looking for stability in a world that is by definition unstable. [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md). Happiness is not guaranteed, and all life ends and starts with death. **Happiness is therefore either immediate pleasure, which quickly becomes a dependency in the next gratification, or believing in the afterlife, whether in the religious sense or in "leaving a legacy".**
+**Either way we "live in the future", where happiness is guaranteed, but chasing future happiness is like chasing a ghost** that keeps on running away from you, whether its because the immediate pleasure is always sweeter in the future and fleeting faster, or because its harder for us to believe in the "afterlife". [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md)
 
-These past few centuries we saw a total collapse of the ideological system that has brought us stability - family, religion... some of this is due to the rise of science, controlled by the forces of logic and reason. While science has brought us improvement to our quality of life, it doesn't provide stability or meaning, it doesn't give us the "why". The head is satisfied, but the heart still searches for tomorrow. [Absurdity of existence](/notes/absurdity-of-existence.md)
+These past few centuries we saw a total collapse of the ideological system that has brought us stability - family, religion... some of this is due to the rise of science, controlled by the forces of logic and reason. While science has brought us improvement to our quality of life, it doesn't provide stability or meaning, it doesn't give us the "why". The head is satisfied, but the heart still searches for tomorrow. [Life has no predefined meaning we can discover](/notes/life-has-no-predefined-meaning-we-can-discover.md)
 
-People need myths to have meaning. You can't believe in myths by "wanting" to believe them, you have to feel them. [Leap Into Faith](/notes/leap-into-faith.md). **The skepticism that science has brought shattered the ethos of religion, so we can't continue to believe as if nothing has happened. What's left is the pursue after temporary pleasure, which is short and unstable**. The temporary pleasure is replace by the anxiety of getting the next pleasure, a sense of addiction, and on the other hand a sense of meaninglessness since what's the point of chasing pleasures when they all pass.
+People need myths to have meaning. You can't believe in myths by "wanting" to believe them, you have to feel them. [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md). **The skepticism that science has brought shattered the ethos of religion, so we can't continue to believe as if nothing has happened. What's left is the pursue after temporary pleasure, which is short and unstable**. The temporary pleasure is replace by the anxiety of getting the next pleasure, a sense of addiction, and on the other hand a sense of meaninglessness since what's the point of chasing pleasures when they all pass.
 
 ### The Solution
 
 That leaves us with either a new myth, or despair. There is a third way, a true belief, one that tracts the truth, and not distort the reality based on your desires. This is also the mistake of the big religions, they stick to a false pretense of the reality instead of seeing it as it.
 The solution won't come from trying to "escape reality", like believing in the "afterlife", but rather seeing the world as it is.
-This is the law of reversed effort, the less we cling to our perceptions, the more we understand reality. [Reverse Thinking](/notes/reverse-thinking.md)
+This is the law of reversed effort, the less we cling to our perceptions, the more we understand reality. [Flipping assumptions reveals hidden possibilities and better solutions](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md)
 
 **To enjoy life, we will have to be able to suffer**. For example the more you love someone, the more it will hurt when he'll die. To search for happiness while avoiding pain is death to your consciousness. The pain is intensified by the fact that we human are happy only by looking at both the past and the future. The past has to be "resolved" and the future full of promises, otherwise we will suffer in the present, even if at this very moment we are experiencing pleasure. We are giving us on our awareness for the "now", and the past and future become even more real than the present.
 
 #### Giving up the Self
 
-This is a disagreement between the "i" and the self. The side that thinks about the future and the side that acts without consequences. This is a disagreement between our consciousness to our own nature and the world. The "i" tries to cling to something stable, the same utopic vision of the future to avoid the uncertainty and cruelty of nature, while the "self" is often erased, or is perceived as against our "true desires" since its living in the "now". However these are not two opposite sides rather a different way of looking at the same reality. **Destruction and change are a natural part of our lives, and being a human is to be an ever changing creature**. [Creative Destruction](/notes/creative-destruction.md)
-Trying to fight against change is like trying to stop a river, without an outward flow there would be no inward flow, and then it won't be a river anymore. Similarly, try to freeze a song we like in time, we lose the melody and stay we a constant note, which is nothing like the song, and what we loved would be gone. [Fleetingness](/notes/fleetingness.md)
+This is a disagreement between the "i" and the self. The side that thinks about the future and the side that acts without consequences. This is a disagreement between our consciousness to our own nature and the world. The "i" tries to cling to something stable, the same utopic vision of the future to avoid the uncertainty and cruelty of nature, while the "self" is often erased, or is perceived as against our "true desires" since its living in the "now". However these are not two opposite sides rather a different way of looking at the same reality. **Destruction and change are a natural part of our lives, and being a human is to be an ever changing creature**. [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
+Trying to fight against change is like trying to stop a river, without an outward flow there would be no inward flow, and then it won't be a river anymore. Similarly, try to freeze a song we like in time, we lose the melody and stay we a constant note, which is nothing like the song, and what we loved would be gone. [Experiences are unique because they are fleeting and irreplaceable](/notes/experiences-are-unique-because-they-are-fleeting-and-irreplaceable.md)
 **We must therefore have both sides to solve the human condition, of consciousness and an infinite heart in an uncertain world**. With only one side - the religious and the hedonistic, we can't solve the human condition.
 
 the problem of the religious man is that he tries to distort the ever changing reality such that it will fit to his eternal fix dogmas. It is based on the way words points on objects in the world. Words are just a representation, not the thing itself. Like money stores value, but its not value in itself (only what we buy with it). **Science and religion tried in their ways to create a worldview that fits their beliefs, both giving stability for the future, but the only reality is the present where we live.**
@@ -98,10 +110,10 @@ the problem of the religious man is that he tries to distort the ever changing r
 
 There's something that's beyond words or definitions, we call it god. its something that we know but can't describe. every attempt is bound to error, like trying to fill a paper cup with water. Using words is an attempt to fix what cannot be fix. That is because this type of knowledge is not intellectual but rather internal, natural, like "knowing" how to breath, the body does things automatically without our conscious awareness. The modern man has forgot this natural knowledge, he has forgotten about sleep, healthy diet, meaningful connections.
 
-People are focusing on cheap imitations [Platos Cave](/notes/platos-cave.md), they pursue glory, wealth, sex, success. We chase pleasures because the brain is in charge, trying to have infinite pleasure in a finite world full of uncertainty, Even if the body is full, even if we are already addicted and the drug doesn't provide more pleasure, its the thought about it that does.
+People are focusing on cheap imitations [Every object is a representation of a flawless essence](/notes/every-object-is-a-representation-of-a-flawless-essence.md), they pursue glory, wealth, sex, success. We chase pleasures because the brain is in charge, trying to have infinite pleasure in a finite world full of uncertainty, Even if the body is full, even if we are already addicted and the drug doesn't provide more pleasure, its the thought about it that does.
 That's the essence of capitalist consumerism, trying to fill the void with cheap imitations. **we have stopped listening to ourselves**.
 
-**Chasing security is a contradiction, because security is the stability of the "self", keeping him free from change, but life is change itself** [life is change](/notes/life-is-change.md). To separate the self means to detach oneself from life. Another issue is that you can't separate the self because the self doesn't exist. To experience something is be aware of it, and there is no external observer. Like you can't "hear hearing". To be aware to who "is thinking right now" is its own experience, and you can't do that while doing something else. To listen to music is to listen to music, not saying "I'm listening to music". **To be aware is to experience** [mindfulness](/notes/intentionality.md), and they are both temporal. [self doesn't exist](/notes/self-doesnt-exist.md)
+**Chasing security is a contradiction, because security is the stability of the "self", keeping him free from change, but life is change itself** [Life is change](/notes/life-is-change.md). To separate the self means to detach oneself from life. Another issue is that you can't separate the self because the self doesn't exist. To experience something is be aware of it, and there is no external observer. Like you can't "hear hearing". To be aware to who "is thinking right now" is its own experience, and you can't do that while doing something else. To listen to music is to listen to music, not saying "I'm listening to music". **To be aware is to experience** [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md), and they are both temporal. [self doesn't exist](/notes/self-doesnt-exist.md)
 
 #### On Feeling Vs Knowing
 
@@ -111,7 +123,7 @@ Same as we're happy in moments of joy, and not because we told ourselves "I'm ha
 
 #### On Morality
 
-morality is problematic, no matter what the content is. whether [Utilitarianism](/notes/utilitarianism.md), or [virtue theory](/notes/virtue-theory.md), since they are all connect a result or an action to a self (the one who act). these theories only increase the gap between the experiencing mind and the thinking mind, increasing pain and frustration. For example, if I try to be generous and fail, I will feel bad with myself and start a nasty circle of pain. Even if I succeeded, then there's something "cold" about it, because I'm generous to be generous, to act according to a rule, and not for the benefit of others. In such morality there is no freedom to the individual, since he is bent to the rules. True **freedom and morality comes from being "one with the universe"** [Life as Flow](/notes/life-as-flow.md), from understanding that the self doesn't exist and that there's unity, since unity is love. **So a person that is a "one" is a loving, honest, free person. Not because he tries to, but because he is "present", aware that the self doesn't exist**.
+morality is problematic, no matter what the content is. whether [Maximizing pleasure and minimizing suffering defines moral action](/notes/maximizing-pleasure-and-minimizing-suffering-defines-moral-action.md), or [Cultivating virtues creates a good moral character](/notes/cultivating-virtues-creates-a-good-moral-character.md), since they are all connect a result or an action to a self (the one who act). these theories only increase the gap between the experiencing mind and the thinking mind, increasing pain and frustration. For example, if I try to be generous and fail, I will feel bad with myself and start a nasty circle of pain. Even if I succeeded, then there's something "cold" about it, because I'm generous to be generous, to act according to a rule, and not for the benefit of others. In such morality there is no freedom to the individual, since he is bent to the rules. True **freedom and morality comes from being "one with the universe"** [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md), from understanding that the self doesn't exist and that there's unity, since unity is love. **So a person that is a "one" is a loving, honest, free person. Not because he tries to, but because he is "present", aware that the self doesn't exist**.
 
 ### Highlights
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20240115182905
 Created: '2024-01-15 18:29'
-Modified: '2026-04-09 16:57'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Intrinsic
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   for its utility or potential benefits, fostering genuine enjoyment and
   motivation.
 new_schema: true
+Topic:
+  - '[[Value and Meaning]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,9 +52,3 @@ For example, a person who loves to play the guitar doesn't asks himself "what do
 ## Visual
 
 ![Intrinsic](/notes/intrinsic.webp)
-
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-↩️Origin::
-🔗Link::
-

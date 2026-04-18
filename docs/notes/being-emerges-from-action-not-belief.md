@@ -1,13 +1,13 @@
 ---
 UUID: 20231002194458
 Created: '2023-10-02 19:44'
-Modified: '2026-04-01 14:44'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Being emerges from action not belief.png]]'
 ImageText: A hot air ballon with fire in it
 Description: >-
@@ -21,6 +21,10 @@ aliases:
   - Believing makes it real
   - Change through actions
 new_schema: true
+Topic:
+  - '[[Identity Formation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,8 +60,3 @@ We tend to believe that [change starts from the inside out](/notes/change-starts
 ## Visual
 
 ![Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.webp)
-
-## Overview
-🔼Topic:: [Identity Formation](/notes/identity-formation.md)
-Origin::
-🔗Link::

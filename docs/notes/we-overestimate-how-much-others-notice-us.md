@@ -1,8 +1,8 @@
 ---
 UUID: 20230413174313
 Created: '2023-04-13 17:43'
-Modified: '2026-04-08 13:38'
-Version: 2
+Modified: '2026-04-11 22:29'
+Version: 3
 tags: []
 aliases:
   - The Spotlight Effect
@@ -11,6 +11,10 @@ Description: >-
   notice their actions and appearance, leading to unnecessary concern about
   their image and social judgment.
 new_schema: true
+Topic:
+  - '[[Overconfidence and Self-Assessment]]'
+Origin: '[[The Curiosity Chronicle by Sahil Bloom]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -40,8 +44,3 @@ Our [Social environment shapes behavior and identity through norms and conformit
 
 ### Open questions
 
-
-## Overview
-🔼Topic:: [Overconfidence and Self-Assessment](/notes/overconfidence-and-self-assessment.md)
-Origin:: [The Curiosity Chronicle by Sahil Bloom](/notes/the-curiosity-chronicle-by-sahil-bloom.md)
-Link:: https://www.sahilbloom.com/newsletter/the-spotlight-effect

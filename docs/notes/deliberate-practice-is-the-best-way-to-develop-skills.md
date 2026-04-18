@@ -1,13 +1,13 @@
 ---
 UUID: 20230418190330
 Created: '2023-04-18 19:03'
-Modified: '2026-04-09 08:40'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Deliberate Practice is the best way to develop skills.png]]'
 ImageText: >-
   An archer getting progressively closer to hitting a target's bullseye from day
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Deliberate Practice
 new_schema: true
+Topic:
+  - '[[Deliberate Practice and Skill Acquisition]]'
+Origin: '[[Peak (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ Common components of deliberate practice:
 ## Visual
 
 ![Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.webp)
-
-## Overview
-🔼Topic:: [Deliberate Practice and Skill Acquisition](/notes/deliberate-practice-and-skill-acquisition.md)
-◀Origin:: [Peak (book)](/books/peak-book.md)
-🔗Link::
-

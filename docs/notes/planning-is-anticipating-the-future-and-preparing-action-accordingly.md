@@ -1,13 +1,13 @@
 ---
 UUID: 20240101082411
 Created: '2024-01-01 08:24'
-Modified: '2026-04-09 16:54'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Planning
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   achieve desired outcomes, often enhancing productivity while also posing risks
   of procrastination and unrealistic expectations.
 new_schema: true
+Topic:
+  - '[[Strategic Planning and Preparation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,9 +60,3 @@ Additionally, while it has advantages, it can become a form of [Procrastination 
 ## Visual
 
 ![Planning](/notes/planning.webp)
-
-## Overview
-🔼Topic:: [Strategic Planning and Preparation](/notes/strategic-planning-and-preparation.md)
-↩️Origin::
-🔗Link::
-

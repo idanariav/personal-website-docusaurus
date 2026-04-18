@@ -1,13 +1,13 @@
 ---
 UUID: 20250307094825
 Created: '2025-03-07 09:48'
-Modified: '2026-04-10 06:19'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Disappointment is the gap between expectations and reality.png]]'
 ImageText: >-
   A superhero with a cape on the left labeled Expectation versus a tired person
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Disappointment
 new_schema: true
+Topic:
+  - '[[Emotions as Signals]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ Disappointment might also lead to [We regret inaction more than action taken](/n
 ## Visual
 
 ![Disappointment is the gap between expectations and reality](/notes/disappointment-is-the-gap-between-expectations-and-reality.webp)
-
-## Overview
-🔼Topic:: [Emotions as Signals](/notes/emotions-as-signals.md)
-↩️Origin::
-🔗Link::
-

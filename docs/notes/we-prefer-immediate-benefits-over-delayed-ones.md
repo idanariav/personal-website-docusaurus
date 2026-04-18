@@ -1,13 +1,13 @@
 ---
 UUID: 20220701061138
 Created: '2022-07-01 06:11'
-Modified: '2026-04-08 13:32'
+Modified: '2026-04-11 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Present Bias
   - hyperbolic discounting
@@ -17,6 +17,10 @@ Description: >-
   future benefits, often leading to decisions that favor short-term
   gratification despite potential long-term consequences.
 new_schema: true
+Topic:
+  - '[[Status Quo and Inertia]]'
+Origin: '[[Anne-Laure Le Cunff]]'
+URL: 'https://nesslabs.com/present-bias'
 draft: false
 SiteProcssed: true
 ---
@@ -31,7 +35,7 @@ How much do we prefer the present over the future?
 
 ### Explanation
 
-When we have to make a decision between now and the future, we have a bias that originates from our current mentality, emotions and the [Desire perpetuates endless wanting over satisfaction](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md) for immediate [gratification](/notes/distraction.md). That's why we also plan to do a workout "tomorrow", but when tomorrow comes we prefer to binge [Insight Gap](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md).
+When we have to make a decision between now and the future, we have a bias that originates from our current mentality, emotions and the [Desire perpetuates endless wanting over satisfaction](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md) for immediate [gratification](/notes/distractions-pull-us-towards-them-as-a-temptation.md). That's why we also plan to do a workout "tomorrow", but when tomorrow comes we prefer to binge [Insight Gap](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md).
 
 ### Why it matters
 
@@ -62,9 +66,3 @@ Unfortunately, constantly preferring the present over the future leads to bad [P
 ## Visual
 
 ![Present Bias](/notes/present-bias.webp)
-
-## Overview
-🔼Topic:: [Status Quo and Inertia](/notes/status-quo-and-inertia.md)
-Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)
-🔗Link:: [Source](https://nesslabs.com/present-bias)
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20250227070636
 Created: '2025-02-27 07:06'
-Modified: '2026-04-03 18:12'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Manifesting
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   acceptance, and often leading to naivety and entitlement without proactive
   effort to achieve desired outcomes.
 new_schema: true
+Topic:
+  - '[[Acceptance and Effortless Action]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ However, manifesting is problematic due to several reasons:
 ## Visual
 
 ![manifesting](/notes/manifesting.webp)
-
-## Overview
-🔼Topic:: [Acceptance and Effortless Action](/notes/acceptance-and-effortless-action.md)
-↩️Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20230419075549
 Created: '2023-04-19 07:55'
-Modified: '2026-04-10 06:09'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Transferred Learning
   - Transferred Learning
@@ -16,6 +16,11 @@ Description: >-
   adaptability and creativity by establishing connections and understanding
   underlying principles rather than mere memorization.
 new_schema: true
+Topic:
+  - '[[Knowledge Structure and Transfer]]'
+  - '[[Creative Ideation and Innovation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -60,10 +65,3 @@ The broader sense is transferring knowledge between fields. For example, using k
 ## Visual
 
 ![Transferred Learning](/notes/transferred-learning.webp)
-
-## Overview
-🔼Topic:: [Knowledge Structure and Transfer](/notes/knowledge-structure-and-transfer.md)
-🔼Topic:: [Creative Ideation and Innovation](/notes/creative-ideation-and-innovation.md)
-◀Origin::
-🔗Link::
-

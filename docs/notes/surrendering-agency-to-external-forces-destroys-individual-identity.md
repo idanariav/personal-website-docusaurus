@@ -1,13 +1,13 @@
 ---
 UUID: 20240426095328
 Created: '2024-04-26 09:53'
-Modified: '2026-04-06 23:11'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Lost in the finite
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   influences, resulting in a one-dimensional identity and a denial of
   self-responsibility in finding meaning in life.
 new_schema: true
+Topic:
+  - '[[Freedom and Agency]]'
+Origin: '[[Soren Kierkegaard (philosopher)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ While it is not always easy to detect, we should be wary that we don't get lost 
 ## Visual
 
 ![lost in the finite](/notes/lost-in-the-finite.webp)
-
-## Overview
-🔼Topic:: [Freedom and Agency](/notes/freedom-and-agency.md)
-↩️Origin:: [Soren Kierkegaard (philosopher)](/notes/soren-kierkegaard-philosopher.md)
-🔗Link::
-

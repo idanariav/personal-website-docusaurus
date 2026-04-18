@@ -1,13 +1,13 @@
 ---
 UUID: 20240502094323
 Created: '2024-05-02 09:43'
-Modified: '2026-04-04 10:59'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Self Criticism
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   undermining self-worth and perpetuating a negative cycle of self-hatred and
   unconstructive beliefs.
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ Self criticism is a swamp that only grows deeper and harder to escape [Harmful a
 ## Visual
 
 ![Self Criticism](/notes/self-criticism.webp)
-
-## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-↩️Origin::
-🔗Link::
-

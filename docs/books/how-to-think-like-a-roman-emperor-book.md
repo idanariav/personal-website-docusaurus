@@ -1,19 +1,23 @@
 ---
 UUID: 20221002151457
 Created: '2022-10-02 15:14'
-Modified: '2025-03-29 15:59'
+Modified: '2026-04-13 06:14'
 tags: []
 Author:
   - '[[Donald J. Robertson]]'
 Genre: Philosophy
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 304
 Rate: 4
 PublishDate: 2019-04-02T00:00:00.000Z
@@ -21,19 +25,30 @@ FinishDate: 2022-10-02T00:00:00.000Z
 Cover: >-
   http://books.google.com/books/content?id=xGBbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/39863499-how-to-think-like-a-roman-emperor'
+Description: >-
+  It argues that judgment shapes our perception of good and bad, emphasizing the
+  importance of self-awareness, agency, and holistic understanding of actions.
+  By preparing for challenges and viewing them as growth opportunities, we can
+  foster connections and act with intention, guided by mentors and virtues.
+FullTitle: How to Think Like a Roman Emperor - The Stoic Philosophy of Marcus Aurelius
+StartDate: 2022-09-15T00:00:00.000Z
+ASIN: B07D2C5NNV
+Reread: 0
+Topic:
+  - >-
+    [[Stoicism teaches detachment from external events to maintain inner
+    freedom]]
+  - '[[Wellbeing (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # How to Think like a Roman Emperor (book)
 
-## Connect
-🔼Topic:: [Stoicism](/notes/stoicism.md)
-🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Cognitive dissonance** - good or bad stems from judgment, not from inherit part of the action
 2. **Holistically** - people are more than their actions, and so are you. Consider circumstances. People (or you) might be wrong, acting on good intentions or succumbed to emotions or weaknesses
@@ -43,11 +58,11 @@ SiteProcssed: true
 6. **practice agency** - emotions and urges will naturally arise, but you have the ability and freedom to decide how to respond
 7. **connect** - to be wise is to see that we are all connected, strive to improve the life of people you meet, since they are your family, even those who have done you wrong
 8. **be a student** - every situation, especially the bad ones, are an opportunity to grow, either by learning something new, or a chance to practice your virtues
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 the book was a good combination between philosophy and practical guide for stoicism and improving mental health in general, while including a nice section about the history of the roman emperor as we go along with him to see the challenges he faced and the way he chose to address them.
@@ -57,18 +72,18 @@ the book was a bit repetitive, the same methods introduced in the first few chap
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
-### 🖼️Outline
+### Outline
 
-![How to think like a roman emperor (book).webp](/books/how-to-think-like-a-roman-emperor-book.webp)
-## 📒 Notes
+![How to think like a roman emperor (book)](/books/how-to-think-like-a-roman-emperor-book.webp)
+## Notes
 
 ### Intro
 
-The main pillar of stoic philosophy is that we always have the [freedom of choice](/notes/agency.md). External events can never affect our internal world and our actions, it is up to us to decide how to act and how to view things.
+The main pillar of stoic philosophy is that we always have the [freedom of choice](/notes/agency-is-the-ability-to-connect-desires-and-actions.md). External events can never affect our internal world and our actions, it is up to us to decide how to act and how to view things.
 
 :::note[INTRODUCTION]
 
@@ -83,16 +98,16 @@ The main pillar of stoic philosophy is that we always have the [freedom of choic
 
 history of [Marcus Aurelius](/notes/marcus-aurelius.md) and stoicism, the main aspects of stoicism are described in general terms, mainly virtues and not clinging to things you cannot change.
 
-In stoicism, we need to live in accordance with nature, and part of human nature is it's wisdom, so we should love it, use it, and try to improve it. [Life as Flow](/notes/life-as-flow.md)
+In stoicism, we need to live in accordance with nature, and part of human nature is it's wisdom, so we should love it, use it, and try to improve it. [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md)
 
 *about the inherit value of external things*
-**The wise man needs nothing, but uses what he has well, while the fool needs many things and uses them wrongly**. [Attachment](/notes/attachment.md)
-External things such as wealth, health and friends is preferred, but not good in themselves, because I can use those things for evils as much as good. I can spend all my money at the casino And end up poor and miserable. While it is not wrong to pursue those things, it is wrong if we value them more than our virtues. Money should never be more important than justice for example. [External Motivation](/notes/external-motivation.md) [Minimalism](/notes/addition-by-subtraction.md)
+**The wise man needs nothing, but uses what he has well, while the fool needs many things and uses them wrongly**. [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md)
+External things such as wealth, health and friends is preferred, but not good in themselves, because I can use those things for evils as much as good. I can spend all my money at the casino And end up poor and miserable. While it is not wrong to pursue those things, it is wrong if we value them more than our virtues. Money should never be more important than justice for example. [External motivation crowds out intrinsic drive and sustainability](/notes/external-motivation-crowds-out-intrinsic-drive-and-sustainability.md) [Minimalism](/notes/improvement-often-comes-from-removing-rather-than-adding.md)
 
 *about the stoicism core principles*
 **The stoic virtues are wisdom, courage, justice and moderation.**
 
-Stoicism supports universality, since we are all humans with a capacity to reason, and it is this capacity that connects us, should we should be considered as brothers, as equals. [Justice](/notes/justice.md) [Inequality](/notes/inequality.md)
+Stoicism supports universality, since we are all humans with a capacity to reason, and it is this capacity that connects us, should we should be considered as brothers, as equals. [All moral agents are inherently entitled to basic rights regardless of utility or merit](/notes/all-moral-agents-are-inherently-entitled-to-basic-rights-regardless-of-utility-or-merit.md) [Inequality is a normative problem caused by unjust distribution of resources and rights](/notes/inequality-is-a-normative-problem-caused-by-unjust-distribution-of-resources-and-rights.md)
 (How would they treat mentally disabled? i.e. those who are incapable of reasoning)
 
 :::note[THE DEAD EMPEROR]
@@ -114,13 +129,13 @@ Stoicism supports universality, since we are all humans with a capacity to reaso
 
 ### Chapter 2 - how to Speak Wisely
 
-Stoicism is not about cancelling your emotions, but rather replacing the negative emotions with positives emotions [Emotional Aikido](/notes/emotional-aikido.md). The **bad emotions will come, the question is how do we respond to them** [Life is pain](/notes/life-is-pain.md).
-by practicing stoicism we can generate [Emotional Resilience](/notes/emotional-resilience.md) from the outside world.
+Stoicism is not about cancelling your emotions, but rather replacing the negative emotions with positives emotions [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md). The **bad emotions will come, the question is how do we respond to them** [Life is pain](/notes/life-is-pain.md).
+by practicing stoicism we can generate [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md) from the outside world.
 
-in order to take away the power from negative emotions, and avoid creating unnecessary anxiety and [Stress](/notes/stress.md), we first must realize that these negative emotions are not contained in the external event, but rather are the result of our [Judgment](/notes/judgment.md), of our [Subjective Reality](/notes/subjective-reality.md) on life. i.e **"good" and "bad" are judgmental values, not facts.**
+in order to take away the power from negative emotions, and avoid creating unnecessary anxiety and [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md), we first must realize that these negative emotions are not contained in the external event, but rather are the result of our [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md), of our [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md) on life. i.e **"good" and "bad" are judgmental values, not facts.**
 one way of doing that is to ask ourselves "so what", after something "bad" happens. usually the damage is not as bad as we think, or it is entirely in our heads.
-asking "so what" can also help us figure out what is the next best step, moving away from focusing on the negative event, to a possible solution. [introspection](/notes/introspection.md)
-this brings us to the second step is to view each situation as a potential lesson, opportunity to grow, to present strength or develop emotional resilience. [Growth Mindset](/notes/growth-mindset.md)
+asking "so what" can also help us figure out what is the next best step, moving away from focusing on the negative event, to a possible solution. [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md)
+this brings us to the second step is to view each situation as a potential lesson, opportunity to grow, to present strength or develop emotional resilience. [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)
 
 speaking truth is helpful as long as the message gets through.
 
@@ -139,16 +154,16 @@ speaking truth is helpful as long as the message gets through.
 
 ### Chapter 3 - how to Follow Your Values
 
-in order to live by your values, to be true to yourself and not a slave to your emotions, you need to develop [Self-awareness](/notes/self-awareness.md), same as walking on stones without shoes, be mindful of your actions and emotions. [mindfulness](/notes/intentionality.md)
+in order to live by your values, to be true to yourself and not a slave to your emotions, you need to develop [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md), same as walking on stones without shoes, be mindful of your actions and emotions. [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md)
 
 #### Passively:
-be always open for [Feedback](/notes/feedback.md), but give different weights to those opinions based on the character and the evidence based history of that person.
+be always open for [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md), but give different weights to those opinions based on the character and the evidence based history of that person.
 
 #### Actively:
-search for [Mentor](/notes/mentor.md), real or imaginary, that embodies the values and attitudes you want to develop in yourself. ask yourself "what would x do/say" in this situation, imagine that important decisions are being discussed in a panel of all your mentors.
+search for [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md), real or imaginary, that embodies the values and attitudes you want to develop in yourself. ask yourself "what would x do/say" in this situation, imagine that important decisions are being discussed in a panel of all your mentors.
 
 #### Periodically
-(Linked: [Periodical Review](/notes/periodical-review.md)):
+(Linked: [Regular review cycles enable progress tracking and alignment](/notes/regular-review-cycles-enable-progress-tracking-and-alignment.md)):
 develop a daily cycle of self-learning.
 in the morning, ask yourself what are you planning to do today, and which values will accompany you today, what would the ideal valuable day be like.
 in the evening, ask yourself how the day went, what did you do well, what do you still need to improve and implement it towards tomorrow.
@@ -168,14 +183,14 @@ in the evening, ask yourself how the day went, what did you do well, what do you
 #### Happiness
 according to stoics, wellbeing in life is:
 1. **internal** - it is an intrinsic part of your life, and not depended on external things such as food or sex. it comes from you and the sense of satisfaction from your life and your attitude. [Happiness is an internal state](/notes/happiness-is-an-internal-state.md)
-2. **active** - happiness is the by product of following your values and acting according to your wisdom and your nature, it is not something passive that happens to you [Proactiveness](/notes/proactiveness.md)
+2. **active** - happiness is the by product of following your values and acting according to your wisdom and your nature, it is not something passive that happens to you [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md)
 3. **not a goal in itself** - the goal in life is to follow your nature, develop your wisdom and acting according to your values. Happiness would be a by product of that, but it cannot be a goal in itself if it comes at the expense of the main goal
 4. **external happiness is fine, with moderation** - same as alcohol is not a problem unless you are an alcoholic, the same with all those external ways of pleasure. ironically, usually those who consume too much of these things become addicted and the pleasure they receive from it drops, compared to those who enjoy those things with moderation and awareness. [Happiness is contentment](/notes/happiness-is-contentment.md)
 
 #### How to Replace Bad Habits with Good
 1. **know which habits are good and which are bad** - usually it is obvious but not always. compare your habits to your values, ask yourself does these lead you to become a better you or rather distract you from what's important
-2. **be aware of the triggers** - notice the [Cue](/notes/priming.md) for each habit, you can either do it a daily review, or a simple mental note of it, what state of mind/ environment /actions trigger the bad habits?
-3. **use** [Cognitive Distancing](/notes/cognitive-distancing.md) - separate between the cue and the reward. ask yourself what would your mentor say about it, or imagine it in a less appealing way (instead of - this chocolate is amazing, say to yourself - this is a 90% fat plant based synthetic food).
+2. **be aware of the triggers** - notice the [Cue](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) for each habit, you can either do it a daily review, or a simple mental note of it, what state of mind/ environment /actions trigger the bad habits?
+3. **use** [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md) - separate between the cue and the reward. ask yourself what would your mentor say about it, or imagine it in a less appealing way (instead of - this chocolate is amazing, say to yourself - this is a 90% fat plant based synthetic food).
 4. **act differently** - separate the cue from the action. try either to avoid the action completely, or to do something different instead. ask yourself what would your mentor do in this situation, or whether there are better activities to fill your time with, things that will help you grow and become who you are meant to be.
 
 :::note[THE CHOICE OF HERCULES]
@@ -197,9 +212,9 @@ according to stoics, wellbeing in life is:
 
 we should focus on the limits of pain, instead of it's experience. if the pain is too much to bear, it would end us quickly, otherwise it means that we can tolerate it.
 
-another way to cope is to do "exposure inoculation", **by exposing ourselves and facing small amounts of stress/pain, we can strengthen ourselves and our endurance when bigger pains will present themselves.** [Prevention](/notes/prevention.md)
+another way to [cope](/notes/coping-trades-short-term-relief-for-long-term-cost.md) is to do "exposure inoculation", **by exposing ourselves and facing small amounts of stress/pain, we can strengthen ourselves and our endurance when bigger pains will present themselves.** [Handle problems while they are still small](/notes/handle-problems-while-they-are-still-small.md)
 
-Same in previous chapter, we can distance ourselves from the pain, treat it only as facts and not as a devastating harmful thing for us. To separate between the mind and the body (but pain actually causes a chemical reaction in the brain, can we truly separate them?) [Mind-Body Duality](/notes/mind-body-duality.md)
+Same in previous chapter, we can distance ourselves from the pain, treat it only as facts and not as a devastating harmful thing for us. To separate between the mind and the body (but pain actually causes a chemical reaction in the brain, can we truly separate them?) [The mind and body are separate](/notes/the-mind-and-body-are-separate.md)
 
 :::note[GRASPING THE NETTLE]
 
@@ -216,10 +231,10 @@ Same in previous chapter, we can distance ourselves from the pain, treat it only
 
 ### Chapter 6 - how to Relinquish Fear
 
-[Fear](/notes/fear.md) is future based, grounded in outcomes that we only have some effect on. A way to reduce the anxiety and fear sensations, is to increase our immunization to it by doing the following:
+[Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md) is future based, grounded in outcomes that we only have some effect on. A way to reduce the anxiety and fear sensations, is to increase our immunization to it by doing the following:
 1. **cognitive distance** - If you acted the best you could, then the failure is not your fault. External factors are always in play, you just have to keep your attention on your attitude.
 2. **focus on the present** - Since the fear stems from a possible future, it means that it might hurt us even if it won't come to pass. Keep your attention on your actions right now
-3. **imagine your worst case scenario** - By imagining it, it will be as an exposure therapy, reducing the default stress levels. It will also make it easier to find creative solutions to the problem once the stress is out of the way. [Pre-Mortem](/notes/pre-mortem.md)
+3. **imagine your worst case scenario** - By imagining it, it will be as an exposure therapy, reducing the default stress levels. It will also make it easier to find creative solutions to the problem once the stress is out of the way. [Pre-mortem anticipates failure modes to enable preparation](/notes/pre-mortem-anticipates-failure-modes-to-enable-preparation.md)
 
 :::note[THE INNER CITADEL AND WAR OF MANY NATIONS]
 
@@ -234,9 +249,9 @@ Same in previous chapter, we can distance ourselves from the pain, treat it only
 to avoid anger, we should follow these tips:
 1. **cognitive distancing** - understand that anger stems from judgment, and not the event itself.
 2. **Connect with others** - according to stoicism, the live in accordance with logic and nature is to be a social creature. it is a deep part of us to create connections and engage with others. even if they anger us, we should see it as an opportunity to grow and practice virtues rather than cause harm or disconnect. [Human is a social being](/notes/human-is-a-social-being.md)
-3. **remember that people are not just their action, they are a whole** - meaning that they could be doing this "bad" thing because they believe it is good, or perhaps they are making a mistake, or being influenced by their circumstances or upbringings. assuming good intentions instead of mal intentions will often lead to more conflict resolutions and better results (and feelings) overall, and mostly, it will probably be more accurate. [Just World Bias](/notes/just-world-bias.md)
-4. **You might be wrong** - in accordance with previous point, you might also be wrong, doing something that seems right to you but wrong to others. [Humility](/notes/humility.md)
-5. **Think long term** - is this worth being angry for? [Zoom out](/notes/zoom-out.md)
+3. **remember that people are not just their action, they are a whole** - meaning that they could be doing this "bad" thing because they believe it is good, or perhaps they are making a mistake, or being influenced by their circumstances or upbringings. assuming good intentions instead of mal intentions will often lead to more conflict resolutions and better results (and feelings) overall, and mostly, it will probably be more accurate. [We attribute bad outcomes to luck but others' misfortunes to their faults](/notes/we-attribute-bad-outcomes-to-luck-but-others-misfortunes-to-their-faults.md)
+4. **You might be wrong** - in accordance with previous point, you might also be wrong, doing something that seems right to you but wrong to others. [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md)
+5. **Think long term** - is this worth being angry for? [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md)
 6. **remember that anger harms you most** - since it turns you into a different person, one that is not acting according to virtues.
 7. **Nobody is perfect** - it is only rational to expect that someone someday will cause as anger, so we shouldn't be as surprised or rattled when that happens.
 
@@ -256,7 +271,7 @@ to avoid anger, we should follow these tips:
 
 ### Chapter 8 - Death
 
-The wise man shouldn't fear [Death](/notes/death.md). Because:
+The wise man shouldn't fear [Mortality shapes meaning and motivates acceptance](/notes/mortality-shapes-meaning-and-motivates-acceptance.md). Because:
 1. He will never experience it, since it is a lack of experience
 2. if you're in pain, this shall release you from it. If your life is well, then go in peace being satisfied with it
 3. death is the final step in our ever changing life, we should except that

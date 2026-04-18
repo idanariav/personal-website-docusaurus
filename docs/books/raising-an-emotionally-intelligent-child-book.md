@@ -1,40 +1,55 @@
 ---
 UUID: 20240331220714
 Created: '2024-03-31 22:07'
-Modified: '2025-05-02 08:53'
+Modified: '2026-04-13 06:17'
 tags: []
+FullTitle: Raising An Emotionally Intelligent Child
+Description: >-
+  It argues that emotions, especially negative ones, are vital signals for
+  growth. Building emotional resilience occurs during crises, emphasizing
+  empathy and validation over problem-solving. Children require guidance to
+  develop self-awareness and learn through their own choices and mistakes,
+  mirroring the behaviors they observe in adults.
 Author:
   - '[[John Gottman]]'
   - '[[Joan Declaire]]'
+URL: >-
+  https://www.goodreads.com/book/show/213186.Raising_An_Emotionally_Intelligent_Child_The_Heart_of_Parenting
+Cover: >-
+  http://books.google.com/books/content?id=ovawL4cGhJ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Family & Relationships
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B005HF2VI2
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 246
+Reread: 0
 Rate: 4
 PublishDate: 1998-08-12T00:00:00.000Z
+StartDate: 2024-04-11T00:00:00.000Z
 FinishDate: '[[2024-04-18|2024-04-18]]'
-Cover: >-
-  http://books.google.com/books/content?id=ovawL4cGhJ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: >-
-  https://www.goodreads.com/book/show/213186.Raising_An_Emotionally_Intelligent_Child_The_Heart_of_Parenting
+Image: null
+aliases: ''
+Topic:
+  - '[[Education (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Raising An Emotionally Intelligent Child
 
-## 🔗Connect
-🔼Topic:: [Education (Map)](/mocs/education-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Emotions are signals** - we shouldn't dismiss, discourage or ignore emotions, specifically negative ones. They are too both a sign, an open door to the child's emotional state, and a key opportunity for growth.
 2. **Emotional resilience is built through crisis** - it is precisely the moments when emotions run hot that we can teach how to deal with emotions, and connect with our child, a two in one.
@@ -43,11 +58,24 @@ SiteProcssed: true
 5. **Let them choose and make mistakes** - don't come with a solution, or criticize them if they offer a bad one. Only ask questions to make them come up with their own solutions, and test them out themselves, learning what works through trail and error
 6. **Children learn from us** - how we behave in our relationship, with others, with them, is how they will treat others
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Learn Emotional Coaching** - study and adopt the five-step emotional coaching approach (awareness, opportunity, empathic listening, labeling, resolving) and apply it when your child shows negative emotions.
+2. **Practice Self-Awareness** - keep a journal and regularly reflect on your own emotions so you can recognize and regulate them before interacting with your child.
+3. **Take a Break When Overwhelmed** - step away calmly if you feel about to lose your temper, return when calmer, and apologize and repair if you reacted poorly.
+4. **Recognize Emotions as Opportunities** - intentionally treat moments of anger, sadness, or fear as chances for intimacy and teaching rather than problems to be dismissed.
+5. **Listen Empathically and Mirror** - give full attention, observe nonverbal cues, reflect back your best guess of their feelings without judgment or interrogation.
+6. **Help the Child Label Emotions** - offer emotion words (sad, angry, jealous, etc.) so the child can name and understand what they feel.
+7. **Set Limits on Behavior, Not Feelings** - clearly enforce rules about actions (e.g., no hitting) while validating that all feelings are acceptable.
+8. **Facilitate Child-Led Problem Solving** - ask questions to help the child generate solutions, encourage experimentation, and offer help only if they ask.
+9. **Avoid Criticism, Gaslighting, and Taking Sides** - refrain from humiliating comments, dismissing feelings, or automatically siding with authority; focus on understanding.
+10. **Give Choices and Share Interests** - provide age-appropriate choices to build autonomy and actively learn and engage with your child’s hopes and interests for connection.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -55,20 +83,20 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book is rather progressive to when it was written, but sometimes the age shows, like the chapter about fatherhood. But in other cases, it is surprisingly nice to see something so gender neutral.
 
-### 🖼️Outline
+### Outline
 
-![Raising An Emotionally Intelligent Child (book).webp](/books/raising-an-emotionally-intelligent-child-book.webp)
+![Raising An Emotionally Intelligent Child (book)](/books/raising-an-emotionally-intelligent-child-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Preface
 
-Now more than ever we need to help our children develop [emotional intelligence](/notes/emotional-resilience.md). This is done through creating a [connection](/notes/relationships.md) with them. **Parenting is about support and empathy, rather than creating submissive and obeying children** [Micro-Management](/notes/micro-management.md). The key is how we interact with them when emotions are high. Usually parents tend to be either too cold or too loving which causes them to avoid dealing with those moments in the right way. They either avoid it, criticize it, or help the child avoid these emotions, which is counter productive.
+Now more than ever we need to help our children develop [emotional intelligence](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md). This is done through creating a [connection](/notes/deep-relationships-require-trust-listening-and-empathy.md) with them. **Parenting is about support and empathy, rather than creating submissive and obeying children** [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md). The key is how we interact with them when emotions are high. Usually parents tend to be either too cold or too loving which causes them to avoid dealing with those moments in the right way. They either avoid it, criticize it, or help the child avoid these emotions, which is counter productive.
 
 Parents need to learn emotional coaching
 
@@ -83,7 +111,7 @@ Parents need to learn emotional coaching
 
 ### Emotional Coaching - the Key to Raising Emotionally Intelligent Children
 
-**The key to emotional coaching is not trying to dismiss or distract the children from expressing their emotions**. [Gaslighting](/notes/gaslighting.md) such as "there's no reason to be angry" only causes them to lose their self esteem and trust in the parent, they feel distant because they are not seen.
+**The key to emotional coaching is not trying to dismiss or distract the children from expressing their emotions**. [Dismissing someone's experience erodes their reality](/notes/dismissing-someones-experience-erodes-their-reality.md) such as "there's no reason to be angry" only causes them to lose their self esteem and trust in the parent, they feel distant because they are not seen.
 
 Through emotional coaching, we can help them become more empathic, emotionally resilient, better friends, more self control and overall happier.
 
@@ -115,7 +143,7 @@ This approach won't make all the conflicts go away, but it will make them less e
 
 ### Assessing Your Parenting Style
 
-Unfortunately most of us are not born as emotional coaches, even if we are loving and caring, one must do [introspection](/notes/introspection.md) to see the nature of their parenting.
+Unfortunately most of us are not born as emotional coaches, even if we are loving and caring, one must do [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md) to see the nature of their parenting.
 
 Four types of parenting:
 1. **Dismissive** - ignores the child's emotional state, usually thinking that negative emotions are a problem that needs fixing by distractions or gaslighting. They believe that focusing on those emotions will only increase the problem, and are the result of the child's lack of perspective
@@ -136,27 +164,27 @@ Four types of parenting:
 
 ### Five Key Steps for Emotional Coaching
 
-The key of emotional coaching is [empathy](/notes/empathy.md), it is to truly listen to your child, to empathize with their emotions, [validating](/notes/validation.md) them. This empathy creates [trust](/notes/trust.md), and with trust comes the opportunity for you to think of a solution together, instead of telling them what to do [Cooperation](/notes/cooperation.md). Once a solution arises from them on their own account, it's much sticker. Empathy not only reduces the extreme cases in advance, it also gives them the tools to solve those later when they arise.
+The key of emotional coaching is [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md), it is to truly listen to your child, to empathize with their emotions, [validating](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md) them. This empathy creates [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md), and with trust comes the opportunity for you to think of a solution together, instead of telling them what to do [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md). Once a solution arises from them on their own account, it's much sticker. Empathy not only reduces the extreme cases in advance, it also gives them the tools to solve those later when they arise.
 
 The five steps in detail:
 
 #### Being Aware of the Child's Emotions
 
-**To be aware of others' emotion, we first have to be aware of own our** emotions [Self-awareness](/notes/self-awareness.md) Some of us, especially men, are often taught to hide their emotions, until they become invisible to themselves, and turning emotions into something evil, which just causes them to be expressed through outbursts, rather than small drops. To be aware of one's emotions, it is helpful to use[Journaling](/notes/journaling.md), to reflect on life's events and how it made you feel.
+**To be aware of others' emotion, we first have to be aware of own our** emotions [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md) Some of us, especially men, are often taught to hide their emotions, until they become invisible to themselves, and turning emotions into something evil, which just causes them to be expressed through outbursts, rather than small drops. To be aware of one's emotions, it is helpful to use[Journaling enables reflection and self-understanding through written documentation](/notes/journaling-enables-reflection-and-self-understanding-through-written-documentation.md), to reflect on life's events and how it made you feel.
 
-In those moments that we feel like we are going to burst on our kids, it's best to walk away and come back later, calmer. To take a break is much better than saying hurtful or cynical things that can damage their self esteem [Rest](/notes/rest.md). And if or when we fail, it's important to [apologize](/notes/apology.md), to repair. Tell the child that you're sorry, explain how you felt during and after.
+In those moments that we feel like we are going to burst on our kids, it's best to walk away and come back later, calmer. To take a break is much better than saying hurtful or cynical things that can damage their self esteem [Rest enables recovery and sustained performance](/notes/rest-enables-recovery-and-sustained-performance.md). And if or when we fail, it's important to [apologize](/notes/a-true-apology-includes-intent-to-repair.md), to repair. Tell the child that you're sorry, explain how you felt during and after.
 
-To recognize the child's emotional state, it's worth remembering that **most children would express their feelings through unrelated activities or words, they don't yet have the capacity to be aware of their own emotions** and explain it clearly to us. [Emotional Projection](/notes/emotional-projection.md). Meaning that the cause is different from the behavior we see. Some might be more open for healthy self expression through [Cognitive Distancing](/notes/cognitive-distancing.md), like [role playing](/notes/role-playing.md) or make belief, where they speak as a character.
+To recognize the child's emotional state, it's worth remembering that **most children would express their feelings through unrelated activities or words, they don't yet have the capacity to be aware of their own emotions** and explain it clearly to us. [We attribute our emotions to others and misread theirs](/notes/we-attribute-our-emotions-to-others-and-misread-theirs.md). Meaning that the cause is different from the behavior we see. Some might be more open for healthy self expression through [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md), like [role playing](/notes/role-playing.md) or make belief, where they speak as a character.
 
 #### Recognizing the Emotion as an Opportunity for Intimacy and Teaching
 
-**Negative emotions are solved only when they are recognized** and [Labeled](/notes/naming.md), not when ignored. Also it's easier to solve negative emotions before they develop into a full (Jump:: [Tantrum](/notes/emotional-hijacking.md), face it when it's still small.
+**Negative emotions are solved only when they are recognized** and [Labeled](/notes/naming-a-phenomenon-gives-us-power-over-it.md), not when ignored. Also it's easier to solve negative emotions before they develop into a full (Jump:: [Tantrum](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md), face it when it's still small.
 
 #### Listening Empathically and Validating the Child's Feelings
 
-**Reason and logic is not a useful tool in emotional situations**. First we must [listen](/notes/active-listening.md), dedicate our complete attention, notice facial expressions, body posture, tone, everything we can use to understand our child [non verbal communication](/notes/non-verbal-communication.md) Then, **we simply reflect back what we think they're saying, with no judgment** [Mirroring](/notes/mirroring.md). We validate their emotions, whatever they are. We don't try to assume, we give our best guess and wait for their response.
+**Reason and logic is not a useful tool in emotional situations**. First we must [listen](/notes/listening-well-requires-active-effort-to-understand.md), dedicate our complete attention, notice facial expressions, body posture, tone, everything we can use to understand our child [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md) Then, **we simply reflect back what we think they're saying, with no judgment** [Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md). We validate their emotions, whatever they are. We don't try to assume, we give our best guess and wait for their response.
 
-**We don't try to give advice, we just listen. We help them find their own solution**. [Dont Jump to the Rescue](/notes/dont-jump-to-the-rescue.md). Note that this is not an interrogation. We are not trying to squeeze the answer out of them. A "maybe" and "I don't know" is good enough to continue the conversation. They don't have yet the self awareness to know exactly what causes their behavior.
+**We don't try to give advice, we just listen. We help them find their own solution**. [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md). Note that this is not an interrogation. We are not trying to squeeze the answer out of them. A "maybe" and "I don't know" is good enough to continue the conversation. They don't have yet the self awareness to know exactly what causes their behavior.
 
 **They don't need a problem solver, they need a safe place to share their feelings.**
 
@@ -166,9 +194,9 @@ An important step of the process is to help them understand what they're feeling
 
 #### Setting Limits while Helping the Child Problem Solve
 
-Remember that in any case, the problem is the behavior, not the emotions. It has to be clear to the child that we have strict [Limits](/notes/limits.md) with certain behavior, like hitting someone, but it's okay to feel angry or jealous. [parental rules](/notes/parental-rules.md)
+Remember that in any case, the problem is the behavior, not the emotions. It has to be clear to the child that we have strict [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md) with certain behavior, like hitting someone, but it's okay to feel angry or jealous. [parental rules](/notes/parental-rules.md)
 
-Regardless, **only once the situation quiets down, we can switch to a "problem solving" step**. The best case is when we let them figure out the solution for themselves [supporting independence](/notes/supporting-independence.md), this helps them develop their own [creative thinking](/notes/ideation.md) and they are much more motivated to follow through due to [Cognitive Alignment](/notes/cognitive-alignment.md). We can continue asking questions to help them generate several solutions. Resist the urge to give your advice. Let them know that a solution is just a theory until it is tested, and you might need to test different solution until you find something that works (experimentation). Only **as a last resort we can offer our guidance, if they accept it first** ("Do you want my help?") [Consent](/notes/consent.md)
+Regardless, **only once the situation quiets down, we can switch to a "problem solving" step**. The best case is when we let them figure out the solution for themselves [supporting independence](/notes/supporting-independence.md), this helps them develop their own [creative thinking](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md) and they are much more motivated to follow through due to [Actions and physical states unconsciously shape our beliefs](/notes/actions-and-physical-states-unconsciously-shape-our-beliefs.md). We can continue asking questions to help them generate several solutions. Resist the urge to give your advice. Let them know that a solution is just a theory until it is tested, and you might need to test different solution until you find something that works (experimentation). Only **as a last resort we can offer our guidance, if they accept it first** ("Do you want my help?") [Consent requires explicit verbal confirmation](/notes/consent-requires-explicit-verbal-confirmation.md)
 
 :::note[THE FIVE KEY STEPS FOR EMOTION COACHING]
 
@@ -196,10 +224,10 @@ Regardless, **only once the situation quiets down, we can switch to a "problem s
 ### Emotion Coaching Strategies
 
 Some helpful tips to make sure a situation doesn't escalate:
-1. **Don't use criticism** - especially not humiliation when dealing with the kid. Focus on positive praise rather than marking every error. Also don't label your kids such as "dumb", "hyper", "smart", it limits their growth [Fixed Mindset](/notes/fixed-mindset.md)
+1. **Don't use criticism** - especially not humiliation when dealing with the kid. Focus on positive praise rather than marking every error. Also don't label your kids such as "dumb", "hyper", "smart", it limits their growth [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md)
 2. **Don't "side with the enemy**" - avoid automatically taking the side of the authority figure in the conflict, try to hear their side of the story
 3. **Don't be a problem solver** - don't try to enforce your agenda or solve their problems, hear them out, and let them make mistakes
-4. **Allow choices** - they develop a sense of self and [Autonomy](/notes/agency.md) once they have the ability to make choices. Don't decide for them, allow them freedom whenever possible [developing capabilities](/notes/developing-capabilities.md)
+4. **Allow choices** - they develop a sense of self and [Autonomy](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) once they have the ability to make choices. Don't decide for them, allow them freedom whenever possible [developing capabilities](/notes/developing-capabilities.md)
 5. **Share interests** - be familiar with your kids dreams and hope, connect with them
 6. Be honest
 7. **Think about the long term** - you will fail, you will make mistakes, but don't be too hard on yourself, and don't give into temptations or try to force a quick solution to a crisis, remember that emotional coaching is the long term best solution
@@ -219,12 +247,12 @@ Emotional coaching isn't always an option, it depends on constraints of time, of
 
 ### Marriage, Divorce and Your Child's Emotional Health
 
-Children see their parents as [Role Models](/notes/role-models.md) for relationships. This means that **couples who have a bad relationship between them, with unhealthy conflicts and harmful behavior transfer these behaviors to their kids**. Not only that they will act worse in their relationship, for example be more aggressive, confrontational, and disconnected from others, they will also be less physically and emotionally stable, like a planet growing on polluted water.
+Children see their parents as [Role models embody behaviors and values we aspire to adopt](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md) for relationships. This means that **couples who have a bad relationship between them, with unhealthy conflicts and harmful behavior transfer these behaviors to their kids**. Not only that they will act worse in their relationship, for example be more aggressive, confrontational, and disconnected from others, they will also be less physically and emotionally stable, like a planet growing on polluted water.
 
 Not only that it's impossible to hide your conflicts from your child, it's not recommend. **They should learn how to solve conflicts in a healthy way from you, which makes emotional coaching a good tool for your marriage as well.**
 
 Also, try to avoid the four horsemen of bad relationship:
-1. **Criticism** - avoid addressing negative messages towards your partner's personality, and focus on the action and how that made you feel, so instead of "you're irresponsible for never taking care of the house", do "when you don't do things like taking out the trash it makes me feel disappointed and unseen as the house's maid". Remember [Hanlon's Razor](/notes/hanlons-razor.md), what we perceive as hostility can just be a matter of miscommunication.
+1. **Criticism** - avoid addressing negative messages towards your partner's personality, and focus on the action and how that made you feel, so instead of "you're irresponsible for never taking care of the house", do "when you don't do things like taking out the trash it makes me feel disappointed and unseen as the house's maid". Remember [Avoid attributing malice when ignorance or circumstance explains action](/notes/avoid-attributing-malice-when-ignorance-or-circumstance-explains-action.md), what we perceive as hostility can just be a matter of miscommunication.
 2. **Contempt** - avoid any expression that is meant to cause emotional damage to your partner, like taking to them in a disrespectful way
 3. **Defensiveness** - trying to defend your ego or redirect the blame instead of addressing the content of the conversation
 4. **Stonewalling** - ignoring the conversation entirely, closing yourself up

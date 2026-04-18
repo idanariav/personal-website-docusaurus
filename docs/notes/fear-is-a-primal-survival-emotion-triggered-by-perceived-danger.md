@@ -1,13 +1,13 @@
 ---
 UUID: 20240115182141
 Created: '2024-01-15 18:21'
-Modified: '2026-04-08 14:10'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Fear is a primal survival emotion triggered by perceived danger.png]]'
 ImageText: The "Hunter" pokemon
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Fear
 new_schema: true
+Topic:
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -57,16 +61,9 @@ When we feel threatened, we shut off our [Rational System](/notes/system-2-enabl
 ### Open questions
 
 
-
 ### Claims
 
 
 ## Visual
 
 ![Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.webp)
-
-## Overview
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-↩️Origin::
-🔗Link::
-

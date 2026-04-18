@@ -1,49 +1,77 @@
 ---
 UUID: 20220907071038
 Created: '2022-09-07 07:10'
-Modified: '2025-03-20 06:31'
+Modified: '2026-04-13 06:16'
 tags: []
+FullTitle: Originals - How Non-Conformists Move the World
+Description: >-
+  It argues that creativity involves radical innovation, requiring the courage
+  to break away from conventional thinking. By generating multiple ideas and
+  seeking diverse feedback, one can refine concepts over time. Patience,
+  coalition-building, and leveraging negative emotions are essential for
+  transforming ideas into successful realities.
 Author:
   - '[[Adam Grant]]'
+URL: 'https://www.goodreads.com/book/show/25614523-originals'
+Cover: >-
+  http://books.google.com/books/content?id=rISmCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: 0525429565
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 326
+Reread: 0
 Rate: 4
 PublishDate: 2016-02-02T00:00:00.000Z
+StartDate: 2022-09-01T00:00:00.000Z
 FinishDate: 2022-09-15T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=rISmCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/25614523-originals'
+Image: null
+aliases: ''
+Topic:
+  - '[[Creativity (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Originals (book)
 
-## 🔗Connect
-🔼Topic:: [Creativity (Map)](/mocs/creativity-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Creativity is creative destruction** - a truly creative idea is not a marginal improvement of the existing. It is the courage to detach yourself from the defaults of the world, and ways of thinking, to come up with something new.
 2. **Create many, then filter** - instead of going after the "one perfect creation", create many attempts simultaneously. Experiment and learn from your mistakes. After you have many available options, narrow it down with the help of fellow creators to get good feedback and external perspective to avoid false positives or false negatives. Seek specifically the feedback of those who reject your ideas, or create "devil's advocates" if necessary. The more diverse opinions that provides feedback, the better your way to validate the truthiness of your idea.
 3. **Be patient** - There is an advantage in patience, in moving slowly. You could watch others' mistakes and learn from them, you can wait for the right opportunity, and testing new ideas along the way rather than committing too early.
 4. **Every idea needs supporters** - without a coalition, even a good idea will die. Be honest about the disadvantages of your idea, stay close to your opposers because their opinion is key for improvement. Focus on transparency and constructive feedback, avoid attaching the idea's value to the person, and remember that it takes time to persuade others, and that your perspective doesn't magically generated within others' minds.
 5. **Trigger your "go" system** - Use your negative emotions such as anger, stress and fear as fuel for action. Use the people around you to gain the confidence you need to keep on going, and be fueled by both the progress you've already made, and the long road ahead to continue on.
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Question defaults** - examine and challenge the usual assumptions in a field by asking why they exist and what logic or tendencies support them.
+2. **Go against arbitrary defaults** - courageously try alternatives when defaults seem illogical, wasteful, or arbitrary.
+3. **Allow and learn from failures** - accept failures as part of the process and use them to iterate rather than avoid risk entirely.
+4. **Keep a fallback option** - maintain a safety net (e.g., a day job or alternative plan) to reduce downside and enable experimentation.
+5. **Generate many ideas (multitrack)** - produce a high volume of concepts instead of refining a single idea to increase chances of original breakthroughs.
+6. **Get feedback from fellow creators** - solicit critique from other creative people (not entrenched experts or naive novices) to better filter good ideas.
+7. **Perform an accusation audit before persuading** - openly state your idea’s weaknesses, doubts, and drawbacks to build trust and lower defenses.
+8. **Repeat and be patient when communicating new ideas** - expose others multiple times to an unfamiliar idea and persist until it sinks in.
+9. **Procrastinate strategically** - delay committing to a single plan to allow divergent thinking, testing, and combining of new approaches.
+10. **Cultivate diverse voices and encourage dissent** - create space for minority opinions, devil’s advocates, and open critique so the group self-verifies and avoids groupthink.
+
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -56,31 +84,31 @@ in the end, the book is divided into sections that are loosely connected, and so
 
 🧱 *Implementations and limitations of it are...*
 in the end it seems that the process of being original is still as elusive as before i started reading the book. the best thing that i can do is to implement habits that will likely increase my chances of improving my authenticity and creative thinking, but not even sure by how much, or how to implement them.
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
-### 🖼️Outline
+### Outline
 
-![Originals (book).webp](/books/originals-book.webp)
+![Originals (book)](/books/originals-book.webp)
 
-## 📒 Notes
+## Notes
 
 ## Intro
 
-originality isn't originality in the sense of a new thought, but rather a mix of existing thoughts in a new [Context](/notes/context.md).
+originality isn't originality in the sense of a new thought, but rather a mix of existing thoughts in a new [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md).
 
 ### How to Be Original
-1. **be curious** - look at the [Defaults](/notes/defaults.md) of each field and question them, understand why they exist and what is their logic/tendencies. [Critical Thinking](/notes/critical-thinking.md) [Curiosity](/notes/curiosity.md)
-2. **be courageous** - some of the defaults are probably arbitrary, lack logic, or wasteful. have the courage to go against the default. [courage](/notes/standing-up-for-yourself.md)
-3. **don't be afraid of failures** - if you try to avoid [Failure](/notes/failure.md), you will stick to the "tried and true" and wont take the risk of trying something new that might be revolutionary [winner or loser game](/notes/winner-or-loser-game.md)
+1. **be curious** - look at the [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) of each field and question them, understand why they exist and what is their logic/tendencies. [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md) [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md)
+2. **be courageous** - some of the defaults are probably arbitrary, lack logic, or wasteful. have the courage to go against the default. [courage](/notes/standing-up-for-yourself-is-courageous-authenticity-against-social-pressure.md)
+3. **don't be afraid of failures** - if you try to avoid [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md), you will stick to the "tried and true" and wont take the risk of trying something new that might be revolutionary [winner or loser game](/notes/winner-or-loser-game.md)
 
-therefore, **originality is an act of** [Creative Destruction](/notes/creative-destruction.md)
-This is especially true at work, since it requires [Psychological safety](/notes/psychological-safety.md)
+therefore, **originality is an act of** [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
+This is especially true at work, since it requires [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md)
 
-We tend to think that originals and entrepreneurs are risk takers, but they are actually risk mitigators. For example most of them kept their day job while starting the business. [Pivot](/notes/pivot.md). Advantages:
+We tend to think that originals and entrepreneurs are risk takers, but they are actually risk mitigators. For example most of them kept their day job while starting the business. [Test assumptions with small experiments first](/notes/test-assumptions-with-small-experiments-first.md). Advantages:
 4. **Fallback option** - When you have a "fallback" option, you are more inclined to see the errors and failures you make, and adjust accordingly so you can build the business to last instead of "this has to succeed"
-5. **Flexibility** - you have greater flexibility with trail and error and trying new original ideas since failure is less painful. [Experimentation](/notes/testing.md)
+5. **Flexibility** - you have greater flexibility with trail and error and trying new original ideas since failure is less painful. [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md)
 
 ## Part 1 - risk Management for Originals
 
@@ -88,10 +116,10 @@ We tend to think that originals and entrepreneurs are risk takers, but they are 
 
 **Our main problem is not to generate original ideas, but rather selecting/filtering the good from the bad.**
 
-We are bad at evaluating our own ideas, usually due to [Conformation Bias](/notes/conformation-bias.md). Either we get false positives (thinking a bad idea is good) or false negatives (thinking a good idea is bad).
+We are bad at evaluating our own ideas, usually due to [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md). Either we get false positives (thinking a bad idea is good) or false negatives (thinking a good idea is bad).
 
-The solution usually is to generate a lot of ideas instead of focusing on just one. [Multitrack](/notes/multitrack.md) It takes time to create an original idea, especially since the first ones are usually more conformist than the rest [First Batch Trash](/notes/first-batch-trash.md), so you have to make a lot of misses\failures until you
-strike gold. [practice beats perfection](/notes/practice-beats-perfection.md)
+The solution usually is to generate a lot of ideas instead of focusing on just one. [Generating multiple alternatives simultaneously improves outcomes](/notes/generating-multiple-alternatives-simultaneously-improves-outcomes.md) It takes time to create an original idea, especially since the first ones are usually more conformist than the rest [First attempts are inherently lower quality than iterations](/notes/first-attempts-are-inherently-lower-quality-than-iterations.md), so you have to make a lot of misses\failures until you
+strike gold. [Practice beats perfection](/notes/practice-beats-perfection.md)
 
 :::note[Creative Destruction The Risky Business of Going Against the Grain]
 
@@ -111,8 +139,8 @@ strike gold. [practice beats perfection](/notes/practice-beats-perfection.md)
 
 ### Chapter 2 - Blind Investors and One-eyed Investors
 
-The best way to [filter](/notes/filtering.md) is to get [Feedback](/notes/feedback.md), but from who? Novices might make false negatives due to [Conformism](/notes/social-environment.md), and experts might be too entrenched [Attachment](/notes/attachment.md) and rigid in their way of thinking. So who?
-The answer is other creators, or people inclined to be in creative mode, to consider new out of the box ideas without being too involved in the subject [peer support](/notes/peer-support.md)
+The best way to [filter](/notes/filtering-is-choosing-what-to-consume-before-distilling-it.md) is to get [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md), but from who? Novices might make false negatives due to [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md), and experts might be too entrenched [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) and rigid in their way of thinking. So who?
+The answer is other creators, or people inclined to be in creative mode, to consider new out of the box ideas without being too involved in the subject [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
 
 how to encourage creative mode?
 practice arts
@@ -144,16 +172,16 @@ trust your intuition in a field you don't have expertise in, this will create fa
 ### Chapter 3 Speaking Truth
 
 how to convince others (especially when encountering resistance)
-do an [Accusation audit](/notes/accusation-audit.md), be open, clear and direct about your opinion's weaknesses, drawbacks and doubts. (Related:: [Vulnerability](/notes/vulnerability.md) ). it helps you by:
-1. **building trust** - when people hear only the positive, they are skeptical and defensive. This audit lowers their guards and enables [Trust](/notes/trust.md)
-2. **making it harder to think about other weaknesses** - by listing your weaknesses, it focuses the audience on those things and makes it harder for them to think about new ones [Framing](/notes/framing.md)
+do an [Expose your flaws before others discover them](/notes/expose-your-flaws-before-others-discover-them.md), be open, clear and direct about your opinion's weaknesses, drawbacks and doubts. (Related:: [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md) ). it helps you by:
+1. **building trust** - when people hear only the positive, they are skeptical and defensive. This audit lowers their guards and enables [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md)
+2. **making it harder to think about other weaknesses** - by listing your weaknesses, it focuses the audience on those things and makes it harder for them to think about new ones [How we describe something shapes how it is perceived](/notes/how-we-describe-something-shapes-how-it-is-perceived.md)
 3. **you are perceived as smarter.** - A person who has self awareness and is transparent about it seems as a more intelligent and insightful person.
 
-also, while the idea is familiar to you, it is foreign to others, so **in order for it to sink in, it has to be repeated**, and have patience. [spaced repetition](/notes/spaced-repetition.md)
+also, while the idea is familiar to you, it is foreign to others, so **in order for it to sink in, it has to be repeated**, and have patience. [Repeated exposure to information strengthens memory retention](/notes/repeated-exposure-to-information-strengthens-memory-retention.md)
 When you speak up, remember that in order to be heard, or to exercise power, you have to have the reputation, or the credit to do so before.
 **Be someone who delivers, who get things done, prove your worth, then they will listen to you**.
 
-To change a situation, we can either speak up, or leave [Organizational Conflict](/notes/organizational-conflict.md), persisting or neglecting only maintains the status quo and leads to worse outcomes in the long run.
+To change a situation, we can either speak up, or leave [We respond to unsafe environments in four ways](/notes/we-respond-to-unsafe-environments-in-four-ways.md), persisting or neglecting only maintains the status quo and leads to worse outcomes in the long run.
 
 :::note[Out on a Limb Speaking Truth to Power]
 
@@ -172,9 +200,9 @@ To change a situation, we can either speak up, or leave [Organizational Conflict
 
 ### Chapter 4 Timing
 
-[Procrastination](/notes/procrastination.md) can be harmful to productivity but useful for [creativity](/notes/innovation.md). when we procrastinate, the task lives on in our mind, in the back-burner, which allows us to consider new approaches instead of the default one [Attention Residue](/notes/attention-residue.md).
+[Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md) can be harmful to productivity but useful for [creativity](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md). when we procrastinate, the task lives on in our mind, in the back-burner, which allows us to consider new approaches instead of the default one [Unfinished tasks linger in the mind and reduce focus](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md).
 
-Also, it helps us avoid [Path Dependence](/notes/path-dependence.md) by not being limited to our initial plan, but rather keep on experimenting and combining new ideas in a fluid way.
+Also, it helps us avoid [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md) by not being limited to our initial plan, but rather keep on experimenting and combining new ideas in a fluid way.
 
 in summary, its not always helpful to be first, or to rush into a project. its best to wait for it, because:
 1. if you don't rush in, you can learn from the mistakes of others
@@ -218,8 +246,8 @@ Firstborns are more responsible and rule-abiding, which makes their younger sibl
 
 how to make sure they rebel in the right way?
 1. instead of hard rules, use reasoning, treat them as adults and try to explain the logic behind your expectations and the consequences of their actions. [developing capabilities](/notes/developing-capabilities.md). give them freedom and autonomy.
-2. praise the virtue, not the action. say "you are kind", instead of "it is kind to give to others". when you praise the virtue, it connects between the action and your identity [What we do is not who we are](/notes/cognitive-distancing.md). * however i remember that in order to create a [Growth Mindset](/notes/growth-mindset.md) you need to praise the action, not the person, so that he will understand that he has room to grow, and keep on improving. also, if praising the person is good since it is attached to the identity, then when criticizing you have to condemn the action, not the person, so that he will not think of himself as a bad person who is unable to change. [how to give praises](/notes/how-to-give-praises.md)
-3. provide them with [Role Models](/notes/role-models.md)
+2. praise the virtue, not the action. say "you are kind", instead of "it is kind to give to others". when you praise the virtue, it connects between the action and your identity [What we do is not who we are](/notes/separating-actions-from-identity-allows-growth.md). * however i remember that in order to create a [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md) you need to praise the action, not the person, so that he will understand that he has room to grow, and keep on improving. also, if praising the person is good since it is attached to the identity, then when criticizing you have to condemn the action, not the person, so that he will not think of himself as a bad person who is unable to change. [Praise effort not ability](/notes/praise-effort-not-ability.md)
+3. provide them with [Role models embody behaviors and values we aspire to adopt](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md)
 
 :::note[Rebel with a Cause How Siblings, Parents, and Mentors Nurture Originality]
 
@@ -239,11 +267,11 @@ how to make sure they rebel in the right way?
 
 **the enemy of originality is group thinking**. when people conform to norm and power instead of thinking and criticizing for themselves. but group thinking is not necessarily link to a cohesion of a group. on the contrary, groups with a strong culture and motivation for the success of the group tend to be more original.
 
-it is important to provide a place for minority opinions [Diversity](/notes/diversity.md), these help not because they are right, but rather because they create a culture of self verification and thinking in new ways. [John Stuart Mill (philosopher)](/notes/john-stuart-mill-philosopher.md) which said the same thing about pluralism of opinions/truths.
+it is important to provide a place for minority opinions [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md), these help not because they are right, but rather because they create a culture of self verification and thinking in new ways. [John Stuart Mill (philosopher)](/notes/john-stuart-mill-philosopher.md) which said the same thing about pluralism of opinions/truths.
 
 such option is to create a "devil's advocate" or more realistically, a group of diverse people which will operate as the canary in the mines, warning from negative consequences and advising against popular opinion. as part of that, it is important to encourage people to speak up and voice concerns, not only solutions.
 
-the main example throughout this chapter is Bridgewater. a company that has about 200 principles of ethics and takes great care about building a good motivated culture of diverse people and opinions. if there is an example of idea meritocracy or radical [Transparency](/notes/transparency.md) its this, since disagreements are solved openly and by people who are ranked by their believability on several metrics, similar to the statistics of baseball players.
+the main example throughout this chapter is Bridgewater. a company that has about 200 principles of ethics and takes great care about building a good motivated culture of diverse people and opinions. if there is an example of idea meritocracy or radical [Transparency requires actively revealing truth to others](/notes/transparency-requires-actively-revealing-truth-to-others.md) its this, since disagreements are solved openly and by people who are ranked by their believability on several metrics, similar to the statistics of baseball players.
 also there is a strong culture of speak up even when its up the chain, everyone can criticize the CEO, its not only accepted but appreciated.
 
 :::note[Rethinking Groupthink The Myths of Strong Cultures, Cults, and Devil’s Advocates]
@@ -262,18 +290,18 @@ also there is a strong culture of speak up even when its up the chain, everyone 
 how to spark action and motivation in an effective way.
 
 *First is the way we perceive (and utilize) fear and positive emotions*
-Thinking positively when we're getting ready or debating over an action can be harmful, it can make us complacent and delusional. it is best to be [pessimic](/notes/pessimism.md), if you do it right. done correctly, you can harness [Stress](/notes/stress.md) and [Fear](/notes/fear.md) into action and motivation [Emotional Aikido](/notes/emotional-aikido.md), otherwise you will fall for depression and inaction.
+Thinking positively when we're getting ready or debating over an action can be harmful, it can make us complacent and delusional. it is best to be [pessimic](/notes/pessimism-is-focusing-attention-on-negative-outcomes-and-threats.md), if you do it right. done correctly, you can harness [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) and [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md) into action and motivation [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md), otherwise you will fall for depression and inaction.
 
 Fear can allow us to understand the weaknesses of ourselves/our actions and prepare accordingly.
 in each of us there is a "go" system and a "stop" system, the fear fuels us for action, the second clears it and presses on the breaks. fear, since it is a strong emotion can be a fueling force for our "go" system, so we should treat it as that, and not try to suppress it and "calm down".
 
-*A second aspect of triggering our go system is our viewpoint*. if doing the action is not risky, we should focus on the benefits from preforming the action. if it is risky, we should focus on the harms we have now, and what we will (continue to) lose if you don't preform the action. it is because we as humans are [loss aversion](/notes/risk-management.md), so only when the loss seems certain we will be forced to do an action.
+*A second aspect of triggering our go system is our viewpoint*. if doing the action is not risky, we should focus on the benefits from preforming the action. if it is risky, we should focus on the harms we have now, and what we will (continue to) lose if you don't preform the action. it is because we as humans are [loss aversion](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md), so only when the loss seems certain we will be forced to do an action.
 similarly, when we are starting to lose our commitment, we should focus on the progress we already made, see how far we've come, be proud of ourselves. but when we have renewed our commitment, we should focus on the way we still have to go, let the distance fuel our purpose and drive to move ahead as far as possible.
 
-*A third aspect is the society around us*. is it hard to trigger the go system when we are all alone, when it seems that we have no other supporters. that's why we need to make it as easy as possible for others to speak up and show that we are not alone. small actions, and even just one person can reduce [Friction](/notes/friction.md) and enable us to trigger the go system.
+*A third aspect is the society around us*. is it hard to trigger the go system when we are all alone, when it seems that we have no other supporters. that's why we need to make it as easy as possible for others to speak up and show that we are not alone. small actions, and even just one person can reduce [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) and enable us to trigger the go system.
 
 *A forth aspect is anger.*
-same as fear, we can either be destroyed by it, or fueled by it. we think that [venting](/notes/anger.md) will allow us to calm down and focus, but venting only focuses us on the wrong things. it is focusing us on the harm done and on the one who caused it, instead of those who were hurt. replacing venting with justice, compassion and mercy is the right way to turn anger into a fuel for the go system.
+same as fear, we can either be destroyed by it, or fueled by it. we think that [venting](/notes/anger-is-information-that-something-should-be-different.md) will allow us to calm down and focus, but venting only focuses us on the wrong things. it is focusing us on the harm done and on the one who caused it, instead of those who were hurt. replacing venting with justice, compassion and mercy is the right way to turn anger into a fuel for the go system.
 
 :::note[Rocking the Boat and Keeping It Steady Managing Anxiety, Apathy, Ambivalence, and Anger]
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20231114071515
 Created: '2023-11-14 07:15'
-Modified: '2026-04-08 15:20'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Nature walk
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   mental well-being, and encourages solitude and focus, aiding in stress
   reduction and emotional healing.
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ Connecting with nature is a good way to take a [Break](/notes/rest-enables-recov
 ## Visual
 
 ![Nature walk](/notes/nature-walk.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-Origin::
-🔗Link::
-

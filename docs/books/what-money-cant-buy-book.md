@@ -1,24 +1,42 @@
 ---
 UUID: 20240708055319
 Created: '2024-07-08 05:53'
-Modified: '2024-11-12 06:55'
+Modified: '2026-04-13 06:21'
 tags: []
+FullTitle: What Money Can't Buy - The Moral Limits of Markets
+Description: >-
+  It argues that commodifying goods alters their intrinsic nature, eroding
+  altruism and replacing moral values with a price-driven mentality.
+  Additionally, it contends that while efficiency may improve welfare, the harm
+  to societal values should also be considered a significant cost.
 Author:
   - '[[Michael J. Sandel]]'
-Genre: Philosophy
-Stored: Kindle
-ReadingStatus: Read
-Purchased: true
-Fiction: false
-Version: 1.01
-Pages: 256
-Rate: 2
-PublishDate: 2012-04-24T00:00:00.000Z
-FinishDate: 2024-11-12T00:00:00.000Z
+URL: 'https://www.goodreads.com/book/show/13221379-what-money-can-t-buy'
 Cover: >-
   http://books.google.com/books/content?id=06-54FCTQ9AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/13221379-what-money-can-t-buy'
+Genre: Philosophy
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B00633PFQC
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 256
+Reread: 0
+Rate: 2
+PublishDate: 2012-04-24T00:00:00.000Z
+StartDate: 2024-11-01T00:00:00.000Z
+FinishDate: 2024-11-12T00:00:00.000Z
+Image: ''
 aliases: []
+Topic:
+  - '[[Ethics (Map)]]'
+  - '[[Economics (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -27,21 +45,16 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [ethics (moc)](/mocs/ethics-map.md)
-⬆️Topic:: [Economics (Map)](/mocs/economics-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Markets leave their mark** - Commodifying something into a product or applying a market logic on it changes the nature of the thing itself. Paying for blood donations crowds out altruistic intentions, therefore changing who gives blood and the quality of blood given. Commodifying has a corrosive aspect, replacing normative values with an "everything has a price" and "it is okay as long as you can pay" mentality of "rational" cold calculated econs instead of human beings with morals and values.
 2. **Efficiency is not the only metric** - Even if commodifying something improves general welfare, for example advertising on schools is better than having no schools at all, we should still consider the harm to our values as an additional cost, a negative utility of sorts.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -50,22 +63,22 @@ SiteProcssed: true
 🧱 *Implementations and limitations of it are...*
 It is unclear what the goal of the book is, perhaps just to explain why some things should be outside of market influence, and perhaps we need to be more politically active about it, but even these two statements are a subtext of the book, and not the main point.
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 Honestly I expected more from a philosopher. The book is 10% statements and 90% examples. The examples are repetitive, American specific, and don't always help convey his argument. He expects that the examples by themselves incur sufficient "intuitions of disgust" that we will agree with the argument he is trying to make, instead of diving deeper into the reasons behind those intuitions.
 
-### 🖼️Outline
+### Outline
 
-## 📒 Notes
+## Notes
 
 ### Introduction - on Markets and Moral
 
-Nowadays, there's hardly anything that hasn't been [commofidied](/notes/commodification.md). You can buy a kidney, a child, a better prison, better healthcare, and even have more political influence. You can also almost sell anything, from your body, to your time and your vote.
+Nowadays, there's hardly anything that hasn't been [commofidied](/notes/commodification-turns-non-tradable-values-into-economic-transactions.md). You can buy a kidney, a child, a better prison, better healthcare, and even have more political influence. You can also almost sell anything, from your body, to your time and your vote.
 
 The problem with commodification is twofold:
-1. **Raising inequality** - the more things are part of the market economy, that can be bought and sold, the greater importance money has, which means the worse off those who don't have any [inequality](/notes/inequality.md).
-2. **Corruption** - Some things shouldn't be bought or sold. For example paying kids to read books turns reading from a passion to a chore [crowding out](/notes/crowding-out.md). Making something a product pushes away values and worth, while giving a false sense of entitlement for those who have the money.
+1. **Raising inequality** - the more things are part of the market economy, that can be bought and sold, the greater importance money has, which means the worse off those who don't have any [Inequality is a normative problem caused by unjust distribution of resources and rights](/notes/inequality-is-a-normative-problem-caused-by-unjust-distribution-of-resources-and-rights.md).
+2. **Corruption** - Some things shouldn't be bought or sold. For example paying kids to read books turns reading from a passion to a chore [One activity displaces another when pursued excessively](/notes/one-activity-displaces-another-when-pursued-excessively.md). Making something a product pushes away values and worth, while giving a false sense of entitlement for those who have the money.
 
 **Markets don't care about the "ethical" value of a product, as long as someone is willing the pay, and the other is willing to sell, the only question that matters is "how much"**. We have let the market economy take control of our society, of how we view the world, and as 2008 crisis showed us, we are not in good hands.
 
@@ -92,7 +105,7 @@ But even that is not always a possibility, especially in markets with no declare
 
 The underlying assumption is that such practice is okay because a monetary price is a good indication of the product's value to the buyer, the more you value it, the more you are willing to pay. However, this ignores the fact that some, or even most, people can't afford it, even if they wanted to.
 
-**This results in products that goes to the highest bidder, and not those who needs or wants it the most**, thus reducing overall [utility](/notes/utility.md) which economists like to maximize.
+**This results in products that goes to the highest bidder, and not those who needs or wants it the most**, thus reducing overall [Utility quantifies measurable benefits and guides rational decisions](/notes/utility-quantifies-measurable-benefits-and-guides-rational-decisions.md) which economists like to maximize.
 
 It seems unfair that things that are meant to be allocated for free, such as political participation, are sold at a price [fairness](/notes/fairness.md). Different types of goods have different moral norms. While we won't sell our house to the first bidder simply because they are first, we will stand in line at the supermarket or at the bus stop. Converting more and more *first come first served* rule based goods into market commodities is just one example of how markets invade and erode our lives.
 
@@ -106,17 +119,17 @@ It seems unfair that things that are meant to be allocated for free, such as pol
 
 ### Incentives
 
-Basic economics assumes we are all [Econs](/notes/econs.md), well informed, rational agents who operate based on [incentives](/notes/incentives.md) and calculate expected utility out of every transaction we make, whether monetary or not. For example, people get married because their expected utility of being married surpasses their expected utility from remaining single or searching for other mates.
+Basic economics assumes we are all [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md), well informed, rational agents who operate based on [Incentives shape behavior by making certain actions more attractive](/notes/incentives-shape-behavior-by-making-certain-actions-more-attractive.md) and calculate expected utility out of every transaction we make, whether monetary or not. For example, people get married because their expected utility of being married surpasses their expected utility from remaining single or searching for other mates.
 
 This type of reasoning has entered many areas of our lives, ones that are not considered "economical", such as relationships, and education. Some schools have begun paying children for better test scores or for reading books.
 
 What this perception misses is that **transactions are not always done freely, or informed. People can be coerced into certain choices, which doesn't reflect their true preferences** [coercion](/notes/coercion.md). For example, drug addicts who are paid for being sterilized doesn't really mean that they prefer money over having children.
 
-Additionally, incentives leads to [external motivation](/notes/external-motivation.md) which crowds out [intrinsic motivation](/notes/intrinsic-motivation.md). We become fixated on the reward, replacing our desire to be a better student for example with the desire to make more money. It gets worse once we realize that when the incentive stops, the behavior stops as well, thus defeating the purpose. [change starts from the inside out](/notes/change-starts-from-the-inside-out.md).
+Additionally, incentives leads to [External motivation crowds out intrinsic drive and sustainability](/notes/external-motivation-crowds-out-intrinsic-drive-and-sustainability.md) which crowds out [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md). We become fixated on the reward, replacing our desire to be a better student for example with the desire to make more money. It gets worse once we realize that when the incentive stops, the behavior stops as well, thus defeating the purpose. [change starts from the inside out](/notes/change-starts-from-the-inside-out.md).
 
 Incentives also change the norm. Adding a price tag to something could be interpreted as "it's okay to do it as long as you pay", if for example littering was considered as unethical, but now you get a fine of 100, then you might consider doing it, as part of your general monetary calculations. What we consider as a *fine* which is supposed to deter bad behavior, can be perceived as a *fee*, a non-value price of preforming an action in a market based environment.
 
-This creates a conflict between [utilitarian](/notes/utilitarianism.md) results and moral norms. For example, you can pay a fee to get a permit to hunt a black rhino. The fee is so high that it incentivizes people to raise, care and protect rhinos, and evidently has lead to a great rise in the specie's population that was endangered beforehand. So on the one hand the result is a moral, worthwhile result - we have succeeded in saving an engendered specie. On the other hand, we say that "it's okay" to hunt animals as long as you can pay for it. It turns the action from morally wrong to market acceptable.
+This creates a conflict between [utilitarian](/notes/maximizing-pleasure-and-minimizing-suffering-defines-moral-action.md) results and moral norms. For example, you can pay a fee to get a permit to hunt a black rhino. The fee is so high that it incentivizes people to raise, care and protect rhinos, and evidently has lead to a great rise in the specie's population that was endangered beforehand. So on the one hand the result is a moral, worthwhile result - we have succeeded in saving an engendered specie. On the other hand, we say that "it's okay" to hunt animals as long as you can pay for it. It turns the action from morally wrong to market acceptable.
 
 **Since incentives have an effect on moral norms, economics is hardly a non-normative "cold" and closed ecosystem. Introducing an incentive must take into consideration not just economic reasoning, but also moral one.**
 
@@ -134,7 +147,7 @@ This creates a conflict between [utilitarian](/notes/utilitarianism.md) results 
 
 Paying for something changes it's value. For example, "renting" a friend rather than genuine connection feels differently, same as giving money as a gift instead of a personal written note or something you made yourself, or consider buying a Nobel prize rather than "deserving" one. Attaching a price to something changes the way we perceive it. Similarly, research shows that paying for blood donations caused a drop, not a rise, in donation because it crowds out our moral desire to give to others.
 
-Therefore, **when market norms "economize" something, they hurt it twice fold. It makes it more expansive by forcing us to pay for something that could have been done for free, and it also hurt our values**, by making us think and act like econs, denying us from committing acts of virtue, which would have only increased giving and altruism in our society [to be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md), and replaces it with monetary calculations. With a monetary price, people can't feel good for preforming the action, because it is as if they were rented for a service, rather than expressed their desire for doing good.
+Therefore, **when market norms "economize" something, they hurt it twice fold. It makes it more expansive by forcing us to pay for something that could have been done for free, and it also hurt our values**, by making us think and act like econs, denying us from committing acts of virtue, which would have only increased giving and altruism in our society [To be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md), and replaces it with monetary calculations. With a monetary price, people can't feel good for preforming the action, because it is as if they were rented for a service, rather than expressed their desire for doing good.
 
 :::note[How Markets Crowd Out Morals]
 
@@ -151,7 +164,7 @@ There are companies that take out or buy life insurance for people, and they get
 
 ### Naming Rights
 
-The [attention economy](/notes/attention-economy.md) has reached everywhere, from our screens, to the products we buy, our streets and our sports, we literally can't look away from commercials because there is no place without them, we would have to close our eyes.
+The [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md) has reached everywhere, from our screens, to the products we buy, our streets and our sports, we literally can't look away from commercials because there is no place without them, we would have to close our eyes.
 
 While they are the "natural" result of a free market, it diminishes the value of what we are trying to do. Watching TV or a game is less exciting, more annoying, and we feel as if the activity is just an excuse to see more ads. 
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20250227135752
 Created: '2025-02-27 13:57'
-Modified: '2026-04-06 22:00'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Too much information prevents decision-making.png]]'
 ImageText: A confused person in a fork in the road
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
 aliases:
   - Analysis paralysis
 new_schema: true
+Topic:
+  - '[[Decision Traps and Biases]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -47,8 +51,3 @@ Either we fail to decide because holding all the information in our mind is [too
 ## Visual
 
 ![Too much information prevents decision-making](/notes/too-much-information-prevents-decision-making.webp)
-
-## Overview
-🔼Topic:: [Decision Traps and Biases](/notes/decision-traps-and-biases.md)
-↩️Origin::
-🔗Link::

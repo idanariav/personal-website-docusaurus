@@ -1,19 +1,23 @@
 ---
 UUID: 20230729064033
 Created: '2023-07-29 06:40'
-Modified: '2025-08-10 15:29'
+Modified: '2026-04-13 06:12'
 tags: []
 Author:
   - '[[Atul Gawande]]'
 Genre: Social Science
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 297
 Rate: 3
 PublishDate: 2014-10-07T00:00:00.000Z
@@ -22,20 +26,29 @@ Cover: >-
   http://books.google.com/books/content?id=tM1zAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/20757527-being-mortal'
 aliases: []
+Description: >-
+  It emphasizes four essential elements for quality of life: autonomy,
+  ownership, meaning, and social ties. It argues that maintaining control,
+  feeling at home, having purpose, and fostering connections are vital for
+  well-being, especially in the context of aging and facing mortality.
+FullTitle: Being Mortal - Medicine and What Matters in the End
+StartDate: 2023-07-14T00:00:00.000Z
+ASIN: B00JCW0BCY
+Reread: 0
+Topic:
+  - '[[medicine]]'
+  - '[[Mortality shapes meaning and motivates acceptance]]'
+  - '[[Wellbeing (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Being Mortal (book)
 
-## 🔗Connect
-🔼Topic:: [medicine](/notes/medicine.md)
-🔼Topic:: [Death](/notes/death.md)
-🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 Four things that are essential to our quality of life:
 1. **Autonomy** - control over our life is critical for our well being. Being able to preform the most basic tasks of life, like eating, going to the bathroom, a not being dependent on others is essential for our self esteem and worth. Preferably, advanced tasks such as walking, leisure activates and mental sharpness are also very beneficial.
@@ -43,13 +56,25 @@ Four things that are essential to our quality of life:
 3. **Meaning** - At those stages, there is hardly any internal meaning that keeps us going, like something we want to achieve in life. Rather, we switch our focus to others. Having a responsibility over someone or something, that we contribute to an external goal, that we help life exist, could imbue our lives with meaning.
 4. **Social ties** - Loneliness is a disease in itself. We need a feeling of friendship, community, family as an integral part of our lives.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 1. **Focus on quality** - When it is clear that the end is near and unavoidable, we should focus on quality of life, rather than prolonging it, since it is not only better for our quality of live, we might even live longer.
 2. **don't run from hard conversations** - at some point we have to ask ourselves what do we want out of life, what are our fears and hopes, and what is important for us given our limitations
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Hold regular end-of-life conversations** - habitually discuss preferences, fears, hopes, and trade-offs with patients/family rather than defaulting to “all-out” treatment.
+2. **Prioritize quality of life in care decisions** - routinely evaluate treatments by whether they reduce suffering and preserve independence, not only by how long they prolong life.
+3. **Treat the elderly as whole persons** - consistently assess social, emotional, and functional needs alongside medical problems instead of focusing solely on individual diseases.
+4. **Assign meaningful responsibilities** - give older adults daily responsibilities (plants, pets, children, simple tasks) to combat boredom, loneliness, and helplessness.
+5. **Design home-like personal environments** - create and maintain personal private spaces and inviting shared areas so residents feel ownership and can socialize.
+6. **Focus on greatest overall risks** - habitually identify and address the single biggest threats to function (e.g., fall prevention) rather than fragmenting care by each diagnosis.
+7. **Prepare for and accept dependence periods** - plan proactively for times of reduced independence (legal, practical, social) instead of avoiding the topic.
+8. **Train clinicians to conduct hard conversations** - make it routine for medical staff to learn and practice having candid discussions about prognosis and patient priorities.
+9. **Center care on patients’ hopes and preferences** - regularly solicit and document what matters most to the person (relationships, mental clarity, not being a burden) and let that guide choices.
+10. **Cultivate present-focused social time** - make a habit of spending meaningful, present-oriented time with frail or elderly people to strengthen relationships and enhance wellbeing.
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. **Inner peace** - you and your loved ones will have an easier and better end of the story if you focus on what matters instead of pointless prolonging.
@@ -60,17 +85,17 @@ Four things that are essential to our quality of life:
 🧱 *Implementations and limitations of it are...*
 1. **Limited** - we are not left with a lot of options and tools to prevent the bad decisions presented in the book, besides making the tough conversations, but perhaps that's all there is to it.
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 1. This book is as much a goodbye story to his father as it is a message about medicine and accepting death. In that sense, it is not a regular non-fiction book, but rather a true life story with a purpose.
 2. Since this is a book by a doctor, the content is rather very technical and descriptive of exactly the type of problems people face near the end, and I preferred to skip those, since it is both non-contributing to anything, and also can be a bit TMI to hear.
 
-### 🖼️Outline
+### Outline
 
-![Being Mortal (book).webp](/books/being-mortal-book.webp)
+![Being Mortal (book)](/books/being-mortal-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Intro
 
@@ -106,7 +131,7 @@ We used to host elderly with the family, to rely on them for wisdom. Now we have
 In the past, health was either black or white, either healthy, or on death bed. Death came fast and unstoppable, like a slippery slope.
 Nowadays with modern medicine, this slippery slope has turned into a very slow decline, one that we as society try to ignore as hard as we can.
 
-**We as society have focused too much on each individual problem, rather than treating the person as a whole**. That is what geriatrics is for, and it is highly underused. [holistic](/notes/holistic.md)
+**We as society have focused too much on each individual problem, rather than treating the person as a whole**. That is what geriatrics is for, and it is highly underused. [The whole is greater than its parts](/notes/the-whole-is-greater-than-its-parts.md)
 
 For example, instead of looking at each disease separately, focus on the greatest risk to overall health, like falling.
 
@@ -150,11 +175,11 @@ Even the family is having trouble with seeing the elderly as a person entitled t
 
 ### Chapter 5 - A Better Life
 
-**In nursing homes, the three main dangers are [Boredom](/notes/boredom.md), [Loneliness](/notes/loneliness.md) and [Helplessness](/notes/helplessness.md)**. All solvable by providing meaning to their lives, by giving them [responsabilities](/notes/responsibility.md) over living things. Plants, pets and children bring wonders in well being and medical conditions. [Human is a social being](/notes/human-is-a-social-being.md)
+**In nursing homes, the three main dangers are [Boredom signals under-stimulation and disconnection from intrinsic motivation](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md), [Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md) and [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md)**. All solvable by providing meaning to their lives, by giving them [responsabilities](/notes/responsibility-is-binding-yourself-to-outcomes-and-people-you-value.md) over living things. Plants, pets and children bring wonders in well being and medical conditions. [Human is a social being](/notes/human-is-a-social-being.md)
 
-**Meaning, is it turns out, relies on having responsibility of something**. Similarly, [Autonomy](/notes/agency.md) is not autonomy for it's own sake. Absolute freedom doesn't matter if we don't have anything to do with it. **To be autonomous is to be able to be active, the writers of of our life, influential**.
+**Meaning, is it turns out, relies on having responsibility of something**. Similarly, [Autonomy](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) is not autonomy for it's own sake. Absolute freedom doesn't matter if we don't have anything to do with it. **To be autonomous is to be able to be active, the writers of of our life, influential**.
 
-Beside responsibility, environment is also crucial. Having a personal space that resembles a home, while having a shared space that will facilitate social interaction is the best solution. Elderly should feel like [owners](/notes/ownership.md), not items put on shelfs. [Environmental design](/notes/nudge.md)
+Beside responsibility, environment is also crucial. Having a personal space that resembles a home, while having a shared space that will facilitate social interaction is the best solution. Elderly should feel like [owners](/notes/ownership-means-taking-active-responsibility-and-control-of-your-environment.md), not items put on shelfs. [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
 
 :::note[Quotes]
 
@@ -171,7 +196,7 @@ Beside responsibility, environment is also crucial. Having a personal space that
 
 Instead we should focus on reduce pain and maintain independence as much as possible.
 
-The more surprising result is that trying to prolong our lives is not only hurtful to our quality of life, but we even live shorter than if we would have focused on quality. [The law of reverse effect](/notes/the-law-of-reverse-effect.md). **Those who focus on happy life, with family and friends while abandoning the toxic medication live better and longer**.
+The more surprising result is that trying to prolong our lives is not only hurtful to our quality of life, but we even live shorter than if we would have focused on quality. [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md). **Those who focus on happy life, with family and friends while abandoning the toxic medication live better and longer**.
 
 :::note[Quotes]
 

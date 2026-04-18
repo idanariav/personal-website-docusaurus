@@ -1,13 +1,13 @@
 ---
 UUID: 20230929062918
 Created: '2023-09-29 06:29'
-Modified: '2026-04-08 14:10'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Boredom signals under-stimulation and disconnection from intrinsic
   motivation.png]]
@@ -20,6 +20,10 @@ aliases:
   - Boredom
   - Boreout
 new_schema: true
+Topic:
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: '[[Anne-Laure Le Cunff]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -62,10 +66,3 @@ Depending on why something is boring, we can find ways to mitigate it. For examp
 ## Visual
 
 ![Boredom signals under-stimulation and disconnection from intrinsic motivation](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.webp)
-
-## Overview
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)
-Origin:: [Pursuit of Wonder](/notes/pursuit-of-wonder.md)
-Link:: https://www.youtube.com/watch?v=gc7wKr0XkN8
-

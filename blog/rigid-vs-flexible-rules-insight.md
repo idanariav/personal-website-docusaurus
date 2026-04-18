@@ -26,7 +26,7 @@ What if the very thing that makes strict principles powerful is also what makes 
 
 ![rigid_vs_flexible_rules.webp](/posts/rigid_vs_flexible_rules.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Too Rigid, or not Too Rigid, that is the Question
 

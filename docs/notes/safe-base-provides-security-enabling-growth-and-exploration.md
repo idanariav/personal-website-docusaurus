@@ -1,13 +1,13 @@
 ---
 UUID: 20241005100316
 Created: '2024-10-05 10:03'
-Modified: '2026-04-08 15:19'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Safe Base
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   belonging, validation, and authenticity, allowing them to recharge and manage
   life's stresses.
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: '[[The Yes Brain (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,9 +50,3 @@ Having a safe base allows us to [venture](/notes/standing-up-for-yourself-is-cou
 ## Visual
 
 ![Safe Base](/notes/safe-base.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-↩️Origin:: [The Yes Brain (book)](/books/the-yes-brain-book.md)
-🔗Link::
-

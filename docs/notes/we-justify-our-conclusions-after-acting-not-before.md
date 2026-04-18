@@ -1,13 +1,13 @@
 ---
 UUID: 20231228184822
 Created: '2023-12-28 18:48'
-Modified: '2026-04-08 13:38'
+Modified: '2026-04-11 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Rationalization
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   align their behavior with self-perception, potentially leading to distorted
   beliefs and avoidance of personal accountability.
 new_schema: true
+Topic:
+  - '[[Overconfidence and Self-Assessment]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ Similarly, this can be a tool that hampers [growth](/notes/capabilities-are-mall
 ## Visual
 
 ![Rationalization](/notes/rationalization.webp)
-
-## Overview
-🔼Topic:: [Overconfidence and Self-Assessment](/notes/overconfidence-and-self-assessment.md)
-↩️Origin::
-🔗Link::
-

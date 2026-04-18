@@ -1,13 +1,13 @@
 ---
 UUID: 20250228115203
 Created: '2025-02-28 11:52'
-Modified: '2026-04-06 23:11'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Negative freedom
   - freedom from
@@ -16,6 +16,10 @@ Description: >-
   individuals to act freely without restrictions, contrasting with positive
   freedom, which emphasizes the ability to pursue goals.
 new_schema: true
+Topic:
+  - '[[Freedom and Agency]]'
+Origin: '[[Isaiah Berlin (philosopher)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ For example, we don't have negative freedom when we are put in jail. Our movemen
 ## Visual
 
 ![Negative freedom](/notes/negative-freedom.webp)
-
-## Overview
-🔼Topic:: [Freedom and Agency](/notes/freedom-and-agency.md)
-↩️Origin:: [Isaiah Berlin (philosopher)](/notes/isaiah-berlin-philosopher.md)
-🔗Link::
-

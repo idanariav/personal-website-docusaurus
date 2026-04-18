@@ -1,19 +1,23 @@
 ---
 UUID: 20220704183441
 Created: '2022-07-04 18:34'
-Modified: '2024-09-29 07:22'
+Modified: '2026-04-13 06:13'
 tags: []
 Author:
   - '[[Greg Mckeown]]'
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 272
 Rate: 3
 PublishDate: 2021-04-27T00:00:00.000Z
@@ -22,6 +26,20 @@ Cover: >-
   http://books.google.com/books/content?id=KcT0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/55043289-effortless'
 aliases: null
+Description: >-
+  It argues that productivity should focus on effortless actions rather than
+  exhausting effort. By viewing life as a marathon, it promotes a mindset that
+  values ease, fun, and automation, challenging the notion that success is
+  solely linked to hard work and emphasizing sustainable methods for achieving
+  results.
+FullTitle: Effortless - Make It Easier to Do What Matters Most
+StartDate: 2022-04-09T00:00:00.000Z
+ASIN: B08F4GGQ2K
+Reread: 0
+Topic:
+  - '[[Mindset (Map)]]'
+  - '[[workflows (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -31,20 +49,28 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
-🔼Topic:: [workflows (Map)](/mocs/workflows-map.md)
-
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Life is a marathon, not a sprint** - Productivity was never about pushing yourself to the limit of exhaustion and burnout. It is about finding a way to do things effortlessly, thinking about our life as a marathon, not a sprint.
-2. **Effortless is mindset, action and results** - We got used to thinking that success is directly linked to effort, such that the more effort you give, the more success you will have, and that effort has become a badge of honor. The effortless method challenges that and sets a better path for more satisficing life. Find ways to make the tasks easy, fun, automated, leverage others abilities and knowledge, take care of your body, and remember that baby steps are better than burnout.
-### 🗒️Relate
+2. **Effortless is mindset, action and results** - We got used to thinking that success is directly linked to effort, such that the more effort you give, the more success you will have, and that effort has become a badge of honor. The effortless method challenges that and sets a better path for more satisfying life. Find ways to make the tasks easy, fun, automated, leverage others abilities and knowledge, take care of your body, and remember that baby steps are better than burnout.
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Rest** - get at least 7–8 hours of sleep, take naps as needed, shower ~90 minutes before bedtime, and dedicate mornings to three 90-minute work sessions with 10–15 minute breaks so you never do more today than you can fully recover from.
+2. **Define** - write a clear, simple, measurable description of what “done” looks like for each project, then stop when those conditions are met.
+3. **Start** - identify and perform the smallest concrete physical action that is the true first step of a project to overcome overwhelm and begin momentum.
+4. **Simplify** - if a process has too many steps, restart from zero and design a new process with far fewer steps to reach the same result.
+5. **Pace** - set a low daily threshold and an upper bound for work (e.g., study 15 minutes minimum per day; never exceed your upper bound) so you move steadily without burning out.
+6. **Progress** - deliberately lower the bar to allow “rubbish” early attempts, make frequent cheap mistakes, and iterate to learn and improve.
+7. **Automate** - create recurring calendar blocks, checklists, and templates so you do essential tasks once and never repeat the setup work.
+8. **Release** - review goals, thoughts, and grudges regularly and discard those that no longer serve you to free mental space for what matters.
+9. **Notice** - practice being fully present and observant with people and tasks, setting aside noise and prejudice to increase focus and produce better work.
+10. **Prevent** - implement early checks or simple safeguards that catch mistakes at their root to stop cascading problems before they start.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -52,22 +78,22 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 most of the tips are trivial, impossible to implement, or vague.
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book is nice but too superficial and simple. its a collection of ideas, briefly described, and most of the book is a series of cherry picked examples. However, I did like the summaries at the end of each chapter, and in some cases there are recommendations for implementation. In the end it was a series of short essays, didn't add much to what I already know.
 
 I finished the book without any take-aways, this is unfortunate, this is why I give this book only 3 stars, because it is in the right direction, but not as thorough or informative that I would like.
 
-### 🖼️Outline
+### Outline
 
-![Effortless (book).webp](/books/effortless-book.webp)
+![Effortless (book)](/books/effortless-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Part 1: Effortless State
 
-First we need a new mindset, one that doesn't connect between [Struggle](/notes/struggle.md) and success. Its okay to be lazy and get good results, and its even the smarter one instead of "pushing through" or banging your head through the wall.
+First we need a new mindset, one that doesn't connect between [Struggle is an inevitable and necessary part of any meaningful growth or achievement](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) and success [We wrongly equate effort with virtue](/notes/we-wrongly-equate-effort-with-virtue.md). Its okay to be lazy and get good results, and its even the smarter one instead of "pushing through" or banging your head through the wall.
 
 :::note[NOT EVERYTHING HAS TO BE SO HARD]
 
@@ -86,7 +112,7 @@ First we need a new mindset, one that doesn't connect between [Struggle](/notes/
 
 #### Invert - what if This Could Be Easy?
 
-*Do it smart:* So ask yourself **"what if it was easy"**, and look for a creative solution . [Solve the easier problem](/notes/solve-the-easier-problem.md)
+*Do it smart:* So ask yourself **"what if it was easy"**, and look for a creative solution . [Simplify the problem before trying to solve it](/notes/simplify-the-problem-before-trying-to-solve-it.md)
 
 :::note[INVERT What If This Could Be Easy?]
 
@@ -98,7 +124,7 @@ First we need a new mindset, one that doesn't connect between [Struggle](/notes/
 
 
 #### Enjoy - what if This Could Be Fun?
-*Make it fun*: You'll experience less [Burnout](/notes/burnout.md) and more happiness when the things have to do are also fun [Temptation Bundling](/notes/temptation-bundling.md). Why not listen to music while washing the dishes?
+*Make it fun*: You'll experience less [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md) and more happiness when the things have to do are also fun [Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.md). Why not listen to music while washing the dishes?
 
 :::note[ENJOY What If This Could Be Fun?]
 
@@ -111,7 +137,7 @@ First we need a new mindset, one that doesn't connect between [Struggle](/notes/
 
 
 #### Release - the Power of Letting Go
-*keep the essentials* - discard old goals that are no longer relevant [Addition by subtraction](/notes/addition-by-subtraction.md), thoughts that take up mental space in your head, and feelings of resentment or hatred. [Acceptance](/notes/acceptance.md)
+*keep the essentials* - discard old goals that are no longer relevant [Improvement often comes from removing rather than adding](/notes/improvement-often-comes-from-removing-rather-than-adding.md), thoughts that take up mental space in your head, and feelings of resentment or hatred. [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md)
 
 :::note[RELEASE The Power of Letting Go]
 
@@ -122,7 +148,7 @@ First we need a new mindset, one that doesn't connect between [Struggle](/notes/
 
 
 #### Rest - the Art of Doing Nothing
-*Rest* - [Sleep](/notes/sleep.md) is essential to the human body. make sure you have at least 7-8 hours of sleep. take naps. have a nice shower an hour and a half before bedtime.
+*Rest* - [Sleep is essential for cognitive function and peak performance](/notes/sleep-is-essential-for-cognitive-function-and-peak-performance.md) is essential to the human body. make sure you have at least 7-8 hours of sleep. take naps. have a nice shower an hour and a half before bedtime.
 
 :::note[REST The Art of Doing Nothing]
 
@@ -133,7 +159,7 @@ First we need a new mindset, one that doesn't connect between [Struggle](/notes/
 
 
 #### Notice - how to See Clearly
-*be aware* - Really be observant. Put aside thoughts and prejudice and just be there with the people around you [mindfulness](/notes/intentionality.md). This will produce a feeling of [Flow](/notes/flow.md)
+*be aware* - Really be observant. Put aside thoughts and prejudice and just be there with the people around you [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md). This will produce a feeling of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md)
 
 :::note[NOTICE How to See Clearly]
 
@@ -149,7 +175,7 @@ First we need a new mindset, one that doesn't connect between [Struggle](/notes/
 ### Part 2 - Effortless Action
 
 #### Define - What "done" Looks like
-*define a goal* - the more you define a clear, simple, measurable goal, the easier it will be to start and finish it. Don't overdue tasks, it not only requires more effort but also will damage the final result. [Life's Mission](/notes/lifes-mission.md)
+*define a goal* - the more you define a clear, simple, measurable goal, the easier it will be to start and finish it. Don't overdue tasks, it not only requires more effort but also will damage the final result. [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md)
 
 :::note[DEFINE What “Done” Looks Like]
 
@@ -171,7 +197,7 @@ First we need a new mindset, one that doesn't connect between [Struggle](/notes/
 
 
 #### Simplify - Start with Zero
-*start simple* - if the process requires a lot of complex steps, stop and start from scratch. Think of a new process, as simple as possible, and try to implement it. Avoid being drawn by [Sunk Cost](/notes/sunk-cost.md). [Simplicity](/notes/simplicity.md)
+*start simple* - if the process requires a lot of complex steps, stop and start from scratch. Think of a new process, as simple as possible, and try to implement it. Avoid being drawn by [Past costs irrationally justify future commitment decisions](/notes/past-costs-irrationally-justify-future-commitment-decisions.md). [Distilling to essentials creates clarity and actionability](/notes/distilling-to-essentials-creates-clarity-and-actionability.md)
 
 :::note[SIMPLIFY Start with Zero]
 
@@ -183,7 +209,7 @@ First we need a new mindset, one that doesn't connect between [Struggle](/notes/
 
 #### Progress - The Courage to Be Rubbish
 
-*Make it okay to fail* - mistakes are a great way to learn and improve. If you can create an environment where mistakes are "cheap" and frequent, the faster you'll learn. [Failure](/notes/failure.md) [Simulations](/notes/simulations.md)
+*Make it okay to fail* - mistakes are a great way to learn and improve. If you can create an environment where mistakes are "cheap" and frequent, the faster you'll learn. [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md) [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md)
 
 :::note[PROGRESS The Courage to Be Rubbish]
 
@@ -197,7 +223,7 @@ First we need a new mindset, one that doesn't connect between [Struggle](/notes/
 
 
 #### Pace - Slow is Smooth, Smooth is Fast
-*Find your Rhythm* - Every action has to have a low threshold, so you could easily start working on it and gain [Momentum](/notes/momentum.md), but also you need a top threshold, so that you wont cause you [Burnout](/notes/burnout.md). For example, set for yourself that you will learn 15 minutes each day, but even if you can study more, don't do it. **Don't do too much today that you wont be able to recover from tomorrow**.
+*Find your Rhythm* - Every action has to have a low threshold, so you could easily start working on it and gain [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md), but also you need a top threshold, so that you wont cause you [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md). For example, set for yourself that you will learn 15 minutes each day, but even if you can study more, don't do it. **Don't do too much today that you wont be able to recover from tomorrow**. [Taking on too much overwhelms capacity and causes depletion](/notes/taking-on-too-much-overwhelms-capacity-and-causes-depletion.md)
 
 :::note[PACE Slow Is Smooth, Smooth Is Fast]
 
@@ -211,10 +237,10 @@ First we need a new mindset, one that doesn't connect between [Struggle](/notes/
 
 ### Part 3 - Effortless Results
 
-Effortless results come from cumulative processes [Compounding](/notes/compounding.md).
+Effortless results come from cumulative processes [Repeated actions yield exponentially increasing returns over time](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md).
 
 #### Learn - Leverage the Best of what Others Know
-*knowledge* - knowledge is the "gift that keeps on giving". First gather knowledge from others, than find your area and dive into it. [Lifelong Learning](/notes/lifelong-learning.md)
+*knowledge* - knowledge is the "gift that keeps on giving". First gather knowledge from others, than find your area and dive into it. [Learning must continue constantly throughout life](/notes/learning-must-continue-constantly-throughout-life.md)
 
 :::note[LEARN Leverage the Best of What Others Know]
 
@@ -235,7 +261,7 @@ Effortless results come from cumulative processes [Compounding](/notes/compoundi
 
 
 #### Automate - Do it once and Never Again
-*Automation* - designed to reduce time and/or effort [Friction](/notes/friction.md). It can be like scheduling recurring events in your calendar, templates for various lists so you wont need to write everything from scratch each time, and also to reduce that chance of error.
+*Automation* - designed to reduce time and/or effort [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md). It can be like scheduling recurring events in your calendar, templates for various lists so you wont need to write everything from scratch each time, and also to reduce that chance of error.
 
 :::note[AUTOMATE Do It Once and Never Again]
 
@@ -246,7 +272,7 @@ Effortless results come from cumulative processes [Compounding](/notes/compoundi
 
 
 #### Trust - the Engine of High-leverage Team
-*Trust people* - the best way to create new connections that are easy to manage and develop is through [Trust](/notes/trust.md).
+*Trust people* - the best way to create new connections that are easy to manage and develop is through [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md).
 
 :::note[TRUST The Engine of High-Leverage Teams]
 
@@ -258,7 +284,7 @@ Effortless results come from cumulative processes [Compounding](/notes/compoundi
 
 #### Prevent - Solve the Problem before it Happens
 
-[Prevention](/notes/prevention.md)
+[Handle problems while they are still small](/notes/handle-problems-while-they-are-still-small.md)
 :::note[PREVENT Solve the Problem Before It Happens]
 
 - we often fail to recognize is that some tasks that seem “not worth it” in the moment may save us one hundred times the time and aggravation over the long run.

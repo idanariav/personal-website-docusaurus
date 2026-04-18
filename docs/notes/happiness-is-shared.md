@@ -1,19 +1,23 @@
 ---
 UUID: 20240614111000
 Created: '2024-06-14 11:10'
-Modified: '2026-04-08 13:26'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases: []
 Description: >-
   A concept highlighting that individual happiness is deeply intertwined with
   social connections, emphasizing that our joy often stems from shared
   experiences and relationships with others.
 new_schema: true
+Topic:
+  - '[[Happiness (Nature and Sources)]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ There's something troubling about saying that our happiness [depends](/notes/dep
 ## Visual
 
 ![Happiness is only real when shared](/notes/happiness-is-only-real-when-shared.webp)
-
-## Overview
-🔼Topic:: [Happiness (Nature and Sources)](/notes/happiness-nature-and-sources.md)
-↩️Origin::
-🔗Link::
-

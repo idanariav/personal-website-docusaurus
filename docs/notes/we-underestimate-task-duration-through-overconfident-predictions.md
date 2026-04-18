@@ -1,13 +1,13 @@
 ---
 UUID: 20240101070058
 Created: '2024-01-01 07:00'
-Modified: '2026-04-08 13:37'
+Modified: '2026-04-11 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Planning fallacy
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   tasks within deadlines due to overconfidence and a lack of foresight regarding
   potential obstacles.
 new_schema: true
+Topic:
+  - '[[Overconfidence and Self-Assessment]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ Unfortunately, even good planning is not fool proof. The more buffers we give ou
 ## Visual
 
 ![planning fallacy](/notes/planning-fallacy.webp)
-
-## Overview
-🔼Topic:: [Overconfidence and Self-Assessment](/notes/overconfidence-and-self-assessment.md)
-↩️Origin::
-🔗Link::
-

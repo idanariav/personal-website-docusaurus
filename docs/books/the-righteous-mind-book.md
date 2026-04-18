@@ -1,47 +1,62 @@
 ---
 UUID: 20221223110004
 Created: '2022-12-23 11:00'
-Modified: '2025-04-01 04:11'
+Modified: '2026-04-13 06:20'
 tags: []
+FullTitle: The Righteous Mind - Why Good People are Divided by Politics and Religion
+Description: >-
+  It argues that our moral views arise from deep intuitions, which we
+  rationalize. Disagreements often reflect differing priorities rather than
+  values. Additionally, morality fosters group orientation, particularly in
+  emotional contexts, leading to an "us-versus-them" mentality based on shared
+  experiences.
 Author:
   - '[[Jonathan Haidt]]'
+URL: 'https://www.goodreads.com/book/show/11324722-the-righteous-mind'
+Cover: >-
+  http://books.google.com/books/content?id=ItuzJhbcpMIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Psychology
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B0052FF7YM
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 419
+Reread: 0
 Rate: 4
 PublishDate: 2012-03-13T00:00:00.000Z
+StartDate: 2022-12-13T00:00:00.000Z
 FinishDate: 2022-12-23T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=ItuzJhbcpMIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/11324722-the-righteous-mind'
+Image: null
+aliases: ''
+Topic:
+  - '[[Ethics (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Righteous Mind (book)
 
-## Connect
-🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Intuitions come first** - Our moral views don't stem from rational thinking or biological causes. It is the result of our deep intuition, which we rationalize with our rational side. Although, it is a two-way street, our intuitions can be influenced by our rational side in the long run.
 2. **Disagreement is on the same scales, not different values** - It's not that people have different values, but more often they disagree on the relative importance of values. Since each decision in a scarce world is about prioritizing values, those values are always at war, and people from different cultures have different "taste buds" for morality which affects the prioritization
 3. **Morality makes us group-oriented** - Since morality is based on our intuitions, it can quickly turn us into group-oriented people, especially in highly emotional settings. Powers of us-vs-them is the easiest to use, but even as simple as shared experiences are enough to trigger our group mode
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 The book is good, the theory of moral foundations is really interesting and eye-opening.
@@ -53,18 +68,18 @@ However it ignores qualitative differences, such as what they usually prioritize
 
 🧱 *Implementations and limitations of it are...*
 The book is very American-centric, and some of the conclusions or analysis are hard to transfer to different political situations.
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
-### 🖼️Outline
-![The Righteous Mind (book).webp](/books/the-righteous-mind-book.webp)
+### Outline
+![The Righteous Mind (book)](/books/the-righteous-mind-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-Our world is controlled by [Narratives](/notes/narratives.md), once people embrace a narrative that matches their intuitions, they become locked, blinded to any other viewpoint.
+Our world is controlled by [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md), once people embrace a narrative that matches their intuitions, they become locked, blinded to any other viewpoint.
 
 :::note[Introduction]
 
@@ -80,16 +95,16 @@ Our world is controlled by [Narratives](/notes/narratives.md), once people embra
 
 #### Where Does Morality come from
 Sources of morality:
-1. **Naturalistic** - we are "born" with it, whether by a god or genes, we come pre-built with moral thinking. [Naturalism](/notes/naturalism.md)
-2. **Empiricist** - we are born as a clean slate, and we are educated to have certain moral reasoning. [Empiricism](/notes/empiricism.md)
-3. **Rationalist** - moral reasoning is the result of our own rationalistic capacity, meaning we figure stuff out on our own. [Rationalism](/notes/rationalism.md)
+1. **Naturalistic** - we are "born" with it, whether by a god or genes, we come pre-built with moral thinking. [Everything in the world is a natural phenomenon](/notes/everything-in-the-world-is-a-natural-phenomenon.md)
+2. **Empiricist** - we are born as a clean slate, and we are educated to have certain moral reasoning. [Knowledge comes from empirical testing not innate reason](/notes/knowledge-comes-from-empirical-testing-not-innate-reason.md)
+3. **Rationalist** - moral reasoning is the result of our own rationalistic capacity, meaning we figure stuff out on our own. [Truth is discoverable through reason and logic alone](/notes/truth-is-discoverable-through-reason-and-logic-alone.md)
 
 the famous test of Kholberg showed that there are levels of morality, from pre-convention to conventional, to post-convention. The differences are based on how much you follow the rules because they are the rules, to how much you are willing to consider alternatives and each situation's circumstances. However, this test was not naïve and objective as people thought. It sided heavily with individualistic, liberal thinking, which is focused on the freedom of the individual, and the desire to avoid harm. It also supported the rationalistic point of view, saying that only by experimenting and exploring the world could we advance in our moral thinking, instead of being stuck at lower levels when we are being taught what's right.
 
-A more sophisticated test separated between social conventions, and moral laws, showing that **some of our intuitions are learned (conventions), and some are known (moral truths)**. The difference was that conventions are not bad if someone from outside our culture does them, but moral truths are applied to everyone. [Social Construct](/notes/social-construct.md)
-**The difference between what counts as a convention and a moral truth also depends on the level of socio-centric of each society**. Individualistic societies would name as convention everything that can be justified as supporting personal freedom and limiting harm. while socio-centric societies would see more actions as moral truths and less of a convention. Things like tradition, authority, respect, become more important. [Social Environment](/notes/social-environment.md)
+A more sophisticated test separated between social conventions, and moral laws, showing that **some of our intuitions are learned (conventions), and some are known (moral truths)**. The difference was that conventions are not bad if someone from outside our culture does them, but moral truths are applied to everyone. [Shared beliefs make constructs real and true](/notes/shared-beliefs-make-constructs-real-and-true.md)
+**The difference between what counts as a convention and a moral truth also depends on the level of socio-centric of each society**. Individualistic societies would name as convention everything that can be justified as supporting personal freedom and limiting harm. while socio-centric societies would see more actions as moral truths and less of a convention. Things like tradition, authority, respect, become more important. [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 
-In the end, the rationalist view was proven in studies, but in a different direction than we thought. **we don't use rationalization to find our beliefs, but rather we use it post-hoc to justify our emotional reaction**. [Rationalization](/notes/rationalization.md) only this can explain our tendency to object to victimless taboos, like eating a dead dog, or using a flag as a mop in secret.
+In the end, the rationalist view was proven in studies, but in a different direction than we thought. **we don't use rationalization to find our beliefs, but rather we use it post-hoc to justify our emotional reaction**. [We justify our conclusions after acting, not before](/notes/we-justify-our-conclusions-after-acting-not-before.md) only this can explain our tendency to object to victimless taboos, like eating a dead dog, or using a flag as a mop in secret.
 
 In the author's opinion, **our moral theories are both born and taught. We are born to feel righteous, but need learning and direction to know what we should feel righteous about**.
 
@@ -110,11 +125,11 @@ In the author's opinion, **our moral theories are both born and taught. We are b
 Emotions are the basis of our moral reasoning, without emotions we would have misguided judgements that we even won't be able to go through [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md). **Emotions come first, rational thinking is done after the fact.**
 
 So in each of us there's the rider and the elephant. The elephant is our automatic processes, which solicits the reaction of "seeing that", which means that this system prompts our intuitions, our "gut reactions" to moral questions in a way that is above emotions.
-After that, our rider activates the "reason why" reaction, which tries to make sense of our moral preferences, but not for ourselves, but rather to convince others to come up with the same moral judgment as we did. [Elephant and the Rider](/notes/elephant-and-the-rider.md)
+After that, our rider activates the "reason why" reaction, which tries to make sense of our moral preferences, but not for ourselves, but rather to convince others to come up with the same moral judgment as we did. [Reason and emotion compete for control](/notes/reason-and-emotion-compete-for-control.md)
 
 The process works both ways in the long run, **the intuitions drive our reasoning process, but others can also affect our intuitions through their reasoning, which will change our moral judgments.**
 
-The best and fastest way to change someone's mind is through talking to their "elephant", since the intuitions precede our judgment, this will result in a deeper and stable change of mind. So **emotional arguments are stronger than factual rational ones**. [Empathy](/notes/empathy.md) **is the answer to righteousness** [Negotiation is an act of connection](/notes/negotiation-is-an-act-of-connection.md)
+The best and fastest way to change someone's mind is through talking to their "elephant", since the intuitions precede our judgment, this will result in a deeper and stable change of mind. So **emotional arguments are stronger than factual rational ones**. [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md) **is the answer to righteousness** [Negotiation is an act of connection](/notes/negotiation-is-an-act-of-connection.md)
 
 :::note[The Intuitive Dog and Its Rational Tail]
 
@@ -134,9 +149,9 @@ The best and fastest way to change someone's mind is through talking to their "e
 #### Elephants Rule
 
 since our moral judgment and most of the motivation for our actions come from our intuitions (the elephant), that means that **we are highly influenced by biases**.
-For example - [Availability Bias](/notes/availability-bias.md) - the more we are familiar with something, the more we like it
-[Halo effect](/notes/halo-effect.md) - people who are attractive or successful are perceived as trustworthy in unrelated subjects as well
-senses and moral judgment: we have a two-way street between senses and moral [Judgment](/notes/judgment.md). for example - washing our hands can make us behave more morally, and doing immoral acts makes us feel "dirty". [Mind-body connection](/notes/mind-body-connection.md).
+For example - [Availability bias inflates perceived likelihood of easily recalled events](/notes/availability-bias-inflates-perceived-likelihood-of-easily-recalled-events.md) - the more we are familiar with something, the more we like it
+[One good trait makes us assume others are good too](/notes/one-good-trait-makes-us-assume-others-are-good-too.md) - people who are attractive or successful are perceived as trustworthy in unrelated subjects as well
+senses and moral judgment: we have a two-way street between senses and moral [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md). for example - washing our hands can make us behave more morally, and doing immoral acts makes us feel "dirty". [Physical states and actions unconsciously shape beliefs and behavior](/notes/physical-states-and-actions-unconsciously-shape-beliefs-and-behavior.md).
 [implicit bias 2bc](/notes/implicit-bias-2bc.md) can also affect our judgment.
 All these biases affect our intuitions, which in turn affect our reasoning ("the rider"), to follow along and justify these choices post-hock.
 However, its important to note that its still a two-way street. The intuitions can be affected by reason, usually through conversations with others that tend to highlight the drawbacks or holes in our moral theory.
@@ -156,13 +171,13 @@ However, its important to note that its still a two-way street. The intuitions c
 
 #### Vote for Me (Here's Why)
 
-Our quest for truth is more like a politician trying to get more votes, than a scientist who is looking for the objective truth. [scientific method](/notes/scientific-method.md)
-The only way to force us to solve the [intrapersonal conflict](/notes/a-person-is-a-community.md) between our moral intuitions and our desire to be accepted by others is to have [Accountability](/notes/accountability.md). **Once we are accountable for our opinions, we tend to hold them in a much more rigid set of testing**. To promote such accountability, we must:
+Our quest for truth is more like a politician trying to get more votes, than a scientist who is looking for the objective truth. [Empirical testing not reason alone discovers truth](/notes/empirical-testing-not-reason-alone-discovers-truth.md)
+The only way to force us to solve the [intrapersonal conflict](/notes/a-person-is-a-community.md) between our moral intuitions and our desire to be accepted by others is to have [You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md). **Once we are accountable for our opinions, we tend to hold them in a much more rigid set of testing**. To promote such accountability, we must:
 1. **Knowledge** - have a chance to learn about the topic before presenting it
 2. **Anonymous** - We are not aware of the public's opinions (or which way they prefer)
 3. **Can't be conned** - we believe that the public is also well-informed about the subject
 
-otherwise, we might fail in cases like [Conformation Bias](/notes/conformation-bias.md), and choose the option that is more convenient to us, rather than what's right. it's because we have different belief thresholds for different ideologies. for something I want to believe, I ask myself "can I believe it" (is there any reason to believe it), and for things I don't want to believe, I ask "must I believe it" (is there any reason not to believe it). usually, we all have a moral threshold were pass that point we won't be able to lie to ourselves about how justified it is, so even when we are not monitored - we all cheat, but by a little.
+otherwise, we might fail in cases like [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md), and choose the option that is more convenient to us, rather than what's right. it's because we have different belief thresholds for different ideologies. for something I want to believe, I ask myself "can I believe it" (is there any reason to believe it), and for things I don't want to believe, I ask "must I believe it" (is there any reason not to believe it). usually, we all have a moral threshold were pass that point we won't be able to lie to ourselves about how justified it is, so even when we are not monitored - we all cheat, but by a little.
 
 another proof that rationalism is false is that researches show that **philosophy professors are not any more ethical than other people**. Intuitionalism is the true basis for moral philosophy.
 
@@ -204,15 +219,15 @@ to understand how they are different, we can be based on Shweders three ethics:
 
 As we saw previously, **there is no "one moral truth" in a sense that there are conflicting moral considerations with different values that they try to maximize, and therefore vary difficult to compare and compromise.**
 
-Morality, is therefore similar to taste buds, it's a mixture of perceptions and cannot be reduced so a single one. [Utilitarianism](/notes/utilitarianism.md) and [Deontology](/notes/deontology.md) are examples of such reduction to a single aspect.
+Morality, is therefore similar to taste buds, it's a mixture of perceptions and cannot be reduced so a single one. [Maximizing pleasure and minimizing suffering defines moral action](/notes/maximizing-pleasure-and-minimizing-suffering-defines-moral-action.md) and [Deontology treats morality as duties and rights that transcend consequences](/notes/deontology-treats-morality-as-duties-and-rights-that-transcend-consequences.md) are examples of such reduction to a single aspect.
 
-we can judge moral theories on the Empty-system driven scale. These two theories are examples of theories that are high on the systemizing scale, basing their foundation on universal rules, logic, and detachment from emotions. On the other end of the scale we can find theories like [Ethics of care](/notes/ethics-of-care.md), which are highly based on context and empathy.
-**To get to know what are the different morality types (or tastes) of humans we must experiment and explore, since they cannot be rationalized (each taste requires a different logic)**. Also, morality should be verified not based on what it ought to be (in a perfect rational world), but rather what is it (what are people's actual motivations, reasons, and actions). [Is vs Ought](/notes/is-vs-ought.md) [Idealism](/notes/idealism.md)
+we can judge moral theories on the Empty-system driven scale. These two theories are examples of theories that are high on the systemizing scale, basing their foundation on universal rules, logic, and detachment from emotions. On the other end of the scale we can find theories like [Morality must account for relationships and context](/notes/morality-must-account-for-relationships-and-context.md), which are highly based on context and empathy.
+**To get to know what are the different morality types (or tastes) of humans we must experiment and explore, since they cannot be rationalized (each taste requires a different logic)**. Also, morality should be verified not based on what it ought to be (in a perfect rational world), but rather what is it (what are people's actual motivations, reasons, and actions). [Confusing current reality with how things should be blocks change](/notes/confusing-current-reality-with-how-things-should-be-blocks-change.md) [Objects imitate a perfect version of themselves](/notes/objects-imitate-a-perfect-version-of-themselves.md)
 
 There are many moral modules, that vary between cultures and are connected to different behaviors. Many disagreements are not in the moral models, but rather if a specific action is linked to that model or not. For example, both think that the body is a holy thing that should be preserved, but is a sexual act something that desecrates it or not.
 
 The common 6 moral models:
-[Moral Taste Buds](/notes/moral-taste-buds.md)
+[Morality is a shared palette mixed in different proportions](/notes/morality-is-a-shared-palette-mixed-in-different-proportions.md)
 1. **Care** vs Harm - originated from our need to care for the next generation
 2. **Fairness** vs cheating - originated from the benefit of cooperation. it's main goal is to achieve proportionality, that everyone gets what they deserve, based on their skills and inputs.
 3. **Loyalty** vs Betrayal - originated from the benefit of coalition building
@@ -263,10 +278,10 @@ since conservatives care more equally about the different moral "tastes", its ea
 
 #### Why Are We So Groupish?
 
-evolution happens on several levels simultaneously. We compete as individuals for our self-interest, but we also have advantages from working as a group, which wishes to remove [free riders](/notes/free-rider.md) and cheaters.
+evolution happens on several levels simultaneously. We compete as individuals for our self-interest, but we also have advantages from working as a group, which wishes to remove [free riders](/notes/some-exploit-the-altruism-of-others.md) and cheaters.
 [group selection 2bc](/notes/group-selection-2bc.md) happens when evolution favors group traits that even come at a price for the individual.
 
-Group tendencies gave us the ability to learn from each other, [Cooperation](/notes/cooperation.md), and to [Specialization](/notes/specialization.md)i), giving humans a clear advantage over other species that tend to work alone. **We became a social animal, with norms, genes and moral expectations to maintain our "groupness"**. (Related:: [Human is a social being](/notes/human-is-a-social-being.md)
+Group tendencies gave us the ability to learn from each other, [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md), and to [Specialization develops deep expertise by focusing narrowly on a domain](/notes/specialization-develops-deep-expertise-by-focusing-narrowly-on-a-domain.md)i), giving humans a clear advantage over other species that tend to work alone. **We became a social animal, with norms, genes and moral expectations to maintain our "groupness"**. (Related:: [Human is a social being](/notes/human-is-a-social-being.md)
 
 :::note[Why Are We So Groupish?]
 
@@ -281,11 +296,11 @@ Group tendencies gave us the ability to learn from each other, [Cooperation](/no
 
 #### The Hive Switch
 
-**There are cases where we can completely forget ourselves and have a sense of oneness, of [Unity](/notes/unity.md) and harmony with the group. These cases often occur in highly emotional states**, such as combat, parties, or drugs. One of the main causes for this phenomenon are the mirror neurons, which makes us imitate other's emotional state and intention, thus creating a chain effect between everyone (I'm happy because he's happy, when then is passed along to someone else).
-[Mirroring](/notes/mirroring.md) happens more between members of the same group.
+**There are cases where we can completely forget ourselves and have a sense of oneness, of [Unity is the felt sense of connection with others and the world](/notes/unity-is-the-felt-sense-of-connection-with-others-and-the-world.md) and harmony with the group. These cases often occur in highly emotional states**, such as combat, parties, or drugs. One of the main causes for this phenomenon are the mirror neurons, which makes us imitate other's emotional state and intention, thus creating a chain effect between everyone (I'm happy because he's happy, when then is passed along to someone else).
+[Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md) happens more between members of the same group.
 
 In businesses, we can see two different approaches:
-1. **Transactional leadership** - based on personal self interest, with all the negative implications [External Motivation](/notes/external-motivation.md)
+1. **Transactional leadership** - based on personal self interest, with all the negative implications [External motivation crowds out intrinsic drive and sustainability](/notes/external-motivation-crowds-out-intrinsic-drive-and-sustainability.md)
 2. **Transformational leadership** - based on creating hives and using group tendencies to have shared goals and altruism. You can increase that by:
 	1. **Creating a unified identity** - uniforms, common goals and culture
 	2. **Having group events**
@@ -328,8 +343,8 @@ Those strong ties are what makes religious people more generous and altruistic, 
 
 #### Can't We All Disagree More Constructively.
 Three things affect your political beliefs:
-1. **Genes** - a biological tendency to be scared of risks [Risk Management](/notes/risk-management.md) or to seek novelty can affect left/right wing leaning.
-2. **life experience** - important moments that are colored by one type of political behavior or another, like a school shooting, or an abusive authority figure [experience knowledge](/notes/experience-knowledge.md)
+1. **Genes** - a biological tendency to be scared of risks [We prefer avoiding losses over gaining equivalent value](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md) or to seek novelty can affect left/right wing leaning.
+2. **life experience** - important moments that are colored by one type of political behavior or another, like a school shooting, or an abusive authority figure [Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md)
 3. **great narrative** - from childhood we are told stories that can implant a political narrative in our brain, which is very difficult to change
 
 **We all have things to gain if we learn from both political sides of the political spectrum**. The conservatives which higher emphasis on social capital, on stricter laws that give us the moral exoskeleton to act kindly, to cooperate and to remove free riders and cheaters. The liberals which open our eyes to the victims of these laws, and enable us to adapt our viewpoints quicker based on new information, like environment or minority rights.
@@ -345,5 +360,4 @@ Three things affect your political beliefs:
 - We may spend most of our waking hours advancing our own interests, but we all have the capacity to transcend self-interest and become simply a part of a whole. It’s not just a capacity; it’s the portal to many of life’s most cherished experiences.
 
 :::
-
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20231224063300
 Created: '2023-12-24 06:33'
-Modified: '2026-04-09 17:03'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Life has no predefined meaning we can discover.png]]'
 ImageText: A flow chart that leads to a tombstone
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Absurdity of existence
   - Existential crisis
 new_schema: true
+Topic:
+  - '[[Value and Meaning]]'
+Origin: '[[Albert Camus (philosopher)|Albert Camus]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -69,8 +73,3 @@ To base your meaning on the results of your actions is also problematic, because
 ## Visual
 
 ![Life has no predefined meaning we can discover](/notes/life-has-no-predefined-meaning-we-can-discover.webp)
-
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-↩️Origin:: [Albert Camus](/notes/albert-camus-philosopher.md)
-🔗Link::

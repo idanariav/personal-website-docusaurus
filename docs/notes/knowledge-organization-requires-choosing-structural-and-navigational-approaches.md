@@ -1,13 +1,13 @@
 ---
 UUID: 20220729135355
 Created: '2022-07-29 13:53'
-Modified: '2026-04-10 14:07'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Methods of knowledge management
   - how to organize notes
@@ -16,6 +16,10 @@ Description: >-
   mess, daily notes, atomic notes, topic-focused pages, and action/context-based
   structures, aimed at enhancing retrieval and understanding.
 new_schema: true
+Topic:
+  - '[[Knowledge Structure and Transfer]]'
+Origin: '[[Zsolt''s Visual Personal Knowledge Management]]'
+URL: 'https://www.youtube.com/watch?v=AtdAAD47aQY'
 draft: false
 SiteProcssed: true
 ---
@@ -53,8 +57,3 @@ Whichever structure we choose, it must "make sense", i.e that it will be easy fo
 ## Visual
 
 ![methods of knowledge management](/notes/methods-of-knowledge-management.webp)
-
-## Overview
-🔼Topic:: [Knowledge Structure and Transfer](/notes/knowledge-structure-and-transfer.md)
-Origin:: [Zsolt's Visual Personal Knowledge Management](/notes/zsolts-visual-personal-knowledge-management.md)
-🔗Link:: [Source](https://www.youtube.com/watch?v=AtdAAD47aQY)

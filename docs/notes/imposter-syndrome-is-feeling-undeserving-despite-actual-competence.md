@@ -1,13 +1,13 @@
 ---
 UUID: 20230328065311
 Created: '2023-03-28 06:53'
-Modified: '2026-04-10 15:47'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Imposter Syndrome
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   being exposed as a "fraud," despite evident success, leading to feelings of
   inadequacy and self-criticism.
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,6 +56,3 @@ How to avoid imposter syndrome:
 ![Imposter Syndrome](/notes/imposter-syndrome.webp)
 
 ## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-◀Origin::
-🔗Link::

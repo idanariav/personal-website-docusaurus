@@ -1,8 +1,8 @@
 ---
 UUID: 20240526213928
 Created: '2024-05-26 21:39'
-Modified: '2024-06-11 06:38'
-Version: 1.01
+Modified: '2026-04-13 06:15'
+Version: 2
 tags: []
 PublishDate: 2017-09-07T00:00:00.000Z
 Pages: 162
@@ -16,23 +16,31 @@ Fiction: false
 Cover: >-
   http://books.google.com/books/content?id=MDksDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/36073585-ikigai'
-ReadingStatus: Read
+ReadingStatus: Done
 FinishDate: 2024-06-01T00:00:00.000Z
 Rate: 2
 aliases: null
+Description: >-
+  It argues for ten essential rules to achieve ikigai: staying active, taking
+  life slow, practicing moderation, fostering good relationships, maintaining
+  physical health, cultivating optimism, reconnecting with nature, expressing
+  gratitude, embracing mindfulness, and pursuing one's life mission.
+FullTitle: Ikigai - The Japanese Secret to a Long and Happy Life
+StartDate: 2024-05-29T00:00:00.000Z
+ASIN: B01NAG34EH
+Reread: 0
+Topic:
+  - '[[Wellbeing (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Ikigai
 
-## 🔗Connect
-🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 Ten rules of ikigai:
 1. Stay active (don't retire)
@@ -46,11 +54,11 @@ Ten rules of ikigai:
 9. Live in the moment (mindfulness)
 10. Follow your life's mission
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 Longer and better life - by finding the meaning in our lives we can be much happier and live longer
@@ -59,12 +67,12 @@ Longer and better life - by finding the meaning in our lives we can be much happ
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book is a mess, it tries to talk about various contributors to longevity, sometimes jumping between points without connection to each other and to ikigai, the main message of the book. Since it's such a short book, it fails it's mission and becomes only a collection of arguments with no depth or explanation. It's somewhere between a rough draft and a research suggestion rather than something polished.
 
-## 📒 Notes
+## Notes
 
 ### Prologue
 
@@ -96,12 +104,12 @@ When we explore the blue zones where people are likely to reach very old ages, w
 **Little things that can add up to a long and happy life**
 
 To keep both body and mind healthy, we should maintain:
-1. Intellectually challenging life - to keep training our brain, dealing with new information, learning something new, and playing games [lifelong learning](/notes/lifelong-learning.md)
-2. Social life - to be in contact with others [relationships](/notes/relationships.md)
-3. Positivity - to maintain an [optimistic](/notes/optimism.md) look on life
+1. Intellectually challenging life - to keep training our brain, dealing with new information, learning something new, and playing games [Learning must continue constantly throughout life](/notes/learning-must-continue-constantly-throughout-life.md)
+2. Social life - to be in contact with others [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md)
+3. Positivity - to maintain an [optimistic](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) look on life
 4. Movement - to keep our body active, walking more and sitting less
-5. [sleep](/notes/sleep.md) - at least 8 hours a day
-6. Reduce [stress](/notes/stress.md) - while it could be beneficial in small short doses, having a prolonged exposure to stress can harm the body
+5. [Sleep is essential for cognitive function and peak performance](/notes/sleep-is-essential-for-cognitive-function-and-peak-performance.md) - at least 8 hours a day
+6. Reduce [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) - while it could be beneficial in small short doses, having a prolonged exposure to stress can harm the body
 
 :::note[ANTIAGING SECRETS]
 
@@ -119,7 +127,7 @@ Both logotherapy and Moria therapy work by focusing on the future, on finding yo
 ### Find Flow in Everything You Do
 **How to turn work and free time into spaces for growth**
 
-Ikigai is when we combine our personal mission with the action that brings it to life. These two together form the sensation of [flow](/notes/flow.md), of becoming one with the task, forgetting ourselves and entering an harmonious state of self fulfillment.
+Ikigai is when we combine our personal mission with the action that brings it to life. These two together form the sensation of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md), of becoming one with the task, forgetting ourselves and entering an harmonious state of self fulfillment.
 
 Flow requires:
 1. Right amount of challenge
@@ -165,7 +173,7 @@ Movement is essential for our health, and throughout the ages each culture has f
 ### Resilience and Wabi Sabi
 **How to face life's challenges without letting stress and worry age you**
 
-To live well we need to overcome challenges, to develop [emotional resilience](/notes/emotional-resilience.md). This can be either through beliefs such as Buddhism and stoicism that teach us to prepare mentally to the worse possible outcome while detaching ourselves from what happens to us. We can remember the importance of Wabi Sabi, the beauty in imperfection, and the concept of anti fragility, the ability to use randomness and risk to our benefit by making sure we only expose ourselves to positive randomness.
+To live well we need to overcome challenges, to develop [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md). This can be either through beliefs such as Buddhism and stoicism that teach us to prepare mentally to the worse possible outcome while detaching ourselves from what happens to us. We can remember the importance of Wabi Sabi, the beauty in imperfection, and the concept of anti fragility, the ability to use randomness and risk to our benefit by making sure we only expose ourselves to positive randomness.
 
 ### Conclusion
 Ten rules of ikigai:

@@ -1,13 +1,13 @@
 ---
 UUID: 20230327174116
 Created: '2023-03-27 17:41'
-Modified: '2026-04-06 22:40'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Each additional unit provides progressively less value.png]]'
 ImageText: >-
   A bar chart showing happiness per cookie decreasing as the number of cookies
@@ -18,6 +18,10 @@ Description: >-
 aliases:
   - Diminishing Returns
 new_schema: true
+Topic:
+  - '[[Tradeoffs and Consequences]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,8 +60,3 @@ Imagine food. When you're hungry, a pizza surprise is amazing, but by the 30th s
 ## Visual
 
 ![Each additional unit provides progressively less value](/notes/each-additional-unit-provides-progressively-less-value.webp)
-
-## Overview
-🔼Topic:: [Tradeoffs and Consequences](/notes/tradeoffs-and-consequences.md)
-◀Origin::
-🔗Link::

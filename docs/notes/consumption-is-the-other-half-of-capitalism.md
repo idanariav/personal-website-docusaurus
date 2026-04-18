@@ -1,8 +1,8 @@
 ---
 UUID: 20250817112149
 Created: '2025-08-17 11:21'
-Modified: '2026-04-10 16:47'
-Version: 4
+Modified: '2026-04-11 22:19'
+Version: 5
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -16,6 +16,11 @@ Description: >-
   to address perceived deficiencies in life, fostering an insatiable desire for
   possessions as a source of happiness.
 new_schema: true
+Topic:
+  - '[[Consumption and Commodification]]'
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -47,9 +52,3 @@ Consumerism means that we focus on the [lack](/notes/scarcity-forces-prioritizat
 
 ## Visual
 
-
-## Overview
-🔼Topic:: [Consumption and Commodification](/notes/consumption-and-commodification.md)
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-↩️Origin::
-🔗Link:: 

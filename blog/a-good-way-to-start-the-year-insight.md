@@ -45,7 +45,7 @@ Huge annual resolutions often feel like trying to climb a cliff. We overpromise 
 
 ![A good way to start the year (insight)](/blogs/a-good-way-to-start-the-year-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Goodbye 2025, Hello 2026
 

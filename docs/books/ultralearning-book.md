@@ -1,27 +1,45 @@
 ---
 UUID: 20220703185924
 Created: '2022-07-03 18:59'
-Modified: '2025-03-24 08:44'
+Modified: '2026-04-13 06:21'
 tags: []
+FullTitle: >-
+  Ultralearning - Master Hard Skills, Outsmart the Competition, and Accelerate
+  Your Career
+Description: >-
+  It argues for creating a learning map to clarify goals, emphasizes the
+  importance of extensive practice under realistic conditions, and encourages
+  exploring alternatives through feedback and experimentation to enhance
+  learning and personal growth.
 Author:
   - '[[Scott Young]]'
+URL: 'https://www.goodreads.com/book/show/44770129-ultralearning'
+Cover: >-
+  http://books.google.com/books/content?id=jyV2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B07K6MF8MD
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.03
+Version: 4
 Pages: 305
-Rate: 5
+Reread: 0
+Rate: 4
 PublishDate: 2019-08-06T00:00:00.000Z
+StartDate: 2022-02-03T00:00:00.000Z
 FinishDate: 2022-02-09T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=jyV2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/44770129-ultralearning'
+Image: null
 aliases: null
+Topic:
+  - '[[Learning (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -30,19 +48,16 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [Learning (Map)](/mocs/learning-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Create a learning map** - research what, why and how you are going to learn
 2. **Practice practice practice** - try to simulate as best as possible the conditions of the "real life cases" of what you'll do with your gained knowledge during the learning process. Practice it again and again, specifically the hard part, until you will have a solid foundation and have a sense of intuition.
 3. **Explore alternatives** - try to get good feedback to show you where you are wrong or what you could better. Experiment to find better alternatives yourself and step out of your comfort zone
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -50,16 +65,16 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book has no unnecessary parts, and the writer is very straight forward about the book and it's potential, no word play or aggregations. This a collection of guidelines, with a lot of humility and honesty. With ego aside, the writer dives into the literature and shows better learning tips, and even mention that this is only one strategy out of many, which is good at only specific situations, and yet its a good approach to life.
 
-### 🖼️Outline
+### Outline
 
-![Ultralearning (book).webp](/books/ultralearning-book.webp)
+![Ultralearning (book)](/books/ultralearning-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Intro
 
@@ -93,7 +108,7 @@ Ultra-learning is something anyone can do, its not about skill or IQ.
 
 ### Chapter 1 - Meta-learning: First Draw a Map
 
-Before starting the actual learning, its helpful to plan how the learning itself would look like, by creating a *learning map*. [Planning](/notes/planning.md) this includes the *what*, *why*, and *how*.
+Before starting the actual learning, its helpful to plan how the learning itself would look like, by creating a *learning map*. [Planning is anticipating the future and preparing action accordingly](/notes/planning-is-anticipating-the-future-and-preparing-action-accordingly.md) this includes the *what*, *why*, and *how*.
 **Why** - what is your goal? what are you trying to achieve? which capability? For example, if I want to learn a language just to "get by" while being a tourist, its likely that I wont need to focus on writing.
 **What** - derives from the "why", and focused on *concepts, facts and processes* in that field of knowledge. Based on these aspects, you need to find what is the optimal learning method.
 **How** - this is that optimal learning method. Its best to consult with people who learned the subject or experts in the field.
@@ -126,10 +141,10 @@ Before starting the actual learning, its helpful to plan how the learning itself
 
 
 ### Chapter 2 - Focus: Sharpen Your Knife
-Focus has three main parts, Beginning, Continuous, and quality. [Focus](/notes/focus.md)
-1. **Beginning** - some people face issues with getting themselves to sit down and start focusing on a task, usually due to [Procrastination](/notes/procrastination.md), a simple solution might be [5 minute rule](/notes/5-minute-rule.md), just try to start for five minutes.
-2. **Continuous** - reducing distractions and trying to develop [mindfulness](/notes/intentionality.md) to jeep the head clear without distracting thoughts.
-3. **Quality** - Complicated tasks require a different level of concentration. For example, I can solve mathematical problems while listening to music, but not reading while doing so. This is related to the level of awareness, so a different task might be optimal during different parts of the day [motivational scheduling](/notes/motivational-scheduling.md)
+Focus has three main parts, Beginning, Continuous, and quality. [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md)
+1. **Beginning** - some people face issues with getting themselves to sit down and start focusing on a task, usually due to [Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md), a simple solution might be [5 minute rule](/notes/5-minute-rule.md), just try to start for five minutes.
+2. **Continuous** - reducing distractions and trying to develop [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) to jeep the head clear without distracting thoughts.
+3. **Quality** - Complicated tasks require a different level of concentration. For example, I can solve mathematical problems while listening to music, but not reading while doing so. This is related to the level of awareness, so a different task might be optimal during different parts of the day [Aligning tasks to energy levels improves performance and reduces resistance](/notes/aligning-tasks-to-energy-levels-improves-performance-and-reduces-resistance.md)
 
 :::note[Focus Sharpen Your Knife]
 
@@ -151,11 +166,11 @@ Focus has three main parts, Beginning, Continuous, and quality. [Focus](/notes/f
 
 ### Chapter 3 - Directedness: Go Straight ahead
 
-learn both in terms of method and in terms of subjects exactly according to your goal. Want to become a musician? play the instrument. Want to learn a new language? start speaking it instead of listening to lectures. Want to become a coder? have a coding project. [Simulations](/notes/simulations.md)
+learn both in terms of method and in terms of subjects exactly according to your goal. Want to become a musician? play the instrument. Want to learn a new language? start speaking it instead of listening to lectures. Want to become a coder? have a coding project. [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md)
 
 Directedness is the best way to learn because:
 1. **There is a higher change that you will acquire the tools and skills that you would actually need "in real life"**. compare for example a degree in college that is detached and completely unrelated from the needs of the industry, as opposed to an "on-the-job training".
-2. There is a higher chance that you will be able to implement the knowledge in new contexts. [Transferred Learning](/notes/transferred-learning.md). This is the ultimate goal of every educational system, to prepare you to *new* situations that you will encounter in the future.
+2. There is a higher chance that you will be able to implement the knowledge in new contexts. [Knowledge applied across contexts enables learning generalization](/notes/knowledge-applied-across-contexts-enables-learning-generalization.md). This is the ultimate goal of every educational system, to prepare you to *new* situations that you will encounter in the future.
 
 :::note[Directness Go Straight Ahead]
 
@@ -181,8 +196,8 @@ Directedness is the best way to learn because:
 ### Chapter 4 - Drill: Attack Your Weakest point
 
 You must identify your weak spots, especially those we are a bottleneck to achieving your ultimate goal. For example to stutter during speeches, or forgetting how to conjugate verbs.
-You have to practice those parts over and over until you'll improve. [Chunking](/notes/chunking.md)
-**This is perhaps the most unrewarding and frustrating part about learning, but as a good building needs a solid base to stand on, you can't ignore your weak spots**. [Challenge](/notes/struggle.md). [learning should be hard](/notes/learning-should-be-hard.md)
+You have to practice those parts over and over until you'll improve. [Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.md)
+**This is perhaps the most unrewarding and frustrating part about learning, but as a good building needs a solid base to stand on, you can't ignore your weak spots**. [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md). [Learning should be hard](/notes/learning-should-be-hard.md)
 
 :::note[Drill Attack Your Weakest Point]
 
@@ -214,12 +229,12 @@ Instead of reading the same text again and again, or working with the material n
 
 
 ### Chapter 6 - Feedback: Don't Dodge the Punches
-There are three kinds of [Feedback](/notes/feedback.md):
+There are three kinds of [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md):
 1. **Result** - either a v/x (success or failure), or a score. This is only indicates the quality of your knowledge
 2. **informative** - indicates exactly what you did or didn't do well, but not how to improve
 3. **Constructive** - Indicates what went well and what didn't, but also includes steps for improvements. Usually it is provided by a teacher or a coach.
 You should always aspire to receive constructive feedback, but its not always possible.
-Also, you should know not to listen to each and every feedback, since that many signals usually contain [Noise](/notes/noise.md), and sometimes the feedback is not directed towards improvement, but rather hurting/complementing your ego as a person, which makes it irrelevant.
+Also, you should know not to listen to each and every feedback, since that many signals usually contain [Noise obscures truth with external interference and confusion](/notes/noise-obscures-truth-with-external-interference-and-confusion.md), and sometimes the feedback is not directed towards improvement, but rather hurting/complementing your ego as a person, which makes it irrelevant.
 
 :::note[Feedback Don’t Dodge the Punches]
 
@@ -243,10 +258,10 @@ Also, you should know not to listen to each and every feedback, since that many 
 ### Chapter 7 - Retention: Don't Fill a Leaking Bucket.
 
 Forgetting is a natural part of learning, but you can reduce it by:
-1. **Spaced repetition** - going over the material again based on predefined internals. [spaced repetition](/notes/spaced-repetition.md)
+1. **Spaced repetition** - going over the material again based on predefined internals. [Repeated exposure to information strengthens memory retention](/notes/repeated-exposure-to-information-strengthens-memory-retention.md)
 2. **Procedural** - turning the new skill into something "automated" within you, like knowing how to ride a bike
 3. **Over-practicing** - Learning more than it's needed won't improve the skill but will improve retention.
-4. **Mnemonic devices** - like a [Memory Palace](/notes/memory-palace.md), or any other visual representation that help you remember what you've learned.
+4. **Mnemonic devices** - like a [Abstract information is easier to remember spatially](/notes/abstract-information-is-easier-to-remember-spatially.md), or any other visual representation that help you remember what you've learned.
 
 :::note[Retention Don’t Fill a Leaky Bucket]
 
@@ -266,8 +281,8 @@ Forgetting is a natural part of learning, but you can reduce it by:
 
 ### Chapter 8 - Intuition: Dig Deep before Building up
 
-Intuition is a different, sub-concious level of understanding. It is not necessarily created by "over-practicing", but by a deeper understanding of the relevant subject. For example the [Feynman Technique](/notes/feynman-technique.md), which by forcing you to teach others what you've learned, enables you to understand the subject on a deeper level.
-**Intuition will be formed if we would be able to recognize the logic, or leading cause behind what we've learning**, like being able to prove the mathematical equations you are using, or the grammatical rule instead of just remembering sentences. [Systematical Thinking](/notes/systematical-thinking.md) [Intuition](/notes/intuition.md)
+Intuition is a different, sub-concious level of understanding. It is not necessarily created by "over-practicing", but by a deeper understanding of the relevant subject. For example the [Explaining ideas simply exposes gaps in understanding](/notes/explaining-ideas-simply-exposes-gaps-in-understanding.md), which by forcing you to teach others what you've learned, enables you to understand the subject on a deeper level.
+**Intuition will be formed if we would be able to recognize the logic, or leading cause behind what we've learning**, like being able to prove the mathematical equations you are using, or the grammatical rule instead of just remembering sentences. [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md) [Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md)
 
 :::note[Intuition Dig Deep Before Building Up]
 
@@ -286,9 +301,9 @@ Intuition is a different, sub-concious level of understanding. It is not necessa
 
 ### Chapter 9 - Experimentation: Explore outside Your Comfort Zone
 
-Improvement comes not only from learning the same subjects, but also by searching new ways to improve [Experimentation](/notes/testing.md). Whether by improving the learning methods (do I study better by using videos or books?) or by improving the ways in which the knowledge is implemented.
+Improvement comes not only from learning the same subjects, but also by searching new ways to improve [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md). Whether by improving the learning methods (do I study better by using videos or books?) or by improving the ways in which the knowledge is implemented.
 **Success is most often the result of innovation, and not just a good execution of the things that are easy to do**.
-Trying new ways to solve problems, mixing skills from different fields, and being with a [Growth Mindset](/notes/growth-mindset.md) is what will help you switch from a beginner to an expert.
+Trying new ways to solve problems, mixing skills from different fields, and being with a [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md) is what will help you switch from a beginner to an expert.
 
 :::note[Experimentation Explore Outside Your Comfort Zone]
 

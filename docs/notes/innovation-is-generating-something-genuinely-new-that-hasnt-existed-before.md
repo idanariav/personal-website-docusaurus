@@ -1,13 +1,13 @@
 ---
 UUID: 20250226141228
 Created: '2025-02-26 14:12'
-Modified: '2026-04-09 09:15'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Innovation
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   requiring critical thinking, cooperation, and curiosity, while navigating
   complexities and learning from failures.
 new_schema: true
+Topic:
+  - '[[Creative Ideation and Innovation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +56,3 @@ Same as with other forms of creativity, innovating requires a level of [Curiosit
 ## Visual
 
 ![Innovation](/notes/innovation.webp)
-
-## Overview
-🔼Topic:: [Creative Ideation and Innovation](/notes/creative-ideation-and-innovation.md)
-↩️Origin::
-🔗Link::
-

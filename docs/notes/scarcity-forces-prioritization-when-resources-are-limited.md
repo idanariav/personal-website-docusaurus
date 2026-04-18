@@ -1,13 +1,13 @@
 ---
 UUID: 20240409080248
 Created: '2024-04-09 08:02'
-Modified: '2026-04-10 06:09'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 5
+Version: 6
 aliases:
   - Scarcity
 Description: >-
@@ -15,6 +15,11 @@ Description: >-
   decision-making, emphasizing the urgency and significance of choices due to
   the finite nature of time and opportunities.
 new_schema: true
+Topic:
+  - '[[Tradeoffs and Consequences]]'
+  - '[[Resource Allocation and Prioritization]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,10 +55,3 @@ Ask yourself - what is the most important thing right now? What's worth investin
 ## Visual
 
 ![Scarcity](/notes/scarcity.webp)
-
-## Overview
-🔼Topic:: [Tradeoffs and Consequences](/notes/tradeoffs-and-consequences.md)
-🔼Topic:: [Resource Allocation and Prioritization](/notes/resource-allocation-and-prioritization.md)
-↩️Origin::
-🔗Link::
-

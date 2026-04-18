@@ -1,13 +1,13 @@
 ---
 UUID: 20230702211430
 Created: '2023-07-02 21:14'
-Modified: '2026-04-09 09:10'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Uncertainty
   - Uncertainty
@@ -16,6 +16,11 @@ Description: >-
   leading to heightened loss aversion, stress, and a focus on immediate needs
   over long-term goals.
 new_schema: true
+Topic:
+  - '[[Avoidance and Defense Mechanisms]]'
+  - '[[Nature and Limits of Knowledge]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -58,10 +63,3 @@ We can deal with uncertainty in a few ways:
 ## Visual
 
 ![Uncertainty](/notes/uncertainty.webp)
-
-## Overview
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-🔼Topic:: [Nature and Limits of Knowledge](/notes/nature-and-limits-of-knowledge.md)
-◀Origin::
-🔗Link::
-

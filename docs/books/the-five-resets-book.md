@@ -1,7 +1,7 @@
 ---
 UUID: 20250817081037
 Created: '2025-08-17 08:10'
-Modified: '2026-01-23 10:37'
+Modified: '2026-04-13 06:19'
 tags: []
 FullTitle: The 5 Resets - Rewire Your Brain and Body for Less Stress and More Resilience
 Description: >-
@@ -24,7 +24,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 283
 Reread: 0
 Rate: 2
@@ -33,6 +33,9 @@ StartDate: 2026-01-04T00:00:00.000Z
 FinishDate: 2026-01-20T00:00:00.000Z
 Image: ''
 aliases: null
+Topic:
+  - '[[Stress can be adaptive or harmful depending on perception and context]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -41,11 +44,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [stress](/notes/stress.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Hear the canary cry** - We often ignore the signals our body is sending us saying we are breaking apart due to too much stress. Even when we do notice it, we dismiss it because we believe stress is a burden to carry, part of the cost we have to pay to reach the top. Instead we should see it as it is, a sign of danger that requires changing course.
 2. **Follow the rule of two** - Change is hard and takes time. Instead of trying to change your life completely in an instant, make two small changes, and follow up every 4 weeks. Once you feel these two changes are now a natural part of your life, make two additional changes.
@@ -55,11 +54,11 @@ SiteProcssed: true
 6. **Come up for air** - Focus on one thing at a time, and use rituals to shift your mindset into work/focus/rest/social mode.
 7. **Bring your best self forward** - Silence your inner critic by using expressive writing and self affirmation.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 I would better manage my stress, notice when it gets too much and be able to make changes to reduce it back to normal ranges.
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -67,7 +66,7 @@ I would better manage my stress, notice when it gets too much and be able to mak
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book is "shallow", tailored for people who don't have time or energy for a deep dive and look for a simple solution for their stress.
@@ -77,7 +76,7 @@ Most of the book is repetitive in structure. There's a long description of a con
 Also there's something off putting when all the stories is based on their patients, it seems ego centric and anecdotical.
 
 
-### ✅Act
+### Act
 📋*What should I do to achieve the goals set out by this book?*
 1. **Apply the Rule of Two** – Limit yourself to making no more than two meaningful lifestyle changes at a time to allow your brain to adjust and ensure the habits stick.
 2. **Run a MOST Goal Framework** – Define goals that are Motivating, Objective, Small, and Timely, then use "backwards planning" to map out the specific steps from the goal to your current state.
@@ -90,13 +89,13 @@ Also there's something off putting when all the stories is based on their patien
 9. **Schedule Micro-Breaks** – Take a five-minute break 3–4 times a day to recharge through stretching, walking, or breathing rather than multitasking.
 10. **Maintain an Expressive Writing Journal** – Write down five things you are grateful for each day or use expressive writing to process and release bottled-up emotional stress.
 
-### 🖼️Outline
+### Outline
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-Stress is a universal phenomenon, a common problem across cultures, ages and professions. it is the lead cause of [Burnout](/notes/burnout.md), and it is unanimously perceived as something negative.
+Stress is a universal phenomenon, a common problem across cultures, ages and professions. it is the lead cause of [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md), and it is unanimously perceived as something negative.
 
 Stress is often expressed through:
 1. anxiety around uncertainty
@@ -105,7 +104,7 @@ Stress is often expressed through:
 4. too much to do and so little time
 5. lack of purpose
 
-We can't live without stress, and we shouldn't. It has positive effects on us, as long as it's in the right [frequency](/notes/resonance.md).
+We can't live without stress, and we shouldn't. It has positive effects on us, as long as it's in the right [frequency](/notes/resonance-is-being-in-sync-with-reality-and-others.md).
 
 To get stress back to healthy levels:
 1. **Get clear on what matters most**
@@ -127,16 +126,16 @@ These are the five resets.
 
 ### What's Your Stress Really Telling You
 
-Our body is capable of handling large amounts of stress, at least for a short period of time. Even when we're [overloaded](/notes/overloading.md) with stress, we might not see it's damaging effects until much [later](/notes/delayed-response.md).
+Our body is capable of handling large amounts of stress, at least for a short period of time. Even when we're [overloaded](/notes/taking-on-too-much-overwhelms-capacity-and-causes-depletion.md) with stress, we might not see it's damaging effects until much [later](/notes/delayed-response.md).
 
-Stress can manifest in many ways, like headaches, muscle pain, chest pain, and general weakness. All goes to show that the [mind and body](/notes/mind-body-connection.md) are strongly connected.
+Stress can manifest in many ways, like headaches, muscle pain, chest pain, and general weakness. All goes to show that the [mind and body](/notes/physical-states-and-actions-unconsciously-shape-beliefs-and-behavior.md) are strongly connected.
 
-We sometimes mistakenly believe that stress is a badge of honor, something to be proud of [No pain no gain](/notes/no-pain-no-gain.md), and even if we're willing to admit that it's tough, we feel incapable of stopping, saying that we will rest [when we're done](/notes/future-disillusionment.md)
+We sometimes mistakenly believe that stress is a badge of honor, something to be proud of [We wrongly equate effort with virtue](/notes/we-wrongly-equate-effort-with-virtue.md), and even if we're willing to admit that it's tough, we feel incapable of stopping, saying that we will rest [when we're done](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md)
 
 key messages on how to view your stress:
 1. **Notice the canary cry** - look for the symptoms of stress, of burnout, physical pain, constant fatigue.
-2. **Release your steam** - Like a tea kettle, stress builds up like pressure until we break. We must use ways to release it before it consumes us [Proactiveness](/notes/proactiveness.md)
-3. **You are not alone** - Stress is a common phenomenon. There's no reason to be ashamed for it, chances are everyone around you is experiencing it too. [Shame](/notes/guilt.md)
+2. **Release your steam** - Like a tea kettle, stress builds up like pressure until we break. We must use ways to release it before it consumes us [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md)
+3. **You are not alone** - Stress is a common phenomenon. There's no reason to be ashamed for it, chances are everyone around you is experiencing it too. [Shame](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md)
 
 :::note[What’s Your Stress Really Telling You?]
 
@@ -152,7 +151,7 @@ key messages on how to view your stress:
 
 Stress is caused by the [Amygdala](/notes/amygdala.md) that pushes us towards a *fight or flight* response. It hightens up our body while suppressing our [Executive Attention Network](/notes/executive-attention-network.md). We focus on surviving and nothing more. This is "fine" when we're talking about short sprints of running from a lion, but harmful when we're talking about a chronic condition day to day. For a long time we might not even notice it, because during stressful periods we "brace for impact", but the stresser is gone we explode, release everything at once.
 
-Too much change at once is very stressful, even if these are good changes. That's why we should stick with *the rule of two*, no more than two meaningful changes at once [Start Small](/notes/start-small.md). This allows our mind to [adjust](/notes/neuroplasticity.md) to the change and make it a part of who we are.
+Too much change at once is very stressful, even if these are good changes. That's why we should stick with *the rule of two*, no more than two meaningful changes at once [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md). This allows our mind to [adjust](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md) to the change and make it a part of who we are.
 
 :::note[What Your Brain Thinks About Stress]
 
@@ -179,11 +178,11 @@ It takes time to go through the different zones, but this process can be sped up
 
 Then, after you have your MOST goal, it's time for a *backwards plan*, go back from your goal one step back, planning what needs to be done by then until you reach your current state, that way you have a detailed step by step plan to get from today to your goal.
 
-We often use [hedonic happiness](/notes/desire.md) as a [Coping](/notes/coping.md) mechanism for our stress. We buy, we eat, we bing, we drink to forget it, but once the [dopamine](/notes/dopamine.md) hit wears off, the stress returns. This is the [Hedonic Treadmill](/notes/hedonic-treadmill.md) in action, we always return back to our steady state. This is a feature, not a big. This also means that we can bounce back from negative experiences.
+We often use [hedonic happiness](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md) as a [Coping trades short-term relief for long-term cost](/notes/coping-trades-short-term-relief-for-long-term-cost.md) mechanism for our stress. We buy, we eat, we bing, we drink to forget it, but once the [dopamine](/notes/dopamine.md) hit wears off, the stress returns. This is the [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) in action, we always return back to our steady state. This is a feature, not a big. This also means that we can bounce back from negative experiences.
 
 The alternative is [eudaemonic happiness](/notes/happiness-is-contentment.md), a sense of meaning and purpose that fills us with long term happiness.
 
-So find your *hidden treasure*, a joyful activity that makes you feel alive [Bursting with life](/notes/bursting-with-life.md)and try to do it daily for at least ten minutes. It can do wonders for your happiness. You don't need a [life changing](/notes/identity-discovery.md) event to shift to focusing on your happiness.
+So find your *hidden treasure*, a joyful activity that makes you feel alive [Bursting with life](/notes/bursting-with-life.md)and try to do it daily for at least ten minutes. It can do wonders for your happiness. You don't need a [life changing](/notes/critical-moments-force-examination-of-identity-and-belief.md) event to shift to focusing on your happiness.
 
 :::note[The First Reset: Get Clear on What Matters Most]
 
@@ -199,18 +198,18 @@ So find your *hidden treasure*, a joyful activity that makes you feel alive [Bur
 
 ### The Second Reset: Find Quiet in a Noisy World
 
-Our smartphones are causing a *drain brain*. The [Attention Economy](/notes/attention-economy.md) takes away our time, energy and mental capacity. It is a hidden stressor, and it's [addicting](/notes/addiction.md).
+Our smartphones are causing a *drain brain*. The [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md) takes away our time, energy and mental capacity. It is a hidden stressor, and it's [addicting](/notes/addiction-is-escapism-that-destroys-self-control.md).
 
-To only way to recover is to [Detox](/notes/detox.md), by setting healthy [Boundaries](/notes/boundaries.md), such as:
+To only way to recover is to [Overcoming addiction requires removing all traces of it](/notes/overcoming-addiction-requires-removing-all-traces-of-it.md), by setting healthy [Boundaries](/notes/boundaries.md), such as:
 1. **Time limits** - only using your phone for x minutes a day
 2. **Geographical limits** - no phones in the bedroom
 3. **Logistical limits** - make it harder to access like removing apps and notifications
 
 The change won't be overnight, and it won't be easy, because it's not just a change of habits, it's getting rid of an addiction, so you'll have [withdrawal](/notes/withdrawal.md) symptoms, like urges to check your phone. Try to resist by finding a healthy alternative like reading a book, and celebrate your wins.
 
-[Sleep](/notes/sleep.md) is essential for managing healthy levels of cortisol, your stress hormone, yet unfortunately sleep is the first casualty of chronic stress. It keeps us alert, so we're having trouble sleeping, which hurts our ability to self regulate.
+[Sleep is essential for cognitive function and peak performance](/notes/sleep-is-essential-for-cognitive-function-and-peak-performance.md) is essential for managing healthy levels of cortisol, your stress hormone, yet unfortunately sleep is the first casualty of chronic stress. It keeps us alert, so we're having trouble sleeping, which hurts our ability to self regulate.
 
-It's hard to prioritize sleep because the evenings are the only free time we have during the day, so to feel in control, we feel like we need to do something before we go to sleep, like a [Reactance](/notes/reactance.md) to our productive day. Optimal sleep is 7-9 hours between 10 pm and 6 am, but it's rare for most people.
+It's hard to prioritize sleep because the evenings are the only free time we have during the day, so to feel in control, we feel like we need to do something before we go to sleep, like a [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) to our productive day. Optimal sleep is 7-9 hours between 10 pm and 6 am, but it's rare for most people.
 
 Other contributing factors are the blur lights from screens that mess with our circadian rhythm.
 
@@ -221,7 +220,7 @@ To make it easier for you to fall asleep:
 - bed is for sleeping
 - keep your room dark
 
-[Loneliness](/notes/loneliness.md) is also a strong stresser, one amplified by the fakeness of social mediam try to build genuine social connections into your week.
+[Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md) is also a strong stresser, one amplified by the fakeness of social mediam try to build genuine social connections into your week.
 
 :::note[The Second Reset: Find Quiet in a Noisy World]
 
@@ -247,9 +246,9 @@ A few helpful breathing techniques:
 2. **4-7-8 breathing** - inhale for four, hold for seven, exhale for eight
 3. **Heart breathing** - place your hand on your heart, inhale for four, exhale for seven
 
-[Exercises](/notes/exercises.md) are also vital for your health and for your brain. As an anti-stressor, they prevent your brain from suffering from high levels of cortisol. Don't have a [Binary Thinking](/notes/binary-thinking.md) of "either I workout 40 minutes every day or it's worthless". Even walking a few minutes a day is helpful. It helps lower the [Friction](/notes/friction.md) of starting a new habit. Attempt to do it daily, because it reduces [Decision fatigue](/notes/willpower-is-limited.md), as you don't have to think about when to perform the habit, you just do it every day.
+[Physical activity shapes mental and emotional wellbeing](/notes/physical-activity-shapes-mental-and-emotional-wellbeing.md) are also vital for your health and for your brain. As an anti-stressor, they prevent your brain from suffering from high levels of cortisol. Don't have a [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) of "either I workout 40 minutes every day or it's worthless". Even walking a few minutes a day is helpful. It helps lower the [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) of starting a new habit. Attempt to do it daily, because it reduces [Decision fatigue](/notes/willpower-is-limited.md), as you don't have to think about when to perform the habit, you just do it every day.
 
-A more specific connection of the mind and body is the brain-gut connection. The gut has so many neural receptors which is second only to the brain itself, so many those [Gut Feelings](/notes/heuristics.md) are really a type of thinking. That's why we *stress eat* sugary food when we're feeling anxious, our apatite is affected by our mood, but also vice versa.
+A more specific connection of the mind and body is the brain-gut connection. The gut has so many neural receptors which is second only to the brain itself, so many those [Gut Feelings](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.md) are really a type of thinking. That's why we *stress eat* sugary food when we're feeling anxious, our apatite is affected by our mood, but also vice versa.
 
 The [microbiome](/notes/microbiome.md) that exists in our gut also affects our mood. That's why it's important to maintain a healthy [diet](/notes/nutrition.md) of vegetables, non saturated fat, no sugar or read meat.
 
@@ -264,11 +263,11 @@ The [microbiome](/notes/microbiome.md) that exists in our gut also affects our m
 
 ### The Fourth Reset - come up for Air
 
-**The goldilocks of stress** - Part of the reason for burnout and over stress is because we don't have sufficient breaks throughout the day. [Rest](/notes/rest.md) is critical, even in small doses [Pomodoro technique](/notes/pomodoro-technique.md). Take a five minute break 3-4 times a day is like a quick recharge, as long as we spend it doing relaxing things such as stretching, walking or breathing.
+**The goldilocks of stress** - Part of the reason for burnout and over stress is because we don't have sufficient breaks throughout the day. [Rest enables recovery and sustained performance](/notes/rest-enables-recovery-and-sustained-performance.md) is critical, even in small doses [Pomodoro technique](/notes/pomodoro-technique.md). Take a five minute break 3-4 times a day is like a quick recharge, as long as we spend it doing relaxing things such as stretching, walking or breathing.
 
-**Monotask** - [multitasking](/notes/multitasking-doesnt-exist.md) is bad for our stress and our productivity. [Task Switching](/notes/task-switching.md) is costly on our prefrontal cortex, like trying to juggle several things at the same time, something will eventually break. To solve it, do [Time Blocking](/notes/time-blocking.md)
+**Monotask** - [multitasking](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md) is bad for our stress and our productivity. [Task switching incurs cognitive costs that reduce productivity](/notes/task-switching-incurs-cognitive-costs-that-reduce-productivity.md) is costly on our prefrontal cortex, like trying to juggle several things at the same time, something will eventually break. To solve it, do [Time Blocking](/notes/time-blocking.md)
 
-**Fake commute** - we get confused when we quickly switch between contexts, like switching from parent to worker when working from home. Doing a [ritual](/notes/rituals.md) like a fake commute at the start and end of your day get help you be more focused and productive. For example you can take a walk around the neighborhood, grab a cup of coffee. It also helps you be present with people you care about when you're off work
+**Fake commute** - we get confused when we quickly switch between contexts, like switching from parent to worker when working from home. Doing a [ritual](/notes/rituals-bypass-overthinking-by-replacing-decisions-with-steps.md) like a fake commute at the start and end of your day get help you be more focused and productive. For example you can take a walk around the neighborhood, grab a cup of coffee. It also helps you be present with people you care about when you're off work
 
 :::note[The Fourth Reset: Come Up for Air]
 
@@ -279,8 +278,8 @@ The [microbiome](/notes/microbiome.md) that exists in our gut also affects our m
 
 ### The Fifth Reset - Bring Your Best Self forward
 
-When stress gets too high, we can't stop hearing our [inner critic](/notes/self-criticism.md), berating us for every little mistake we make. To combat it, we need to:
-1. **Express gratitude** - [noticing](/notes/gratitude.md) the good in your life has huge effects on your wellbeing. Write down 5 things you're grateful for each day. It's not about ignoring the bad, but acknowledging the good.
+When stress gets too high, we can't stop hearing our [inner critic](/notes/self-criticism-is-being-your-own-harsh-judge.md), berating us for every little mistake we make. To combat it, we need to:
+1. **Express gratitude** - [noticing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md) the good in your life has huge effects on your wellbeing. Write down 5 things you're grateful for each day. It's not about ignoring the bad, but acknowledging the good.
 2. **Expressive writing** - [Writing](/notes/writing.md) is a good outlet for bottled up stress. Writing about your emotional state helps you resolve it, by letting go of these emotions that are holding you back
 3. **A lifetime a day** - incorporate as much as possible these aspects to your daily life:
 	1. Play
@@ -289,7 +288,7 @@ When stress gets too high, we can't stop hearing our [inner critic](/notes/self-
 	4. Community
 	5. Solitude
 	6. Rest
-4. **Self affirmation** - Add visual cues and messages of self love every day [Self affirmation](/notes/self-affirmation.md)
+4. **Self affirmation** - Add visual cues and messages of self love every day [Positive self-talk builds resilience and compassion](/notes/positive-self-talk-builds-resilience-and-compassion.md)
 
 :::note[The Fifth Reset: Bring Your Best Self Forward]
 
@@ -309,7 +308,7 @@ Change is a gradual process, from:
 4. action - putting it into practice
 5. maintenance - sustaining the new habits
 
-It's like the hare and the tortoise, don't worry about speed as long as you're progressing in the right direction [Trust the Process](/notes/trust-the-process.md). Keep *the rule of two* and stay positive.
+It's like the hare and the tortoise, don't worry about speed as long as you're progressing in the right direction [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md). Keep *the rule of two* and stay positive.
 
 :::note[The Fast Track]
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20230714153451
 Created: '2023-07-14 15:34'
-Modified: '2026-04-10 16:49'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 6
+Version: 7
 aliases:
   - Triage
   - Triage
@@ -17,6 +17,10 @@ Description: >-
   urgency and importance, guiding decisions on what requires immediate attention
   versus what can be deferred or ignored.
 new_schema: true
+Topic:
+  - '[[Resource Allocation and Prioritization]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -67,9 +71,3 @@ Many tasks might also become irrelevant if we do a proper [Pre-mortem anticipate
 ## Visual
 
 ![Triage](/notes/triage.webp)
-
-## Overview
-🔼Topic:: [Resource Allocation and Prioritization](/notes/resource-allocation-and-prioritization.md)
-◀Origin::
-🔗Link::
-

@@ -1,21 +1,25 @@
 ---
 UUID: 20220704074258
 Created: '2022-07-04 07:42'
-Modified: '2024-10-17 07:44'
+Modified: '2026-04-13 06:13'
 tags: []
 Author:
   - '[[Stephen Covey]]'
   - '[[A. Roger Merrill]]'
   - '[[Rebecca R. Merrill]]'
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 384
 Rate: 3
 PublishDate: 1995-01-01T00:00:00.000Z
@@ -24,6 +28,18 @@ Cover: >-
   http://books.google.com/books/content?id=oAXq5memgcQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/25242642-first-things-first'
 aliases: null
+Description: >-
+  It argues for discovering your internal compass through reflection on personal
+  roles and life's mission, prioritizing meaningful tasks over busy work, and
+  emphasizes the importance of authentic relationships, treating others as
+  individuals rather than means to an end for mutual benefit and happiness.
+FullTitle: First Things First
+StartDate: 2022-02-23T00:00:00.000Z
+ASIN: B00V1XGKJK
+Reread: 0
+Topic:
+  - '[[Triage prioritizes limited resources by allocating attention wisely]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -32,21 +48,30 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [Triage](/notes/triage.md)
-
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Discover your compass** - Through journaling, through asking yourself what are the roles you wish to fulfill in your life (like partner, friend), and thinking about your life's mission, what brings you meaning and what are you capable of doing in your life, you can discover your internal compass.
 2. **Compass over busy work** - It should be our internal compass that dictates our priorities and our schedule, instead of focusing on the illusions of busy work, of the urgent, and of things that don't contribute to our core principles.
 3. **Be true to yourself and others** - We are social beings, and other people are deeply tied to our core principles and happiness, which is why we have to treat others not as means to fulfill our goals, not as objects to be used, but as people, that needs to be understood, and that we will all benefit from finding the win-win situations.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Keep a personal journal** - write daily entries to detect patterns, increase self-awareness, and record how choices align with your mission.
+2. **Perform a weekly Quadrant II review** - set aside time each week to review mission, roles, goals, and plan important non-urgent activities.
+3. **Write an empowering personal mission statement** - schedule a personal retreat or focused session to draft a mission that connects vision, values, roles, and contribution.
+4. **Schedule dedicated Quadrant II time each week** - block calendar time for prevention, planning, relationship-building, learning, and renewal (the “big rocks”).
+5. **Identify and list your life roles** - write your primary roles (e.g., parent, partner, teacher, self-development) and define the most important activity for each role.
+6. **Plan your week and daily first things** - translate weekly goals into an action plan, then each morning revisit the day’s priorities and mark the single most important task.
+7. **Sharpen the saw daily** - allocate regular time (e.g., an hour) for physical, mental, social/emotional, and spiritual renewal.
+8. **Make and keep promises to yourself and others** - create small, specific commitments and follow through to strengthen independent will and integrity.
+9. **Pause between stimulus and response** - practice pausing before reacting so you can consult your conscience and choose principle-based actions.
+10. **Practice seeking win-win and deep listening** - in interactions, listen first to understand, look for synergistic solutions, and aim for mutual benefit.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -54,17 +79,17 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The ideas are nice but only the first 20-30% are relevant, the rest is just repetition. Filled with unnecessary examples that don't promote the main idea and just preaches to the choir.
 Sometimes the order of the chapters doesn't makes sense, like a collection of posts that are not necessarily related.
 
-### 🖼️Outline
+### Outline
 
-![First Things First (book).webp](/books/first-things-first-book.webp)
+![First Things First (book)](/books/first-things-first-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
@@ -130,8 +155,8 @@ Sometimes the order of the chapters doesn't makes sense, like a collection of po
 
 ### Time Management as a Paradigm Problem
 
-Our problem with time management is an issue of choosing the right paradigm. Naturally, paradigms are a way in which we view the world [Subjective Reality](/notes/subjective-reality.md). This dictates our approach towards time management and accordingly our actions.
-Therefore **a true change will not come from embracing a new method or tool, it must be a paradigm shift** [change starts from the inside out](/notes/change-starts-from-the-inside-out.md), especially **not looking at time and life as something we can completely control** [Life as Flow](/notes/life-as-flow.md).
+Our problem with time management is an issue of choosing the right paradigm. Naturally, paradigms are a way in which we view the world [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md). This dictates our approach towards time management and accordingly our actions.
+Therefore **a true change will not come from embracing a new method or tool, it must be a paradigm shift** [change starts from the inside out](/notes/change-starts-from-the-inside-out.md), especially **not looking at time and life as something we can completely control** [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md).
 
 The third paradigm is tempting, it promises success to those who fall in line, but in the end it creates disappointment since it doesn't match the true paradigms of reality.
 ### Important Vs Urgent
@@ -144,17 +169,17 @@ Spending more time in 2 should have reduce the size of 1 as well, since less thi
 
 ### Living according to Principles, not Methods
 
-We need to go back to basics, to the natural things that brings us welfare, like [Maslows pyramid](/notes/maslows-pyramid.md). Physical security, fulfilment, etc...
+We need to go back to basics, to the natural things that brings us welfare, like [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md). Physical security, fulfilment, etc...
 By searching for these things we can find true happiness, and not view them as a zero-sum game. For example finding a job that is both meaningful, friends I can learn from them, etc...
 These things are our needs, and the principals are the true north star of our lives.
 Acting according to principals is what brings joy and life satisfaction, even more than the values and goals we set for ourselves.
-like [virtue theory](/notes/virtue-theory.md), when we align ourselves by the principals, the rest would fall into places. Therefore **its important to talk about principals and not method, a method is too specific and without the right [context](/notes/context.md) it would not be helpful. By sticking to principles which can find on our own the best method for each situation.**
+like [Cultivating virtues creates a good moral character](/notes/cultivating-virtues-creates-a-good-moral-character.md), when we align ourselves by the principals, the rest would fall into places. Therefore **its important to talk about principals and not method, a method is too specific and without the right [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md) it would not be helpful. By sticking to principles which can find on our own the best method for each situation.**
 
-Some things in life are an illusion. usually its the easy things, the "shortcuts" we invent, like cramming before a test instead of actually learning the material, consumerism instead of saving for the future, meaningless relationships, etc... [Platos Cave](/notes/platos-cave.md)
+Some things in life are an illusion. usually its the easy things, the "shortcuts" we invent, like cramming before a test instead of actually learning the material, consumerism instead of saving for the future, meaningless relationships, etc... [Every object is a representation of a flawless essence](/notes/every-object-is-a-representation-of-a-flawless-essence.md)
 what brings happiness is not these illusions but acting according to these characteristics:
 1. Independence
-2. [Critical Thinking](/notes/critical-thinking.md)
-3. [Self-awareness](/notes/self-awareness.md)
+2. [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md)
+3. [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md)
 4. Compass
 
 :::note[The Main Thing Is To Keep The Main Thing The Main Thing]
@@ -208,13 +233,13 @@ what brings happiness is not these illusions but acting according to these chara
 
 ### Journaling
 
-the best way to make sure we are acting based on these principles is by [Journaling](/notes/journaling.md). That way we can detect patterns, understand ourselves, ask the right questions and plan a better vision for our future, a plan for a better self.
+the best way to make sure we are acting based on these principles is by [Journaling enables reflection and self-understanding through written documentation](/notes/journaling-enables-reflection-and-self-understanding-through-written-documentation.md). That way we can detect patterns, understand ourselves, ask the right questions and plan a better vision for our future, a plan for a better self.
 
-[Periodical Review](/notes/periodical-review.md) is a good way of focusing on quadrant 2, focuses us on the larger picture instead of the "day to day". To do a good weekly review:
+[Regular review cycles enable progress tracking and alignment](/notes/regular-review-cycles-enable-progress-tracking-and-alignment.md) is a good way of focusing on quadrant 2, focuses us on the larger picture instead of the "day to day". To do a good weekly review:
 1. *What is your "defined goal"* - the important things in your life that you want to do more of, the purpose of your existence.
 2. *What are the roles in your life* - for example: parent, partner, teacher... self development is also such a role, because we all have to focus not only on brining results but also improving the systems that produce these results, "the sharpen the pencil". **Balancing different roles doesn't necessarily means spending equal amount of time on each, but rather look for the synergy between them that benefits our goal the most.** [A person is a community](/notes/a-person-is-a-community.md)
 3. *What is the most important thing in each of those roles* - what would help us build our strength? increase our ability to learn, live, love and leave a legacy.
-4. *Schedule these activities in your calendar* - give it more time than you think it takes, because life always brings unexpected events, and to make sure you don't [Burnout](/notes/burnout.md). These are the activates that should come first in your life since they are the most important, the 1 quadrant.
+4. *Schedule these activities in your calendar* - give it more time than you think it takes, because life always brings unexpected events, and to make sure you don't [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md). These are the activates that should come first in your life since they are the most important, the 1 quadrant.
 5. *Plan the day* - think what would be your "first think", how does that relate to your weekly plan, differentiate between activities that must be done at a certain time and those who don't
 6. *weekly review* - ask yourself how the week was, what went well, what didn't, did you manage to focus on those "first things"?
 
@@ -224,7 +249,7 @@ the goal of working in quadrant 2 is not so that you plan your time better, but 
 
 **Your vision should come from true things, not illusions, not others' expectations on want you can/should or shouldn't do. Find something that brings you true satisfaction in life.**
 
-A powerful personal goal is: [Life's Mission](/notes/lifes-mission.md)
+A powerful personal goal is: [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md)
 1. representing the best and deepest part of my identify, a stable connection with my inner self
 2. its a fulfilment of my special abilities, one way of contributing to the world
 3. It is motivated by a will to support and improve the world.
@@ -238,9 +263,9 @@ Disadvantages:
 2. It causes despair if we don't succeed
 3. it causes a sense of emptiness if we do.
 Advantages:
-1. goals give us motivation to improve and do more. [Intrinsic Motivation](/notes/intrinsic-motivation.md)
+1. goals give us motivation to improve and do more. [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md)
 
-Therefore, **goals should be integrated within our personal mission, something that comes from our true identity and truth**. [Trust the Process](/notes/trust-the-process.md)
+Therefore, **goals should be integrated within our personal mission, something that comes from our true identity and truth**. [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
 A way to detect our goal is to ask "what, why and how".
 the *what* defines the desired outcome. the *Why* connects it to our roles and personal mission, the *how* helps us overcome illusions of success.
 
@@ -258,13 +283,13 @@ the *what* defines the desired outcome. the *Why* connects it to our roles and p
 
 ### Us and the External World
 
-Our freedom of choice is between the stimulus and the response [Freedom of response](/notes/agency.md) [Stoicism](/notes/stoicism.md). If we act without thinking, we will probably act based on external pressure [Social Environment](/notes/social-environment.md), stigmas, the way others perceive us or their expectations, or stick to bad habits.
+Our freedom of choice is between the stimulus and the response [Freedom of response](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) [Stoicism teaches detachment from external events to maintain inner freedom](/notes/stoicism-teaches-detachment-from-external-events-to-maintain-inner-freedom.md). If we act without thinking, we will probably act based on external pressure [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md), stigmas, the way others perceive us or their expectations, or stick to bad habits.
 
 We have to take a pause and listen to our inner voice, see which decision matches our personal mission and values. Like virtue theory, the more we act with self awareness, the more we will have better habits for making better decisions, which will make the next good decision easier to make.
 
 What is true for the self is true for the way we interact with others. If we treat others as either an object, a distraction, or something to be used, we will miss the good in others. We should treat others as people since they are also moved and act by the same principles as us [Immanuel Kant](/notes/immanuel-kant-philosopher.md). **People are the source, the path, and the goal for fulfilling our inner mission so any role we will take will probably include others in it.** We owe others the quality of our live, since we benefit from their labor, creative thinking, and worldview that has brought change and welfare into our lives. [Human is a social being](/notes/human-is-a-social-being.md)
 
 to have better relations with others:
-1. look for the [win win situations](/notes/win-win-situations.md), look for the synergy
+1. look for the [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md), look for the synergy
 2. for try to understand, and only then to be understood
 

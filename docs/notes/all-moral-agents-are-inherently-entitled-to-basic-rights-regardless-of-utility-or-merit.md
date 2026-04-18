@@ -1,12 +1,12 @@
 ---
 UUID: 20230616131206
 Created: '2023-06-16 13:12'
-Modified: '2026-04-10 14:17'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[All moral agents are inherently entitled to basic rights regardless of
   utility or merit.png]]
@@ -18,6 +18,10 @@ Description: >-
 aliases:
   - Justice
 new_schema: true
+Topic:
+  - '[[Rights, Justice and Equality]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,8 +53,3 @@ There might be different levels of justice. For example, a country's obligation 
 ## Visual
 
 ![All moral agents are inherently entitled to basic rights regardless of utility or merit](/notes/all-moral-agents-are-inherently-entitled-to-basic-rights-regardless-of-utility-or-merit.webp)
-
-## Overview
-🔼Topic:: [Rights, Justice and Equality](/notes/rights-justice-and-equality.md)
-◀Origin::
-🔗Link::

@@ -1,13 +1,13 @@
 ---
 UUID: 20241209073502
 Created: '2024-12-09 07:35'
-Modified: '2026-04-04 11:01'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 6
+Version: 7
 Image: '[[Consistency compounds results through reliable repeated action.png]]'
 ImageText: 'A week of calendar days from Sunday to Saturday, each with a checkmark'
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Consistency
   - Showing up
 new_schema: true
+Topic:
+  - '[[Compounding and Consistency]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,8 +60,3 @@ Consistency has an additional benefit because it makes us reliable. First for ou
 ## Visual
 
 ![Consistency compounds results through reliable repeated action](/notes/consistency-compounds-results-through-reliable-repeated-action.webp)
-
-## Overview
-🔼Topic:: [Compounding and Consistency](/notes/compounding-and-consistency.md)
-↩️Origin::
-🔗Link::

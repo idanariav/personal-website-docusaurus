@@ -1,13 +1,13 @@
 ---
 UUID: 20230311062804
 Created: '2023-03-11 06:28'
-Modified: '2026-04-08 13:40'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Lindy Effect
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   to its current age, but may lead to biased conclusions due to rapid societal
   changes.
 new_schema: true
+Topic:
+  - '[[Simplification and Categorization]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,8 +54,3 @@ Also, the lindy effect confuses [Confusing current reality with how things shoul
 ## Visual
 
 ![Lindy Effect](/notes/lindy-effect.webp)
-## Overview
-🔼Topic:: [Simplification and Categorization](/notes/simplification-and-categorization.md)
-◀Origin::
-🔗Link::
-

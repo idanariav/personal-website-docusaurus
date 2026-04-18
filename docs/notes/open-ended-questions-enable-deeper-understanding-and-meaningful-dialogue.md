@@ -1,13 +1,13 @@
 ---
 UUID: 20240831105436
 Created: '2024-08-31 10:54'
-Modified: '2026-04-08 17:18'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Open ended questions
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   critical thinking and self-reflection, while fostering deliberation and
   opposing binary thinking and micro-management.
 new_schema: true
+Topic:
+  - '[[Active Listening and Empathy]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,9 +57,3 @@ To ask open ended questions is the opposite of trying to [micro-manage](/notes/m
 ## Visual
 
 ![Open ended questions](/notes/open-ended-questions.webp)
-
-## Overview
-🔼Topic:: [Active Listening and Empathy](/notes/active-listening-and-empathy.md)
-↩️Origin::
-🔗Link::
-

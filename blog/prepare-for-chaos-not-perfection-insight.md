@@ -36,7 +36,7 @@ We guard our time fiercely, yet one small unexpected event can ruin an entire da
 
 ![Prepare for chaos (insight).webp](/posts/prepare-for-chaos-not-perfection-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## The Clock is Ticking
 

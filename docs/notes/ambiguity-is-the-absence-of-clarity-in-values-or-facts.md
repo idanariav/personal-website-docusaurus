@@ -1,13 +1,13 @@
 ---
 UUID: 20230322073640
 Created: '2023-03-22 07:36'
-Modified: '2026-04-10 06:22'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Ambiguity is the absence of clarity in values or facts.png]]'
 ImageText: A confused person on a deserted island
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
 aliases:
   - Ambiguity
 new_schema: true
+Topic:
+  - '[[Nature and Limits of Knowledge]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,8 +57,3 @@ Perhaps then it is no surprise that many ideologies offer a "simple" solution th
 ## Visual
 
 ![Ambiguity is the absence of clarity in values or facts](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.webp)
-
-## Overview
-🔼Topic:: [Nature and Limits of Knowledge](/notes/nature-and-limits-of-knowledge.md)
-◀Origin::
-🔗Link::

@@ -22,7 +22,7 @@ SiteProcssed: true
 **What if the very struggles you try to avoid are the ones that hold the key to your growth?**  
 Could reframing pain as a path, not a problem, be the mindset shift that helps you thrive—not just survive—through life’s challenges?
 
-<!-- truncate -->
+{/* truncate */}
 
 ### Avoiding Challenges
 

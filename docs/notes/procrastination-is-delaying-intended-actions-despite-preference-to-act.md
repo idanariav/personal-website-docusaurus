@@ -1,20 +1,24 @@
 ---
 UUID: 20230403064916
 Created: '2023-04-03 06:49'
-Modified: '2026-04-10 14:29'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Procrastination
+  - Procrastination is triggered when an action pushes us away from it
 Description: >-
-  The act of delaying actions we intend to perform, often due to distractions,
-  inner conflict, or the perceived difficulty of tasks, despite a desire to
-  complete them.
+  The act of delaying actions we intend to perform despite a desire to complete
+  them, because something in the task itself pushes us away from doing it.
 new_schema: true
+Topic:
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: '[[Anne-Laure Le Cunff]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -25,13 +29,13 @@ SiteProcssed: true
 
 ### Claim
 
-Procrastination happens when we delay our actions even though "in a perfect world" we would have wanted to do them [Knowing the right thing doesn't mean we do it](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md).
+Procrastination happens when we delay our actions even though "in a perfect world" we would have wanted to do them, because something pushes us away from performing that action. [Knowing the right thing doesn't mean we do it](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md).
 
 ### Explanation
 
 Usually these are also actions that we are obligated to do, for example work or school assignments, but these can also be tasks that we wish to do, like working out or creative writing.
 
-Procrastination is often related to distractions, which steals our attention away from what we truly want to do [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md). Sometimes this is self inflicted, that something within us wants to delay the task as much as possible that these distractions become our [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md).
+Procrastination is often related to [Distractions pull us towards them as a temptation](/notes/distractions-pull-us-towards-them-as-a-temptation.md), which steals our attention away from what we truly want to do [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md). Sometimes this is self inflicted, that something within us wants to delay the task as much as possible that these distractions become our [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md). 
 
 Procrastination is often a sign of [intrapersonal conflict](/notes/a-person-is-a-community.md), where we can really feel the two inner forces fighting each other over whether to preform the action or not. Sometimes we are feeling [Guilt signals when we fail to act on what we control](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) and shame for procrastinating.
 
@@ -41,7 +45,7 @@ We distract ourselves because we look for novelty [Distraction by novelty underm
 
 ### Why it matters
 
-To understand why we procrastinate, we can use DUST. It stands for the four most common reasons why we procrastinate: Difficult, Unclear, Scary, and Tedious.
+To understand why we procrastinate, we can use DUST. It stands for the four most common reasons a task deters us away from it: Difficult, Unclear, Scary, and Tedious.
 
 - **Difficult.** You may find the task too challenging, which may be caused by a lack of confidence [Confidence](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md), a lack of skills, or both. The solution is to move the starting point a bit earlier, meaning to take a [smaller](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md) step.
   • **Unclear.** Sometimes, we procrastinate because the task is not clearly [defined](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.md). We often use vague one-word items in our to-do list, leaving our brains to fill in the blanks. In order to be productive, it's important to have clearly defined actions [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md).
@@ -63,10 +67,3 @@ Distractions can be either fun or not, and in our control or not. There's nothin
 ## Visual
 
 ![Procrastination](/notes/procrastination.webp)
-
-## Overview
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)
-Link:: https://nesslabs.com/procrastination-emotions
-Link:: https://share.snipd.com/episode/d67bcc91-32b8-4334-8c89-0b38e70e65be
-

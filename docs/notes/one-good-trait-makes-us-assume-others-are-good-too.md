@@ -1,13 +1,13 @@
 ---
 UUID: 20231224061911
 Created: '2023-12-24 06:19'
-Modified: '2026-04-08 13:40'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Halo effect
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   indicates the presence of other favorable traits, leading to biased
   perceptions.
 new_schema: true
+Topic:
+  - '[[Simplification and Categorization]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -45,10 +49,3 @@ Most common is aesthetics and good looks, i.e someone who is attractive is also 
 ## Visual
 
 ![Halo effect](/notes/halo-effect.webp)
-
-## Overview
-🔼Topic:: [Simplification and Categorization](/notes/simplification-and-categorization.md)
-↩️Origin::
-🔗Link:: 
-
-

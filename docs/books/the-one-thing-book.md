@@ -1,45 +1,58 @@
 ---
 UUID: 20220703185726
 Created: '2022-07-03 18:57'
-Modified: '2022-07-03 18:57'
+Modified: '2026-04-13 06:20'
+tags: []
+FullTitle: The One Thing - The Surprisingly Simple Truth Behind Extraordinary Results
+Description: >-
+  It argues that at any given moment, focusing on a single priority aligned with
+  your purpose maximizes productivity and propels you toward achieving your best
+  self.
 Author:
   - '[[Gary Keller]]'
-FinishDate: 2022-02-03T00:00:00.000Z
-Purchased: true
-Pages: 240
-Rate: 2
-Stored: Kindle
-tags: []
-Fiction: false
 URL: 'https://www.goodreads.com/book/show/18931341-the-one-thing'
-aliases: null
-Version: 1
-ReadingStatus: Read
-Genre: Self-Help
 Cover: >-
   http://books.google.com/books/content?id=PqbDdQvjd8AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+Genre: Self-Help
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B00D3J2QKW
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 240
+Reread: 0
+Rate: 2
 PublishDate: 2013-05-31T00:00:00.000Z
+StartDate: 2022-01-31T00:00:00.000Z
+FinishDate: 2022-02-03T00:00:00.000Z
+Image: ''
+aliases: null
+Topic:
+  - >-
+    [[Focus is concentrated cognitive effort that maximizes performance on a
+    single task]]
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The One Thing (book)
 
-## 🔗Connect
-🔼Topic:: [Focus](/notes/focus.md)
-
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas* 
 I’m not saying there will only be one thing, or even the same thing, forever. I’m saying that at any moment in time there can be only ONE Thing, and when that ONE Thing is in line with your purpose and sits atop your priorities, it will be the most productive thing you can do to launch you toward the best you can be.
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -49,7 +62,7 @@ I’m not saying there will only be one thing, or even the same thing, forever. 
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
@@ -59,7 +72,7 @@ I understand the logic behind "the one thing", and I hope that the rest of the b
 The main issue with this book is that it's not embedded in reality. Although he does offer some counter arguments but its not as strong as it should be, and there's not enough emphasis on implementation. Its also not really a "story", but a bullet list.
 
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
@@ -91,7 +104,7 @@ The main issue with this book is that it's not embedded in reality. Although he 
 ### THE LIES THEY MISLEAD AND DERAIL US
 
 
-Focusing on the "one thing" will help separate between our todo list and what's really important. [Multitasking doesnt exist](/notes/multitasking-doesnt-exist.md), multitasking is splitting your concentration and there is a cost in terms of term and concentration to switch between tasks. [Willpower is Limited](/notes/willpower-is-limited.md) and you can't summon it as you like. 
+Focusing on the "one thing" will help separate between our todo list and what's really important. [Multitasking is sequential task switching with cognitive switching costs](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md), multitasking is splitting your concentration and there is a cost in terms of term and concentration to switch between tasks. [Willpower is Limited](/notes/willpower-is-limited.md) and you can't summon it as you like. 
 You don't need a lot of will power to succeed, just enough to create good habits.
 
 :::note[EVERYTHING MATTERS EQUALLY]
@@ -172,15 +185,15 @@ You don't need a lot of will power to succeed, just enough to create good habits
 
 ### EXTRAORDINARY RESULTS UNLOCKING THE POSSIBILITIES WITHIN YOU
 
-The whole point of the book is to give you clary. **Out of all your tasks, goals, and directions in life, pick one. One goal, One task, and the rest will be better.** Given limited resources, energy and time, choose the action with the highest marginal benefit. [Life's Mission](/notes/lifes-mission.md)
+The whole point of the book is to give you clary. **Out of all your tasks, goals, and directions in life, pick one. One goal, One task, and the rest will be better.** Given limited resources, energy and time, choose the action with the highest marginal benefit. [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md)
 
 1. *block a time in the calendar for yourself* [Time Blocking](/notes/time-blocking.md), your own personal peace and wellbeing. You must have physical and mental health to function.
 2. *block time for your "one thing".* Four hours, no excuses, no interruptions, no rescheduling.
-3. *Block time for your* weekly review [Periodical Review](/notes/periodical-review.md)
+3. *Block time for your* weekly review [Regular review cycles enable progress tracking and alignment](/notes/regular-review-cycles-enable-progress-tracking-and-alignment.md)
 
 Create your "one purpose", from there prioritize the tasks that will bring you there, and the outcome of that would be productivity. The harmony between goals and tasks are the domino blocks that eventually will make your goals come true.
 
-To always maintain your focus, ask yourself *the guiding question*, which is "What's my one thing..." right now/for the next year... and block the time for it.
+To always maintain your focus, ask yourself *the guiding question*, which is "What's my one thing..." right now/for the next year... and block the time for it. [focusing question](/notes/focusing-question.md)
 
 :::note[THE PATH TO GREAT ANSWERS]
 

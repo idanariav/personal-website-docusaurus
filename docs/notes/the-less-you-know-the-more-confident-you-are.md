@@ -1,13 +1,13 @@
 ---
 UUID: 20220628200434
 Created: '2022-06-28 20:04'
-Modified: '2026-04-08 13:37'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[The less you know the more confident you are.png]]'
 ImageText: >-
   A curve showing confidence peaking early with little knowledge, then dipping
@@ -20,6 +20,10 @@ aliases:
   - Dunning-kruger effect
   - Confidence Gap
 new_schema: true
+Topic:
+  - '[[Overconfidence and Self-Assessment]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,9 +57,3 @@ Only by forcing us to [confront](/notes/we-understand-less-than-we-think.md) wit
 ## Visual
 
 ![The less you know the more confident you are](/notes/the-less-you-know-the-more-confident-you-are.webp)
-
-## Overview
-🔼Topic:: [Overconfidence and Self-Assessment](/notes/overconfidence-and-self-assessment.md)
-Origin::
-🔗Link::
-

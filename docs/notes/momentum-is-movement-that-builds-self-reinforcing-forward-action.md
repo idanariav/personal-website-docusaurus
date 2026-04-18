@@ -1,13 +1,13 @@
 ---
 UUID: 20230402175136
 Created: '2023-04-02 17:51'
-Modified: '2026-04-10 09:50'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Momentum
   - Inertia
@@ -16,6 +16,11 @@ Description: >-
   through initial small efforts that generate self-sustaining force, while
   potentially leading to negative inertia if mismanaged.
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+  - '[[Compounding and Consistency]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,10 +56,3 @@ Momentum can unfortunately be negative. If we persist with negative behavior, th
 ## Visual
 
 ![Momentum](/notes/momentum.webp)
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-🔼Topic:: [Compounding and Consistency](/notes/compounding-and-consistency.md)
-↩️Origin::
-🔗Link::
-

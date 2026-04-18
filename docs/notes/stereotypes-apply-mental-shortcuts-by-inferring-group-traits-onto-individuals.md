@@ -1,13 +1,13 @@
 ---
 UUID: 20250304214431
 Created: '2025-03-04 21:44'
-Modified: '2026-04-08 13:40'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Stereotypes
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   based on perceived group qualities, often leading to negative assumptions and
   dehumanization of others.
 new_schema: true
+Topic:
+  - '[[Simplification and Categorization]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,16 +52,9 @@ For example, if girls believe that they are bad at math, then they will actually
 ### Open questions
 
 
-
 ### Claims
 
 
 ## Visual
 
 ![Stereotypes](/notes/stereotypes.webp)
-
-## Overview
-🔼Topic:: [Simplification and Categorization](/notes/simplification-and-categorization.md)
-↩️Origin::
-🔗Link::
-

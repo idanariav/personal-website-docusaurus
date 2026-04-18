@@ -22,7 +22,7 @@ SiteProcssed: true
 **Are you living intentionally—=, or just reacting to the noise around you?**  
 In a world full of distractions, it's easy to slip into autopilot. But real change starts when we pause, reflect, and choose our path with clarity. Here's how to reclaim your focus and take back control.
 
-<!-- truncate -->
+{/* truncate */}
 
 ### The rarest commodity: undivided attention 
 

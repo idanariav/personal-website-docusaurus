@@ -1,13 +1,13 @@
 ---
 UUID: 20230830152101
 Created: '2023-08-30 15:21'
-Modified: '2026-04-09 09:00'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Simulations
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   experimentation and experiential learning, allowing users to gain knowledge
   and skills without the risks associated with actual situations.
 new_schema: true
+Topic:
+  - '[[Learning Through Experience]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,9 +57,3 @@ Simulations are often used in [Deliberate Practice is the best way to develop sk
 ## Visual
 
 ![Simulations](/notes/simulations.webp)
-
-## Overview
-🔼Topic:: [Learning Through Experience](/notes/learning-through-experience.md)
-Origin::
-🔗Link::
-

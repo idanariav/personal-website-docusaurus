@@ -1,19 +1,23 @@
 ---
 UUID: 20230402183514
 Created: '2023-04-02 18:35'
-Modified: '2026-04-10 14:29'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Periodical Review
 Description: >-
   A practice of regularly assessing one's life and habits to maintain focus on
   long-term goals and values amidst daily distractions and changes.
 new_schema: true
+Topic:
+  - '[[Self-Tracking and Reflection]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ For example, the [Eisenhower matrix](/notes/eisenhower-matrix.md) is a good tool
 ## Visual
 
 ![Periodical Review](/notes/periodical-review.webp)
-
-## Overview
-🔼Topic:: [Self-Tracking and Reflection](/notes/self-tracking-and-reflection.md)
-◀Origin::
-🔗Link::
-

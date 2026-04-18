@@ -1,13 +1,13 @@
 ---
 UUID: 20230329074501
 Created: '2023-03-29 07:45'
-Modified: '2026-04-08 15:22'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Focus is concentrated cognitive effort that maximizes performance on a
   single task.png]]
@@ -18,6 +18,10 @@ Description: >-
 aliases:
   - Focus
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,16 +53,10 @@ There are things that can help us renew our focus, by shutting it down like taki
 
 ### Opposers
 
-There are things which can damage our ability to focus, such as attempting to [multitask](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md), because we have to quickly [switch](/notes/task-switching-incurs-cognitive-costs-that-reduce-productivity.md) our focus from one task to another, which is a counterproductive move because each switch overloads the [Full working memory reduces focus and task performance](/notes/full-working-memory-reduces-focus-and-task-performance.md), which reduces the quality of the focus, and disrupts processes that takes long periods of focus. Another thing that damages our focus are of course [Distractions](/notes/distraction.md).
+There are things which can damage our ability to focus, such as attempting to [multitask](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md), because we have to quickly [switch](/notes/task-switching-incurs-cognitive-costs-that-reduce-productivity.md) our focus from one task to another, which is a counterproductive move because each switch overloads the [Full working memory reduces focus and task performance](/notes/full-working-memory-reduces-focus-and-task-performance.md), which reduces the quality of the focus, and disrupts processes that takes long periods of focus. Another thing that damages our focus are of course [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md).
 
 ### Open Questions
 
 ## Visual
 
 ![Focus](/notes/focus.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-◀Origin::
-🔗Link::
-

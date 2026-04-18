@@ -1,13 +1,13 @@
 ---
 UUID: 20230325085746
 Created: '2023-03-25 08:57'
-Modified: '2026-04-10 15:35'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Correlation is not causation.png]]'
 ImageText: >-
   An alarm clock next to arrows showing "Causes" versus "Happens together"
@@ -18,6 +18,10 @@ Description: >-
   causal relationships.
 aliases: []
 new_schema: true
+Topic:
+  - '[[Selective Evidence]]'
+Origin: '[[David Hume (philosopher)|David Hume]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -57,8 +61,3 @@ When we see one ball hits the other, and immediately the second one begins to mo
 ## Visual
 
 ![Correlation is not causation](/notes/correlation-is-not-causation.webp)
-
-## Overview
-🔼Topic:: [Selective Evidence](/notes/selective-evidence.md)
-◀Origin:: [David Hume](/notes/david-hume-philosopher.md)
-🔗Link::

@@ -1,20 +1,24 @@
 ---
 UUID: 20231024060156
 Created: '2023-10-24 06:01'
-Modified: '2024-11-03 06:21'
+Modified: '2026-04-15 22:01'
 tags: []
 Author:
   - '[[Dan Heath]]'
   - '[[Chip Heath]]'
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 7
 Pages: 336
 Rate: 5
 PublishDate: 2013-03-26T00:00:00.000Z
@@ -23,6 +27,18 @@ Cover: >-
   http://books.google.com/books/content?id=kLYG7pc5dTkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/15798078-decisive'
 aliases: null
+Description: >-
+  It argues for enhancing decision-making by widening options, reality testing
+  assumptions, attaining emotional distance, and preparing for uncertainty. By
+  reframing perspectives and considering diverse outcomes, individuals can make
+  more informed and balanced choices, ultimately leading to better outcomes.
+FullTitle: Decisive - How to Make Better Choices in Life and Work
+StartDate: 2023-09-28T00:00:00.000Z
+ASIN: B009JU6UPG
+Reread: 0
+Topic:
+  - '[[Decision Making (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -31,22 +47,32 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
-
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Widen your options** - instead of binary thinking, look for other options, especially win win situations. Use reframing, seek opportunity costs, pose self limitations (what if), and think as an external viewer. Create multiple options using multitrack to increase creativity and avoid attachment, while looking for existing solutions elsewhere.
 2. **Reality test your assumptions** - to combat conformation bias, consider the opposite by having a devils advocate and reverse your framing. Look for quantitative (base rates of success) and qualitative (interviews, stories) information. Test your assumptions by running small pilot experiments.
 3. **Attain distance** - to avoid short term emotions, try to think long term, or through the eyes of another, and remind yourself of your core values.
 4. **Prepare to be wrong** - instead of predicting and preparing for a single future scenario, predict a range of negative and positive results and be ready for both ends, add buffers to combat over confidence and uncertainty, and set tripwires to trigger decision points on critical situations, such as based on deadlines or budget used.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 1. **Decision making is a process** - instead of a single moment of making a decision, it is a process, with different steps, which develops with time, and that can be perfected. I.e use the WRAP
-### 🔍Critique
+
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Reframe the choice** - convert any “whether or not” question into “what else” questions (e.g., “How can we do this better?” or “What other options exist?”) and list alternative approaches.
+2. **Apply the vanishing-options test** - imagine your favored options are impossible and write down the next viable solutions you would pursue.
+3. **Multitrack alternatives** - develop 2–3 meaningfully distinct options (mixing protective and growth choices) and run them in parallel where feasible.
+4. **Ladder up to find precedents** - search for similar solutions from yourself, colleagues, competitors, and distant domains; extract best-practice checklist items.
+5. **Use a devil’s advocate and consider the opposite** - appoint someone to surface disconfirming evidence and write what would have to be true for your plan to fail.
+6. **Zoom out for base rates and zoom in for stories** - collect relevant statistics (outside view) and firsthand experiences or stakeholder accounts (inside view) before deciding.
+7. **Ooch (run small experiments)** - design and execute small tests or simulations (pilot customers, internships, work samples) to validate key assumptions.
+8. **Perform a 10/10/10 and peer-advice check** - evaluate how you’ll feel in 10 minutes, 10 months, and 10 years, and ask “What would I advise a friend to do?” to gain distance.
+9. **Bookend the future with premortem and preparade** - list worst-case failure modes and mitigations (premortem) and describe what you must do to sustain a best-case success (preparade); add time/budget buffers.
+10. **Set tripwires and decision points** - define explicit signals or thresholds that trigger a review, stop, or pivot (e.g., budget limits, performance metrics, quit-paycheck for new hires).
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. **Fewer errors** - we would be less prone to biases and errors when we make our decisions
@@ -56,30 +82,30 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 Some decisions can't use this process, as explained in the book. In areas that require fast decisions to be made, or in limited scope decisions such as which move to make in a game.
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 1. The book is easy to read, well structured, and even enjoyable.
 2. The division and connection between topics is clear, everything connects back to the main topic.
 
-### 🖼️Outline
+### Outline
 
-![Decisive (book).webp](/books/decisive-book.webp)
+![Decisive (book)](/books/decisive-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-**Decision making is a [process](/notes/trust-the-process.md)**. Why a process and not an individual moment? Because we are as default bad at decision making. We fall to biases, especially the [Availability Bias](/notes/availability-bias.md), narrowing down our thinking to limited information and options because it was the easiest available information, rather than explore different points of view, additional information and potential options.
+**Decision making is a [process](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)**. Why a process and not an individual moment? Because we are as default bad at decision making. We fall to biases, especially the [Availability bias inflates perceived likelihood of easily recalled events](/notes/availability-bias-inflates-perceived-likelihood-of-easily-recalled-events.md), narrowing down our thinking to limited information and options because it was the easiest available information, rather than explore different points of view, additional information and potential options.
 
 This book is relevant only for decisions that are not immediate (like a doctor), or that relies heavily on intuition (like chess players)
 
 #### Four Villains of Decision Making
 
-1. **Narrow thinking** - we think in binary terms, instead of looking outside the box and searching for the win win solution [Binary Thinking](/notes/binary-thinking.md)
-2. **Confirmation bias** - we get locked on information that supports our gut decision, ignoring countering information/ [Conformation Bias](/notes/conformation-bias.md)
-3. **Emotions** - either [Sunk Cost](/notes/sunk-cost.md), [Attachment](/notes/attachment.md), [Attachment](/notes/attachment.md), or any kind of emotional surge that sways our decision, even though there was no change in information.
-4. **Overconfidence** - we think how the future will roll out although in fact we don't. [over confidence](/notes/over-confidence.md)
+1. **Narrow thinking** - we think in binary terms, instead of looking outside the box and searching for the win win solution [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md)
+2. **Confirmation bias** - we get locked on information that supports our gut decision, ignoring countering information/ [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md)
+3. **Emotions** - either [Past costs irrationally justify future commitment decisions](/notes/past-costs-irrationally-justify-future-commitment-decisions.md), [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md), [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md), or any kind of emotional surge that sways our decision, even though there was no change in information.
+4. **Overconfidence** - we think how the future will roll out although in fact we don't. [Overestimating abilities blinds us to genuine risks](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md)
 
 These 4 villains have 4 solutions (aka WRAP), each one tailored to a villain:
 1. **W**iden your options
@@ -115,10 +141,10 @@ Lastly, we need to be aware when we need to make a decision, and how to know we 
 We should mistrust a "whether or not" questions, since they narrow our thinking . While it does focus us on the question at hand, increasing our chances for a deep analysis, we are being blinded to all other options.
 
 To escape this, we should use the following:
-1. **Reframing** - ask things like "how can we do it better?" "What else can we do"? Covert the question from a either or option to a wide multiple options. [Framing](/notes/framing.md)
-2. **Opportunity cost** - think about what are you missing by making this choice. Is there anything else better to do with your time and resources? [Alternative cost](/notes/alternative-cost.md)
-3. **Vanishing options test** - for the sake of the example, pretend you can't make any of the either or options, what will you do now? Usually the first two methods will shift the spotlight a few inches, this will make the greatest shift because we can't stick to our previous "favorite/default" answer anymore, we have to think outside the box. [Limits](/notes/limits.md)
-4. **Be an external viewer** - think as if it is not you who is making the decision, but rather you are consulting someone else, like "what would my successor do". [Cognitive Distancing](/notes/cognitive-distancing.md)
+1. **Reframing** - ask things like "how can we do it better?" "What else can we do"? Covert the question from a either or option to a wide multiple options. [How we describe something shapes how it is perceived](/notes/how-we-describe-something-shapes-how-it-is-perceived.md)
+2. **Opportunity cost** - think about what are you missing by making this choice. Is there anything else better to do with your time and resources? [Every choice costs the alternatives you gave up](/notes/every-choice-costs-the-alternatives-you-gave-up.md)
+3. **Vanishing options test** - for the sake of the example, pretend you can't make any of the either or options, what will you do now? Usually the first two methods will shift the spotlight a few inches, this will make the greatest shift because we can't stick to our previous "favorite/default" answer anymore, we have to think outside the box. [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md)
+4. **Be an external viewer** - think as if it is not you who is making the decision, but rather you are consulting someone else, like "what would my successor do". [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md)
 
 :::note[Quotes]
 
@@ -137,10 +163,10 @@ To escape this, we should use the following:
 #### Multitrack
 
 When we only have one option to consider, we are most likely missing a more creative solution.
-To increase our chances, we can use multitracking [Multitrack](/notes/multitrack.md),
+To increase our chances, we can use multitracking [Generating multiple alternatives simultaneously improves outcomes](/notes/generating-multiple-alternatives-simultaneously-improves-outcomes.md),
 
-Note that too many options is also not good. Having more than 2-3 will cause confusion, harder division of scarce resources.
-Also, **your options should be different enough from each other to offer the advantages**, and be careful of fake alternatives only made the make the first one look better.
+Note that too many options is also not good. Having more than 2-3 will cause confusion, harder division of scarce resources. [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md)
+Also, **your options should be different enough from each other to offer the advantages**, and be careful of fake alternatives only made the make the first one look better. [Effective alternatives must be distinct enough to expand the decision space](/notes/effective-alternatives-must-be-distinct-enough-to-expand-the-decision-space.md)
 Best to have a mixture of protective (loss aversion) and prosperous options (growth seeking), and don't be afraid to look for the "this and that" option.
 
 :::note[Quotes]
@@ -161,16 +187,16 @@ Best to have a mixture of protective (loss aversion) and prosperous options (gro
 
 #### Find Someone Who’s Solved Your Problem
 
-**There's often no need to reinvent the wheel. Search for cases where it has already been solved/tested.**
-The best method is to "ladder up", which means to search for answers in increasingly larger circles, both in terms of size/scale, and levels of abstractions. [Imitation](/notes/imitation.md)
+**There's often no need to reinvent the wheel. Search for cases where it has already been solved/tested.** [Seeking existing solutions before reinventing saves effort and reduces error](/notes/seeking-existing-solutions-before-reinventing-saves-effort-and-reduces-error.md)
+The best method is to "ladder up", which means to search for answers in increasingly larger circles, both in terms of size/scale, and levels of abstractions. [Imitation internalizes others' behaviors and mental models at varying depths](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md)
 
 For example:
 - Level 1 can be you: similar decisions you have done in the past, known best practices from your own field/expertise.
 - Level 2 could be your surroundings, friends, your company, co-workers, who had similar, if slightly different cases.
 - Level 3 could be your city, competitors from the same field, and lastly completely different fields/cases with a small abstract connection.
 
-This is the strength of [Analogies](/notes/mental-shortcuts.md), which store the same logic power from one field to another, for example, you can design a swimwear by the way fish move around the water - low level analogy, or design a medical drug based on military logic - high level analogy.
-From those,  you can create a checklist of best practices, of benchmarks, to reduce error and increase [creativity](/notes/transferred-learning.md).
+This is the strength of [Analogies](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md), which store the same logic power from one field to another, for example, you can design a swimwear by the way fish move around the water - low level analogy, or design a medical drug based on military logic - high level analogy.
+From those,  you can create a checklist of best practices, of benchmarks, to reduce error and increase [creativity](/notes/knowledge-applied-across-contexts-enables-learning-generalization.md).
 
 :::note[Quotes]
 
@@ -204,12 +230,12 @@ In order to protect yourself from it:
 
 #### Zoom Out, Zoom In
 
-In every decision, we often have precedents, known statistics about the possible results, these are called the base rates, or the "outside view". For example, if you are considering opening a restaurant, it would be helpful to know that 70% are closed with 3 years.
+In every decision, we often have precedents, known statistics about the possible results, these are called the [base rates](/notes/base-rates.md), or the "outside view". For example, if you are considering opening a restaurant, it would be helpful to know that 70% are closed with 3 years.
 In contrast, we have the "inside view ", the belief that our case is different, that we are special, that the statistics don't apply to us. This is dangerous thinking.
 
 **We should stick to the outside view, to get the base rates for our decision. Even when speaking to experts, don't ask "what are my chances", ask "what is the usual success rates for these kinds of cases"**.
 
-This is the [Zoom out](/notes/zoom-out.md) case, where we seek the descriptive statistics for the decision. But statistics can only give quantitative information. **To have a complete picture, we also need the qualitative information, the stories, personal reviews, a "connection" to the surface**, the stakeholders of the decision. This is the zoom in view. [experience knowledge](/notes/experience-knowledge.md). [McNamara Fallacy](/notes/mcnamara-fallacy.md)
+This is the [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md) case, where we seek the descriptive statistics for the decision. But statistics can only give quantitative information. **To have a complete picture, we also need the qualitative information, the stories, personal reviews, a "connection" to the surface**, the stakeholders of the decision. This is the zoom in view. [Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md). [Treating measurable metrics as complete truth hides importance](/notes/treating-measurable-metrics-as-complete-truth-hides-importance.md)
 Optimally, you will have both.
 
 For example, don't only ask what are the survival rates of the surgery, but also talk to those who experienced it, hear their stories, how life looked like after the surgery, what were the main difficulties, was it worth it, etc...
@@ -227,13 +253,13 @@ For example, don't only ask what are the survival rates of the surgery, but also
 #### Ooch
 
 **We are very bad at [predicting](/notes/prediction.md) the future**. Base rates (from previous chapter) are better than expert predictions, which are better than novice predictions.
-Therefore, we need **to validate the information we have. The way to do that is through experimentation, small tests to see if our assumptions hold true**. [Pivot](/notes/pivot.md)
+Therefore, we need **to validate the information we have. The way to do that is through experimentation, small tests to see if our assumptions hold true**. [Test assumptions with small experiments first](/notes/test-assumptions-with-small-experiments-first.md)
 
 For example, instead of committing for a 4 year degree, shadow a person who works in the field, do an internship, see if that really interests you.
-Instead of just opening a business, try to find one customer, sell one instance of the product, see if it's viable. [Start Small](/notes/start-small.md)
+Instead of just opening a business, try to find one customer, sell one instance of the product, see if it's viable. [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md)
 
-For example, interviews are a horrible way to filter candidates because it is a form of prediction, instead we should experiment, create tests and mock projects to see the quality of their work - [simulations](/notes/simulations.md)
-An experiment is useful when we need more information, not when we try to use it as a way to procrastinate.
+For example, interviews are a horrible way to filter candidates because it is a form of prediction, instead we should experiment, create tests and mock projects to see the quality of their work - [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md)
+An experiment is useful when we need more information, not when we try to use it as a way to procrastinate. [Experimentation used to delay decisions is just another form of avoidance](/notes/experimentation-used-to-delay-decisions-is-just-another-form-of-avoidance.md)
 Experimentation gives us a window between all of nothing decisions, a compromise to pilot, to gather more data and make a decision after. Useful for parenting as well.
 
 :::note[Quotes]
@@ -255,8 +281,8 @@ Experimentation gives us a window between all of nothing decisions, a compromise
 #### Overcome Short-Term Emotion
 
 **Short term emotions are not always the enemy, but they can't be the only voice at the table**. They might:
-1. **Impulsivity** - cause us to make drastic, quick decisions. anger, for example, is a main cause of that. [Impulsivity](/notes/impulsivity.md)
-2. **procrastination** - Cause us to avoid making a decision. a combination of [Risk Management](/notes/risk-management.md) and our bias towards what is familiar, can cause us a [Status-quo bias](/notes/status-quo-bias.md) [Procrastination](/notes/procrastination.md).
+1. **Impulsivity** - cause us to make drastic, quick decisions. anger, for example, is a main cause of that. [Impulsivity is acting without conscious deliberation or filter](/notes/impulsivity-is-acting-without-conscious-deliberation-or-filter.md)
+2. **procrastination** - Cause us to avoid making a decision. a combination of [We prefer avoiding losses over gaining equivalent value](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md) and our bias towards what is familiar, can cause us a [We prefer existing situations over alternatives despite better options](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md) [Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md).
 
 To prevent those, we can:
 1. **Do the 10/10/10** - how would it feel 10 minutes, months and years about this decision
@@ -280,7 +306,7 @@ These two will allow to gain distance and counteract short term emotions.
 #### Honor Your Core Priorities
 
 Even after we cleared the short term emotions, we might be stuck at a crossroads, this is often a sign of conflict between two or more competing values.
-In those cases, we need to define, reexamine, and honor our core values, and see which decision is closer to those values.
+In those cases, we need to define, reexamine, and honor our core values, and see which decision is closer to those values. [Persistent indecision reveals a conflict between competing core values](/notes/persistent-indecision-reveals-a-conflict-between-competing-core-values.md)
 
 :::note[Quotes]
 
@@ -292,15 +318,15 @@ In those cases, we need to define, reexamine, and honor our core values, and see
 ### Prepare to Be Wrong
 #### Bookend the Future
 
-As we've mentioned, we are bad at predicting the future, and some of it is due to the fact that we treat the future as a single point, we try to sum up in our minds all possible factors into a single future, instead of treating it as a range of possibilities that we can prepare for.
+As we've mentioned, we are bad at predicting the future, and some of it is due to the fact that we treat the future as a single point, we try to sum up in our minds all possible factors into a single future, instead of treating it as a range of possibilities that we can prepare for. [Planning for a range of futures reduces overconfidence in predictions](/notes/planning-for-a-range-of-futures-reduces-overconfidence-in-predictions.md)
 
 To bookend, is to create a scale from worst to best outcome:
-1. **worst scenario** - we try to analyze all the possible ways we could fail, and try and come up with a preemptive or insurance for that. [Pre-Mortem](/notes/pre-mortem.md).
+1. **worst scenario** - we try to analyze all the possible ways we could fail, and try and come up with a preemptive or insurance for that. [Pre-mortem anticipates failure modes to enable preparation](/notes/pre-mortem-anticipates-failure-modes-to-enable-preparation.md).
 2. **Best scenario** - consider all that we need to keep up with our success, reduce bottlenecks.
 
-These two utilize two sided thinking [Balance Extremes](/notes/balance-extremes.md), similar to the first sections, by changing viewpoints we can increase our chances of creative thinking. [Idea Compass](/notes/idea-compass.md)
-But these are relevant only for what we expect from the future. Since over confidence is an issue, **we also need a safety factor, a "what if" we are bad at planning** [planning fallacy](/notes/planning-fallacy.md). For example the add [Buffers](/notes/reserves.md) to schedules, budgets, etc. A buffer that isn't based on what we know (otherwise it would have come up in the premortem), but rather to plan for the unexpected.
-To improve our chances of sticking to the plan and getting closer to the higher bookend, we need to set expectations, which can act as an immunity to potential challenges that can rise. [Emotional Resilience](/notes/emotional-resilience.md).
+These two utilize two sided thinking [Optimal outcomes emerge from balance between extremes not absolutes](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md), similar to the first sections, by changing viewpoints we can increase our chances of creative thinking. [Idea Compass](/notes/idea-compass.md)
+But these are relevant only for what we expect from the future. Since over confidence is an issue, **we also need a safety factor, a "what if" we are bad at planning** [We underestimate task duration through overconfident predictions](/notes/we-underestimate-task-duration-through-overconfident-predictions.md). For example the add [Buffers](/notes/reserves-build-capacity-to-absorb-unpredictability-and-disruption.md) to schedules, budgets, etc. A buffer that isn't based on what we know (otherwise it would have come up in the premortem), but rather to plan for the unexpected.
+To improve our chances of sticking to the plan and getting closer to the higher bookend, we need to set expectations, which can act as an immunity to potential challenges that can rise. [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md).
 
 :::note[Quotes]
 
@@ -317,8 +343,8 @@ To improve our chances of sticking to the plan and getting closer to the higher 
 
 #### Set a Tripwire
 
-We often get [complicancy](/notes/complicancy.md) with our decisions, we feel constrained by [Path Dependence](/notes/path-dependence.md) and avoid reexamine our decisions, we stick to a "wait and see" strategy, or to [Defaults](/notes/defaults.md).
-**Setting a tripwire is a method that forces us to review our decision, and perhaps make changes easier**, like giving new employees a "no hard feelings" quit paycheck if they want to leave, to make sure people don't stay even though they don't want to, when it is also harms the company [Decision points](/notes/decision-points.md). It is also useful to allow more risk taking because now we will have conditions where we stop the process before it's too late, like thinking about your budget size before entering the casino.
+We often get [complicancy](/notes/complicancy.md) with our decisions, we feel constrained by [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md) and avoid reexamine our decisions, we stick to a "wait and see" strategy, or to [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md).
+**Setting a tripwire is a method that forces us to review our decision, and perhaps make changes easier**, like giving new employees a "no hard feelings" quit paycheck if they want to leave, to make sure people don't stay even though they don't want to, when it is also harms the company [Decision points force re-evaluation or action by creating deliberate triggers](/notes/decision-points-force-re-evaluation-or-action-by-creating-deliberate-triggers.md). It is also useful to allow more risk taking because now we will have conditions where we stop the process before it's too late, like thinking about your budget size before entering the casino.
 
 :::note[Quotes]
 

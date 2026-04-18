@@ -1,13 +1,13 @@
 ---
 UUID: 20230702161132
 Created: '2023-07-02 16:11'
-Modified: '2026-04-01 08:57'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Actions and meaning depend on situational and environmental
   circumstances.png]]
@@ -21,6 +21,10 @@ Description: >-
 aliases:
   - Context
 new_schema: true
+Topic:
+  - '[[Environment and Behavior]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -62,8 +66,3 @@ It is perhaps considered polite to hug strangers in Europe, but rude to do so in
 ## Visual
 
 ![Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.webp)
-
-## Overview
-🔼Topic:: [Environment and Behavior](/notes/environment-and-behavior.md)
-◀Origin::
-🔗Link::

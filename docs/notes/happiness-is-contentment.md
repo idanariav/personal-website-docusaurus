@@ -1,7 +1,7 @@
 ---
 UUID: 20230408072548
 Created: '2023-04-08 07:25'
-Modified: '2026-04-08 15:23'
+Modified: '2026-04-11 22:22'
 tags: []
 Description: >-
   A state of well-being derived from appreciating the present, valuing intrinsic
@@ -11,10 +11,14 @@ excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - eudaemonic happiness
 new_schema: true
+Topic:
+  - '[[Happiness (Nature and Sources)]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ It is about setting realistic and minimalistic [Expectations shape wellbeing thr
 ## Visual
 
 ![Happiness is contentment](/notes/happiness-is-contentment.webp)
-## Overview
-🔼Topic:: [Happiness (Nature and Sources)](/notes/happiness-nature-and-sources.md)
-Source:: [History of Philosophy Without Any Gaps](/notes/history-of-philosophy-without-any-gaps.md)
-Source:: [Aristotle](/notes/aristotle-philosopher.md)
-Link:: https://share.snipd.com/episode/575595c0-a956-4d95-b61b-14685aa73745
-

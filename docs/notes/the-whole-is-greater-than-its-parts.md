@@ -1,8 +1,8 @@
 ---
 UUID: 20250929092704
 Created: '2025-09-29 09:27'
-Modified: '2026-04-09 16:56'
-Version: 2
+Modified: '2026-04-11 22:28'
+Version: 3
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -16,6 +16,10 @@ Description: >-
   acknowledging the complexity and interrelatedness of elements within a
   context.
 new_schema: true
+Topic:
+  - '[[Systems and Structural Thinking]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -45,8 +49,3 @@ For example, the "cure" for headaches can vary greatly depending on what we are 
 
 ## Visual
 
-
-## Overview
-🔼Topic:: [Systems and Structural Thinking](/notes/systems-and-structural-thinking.md)
-↩️Origin:: 
-🔗Link:: 

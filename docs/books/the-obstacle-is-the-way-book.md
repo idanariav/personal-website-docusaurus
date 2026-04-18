@@ -1,41 +1,59 @@
 ---
 UUID: 20231231210509
 Created: '2023-12-31 21:05'
-Modified: '2025-01-04 14:52'
+Modified: '2026-04-17 06:27'
 tags: []
+FullTitle: The Obstacle Is the Way - The Timeless Art of Turning Trials into Triumph
+Description: >-
+  It argues that the three pillars of stoic philosophy—Perception, Action, and
+  Will—enable individuals to transform challenges into opportunities for growth,
+  embrace resilience, and focus on personal development while accepting the
+  limits of control, ultimately fostering a sense of purpose and connection to
+  the greater whole.
 Author:
   - '[[Ryan Holiday]]'
+URL: 'https://www.goodreads.com/book/show/20554127-the-obstacle-is-the-way'
+Cover: >-
+  http://books.google.com/books/content?id=lUp1AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B00G3L1B8K
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 8
 Pages: 226
+Reread: 0
 Rate: 5
 PublishDate: 2014-05-01T00:00:00.000Z
+StartDate: 2023-12-26T00:00:00.000Z
 FinishDate: 2024-01-04T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=lUp1AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/20554127-the-obstacle-is-the-way'
+Image: null
 aliases: null
+Topic:
+  - >-
+    [[Stoicism teaches detachment from external events to maintain inner
+    freedom]]
+  - '[[Truth and goodness are defined by practical usefulness]]'
+  - >-
+    [[Struggle is an inevitable and necessary part of any meaningful growth or
+    achievement]]
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Obstacle Is the Way
 
-## 🔗Connect
-🔼Topic:: [Stoicism](/notes/stoicism.md)
-🔼Topic:: [Pragmatism](/notes/pragmatism.md)
-🔼Topic:: [Struggle](/notes/struggle.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 
 🔈 *Summary of main ideas*
 
@@ -44,11 +62,11 @@ Three pillars of stoic philosophy that will allow you not only to withstand obst
 1. **Perception** - We shift out attitude towards problems from one of escaping, frustration and helplessness to one of joy, as opportunity for growth. Also, let your reason guide you, instead of emotions. Avoid temptations and giving in to fear.
 2. **Action** - Start, right now, give everything you got. Working hard doesn't mean working stupid. Analyze the situation, find the best method for victory, know that you will fail, learn from your mistakes, and remember that your strength is the your resilience, you can be patient, attentive, and rise when everyone else fades.
 3. **Will** - Hope for the best, but expect for the worst. Accept that some things are beyond your control, and channel your energy and focus to the relevant places, which are your development and endurance. Love your fate, and be happy about everything that is happening, because every situation is an opportunity for growth or expression of virtues. Remember that you are always part of something bigger, whether other people or spirits, you are here to contribute, to shine as bright as possible before passing the torch onwards.
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -56,16 +74,16 @@ Three pillars of stoic philosophy that will allow you not only to withstand obst
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 Amazing, it is very engaging, and I especially loved the part where he "answers back", like "you have to do this", and the reader responds "but I can't", and he answers "well, you need to x/y/z", it shows his humanity and his ability to read the crowd.
 First and foremost, this is an inspirational book, from reading it you come out with power and motivation, like a fire burning within you to be better, to be greater, to withstand all hardships, to be a true stoic.
 
-### 🖼️Outline
+### Outline
 
-![The Obstacle Is the Way (book).webp](/books/the-obstacle-is-the-way-book.webp)
-## 📒 Notes
+![The Obstacle Is the Way (book)](/books/the-obstacle-is-the-way-book.webp)
+## Notes
 
 ### Preface
 
@@ -80,13 +98,13 @@ First and foremost, this is an inspirational book, from reading it you come out 
 
 ### Introduction
 
-Obstacles are at every corner, and as we try and fail, we blame others, ourselves, we decay into [Anger](/notes/anger.md) and frustration.
+Obstacles are at every corner, and as we try and fail, we blame others, ourselves, we decay into [Anger is information that something should be different](/notes/anger-is-information-that-something-should-be-different.md) and frustration.
 
-But what if there's another way. **What if the obstacle itself has a unique lesson for us, that we can use obstacles to our benefit, to rise above them and be better for it** [Anti-Fragility](/notes/anti-fragility.md). We have to learn how to [fail](/notes/failure.md), and how to perceive it.
+But what if there's another way. **What if the obstacle itself has a unique lesson for us, that we can use obstacles to our benefit, to rise above them and be better for it** [Some systems grow stronger through disorder](/notes/some-systems-grow-stronger-through-disorder.md). We have to learn how to [fail](/notes/failure-is-a-necessary-part-of-learning-and-growth.md), and how to perceive it.
 
-**In the best scenario, the obstacle will be the fuel to our fire, we would turn weakness into strength and motivation** [Emotional Aikido](/notes/emotional-aikido.md) [Reverse Thinking](/notes/reverse-thinking.md)
+**In the best scenario, the obstacle will be the fuel to our fire, we would turn weakness into strength and motivation** [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md) [Flipping assumptions reveals hidden possibilities and better solutions](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md)
 
-Overcoming obstacles is one of the only way to grow [Adversarial Growth](/notes/creative-destruction.md), and nowadays we have too many ways to avoid obstacles, for our determent.
+Overcoming obstacles is one of the only way to grow [Adversarial Growth](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md), and nowadays we have too many ways to avoid obstacles, for our determent.
 
 Overcoming obstacles requires:
 
@@ -107,7 +125,7 @@ Overcoming obstacles requires:
 
 ### Perception
 
-Once we clean our [Perception](/notes/subjective-reality.md) from biases and [Judgment](/notes/judgment.md), we are left with the truth, the ability to see things "in itself" [Objectivism](/notes/objectivism.md)
+Once we clean our [Perception](/notes/subjective-perception-filters-how-we-see-external-reality.md) from biases and [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md), we are left with the truth, the ability to see things "in itself" [Seeing reality without subjective bias reduces distortion](/notes/seeing-reality-without-subjective-bias-reduces-distortion.md)
 
 :::note[Perception]
 
@@ -118,10 +136,10 @@ Once we clean our [Perception](/notes/subjective-reality.md) from biases and [Ju
 
 #### The Discipline of Perception
 
-To have a good perception requires [Self-control](/notes/self-control.md), to resist both [Temptations](/notes/procrastination.md) and [Fear](/notes/fear.md) and maintain [Emotional Resilience](/notes/emotional-resilience.md) and let our reason guide us. Remember that we always have the [freedom of choice](/notes/agency.md).
+To have a good perception requires [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md), to resist both [Temptations](/notes/distractions-pull-us-towards-them-as-a-temptation.md) and [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md) and maintain [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md) and let our reason guide us. Remember that we always have the [freedom of choice](/notes/agency-is-the-ability-to-connect-desires-and-actions.md).
 This can help us stay away from dangers, and even turn them into an opportunity.
 
-Our [System 1](/notes/system-1.md) brain is working against us, making us see threats and fears where non such exists, and surrender ourselves to emotions and [Impulsivity](/notes/impulsivity.md).
+Our [Automatic thinking processes drive fast emotional responses](/notes/automatic-thinking-processes-drive-fast-emotional-responses.md) brain is working against us, making us see threats and fears where non such exists, and surrender ourselves to emotions and [Impulsivity is acting without conscious deliberation or filter](/notes/impulsivity-is-acting-without-conscious-deliberation-or-filter.md).
 
 when faced with a challenge, try to:
 
@@ -142,8 +160,8 @@ when faced with a challenge, try to:
 
 #### Recognize Your Power
 
-**While you don't have complete control on outside circumstances [Acceptance](/notes/acceptance.md), you do and always have control over your thoughts, beliefs, and reactions to the situation**. This is your power that can't be taken away from you.
-Moreover, you have the power to control the [Narratives](/notes/narratives.md) of what's happening to you. "good" or "bad" are concepts of judgment, not inherent properties of the situation [realism](/notes/realism.md).
+**While you don't have complete control on outside circumstances [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md), you do and always have control over your thoughts, beliefs, and reactions to the situation**. This is your power that can't be taken away from you.
+Moreover, you have the power to control the [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md) of what's happening to you. "good" or "bad" are concepts of judgment, not inherent properties of the situation [realism](/notes/realism.md).
 
 :::note[RECOGNIZE YOUR POWER]
 
@@ -154,7 +172,7 @@ Moreover, you have the power to control the [Narratives](/notes/narratives.md) o
 
 #### Steady Your Nerves
 
-Fear and [Stress](/notes/stress.md) will attack you without further notice, but **you have to steel yourself, maintain a cool head and not let those affect you.**
+Fear and [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) will attack you without further notice, but **you have to steel yourself, maintain a cool head and not let those affect you.**
 
 :::note[STEADY YOUR NERVES]
 
@@ -165,7 +183,7 @@ Fear and [Stress](/notes/stress.md) will attack you without further notice, but 
 
 #### Control Your Emotions
 
-**We need to develop emotional resilience, we do so not by denying our emotions, but rather admit that in most cases, our emotions don't help us solve the problem,** they are just there. So we acknowledge them and move on, we let our reason guide us, and don't give in to stress and fear. With agency we reduce our fear of [Uncertainty](/notes/uncertainty.md), because we remember that **no matter what happens, we can always act virtuously**.
+**We need to develop emotional resilience, we do so not by denying our emotions, but rather admit that in most cases, our emotions don't help us solve the problem,** they are just there. So we acknowledge them and move on, we let our reason guide us, and don't give in to stress and fear. With agency we reduce our fear of [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md), because we remember that **no matter what happens, we can always act virtuously**. [Virtue is always accessible regardless of external circumstances](/notes/virtue-is-always-accessible-regardless-of-external-circumstances.md)
 
 :::note[CONTROL YOUR EMOTIONS]
 
@@ -177,7 +195,7 @@ Fear and [Stress](/notes/stress.md) will attack you without further notice, but 
 
 #### Practice Objectivity
 
-We need to escape our subjective reality. When we focus on facts and remove interpretation, we gain [Clarity](/notes/clarity.md). The goal is to treat your problems as it was someone else's [Advice](/notes/advice.md). With [Cognitive Distancing](/notes/cognitive-distancing.md), we can focus on the core issue, without being mislead. Leave [Empathy](/notes/empathy.md) for later.
+We need to escape our subjective reality. When we focus on facts and remove interpretation, we gain [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md). The goal is to treat your problems as it was someone else's [Seeking and giving advice both expand our perspective](/notes/seeking-and-giving-advice-both-expand-our-perspective.md). With [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md), we can focus on the core issue, without being mislead. Leave [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md) for later.
 
 :::note[PRACTICE OBJECTIVITY]
 
@@ -189,7 +207,7 @@ We need to escape our subjective reality. When we focus on facts and remove inte
 
 #### Alter Your Perceptive
 
-Perspective is everything, **by [Framing](/notes/framing.md) events differently we can change our emotional reaction to it, and more importantly, shape the type of action that will follow from it.**
+Perspective is everything, **by [How we describe something shapes how it is perceived](/notes/how-we-describe-something-shapes-how-it-is-perceived.md) events differently we can change our emotional reaction to it, and more importantly, shape the type of action that will follow from it.**
 We don't have to ignore our emotions, just find the best explanation for it. Additionally, it's best to remove ourselves from the obstacle's definition. For example, instead of "I hate public speaking", which leads us nowhere, only to escape this experience, we can convert it into "Public speaking demands preparation", which will cause us to prepare more, thereby decreasing our fear
 
 :::note[ALTER YOUR PERSPECTIVE]
@@ -217,7 +235,7 @@ If we only dedicate our attention and energy to things that are within our contr
 
 #### Living in the Present Moment
 
-Don't focus on the interpretation of events, on reasons and abstract concepts or day dreaming. **Focus on the now**, on the pleasantness of life, on the problem at hand. Dedicate all your attention to it, to live your present moment fully. [mindfulness](/notes/intentionality.md)
+Don't focus on the interpretation of events, on reasons and abstract concepts or day dreaming. **Focus on the now**, on the pleasantness of life, on the problem at hand. Dedicate all your attention to it, to live your present moment fully. [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md)
 
 :::note[LIVE IN THE PRESENT MOMENT]
 
@@ -228,7 +246,7 @@ Don't focus on the interpretation of events, on reasons and abstract concepts or
 
 #### Think Differently
 
-If we believe we can't do something, we would truly won't be able to, but the reverse is also true. **By believing we can achieve above and beyond what we thought was possible, we have a much better chance to succeed** [fake it till you make it](/notes/fake-it-till-you-make-it.md)
+If we believe we can't do something, we would truly won't be able to, but the reverse is also true. **By believing we can achieve above and beyond what we thought was possible, we have a much better chance to succeed** [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md)
 
 :::note[THINK DIFFERENTLY]
 
@@ -239,7 +257,7 @@ If we believe we can't do something, we would truly won't be able to, but the re
 
 #### Finding the Opportunity
 
-Once we have avoided the negative aspects of the obstacle, it's time to flip our thinking and find it's advantages. An obstacle is neither just a blessing or a curse [Binary Thinking](/notes/binary-thinking.md), it's more complicated. **Any obstacle is an opportunity for us to become better, to try new things** [Limits](/notes/limits.md), **it is through this conflict that we get better, the struggle is essential.**
+Once we have avoided the negative aspects of the obstacle, it's time to flip our thinking and find it's advantages. An obstacle is neither just a blessing or a curse [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md), it's more complicated. **Any obstacle is an opportunity for us to become better, to try new things** [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md), **it is through this conflict that we get better, the struggle is essential.**
 This is not an issue of "glass half full", this is a ~100% flipping of our thinking to see the opportunity within. Only then we can be truly anti-fragile to obstacles.
 
 :::note[FINDING THE OPPORTUNITY]
@@ -277,7 +295,7 @@ With a clear head, we now have the obligation to act, to put our focused and pre
 
 #### The Discipline of Action
 
-**The only way to solve an obstacle is through. No one can save you, or replace you. It is your obstacle to bare, to bring your entirety to, to become a spearhead of action that will turn the obstacle into growth.**
+**The only way to solve an obstacle is through. No one can save you, or replace you. It is your obstacle to bare, to bring your entirety to, to become a spearhead of action that will turn the obstacle into growth.** [Obstacles can only be overcome by going through them directly](/notes/obstacles-can-only-be-overcome-by-going-through-them-directly.md)
 We have got to act, there is no other option, no other choice. [obligation to act](/notes/obligation-to-act.md)
 
 :::note[THE DISCIPLINE OF ACTION]
@@ -291,7 +309,7 @@ We have got to act, there is no other option, no other choice. [obligation to ac
 
 #### Get Moving
 
-**Start, right now, no excuses, with all your might**. By starting, we gain [Momentum](/notes/momentum.md), and when we pour ourselves into it the momentum grows and becomes unstoppable. [Start Small](/notes/start-small.md)
+**Start, right now, no excuses, with all your might**. By starting, we gain [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md), and when we pour ourselves into it the momentum grows and becomes unstoppable. [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md)
 
 :::note[GET MOVING]
 
@@ -305,7 +323,7 @@ We have got to act, there is no other option, no other choice. [obligation to ac
 
 #### Practice Persistence
 
-**Once you've started, don't stop. You will not be stopped**. You will persist [Grit](/notes/grit.md) and resist all distractions and temptations that are trying to lead you astry, and you will not quit [When to Quit](/notes/when-to-quit.md).
+**Once you've started, don't stop. You will not be stopped**. You will persist [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) and resist all distractions and temptations that are trying to lead you astry, and you will not quit [Knowing when to stop prevents wasted persistence on misaligned goals](/notes/knowing-when-to-stop-prevents-wasted-persistence-on-misaligned-goals.md).
 Since you aren't going anywhere, don't feel rushed, have confidence in the fact that you progress each day, and one day you will succeed.
 
 :::note[PRACTICE PERSISTENCE]
@@ -321,7 +339,7 @@ Since you aren't going anywhere, don't feel rushed, have confidence in the fact 
 
 #### Iterate
 
-Success and failure are intertwined. Failure is a necessary step for learning, it provides valuable [Feedback](/notes/feedback.md). every time we feel, we need to adapt and start again [First Batch Trash](/notes/first-batch-trash.md) [practice beats perfection](/notes/practice-beats-perfection.md)
+Success and failure are intertwined. Failure is a necessary step for learning, it provides valuable [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md). every time we feel, we need to adapt and start again [First attempts are inherently lower quality than iterations](/notes/first-attempts-are-inherently-lower-quality-than-iterations.md) [Practice beats perfection](/notes/practice-beats-perfection.md)
 
 :::note[ITERATE]
 
@@ -334,7 +352,7 @@ Success and failure are intertwined. Failure is a necessary step for learning, i
 
 #### Follow the Process
 
-Focus on the next action you need to do right now, break down your goals into bite sized chunks [Chunking](/notes/chunking.md), and trust that your everyday actions will breed the results you are looking after[Trust the Process](/notes/trust-the-process.md).
+Focus on the next action you need to do right now, break down your goals into bite sized chunks [Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.md), and trust that your everyday actions will breed the results you are looking after[Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md).
 
 :::note[FOLLOW THE PROCESS]
 
@@ -346,7 +364,7 @@ Focus on the next action you need to do right now, break down your goals into bi
 
 #### Do Your Job, Do it Right
 
-No matter which job or task is bestowed upon us, no matter if someone is watching or not, no matter our preferences and social status. **It is our duty to do our best, to be [honest](/notes/honesty.md), and to help others we encounter on our path.** [Integrity](/notes/integrity.md)
+No matter which job or task is bestowed upon us, no matter if someone is watching or not, no matter our preferences and social status. **It is our duty to do our best, to be [honest](/notes/speaking-truth-about-yourself-and-others-enables-authentic-action.md), and to help others we encounter on our path.** [Living in alignment with your values](/notes/living-in-alignment-with-your-values.md)
 
 :::note[DO YOUR JOB, DO IT RIGHT]
 
@@ -359,7 +377,7 @@ No matter which job or task is bestowed upon us, no matter if someone is watchin
 
 #### What's Right is what Works
 
-Be pragmatist, be "flexible". Don't go for [Perfectionism](/notes/perfectionism.md), **go for progress, for what works. be able to think outside the box and be as assertive and bold as you need to be**
+Be pragmatist, be "flexible". Don't go for [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md), **go for progress, for what works. be able to think outside the box and be as assertive and bold as you need to be**
 
 :::note[WHAT’S RIGHT IS WHAT WORKS]
 
@@ -372,7 +390,7 @@ Be pragmatist, be "flexible". Don't go for [Perfectionism](/notes/perfectionism.
 
 #### In Praise of the Flank Attack
 
-Know your strengths and weaknesses, and your opponent's too. Don't face them head on in their most powerful position. **Find the way around, create opportunities that are best suited for your situation**. [Competitive Advantage](/notes/competitive-advantage.md). Usually the smaller player is more flexible and adaptable [scalability](/notes/scalability.md) [Adaptability](/notes/adaptability.md), which could be a great advantage against a more rich/strong opponent.
+Know your strengths and weaknesses, and your opponent's too. Don't face them head on in their most powerful position. **Find the way around, create opportunities that are best suited for your situation**. [Finding your unique strength creates sustainable advantage](/notes/finding-your-unique-strength-creates-sustainable-advantage.md). Usually the smaller player is more flexible and adaptable [scalability](/notes/scalability.md) [Our beliefs must adapt as context and goals change](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md), which could be a great advantage against a more rich/strong opponent.
 
 :::note[IN PRAISE OF THE FLANK ATTACK]
 
@@ -384,7 +402,7 @@ Know your strengths and weaknesses, and your opponent's too. Don't face them hea
 
 #### Use Obstacles against Themselves
 
-Some obstacles will destroy themselves, perhaps their own force is self destructive, and accordingly our best action is to let them fall, be passive, continue our path without tackling them at all. **Be [patient](/notes/patience.md) and attentive to know when to wait and for how long**
+Some obstacles will destroy themselves, perhaps their own force is self destructive, and accordingly our best action is to let them fall, be passive, continue our path without tackling them at all. **Be [patient](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md) and attentive to know when to wait and for how long**
 
 :::note[USE OBSTACLES AGAINST THEMSELVES]
 
@@ -421,7 +439,7 @@ Some obstacles will destroy themselves, perhaps their own force is self destruct
 
 #### Prepare for None of it to Work
 
-**Sometimes despite our bests efforts we will fail. We have to learn to accept it and move on**. To use chances of failures to practice our virtues, to keep our head held high, to be kind and helping others in times of difficulty, and **never stop trying**.
+**Sometimes despite our bests efforts we will fail. We have to learn to accept it and move on**. To use chances of failures to practice our virtues, to keep our head held high, to be kind and helping others in times of difficulty, and **never stop trying**. [Challenges are opportunities for virtue](/notes/challenges-are-opportunities-for-virtue.md)
 
 :::note[PREPARE FOR NONE OF IT TO WORK]
 
@@ -442,7 +460,7 @@ Some obstacles will destroy themselves, perhaps their own force is self destruct
 
 #### The Discipline of Will
 
-Will is the one thing we are truly in control 100% of the time. Since this is only about our internal world, about keeping it together, maintaining our cool head and our resilience to external factors. **As long as we are strong, unshakeable, enduring, we will outlive any evil, any obstacle.**
+Will is the one thing we are truly in control 100% of the time. [The will is always fully within our control](/notes/the-will-is-always-fully-within-our-control.md) Since this is only about our internal world, about keeping it together, maintaining our cool head and our resilience to external factors. **As long as we are strong, unshakeable, enduring, we will outlive any evil, any obstacle.**
 
 :::note[THE DISCIPLINE OF THE WILL]
 
@@ -454,7 +472,7 @@ Will is the one thing we are truly in control 100% of the time. Since this is on
 
 #### Build Your Inner Citadel
 
-**No one is born strong or resilient, it takes practice**. [Practice beats talent](/notes/practice-beats-talent.md) Instead of treating your weaknesses as a given, you can work on yourself to remove those. To **train your mind and body to be better**, to overcome obstacles, to be ready for a rainy day where stress pressure and pain are coming at you. Sure, you hope such a day won't come, but you need to be ready non the less. [Growth Mindset](/notes/growth-mindset.md)
+**No one is born strong or resilient, it takes practice**. [Practice beats talent](/notes/practice-beats-talent.md) Instead of treating your weaknesses as a given, you can work on yourself to remove those. To **train your mind and body to be better**, to overcome obstacles, to be ready for a rainy day where stress pressure and pain are coming at you. Sure, you hope such a day won't come, but you need to be ready non the less. [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)
 
 :::note[BUILD YOUR INNER CITADEL]
 
@@ -467,7 +485,7 @@ Will is the one thing we are truly in control 100% of the time. Since this is on
 
 #### Anticipation
 
-Do a [Pre-Mortem](/notes/pre-mortem.md). B**y thinking about the worst possible outcomes, we can be ready in advance**. Then, when something fails, and eventually something will do, we will be ready for it. We will not feel disappointed, surprised or discouraged, because we foresaw these obstacles in advance. **We expected to face the worst, so our body and mind is ready**. While expecting that everything will go smoothly is a recipe for pain and even harder struggles because we weren't ready [Expectations](/notes/expectations.md)
+Do a [Pre-mortem anticipates failure modes to enable preparation](/notes/pre-mortem-anticipates-failure-modes-to-enable-preparation.md). B**y thinking about the worst possible outcomes, we can be ready in advance**. Then, when something fails, and eventually something will do, we will be ready for it. We will not feel disappointed, surprised or discouraged, because we foresaw these obstacles in advance. **We expected to face the worst, so our body and mind is ready**. While expecting that everything will go smoothly is a recipe for pain and even harder struggles because we weren't ready [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md)
 
 :::note[ANTICIPATION (THINKING NEGATIVELY)]
 
@@ -482,7 +500,7 @@ Do a [Pre-Mortem](/notes/pre-mortem.md). B**y thinking about the worst possible 
 
 There are things outside of our control that we must learn to accept. **Accept doesn't mean to give us, on the contrary, it means channeling our energies not towards self resentment or the world, but rather towards our development**. Limits can be a powerful resource for growth. It requires us to think outside of the box, to find new ways of doing what others are doing unconsciously, and that means we will learn to do it better, we will understand it more, and we will overcome.
 
-It means to appreciate what we have [Gratitude](/notes/gratitude.md) and use it to the fullest. Accept that some things are not up to us, and they just happen, like Murphy's law or "god willing"
+It means to appreciate what we have [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md) and use it to the fullest. Accept that some things are not up to us, and they just happen, like Murphy's law or "god willing"
 
 :::note[THE ART OF ACQUIESCENCE]
 
@@ -496,7 +514,7 @@ It means to appreciate what we have [Gratitude](/notes/gratitude.md) and use it 
 
 #### Love Everything that Happens
 
-**Since we have no control over some of the things that happens to us, especially the bad ones, what response would be better than to be happy for it? None**. Happiness gives us strength and motivation to move on, and if there's no reason for suffering, why inflict it on ourselves? The answer is to always [Amor Fati](/notes/amor-fati.md)
+**Since we have no control over some of the things that happens to us, especially the bad ones, what response would be better than to be happy for it? None**. Happiness gives us strength and motivation to move on, and if there's no reason for suffering, why inflict it on ourselves? The answer is to always [Love your fate as if you chose it](/notes/love-your-fate-as-if-you-chose-it.md)
 
 :::note[LOVE EVERYTHING THAT HAPPENS: AMOR FATI]
 
@@ -508,7 +526,7 @@ It means to appreciate what we have [Gratitude](/notes/gratitude.md) and use it 
 
 #### Perseverance
 
-**Endurance of our will is the strongest ability we can have**. To endure all hardship and carry on, to be stopped only by death. If people today are raised with silver spoons, they will have no endurance, they will fall with the first sign of hardship. But we, the people of obstacles, we would endure.
+**Endurance of our will is the strongest ability we can have**. To endure all hardship and carry on, to be stopped only by death. If people today are raised with silver spoons, they will have no endurance, they will fall with the first sign of hardship. [Comfort and ease erode resilience and endurance](/notes/comfort-and-ease-erode-resilience-and-endurance.md) But we, the people of obstacles, we would endure.
 
 :::note[PERSEVERANCE]
 
@@ -520,7 +538,7 @@ It means to appreciate what we have [Gratitude](/notes/gratitude.md) and use it 
 
 #### Something Bigger than Yourself
 
-When we stop thinking about ourselves, when we focus on others, on how we can help make the world a better place, we not only diminish the difficulties we face, we also find new strength to carry on. **Shared goals give us purpose**. [Human is a social being](/notes/human-is-a-social-being.md)
+When we stop thinking about ourselves, when we focus on others, on how we can help make the world a better place, we not only diminish the difficulties we face, we also find new strength to carry on. **Shared goals give us purpose**. [Shared goals give us purpose](/notes/shared-goals-give-us-purpose.md) [Human is a social being](/notes/human-is-a-social-being.md)
 
 :::note[SOMETHING BIGGER THAN YOURSELF]
 
@@ -532,7 +550,7 @@ When we stop thinking about ourselves, when we focus on others, on how we can he
 
 #### Meditate on Your Mortality
 
-**[Death](/notes/death.md) is the greatest obstacle we face, and there is little we can do about it. Therefore it shouldn't be a source of depression or denial, but rather acceptance and motivation**. When everything is finite, it's easier to prioritize, to check whether our actions match our preferences or when we will be on our deathbeds, will we have regret? Make every second count, because we have a finite number of those. [memento mori](/notes/memento-mori.md)
+**[Mortality shapes meaning and motivates acceptance](/notes/mortality-shapes-meaning-and-motivates-acceptance.md) is the greatest obstacle we face, and there is little we can do about it. Therefore it shouldn't be a source of depression or denial, but rather acceptance and motivation**. When everything is finite, it's easier to prioritize, to check whether our actions match our preferences or when we will be on our deathbeds, will we have regret? Make every second count, because we have a finite number of those. [memento mori](/notes/memento-mori.md)
 
 :::note[MEDITATE ON YOUR MORTALITY]
 

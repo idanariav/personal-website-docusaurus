@@ -1,8 +1,8 @@
 ---
 UUID: 20250907065343
 Created: '2025-09-07 06:53'
-Modified: '2026-04-08 14:08'
-Version: 2
+Modified: '2026-04-11 22:19'
+Version: 3
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -15,6 +15,10 @@ Description: >-
   and alleviate emotional pain, with varying effectiveness and potential for
   harm.
 new_schema: true
+Topic:
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,8 +54,3 @@ Alternatively, one can think about more positive coping mechanisms, for example 
 
 ## Visual
 
-
-## Overview
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-↩️Origin::
-🔗Link:: 

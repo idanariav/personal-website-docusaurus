@@ -1,13 +1,13 @@
 ---
 UUID: 20230711165344
 Created: '2023-07-11 16:53'
-Modified: '2026-04-08 13:46'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Intuition
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   decision-making, but challenging to teach or improve due to lack of
   self-awareness and susceptibility to biases.
 new_schema: true
+Topic:
+  - '[[Attribution Bias]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,11 +52,6 @@ Disadvantages:
 3. **Prone to biases** - Since we are not aware of our thinking process, we are much more prone to biases without much to do about it. Our [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) might lead us astray without having the capability of analyzing why and how to avoid it.
 
 ### Open questions
-
-## Overview
-🔼Topic:: [Attribution Bias](/notes/attribution-bias.md)
-◀Origin::
-🔗Link::
 
 ## Visual
 

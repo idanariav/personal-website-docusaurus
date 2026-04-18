@@ -1,19 +1,23 @@
 ---
 UUID: 20221126095800
 Created: '2022-11-26 09:58'
-Modified: '2025-03-31 07:02'
+Modified: '2026-04-13 06:13'
 tags: []
 Author:
   - '[[Mihaly Csikszentmihalyi]]'
 Genre: Psychology
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 303
 Rate: 4
 PublishDate: 2009-09-13T00:00:00.000Z
@@ -22,29 +26,53 @@ Cover: >-
   http://books.google.com/books/content?id=QVjPsd1UukEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/66354.Flow'
 aliases: null
+Description: >-
+  It argues that happiness, purpose, and success arise from flow states,
+  achieved through challenge, clear goals, and feedback. Flow fosters mental
+  order, enhancing quality of life and personal growth, emphasizing that meaning
+  and happiness are crafted through our perspectives and attitudes.
+FullTitle: Flow - The Psychology of Optimal Experience
+StartDate: 2022-11-10T00:00:00.000Z
+ASIN: B000W94FE6
+Reread: 0
+Topic:
+  - '[[behavioral psychology (Map)]]'
+  - >-
+    [[Flow is deep immersion where performance peaks and self-awareness
+    disappears]]
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Flow (book)
 
-## Connect
-🔼Topic:: [Behavioral Psychology (Map)](/mocs/behavioral-psychology-map.md)
-🔼Topic:: [Flow](/notes/flow.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 happiness, purpose and success is achieved through flow states, which is a combination of challenge, clear goals and feedback, based on our agency. These will create order in our mental state, and improve quality of life and opportunities to grow.
 1. **Meaning and happiness are crafted** - we shouldn't look for happiness "out there", it is not something we do, it is something we create, a decision we make based on our perspective and attitude to the world
 2. **Flow is connection** - being in flow, or "in the zone", is when we immerse ourselves completely in a task, we have autonomy, challenge, and feedback to help us stay focused, and when it is combined with a sense of purpose, it can be a strong contributor to happiness.
 
-### 🗒️Relate
+### Relate
 
-⛓ *Life lessons, action items*
+⛓ *Life lessons, action items
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?**
+1. **Control your consciousness** - practice focusing attention at will by eliminating distractions and concentrating on a single task until its goal is reached.
+2. **Set challenging clear goals with feedback** - choose tasks on the boundary between boredom and anxiety, define precise goals, and arrange immediate visible feedback.
+3. **Separate external and inner worlds** - regularly notice when you’re reacting to outside events and deliberately reinterpret them to protect inner harmony.
+4. **Develop intrinsic (autotelic) goals** - identify and commit to activities valued for their own sake rather than for external rewards.
+5. **Transform negative emotions** - apply emotional “aikido”: reframe setbacks as material for improvement and redirect their energy into constructive action.
+6. **Immerse in the environment** - when facing a situation, shift attention away from self-focus and learn the context deeply by engaging with its rules and opportunities.
+7. **Reflect and act** - schedule moments of self-knowledge (introspection) followed by concrete behavioral changes; combine thought with deliberate action.
+8. **Turn work into flow (job crafting)** - find or create opportunities within your job to develop skills, set personal goals, and make tasks more complex and engaging.
+9. **Make relationships flow-based** - treat friendships, parenting, and partnerships as activities: set shared goals, introduce challenges, seek feedback, and learn together.
+10. **Order attention during solitude** - practice structuring solitary time with purposeful mental activities to prevent attention wandering and psychic entropy.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 I liked the intro since it was much more philosophical than I thought it would be
@@ -55,30 +83,30 @@ For me a flow can only be generated from an activity that promotes mankind in a 
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 similar to other cases, the actual content of the book is the first 10-20% of the book, and the rest are examples of implementations that don't add much since the main message is pretty clear.
 
-### 🖼️Outline
+### Outline
 
-![Flow (book).webp](/books/flow-book.webp)
+![Flow (book)](/books/flow-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Intro
 
-**True moments of happiness come from situations where we are in control of our actions**, we use our [Agency](/notes/agency.md) and choose to do something that stretches' our psychical or mental limits. Happiness isn't something we do, nor is it something passive that just "happens" to us. [Happiness is an internal state](/notes/happiness-is-an-internal-state.md)
+**True moments of happiness come from situations where we are in control of our actions**, we use our [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) and choose to do something that stretches' our psychical or mental limits. Happiness isn't something we do, nor is it something passive that just "happens" to us. [Happiness is an internal state](/notes/happiness-is-an-internal-state.md)
 
 ### Happiness Revisited:
 
 1. **the universe was not made for us**, it is not "guarantied" that we will have satisfactory life. troubles and difficulties will arise [Life is pain](/notes/life-is-pain.md)
-2. **we relate our happiness on external, usually material things**, that can either be too easy or too hard to get. in the former, things that come easy are not as enjoyable, since it becomes our new reference line (we eat better than kings of the past, but we're not as satisfied from these feast) [Hedonic Treadmill](/notes/hedonic-treadmill.md) [Minimalism](/notes/addition-by-subtraction.md), we also tend to avoid future obstacles since we expect everything to be easy [Fixed Mindset](/notes/fixed-mindset.md). in the latter, if its too hard that it just breeds frustration.
-3. **desire is never ending**, once we get what we want, we immediately focus on the next goal. [Desire](/notes/desire.md)
+2. **we relate our happiness on external, usually material things**, that can either be too easy or too hard to get. in the former, things that come easy are not as enjoyable, since it becomes our new reference line (we eat better than kings of the past, but we're not as satisfied from these feast) [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) [Minimalism](/notes/improvement-often-comes-from-removing-rather-than-adding.md), we also tend to avoid future obstacles since we expect everything to be easy [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md). in the latter, if its too hard that it just breeds frustration.
+3. **desire is never ending**, once we get what we want, we immediately focus on the next goal. [Desire perpetuates endless wanting over satisfaction](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md)
 without focusing internality, on how we treat our experiences, we will never be truly happy.
-This will only result by finding a way to free our consciousness, which is always a method that requires not only cognitive strength, but also emotional, since otherwise we will not act upon it [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md) [Self Reflection](/notes/introspection.md)
-also, it is always based on the [context](/notes/context.md) of the current culture, like during mark's time it was about being free from economical pressure, while in ancient times it was more about psychical suffering.
-Essentially, this **freedom comes from the ability to separate the external and inner world**, [Stoicism](/notes/stoicism.md)
+This will only result by finding a way to free our consciousness, which is always a method that requires not only cognitive strength, but also emotional, since otherwise we will not act upon it [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md) [Self Reflection](/notes/introspection-develops-self-knowledge-through-internal-examination.md)
+also, it is always based on the [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md) of the current culture, like during mark's time it was about being free from economical pressure, while in ancient times it was more about psychical suffering.
+Essentially, this **freedom comes from the ability to separate the external and inner world**, [Stoicism teaches detachment from external events to maintain inner freedom](/notes/stoicism-teaches-detachment-from-external-events-to-maintain-inner-freedom.md)
 
 :::note[HAPPINESS REVISITED]
 
@@ -105,7 +133,7 @@ Essentially, this **freedom comes from the ability to separate the external and 
 ### The Anatomy of Consciousness
 **[consciousness](/notes/consciousness.md) is our ability to process external stimuli and decide on a course of action**.
 attention is our limited mental energy, and it depletes as we use it, so we must use it wisely. [Willpower is Limited](/notes/willpower-is-limited.md)
-There are situations where being focused is easier than others. **When external stimulus matches our personal goals, we are aligned, in harmony.** In contrast with entropy when "everything goes wrong". (since we cannot control out external world so easily, it is best done by fixing our perception). [Life as Flow](/notes/life-as-flow.md)
+There are situations where being focused is easier than others. **When external stimulus matches our personal goals, we are aligned, in harmony.** In contrast with entropy when "everything goes wrong". (since we cannot control out external world so easily, it is best done by fixing our perception). [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md)
 When we focus on the task at hand and achieve that sense of harmony, we paradoxically advance towards our personal goals, while being completely selfish and focused on doing things better.
 
 :::note[THE ANATOMY OF CONSCIOUSNESS]
@@ -122,8 +150,8 @@ When we focus on the task at hand and achieve that sense of harmony, we paradoxi
 ### Enjoyment and the Quality of Life
 
 the flow experience is achieved when:
-1. **the task is challenging** - on the borderline between boredom and anxiety (not too easy, not too hard). [Growth Mindset](/notes/growth-mindset.md) [Challenge](/notes/struggle.md)
-2. **The task has clear goals and visible [Feedback](/notes/feedback.md)** [Clarity](/notes/clarity.md)
+1. **the task is challenging** - on the borderline between boredom and anxiety (not too easy, not too hard). [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md) [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md)
+2. **The task has clear goals and visible [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md)** [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md)
 3. **We are capable to exert control on the situation**, not necessarily have complete control (the example is poker players - skills matter, while luck is still relevant).
 
 in such task, we tend to give all of our attention to the task at hand, thus making us *forget ourselves*, or forget our sense of selves while being completely immersed in the task, we usually also forget the sense of time.
@@ -149,12 +177,12 @@ in such task, we tend to give all of our attention to the task at hand, thus mak
 there is a similarity between cultures and flow experiences (such as games): both define clear rules, goals and feedback in order to increase that participates happiness.
 
 Also, two cultural "illnesses" are similar to personal cases *where flow is harder to achieve*:
-1. **Anomia** - when a culture "break" and there is no longer clear rules on how to act and what to expect [Ambiguity](/notes/ambiguity.md)
-2. **Alienation** - There is no meaning anymore in following the rules, they don't match the personal and societal goals, such as doing meaningless labor at the factory. [Alienation](/notes/alienation.md)
+1. **Anomia** - when a culture "break" and there is no longer clear rules on how to act and what to expect [Ambiguity is the absence of clarity in values or facts](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.md)
+2. **Alienation** - There is no meaning anymore in following the rules, they don't match the personal and societal goals, such as doing meaningless labor at the factory. [Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.md)
 
 the two personal problems are:
-1. **lack of focus** - if its hard to concentrate on a given thing, we would no longer be able to connect to the flow by understanding the goals and rules, since our attention would shift to different things. [Distractions](/notes/procrastination.md)
-2. **Self centered** - if we only focus on ourselves during the task, we will not achieve flow [Self Bias](/notes/self-bias.md)
+1. **lack of focus** - if its hard to concentrate on a given thing, we would no longer be able to connect to the flow by understanding the goals and rules, since our attention would shift to different things. [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md)
+2. **Self centered** - if we only focus on ourselves during the task, we will not achieve flow [Preferring personal benefits blinds us to others' perspectives](/notes/preferring-personal-benefits-blinds-us-to-others-perspectives.md)
 
 :::note[THE CONDITIONS OF FLOW]
 
@@ -183,7 +211,7 @@ We can and should treat our body and our physical activities with the same minds
 
 ### Work as Flow
 
-work is the place where we can grow the most, since it is the closest and easiest place to generate flow experiences, in contrast with our leisure time which is unstructured and tend to be of low quality. **The key is to turn work from something boring, that promotes foreign goals, the sense of alienation from work, to something enjoyable and an opportunity to grow** [job crafting](/notes/job-crafting.md).
+work is the place where we can grow the most, since it is the closest and easiest place to generate flow experiences, in contrast with our leisure time which is unstructured and tend to be of low quality. **The key is to turn work from something boring, that promotes foreign goals, the sense of alienation from work, to something enjoyable and an opportunity to grow** [Finding meaning in work increases fulfillment and resilience](/notes/finding-meaning-in-work-increases-fulfillment-and-resilience.md).
 
 :::note[WORK AS FLOW]
 
@@ -197,7 +225,7 @@ work is the place where we can grow the most, since it is the closest and easies
 
 ### Enjoying Solitude and Other People
 
-relationships are key to our quality of life, but we most also be able to withstand moments of [Solitude](/notes/solitude.md). **it is within these moments where we are tested, whether we are able to turn them into worthwhile activities, or whether we are drawn towards chaos and escapism**, by watching the tv for example.
+relationships are key to our quality of life, but we most also be able to withstand moments of [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md). **it is within these moments where we are tested, whether we are able to turn them into worthwhile activities, or whether we are drawn towards chaos and escapism**, by watching the tv for example.
 
 the key to being a good friend, parent or partner, is to **treat those relationships as potential flow experiences**. Introduce new challenges and opportunities to grow and learn, look for feedback and set goals.
 
@@ -217,11 +245,11 @@ the key to being a good friend, parent or partner, is to **treat those relations
 
 ### Cheating Chaos
 
-to avoid the chaos and negative effects of the outside world that will surly come [External Influence](/notes/external-influence.md), one must become a autotelic person, which is a person with inner intrinsic goals.
+to avoid the chaos and negative effects of the outside world that will surly come [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md), one must become a autotelic person, which is a person with inner intrinsic goals.
 to do that, one must:
-1. **Transform emotions** - use [Emotional Aikido](/notes/emotional-aikido.md), turn negative situations to a force for improvement
+1. **Transform emotions** - use [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md), turn negative situations to a force for improvement
 2. **Immersion** - immerse yourself in the environment, learn the situation instead of being focused on you
-3. **Reflect** - take a moment to look for new solutions to the problem. [Critical Thinking](/notes/critical-thinking.md)
+3. **Reflect** - take a moment to look for new solutions to the problem. [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md)
 
 :::note[CHEATING CHAOS]
 
@@ -239,13 +267,13 @@ to do that, one must:
 
 **Meaning is our unified purpose, what gives us motivation and reason for action**. It is the underlying narrative of all our flow experiences.
 
-Usually, a sense of meaning involves a process of inner development, similar to [Maslows pyramid](/notes/maslows-pyramid.md), from focusing on basic physical needs, to our community, self actualization, and a sense of [Oneness](/notes/unity.md) with the world.
+Usually, a sense of meaning involves a process of inner development, similar to [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md), from focusing on basic physical needs, to our community, self actualization, and a sense of [Oneness](/notes/unity-is-the-felt-sense-of-connection-with-others-and-the-world.md) with the world.
 
 **Such a sense can only be achieved by practicing self knowledge and action**. Action without thought is blind, and self reflection alone is futile. We must be a combination of both.
-Since it is possible that a meaning won't necessarily be moral, we also have to tend to our virtues. [to be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md)
+Since it is possible that a meaning won't necessarily be moral, we also have to tend to our virtues. [To be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md)
 A good meaning comes from within, and not determined by external factors, usually from a place of struggle or important challenge you experienced. [Meaning is Crafted](/notes/meaning-is-crafted.md)
 
-Meaning will give order to the mind, countering the external chaos, and combat the problems of freedom and [Complexity](/notes/complexity.md) of the human experience. [Absurdity of existence](/notes/absurdity-of-existence.md)
+Meaning will give order to the mind, countering the external chaos, and combat the problems of freedom and [Complexity](/notes/complexity.md) of the human experience. [Life has no predefined meaning we can discover](/notes/life-has-no-predefined-meaning-we-can-discover.md)
 
 :::note[THE MAKING OF MEANING]
 

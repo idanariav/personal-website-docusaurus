@@ -1,13 +1,13 @@
 ---
 UUID: 20240220083759
 Created: '2024-02-20 08:37'
-Modified: '2026-04-09 16:58'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Utility
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   suggesting actions with zero utility are indifferent, while highlighting
   challenges in measuring subjective happiness across individuals.
 new_schema: true
+Topic:
+  - '[[Value and Meaning]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ A [hedonistic](/notes/pleasure-and-pain-are-the-only-measures-of-good.md) flair 
 ## Visual
 
 ![Utility](/notes/utility.webp)
-
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-↩️Origin::
-🔗Link::
-

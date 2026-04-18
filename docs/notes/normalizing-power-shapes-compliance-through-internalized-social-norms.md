@@ -1,19 +1,23 @@
 ---
 UUID: 20230314192648
 Created: '2023-03-14 19:26'
-Modified: '2026-04-10 14:17'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Soft power
 Description: >-
   A form of influence that shapes societal beliefs and behaviors through
   cultural norms and narratives, rather than through coercion or force.
 new_schema: true
+Topic:
+  - '[[Political Power and Norms]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,12 +53,3 @@ For example, an influencer that uses the word "slay" a lot in an attractive way 
 ## Visual
 
 ![Soft power](/notes/soft-power.webp)
-
-## Overview
-🔼Topic:: [Political Power and Norms](/notes/political-power-and-norms.md)
-Source:: [Michel Foucault](/notes/michel-foucault.md)
-Source:: [Antonio Gramsci](/notes/antonio-gramsci.md)
-Source:: [Philosophize This!](/notes/philosophize-this.md)  
-Link:: https://share.snipd.com/episode/d26da823-df0a-4809-8177-adf990aa4f99
-Link:: https://share.snipd.com/episode/ad9847b4-5cfe-4839-8372-1e6f7ca855e6
-

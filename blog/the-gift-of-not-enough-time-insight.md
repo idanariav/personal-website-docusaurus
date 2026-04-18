@@ -35,7 +35,7 @@ We constantly wish for more time while dreading life's ultimate deadline. But wh
 
 ![The Gift of Not Enough Time (insight).webp](/posts/the-gift-of-not-enough-time-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 We spend our lives asking for more time. As kids, it’s “five more minutes.” As adults, a few more hours to reach our goals. As parents, a few more years before our children grow up.
 

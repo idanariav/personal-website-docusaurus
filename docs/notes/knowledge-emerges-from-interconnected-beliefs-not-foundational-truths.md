@@ -1,13 +1,13 @@
 ---
 UUID: 20240525093537
 Created: '2024-05-25 09:35'
-Modified: '2026-04-10 06:09'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Knowledge emerges from interconnected beliefs not foundational truths.png]]'
 ImageText: A network of colorful interconnected circles forming a web structure
 Description: >-
@@ -19,6 +19,10 @@ aliases:
   - Connection Making
   - Networks
 new_schema: true
+Topic:
+  - '[[Foundations of Knowledge]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ However, this feat also demonstrates our potential for [creativity](/notes/exami
 ## Visual
 
 ![Knowledge emerges from interconnected beliefs not foundational truths](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.webp)
-
-## Overview
-🔼Topic:: [Foundations of Knowledge](/notes/foundations-of-knowledge.md)
-↩️Origin::
-🔗Link::
-

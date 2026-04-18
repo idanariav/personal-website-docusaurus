@@ -1,13 +1,13 @@
 ---
 UUID: 20230825155721
 Created: '2023-08-25 15:57'
-Modified: '2026-04-09 08:42'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Growth requires challenges
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   requiring grit and deliberate practice to internalize knowledge meaningfully
   and avoid shallow understanding.
 new_schema: true
+Topic:
+  - '[[Active Learning and Deep Encoding]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,8 +60,3 @@ While [Mental shortcuts enable faster learning through analogies and simplificat
 ## Visual
 
 ![learning should be hard](/notes/learning-should-be-hard.webp)
-## Overview
-🔼Topic:: [Active Learning and Deep Encoding](/notes/active-learning-and-deep-encoding.md)
-Origin::
-🔗Link::
-

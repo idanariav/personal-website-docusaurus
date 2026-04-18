@@ -1,12 +1,12 @@
 ---
 UUID: 20230412072225
 Created: '2023-04-12 07:22'
-Modified: '2026-04-09 17:02'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 6
+Version: 7
 Image: '[[Clear direction matters more than speed of progress.png]]'
 ImageText: A person running in a hamster wheel vs a person climbing a mountain
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Goal Setting
   - Essential Intent
 new_schema: true
+Topic:
+  - '[[Value and Meaning]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -60,10 +64,3 @@ And it is unclear how and if the two should mix. What is more beneficial? Settin
 ## Visual
 
 ![Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.webp)
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-◀Origin::
-🔗Link::
-

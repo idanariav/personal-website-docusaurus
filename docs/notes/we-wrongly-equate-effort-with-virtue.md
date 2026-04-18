@@ -1,13 +1,13 @@
 ---
 UUID: 20250823203132
 Created: '2025-08-23 20:31'
-Modified: '2026-04-03 18:12'
+Modified: '2026-04-11 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - No pain no gain
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   struggle, often leading to misguided focus on effort rather than actual
   progress or outcomes.
 new_schema: true
+Topic:
+  - '[[Acceptance and Effortless Action]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,9 +52,3 @@ The problem is that it often leads us to [Goodhart's Law](/notes/goodharts-law.m
 ## Visual
 
 ![No pain no gain](/notes/no-pain-no-gain.webp)
-
-## Overview
-🔼Topic:: [Acceptance and Effortless Action](/notes/acceptance-and-effortless-action.md)
-↩️Origin::
-🔗Link::
-

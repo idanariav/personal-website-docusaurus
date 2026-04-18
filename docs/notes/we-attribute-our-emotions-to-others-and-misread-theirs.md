@@ -1,13 +1,13 @@
 ---
 UUID: 20240122064825
 Created: '2024-01-22 06:48'
-Modified: '2026-04-08 13:46'
+Modified: '2026-04-11 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[We attribute our emotions to others and misread theirs.png]]'
 ImageText: An angry person saying to a calm person that he looks angry
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Emotional Projection
 new_schema: true
+Topic:
+  - '[[Attribution Bias]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ Venting is proven to be more harmful than good. When we express our anger, it do
 ## Visual
 
 ![We attribute our emotions to others and misread theirs](/notes/we-attribute-our-emotions-to-others-and-misread-theirs.webp)
-
-## Overview
-🔼Topic:: [Attribution Bias](/notes/attribution-bias.md)
-↩️Origin::
-🔗Link::
-

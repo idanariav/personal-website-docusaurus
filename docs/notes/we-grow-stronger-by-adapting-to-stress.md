@@ -1,13 +1,13 @@
 ---
 UUID: 20250226205700
 Created: '2025-02-26 20:57'
-Modified: '2026-04-08 13:49'
+Modified: '2026-04-11 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[We grow stronger by adapting to stress.png]]'
 ImageText: >-
   A balancing scale, with muscles on one side with a pump and weights on the
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Allostasis
 new_schema: true
+Topic:
+  - '[[Growth Through Adversity]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,8 +60,3 @@ This is contrary to [Homeostasis](/notes/optimal-outcomes-emerge-from-balance-be
 ## Visual
 
 ![We grow stronger by adapting to stress](/notes/we-grow-stronger-by-adapting-to-stress.webp)
-## Overview
-🔼Topic:: [Growth Through Adversity](/notes/growth-through-adversity.md)
-↩️Origin::
-🔗Link::
-

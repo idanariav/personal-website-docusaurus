@@ -1,13 +1,13 @@
 ---
 UUID: 20241101154529
 Created: '2024-11-01 15:45'
-Modified: '2026-04-09 08:47'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Unfinished tasks linger in the mind and reduce focus.png]]'
 ImageText: Three bars divided into sections
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Attention Residue
   - Zeigarnik effect
 new_schema: true
+Topic:
+  - '[[Working Memory and Cognitive Limits]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,8 +57,3 @@ Some claim that it can be used for our benefit. Deliberately leaving creative ta
 ## Visual
 
 ![Unfinished tasks linger in the mind and reduce focus](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.webp)
-## Overview
-🔼Topic:: [Working Memory and Cognitive Limits](/notes/working-memory-and-cognitive-limits.md)
-↩️Origin::
-🔗Link::
-

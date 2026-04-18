@@ -1,13 +1,13 @@
 ---
 UUID: 20230404191941
 Created: '2023-04-04 19:19'
-Modified: '2026-04-10 16:36'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Maslows pyramid
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   needs must be met before pursuing higher goals like self-actualization and
   psychological well-being.
 new_schema: true
+Topic:
+  - '[[Happiness (Nature and Sources)]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -52,8 +56,3 @@ However, while it is not impossible to achieve a higher level before completing 
 ## Visual
 
 ![Maslows pyramid](/notes/maslows-pyramid.webp)
-
-## Overview
-🔼Topic:: [Happiness (Nature and Sources)](/notes/happiness-nature-and-sources.md)
-◀Origin::
-🔗Link::

@@ -1,20 +1,23 @@
 ---
 UUID: 20230204080817
 Created: '2023-02-04 08:08'
-Modified: '2025-03-28 17:12'
+Modified: '2026-04-15 06:58'
 tags: []
 Author:
   - '[[Carl T. Bergstrom]]'
   - '[[Jevin D. West]]'
 Genre: Political Science
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 7
 Pages: 336
 Rate: 5
 PublishDate: 2020-08-04T00:00:00.000Z
@@ -22,6 +25,19 @@ FinishDate: 2023-02-04T00:00:00.000Z
 Cover: >-
   http://books.google.com/books/content?id=Plu9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/48889983-calling-bullshit'
+Description: >-
+  It argues that the proliferation of unverified data in the attention economy
+  fosters misinformation. Familiarity with statistical concepts is essential for
+  identifying misleading information. Combating this challenge requires humility
+  and compassion, as refuting false claims is often more difficult than
+  generating them.
+FullTitle: Calling Bullshit - The Art of Skepticism in a Data-Driven World
+StartDate: 2023-01-20T00:00:00.000Z
+ASIN: B08191DV5T
+Reread: 0
+Topic:
+  - '[[Communication (Map)]]'
+  - '[[Statistics (Map)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -30,22 +46,30 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Communication (Map)](/mocs/communication-map.md)
-⬆️Topic:: [Statistics (Map)](/mocs/statistics-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Bullshit is everywhere** - Due to the rise of the attention economy, and the decentralization of communication, the amount of unverified data has exploded in recent years, which reduces the chances for verification while increasing the incentives for misleading data.
 2. **Statistics for all** - One of the best ways to identify bullshit is to be familiar with statistical concepts. Things like selection bias, garbage in garbage out, correlation vs causation, and misrepresentation of data are all examples of ways data can mislead us, either intentional or unintentional. If it's too good to be true, or no source included, it's probably false.
 3. **Combating bullshit** - it's hard to refute bullshit because it is easier to generate it than to prove it false. While it is a difficult task, we have to approach it none the less. If it is on social media, try to point out it's flaws. If it is a more personal setting, be humble, compassionate, and remember that you might be wrong too.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Check the source** - habitually verify who is sending a claim, how they know it, and what they’re trying to sell before accepting or sharing information.
+2. **Dig into the data sources** - habitually trace reported figures back to their original data and labels to detect biased inputs or flawed sampling.
+3. **Look for selection bias** - habitually ask whether the sample represents the population, whether the act of sampling introduced bias, or whether cases were censored or filtered.
+4. **Ask about causality, not just correlation** - habitually question whether a reported correlation could be A→B, B→A, C→A&B, random noise, or another mechanism before inferring cause.
+5. **Demand context and fair comparisons for numbers** - habitually seek denominators, variance, comparison groups, and clear units (percentage vs percentage points) whenever you see statistics.
+6. **Inspect data visualizations critically** - habitually check axes, scale, bin sizes, proportional ink, and look for distracting “ducks” or manipulated chart baselines.
+7. **Use rough Fermi estimates to sanity-check claims** - habitually perform order-of-magnitude, back-of-envelope checks to spot extreme or implausible results.
+8. **Avoid confirmation bias** - habitually test alternative hypotheses and actively look for evidence that could disprove your favored interpretation.
+9. **Question machine-learning claims about training data** - habitually ask where training data came from, who labeled it, how representative it is, and whether bias or overfitting is possible.
+10. **Call out bullshit compassionately, humbly, and clearly** - habitually address misleading claims one-on-one, be open to being wrong, and explain errors simply (use reductio ad absurdum, redraw charts, or give counterexamples).
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 This book is a must for any content consumer in our digital age, which is basically everyone. The book is a perfect combination between the general theory, what to look for, how to debunk it, and how to do so in a human matter.
@@ -56,22 +80,22 @@ Even as a data analyst, who deals with messages, visualization, and hypothesis t
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
-### 🖼️Outline
+### Outline
 
-![Calling Bullshit (book).webp](/books/calling-bullshit-book.webp)
-## 📒 Notes
+![Calling Bullshit (book)](/books/calling-bullshit-book.webp)
+## Notes
 
 ### Intro
 
 Bullshit is everywhere, and it has evolved to using math and statistic to rob us of ways to combat it, since in order to object to bullshit, you need:
-1. [Critical Thinking](/notes/critical-thinking.md) - usually stems from humanities - philosophy, law, politics
+1. [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md) - usually stems from humanities - philosophy, law, politics
 2. **statistical knowledge** - usually comes from STEM subjects.
 
-**since most people don't have both, we are left defenseless from others who are trying to trick us**
+**since most people don't have both, we are left defenseless from others who are trying to trick us** [critical thinking and knowledge protect from manipulation](/notes/critical-thinking-and-knowledge-protect-from-manipulation.md)
 
 :::note[PREFACE]
 
@@ -84,15 +108,15 @@ Bullshit is everywhere, and it has evolved to using math and statistic to rob us
 ### Chapter 1 - Bullshit is Everywhere
 
 lying has a strong negative implication, you might be hurt, outcasted, or lose your trust if caught lying.
-**Bullshiting, however, is a form of using the gap between the literal meaning of words, and the context or implication of words to mislead or hide the truth** [Semantics of words](/notes/semantics-of-words.md). In those cases, you can also fall back to saying that technically what you said is true, so you shouldn't be blamed.
-for example: saying "john doesn't use heroine at work" is something that literally is true, and john wouldn't want to claim otherwise, but the [Context](/notes/context.md) is implying that john is a heroine user in general.
-Also, to be an effective bullshiter, you must have a [Theory of Mind](/notes/theory-of-mind.md), understand how others view the world, what they care about, and how can they be triggered.
+**Bullshiting, however, is a form of using the gap between the literal meaning of words, and the context or implication of words to mislead or hide the truth** [Word meaning varies with history and social context](/notes/word-meaning-varies-with-history-and-social-context.md). In those cases, you can also fall back to saying that technically what you said is true, so you shouldn't be blamed.
+for example: saying "john doesn't use heroine at work" is something that literally is true, and john wouldn't want to claim otherwise, but the [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md) is implying that john is a heroine user in general.
+Also, to be an effective bullshiter, you must have a [Understanding others requires attributing mental states like beliefs and intentions to them](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md), understand how others view the world, what they care about, and how can they be triggered.
 **Communication is therefore a two way sword. It enables great feats of cooperation, but also deception.**
 
 the main problems with bullshit are:
 1. its harder to clean than to produce
 2. it speared faster than you can combat it
-3. it takes less intelligence to produce it
+3. it takes less intelligence to produce it [Misinformation is easier to produce than to correct](/notes/misinformation-is-easier-to-produce-than-to-correct.md)
 
 :::note[Bullshit Everywhere]
 
@@ -108,9 +132,9 @@ the main problems with bullshit are:
 
 dangers of misconception has always existed, even during the rise of the print press people feared the spread of misinformation, but the internet has magnified that fear, by:
 1. **complete democratization of distributing information** - anyone can be a publisher of information, with complete access to everyone in the world, without having to go through any sort of education/regulation. [decentralization](/notes/decentralization.md)
-2. **Advertising incentives are stronger than truth** - in the past, people paid subscriptions to news medias, which created a dependency of accuracy and trust to keep that connection alive. Today sites are driven by advertisements and not subscriptions, which changes the incentives to make you click, now, whatever the cause may be, without any thoughts about long term, so no considerations of accuracy. Headlines today are trying to make you feel something, instead of knowing something. [Incentives](/notes/incentives.md) [Attention Economy](/notes/attention-economy.md)
-3. **Creation of eco chambers** - media outlets have been sorted into eco chambers based on political views, which increase the gap and intensity of those beliefs, and decreases the levels of stable communication between groups. [us vs them](/notes/us-vs-them.md)
-4. **social acceptance** - activity on social media is more an act of belonging to a group, rather than delivering information. Therefore we will tend to present stories that match our beliefs, rather than criticize misinformation shared by our peers. [Herd Mentality](/notes/social-environment.md)
+2. **Advertising incentives are stronger than truth** - in the past, people paid subscriptions to news medias, which created a dependency of accuracy and trust to keep that connection alive. Today sites are driven by advertisements and not subscriptions, which changes the incentives to make you click, now, whatever the cause may be, without any thoughts about long term, so no considerations of accuracy. Headlines today are trying to make you feel something, instead of knowing something. [Incentives shape behavior by making certain actions more attractive](/notes/incentives-shape-behavior-by-making-certain-actions-more-attractive.md) [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md)
+3. **Creation of eco chambers** - media outlets have been sorted into eco chambers based on political views, which increase the gap and intensity of those beliefs, and decreases the levels of stable communication between groups. [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md)
+4. **social acceptance** - activity on social media is more an act of belonging to a group, rather than delivering information. Therefore we will tend to present stories that match our beliefs, rather than criticize misinformation shared by our peers. [Herd Mentality](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 
 :::note[Medium, Message, and Misinformation]
 
@@ -126,7 +150,7 @@ dangers of misconception has always existed, even during the rise of the print p
 
 ### Chapter 3 - what is Bullshit
 
-A particular aspect of bullshit is the "black box", more relevant in cases where bullshitting involves data. The mechanism that generates the bullshit might sometimes be so complicated that its hard to refute. However, **in many cases we can identify the bullshit by digging dip to the sources of the data**. As the saying goes - [Garbage in garbage out](/notes/garbage-in-garbage-out.md), **sometimes bullshit is nothing more than an honest attempt to convey information that is built on wrong assumptions / its data includes biases**.
+A particular aspect of bullshit is the "black box", more relevant in cases where bullshitting involves data. The mechanism that generates the bullshit might sometimes be so complicated that its hard to refute. However, **in many cases we can identify the bullshit by digging dip to the sources of the data**. As the saying goes - [Output quality depends on input quality](/notes/output-quality-depends-on-input-quality.md), **sometimes bullshit is nothing more than an honest attempt to convey information that is built on wrong assumptions / its data includes biases**.
 for example, a research that tries to identify criminals, was based on some metrics involved in smiling. However, it appears that the research was founded on personal photos of non criminal, and ID photos of criminal, where they are more likely to not smile. This error in the training data can lead to bad results in the model.
 
 :::note[The Nature of Bullshit]
@@ -161,10 +185,10 @@ we tend to see numbers as absolute truths, but even if we are presented with the
 
 when numbers are misleading
 1. **the data is based on a biased input** (using only basketball players to measure population height)
-2. **Aggregate measures hide variance** - using average effect usually hides the extreme effects on both ends (like a tax cut for the rich that "on average" will save each family x dollars)
+2. **Aggregate measures hide variance** - using average effect usually hides the extreme effects on both ends (like a tax cut for the rich that "on average" will save each family x dollars) [Aggregate measures conceal variance and extreme effects](/notes/aggregate-measures-conceal-variance-and-extreme-effects.md)
 3. **numbers without a comparison group** - x people who did y have committed crimes. what is the ratio of that group? what is a ratio for people who didn't do y?
 4. **percentage vs percentage points** - change is more extreme in small numbers, also percentages sometimes hide the "true story" within the denominator, or complications with negative numbers
-5. **Goodharts law** - if its a metric, it has probably became a bad measure since people are trying to trick the system. [Goodhart’s Law](/notes/goodhart’s-law.md)
+5. **Goodharts law** - if its a metric, it has probably became a bad measure since people are trying to trick the system. [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md)
 6. **"mathiness"** - equations that look like math (trust * fun / arguments = love), but are essentially meaningless. Its not clear why they chose this type of formula over others. Also - how do you quantify those things? what is the unit of measure? and how do they interact?
 7. **zombie statistics** - outdated and possibly false statistics with no source that keeps on getting cited
 
@@ -181,10 +205,10 @@ when numbers are misleading
 
 ### Chapter 6 - Selection Bias
 
-[Selection Bias](/notes/selection-bias.md) is an essential problem in statistics. **Since we can never survey the entire population, we have to rely on samples that represent the general population**, however selection bias can often happen when:
+[Biased inputs produce biased conclusions](/notes/biased-inputs-produce-biased-conclusions.md) is an essential problem in statistics. **Since we can never survey the entire population, we have to rely on samples that represent the general population**, however selection bias can often happen when:
 1. **The sample isn't a random representation** of society - asking only people in a gun convention what are their opinions on gun control
 2. **The sampling itself might add bias** - like asking people how often they cheat on tests, they will give a dishonest answer
-3. **The sampling processed is biased** - surveying people by using smartphones will necessarily lead to mis-representation of communities that don't use smartphones. or [Survivors Bias](/notes/survivors-bias.md), checking only planes that returned to see where they are damaged.
+3. **The sampling processed is biased** - surveying people by using smartphones will necessarily lead to mis-representation of communities that don't use smartphones. or [We draw conclusions only from what survived](/notes/we-draw-conclusions-only-from-what-survived.md), checking only planes that returned to see where they are damaged.
 
 :::note[Selection Bias]
 
@@ -206,7 +230,7 @@ meaning - on the general population, there is no connection between the two,
 however, when you filter our people who you will never date, and people who will never date you, you are left with a narrow part of population that is neither perfect nor "the worst", so a certain trade off between qualities is expected. its called the [Berkson's paradox](/notes/berksons-paradox.md).
 This trade-off means that you get a fake correlation between the two (look at the following blue section within the chart, which is negatively correlated)
 
-![Berkson's paradox.webp](/notes/berksons-paradox.webp)
+![Berkson's paradox](/notes/berksons-paradox.webp)
 
 ### Chapter 7 - Data Visualization
 
@@ -234,9 +258,9 @@ we should be aware of:
 [Machine Learning](/notes/machine-learning.md)
 common problems with the results of an ML model:
 1. **GIGO (garbage in, garbage out)** - the model is only as good as it's training data.
-2. **Overfitting** - complicated models that learn "too much" would treat random noise as relevant, which will make them worse on the test data. [Overfitting](/notes/overfitting.md)
+2. **Overfitting** - complicated models that learn "too much" would treat random noise as relevant, which will make them worse on the test data. [Too much complexity makes models worse on new data](/notes/too-much-complexity-makes-models-worse-on-new-data.md)
 3. **Dimensionality** - the more features you use, the likelier that a combination will have a correlation by random change. Therefore you need increasingly more data.
-4. **Bias inheritance** - the model will try to make sense of all that its given. If the original data includes a bias, the model could treat it as relevant. such as racial profiling. Similarly, the model could use features we didn't thought would be relevant, like looking at the background of the photo when analyzing pictures. [AI alignment problem](/notes/ai-ethics.md)
+4. **Bias inheritance** - the model will try to make sense of all that its given. If the original data includes a bias, the model could treat it as relevant. such as racial profiling. Similarly, the model could use features we didn't thought would be relevant, like looking at the background of the photo when analyzing pictures. [AI alignment problem](/notes/ai-alignment-is-inherently-difficult.md)
 
 :::note[Calling Bullshit on Big Data]
 
@@ -263,7 +287,7 @@ P(innocent | match) = 1/6, vs P(match | Innocent) = 1/10000000.
 How can we be certain the a result of a study is correct?
 the main way of doing that is by using (Related: [P Value](/notes/p-value.md)).
 In a perfect world, we would have the ability to deductively find the probability of the existence of the phenomenon that we are testing. However, **science works by induction, not deduction. Everything is plausible until proven false.**
-The [scientific method](/notes/scientific-method.md) works by using [Hypothesis Testing](/notes/hypothesis-testing.md), which is setting up a null hypothesis - the phenomenon doesn't exist, and if the results are good enough we can reject that hypothesis. But we can never deduct that the alternative is true.
+The [Empirical testing not reason alone discovers truth](/notes/empirical-testing-not-reason-alone-discovers-truth.md) works by using [Hypothesis Testing](/notes/hypothesis-testing.md), which is setting up a null hypothesis - the phenomenon doesn't exist, and if the results are good enough we can reject that hypothesis. But we can never deduct that the alternative is true.
 P-values shows us what is the probability of us getting these extreme results by chance. Extreme = the difference our phenomenon makes, for example the difference in treatment days in comparing those who received the cure and those who didn't.
 So a p-value of 5% means that on 5% of the cases we will get a *false positive*.
 
@@ -271,7 +295,7 @@ Some researches tend to do *P-hacking* in order to publish their findings and im
 You can be p-hack by Adjusting your data, selecting specific samples in order to generate the phenomenon you want to see. For example choosing only the healthiest patients who got the cure, vs the worst from those who didn't.
 
 all in all, a scientific paper might be misleading due to:
-1. **p-hacking** - since scientists won't publish a negative result
+1. **p-hacking** - since scientists won't publish a negative result [Publication bias skews scientific knowledge toward positive results](/notes/publication-bias-skews-scientific-knowledge-toward-positive-results.md)
 2. **click-baiting** - news outlets converting scientific proof into click-bait
 3. **random chance** - you can always get false positives (5% p-value means that 5% of the results are false positives), so out of 100 researches, 5 of them will be false simply by chance.
 
@@ -294,7 +318,7 @@ all in all, a scientific paper might be misleading due to:
 2. **Unfair comparisons** - beware of unfair comparisons, like saying that half of all COVID hospitalizations are for immunized people. (While ignoring the fact that they make up over 90% of the population)
 3. **flattering results** - if it's too good to be true, it is possible is
 4. **extreme results** - using *Fermi estimations*, which are educated guesses by factors of 10 (1/10/100 percent or 1/10/100 million, etc) will enable us to get rough estimates enough to spot bullshit even if we are not fully knowledgeable about the subject.
-5. **avoid** [Conformation Bias](/notes/conformation-bias.md)
+5. **avoid** [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md)
 6. **test different hypothesis** - what if the cause of the effect shown is completely different than what is mentioned
 
 :::note[Spotting Bullshit]
@@ -314,9 +338,9 @@ methods to use for calling out bullshit
 4. **find better analogies**
 
 also, remember that calling out bullshit is not done in a vacuum, it is not a contest between computers, humans are involved so:
-1. **be compassionate** - if it is a friend or colleague, don't humiliate in public. talk to him 1 on 1, try to understand him and explain where he is wrong [positive language](/notes/positive-language.md)
-2. **be humble** - remember that either you or him might be wrong, so assume that the [Debate](/notes/debate.md) is not a "clear cut" case [Hanlon's Razor](/notes/hanlons-razor.md) [Humility](/notes/humility.md)
-3. **be clear** - speak to the point, don't try to assert dominance by overflowing the opponent with information, be direct and keep it simple. [Simplicity](/notes/simplicity.md)
+1. **be compassionate** - if it is a friend or colleague, don't humiliate in public. talk to him 1 on 1, try to understand him and explain where he is wrong [Empowering language builds confidence and agency](/notes/empowering-language-builds-confidence-and-agency.md)
+2. **be humble** - remember that either you or him might be wrong, so assume that the [Debate treats disagreement as a zero-sum game](/notes/debate-treats-disagreement-as-a-zero-sum-game.md) is not a "clear cut" case [Avoid attributing malice when ignorance or circumstance explains action](/notes/avoid-attributing-malice-when-ignorance-or-circumstance-explains-action.md) [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md)
+3. **be clear** - speak to the point, don't try to assert dominance by overflowing the opponent with information, be direct and keep it simple. [Distilling to essentials creates clarity and actionability](/notes/distilling-to-essentials-creates-clarity-and-actionability.md)
 
 :::note[Refuting Bullshit]
 

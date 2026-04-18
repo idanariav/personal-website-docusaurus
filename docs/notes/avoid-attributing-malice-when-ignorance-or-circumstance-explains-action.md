@@ -1,13 +1,13 @@
 ---
 UUID: 20240409081735
 Created: '2024-04-09 08:17'
-Modified: '2026-03-11 17:30'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Avoid attributing malice when ignorance or circumstance explains
   action.png]]
@@ -22,6 +22,10 @@ aliases:
   - Don't assign malice when ignorance fits better
   - Hanlans razor
 new_schema: true
+Topic:
+  - '[[Heuristics]]'
+Origin: '[[The Curiosity Chronicle by Sahil Bloom]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -32,7 +36,7 @@ SiteProcssed: true
 
 ### Claim
 
-Don't attribute to malice what can be explained by ignorance, naivety, or lack of attention [Distractions](/notes/distraction.md) [Insight Gap](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md).
+Don't attribute to malice what can be explained by ignorance, naivety, or lack of attention [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) [Insight Gap](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md).
 
 ### Explanation
 
@@ -53,8 +57,3 @@ A slightly more [optimist](/notes/optimism-is-choosing-to-believe-outcomes-can-i
 ## Visual
 
 ![Avoid attributing malice when ignorance or circumstance explains action](/notes/avoid-attributing-malice-when-ignorance-or-circumstance-explains-action.webp)
-
-## Overview
-🔼Topic:: [Heuristics](/notes/heuristics.md)
-↩️Origin:: [The Curiosity Chronicle by Sahil Bloom](/notes/the-curiosity-chronicle-by-sahil-bloom.md)
-🔗Link::

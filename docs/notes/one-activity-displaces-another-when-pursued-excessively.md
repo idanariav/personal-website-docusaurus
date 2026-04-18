@@ -1,13 +1,13 @@
 ---
 UUID: 20240101081952
 Created: '2024-01-01 08:19'
-Modified: '2026-04-04 10:58'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[One activity displaces another when pursued excessively.png]]'
 ImageText: >-
   A balance scale showing green circles for internal motivation tipping one way
@@ -21,6 +21,11 @@ aliases:
   - Crowding Out
   - Mutually Exclusive
 new_schema: true
+Topic:
+  - '[[Environment and Behavior]]'
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -63,10 +68,3 @@ In economics, this is often referred to cases where the more the government inve
 ## Visual
 
 ![One activity displaces another when pursued excessively](/notes/one-activity-displaces-another-when-pursued-excessively.webp)
-
-## Overview
-🔼Topic:: [Environment and Behavior](/notes/environment-and-behavior.md)
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-↩️Origin::
-🔗Link::
-

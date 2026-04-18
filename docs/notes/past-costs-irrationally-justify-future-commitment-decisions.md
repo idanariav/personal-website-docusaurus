@@ -1,13 +1,13 @@
 ---
 UUID: 20230402184000
 Created: '2023-04-02 18:40'
-Modified: '2026-04-06 22:00'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Sunk Cost
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   course of action, despite evidence suggesting that discontinuing would be more
   beneficial.
 new_schema: true
+Topic:
+  - '[[Decision Traps and Biases]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ It takes [Humility is acknowledging limits of knowledge and fallibility](/notes/
 ## Visual
 
 ![Sunk Cost](/notes/sunk-cost.webp)
-
-## Overview
-🔼Topic:: [Decision Traps and Biases](/notes/decision-traps-and-biases.md)
-◀Origin::
-🔗Link::
-

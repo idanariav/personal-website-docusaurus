@@ -1,13 +1,13 @@
 ---
 UUID: 20230708065032
 Created: '2023-07-08 06:50'
-Modified: '2026-04-09 08:45'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Breaking complex topics into smaller units improves learning and
   mastery.png]]
@@ -21,6 +21,10 @@ Description: >-
 aliases:
   - Chunking
 new_schema: true
+Topic:
+  - '[[Knowledge Structure and Transfer]]'
+Origin: '[[Ultralearning (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -64,9 +68,3 @@ The disadvantage with chunking is that it's hard to learn or sense [emergent](/n
 ## Visual
 
 ![Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.webp)
-
-## Overview
-🔼Topic:: [Knowledge Structure and Transfer](/notes/knowledge-structure-and-transfer.md)
-◀Origin:: [Ultralearning (book)](/books/ultralearning-book.md)
-🔗Link::
-

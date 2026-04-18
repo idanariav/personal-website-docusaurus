@@ -39,7 +39,7 @@ The ways we label the world actually change how we perceive it. If our vocabular
 
 ![Expanding your world one word at a time (insight)](/blogs/expanding-your-world-one-word-at-a-time-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Thinking in Words
 

@@ -1,8 +1,8 @@
 ---
 UUID: 20230916081035
 Created: '2023-09-16 08:10'
-Modified: '2026-04-10 06:22'
-Version: 3
+Modified: '2026-04-11 22:23'
+Version: 4
 tags: []
 aliases: null
 Description: >-
@@ -10,6 +10,10 @@ Description: >-
   behavior, as knowledge alone does not improve one's moral character or
   decision-making.
 new_schema: true
+Topic:
+  - '[[Moral Psychology]]'
+Origin: '[[Sources/Books/Life 3.0 (book)|Life 3.0 (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -35,8 +39,3 @@ The best we can hope for when sticking with intelligence alone is a misguided [M
 ### Opposers
 
 ### Open questions
-
-## Overview
-🔼Topic:: [Moral Psychology](/notes/moral-psychology.md)
-Origin:: [Life 3.0 (book)](null)
-🔗Link:: 

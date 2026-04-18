@@ -1,13 +1,13 @@
 ---
 UUID: 20221104131338
 Created: '2022-11-04 13:13'
-Modified: '2026-04-10 14:07'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - our brain is meant for processing
 Description: >-
@@ -15,6 +15,12 @@ Description: >-
   but struggles with storing them, necessitating external systems for effective
   idea management.
 new_schema: true
+Topic:
+  - '[[Working Memory and Cognitive Limits]]'
+  - '[[Conditions for Creative Thinking]]'
+  - '[[Human Brain]]'
+Origin: '[[Getting Things Done (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,11 +55,3 @@ Therefore once we finished "processing" a thought, we should save it somewhere e
 ## Visual
 
 ![our mind is a processor and not a warehouse](/notes/our-mind-is-a-processor-and-not-a-warehouse.webp)
-
-## Overview
-🔼Topic:: [Working Memory and Cognitive Limits](/notes/working-memory-and-cognitive-limits.md)
-🔼Topic:: [Conditions for Creative Thinking](/notes/conditions-for-creative-thinking.md)
-🔼Topic:: [Human Brain](/notes/human-brain.md)
-◀Origin:: [Getting Things Done (book)](/books/getting-things-done-book.md)
-🔗Link::
-

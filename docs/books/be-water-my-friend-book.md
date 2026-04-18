@@ -1,19 +1,23 @@
 ---
 UUID: 20250506085115
 Created: '2025-05-06 08:51'
-Modified: '2025-06-05 08:54'
+Modified: '2026-04-13 06:11'
 tags: []
 Author:
   - '[[Shannon Lee]]'
 Genre: Philosophy
-Stored: kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 233
 Rate: 3
 PublishDate: 2020-10-08T00:00:00.000Z
@@ -21,6 +25,18 @@ FinishDate: 2025-06-03T00:00:00.000Z
 Cover: >-
   http://books.google.com/books/content?id=9uHTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/49247089-be-water-my-friend'
+Description: >-
+  It emphasizes the importance of adaptability and intuition in navigating
+  life's challenges. It advocates for a mindset of flexibility, mindfulness, and
+  connection to one's core values, promoting harmony with oneself and others
+  while rejecting adversarial thinking in favor of compassion and understanding.
+FullTitle: 'Be Water, My Friend - The True Teachings of Bruce Lee'
+StartDate: 2025-05-18T00:00:00.000Z
+ASIN: B082RTHHGM
+Reread: 0
+Topic:
+  - '[[Mindset (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -29,11 +45,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Mindset (Map)](/mocs/mindset-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Intercepting, not resisting** - true strength and effectiveness comes not from forcefully resisting the world or fighting it to submission. Strength is in flexibility, in finding the best path forward based on the circumstances, like water that don't resist, yet flow with such force that they will find a way forward. Like aikido, doing as little as possible, while achieving so much. A state of harmony within us and with the world around us. A sense of oneness.
 2. **Develop your intuition** - one can't choose the best response if they don't know what it is. We have to be mindful of our circumstances, to pay attention, to constantly learn, test and adapt such that we will know what the best response is in each situation
@@ -41,14 +53,26 @@ SiteProcssed: true
 4. **Connect with your resolve** - obstacles will come, we will experience pain and hardships. It is only through connecting with what brings us life, our values, our mission, what makes us curious and enthusiastic that will carry us through the storm
 5. **There are no opponents** - don't fall for win or lose mentality. Find the best way forward considering your strength and weaknesses, and of those around you. Remember that respect, kindness and compassion ripple and reflected back.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 1. Be more active and engaged in the world, escaping default thinking
 2. More effective in our actions, while also more flexible with our methods and mindset
 3. Achieving harmony within ourselves and with the world around us
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Practice attention** - daily notice external and internal states (self-awareness + intentionality) so you can see choices and pick the best response.
+2. **Cultivate flexibility** - each day practice adapting one reaction or plan when circumstances change instead of responding rigidly.
+3. **Empty your cup (meditate/observe thoughts)** - daily sit and notice thoughts and judgments without clinging, returning to calm quickly.
+4. **Take aim (write and review your mission)** - write a clear, actionable, measurable life mission and read/memorize it every day to re-energize purpose.
+5. **Take action (start small for momentum)** - commit to a tiny consistent step toward a goal each day to build momentum and avoid analysis paralysis.
+6. **Affirm core values and identity** - each morning review and state the person you wish to be (use reframing like adding “yet”).
+7. **Be symbolic** - create and place a physical symbol (memento, drawing, prayer) you see daily to remind and cement your commitment.
+8. **Journal for clarity** - write regularly about thoughts, experiences, emotions, and values to gain insight and guide change.
+9. **Get physical** - practice regular fitness to connect with your body and maintain harmony between body and mind.
+10. **Practice lifelong learning and introspection** - schedule frequent experiments/tests and self-reflection sessions to discover blind spots, accept useful lessons, and iterate on personal growth.
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -57,22 +81,22 @@ The whole philosophy is to flow with life, to find a way, your way of achieving 
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book inspired me to watch Bruce Lee movies, and it was wholesome and cool at times, but it was a bit lacking.
 
 Since it was written by his daughter, there were both holes in the philosophy, or sections without a deep explanation, and it was a bit over focused on the man himself as a sort of eulegy, which shouldn't be the point of the book, his philosophy is.
 
-### 🖼️Outline
+### Outline
 
-![Be Water My Friend (book).webp](/books/be-water-my-friend-book.webp)
+![Be Water My Friend (book)](/books/be-water-my-friend-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-As the daughter of Bruce Lee she wants to spread his philosophy, about [Emotional Resilience](/notes/emotional-resilience.md) is a matter of [Flexability](/notes/adaptability.md). Of being like water, soft yet powerful, adaptive and consistent [balance extremes](/notes/balance-extremes.md).
+As the daughter of Bruce Lee she wants to spread his philosophy, about [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md) is a matter of [Flexability](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md). Of being like water, soft yet powerful, adaptive and consistent [Optimal outcomes emerge from balance between extremes not absolutes](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md).
 
 :::note[Introduction]
 
@@ -85,19 +109,19 @@ As the daughter of Bruce Lee she wants to spread his philosophy, about [Emotiona
 
 ### The Water way
 
-Water is both unstoppable, yet it doesn't resist, it [flows](/notes/life-as-flow.md), it finds its way around, the way of least resistance to complete its goals [Friction](/notes/friction.md). **By not resisting (or not "doing"), it is the most powerful thing there is** [Wu wei](/notes/wu-wei.md). It creates canyons, uses the smallest holes to continue its journey, and fits into every container.
+Water is both unstoppable, yet it doesn't resist, it [flows](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md), it finds its way around, the way of least resistance to complete its goals [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md). **By not resisting (or not "doing"), it is the most powerful thing there is** [Achieve more by not resisting](/notes/achieve-more-by-not-resisting.md). It creates canyons, uses the smallest holes to continue its journey, and fits into every container.
 
 How can we be like water?
 
-First you must have *attention*, which is the combination of [Self-awareness](/notes/self-awareness.md) and [mindfulness](/notes/intentionality.md). If we are "shut off", acting without thinking and without paying attention to our environment, we are fighting a losing battle.
+First you must have *attention*, which is the combination of [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md) and [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md). If we are "shut off", acting without thinking and without paying attention to our environment, we are fighting a losing battle.
 
-To pick the best response, we first have to know what it is, which means we have to be aware of what is happening both externally and within us [mindsight](/notes/mindsight.md).
+To pick the best response, we first have to know what it is, which means we have to be aware of what is happening both externally and within us [Mindsight is awareness of mental states in self and others](/notes/mindsight-is-awareness-of-mental-states-in-self-and-others.md).
 
-Next, we must have *flexibility*. A rigid tree will be broken when the wind comes, yet the soft tree will bend and survive. Flexibility is required because nothing is ever the same, so there's no logic in responding in the same way. The only constant is change [life is change](/notes/life-is-change.md).
+Next, we must have *flexibility*. A rigid tree will be broken when the wind comes, yet the soft tree will bend and survive. Flexibility is required because nothing is ever the same, so there's no logic in responding in the same way. The only constant is change [Life is change](/notes/life-is-change.md).
 
 We have to be both relaxed and ready for action. To be *engaged* with the world.
 
-We also can't fight ourselves, we have to live [authentically](/notes/authenticity.md), to be true to ourselves, to pursue self-actualization.
+We also can't fight ourselves, we have to live [authentically](/notes/acting-in-alignment-with-your-values-is-authenticity.md), to be true to ourselves, to pursue self-actualization.
 
 :::note[The Water Way]
 
@@ -114,21 +138,21 @@ We also can't fight ourselves, we have to live [authentically](/notes/authentici
 
 ### The Empty Cup
 
-In order to learn, to change, to adapt, we have to stay clear from [judgment](/notes/judgment.md), to view the world with clear eyes and mind [Objectivism](/notes/objectivism.md).
+In order to learn, to change, to adapt, we have to stay clear from [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md), to view the world with clear eyes and mind [Seeing reality without subjective bias reduces distortion](/notes/seeing-reality-without-subjective-bias-reduces-distortion.md).
 
-To have [Humility](/notes/humility.md), knowing that you don't always know everything there's to know, that you might be wrong, and above all else avoid [Binary Thinking](/notes/binary-thinking.md).
+To have [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md), knowing that you don't always know everything there's to know, that you might be wrong, and above all else avoid [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md).
 
-We need to [Zoom out](/notes/zoom-out.md), to see ourselves as an external observer, not get trapped in our heads, our judgment, or our emotions, to just notice things as they are.
+We need to [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md), to see ourselves as an external observer, not get trapped in our heads, our judgment, or our emotions, to just notice things as they are.
 
-When we judge, we are not present, when our mind is filled with thoughts, we are not present. When we are filled with [wishful thinking](/notes/manifesting.md) or preconceived plans on how things should go, we are not present.
+When we judge, we are not present, when our mind is filled with thoughts, we are not present. When we are filled with [wishful thinking](/notes/manifesting-imposes-beliefs-onto-reality-rather-than-accepting-it.md) or preconceived plans on how things should go, we are not present.
 
-These actions are [Crowding Out](/notes/crowding-out.md) our ability to be aware.
+These actions are [One activity displaces another when pursued excessively](/notes/one-activity-displaces-another-when-pursued-excessively.md) our ability to be aware.
 
 We're not trying to silence our mind, that only gives greater power to our thoughts, we simply have to notice them.
 
-It doesn't mean we won't get angry, but we could become better at returning quickly to calmness, to let the emotions [inform](/notes/emotions-as-decision-heuristics.md) you without being "sticky" in your being.
+It doesn't mean we won't get angry, but we could become better at returning quickly to calmness, to let the emotions [inform](/notes/emotions-provide-decision-relevant-information-when-navigating-choices.md) you without being "sticky" in your being.
 
-[Meditation](/notes/meditation.md) Can help us be calm, by letting our thoughts be, just noticing them as they pass by without us forcing ourselves to do anything, we recharge our mind will strengthen our ability to focus.
+[Meditation strengthens focus and mindfulness through intentional presence](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md) Can help us be calm, by letting our thoughts be, just noticing them as they pass by without us forcing ourselves to do anything, we recharge our mind will strengthen our ability to focus.
 
 :::note[The Empty Cup]
 
@@ -141,9 +165,9 @@ It doesn't mean we won't get angry, but we could become better at returning quic
 
 ### The Eternal Student
 
-It's important to keep on [learning](/notes/lifelong-learning.md). L**ife will continue to surprise you, and to adapt you must learn how to adapt**. That's why it's important to constantly [Experiment](/notes/testing.md) with new methods, seeing how you can continue to improve.
+It's important to keep on [learning](/notes/learning-must-continue-constantly-throughout-life.md). L**ife will continue to surprise you, and to adapt you must learn how to adapt**. That's why it's important to constantly [Experiment](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md) with new methods, seeing how you can continue to improve.
 
-Besides looking outwards, we should also look inwards. [Self Reflection](/notes/introspection.md) is essential because otherwise, we can't know when we are being authentic or falling prey to our [Ego](/notes/form-vs-essence.md). We have the responsibility of setting our path, one of our choosing, and not forced upon us by biases, ignorance, or inaction.
+Besides looking outwards, we should also look inwards. [Self Reflection](/notes/introspection-develops-self-knowledge-through-internal-examination.md) is essential because otherwise, we can't know when we are being authentic or falling prey to our [Ego](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md). We have the responsibility of setting our path, one of our choosing, and not forced upon us by biases, ignorance, or inaction.
 
 Understand where your emotions are coming from, why people treat you the way you do, which subtle forces try to influence your behavior, and what drives your actions.
 
@@ -163,13 +187,13 @@ Learning is a never-ending process, as is self-improvement, so continue to explo
 
 ### The Opponent
 
-We should avoid a [Competition](/notes/competition.md) mindset. In competition, we enter a "win" or "lose" mentality where we focus only on our opponent and on winning instead of ourselves. We focus on the drawbacks of others instead of self-improvement.
+We should avoid a [Competition](/notes/competitive-mindset-harms-wellbeing-by-focusing-on-opponents.md) mindset. In competition, we enter a "win" or "lose" mentality where we focus only on our opponent and on winning instead of ourselves. We focus on the drawbacks of others instead of self-improvement.
 
 If you must compete, compete with yourself. Be better than who you were yesterday. Your experience, your behavior, your strengths and weaknesses are the only thing that matters.
 
-Shame and [Blame](/notes/blame.md), whether internally or at others is not how we improve, we only need to pay attention, be curious, and non-judgmental, until we find the best path forward.
+Shame and [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md), whether internally or at others is not how we improve, we only need to pay attention, be curious, and non-judgmental, until we find the best path forward.
 
-Our relationships are a mirror of our behavior. Instead of [projecting](/notes/emotional-projection.md) blame onto others, or spiraling with crazy conspiracies on how everyone's out to get us, we can solve much of our problems by looking inwards. Have we set clear boundaries? Are we acting the way we don't want others to treat us? Do we have impossible standards that we are helplessly trying to enforce, or are we just ignoring the circumstances, like attributing malice where there's none [Hanlon's Razor](/notes/hanlons-razor.md)
+Our relationships are a mirror of our behavior. Instead of [projecting](/notes/we-attribute-our-emotions-to-others-and-misread-theirs.md) blame onto others, or spiraling with crazy conspiracies on how everyone's out to get us, we can solve much of our problems by looking inwards. Have we set clear boundaries? Are we acting the way we don't want others to treat us? Do we have impossible standards that we are helplessly trying to enforce, or are we just ignoring the circumstances, like attributing malice where there's none [Avoid attributing malice when ignorance or circumstance explains action](/notes/avoid-attributing-malice-when-ignorance-or-circumstance-explains-action.md)
 
 Relationships are a back-and-forth movement, a reflection, a dance, a flow. By looking inward we understand ourselves better and learn to have clarity which allows us to flow with the energy we are given, instead of fighting back.
 
@@ -183,11 +207,11 @@ Relationships are a back-and-forth movement, a reflection, a dance, a flow. By l
 
 ### The Tools
 
-1. **Take aim** - find your [Life's Mission](/notes/lifes-mission.md), write it down, memorize it, and review it daily. It should reenergize you every time you read it, it is a combination of what you want to achieve and why, a mission that resonates with your values. Make sure you make it [clear](/notes/clarity.md), actionable and measurable
-2. **Take action**- goals are meaningless if we do nothing to pursue them. We must be [proactive](/notes/proactiveness.md), to avoid [Analysis paralysis](/notes/analysis-paralysis.md) and take action. We can [Start Small](/notes/start-small.md) just to get [Momentum](/notes/momentum.md), because momentum is all that matters. Keep going, keep doing, don't stop for nothing. Action will also lead to improvement [practice beats talent](/notes/practice-beats-talent.md).
-3. **Affirm** - review daily your core values and the description of the person you wish to be. By affirming it, you can [reframe](/notes/framing.md) the experiences in your life in a new light, one that promotes you towards the person you wish to become. Like adding a "yet" when you say "I can't do it" [Optimism](/notes/optimism.md) [fake it till you make it](/notes/fake-it-till-you-make-it.md)
+1. **Take aim** - find your [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md), write it down, memorize it, and review it daily. It should reenergize you every time you read it, it is a combination of what you want to achieve and why, a mission that resonates with your values. Make sure you make it [clear](/notes/clarity-is-achieved-through-definition-and-presentation.md), actionable and measurable
+2. **Take action**- goals are meaningless if we do nothing to pursue them. We must be [proactive](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md), to avoid [Too much information prevents decision-making](/notes/too-much-information-prevents-decision-making.md) and take action. We can [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md) just to get [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md), because momentum is all that matters. Keep going, keep doing, don't stop for nothing. Action will also lead to improvement [Practice beats talent](/notes/practice-beats-talent.md).
+3. **Affirm** - review daily your core values and the description of the person you wish to be. By affirming it, you can [reframe](/notes/how-we-describe-something-shapes-how-it-is-perceived.md) the experiences in your life in a new light, one that promotes you towards the person you wish to become. Like adding a "yet" when you say "I can't do it" [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md)
 4. **Be symbolic** - Create symbols that will remind you of the person you wish to become, which could be a memento, a tattoo, a printed prayer, a drawing, or whatever you like. It will cement the person you want to become and will help you maintain your commitment to becoming that person.
-5. **Journal** - Write about your thoughts, your experiences, and your values. It will help you gain clarity [Journaling](/notes/journaling.md).
+5. **Journal** - Write about your thoughts, your experiences, and your values. It will help you gain clarity [Journaling enables reflection and self-understanding through written documentation](/notes/journaling-enables-reflection-and-self-understanding-through-written-documentation.md).
 6. **Get physical** - do some form of [fitness](/notes/fitness.md). It will help you connect with your body, it is part of who you are, and if left ignored it will backfire. It is a way to bring harmony to oneself.
 
 These tools are only a partial list designed to help us progress in the endless process of self-improvement.
@@ -206,11 +230,11 @@ These tools are only a partial list designed to help us progress in the endless 
 
 ### The Obstacle
 
-Obstacles will come, it's not a matter of if, but when. It will bring you down, not all obstacles you can surpass with ease. The question therefore is what do you do when you're down? Do you surrender to [Helplessness](/notes/helplessness.md), focused on your pain, on whose to blame, or falling into despair, or do you keep on walking, choosing how to react, being strong in the face of it, being stronger for it?
+Obstacles will come, it's not a matter of if, but when. It will bring you down, not all obstacles you can surpass with ease. The question therefore is what do you do when you're down? Do you surrender to [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md), focused on your pain, on whose to blame, or falling into despair, or do you keep on walking, choosing how to react, being strong in the face of it, being stronger for it?
 
-Whether obstacles are [stepping stones](/notes/creative-destruction.md) or stumbling blocks, it's our choice.
+Whether obstacles are [stepping stones](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md) or stumbling blocks, it's our choice.
 
-Obstacles are not easily defeated, it takes [Patience](/notes/patience.md), waiting for the right moment to strike, [Timing](/notes/contextual-synergy.md) is key. We have [limited willpower](/notes/willpower-is-limited.md), and we have to use it wisely before it is depleted.
+Obstacles are not easily defeated, it takes [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md), waiting for the right moment to strike, [Timing](/notes/actions-yield-more-when-timed-to-context.md) is key. We have [limited willpower](/notes/willpower-is-limited.md), and we have to use it wisely before it is depleted.
 
 :::note[The Obstacle]
 
@@ -225,9 +249,9 @@ Obstacles are not easily defeated, it takes [Patience](/notes/patience.md), wait
 
 If you're suffering, if you're deep in depression, getting out of it seems impossible, like climbing up a big pit without handles, light barely visible.
 
-Logic can't rescue us, as unhelpful as it sounds, we have to choose to take a [Leap Into Faith](/notes/leap-into-faith.md), trusting ourselves, that we will be able to survive this, that better days will come. Although [Life is pain](/notes/life-is-pain.md), suffering is our choice, we choose to prolong the pain after the damage was already done.
+Logic can't rescue us, as unhelpful as it sounds, we have to choose to take a [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md), trusting ourselves, that we will be able to survive this, that better days will come. Although [Life is pain](/notes/life-is-pain.md), suffering is our choice, we choose to prolong the pain after the damage was already done.
 
-Our enthusiasm should guide us through the hard times, providing the necessary [Intrinsic Motivation](/notes/intrinsic-motivation.md)to go on
+Our enthusiasm should guide us through the hard times, providing the necessary [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md)to go on
 
 :::note[The Rainstorm]
 
@@ -242,17 +266,17 @@ Our enthusiasm should guide us through the hard times, providing the necessary [
 
 ### The Living Void
 
-One should aspire to become thoughtless, a living void, one that is in constant flow with the surroundings as if there is no separation between the two, you are one, merged, immersed. You don't have to think about how to react, you just do it instantly and effortlessly, like raising your hand [Intuition](/notes/intuition.md).
+One should aspire to become thoughtless, a living void, one that is in constant flow with the surroundings as if there is no separation between the two, you are one, merged, immersed. You don't have to think about how to react, you just do it instantly and effortlessly, like raising your hand [Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md).
 
 Being thoughtless necessarily comes after we have fixed our attention and actions after we have cleared ourselves from judgment and bias. Those who mindlessly follow their desires are not a living void.
 
-Becoming a void is usually a question of [subtraction](/notes/addition-by-subtraction.md) rather than adding skills. We need to take apart our ego, our biases, and our overthinking. Worrying replaces action. By doing we worry less, which means we are more in flow.
+Becoming a void is usually a question of [subtraction](/notes/improvement-often-comes-from-removing-rather-than-adding.md) rather than adding skills. We need to take apart our ego, our biases, and our overthinking. Worrying replaces action. By doing we worry less, which means we are more in flow.
 
 ### The way of Intercepting Fist
 
-Once we have achieved being a living void, it is time to develop the last stage. To maintain our [Oneness](/notes/unity.md) with life, yet somehow, magically, imbue it with our being. To be our true self, nothing more, nothing less. There are no two identical copies in this world, you can't imitate your way into stage four, no system to adapt, it is about finding your way, embracing, and connecting yourself to life itself.
+Once we have achieved being a living void, it is time to develop the last stage. To maintain our [Oneness](/notes/unity-is-the-felt-sense-of-connection-with-others-and-the-world.md) with life, yet somehow, magically, imbue it with our being. To be our true self, nothing more, nothing less. There are no two identical copies in this world, you can't imitate your way into stage four, no system to adapt, it is about finding your way, embracing, and connecting yourself to life itself.
 
-In that place there's no worry or fear or pain, only life and action. The mind has no room for second-guessing or doubt. Only a sense of enthusiasm and aliveness [Will to Power](/notes/will-to-power.md)
+In that place there's no worry or fear or pain, only life and action. The mind has no room for second-guessing or doubt. Only a sense of enthusiasm and aliveness [The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md)
 
 :::note[The Way of the Intercepting Fist]
 
@@ -264,17 +288,17 @@ In that place there's no worry or fear or pain, only life and action. The mind h
 
 ### My Friend
 
-The last piece of the puzzle is to remember that we are not alone. We are all one family of humankind. That [Altruism](/notes/giving.md) and [Empathy](/notes/empathy.md) are core aspects of our being, and we should cultivate them as well.
+The last piece of the puzzle is to remember that we are not alone. We are all one family of humankind. That [Altruism](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md) and [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md) are core aspects of our being, and we should cultivate them as well.
 
 It might not be easy with strangers or our opponents, but same as the unity of us and reality, we should be one with others as well. Being our true self goes through kindness and compassion, through communication and harmony, not through competition and confrontational thoughts.
 
 The way we treat others affects how we treat ourselves and our close relationships, the separation of friend and foe is a blurry line, one that eventually will get crossed. If we hate our opponents, we will eventually hate ourselves and our friends.
 
-Seeing with clarity means also seeing others as they are, without racism or judgment, without [Stereotypes](/notes/stereotypes.md). From inner clarity, we will be able to bridge the gap with others.
+Seeing with clarity means also seeing others as they are, without racism or judgment, without [Stereotypes apply mental shortcuts by inferring group traits onto individuals](/notes/stereotypes-apply-mental-shortcuts-by-inferring-group-traits-onto-individuals.md). From inner clarity, we will be able to bridge the gap with others.
 
-From hardships, we will grow stronger, and better [Emotional Aikido](/notes/emotional-aikido.md).
+From hardships, we will grow stronger, and better [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md).
 
-Don't fall for [Future disillusionment](/notes/future-disillusionment.md), life is happening now. Do what you can with it, live it as you see fit, have no regrets, and be your full authentic self [transcendence](/notes/transcendence.md).
+Don't fall for [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md), life is happening now. Do what you can with it, live it as you see fit, have no regrets, and be your full authentic self [Transcendence is the act of continuously becoming a better self](/notes/transcendence-is-the-act-of-continuously-becoming-a-better-self.md).
 
 :::note[My Friend]
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20240217074453
 Created: '2024-02-17 07:44'
-Modified: '2026-04-09 08:37'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Our beliefs must adapt as context and goals change.png]]'
 ImageText: A clay that can form into many shapes
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Adaptability
   - Flexability
 new_schema: true
+Topic:
+  - '[[Self-Knowledge and Metacognition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,8 +52,3 @@ Adapting is not easy, as a default we tend to resist change. It is like trying t
 ## Visual
 
 ![Our beliefs must adapt as context and goals change](/notes/our-beliefs-must-adapt-as-context-and-goals-change.webp)
-
-## Overview
-🔼Topic:: [Self-Knowledge and Metacognition](/notes/self-knowledge-and-metacognition.md)
-↩️Origin::
-🔗Link::

@@ -1,13 +1,13 @@
 ---
 UUID: 20240106084436
 Created: '2024-01-06 08:44'
-Modified: '2026-04-10 16:40'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Seeking and giving advice both expand our perspective.png]]'
 ImageText: A person giving an advice while also thinking about it
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Advice
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,8 +52,3 @@ For example, if someone asks me for an advice on how to be more healthy, if I re
 ## Visual
 
 ![Seeking and giving advice both expand our perspective](/notes/seeking-and-giving-advice-both-expand-our-perspective.webp)
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-↩️Origin::
-🔗Link::

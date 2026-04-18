@@ -1,13 +1,13 @@
 ---
 UUID: 20231230184923
 Created: '2023-12-30 18:49'
-Modified: '2026-04-08 13:24'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Social Environment
   - Peer Pressure
@@ -21,6 +21,10 @@ Description: >-
   human interactions, influencing individual identity and beliefs, often leading
   to conformity and herd mentality.
 new_schema: true
+Topic:
+  - '[[Social Nature]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,9 +60,3 @@ Usually social hierarchy determines which opinion becomes the accepted one.
 ## Visual
 
 ![Social Environment](/notes/social-environment.webp)
-
-## Overview
-🔼Topic:: [Social Nature](/notes/social-nature.md)
-↩️Origin::
-🔗Link::
-

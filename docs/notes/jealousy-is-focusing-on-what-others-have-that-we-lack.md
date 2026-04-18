@@ -1,8 +1,8 @@
 ---
 UUID: 20250304194714
 Created: '2025-03-04 19:47'
-Modified: '2026-04-04 10:59'
-Version: 3
+Modified: '2026-04-11 22:23'
+Version: 4
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -16,6 +16,10 @@ Description: >-
   advantages, leading to discontent and a failure to appreciate one's own life,
   often fueled by comparisons and misconceptions of happiness.
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,12 +54,4 @@ People intentionally [signal](/notes/signaling-is-displaying-qualities-to-appear
 
 
 ## Visual
-
-
-## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-↩️Origin::
-🔗Link:: 
-
-
 

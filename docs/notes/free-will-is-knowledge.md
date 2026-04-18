@@ -1,19 +1,23 @@
 ---
 UUID: 20230404203219
 Created: '2023-04-04 20:32'
-Modified: '2026-04-06 23:12'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases: null
 Description: >-
   The concept that true free will necessitates both self-awareness and
   understanding of external influences, enabling informed decision-making
   aligned with personal well-being and morality.
 new_schema: true
+Topic:
+  - '[[Freedom and Agency]]'
+Origin: '[[Socrates (philosopher)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,8 +53,3 @@ For example, a tyrant that rules with an iron fist is not truly powerful because
 ## Visual
 
 ![free will is knowledge](/notes/free-will-is-knowledge.webp)
-
-## Overview
-🔼Topic:: [Freedom and Agency](/notes/freedom-and-agency.md)
-◀Origin:: [Socrates (philosopher)](/notes/socrates-philosopher.md)
-Link:: https://share.snipd.com/episode/af0cb58d-8d3c-4793-bd08-3560f9338aaf

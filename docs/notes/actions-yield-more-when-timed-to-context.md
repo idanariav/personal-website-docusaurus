@@ -1,13 +1,13 @@
 ---
 UUID: 20220529145509
 Created: '2022-05-29 14:55'
-Modified: '2026-04-10 16:49'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 6
+Version: 7
 Image: '[[Actions yield more when timed to context.png]]'
 ImageText: >-
   A pie chart showing mostly hard sections in pink with one small easy section
@@ -20,6 +20,10 @@ aliases:
   - Contextual synergy
   - Timing
 new_schema: true
+Topic:
+  - '[[Learning Through Experience]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -65,9 +69,3 @@ Note that there is no reason to use this as a justification for [Procrastination
 ## Visual
 
 ![Actions yield more when timed to context](/notes/actions-yield-more-when-timed-to-context.webp)
-
-## Overview
-🔼Topic:: [Learning Through Experience](/notes/learning-through-experience.md)
-Origin::
-🔗Link::
-

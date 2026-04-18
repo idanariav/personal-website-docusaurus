@@ -1,22 +1,27 @@
 ---
 UUID: 20240510131501
 Created: '2024-05-10 13:15'
-Modified: '2026-04-01 08:57'
+Modified: '2026-04-15 08:54'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 2
-aliases:
-  - Priming
-  - Cue
-  - Trigger
+Version: 4
+Image: '[[Environmental stimuli trigger automatic behavioral responses.png]]'
+ImageText: A person sitting in front of a tv thinking about a burger
 Description: >-
   A psychological phenomenon where environmental stimuli evoke specific
   behaviors or emotions, influencing decision-making and habitual actions based
   on cues from social contexts and personal experiences.
+Topic:
+  - '[[Environment and Behavior]]'
+aliases:
+  - Priming
+  - Cue
+  - Trigger
 new_schema: true
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -35,7 +40,7 @@ While it can involve [How we describe something shapes how it is perceived](/not
 
 It can also involve more complex forms of triggers, such as our [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md), the norms, cultures and behaviors that shape our [Perspective](/notes/subjective-perception-filters-how-we-see-external-reality.md).
 
-### Why it matters
+### Why it Matters
 
 A cue isn't good or bad, the behavior it generates is what's important. Even though a cue pushes towards certain behavior, and with time this behavior can become a [habit](/notes/repeated-actions-become-automatic-through-habit-formation.md), we can design our environment intentionally.
 
@@ -51,12 +56,8 @@ We tend to feel more competitive and less cooperative at work. We behave differe
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-## Overview
-🔼Topic:: [Environment and Behavior](/notes/environment-and-behavior.md)
-↩️Origin::
-🔗Link::
-
+![Environmental stimuli trigger automatic behavioral responses](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.webp)

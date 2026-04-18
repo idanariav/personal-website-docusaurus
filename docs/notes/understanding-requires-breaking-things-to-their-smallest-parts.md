@@ -1,13 +1,13 @@
 ---
 UUID: 20230710193515
 Created: '2023-07-10 19:35'
-Modified: '2026-04-10 14:07'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Understanding requires breaking things to their smallest parts.png]]'
 ImageText: A puzzle broken down to a single piece
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Atomism
 new_schema: true
+Topic:
+  - '[[Knowledge Structure and Transfer]]'
+Origin: '[[Linking your Thinking]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ The concept of atomism contradicts [System properties arise from component inter
 ## Visual
 
 ![Understanding requires breaking things to their smallest parts](/notes/understanding-requires-breaking-things-to-their-smallest-parts.webp)
-
-## Overview
-🔼Topic:: [Knowledge Structure and Transfer](/notes/knowledge-structure-and-transfer.md)
-◀Origin:: [Linking your Thinking](/notes/linking-your-thinking.md)
-🔗Link::
-

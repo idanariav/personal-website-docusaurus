@@ -1,20 +1,24 @@
 ---
 UUID: 20231231152539
 Created: 2022-03-30T08:05:00.000Z
-Modified: '2025-01-04 09:23'
+Modified: '2026-04-17 16:00'
 tags: []
 Author:
   - '[[Brian Christian]]'
   - '[[Tom Griffiths]]'
 Genre: Science
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 4
 Pages: 368
 Rate: 4
 PublishDate: 2016-04-19T00:00:00.000Z
@@ -23,6 +27,19 @@ Cover: >-
   http://books.google.com/books/content?id=yvaLCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/25666050-algorithms-to-live-by'
 aliases: null
+Description: >-
+  It explores decision-making principles, emphasizing the need for timely
+  choices, the importance of exploration, and efficient organization. It
+  advocates for prioritization, simplifying complex tasks, and fostering
+  cooperative systems to optimize outcomes in both personal and professional
+  contexts.
+FullTitle: Algorithms to Live By - The Computer Science of Human Decisions
+StartDate: 2022-03-24T00:00:00.000Z
+ASIN: B015CKNWJI
+Reread: 0
+Topic:
+  - '[[Decision Making (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -31,11 +48,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-🔼Topic:: [Decision Making (Map)](/mocs/decision-making-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Computers and humans are similar**
 2. **Take the leap** - Sometimes you will need to make a decision before you have complete knowledge, like choosing a candidate before you saw them all. An analysis paralysis would usually lead to the worst outcome because you will miss good opportunities, and pay for not making a decision. That's why it's important to make any decision, given a reasonable base of information.
@@ -47,11 +60,24 @@ SiteProcssed: true
 8. **Give many, yet not equal chances** - Your trust is not an either/or, people should have a way to earn back your trust, but the more they let you down, the harder they have to work to get it back.
 9. **Build systems for cooperation** - Sometimes the status quo is not the best possible solution. In order to switch to a better one, we need to design systems that will guide us (like bowling lanes) towards the optimal solution, limiting, punishing and encouraging when necessary.
 
-### 🗒️Relate
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Follow a Look‑Then‑Leap rule** - before starting a search (hiring, dating, buying), deliberately spend the predefined “look” period (about 37% of the expected options/time) refusing all offers, then commit to the first option that beats the best seen in the look phase.
+2. **Schedule regular exploration windows** - set recurring blocks of time to try new restaurants, people, ideas or tools when your time horizon justifies discovery (e.g., when you’ll be using them long-term).
+3. **Be optimistic when exploring** - habitually assume the best about new options (upper‑confidence mindset) during early trials so you sample broadly and reduce long‑term regret.
+4. **Prioritize by importance per time (weight/time)** - each time a new task arrives, calculate importance ÷ estimated time and switch only if the new task’s ratio is higher than the current one.
+5. **Write down and freeze your to‑do list to avoid thrashing** - when overwhelmed, stop switching, write every task down, then pick one and stay on it until responsiveness meets your minimum acceptable limit.
+6. **Store items by use and proximity** - place the things you use most next to where you use them (one front drawer or desk cache) and return items to that spot after use.
+7. **Create multiple cache levels** - set one fast, small cache (desk/drawer), a medium (closet), and a slow large store (basement/locker) and move items between levels based on usage.
+8. **Set an “ignore threshold” for communications** - define daily hours when new messages are discarded or not checked (for example after 18:00), enforcing boundaries and preventing constant buffering.
+9. **Relax hard problems first** - when faced with an intractable task, habitually solve a relaxed easier version (remove a constraint, allow partial solutions, or accept small overruns) before tackling the full problem.
+10. **Deliberately simplify decisions (regularize)** - make a habit of limiting the number of variables you consider for noisy problems, favoring simpler models/rules of thumb to avoid overfitting and reduce brittle decision‑making.
+
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -60,16 +86,16 @@ many of the situations computer face are in controlled settings, where there are
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 many of these algorithms are the results of carful and creative thinking in an experiment like environment which simulates human decision making, or at least the rational side that wants optimal outcomes in least resources spent. many cases in our day to day life could be improved by implementing them.
 
-### 🖼️Outline
+### Outline
 
-![Algorithms to Live By (book).webp](/books/algorithms-to-live-by-book.webp)
+![Algorithms to Live By (book)](/books/algorithms-to-live-by-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Intro
 
@@ -88,17 +114,17 @@ many of these algorithms are the results of carful and creative thinking in an e
 
 The optimal shopping problem is a set of cases where you are presented a series of "products", one each time, and have to decide whether to take the one's in front of you or look at the next option, not knowing what is the quality of the next one. But once you passed, you cant choose it anymore, its gone.
 A common example is hiring a worker, you sit at the interview and you can judge the quality of the interviewee, and you can decide whether to hire him or not, but once you skip he might be out of the market by the next time you decide to approach him. So how would you know if you hired the best worker, or whether you should wait longer?
-The answer lies in the *look and leap* algorithm [Leap Into Faith](/notes/leap-into-faith.md). Mathematically, after seeing 37% of the market (for example, the pool of workers), then you should take the one that its better than any that you have seen before. Meaning you don't take anyone of the first 37% of the pool.
+The answer lies in the *look and leap* algorithm [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md). Mathematically, after seeing 37% of the market (for example, the pool of workers), then you should take the one that its better than any that you have seen before. Meaning you don't take anyone of the first 37% of the pool.
 This algorithm would give you about 37% of choosing the best candidate, and it improves the larger the pool is. This is the optimal balance point between taking the first candidate (stopping too early) and taking the last one (stopping too late).
 We should estimate based on what we've seen so far the value of the candidate and the expected value of candidates to come.
 The trick is remembering that you don't only have to find a good evaluation method for the quality of the candidate, but also a way to guess the size of the pool.
-In relationships, this will be equivalent to finding a partner at age 26-28, if you started looking for one in age 18, and you want to settle down by 40. [When to Quit](/notes/when-to-quit.md)
+In relationships, this will be equivalent to finding a partner at age 26-28, if you started looking for one in age 18, and you want to settle down by 40. [Knowing when to stop prevents wasted persistence on misaligned goals](/notes/knowing-when-to-stop-prevents-wasted-persistence-on-misaligned-goals.md)
 
-This was true for cases where candidates are evaluated ordinally, which means there's no absolute measure of value, but you can rank the candidates by which is better. However, if there's a cardinal score, like an IQ test, you can raise the threshold. The danger here of course is treating these numeric measures as the only proxy for value, thus missing qualitative aspects that are hard to measure or compare cardinally. [McNamara Fallacy](/notes/mcnamara-fallacy.md)
+This was true for cases where candidates are evaluated ordinally, which means there's no absolute measure of value, but you can rank the candidates by which is better. However, if there's a cardinal score, like an IQ test, you can raise the threshold. The danger here of course is treating these numeric measures as the only proxy for value, thus missing qualitative aspects that are hard to measure or compare cardinally. [Treating measurable metrics as complete truth hides importance](/notes/treating-measurable-metrics-as-complete-truth-hides-importance.md)
 
-These examples - when to choose a worker/partner, when to quit or sell a house, have an important common trait. This is the cost of not making a decision, for example the cost in terms of productivity but not hiring a worker yet, or sadness of being alone. Its hard to model these [costs](/notes/alternative-cost.md).
+These examples - when to choose a worker/partner, when to quit or sell a house, have an important common trait. This is the cost of not making a decision, for example the cost in terms of productivity but not hiring a worker yet, or sadness of being alone. Its hard to model these [costs](/notes/every-choice-costs-the-alternatives-you-gave-up.md).
 
-**An important factor in making rational decisions is not only to endlessly analyze and compare the choices, but also knowing when to stop.** [Analysis paralysis](/notes/analysis-paralysis.md)
+**An important factor in making rational decisions is not only to endlessly analyze and compare the choices, but also knowing when to stop.** [Too much information prevents decision-making](/notes/too-much-information-prevents-decision-making.md)
 
 :::note[Optimal Stopping When to Stop Looking]
 
@@ -115,11 +141,11 @@ These examples - when to choose a worker/partner, when to quit or sell a house, 
 
 ### Explore/Exploit
 
-we all have the dilemma between sticking to the "tried and true" (exploit) and trying something new, in hopes that it will be better than what we know (explore). [exploration vs exploitation](/notes/exploration-vs-exploitation.md). for example - new music, restaurants, people, etc. the dilemma is affected by three attributes:
-1. **Time** - how long do we have to enjoy those things? The value of new things (that might be better than the existing), depends on how long do we have to enjoy the switch. For example if I went on a vacation, its better to stick to popular restaurants than take a gamble on the last day since it might be a bad restaurant, but if I moved to a new location, its better to explore which good restaurants are there. For example, age is an important factor in humans. Babies tend to explore more, compare to elderly that tend to exploit. Since as a kid you have little to gain from exploit (you still dont know anything) and a lot to gain by exploring (since the time horizon is very large), and vice versa for elderly.
-2. **Future value** - the more I appreciate future enjoyment more, the lower the cost of explore is. If fun tomorrow is equal to 50% of fun today, then I have a discount rate of about a 50%. Since exploring is paying a cost now (uncertainty + switching costs) to have more fun in the future. [Present Bias](/notes/present-bias.md)
+we all have the dilemma between sticking to the "tried and true" (exploit) and trying something new, in hopes that it will be better than what we know (explore). [Growth requires balancing the new and the proven](/notes/growth-requires-balancing-the-new-and-the-proven.md). for example - new music, restaurants, people, etc. the dilemma is affected by three attributes:
+1. **Time** - how long do we have to enjoy those things? The value of new things (that might be better than the existing), depends on how long do we have to enjoy the switch. For example if I went on a vacation, its better to stick to popular restaurants than take a gamble on the last day since it might be a bad restaurant, but if I moved to a new location, its better to explore which good restaurants are there. For example, age is an important factor in humans. Babies tend to explore more, compare to elderly that tend to exploit. Since as a kid you have little to gain from exploit (you still dont know anything) and a lot to gain by exploring (since the time horizon is very large), and vice versa for elderly. [Longer time horizon makes exploration more valuable than exploitation](/notes/longer-time-horizon-makes-exploration-more-valuable-than-exploitation.md)
+2. **Future value** - the more I appreciate future enjoyment more, the lower the cost of explore is. If fun tomorrow is equal to 50% of fun today, then I have a discount rate of about a 50%. Since exploring is paying a cost now (uncertainty + switching costs) to have more fun in the future. [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md)
 3. **Chances of finding something better** - we don't know what are the chances that there is a better restaurant out there (similar to the optimal shopping problem). The higher the risk, the higher the exploration cost. Usually its information we only have during exploration.
-4. **Regret** - which strategy will cause us the least [Regret](/notes/regret.md) (on the choices we didn't make). we can stick to a strategy that will minimize regret, which means making most of the mistakes at the beginning, so that we will learn and improve and have less regret as we continue making choices (interesting to compare with the common definition of regret, which usually comes at the end of the road, where there's no more flexibility to change and the amount of error is discovered). The way to minimize regret is based on the expected range of our utility. its bigger (worse) the more uncertainty there is.
+4. **Regret** - which strategy will cause us the least [We regret inaction more than action taken](/notes/we-regret-inaction-more-than-action-taken.md) (on the choices we didn't make). we can stick to a strategy that will minimize regret, which means making most of the mistakes at the beginning, so that we will learn and improve and have less regret as we continue making choices (interesting to compare with the common definition of regret, which usually comes at the end of the road, where there's no more flexibility to change and the amount of error is discovered). The way to minimize regret is based on the expected range of our utility. its bigger (worse) the more uncertainty there is.
    The "upper confidence bound" is a strategy that potentially can give the best result giving the information that we have now. practically it means be optimistic as possible, assume the best on people, places, choices, this will minimize regret.
 
 :::note[Explore/Exploit The Latest vs. the Greatest]
@@ -146,7 +172,7 @@ we all have the dilemma between sticking to the "tried and true" (exploit) and t
 
 ### Sort / Search
 
-Indexing is an action that takes a long time, and usually grows in a faster (non linear way) the larger the data size is (more things to index). There is a trade off between sorting and search, which is time. **Sorting takes time to make, but makes searches faster, so the question is whether sorting is worth it in each case**. [Multiplier](/notes/multiplier.md) For example mails are not worth to sort because usually our email search engine is good as it is.
+Indexing is an action that takes a long time, and usually grows in a faster (non linear way) the larger the data size is (more things to index). There is a trade off between sorting and search, which is time. **Sorting takes time to make, but makes searches faster, so the question is whether sorting is worth it in each case**. [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) For example mails are not worth to sort because usually our email search engine is good as it is.
 
 There are several sorting methods:
 1. Bubble sort - the worst option! each time we compare two objects and we push them down / up one space depending on who's first (which means to compare each two possible combinations of row in the data)
@@ -154,9 +180,9 @@ There are several sorting methods:
 3. Mega sort - the most efficient. the list is divided into pairs which are sorted (because its the most easy to compare only 2 items). then you compare each mini-list with another list and merge them (using an insert sort), until finally you merge all the lists together into a single, sorted list.
 4. Bucket sort - when you dont care about the sort between individual rows, only the category they fall into. its faster but less accurate.
 
-sorting in real life is like a competition, and the way you construct the competition is the sorting method, and it will affect the final order of the winners. The best and fastest way would be to compare all competitors to an external measurement, like a race that you get the exact cardinal order of winners without dispute (he who ran fastest is first, second is second...). That way you don't have to compare each pair separately but all at once.
+sorting in real life is like a competition, and the way you construct the competition is the sorting method, and it will affect the final order of the winners. [Evaluation design determines ranking outcomes independently of underlying quality](/notes/evaluation-design-determines-ranking-outcomes-independently-of-underlying-quality.md) The best and fastest way would be to compare all competitors to an external measurement, like a race that you get the exact cardinal order of winners without dispute (he who ran fastest is first, second is second...). That way you don't have to compare each pair separately but all at once.
 
-In a sense, sorting is a form of [Upfront costs](/notes/upfront-costs.md), which might worth the investment if the difference between sorted and unsorted is large. Try to avoid the trap of [Perfectionism](/notes/perfectionism.md), don't sort for the sake of sorting, this is just a waste of resources.
+In a sense, sorting is a form of [Initial effort investments create friction preventing optimal behavior change](/notes/initial-effort-investments-create-friction-preventing-optimal-behavior-change.md), which might worth the investment if the difference between sorted and unsorted is large. Try to avoid the trap of [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md), don't sort for the sake of sorting, this is just a waste of resources.
 
 :::note[Sorting Making Order]
 
@@ -178,9 +204,9 @@ Caching has physical significance as well. physical distance affects extraction 
 In your personal life:
 1. **Store by use, not category** - For example, have one drawer for the most useful things, no matter which category they belong to.
 2. **Caching levels** - The most precious one for example, a drawer next to the desk, a second one - a closest, third level - a warehouse. Each level is a tradeoff between speed and space. (drawer is smaller but closest, while a warehouse is large but far).
-3. **Proximity is key** - Keep things next to where they will be used. keep your gym cloths next to the door, or your notebooks next to your desk. [Friction](/notes/friction.md)
+3. **Proximity is key** - Keep things next to where they will be used. keep your gym cloths next to the door, or your notebooks next to your desk. [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md)
 
-since the cost of searching and caching is depended on the size of the memory, we can say that aging memory problem is not a problem of forgetting our memories, but simply a higher cost of retrieving them because of higher caching costs. [Caching](/notes/caching.md)
+since the cost of searching and caching is depended on the size of the memory, we can say that aging memory problem is not a problem of forgetting our memories, but simply a higher cost of retrieving them because of higher caching costs. [We optimize by keeping the most-used close at hand](/notes/we-optimize-by-keeping-the-most-used-close-at-hand.md)
 
 :::note[Caching Forget About It]
 
@@ -232,7 +258,7 @@ since the cost of searching and caching is depended on the size of the memory, w
 
 ### Overfitting
 
-[Overfitting](/notes/overfitting.md)
+[Too much complexity makes models worse on new data](/notes/too-much-complexity-makes-models-worse-on-new-data.md)
 
 :::note[Overfitting When to Think Less]
 
@@ -249,7 +275,7 @@ since the cost of searching and caching is depended on the size of the memory, w
 
 
 ### Relaxation
-[Solve the easier problem](/notes/solve-the-easier-problem.md)
+[Simplify the problem before trying to solve it](/notes/simplify-the-problem-before-trying-to-solve-it.md)
 Some optimization problems are too complicated, and the more complicated they are, the harder it is to evaluate and find the optimal solution. for example: what is the shortest route that passes through each city in the world without going back or being in the same city twice.
 
 To facilitate these problems, we can "relax" them, which means reducing the limitations which can bring to a near-optimal solution that otherwise wouldn't have been found.
@@ -295,8 +321,8 @@ every network has two attributes:
 2. Bandwidth - the amount of information that can flow at any given moment
 When the information flowing into the network is higher than the amount it can process, we are experiencing a delay. At some point, networks will simply ignore any new request since the backlog has reached its maximum.
 
-examples for exponential backoff in real life - instead of giving each person an equal amount of tries and after that there's no going back, we should give them infinite tries but with larger thresholds for success. for example - on your first criminal offense, get only 1 day in jail, the second time, 5 days, etc... [Binary Thinking](/notes/binary-thinking.md)
-if a friend has let you down, don't burn the bridge. give him another chance but he will have to work harder to prove to you that he's worthy of your [Trust](/notes/trust.md).
+examples for exponential backoff in real life - instead of giving each person an equal amount of tries and after that there's no going back, we should give them infinite tries but with larger thresholds for success. for example - on your first criminal offense, get only 1 day in jail, the second time, 5 days, etc... [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md)
+if a friend has let you down, don't burn the bridge. give him another chance but he will have to work harder to prove to you that he's worthy of your [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md).
 We sometimes forget to have an "ignore threshold" in our personal lives. For example we let social media interrupted us constantly even when we can no longer take it. We should therefore set a threshold, for example - "from six o'clock I don't receive new messages/emails, any new message would be deleted - and not treated on a later date" [Boundaries](/notes/boundaries.md).
 
 :::note[Networking How We Connect]
@@ -310,8 +336,8 @@ We sometimes forget to have an "ignore threshold" in our personal lives. For exa
 
 ### Game Theory
 
-Nash equilibrium is not always easy to find, and even if it does exist, its not necessarily good, like the equilibrium in the prisoner's dilemma. One possible answer is to create mechanisms that promote switching to the optimal state, for example forcing cooperation by increasing the penalty for "snitching". Similarly, auctions are planned in a way that will make telling the truth the dominant's strategy. [Nudge](/notes/nudge.md)
-We can view emotions, especially anger and revenge as social mechanisms that are used to create those balances, and to push us towards "better" or more righteous equilibriums. [Emotions as decision heuristics](/notes/emotions-as-decision-heuristics.md). Individuals are willing to pay a higher personal cost to reduce crimes, and vices and by that they improve the social optimum.
+Nash equilibrium is not always easy to find, and even if it does exist, its not necessarily good, like the equilibrium in the prisoner's dilemma. One possible answer is to create mechanisms that promote switching to the optimal state, for example forcing cooperation by increasing the penalty for "snitching". Similarly, auctions are planned in a way that will make telling the truth the dominant's strategy. [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
+We can view emotions, especially anger and revenge as social mechanisms that are used to create those balances, and to push us towards "better" or more righteous equilibriums. [Emotions provide decision-relevant information when navigating choices](/notes/emotions-provide-decision-relevant-information-when-navigating-choices.md). Individuals are willing to pay a higher personal cost to reduce crimes, and vices and by that they improve the social optimum.
 Secondly, there are harmful equilibriums that are caused by information gaps, or between "personal" and "public" information. When I deduce wrongful conclusions from someone else's behaviors on his reasons for action we can cause a destructive herd mentality where everyone is supposedly "rational", but the result is catastrophic. [Game Theory](/notes/game-theory.md)
 
 :::note[Game Theory The Minds of Others]

@@ -1,12 +1,12 @@
 ---
 UUID: 20240915203249
 Created: '2024-09-15 20:32'
-Modified: '2026-04-10 10:49'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Dismissing someone''s experience erodes their reality.png]]'
 ImageText: A person using an eraser to remove someone else's thoughts
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
 aliases:
   - Gaslighting
 new_schema: true
+Topic:
+  - '[[Active Listening and Empathy]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,9 +57,3 @@ Perhaps gaslighting is a sign for the difference between general knowledge and [
 ## Visual
 
 ![Dismissing someone's experience erodes their reality](/notes/dismissing-someones-experience-erodes-their-reality.webp)
-
-## Overview
-🔼Topic:: [Active Listening and Empathy](/notes/active-listening-and-empathy.md)
-↩️Origin::
-🔗Link::
-

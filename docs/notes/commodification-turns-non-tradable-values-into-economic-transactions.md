@@ -1,13 +1,13 @@
 ---
 UUID: 20230331132111
 Created: '2023-03-31 13:21'
-Modified: '2026-04-10 14:17'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Commodification turns non-tradable values into economic transactions.png]]'
 ImageText: >-
   Three packaged figures on a shelf with price tags, showing a man, woman, and
@@ -20,6 +20,10 @@ aliases:
   - Commodification
   - Commodification
 new_schema: true
+Topic:
+  - '[[Consumption and Commodification]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -61,9 +65,3 @@ The less severe example is the question whether to treat blood or kidney donatio
 ## Visual
 
 ![Commodification turns non-tradable values into economic transactions](/notes/commodification-turns-non-tradable-values-into-economic-transactions.webp)
-
-## Overview
-🔼Topic:: [Consumption and Commodification](/notes/consumption-and-commodification.md)
-◀Origin::
-🔗Link::
-

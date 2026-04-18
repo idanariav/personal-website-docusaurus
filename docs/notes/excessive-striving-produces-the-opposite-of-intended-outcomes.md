@@ -1,13 +1,13 @@
 ---
 UUID: 20230708070446
 Created: '2023-07-08 07:04'
-Modified: '2026-04-03 18:12'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - The law of reverse effect
   - The law of reverse effect
@@ -17,6 +17,10 @@ Description: >-
   achievement; instead, emphasizing present actions and experiences fosters
   success and creativity.
 new_schema: true
+Topic:
+  - '[[Acceptance and Effortless Action]]'
+Origin: '[[Einzelganger]]'
+URL: 'https://youtu.be/VpcQVjSVqOM'
 draft: false
 SiteProcssed: true
 ---
@@ -47,7 +51,7 @@ By being [vulnerable](/notes/vulnerability-is-emotional-openness-enabling-authen
 
 ### Examples
 
-We get stressed out in tests because we really want to succeed. Therefore, it is not a surprise that we are more likely to perform worse compared to our training. Instead of giving our complete [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md) to what we are trying to accomplish, we are too focused on "what ifs", thinking about the future [Focus on what you can do next not what went wrong](/notes/focus-on-what-you-can-do-next-not-what-went-wrong.md), about what we are trying to achieve, leaving little for the actual test. We are both [distracted](/notes/distraction.md) and [stressed](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md).
+We get stressed out in tests because we really want to succeed. Therefore, it is not a surprise that we are more likely to perform worse compared to our training. Instead of giving our complete [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md) to what we are trying to accomplish, we are too focused on "what ifs", thinking about the future [Focus on what you can do next not what went wrong](/notes/focus-on-what-you-can-do-next-not-what-went-wrong.md), about what we are trying to achieve, leaving little for the actual test. We are both [distracted](/notes/distractions-pull-us-towards-them-as-a-temptation.md) and [stressed](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md).
 
 The more "true" you are trying to be by a certain ideology or belief, or in simpler terms, the more "extreme" you are, not only do you affect your chances to be understood and come to an agreement with the other side; you are even more destructive to your own belief!
 
@@ -65,10 +69,3 @@ But if all those people are his enemies, who is left of his nation? Who is he tr
 ## Visual
 
 ![The law of reverse effect](/notes/the-law-of-reverse-effect.webp)
-
-## Overview
-🔼Topic:: [Acceptance and Effortless Action](/notes/acceptance-and-effortless-action.md)
-◀Origin:: [Einzelganger](/notes/einzelganger.md)
-🔗Link:: [Link](https://youtu.be/VpcQVjSVqOM)
-
-

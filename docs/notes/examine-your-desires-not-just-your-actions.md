@@ -1,19 +1,24 @@
 ---
 UUID: 20240702072024
 Created: '2024-07-02 07:20'
-Modified: '2026-04-06 23:12'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Second order thinking
 Description: >-
   A reflective cognitive process that evaluates one's preferences and values,
   distinguishing between immediate desires and deeper self-alignment.
 new_schema: true
+Topic:
+  - '[[Freedom and Agency]]'
+  - '[[Self-Tracking and Reflection]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -45,9 +50,3 @@ For example, a first order thinking would be "I want to eat chocolate right now"
 ## Visual
 
 ![Second order thinking](/notes/second-order-thinking.webp)
-
-## Overview
-🔼Topic:: [Freedom and Agency](/notes/freedom-and-agency.md)
-🔼Topic:: [Self-Tracking and Reflection](/notes/self-tracking-and-reflection.md)
-↩️Origin::
-🔗Link::

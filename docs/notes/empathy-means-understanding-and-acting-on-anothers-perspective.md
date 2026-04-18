@@ -1,13 +1,13 @@
 ---
 UUID: 20230327064908
 Created: '2023-03-27 06:49'
-Modified: '2026-04-08 17:15'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Empathy means understanding and acting on another''s perspective.png]]'
 ImageText: 'A person struggling to lift a boulder, then two people lift it together'
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Empathy
   - Emotional Contagion
 new_schema: true
+Topic:
+  - '[[Virtuous Disposition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ At the social level, it can be argued that empathy promotes [Cooperation is work
 ## Visual
 
 ![Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.webp)
-
-## Overview
-🔼Topic:: [Virtuous Disposition](/notes/virtuous-disposition.md)
-◀Origin::
-🔗Link::
-

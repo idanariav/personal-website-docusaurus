@@ -1,20 +1,24 @@
 ---
 UUID: 20230331103942
 Created: '2023-03-31 10:39'
-Modified: '2025-05-02 08:35'
+Modified: '2026-04-13 06:15'
 tags: []
 Author:
   - '[[Chip Heath]]'
   - '[[Dan Heath]]'
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 291
 Rate: 4
 PublishDate: 2007-01-02T00:00:00.000Z
@@ -22,18 +26,27 @@ FinishDate: 2023-03-29T00:00:00.000Z
 Cover: >-
   http://books.google.com/books/content?id=Yfp79AAohiMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/69242.Made_to_Stick'
+Description: >-
+  It argues that to make a message memorable, one should focus on simplicity,
+  surprise, clarity, credibility, emotional connection, and storytelling,
+  ensuring the core idea resonates with the audience's existing knowledge and
+  evokes a strong response.
+FullTitle: Made to Stick - Why Some Ideas Survive and Others Die
+StartDate: 2023-03-14T00:00:00.000Z
+ASIN: B000N2HCKQ
+Reread: 0
+Topic:
+  - '[[Communication (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Made to Stick (book)
 
-## Connect
-🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 To make a message memorable:
 1. **Simplicity** - Find the easiest way to display your idea, strip it down into the core message, and use the audience's existing knowledge to your advantage, to make mental shortcuts.
@@ -43,11 +56,24 @@ To make a message memorable:
 5. **Emotional** - the idea has to cause an emotional reaction, connect to our identity, to what we care about most
 6. **Story** - a story form is the best format for lasting ideas. We can either focus on a story of challenge, of discovery, or connection.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Strip to the core** - habitually reduce every idea or message to its essential components until nothing unnecessary remains.
+2. **Summarize in few words** - practice writing your main message in as few words as possible each time you prepare communication.
+3. **Use known examples** - before speaking or writing, map one familiar concept the audience already knows and use it to explain your idea.
+4. **Use analogies regularly** - habitually create a simple analogy for complex concepts to connect them to pre-built mental schemas.
+5. **Introduce a relevant surprise** - routinely add one unexpected element that directly relates to your core message to capture attention.
+6. **Open a knowledge gap** - start communications with a question or puzzle that highlights what the audience doesn’t know to spark curiosity.
+7. **Translate into concrete details** - each time you explain something, replace abstract terms with tangible, visual, or sensory details.
+8. **Build credibility with vivid evidence** - habitually include either a persona, a vivid detail, or a statistic that illustrates a clear relationship.
+9. **Trigger emotion and identity** - craft messages that appeal to the audience’s self-interest or desired identity, and address them in second person when possible.
+10. **Tell a purposeful story** - practice using one of three story archetypes (challenge, connection, creativity) to make ideas memorable and actionable.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -55,16 +81,16 @@ To make a message memorable:
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 I enjoyed reading the book, I think that the message is very clear and direct, easy to follow. The best part is probably the workshops where they take a message and tweak it to match the recommendations. That way when you compare the before and after you can really see the effect of these recommendations, and it gives you a good direction to follow.
 
-### 🖼️Outline
+### Outline
 
-![Made to Stick (book).webp](/books/made-to-stick-book.webp)
+![Made to Stick (book)](/books/made-to-stick-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Intro
 
@@ -94,13 +120,13 @@ we can narrow it down to six components:
 
 ### Chapter 1 - Simple
 
-**the main idea of "simple" is to strip the idea to its core components, it focused on having only the essential parts**, an [Addition by subtraction](/notes/addition-by-subtraction.md) methodology, that an idea is complete only when there's nothing more to remove. [Simplicity](/notes/simplicity.md)
+**the main idea of "simple" is to strip the idea to its core components, it focused on having only the essential parts**, an [Improvement often comes from removing rather than adding](/notes/improvement-often-comes-from-removing-rather-than-adding.md) methodology, that an idea is complete only when there's nothing more to remove. [Distilling to essentials creates clarity and actionability](/notes/distilling-to-essentials-creates-clarity-and-actionability.md)
 So start with what's most important, say it in as few words as you can.
 
 This simplicity could give clarity for people on what to think or how to act in ambiguous or confusing situations, this will become their heuristic.
 
 But **simplicity is not only compactness, it's also choosing words that connect to the audience's existing mental models and perceptions**, use as much of their knowledge for your favor.
-For example, I can either do a 100 word paragraph on what a pomelo is, or just say "pomelo is like a grapefruit but larger and purple", which one is easier to remember? [Mental Shortcuts](/notes/mental-shortcuts.md)
+For example, I can either do a 100 word paragraph on what a pomelo is, or just say "pomelo is like a grapefruit but larger and purple", which one is easier to remember? [Mental shortcuts enable faster learning through analogies and simplification](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md)
 
 **Analogies are therefore keys for connecting to a pre-built schemas in the audiences mind, using established concepts, beliefs and expectations.**
 
@@ -117,7 +143,7 @@ For example, I can either do a 100 word paragraph on what a pomelo is, or just s
 
 ### Chapter 2 - Unexpected
 
-humans are used to getting use to. When we begin to perceive something, we are already trying to guess if it similar to something that we've heard and if we can guess the ending. The more similar it is, the less attention we give to it since we can "finish the sentence" without really listening. [Expectations](/notes/expectations.md)
+humans are used to getting use to. When we begin to perceive something, we are already trying to guess if it similar to something that we've heard and if we can guess the ending. The more similar it is, the less attention we give to it since we can "finish the sentence" without really listening. [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md)
 That's why your idea has to be surprising, but it can't just be surprising for surprise sake. **When something surprises us, we pay more attention so that we could learn from it for next time**.
 That unexpected thing we are trying to learn has to be related to your core message.
 Showing an ad about a band that suddenly gets eaten by wolf is surprising but there is no message, so it's a worthless ad. Showing an ad about a nice family car that drives around the neighborhood but suddenly gets slammed by a truck is not only surprising, but also relevant if the core message is "it can happen anywhere, so buckle up".
@@ -140,10 +166,10 @@ For example, instead of saying " only 10% of our young customers are contributin
 ### Chapter 3 - Concrete
 
 To make our ideas understandable, we have to avoid two issues:
-1. **the curse of knowledge** - after we know something its hard for us to image what it is like to not know it, what do regular people think about it? [Curse of Knowledge](/notes/curse-of-knowledge.md)
+1. **the curse of knowledge** - after we know something its hard for us to image what it is like to not know it, what do regular people think about it? [Once learned, knowledge makes it impossible to imagine its absence](/notes/once-learned-knowledge-makes-it-impossible-to-imagine-its-absence.md)
 2. **abstract ideas** - sticking with general abstract ideas are difficult to understand
 
-To solve these problems we have to be concrete. We need, tangible, clear, visual ideas that are easy to understand even if you're not familiar with the field. It cannot rely on jargon or concepts known only to experts. we have to avoid [Ambiguity](/notes/ambiguity.md) and get [Clarity](/notes/clarity.md)
+To solve these problems we have to be concrete. We need, tangible, clear, visual ideas that are easy to understand even if you're not familiar with the field. It cannot rely on jargon or concepts known only to experts. we have to avoid [Ambiguity is the absence of clarity in values or facts](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.md) and get [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md)
 
 :::note[CONCRETE]
 
@@ -175,12 +201,12 @@ for example, saying that Bambi is more dangerous than a shark, by 300! (if you h
 
 ### Chapter 5 - Emotional
 
-**To make us invested in a story, to make it memorable, it has to [Trigger](/notes/priming.md) an emotion within us**. The thing that reduces emotional reaction is statistics and facts, this cause us to switch to the analytical mind, which is less emotional. [Econs](/notes/econs.md)
+**To make us invested in a story, to make it memorable, it has to [Trigger](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) an emotion within us**. The thing that reduces emotional reaction is statistics and facts, this cause us to switch to the analytical mind, which is less emotional. [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md)
 For example, people tend to donate more when they are shown with a picture of a starving child, rather than hearing that 1 million children are starving in Africa.
 
 Another way to trigger emotional reaction is to talk about what people care most, which is sometimes their self interest. By "tempting" the audience we can have a strong emotional reaction. Headlines like "5 tips to reduce your stress". Also, by making the reader the focus of the story, talking to him in second person rather than a description of something far away could be very helpful.
 
-However, self interest is not always the solution, we should keep [Maslows pyramid](/notes/maslows-pyramid.md) in mind. People are also after self actualization, a higher purpose, Identity. **By saying messages that connect with who they are or who they want to be, we have a much higher chance of success** [Emotional Contagion](/notes/empathy.md)
+However, self interest is not always the solution, we should keep [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md) in mind. People are also after self actualization, a higher purpose, Identity. **By saying messages that connect with who they are or who they want to be, we have a much higher chance of success** [Emotional Contagion](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md)
 
 :::note[EMOTIONAL]
 
@@ -192,7 +218,7 @@ However, self interest is not always the solution, we should keep [Maslows pyram
 
 ### Chapter 6 - Stories
 
-stories are a powerful method of delivering information because they invoke the creation of mental representations or simulations, which would lead not only to stronger memory, but also make it easier to follow through with the message. [Storytelling](/notes/storytelling.md)
+stories are a powerful method of delivering information because they invoke the creation of mental representations or simulations, which would lead not only to stronger memory, but also make it easier to follow through with the message. [Humans process and retain information better through stories than abstract facts](/notes/humans-process-and-retain-information-better-through-stories-than-abstract-facts.md)
 
 There are three main archetypes of stories you can use:
 1. **Challenge** - a story how someone overcame a difficult challenge - a David and goliath story

@@ -1,19 +1,23 @@
 ---
 UUID: 20221021141609
 Created: '2022-10-21 14:16'
-Modified: '2026-04-08 13:23'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases: []
 Description: >-
   A concept emphasizing that humans inherently require social interactions for
   emotional fulfillment and identity formation, with meaningful connections
   being essential for well-being and happiness.
 new_schema: true
+Topic:
+  - '[[Social Nature]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,9 +57,3 @@ Alternatively, we come alive when we interact with others, when we [give](/notes
 ## Visual
 
 ![Human is a social being](/notes/human-is-a-social-being.webp)
-
-## Overview
-🔼Topic:: [Social Nature](/notes/social-nature.md)
-◀Origin::
-🔗Link::
-

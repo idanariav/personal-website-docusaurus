@@ -1,13 +1,13 @@
 ---
 UUID: 20220715053355
 Created: '2022-07-15 05:38'
-Modified: '2026-04-01 09:37'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Intertemporal Identity
   - psychological continuity
@@ -16,6 +16,10 @@ Description: >-
   selves, influencing their present through experiences, relationships, and
   aspirations, creating a continuous, interconnected self.
 new_schema: true
+Topic:
+  - '[[Identity Structure]]'
+Origin: '[[Hi-Fi Nation]]'
+URL: 'https://www.podcastrepublic.net/episode/35063478554'
 draft: false
 SiteProcssed: true
 ---
@@ -47,9 +51,3 @@ We might also consider that a person is also the after-image that he leaves in t
 ## Visual
 
 ![Intertemporal Identity](/notes/intertemporal-identity.webp)
-
-## Overview
-🔼Topic:: [Identity Structure](/notes/identity-structure.md)
-◀Origin:: [Hi-Fi Nation](/notes/hi-fi-nation.md)
-🔗Link:: [Source](https://www.podcastrepublic.net/episode/35063478554)
-

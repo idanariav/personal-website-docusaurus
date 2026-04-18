@@ -1,47 +1,62 @@
 ---
 UUID: 20230121063333
 Created: '2023-01-21 06:33'
-Modified: '2024-02-16 06:33'
-Version: 1
+Modified: '2026-04-13 06:16'
 tags: []
-FinishDate: 2023-01-21T00:00:00.000Z
+FullTitle: >-
+  Peak - Unleashing Your Inner Champion Through Revolutionary Methods for Skill
+  Acquisition and Performance Enhancement in Work, Sports, and Life
+Description: >-
+  It argues that achieving mastery requires smarter strategies rather than
+  harder efforts. Emphasizing the value of expert guidance, active learning, and
+  feedback, it highlights the significance of mental representations and
+  personal coaching in the pursuit of excellence.
 Author:
   - '[[Anders Ericsson]]'
   - '[[Robert Pool]]'
-Pages: 336
-Rate: 2
-Stored: Kindle
-Purchased: true
-Fiction: false
 URL: 'https://www.goodreads.com/book/show/26312997-peak'
-aliases: null
-ReadingStatus: Read
-Genre: Science
 Cover: >-
   http://books.google.com/books/content?id=01QyCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+Genre: Science
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B011H56MKS
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 336
+Reread: 0
+Rate: 2
 PublishDate: 2016-04-21T00:00:00.000Z
+StartDate: 2023-01-09T00:00:00.000Z
+FinishDate: 2023-01-21T00:00:00.000Z
+Image: ''
+aliases: null
+Topic:
+  - '[[Mastery requires deliberate practice and hard work, not innate talent]]'
+  - '[[Deliberate Practice is the best way to develop skills]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Peak (book)
 
-## Connect
-🔼Topic:: [Mastery](/notes/mastery.md)
-🔼Topic:: [Deliberate Practice](/notes/deliberate-practice.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas* 
 Don't try harder, try smarter. Look for the experts, be an active learner, and
 search for feedback.  By understanding the importance of mental representations, feedback, engagement, and having a personal coach, you can achieve mastery
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 Mental representations as the basis of learning is an interesting idea that
@@ -58,14 +73,14 @@ Thus, we are left with two main ideas that cover about third of the book, and th
 🧱 *Implementations and limitations of it are...*
 the "go-to" attitude of this book is find a coach, which might be a solution for those 1% who
 want to have peak achievements, but in my opinion it disregards the advantages and capabilities of those who study by their own.
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
-## 📒 Notes
+## Notes
   
 ### Intro  
-What we usually thought is the cause of innate [Competence](/notes/competence.md) is actually the cause of years of practice. Out body and minds ability to adapt, to learn, and to create new connections is the root of peak achievements. [Adaptability](/notes/adaptability.md)
+What we usually thought is the cause of innate [Competence is developed through practice not innate talent](/notes/competence-is-developed-through-practice-not-innate-talent.md) is actually the cause of years of practice. Out body and minds ability to adapt, to learn, and to create new connections is the root of peak achievements. [Our beliefs must adapt as context and goals change](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md)
 **Deliberate practice is therefore the key for improvement.**  
   
 :::note[Introduction: The Gift]
@@ -99,7 +114,7 @@ There are two types of practices, the first is the naïve type, a "*just do it*"
 
 ### Chapter 2 - brain adaptability  
   
-The body and mind are always adapting to the challenges they're facing. **Change can only come when's it's beyond your current capabilities**, but not by too much.  [Challenge](/notes/struggle.md) 
+The body and mind are always adapting to the challenges they're facing. **Change can only come when's it's beyond your current capabilities**, but not by too much.  [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) 
   
 :::note[Harnessing Adaptability]
 
@@ -111,11 +126,11 @@ The body and mind are always adapting to the challenges they're facing. **Change
 
 ### Chapter 3 - Mental representations  
   
-**what separates experts from novices is not the amount of knowledge, but rather its organized structure**. As mastery develops, you begin to form mental representations of your field of expertise, which is an assortment of [context](/notes/context.md)-domain specific knowledge into groups. Which would allow faster recognition of patterns, perhaps even automatically, with reduction of cognitive load and errors. 
-An example could be a set of chess-board layouts and the possible moves for each scenario, this could be a collection of symptoms into a diagnosis, or a "feeling" [Intuition](/notes/intuition.md) of where should your fingers be at all times when playing a piano piece.  
+**what separates experts from novices is not the amount of knowledge, but rather its organized structure**. As mastery develops, you begin to form mental representations of your field of expertise, which is an assortment of [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md)-domain specific knowledge into groups. Which would allow faster recognition of patterns, perhaps even automatically, with reduction of cognitive load and errors. 
+An example could be a set of chess-board layouts and the possible moves for each scenario, this could be a collection of symptoms into a diagnosis, or a "feeling" [Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md) of where should your fingers be at all times when playing a piano piece.  
 This mental representations cannot be transferred from one skill to another, so you cannot develop them by practicing a "general skill".  
   
-[Mental Representations](/notes/mental-representations.md) and expertise are a two way street, you create them by practicing, but also they improve your skills.  
+[We store knowledge as visual mental models](/notes/we-store-knowledge-as-visual-mental-models.md) and expertise are a two way street, you create them by practicing, but also they improve your skills.  
   
 :::note[Mental Representations]
 
@@ -135,7 +150,7 @@ This mental representations cannot be transferred from one skill to another, so 
   
 first of all, **no one becomes an expert without putting the work**. Talent is not enough, and there is a somewhat correlation between time spent practicing and the quality of your skill, although as we said, you might hit a ceiling, and it depends on the type of practice.  [Practice beats talent](/notes/practice-beats-talent.md)
   
-second, **you must find an expert to help you improve**. This is critical mostly for the useful feedback, and sharing the best mental representations in the field. Strategy for practicing is key, and it usually requires a coach.  [Mentor](/notes/mentor.md)
+second, **you must find an expert to help you improve**. This is critical mostly for the useful feedback, and sharing the best mental representations in the field. Strategy for practicing is key, and it usually requires a coach.  [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md)
 It is not always easy finding one, either because your field doesn't have known experts yet, or there isn't a clear measure of valuing expertise.  
   
 :::note[The Gold Standard]
@@ -147,7 +162,7 @@ It is not always easy finding one, either because your field doesn't have known 
 
 ### Chapter 5 - practice by doing  
   
-one of the best ways to learn is to set up an environment where you can test out your skills, receive [Feedback](/notes/feedback.md), and have a low cost of errors. [Simulations](/notes/simulations.md) In essence, these are simulations. [supervised learning](/notes/supervised-learning.md).  
+one of the best ways to learn is to set up an environment where you can test out your skills, receive [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md), and have a low cost of errors. [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md) In essence, these are simulations. [supervised learning](/notes/supervised-learning.md).  
 Knowledge can only get you so far, to really improve you have to practice.  
   
 :::note[Principles of Deliberate Practice on the Job]

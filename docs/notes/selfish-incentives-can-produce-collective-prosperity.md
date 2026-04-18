@@ -3,11 +3,11 @@ excalidraw-plugin: parsed
 tags: []
 UUID: 20240702071530
 Created: '2024-07-02 07:15'
-Modified: '2026-04-09 09:51'
+Modified: '2026-04-11 22:27'
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Invisible hand
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   competitive market leads to overall prosperity and abundance, rather than
   altruism.
 new_schema: true
+Topic:
+  - '[[Market Dynamics and Competition]]'
+Origin: '[[Adam Smith (philosopher)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -47,13 +51,3 @@ For example, if the bread maker can become a monopoly and eliminate their compet
 ## Visual
 
 ![Invisible hand](/notes/invisible-hand.webp)
-
-## Overview
-🔼Topic:: [Market Dynamics and Competition](/notes/market-dynamics-and-competition.md)
-↩️Origin:: [Adam Smith (philosopher)](/notes/adam-smith-philosopher.md)
-🔗Link::
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-

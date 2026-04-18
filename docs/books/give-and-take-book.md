@@ -1,19 +1,23 @@
 ---
 UUID: 20220705224352
 Created: '2022-07-05 22:43'
-Modified: '2025-03-19 19:32'
+Modified: '2026-04-13 06:13'
 tags: []
 Author:
   - '[[Adam Grant]]'
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 320
 Rate: 4
 PublishDate: 2013-04-09T00:00:00.000Z
@@ -21,20 +25,29 @@ FinishDate: 2022-05-07T00:00:00.000Z
 Cover: >-
   http://books.google.com/books/content?id=6IFjl3V7ByoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/18662473-give-and-take'
+Description: >-
+  It argues that success stems from giving, as givers build connections and
+  trust, fostering collaboration. While givers enhance others' potential and
+  communicate authentically, they must also prioritize their wellbeing to avoid
+  burnout. Ultimately, a culture of giving can lead to collective prosperity.
+FullTitle: Give and Take - Why Helping Others Drives Our Success
+StartDate: 2022-04-30T00:00:00.000Z
+ASIN: B00AFPTSI0
+Reread: 0
+Topic:
+  - '[[Success (Map)]]'
+  - '[[Providing value without expectation of return cultivates wellbeing]]'
+  - '[[Wellbeing (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Give and Take (book)
 
-## 🔗Connect
-🔼Topic:: [Success (Map)](/mocs/success-map.md)
-🔼Topic:: [Giving](/notes/giving.md)
-🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Success is all about giving** - Givers who are those who actually succeed, the more they combine between their personal and the common interest, and give without expecting a reward. in our rapidly connected world, its easier for givers to build connections and trust, and thus succeed faster.
 2. **Connections**:
@@ -44,11 +57,24 @@ SiteProcssed: true
 3. **Don't neglect yourself** - Givers who give everything unconditionally all the time will burnout and be miserable. Dedicate time and energy for your wellbeing, remember that it is okay to say no, don't trust takers, and give yourself a chance to view the outcomes of your giving for extra motivation.
 4. **Giving is contagious** - in a society where giving is the norm, where it is shared through identity and signaling, we can have prosperity.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Do five-minute favors** - perform helpful tasks that take five minutes or less for others to build goodwill and expand your network.
+2. **Ask for advice** - solicit advice from others when you lack authority to encourage influence and enlist their commitment to your perspective.
+3. **Admit non‑critical weaknesses** - honestly disclose flaws unrelated to core expertise to build connection and trust.
+4. **Ask more questions and listen** - practice question-led, tentative speech and active listening to learn others’ perspectives and foster cooperation.
+5. **Give public credit to others** - explicitly acknowledge teammates’ contributions before assessing your own to strengthen collaboration and psychological safety.
+6. **Screen for takers** - check reputation and speak with people lower in hierarchy (or close contacts) to identify those who exploit networks.
+7. **Chunk giving and build support** - schedule giving in energizing blocks, and cultivate a support network you can call on so giving is sustainable.
+8. **Practice otherish giving** - choose giving opportunities that benefit others while protecting your own interests (avoid unconditional over‑giving).
+9. **Look for win‑win solutions** - reframe negotiations as acts of connection and proactively seek creative outcomes that help both sides.
+10. **Signal and reinforce a giving culture** - strengthen shared group identity and make generosity visible so giving becomes the social norm.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 It's nice to read a book that presents "givers" not only as good people but also as those who are most likely to success, and I agree with the saying that in the end reputation is something important, and that it is gained by connecting and helping others in a caring way.
@@ -58,16 +84,16 @@ The simplification of "givers, takers, and matchers" falls short near the end, b
 
 🧱 *Implementations and limitations of it are...*
 This book ignores the cultural differences between workplaces, countries and organizations. It might be that there are places where they value givers differently, or things that you "have to do" to get ahead that otherwise you won't be able to advance professionally. Although I believe that most of the guidelines of this book are true anyway, this does have to be taken into account.
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 Aside the specific agree/disagree points, I think this is a good book. It's important to have such a book that talks about a healthier work environment and culture, where people help and promote each other instead of a "dog eats dog" world. I think this is another book within a movement of changing the work culture, purpose and management styles in the 21th century, and detaching from the "corporate slave" or "capitalistic entrepreneur" that we have known for the last decades.
 The last chapter that's about actions that can be done to promote giving in the organization or private life was too short and could be extended by shortening other chapters. What keeps it from becoming a 5 star is that it could have been shorter, and that his theory is a bit stretched and simplified in order to make the book more appealing, even if it is based on truth.
 
-### 🖼️Outline
+### Outline
 
-![Give and Take (book).webp](/books/give-and-take-book.webp)
-## 📒 Notes
+![Give and Take (book)](/books/give-and-take-book.webp)
+## Notes
 
 ### Good Returns The Dangers and Rewards of Giving More Than You Get
 
@@ -75,7 +101,7 @@ In businesses, relationships and all other human interactions, that are givers, 
 In each different type of interaction we can act differently - a giver in our relationship, but a taker in our workplace, but most people have a dominant type.
 Givers, apparently are at the top and the bottom of the most successful people.
 
-**Givers get more in the long run, they understand that life can be made up of [win win situations](/notes/win-win-situations.md).** it takes [time](/notes/patience.md) to develop [trust](/notes/trust.md), [Cooperation](/notes/cooperation.md) and mutual growth. Today in our rapidly connected world, its easier for givers to build those connections, and thus succeed faster.
+**Givers get more in the long run, they understand that life can be made up of [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md).** it takes [time](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md) to develop [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md), [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md) and mutual growth. Today in our rapidly connected world, its easier for givers to build those connections, and thus succeed faster.
 
 :::note[Good Returns The Dangers and Rewards of Giving More Than You Get]
 
@@ -99,7 +125,7 @@ Networks are one of the main ways to get new skills, to get help and to grow in 
 1. Talk with the people closest to them, preferably those who are beneath them hierarchically.
 2. Check their public behavior, for example do they use "I" a lot, focused on their ego and image, etc...
 
-Giving makes our network grow because we are willing to give to those that we don't necessarily expect to give back in return. The result is not only that the network is bigger, but also more efficient because its precisely those [Weak Ties](/notes/weak-ties.md) that help us the most in the long run by giving us access to new kinds of information and skills as opposed to our closest environment are most likely exposed to the same opportunities we are exposed to.
+Giving makes our network grow because we are willing to give to those that we don't necessarily expect to give back in return. The result is not only that the network is bigger, but also more efficient because its precisely those [Weak social ties bridge different networks and expand access to opportunities](/notes/weak-social-ties-bridge-different-networks-and-expand-access-to-opportunities.md) that help us the most in the long run by giving us access to new kinds of information and skills as opposed to our closest environment are most likely exposed to the same opportunities we are exposed to.
 
 **Giving is contagious**. When we help others without expecting return, we encourage others to do the same, and increase the circulation of help in our network.
 
@@ -123,9 +149,9 @@ Giving makes our network grow because we are willing to give to those that we do
 
 ### The Ripple Effect Collaboration and the Dynamics of Giving and Taking Credit
 
-**The strength of a team comes not from the genius of a single member, rather from the level of their** cooperation. They realize that [Dependency](/notes/dependency.md) is a strength, not a weakness. They create a feeling of [Psychological safety](/notes/psychological-safety.md) because they are [authentic](/notes/authenticity.md) in their desire to help the common cause.
+**The strength of a team comes not from the genius of a single member, rather from the level of their** cooperation [collective intelligence](/notes/collective-intelligence.md). They realize that [Dependency](/notes/dependency.md) is a strength, not a weakness. They create a feeling of [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md) because they are [authentic](/notes/acting-in-alignment-with-your-values-is-authenticity.md) in their desire to help the common cause.
 
-Givers don't take the credit for themselves, but rather give credit to others [Ego](/notes/form-vs-essence.md). We are inclined to think that we do more than others simply because we are more aware of our own actions than others.
+Givers don't take the credit for themselves, but rather give credit to others [Ego](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md). We are inclined to think that we do more than others simply because we are more aware of our own actions than others.
 When givers are in a team, they are more free to do bold actions, because the team knows they do it for the right reasons, for the benefit of all, and not personal gain.
 
 :::note[The Ripple Effect Collaboration and the Dynamics of Giving and Taking Credit]
@@ -143,13 +169,13 @@ When givers are in a team, they are more free to do bold actions, because the te
 
 ### Finding the Diamond in the Rough The Fact and Fiction of Recognizing Potential
 
-Givers create good teams because they help others fulfil their potential, and promote information exchange, cooperation and trust. Givers are not necessarily geniuses, but they are "geniuses makers", they create the environment necessary for a genius to truly shine. [developing capabilities](/notes/developing-capabilities.md) They are a [Multiplier](/notes/multiplier.md) to the team's success.
-Their team is more capable in the long run because believing in them and dedicating attention to their development is a [Self fulfilling prophecy](/notes/fake-it-till-you-make-it.md). [People First](/notes/people-first.md)
+Givers create good teams because they help others fulfil their potential, and promote information exchange, cooperation and trust. Givers are not necessarily geniuses, but they are "geniuses makers", they create the environment necessary for a genius to truly shine. [developing capabilities](/notes/developing-capabilities.md) They are a [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) to the team's success.
+Their team is more capable in the long run because believing in them and dedicating attention to their development is a [Self fulfilling prophecy](/notes/being-emerges-from-action-not-belief.md). [People are the most valuable organizational resource](/notes/people-are-the-most-valuable-organizational-resource.md)
 
 How do givers create better teams:
-1. They give more emphasis on [grit](/notes/grit.md) and motivation rather than natural talent [Growth Mindset](/notes/growth-mindset.md)
-2. They are less likely to fall for [Sunk Cost](/notes/sunk-cost.md), since they care about the success of the team and the mission, and not their personal ego. They will be more open to admit their mistakes and to stop something that isn't working. [Failure](/notes/failure.md)
-3. They are more open to criticism, and work to improve themselves and the team [Feedback](/notes/feedback.md)
+1. They give more emphasis on [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) and motivation rather than natural talent [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)
+2. They are less likely to fall for [Past costs irrationally justify future commitment decisions](/notes/past-costs-irrationally-justify-future-commitment-decisions.md), since they care about the success of the team and the mission, and not their personal ego. They will be more open to admit their mistakes and to stop something that isn't working. [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md)
+3. They are more open to criticism, and work to improve themselves and the team [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md)
 
 :::note[Finding the Diamond in the Rough The Fact and Fiction of Recognizing Potential]
 
@@ -169,11 +195,11 @@ How do givers create better teams:
 
 Givers create better human connection because they show that they are honest and come with good intentions.
 
-As long as it is not relevant to what defines you as an expert, be honest and admit your flows [Accusation audit](/notes/accusation-audit.md), it will help to create the connection. [Vulnerability](/notes/vulnerability.md).
+As long as it is not relevant to what defines you as an expert, be honest and admit your flows [Expose your flaws before others discover them](/notes/expose-your-flaws-before-others-discover-them.md), it will help to create the connection. [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md).
 
-*Givers tend to ask more questions*, which shows the partner that they are interested in what they have to say. They also get a chance to learn more about the other side. [Active Listening](/notes/active-listening.md)
+*Givers tend to ask more questions*, which shows the partner that they are interested in what they have to say. They also get a chance to learn more about the other side. [Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.md)
 *Givers tend to use a more soft way of talking*, so the other side doesn't feel that they are being forced to accept an opinion, rather they can also express and decide for themselves.
-Givers tend to ask for help and [Advice](/notes/advice.md), which makes the partner to adapt their point of view.
+Givers tend to ask for help and [Seeking and giving advice both expand our perspective](/notes/seeking-and-giving-advice-both-expand-our-perspective.md), which makes the partner to adapt their point of view.
 
 :::note[The Power of Powerless Communication How to Be Modest and Influence People]
 
@@ -195,14 +221,14 @@ Givers tend to ask for help and [Advice](/notes/advice.md), which makes the part
 We all have a combination between our own interest and caring for others.
 
 the difference between a sacrificer and a giver:
-Sacrifiers will probably experience [Burnout](/notes/burnout.md) and low success.
+Sacrifiers will probably experience [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md) and low success.
 the difference between a matcher and a giver:
 matchers expect to receive each time he helps someone, while givers don't expect to receive something back, they just control how much and when to give.
 
 2. **Givers fail when they feel forced to give everything, all the time**
-The key to being a good giver is to not give too much, that you are no longer able to provide for yourself [Self-compassion](/notes/self-compassion.md).
+The key to being a good giver is to not give too much, that you are no longer able to provide for yourself [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md).
 
-Being a giver out of choice, and not of coercion will give us a renewed sense of satisfaction and enjoyment [Agency](/notes/agency.md).
+Being a giver out of choice, and not of coercion will give us a renewed sense of satisfaction and enjoyment [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md).
 3. **Giver tend to lose motivation when they don't see the results of their actions.**
 4. **Givers fail when they trust takers**
 Giver tend to trust too much, they help takers who take advantage of them. Smart givers should know who to help, and to filter the requests. Note that looks can be deceiving, Some givers don't seem nice at all, and takers can pretend.
@@ -249,11 +275,11 @@ You should look for the win-win cases and not as a zero-sum. but taking others i
 
 ### The Scrooge Shift Why a Soccer Team, a Fingerprint, and a Name Can Tilt Us in the Other Direction
 
-A sense of community increases our desire to help and give our community members, especially when we acknowledge all the benefits we get from being a member of that community. [us vs them](/notes/us-vs-them.md).
+A sense of community increases our desire to help and give our community members, especially when we acknowledge all the benefits we get from being a member of that community. [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md).
 **The stronger the shared identity with others, the more we want to help**.
-The feeling of shared identity is actually stronger in smaller groups, because it combines the sense of [Belonging](/notes/inclusion.md) with the sense of being unique.
+The feeling of shared identity is actually stronger in smaller groups, because it combines the sense of [Belonging](/notes/inclusion-means-proactively-welcoming-and-believing-in-others.md) with the sense of being unique.
 When you create a community where giving is the norm, it creates a behavioral change in the members. Givers will reveal themselves since currently they tend to hide in communities where taking is the norm.
-Having more givers "out in the open" will encourage others to do the same [Role Models](/notes/role-models.md). [Signaling](/notes/signaling.md)
+Having more givers "out in the open" will encourage others to do the same [Role models embody behaviors and values we aspire to adopt](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md). [Signaling is displaying qualities to appear worthy or successful](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md)
 
 :::note[The Scrooge Shift Why a Soccer Team, a Fingerprint, and a Name Can Tilt Us in the Other Direction]
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20250824174720
 Created: '2025-08-24 17:47'
-Modified: '2026-04-08 15:22'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Exercises
   - Movement
@@ -16,6 +16,10 @@ Description: >-
   emphasizing that our physical activities significantly influence our mental
   health and overall quality of life.
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ Practicing movement such as running, swimming, yoga, sports, is not only good fo
 
 
 ## Visual
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-↩️Origin::
-🔗Link::

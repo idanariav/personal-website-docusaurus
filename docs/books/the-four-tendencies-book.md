@@ -1,39 +1,56 @@
 ---
 UUID: 20240415113109
 Created: '2024-04-15 11:31'
-Modified: '2025-05-02 09:22'
+Modified: '2026-04-13 06:19'
 tags: []
+FullTitle: >-
+  The Four Tendencies - The Indispensable Personality Profiles That Reveal How
+  to Make Your Life Better
+Description: >-
+  It argues that understanding personal tendencies is essential for effective
+  communication and self-management. The four tendencies—Upholder, Questioner,
+  Obliger, and Rebel—each have unique characteristics that influence motivation
+  and interactions, highlighting the importance of tailored approaches in
+  personal and professional relationships.
 Author:
   - '[[Gretchen Rubin]]'
+URL: 'https://www.goodreads.com/book/show/33915586-the-four-tendencies'
+Cover: >-
+  http://books.google.com/books/content?id=GtcpDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Self-Help
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B01MU23P0N
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 272
+Reread: 0
 Rate: 4
 PublishDate: 2017-09-12T00:00:00.000Z
+StartDate: 2024-04-22T00:00:00.000Z
 FinishDate: '[[2024-04-27|2024-04-27]]'
-Cover: >-
-  http://books.google.com/books/content?id=GtcpDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/33915586-the-four-tendencies'
+Image: null
+aliases: ''
+Topic:
+  - '[[Human Nature (Map)]]'
+  - '[[behavioral psychology (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Four Tendencies
 
-## 🔗Connect
-🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
-🔼Topic:: [Behavioral Psychology (Map)](/mocs/behavioral-psychology-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Don't fight yourself** - each person has its own tendency, and this is a core aspect of your being, so instead of fighting yourself and trying to change it, a loss battle, learn to work with your tendency
 2. **It's all about communication** - how we interact with others have to take into account their tendency.
@@ -43,12 +60,12 @@ SiteProcssed: true
 	3. **Obliger** - Obligers are those who have no problem with "showing up" when expected of them, but fail to do stuff for themselves. In be motivated, they need to feel accountable. Therefore any type of accountability device or person could be useful. However, sometimes the accountability can't be forced upon, it has to relate to actual harmful consequences if they fail. Also they might have a hard time saying no, which will cause them to experience burnout and be exploited. While they need others' help to manage the load, they often get no sympathy from other tendencies.
 	4. **Rebel** - freedom is their top priority. Anything that binds them to a schedule, a behavior, goes against their freedom and feels like an attack against their authentic life. Their tendency to subvert expectations is a double edged sword. On the one side, they can be highly creative and effective people, stopping at nothing to achieve their goal . However, The more we want them to do something, the more they want to do the opposite, even at the price of self harm and going against their goals, so managing or working with them can be a nightmare. To communicate with a rebel, it's best to provide information and potential consequences without implying which action to take, and reassure that they can choose whatever they want.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 I'm an Upholder, and Yasmin is an Obliger.
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 A person who not only understand himself better and what drives them to action, but also others, thus improving your relationships with people from other tendencies.
@@ -58,23 +75,23 @@ I wonder whether it is harmful to say that one can't change their tendency, is i
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 While I enjoy the content greatly, it's evident that there's not a lot of content to go through, and this book could have easily been half the length.
 
-### 🖼️Outline
+### Outline
 
-![The Four Tendencies (book).webp](/books/the-four-tendencies-book.webp)
-## 📒 Notes
+![The Four Tendencies (book)](/books/the-four-tendencies-book.webp)
+## Notes
 
 ### The Four Tendencies
 
 She has discovered from her research four main tendencies that accuracy portraits how people interact with the world, specifically the tension between their time and others.
 
-The main divider is [Expectations](/notes/expectations.md), both:
-1. **External expectations** - what our family, society, friends excepts us to be or to do [Social Environment](/notes/social-environment.md)
-2. **Internal expectations** - what we aspire for ourselves, our personal goals [Goal Setting](/notes/lifes-mission.md)
+The main divider is [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md), both:
+1. **External expectations** - what our family, society, friends excepts us to be or to do [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
+2. **Internal expectations** - what we aspire for ourselves, our personal goals [Goal Setting](/notes/clear-direction-matters-more-than-speed-of-progress.md)
 
 From these two types of expectations, we get 4 archetypes of personality:
 1. **Upholders** - respond both to internal and external expectations 
@@ -84,9 +101,9 @@ From these two types of expectations, we get 4 archetypes of personality:
 
 While it's true that we sometimes act "across tendencies", in general we all stick with one tendency, no matter who we are with or where we are.
 
-The goal is not to change yourself, there's no "best tendency", the goal is to live in harmony with yourself [harmonious self](/notes/harmonious-self.md), to match the environment [Environmental design](/notes/nudge.md) to your tendency. Also, she believes that change of such a deep part of yourself is impossible [fixed mindset](/notes/fixed-mindset.md)
+The goal is not to change yourself, there's no "best tendency", the goal is to live in harmony with yourself [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md), to match the environment [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md) to your tendency. Also, she believes that change of such a deep part of yourself is impossible [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md)
 
-Similarly, when you communicate with someone, it's essential to know what their tendency is and match your way of speaking, aka the explanations and justifications that you use for that person, to have a much healthier communication [resonance](/notes/resonance.md).
+Similarly, when you communicate with someone, it's essential to know what their tendency is and match your way of speaking, aka the explanations and justifications that you use for that person, to have a much healthier communication [Resonance is being in sync with reality and others](/notes/resonance-is-being-in-sync-with-reality-and-others.md).
 
 :::note[The Four Tendencies]
 
@@ -101,9 +118,9 @@ Similarly, when you communicate with someone, it's essential to know what their 
 ### Upholders
 *"Discipline is my freedom"*
 
-Upholders are those who meet internal and external expectations. They love structure and [Self Dicipline](/notes/self-control.md), and they **don't have any difficulty following up with their plans, they just "do it", even if it's something they don't enjoy doing, simply because it's needed/recommended**. In that sense, they are self [ motivated](/notes/intrinsic-motivation.md). The don't need reminders or commitment devices to stay on track.
+Upholders are those who meet internal and external expectations. They love structure and [Self Dicipline](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md), and they **don't have any difficulty following up with their plans, they just "do it", even if it's something they don't enjoy doing, simply because it's needed/recommended**. In that sense, they are self [ motivated](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md). The don't need reminders or commitment devices to stay on track.
 
-This makes them [trsutworthy](/notes/trust.md) and reliable, both to themselves and to others, and might even make them a person who others want to follow.
+This makes them [trsutworthy](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) and reliable, both to themselves and to others, and might even make them a person who others want to follow.
 They don't want to fail anyone, either themselves or others, and like it when expectations are clearly [communicated](/notes/explicit.md) to avoid misinterpretation.
 
 While to others they might seem as rigid, they see themselves as free. Knowing they can act according to whatever plan they have without [intrapersonal conflict](/notes/a-person-is-a-community.md) is a liberating experience. 
@@ -132,15 +149,15 @@ When communicating/arguing with an Upholder, **it's better to focus on the trade
 
 Questioners only respond to internal expectations. Any external expectation has to be thoroughly tested before being implemented (and converted into internal expectation). **As a general rule, they don't take anything at face value, they question everything, make their own research before accepting any claim**. The comply with rules only if in their specific context and based on what they know it makes sense.
 
-They are those who likely find how to optimize a system, as they "think outside of the box" [Critical Thinking](/notes/critical-thinking.md). **To convince a questioner, you must attach explanations, sources and logic behind it.** 
+They are those who likely find how to optimize a system, as they "think outside of the box" [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md). **To convince a questioner, you must attach explanations, sources and logic behind it.** 
 
 They enjoy collecting information, even playing the "devil's advocate" in debates, and voice their opinions even if it goes against norms.
 
 Their weakness:
-1. **Not a team player** - it takes time to turn a questioner into a cooperative person, since it's not something automatic for them. Also, cooperating on point A doesn't promise cooperation on point B. [Cooperation](/notes/cooperation.md)
-2. **Analysis paralysis** - it might take them a long time to reach a decision because they have to carefully weight all options and conduct an extensive research, which makes them terrible at making quick decisions, even on trivial things [lost in the infinite](/notes/lost-in-the-infinite.md)
-3. **Arrogant** - since they enjoy exploring reasons and evidence, they usually are very good debaters, which causes them to feel as if they are the [smartest](/notes/over-confidence.md) in the room, more than experts, and even mock those who question them because they just don't know how much time and effort was invested to reach this level of knowledge.
-4. **Inefficiency** - questioners can easily fall to [Perfectionism](/notes/perfectionism.md), either doing something the best way possible, or not at all. If something seems to them as inefficient or a waste of time, it will be very hard for them to do it, even if the end goal is worth while.
+1. **Not a team player** - it takes time to turn a questioner into a cooperative person, since it's not something automatic for them. Also, cooperating on point A doesn't promise cooperation on point B. [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md)
+2. **Analysis paralysis** - it might take them a long time to reach a decision because they have to carefully weight all options and conduct an extensive research, which makes them terrible at making quick decisions, even on trivial things [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md)
+3. **Arrogant** - since they enjoy exploring reasons and evidence, they usually are very good debaters, which causes them to feel as if they are the [smartest](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md) in the room, more than experts, and even mock those who question them because they just don't know how much time and effort was invested to reach this level of knowledge.
+4. **Inefficiency** - questioners can easily fall to [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md), either doing something the best way possible, or not at all. If something seems to them as inefficient or a waste of time, it will be very hard for them to do it, even if the end goal is worth while.
 
 To best communicate with a questioner, remember to include the reasons for your request, and be inquisitive rather than blaming towards the other's lack of cooperative behavior.
 
@@ -155,9 +172,9 @@ To best communicate with a questioner, remember to include the reasons for your 
 ### Obliger
 *"You can count on me, and I'm counting on you to count on me"*
 
-**Obligers are those who have no problem with "showing up" when expected of them, but fail to do stuff for themselves** [Standing up for yourself](/notes/standing-up-for-yourself.md). While we can trust them to get the job done, It doesn't mean that they necessarily enjoy being needed or have a lot of external expectations. Some do this reluctantly and might experience burnout in the end, while others find serving others as a source of meaning and motivation.
+**Obligers are those who have no problem with "showing up" when expected of them, but fail to do stuff for themselves** [Standing up for yourself is courageous authenticity against social pressure](/notes/standing-up-for-yourself-is-courageous-authenticity-against-social-pressure.md). While we can trust them to get the job done, It doesn't mean that they necessarily enjoy being needed or have a lot of external expectations. Some do this reluctantly and might experience burnout in the end, while others find serving others as a source of meaning and motivation.
 
-To help an obliger, **the best thing would be to create external expectations of their preferred internal expectations, using [Commitment Devices](/notes/commitment-devices.md), systems, groups or people.**
+To help an obliger, **the best thing would be to create external expectations of their preferred internal expectations, using [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md), systems, groups or people.**
 
 These can either be negative or positive, personal or technological:
 - Positive:
@@ -167,15 +184,15 @@ These can either be negative or positive, personal or technological:
 	- Personal: an accountability partner that checks in once in a while, provides feedback and criticism when needed
 	- Technological: deadlines, fees or other forms of punishment through commitment devices to deter slacking.
 
-**Some obligers feel that the [Accountability](/notes/accountability.md) has to come from a real place. An app or a fake partner is not enough, the damage has to be relevant and real**. For example like inviting friends over to motivate to clean the house, only their true shame from seeing the mess is a good source of motivation, any other option would still allow slacking because the damage is fake.
+**Some obligers feel that the [You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md) has to come from a real place. An app or a fake partner is not enough, the damage has to be relevant and real**. For example like inviting friends over to motivate to clean the house, only their true shame from seeing the mess is a good source of motivation, any other option would still allow slacking because the damage is fake.
 
 While it could motivate obligers to view internal expectations as an external one, like "to sleep well would make me a better parent for my child", it's important to note that obligers aren't inherently more empathic or altruistic (or lazy or apathic for that matter), it's just the matter of what moves them to action, and the answer is accountability. For example, a close accepting relationship like a marriage can cause one partner's expectations to be perceived as internal to the obliger, even if they are not the same person, because they know that they would be no accountability when they fail.
 
 When they feel overwhelmed with external expectations, the temptation is to clear more time for themselves. However, that free time won't be used wisely without external accountability, since it's precisely those commitments that drive them to action. For example, if they want to read more, they don't need more free alone time for reading, but rather to sign up for a book club.
 
-When overwhelmed with expectations, obligers tend to get frustrated, exhausted and [Burnout](/notes/burnout.md). Even worse, they lack support from other tendencies that see things differently, either because they think that obligers "should spend more focus on themselves", or "care less about what others want from them", both unhelpful for the obliger, and only prompt disappointment or disrespect from other tendencies. Even worse, they might be exploited by others.
+When overwhelmed with expectations, obligers tend to get frustrated, exhausted and [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md). Even worse, they lack support from other tendencies that see things differently, either because they think that obligers "should spend more focus on themselves", or "care less about what others want from them", both unhelpful for the obliger, and only prompt disappointment or disrespect from other tendencies. Even worse, they might be exploited by others.
 
-In those cases, the obliger tends to snap into an act of rebellion, shutting off everything, even in the price of self harm. However, we can stop an obliger from burnout if we help them [Saying no](/notes/saying-no.md) by:
+In those cases, the obliger tends to snap into an act of rebellion, shutting off everything, even in the price of self harm. However, we can stop an obliger from burnout if we help them [Saying no protects time and energy for what matters most](/notes/saying-no-protects-time-and-energy-for-what-matters-most.md) by:
 1. Focusing them that saying no to one thing will clear time for other more important commitments
 2. Enforce external limits
 3. Stop others from exploiting them
@@ -193,9 +210,9 @@ In those cases, the obliger tends to snap into an act of rebellion, shutting off
 ### Rebel
 *"You can't make me, and neither can I"*
 
-Rebels are all about living their true [authentic](/notes/authenticity.md) life. Usually this means that their **[freedom](/notes/negative-freedom.md) is top priority. Anything that binds them to a schedule, a behavior, goes against their freedom and feels like an attack against their authentic life.** 
+Rebels are all about living their true [authentic](/notes/acting-in-alignment-with-your-values-is-authenticity.md) life. Usually this means that their **[freedom](/notes/freedom-from-external-constraints.md) is top priority. Anything that binds them to a schedule, a behavior, goes against their freedom and feels like an attack against their authentic life.** 
 
-The "problem" is that their rebellion doesn't necessarily brings freedom. Often just to feel as if they are free to act otherwise, they go deliberately against whatever they are asked to do, and the more pressure they feel, they more the want to act the opposite. This means that they are affected just as much from peer pressure, but express it differently, even in self harming ways. It's the [The law of reverse effect](/notes/the-law-of-reverse-effect.md), the more you encourage (either positivity or negatively), the less you get back. So [Micro-Management](/notes/micro-management.md), praise, deadlines, all these sorts of things are bound to fail.
+The "problem" is that their rebellion doesn't necessarily brings freedom. Often just to feel as if they are free to act otherwise, they go deliberately against whatever they are asked to do, and the more pressure they feel, they more the want to act the opposite. This means that they are affected just as much from peer pressure, but express it differently, even in self harming ways. It's the [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md), the more you encourage (either positivity or negatively), the less you get back. So [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md), praise, deadlines, all these sorts of things are bound to fail.
 
 **The best way to help a rebel act is to provide information as much as possible, both on the context and the possible consequences, and be clear that they are free to choose**. Another option is to display a request as a challenge, like "I bet you can't get this done by tomorrow".
 

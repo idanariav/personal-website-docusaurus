@@ -1,13 +1,13 @@
 ---
 UUID: 20230710191055
 Created: '2023-07-10 19:10'
-Modified: '2026-04-09 17:25'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Distilling separates essence from noise to simplify understanding.png]]'
 ImageText: >-
   An apple tree with multiple apples transforming into a single apple, then into
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Distillment
 new_schema: true
+Topic:
+  - '[[Active Learning and Deep Encoding]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,10 +57,3 @@ Distillment requires often a combination of the [Executive Attention Network](/n
 ## Visual
 
 ![Distilling separates essence from noise to simplify understanding](/notes/distilling-separates-essence-from-noise-to-simplify-understanding.webp)
-
-## Overview
-🔼Topic:: [Active Learning and Deep Encoding](/notes/active-learning-and-deep-encoding.md)
-🔼Topic:: [Active Learning and Deep Encoding](/notes/active-learning-and-deep-encoding.md)
-◀Origin::
-🔗Link::
-

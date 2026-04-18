@@ -3,15 +3,17 @@ excalidraw-plugin: parsed
 tags: []
 UUID: 20230708064620
 Created: '2023-07-08 06:46'
-Modified: '2024-07-08 07:27'
+Modified: '2026-04-13 06:12'
 Author:
   - '[[Friedrich Nietzsche (philosopher)|Friedrich Nietzsche]]'
 Genre: Philosophy
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 2
 Pages: 240
 Rate: 3
 PublishDate: 1886-01-01T00:00:00.000Z
@@ -21,7 +23,22 @@ Cover: >-
 URL: 'https://www.goodreads.com/book/show/12321.Beyond_Good_and_Evil'
 aliases: null
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
+Description: >-
+  It argues that philosophy should be treated as a science, emphasizing the
+  pursuit of truth without distortion. It champions the strong-willed individual
+  who transcends societal norms, critiques herd mentality, and posits that
+  life’s struggles foster growth, advocating for merit over equality in human
+  evolution.
+FullTitle: Beyond Good and Evil
+StartDate: 2023-06-26T00:00:00.000Z
+ASIN: B003A1K1YQ
+Reread: 0
+Topic:
+  - '[[Existentialism (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -29,13 +46,9 @@ SiteProcssed: true
 
 # Beyond Good and Evil (book)
 
-## 🔗Connect
-🔼Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Philosophy as a science** - most philosophers write as a way to justify what they already believe, not to truly search for truth. Instead we should treat philosophy like science, and see truth as it is without sugar coating it or distorting it based on our hopes and values.
 2. **philosophy requires determination** - A true philosopher should stand his ground, like the prophets of old, even if he is misunderstood or hated by others. His will to truth is a subset of his will to power, which means he will wish to force his truth unto the world, no matter the cost.
@@ -44,13 +57,13 @@ SiteProcssed: true
 5. **Life is a struggle** - we grow by conflict, since nature is a collection of beings with will to power, each seeking to dominate, to expand and enforce itself onto the world. Through struggle we develop, we find solutions, our mental resilience improves.
 6. **Merit triumphs equality** - people should be measured by their merit. By their ability to exert their will to power, to withstand struggles and accept truth as it is. Any other morality that calls for equality prima facia is unjust since it hurts our evolution as humans. We shouldn't ignore the "order of rank" that exists between people.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 1. **Be more scientific** - explore, hypothesis and test your beliefs, don't let your beliefs take control of you. Let truth guide you, and not bend truth to your beliefs. However, you must turn into a full skeptic, not standing by anything because it might be false. As long as you have an hypothesis, stand your ground until it is falsified.
 2. **Embrace struggles** - challenges are what helps us grow. We should seek difficulty rather than try to escape it. All of human ingenuity and resilience comes from overcoming struggles.
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. **Ubermench** - a being beyond good and evil, immune to criticism and external influence, free from slave morality and forces trying to make you a smaller person. A person in control of himself, who sees truth as it is, and do what it takes to fulfill his will to power in brutal honesty.
@@ -65,17 +78,17 @@ SiteProcssed: true
 🧱 *Implementations and limitations of it are...*
 1. **How** - it is unclear how to proceed from here. Even the strongest follower will find himself confused. Besides saying no to everything, to what do we say yes? How do we shed external beliefs? How do we know that we don't just end up becoming a false hermit instead of a true philosopher?
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 1. Most of his writing is negative, meaning that he counters what other philosophers are saying, which makes it difficult to truly understand his point of view
 2. The book is collection of short paragraphs, sometimes related to one another but not necessarily. This makes it difficult to deeply construct an argument, or follow any logic between those. Both with each section, and the general flow between sections.
 
-### 🖼️Outline
+### Outline
 
-![Beyond Good and Evil (book).webp](/books/beyond-good-and-evil-book.webp)
+![Beyond Good and Evil (book)](/books/beyond-good-and-evil-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Preface
 
@@ -90,13 +103,13 @@ it must certainly be conceded that the worst, most durable, and most dangerous o
 
 ### Part 1 - On the Prejudices of Philosophers
 
-Every great philosophy, Nietzsche asserts, is little more than the personal confession. **Philosophers build up complex systems of thought to justify their own assumptions and prejudices**. [Rationalization](/notes/rationalization.md) If we can dig these out, we can see what these philosophers value most deeply, and so gain insight into their character.
+Every great philosophy, Nietzsche asserts, is little more than the personal confession. **Philosophers build up complex systems of thought to justify their own assumptions and prejudices**. [We justify our conclusions after acting, not before](/notes/we-justify-our-conclusions-after-acting-not-before.md) If we can dig these out, we can see what these philosophers value most deeply, and so gain insight into their character.
 
-He claims that all values, and even the value that we ascribe to truth (to pursue the truth), stems from a more basic desire, which is perhaps even tied to actions that we deem as vices, but they are human actions still the same. And that inner will is a will for survival, for growth and prosperity, to exert out strength and our will onto the world. [Will to Power](/notes/will-to-power.md), which is a stronger version of [Will to life](/notes/will-to-life.md)
+He claims that all values, and even the value that we ascribe to truth (to pursue the truth), stems from a more basic desire, which is perhaps even tied to actions that we deem as vices, but they are human actions still the same. And that inner will is a will for survival, for growth and prosperity, to exert out strength and our will onto the world. [The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md), which is a stronger version of [The will to live is a blind biological drive that causes suffering through endless desire](/notes/the-will-to-live-is-a-blind-biological-drive-that-causes-suffering-through-endless-desire.md)
 
-Even those who claim that they are detached from value, as the [stoicism](/notes/stoicism.md), who wishes to live according to nature, are misrepresenting the connection between life and nature. **To live is to rise above nature, to be ever growing, vs nature which is fixed and unmoving**. To live is to desire and prefer. [life as flow](/notes/life-as-flow.md). [Growth Mindset](/notes/growth-mindset.md).
+Even those who claim that they are detached from value, as the [Stoicism teaches detachment from external events to maintain inner freedom](/notes/stoicism-teaches-detachment-from-external-events-to-maintain-inner-freedom.md), who wishes to live according to nature, are misrepresenting the connection between life and nature. **To live is to rise above nature, to be ever growing, vs nature which is fixed and unmoving**. To live is to desire and prefer. [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md). [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md).
 
-Nietzsche contrasts their dogmatism with the "*free spirit*" that is not caught up in a particular point of view. He hopes the philosophers of the future will be characterized by such an experimental method, willing to try out any hypothesis, and follow any argument all the way to its conclusion. [scientific method](/notes/scientific-method.md).
+Nietzsche contrasts their dogmatism with the "*free spirit*" that is not caught up in a particular point of view. He hopes the philosophers of the future will be characterized by such an experimental method, willing to try out any hypothesis, and follow any argument all the way to its conclusion. [Empirical testing not reason alone discovers truth](/notes/empirical-testing-not-reason-alone-discovers-truth.md).
 
 free will is made up of 4 things:
 1. **a sensation** - a bodily sensation, a desire to do a certain action.
@@ -104,10 +117,10 @@ free will is made up of 4 things:
 3. **A command** - we recon that there is something in us that needs to obey us, we are commanding our will onto something, or against something.
 4. **An obeyed** - a force within us has to obey the command.
 
-We are all these parts together. When we will something, we are both the commanding force and the obeying one. We are fighting ourselves. We feel both the desire to enforce our will, and our resistance to it. [intrapersonal conflict](/notes/a-person-is-a-community.md) [harmonious self](/notes/harmonious-self.md).
+We are all these parts together. When we will something, we are both the commanding force and the obeying one. We are fighting ourselves. We feel both the desire to enforce our will, and our resistance to it. [intrapersonal conflict](/notes/a-person-is-a-community.md) [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md).
 
-**He who manages to become the will**, to be "the one" who wills something, preforms that actions, and enjoys the process, i.e both the result and the fact that he has managed to overcome obstacles in fulfilling his will **is the ideal person**. as society is made of many people, a man is made up of many "souls", and those who manage to create a hierarchy where the one who "wills" is at the top, commanding all the other souls is an example of a successful society [willpower is limited](/notes/willpower-is-limited.md)
-In contrast, we have the "*weak will*", which includes those who deny [Responsibility](/notes/responsibility.md) for their actions, putting the [Blame](/notes/blame.md) as far away from them as possible, and also those who believe are in control, but rather are affected by the myths of today's culture. [Peer Pressure](/notes/social-environment.md)
+**He who manages to become the will**, to be "the one" who wills something, preforms that actions, and enjoys the process, i.e both the result and the fact that he has managed to overcome obstacles in fulfilling his will **is the ideal person**. as society is made of many people, a man is made up of many "souls", and those who manage to create a hierarchy where the one who "wills" is at the top, commanding all the other souls is an example of a successful society [Willpower is Limited](/notes/willpower-is-limited.md)
+In contrast, we have the "*weak will*", which includes those who deny [Responsibility is binding yourself to outcomes and people you value](/notes/responsibility-is-binding-yourself-to-outcomes-and-people-you-value.md) for their actions, putting the [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md) as far away from them as possible, and also those who believe are in control, but rather are affected by the myths of today's culture. [Peer Pressure](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 
 :::note[Quote]
 
@@ -133,7 +146,7 @@ In contrast, we have the "*weak will*", which includes those who deny [Responsib
 
 In Part 2 Nietzsche describes the qualifications of the true philosopher, whom he also calls the free spirit. "Independence is for the very few; it is a privilege of the strong," Nietzsche says. The [Truth](/notes/truth.md) at times can be harmful and even kill a person, thus **the strength of a person's spirit may be measured according to how much truth they can endure**. The philosopher needs hardness and cunning, while the mere scholar can afford the luxury of being gentle and good-natured. Moreover, profound spirits need masks, meaning they must be able to disguise themselves, since what they say and do is often distorted, misunderstood, and misinterpreted.
 
-To have a free spirit is to get rid of all detachments, of all [External Influence](/notes/external-influence.md). Which could be other people, our nation, and even our values. [Human is a social being](/notes/human-is-a-social-being.md). completely contradicting Simone de Beauvoir's point of view. [Ethics of ambiguity (book)](/books/ethics-of-ambiguity-book.md) .
+To have a free spirit is to get rid of all detachments, of all [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md). Which could be other people, our nation, and even our values. [Human is a social being](/notes/human-is-a-social-being.md). completely contradicting Simone de Beauvoir's point of view. [Ethics of ambiguity (book)](/books/ethics-of-ambiguity-book.md) .
 Generosity can be turned into a vice, for example, since the free spirit must conserve himself. Today's free spirits guard their solitude and hope that the new philosophers who succeed them will be kindred souls.
 
 :::note[Quote]
@@ -170,7 +183,7 @@ According to Nietzsche, every morality is a tyranny against nature and reason. N
 
 Most philosophers don't treat morality or philosophy in general as a science. They don't hypothesize and then go out to test it, but rather have the conclusion premade, and only write what they already believe. An exception can be Descartes.
 
-In our modern Christiaan world, the morality that is most common are [Herd Mentality](/notes/social-environment.md). One that is highly passive, restrictive. According to those "herd morality", **to be a good person is to shrink yourself, to be humble, mediocre, and highly limit yourself as to not interrupt others or assume too much of yourself**. [Fixed Mindset](/notes/fixed-mindset.md) [Objectivity](/notes/objectivity.md)
+In our modern Christiaan world, the morality that is most common are [Herd Mentality](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md). One that is highly passive, restrictive. According to those "herd morality", **to be a good person is to shrink yourself, to be humble, mediocre, and highly limit yourself as to not interrupt others or assume too much of yourself**. [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md) [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md)
 To be a servant of the community which is your ultimate goal, you are not important anymore.
 Usually herd mentalities give equal treatment to everyone since this is the most simplistic answer that sets a lower bar for everyone. Otherwise, if we had a merit based system, the majority of people who are not worthy would have rioted. [meritocracy](/notes/meritocracy.md)
 The rise of democracy, communism and Christianity is the proof that we as people have become tools in the hands of external forces, whether god or community, and no longer try to fulfill our will to power.
@@ -198,11 +211,11 @@ Nietzsche says that genuine philosophers are commanders and legislators, and the
 
 ### Part 7 - Our Virtues
 
-Part 7 raises questions about what is generally thought to be good or virtuous. **Philosophies that measure the value of things in accordance with how much pleasure or pain they provide are misguided.** To want to "abolish suffering" is "insane," in Nietzsche's view. **The new philosopher would rather heighten suffering**; so-called "well-being" is not a noble goal, but rather makes man "ridiculous and contemptible." All improvements in human beings so far have been achieved through "the discipline of suffering." [Challenge](/notes/struggle.md) **Through suffering the soul gathers strength**, along with other virtues, and "creature and creator are united," so that a person might fashion himself or herself according to their own preferential image. [anti-fragility](/notes/anti-fragility.md)
+Part 7 raises questions about what is generally thought to be good or virtuous. **Philosophies that measure the value of things in accordance with how much pleasure or pain they provide are misguided.** To want to "abolish suffering" is "insane," in Nietzsche's view. **The new philosopher would rather heighten suffering**; so-called "well-being" is not a noble goal, but rather makes man "ridiculous and contemptible." All improvements in human beings so far have been achieved through "the discipline of suffering." [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) **Through suffering the soul gathers strength**, along with other virtues, and "creature and creator are united," so that a person might fashion himself or herself according to their own preferential image. [Some systems grow stronger through disorder](/notes/some-systems-grow-stronger-through-disorder.md)
 
 Nietzsche means that suffering is the crucible in which human beings may create and perfect a self. In his view, those who simply wish to have a comfortable life are simply contemptible; **the philosopher or free spirit nobly pursues knowledge, even if that pursuit is accompanied by suffering**.
 
-Nietzsche says, honesty is a virtue from which free spirits—true philosophers—cannot escape. Therefore, he recommends that true philosophers perfect [Honesty](/notes/honesty.md), the only virtue left to them. Nietzsche admits that while learning changes a seeker, there is always something incorrigible in a human being that refuses education. One way to solve this problem is to find workarounds that people label "convictions." Later they might realize those convictions were only the first steps to self-knowledge, "signposts" pointing to the "problem" that is each individual person.
+Nietzsche says, honesty is a virtue from which free spirits—true philosophers—cannot escape. Therefore, he recommends that true philosophers perfect [Speaking truth about yourself and others enables authentic action](/notes/speaking-truth-about-yourself-and-others-enables-authentic-action.md), the only virtue left to them. Nietzsche admits that while learning changes a seeker, there is always something incorrigible in a human being that refuses education. One way to solve this problem is to find workarounds that people label "convictions." Later they might realize those convictions were only the first steps to self-knowledge, "signposts" pointing to the "problem" that is each individual person.
 
 :::note[Quote]
 

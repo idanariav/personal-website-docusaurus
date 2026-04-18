@@ -1,13 +1,13 @@
 ---
 UUID: 20230418185354
 Created: '2023-04-18 18:53'
-Modified: '2026-04-10 13:47'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 5
+Version: 6
 aliases:
   - Morality is enjoyable
 Description: >-
@@ -15,6 +15,11 @@ Description: >-
   enjoyment with virtuous actions, rather than merely acting out of duty or
   obligation.
 new_schema: true
+Topic:
+  - '[[Moral Psychology]]'
+  - '[[Authenticity and Values]]'
+Origin: '[[Aristotle (philosopher)|Aristotle]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,11 +59,3 @@ But can we really love doing good things, should it even be enjoyable? What if d
 ## Visual
 
 ![Love what is good](/notes/love-what-is-good.webp)
-
-## Overview
-🔼Topic:: [Moral Psychology](/notes/moral-psychology.md)
-🔼Topic:: [Authenticity and Values](/notes/authenticity-and-values.md)
-◀Origin:: [Aristotle](/notes/aristotle-philosopher.md) 
-Origin:: [History of Philosophy Without Any Gaps](/notes/history-of-philosophy-without-any-gaps.md)
-Link:: https://share.snipd.com/episode/d9bef53e-c2c6-4319-96b0-bfdcdc02d12f
-

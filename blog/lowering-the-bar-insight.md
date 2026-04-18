@@ -47,7 +47,7 @@ We often set impossible standards on the days when we have the least to give. Wh
 
 ![Lowering the bar (insight)](/blogs/lowering-the-bar-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Impossible Standards
 

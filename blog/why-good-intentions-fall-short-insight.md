@@ -35,7 +35,7 @@ which often leads to regretful behavior. How can we bridge the gap between our g
 
 ![Why Good Intentions Fall Short (insight)](/blogs/why-good-intentions-fall-short-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Another "wasted" Evening
 

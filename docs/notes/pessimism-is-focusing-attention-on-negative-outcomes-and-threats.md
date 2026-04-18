@@ -1,13 +1,13 @@
 ---
 UUID: 20250226162407
 Created: '2025-02-26 16:24'
-Modified: '2026-04-02 22:44'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Pessimism
   - Negativity bias
@@ -16,6 +16,10 @@ Description: >-
   believing the future will be worse, often leading to feelings of helplessness
   and depression.
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ We believe that the future will be worse, or that there is nothing we can do to 
 ## Visual
 
 ![Pessimism](/notes/pessimism.webp)
-
-## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-↩️Origin::
-🔗Link::
-

@@ -1,19 +1,23 @@
 ---
 UUID: 20240302181438
 Created: '2024-03-02 18:14'
-Modified: '2025-04-04 09:16'
+Modified: '2026-04-16 06:18'
 tags: []
 Author:
   - '[[Oliver Burkeman]]'
 Genre: Self-Help
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 6
 Pages: 273
 Rate: 5
 PublishDate: 2021-07-13T00:00:00.000Z
@@ -21,30 +25,52 @@ FinishDate: 2024-03-27T00:00:00.000Z
 Cover: >-
   http://books.google.com/books/content?id=5my-zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/54785515-four-thousand-weeks'
+Description: >-
+  It argues that the pursuit of productivity is a trap, leading us to miss the
+  present moment and creating unnecessary stress. Emphasizing the value of
+  limited time, it suggests focusing on meaningful experiences and embracing
+  life's challenges for personal growth.
+FullTitle: Four Thousand Weeks - Time Management for Mortals
+StartDate: 2024-03-18T00:00:00.000Z
+ASIN: B08FGV64B1
+Reread: 0
+Topic:
+  - '[[Time Management (Map)]]'
+  - '[[Wellbeing (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Four Thousand Weeks
 
-## 🔗Connect
-🔼Topic:: [Time Management (Map)](/mocs/time-management-map.md)
-🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **You will never have it all** - Our desire to be more and more productive is a trap. It only creates more things to do, and the limit of our time in life is rigid. That means that we will never be able to be "on top of things", to have time as an infinite resource, to have full control on our lives.
 2. **Productivity is a hurtful illusion** - Productivity causes us to live in a future that will never arrive, while we miss out on the "now", what matters to us right now, the things that brings us happiness. The more we focus on "using our time well", the more it escapes us and only brings stress of not living up to our impossible expectations. Also, the better we are at being productive, the less filter we have on incoming missions, causing us to spend (scarce) time on meaningless things.
 3. **Time has became a resource** - With the rise of the industrial revolution, we have become slaves to the clock, since this is the measure of our productivity. Time has became a resource that have to be "well spent", even leisure time can be seen as a waste of a "billable hour". It is no longer an experience, but rather an instrument for matching up with our impossible expectations.
 4. **Be here, now** - Life is a matter of experiencing the present, nothing more, nothing less. You will probably not live a legacy, you will not be remembered forever. Now that we have removed those impossible expectations, what should we do? We should focus on solving the important issues in the present, on what gives us happiness. We need to understand that in life, less is more. The more we shake ourselves from outside expectation we can focus on the essential, on what matters to us.
 5. **Scarcity is good** - The fact that we have limited time, limited control over our lives is what gives it meaning. It gives every second value because it is finite. Similarly, having problems in our lives is not something that we wish to get rid of, because dealing with those problems gives us a room for growth, for giving our all, for being us.
-### 🗒️Relate
+### Relate
 
-⛓ *Life lessons, action items*
+⛓ *Life lessons, action items
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Time-block your priorities** - pay yourself first by scheduling protected blocks for the most important activities so the rest must fit around them.
+2. **Limit active projects to three** - keep at most up to three things "in progress" and finish or delete before starting new ones.
+3. **Say no to nonessential requests** - refuse activities that aren’t among your chosen priorities, including things you want but aren’t most important.
+4. **Burn the bridge on decisions** - create commitment by removing easy reversals so you must move forward into the consequences of your choice.
+5. **Decide what not to do** - regularly identify tasks to neglect and be at peace about letting them go.
+6. **Practice mindful tolerance of unpleasantness** - when you feel the urge to escape focusing, notice the discomfort without judgment instead of reaching for distractions.
+7. **Schedule rest for its own sake** - assign leisure time and hobbies that aren’t instrumental to productivity, and treat them as nonnegotiable.
+8. **Take small, consistent steps on important work** - commit to modest daily actions (start small) and stop when you’ve met the daily goal to build patience and progress.
+9. **Choose problems and stick with them** - deliberately pick challenging problems to work on over time rather than jumping to new, faster wins.
+10. **Make time for shared rhythms** - prioritize coordination with family, friends, or communities (e.g., shared activities or fixed social times) over preserving all time as purely personal.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 You will feel less stressed about "using your time well", about living an impossible standard of productivity, of chasing a future that will never arrive and having your happiness dependent on the future, while we completely miss out the present. You will work from a "less is more" attitude, focusing on the now, on what matters to you now, on what you are able to do now while embracing the challenges and uncertainties of live.
@@ -54,24 +80,24 @@ You will feel less stressed about "using your time well", about living an imposs
 🧱 *Implementations and limitations of it are...*
 I think that it is only through the sheer power of optimism that he is able to persuade us that from our finitude we should become more, not less active in our lives. The argument for "why not to despair" is short, but perhaps he is rightfully assuming that this is a place no one wants to be in, and we prefer the optimist approach.
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 Wow, wow, wow. This book really hits you hard in a good way, it causes you to see differently how you have perceived time and productivity, and it lets you feel okay, even good, with slowing down, focusing on what matters, on the now instead of being the most productive machine ever. I think it is a must reread once in a while, whenever we forget and get lost in the mountain of "todos" again.
 
 The writing is good, captivating, relatable, human. It is fun to read as it is educating.
 
-### 🖼️Outline
+### Outline
 
-![Four Thousand Weeks (book).webp](/books/four-thousand-weeks-book.webp)
+![Four Thousand Weeks (book)](/books/four-thousand-weeks-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-We only have so much time in the world, and so much wanders to see. No matter how you slice it, around 4000 weeks is all we get. Yet, we are stuck in [Hustle Culture](/notes/hustle-culture.md), focusing on being more and more "productive" (aka busy), but nobody focused on what we really want to do with our time. And when we're not focused on productivity, it's not better. The [Attention Economy](/notes/attention-economy.md) that keeps creating [Distractions](/notes/procrastination.md) is preventing us from having [Agency](/notes/agency.md) on how to spend our time.
+We only have so much time in the world, and so much wanders to see. No matter how you slice it, around 4000 weeks is all we get. Yet, we are stuck in [Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md), focusing on being more and more "productive" (aka busy), but nobody focused on what we really want to do with our time. And when we're not focused on productivity, it's not better. The [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md) that keeps creating [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) is preventing us from having [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) on how to spend our time.
 
-**Productivity is just a trap. Being more efficient in getting things done will only bring you more things to do** [red queen syndrome](/notes/red-queen-syndrome.md). It will never clear out the free time you so hope to get. If life is a conveyor belt, than productivity is just speeding it up. The most efficient worker will always have even more to do.
+**Productivity is just a trap. Being more efficient in getting things done will only bring you more things to do** [Sometimes you must keep adapting just to stay in place](/notes/sometimes-you-must-keep-adapting-just-to-stay-in-place.md). It will never clear out the free time you so hope to get. If life is a conveyor belt, than productivity is just speeding it up. The most efficient worker will always have even more to do.
 
 We are bad at time management, and every tip or trick offered us has failed us. Instead of focusing on what's important, we try to shave seconds off our chores, or clear time for deep work, while we continue to lack time for connection, nature and leisure.
 
@@ -94,17 +120,17 @@ We are bad at time management, and every tip or trick offered us has failed us. 
 
 #### Limit Embracing Life
 
-Once "time" and "life" were two unseparated concepts. **Time was just the medium by which life happens, things were measured (if at all) by length of tasks, not the time it takes to complete them**. This is called [task orientation](/notes/task-orientation.md). This allowed us to have moments of timelessness where we were fully immersed in what we were doing, aka "deep time" [Flow](/notes/flow.md). A feeling that feels ever lasting, or that time just slips away without noticing.
+Once "time" and "life" were two unseparated concepts. **Time was just the medium by which life happens, things were measured (if at all) by length of tasks, not the time it takes to complete them**. This is called [task orientation](/notes/task-orientation.md). This allowed us to have moments of timelessness where we were fully immersed in what we were doing, aka "deep time" [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md). A feeling that feels ever lasting, or that time just slips away without noticing.
 
 However, once we arrived to the [Industrial Revolution](/notes/industrial-revolution.md), time has turned into a concept of it's own, because you can't coordinate between people without a measurement of time. **We became slaves to the clock, and everything was measured by the time it takes**. Instead of being paid by the produce we make, we got paid by the hour.
 
-**Time became a resource, which forced us to view it as something that have to be well spent**. This prescription is exactly what causes us to make bad use of our time. **We try to master it, instead of experiencing it** [mindfulness](/notes/intentionality.md). Replacing deep time with "efficient time". With countless methods of productivity time management, we are promised that "if only we would take control of our time, we would achieve the calm existence we are after" [Future disillusionment](/notes/future-disillusionment.md), and this kind of living through [Expectations](/notes/expectations.md) instead of the present is a sure way for [Stress](/notes/stress.md) and [Disappointment](/notes/disappointment.md).
+**Time became a resource, which forced us to view it as something that have to be well spent**. This prescription is exactly what causes us to make bad use of our time. **We try to master it, instead of experiencing it** [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md). Replacing deep time with "efficient time". With countless methods of productivity time management, we are promised that "if only we would take control of our time, we would achieve the calm existence we are after" [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md), and this kind of living through [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) instead of the present is a sure way for [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) and [Disappointment is the gap between expectations and reality](/notes/disappointment-is-the-gap-between-expectations-and-reality.md).
 
-**All productivity is is just a avoidance strategy**, meant to help us avoid [accepting](/notes/acceptance.md) the limited time we have and the acknowledgment that we will never have time to finish all that we wanted. It is like [Reverse Thinking](/notes/reverse-thinking.md), **the more we dedicate our thoughts towards time management, the more it escapes us and causes stress**. Both work and leisure are tools, two sides of the same coin, that are used to help us forget the deadline of life, aka [Death](/notes/death.md). Either we strive for the perfect Todo system that will help us accomplish everything (which will never happen), or we numb ourselves with distractions. We strive for endless control on what can't be controlled.
+**All productivity is is just a avoidance strategy**, meant to help us avoid [accepting](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) the limited time we have and the acknowledgment that we will never have time to finish all that we wanted. It is like [Flipping assumptions reveals hidden possibilities and better solutions](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md), **the more we dedicate our thoughts towards time management, the more it escapes us and causes stress**. Both work and leisure are tools, two sides of the same coin, that are used to help us forget the deadline of life, aka [Mortality shapes meaning and motivates acceptance](/notes/mortality-shapes-meaning-and-motivates-acceptance.md). Either we strive for the perfect Todo system that will help us accomplish everything (which will never happen), or we numb ourselves with distractions. We strive for endless control on what can't be controlled.
 
-**It is precisely this [Scarcity](/notes/scarcity.md) of time that makes our choices meaningful** [Fleetingness](/notes/fleetingness.md), not the perspective that we can "do it all", which causes us to lose focus on what really matters. [Limits](/notes/limits.md)
+**It is precisely this [Scarcity forces prioritization when resources are limited](/notes/scarcity-forces-prioritization-when-resources-are-limited.md) of time that makes our choices meaningful** [Experiences are unique because they are fleeting and irreplaceable](/notes/experiences-are-unique-because-they-are-fleeting-and-irreplaceable.md), not the perspective that we can "do it all", which causes us to lose focus on what really matters. [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md)
 
-**We need to embrace life with it's limitations**. It won't solve all of our problems, but we will see the impossible struggle for control over time as what it is, and not feel ashamed for failing to uphold this impossible goal, or stress for living under the control of the clock. Rather life should be like flow [Life as Flow](/notes/life-as-flow.md). **We need to respond to the necessities of our life, rather than implement an external goal.**
+**We need to embrace life with it's limitations**. It won't solve all of our problems, but we will see the impossible struggle for control over time as what it is, and not feel ashamed for failing to uphold this impossible goal, or stress for living under the control of the clock. Rather life should be like flow [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md). **We need to respond to the necessities of our life, rather than implement an external goal.**
 
 :::note[The Limit-Embracing Life]
 
@@ -125,13 +151,13 @@ However, once we arrived to the [Industrial Revolution](/notes/industrial-revolu
 
 #### The Efficiency Trap
 
-**The dream of being "on top on things" and "having it all" is highly tempting**. We chase for "better" methods in hope we would be able to clear our Todo list and achieve calm and successful life, only to find that the list just gets longer and longer [Parkinsons Law](/notes/parkinsons-law.md). **The more free time we generate, the more we and society would want it filled**. The [supply creates demand](/notes/supply-creates-demand.md). This is the efficiency trap.
+**The dream of being "on top on things" and "having it all" is highly tempting**. We chase for "better" methods in hope we would be able to clear our Todo list and achieve calm and successful life, only to find that the list just gets longer and longer [A task takes as much time as you give it](/notes/a-task-takes-as-much-time-as-you-give-it.md). **The more free time we generate, the more we and society would want it filled**. The [supply creates demand](/notes/supply-creates-demand.md). This is the efficiency trap.
 
-Also, the more we become efficient, the less we believe that life is a trade off. We believe we can "do it all", so why bother filtering the list? Which ends up in us doing meaningless things instead of the truly essential ones. [Prioritization](/notes/triage.md)
+Also, the more we become efficient, the less we believe that life is a trade off. We believe we can "do it all", so why bother filtering the list? Which ends up in us doing meaningless things instead of the truly essential ones. [Prioritization](/notes/triage-prioritizes-limited-resources-by-allocating-attention-wisely.md)
 
-Convenience is a double edged sword. When we reduce [Friction](/notes/friction.md) from a process, it also reduces it's meaning. **In friction lies the value of things**. For example, sending an automated birthday message in a click of a button is more efficient, but less valuable than crafting a gift yourself and hand deliver it with a note. It's not the thought that counts, but rather the effort. [Struggle](/notes/struggle.md)
+Convenience is a double edged sword. When we reduce [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) from a process, it also reduces it's meaning. **In friction lies the value of things**. For example, sending an automated birthday message in a click of a button is more efficient, but less valuable than crafting a gift yourself and hand deliver it with a note. It's not the thought that counts, but rather the effort. [Struggle is an inevitable and necessary part of any meaningful growth or achievement](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md)
 
-Instead of admitting the obvious which is that we can't do more than we are capable of, we continue to pursue the dream of efficient "busyness". Because otherwise we would have to admit that we have to give up on something, and this loss is hurtful for us [loss averse](/notes/risk-management.md) people. **But this [less is more](/notes/addition-by-subtraction.md) approach, to resist our urge to do everything, is the only way out**.
+Instead of admitting the obvious which is that we can't do more than we are capable of, we continue to pursue the dream of efficient "busyness". Because otherwise we would have to admit that we have to give up on something, and this loss is hurtful for us [loss averse](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md) people. **But this [less is more](/notes/improvement-often-comes-from-removing-rather-than-adding.md) approach, to resist our urge to do everything, is the only way out**.
 
 :::note[The Efficiency Trap]
 
@@ -150,7 +176,7 @@ Instead of admitting the obvious which is that we can't do more than we are capa
 
 #### Facing Finitude
 
-**Time is our main limit. It's not just one aspect of our being, it's the only one that matters**. We can never shake off our temporal limitation - death. Every decision is set in time, both it's inputs (my circumstances which are affected by my past and present), and the outcome (the consequences for future me). Similarly, every decision is a temporal one because I can only make x decisions per day, and some are mutually exclusive, which de facto means that any decision is both positive and negative. To choose x is to also give up on endless other possibilities. This is the Latin origin of the word "decide" - to cut off.
+**Time is our main limit. It's not just one aspect of our being, it's the only one that matters**. We can never shake off our temporal limitation - death. Every decision is set in time, both it's inputs (my circumstances which are affected by my past and present), and the outcome (the consequences for future me). Similarly, every decision is a temporal one because I can only make x decisions per day, and some are mutually exclusive, which de facto means that any decision is both positive and negative. To choose x is to also give up on endless other possibilities. This is the Latin origin of the word "decide" - to cut off. [Every choice costs the alternatives you gave up](/notes/every-choice-costs-the-alternatives-you-gave-up.md)
 
 We can either see our finitude as being rubbed of something which is common in modernity for feeling entitled to life, but a better and more positive outlook would be to view what we have as a gift. Every moment is a gift since we could have not been born at all, or we could die tomorrow, so by dedicating time for something in this context, choosing "this" instead of an endless "that", **knowing that we are finite, is what grants our actions value and meaning.**
 
@@ -169,15 +195,15 @@ It often takes life threatening scenarios for this eureka moment, but hopefully 
 
 #### Become a Better Procrastinator
 
-**Time management should therefore be all about how to detect what not to do, and be at peace about letting it go** [When to Quit](/notes/when-to-quit.md)
+**Time management should therefore be all about how to detect what not to do, and be at peace about letting it go** [Knowing when to stop prevents wasted persistence on misaligned goals](/notes/knowing-when-to-stop-prevents-wasted-persistence-on-misaligned-goals.md)
 
 To do that, we should:
 1. **Pay yourself first** - by using methods such as [Time Blocking](/notes/time-blocking.md), you make sure that you have time for the most important things, and the rest? Let them be. The other tasks will have to manage with the little time left.
-2. **Limit your "in progress"** - since [Multitasking doesnt exist](/notes/multitasking-doesnt-exist.md), having too much on our plate would cause us to progress at none. Therefore choose only a few (up to 3) to focus on until completion (or deletion)
-3. **Say no** - it's more than just refusing what you didn't want to do anyway. A finite life would force us to say no to things that interest us, but simply aren't the most important ones. [Saying no](/notes/saying-no.md)
-4. **Burn the bridge** - once you make a decision, create a situation of [Path Dependence](/notes/path-dependence.md). There's no going back, no exploration of other options or room for [Regret](/notes/regret.md). You either finish the project or discard it.
+2. **Limit your "in progress"** - since [Multitasking is sequential task switching with cognitive switching costs](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md), having too much on our plate would cause us to progress at none. Therefore choose only a few (up to 3) to focus on until completion (or deletion)
+3. **Say no** - it's more than just refusing what you didn't want to do anyway. A finite life would force us to say no to things that interest us, but simply aren't the most important ones. [Saying no protects time and energy for what matters most](/notes/saying-no-protects-time-and-energy-for-what-matters-most.md)
+4. **Burn the bridge** - once you make a decision, create a situation of [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md). There's no going back, no exploration of other options or room for [We regret inaction more than action taken](/notes/we-regret-inaction-more-than-action-taken.md). You either finish the project or discard it.
 
-The bad kind of "procrastination" happens when we get stuck at perfectionism [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md). It is a type of avoidance strategy where we prefer to stay in the realm of perfect hypothetical dream rather than to face the truth of our finitude, settle and make it into a (non perfect) reality [Image vs core](/notes/form-vs-essence.md).
+The bad kind of "procrastination" happens when we get stuck at perfectionism [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md). It is a type of avoidance strategy where we prefer to stay in the realm of perfect hypothetical dream rather than to face the truth of our finitude, settle and make it into a (non perfect) reality [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md).
 
 :::note[Becoming a Better Procrastinator]
 
@@ -193,7 +219,7 @@ The bad kind of "procrastination" happens when we get stuck at perfectionism [Pe
 
 #### The Watermelon Problem
 
-Every action requires it attention [Focus](/notes/focus.md). And nowadays it is a scarce resource due to the attention economy. Not only that it takes away our time, which is exactly like paying with our lives, it only affects the way we view the world, and in a negative way. It strengthens social divides and hijacks our thoughts and preferences.
+Every action requires it attention [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md). And nowadays it is a scarce resource due to the attention economy. Not only that it takes away our time, which is exactly like paying with our lives, it only affects the way we view the world, and in a negative way. It strengthens social divides and hijacks our thoughts and preferences.
 
 And the problem is that attention is not only a necessary condition for life same as food or water, it is life itself. **To live is to [experience](/notes/experiences.md) and experience requires our attention**. A mischlen star meal is as worthless as instant noodles if our mind daydreams.
 
@@ -207,7 +233,7 @@ And the problem is that attention is not only a necessary condition for life sam
 
 #### The Intimate Interrupter
 
-Distractions are not tempting because of their content. **It's not that we escape to distractions, but rather we try to escape from something. That something is an unpleasant feeling when we try to focus on what matters**. This means that even if we try to ignore distractions to the best of our ability, even if we hide our phones, we would still find ourselves trying to avoid what we're currently facing.
+Distractions are not tempting because of their content. **It's not that we escape to distractions, but rather we try to escape from something. That something is an unpleasant feeling when we try to focus on what matters** [Procrastination is triggered when an action pushes us away from it](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md). This means that even if we try to ignore distractions to the best of our ability, even if we hide our phones, we would still find ourselves trying to avoid what we're currently facing.
 
 This feeling is the result of the gap between our expectations and reality. Therefore, the way to reduce the unpleasantness is to be more "mindful". To see things as they are, without judgment or expectations, and see that by being mindful we reduce the power of the unpleasantness
 
@@ -224,9 +250,9 @@ This feeling is the result of the gap between our expectations and reality. Ther
 
 #### We Never Really Have time
 
-We are not good at planning, because of the [planning fallacy](/notes/planning-fallacy.md), we tend to underestimate how long things are going to take. But even if we do try to account for our bias, we might get an even larger error thanks to [Goodhart’s Law](/notes/goodhart’s-law.md). For example, planning for shopping to take one hour can lead to it eventually being an hour and a half, but giving it two hours will lead to two hours and a half.
+We are not good at planning, because of the [We underestimate task duration through overconfident predictions](/notes/we-underestimate-task-duration-through-overconfident-predictions.md), we tend to underestimate how long things are going to take. But even if we do try to account for our bias, we might get an even larger error thanks to [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md). For example, planning for shopping to take one hour can lead to it eventually being an hour and a half, but giving it two hours will lead to two hours and a half.
 
-The second reason planning is problematic is because we treat it as something more than it actually is. We think of it as creating certainty in the future, while in reality it is no more than just a promise. **We don't "have" time to use as a resource the same way we have money in our bank. It is never really "ours" to have since life is [uncertain](/notes/uncertainty.md)**. We never know what will happen in the future, no matter how well we planned. This is the source of all anxiety, to try and feel certain in an uncertain world. **The only way out is to accept that things might fail, might not go our way**. This doesn't mean that we don't have the freedom of response, this is perhaps the one certain thing we will surely have, but it does mean that we can't control the future, so there's no sense of feeling like we can by planning ahead.
+The second reason planning is problematic is because we treat it as something more than it actually is. We think of it as creating certainty in the future, while in reality it is no more than just a promise. **We don't "have" time to use as a resource the same way we have money in our bank. It is never really "ours" to have since life is [uncertain](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md)**. We never know what will happen in the future, no matter how well we planned. This is the source of all anxiety, to try and feel certain in an uncertain world. **The only way out is to accept that things might fail, might not go our way**. This doesn't mean that we don't have the freedom of response, this is perhaps the one certain thing we will surely have, but it does mean that we can't control the future, so there's no sense of feeling like we can by planning ahead.
 
 :::note[We Never Really Have Time]
 
@@ -245,7 +271,7 @@ The second reason planning is problematic is because we treat it as something mo
 
 When we treat time as a resource, it means that the present moment itself has become an instrumental thing, a tool to be used for a "better future". **It turns our outlook onwards to a future that will never come, because we will never be there to witness it because by then we would focus on a more distant future**. It is to think "once I achieve x, i will finally be able to y". Therefore any moment until x is passed by without noticing, and even we do achieve x, we feel empty, or miss the experience entirely.
 
-The reason is that we don't live in the moment. However we can't force ourselves to "be in the present", it's like trying not to think about elephants, or forcing ourselves to sleep, it's doomed from the start. It's trying to view ourselves outside of ourselves. **The only option is to recognize that there was never no other option, because the present is all we got. Life itself is our present experience.**
+The reason is that we don't live in the moment. However we can't force ourselves to "be in the present", it's like trying not to think about elephants, or forcing ourselves to sleep, it's doomed from the start. It's trying to view ourselves outside of ourselves. **The only option is to recognize that there was never no other option, because the present is all we got. Life itself is our present experience.** [Life is present experience, not a preparation for the future](/notes/life-is-present-experience-not-a-preparation-for-the-future.md)
 
 :::note[You Are Here]
 
@@ -261,9 +287,9 @@ The reason is that we don't live in the moment. However we can't force ourselves
 
 #### Rediscovering Rest
 
-We have become unable to [Rest](/notes/rest.md). **Even our leisure time is perceived as something that should be "useful"**, specifically with it ties to work. We rest in order to be better workers when we come back, to "recharge our batteries". We have turned everything upside down, as if it's not that we work for leisure, but the other way around.
+We have become unable to [Rest enables recovery and sustained performance](/notes/rest-enables-recovery-and-sustained-performance.md). **Even our leisure time is perceived as something that should be "useful"**, specifically with it ties to work. We rest in order to be better workers when we come back, to "recharge our batteries". We have turned everything upside down, as if it's not that we work for leisure, but the other way around.
 
-Our leisure is perceived as something "productive", like writing books or studying a new skill. We also treat it as something instrumental [Instrumental](/notes/instrumental.md).
+Our leisure is perceived as something "productive", like writing books or studying a new skill. We also treat it as something instrumental [Instrumental value treats things as means rather than ends](/notes/instrumental-value-treats-things-as-means-rather-than-ends.md).
 However it has not always been the case. Before [Capitalism](/notes/capitalism.md) that has enforced the concept of productive time, we had a society more focused on leisure. It was also easier when work was limited to the office and stores closed in the evening, and we had a social pressure to attend leisure activities such as church and holidays. The concept of shabbat shows us how difficult it is to truly rest, and why we need some (arbitrary) rules just to help us avoid doing work, and rest for rest sake. A key sign of true rest is hobbies. Not side hustles, not something we do for a future goal. Something that we do because it's fun, that we can suck at, and we won't care at all.
 
 :::note[Rediscovering Rest]
@@ -278,9 +304,9 @@ However it has not always been the case. Before [Capitalism](/notes/capitalism.m
 
 Despite new inventions that let us move and operate faster and faster, it seems that our impatience is just growing more and more.
 
-Our impatience operates as a negative spiral. It emanates from a will to avoid facing negative emotional states, i.e serve as a tool for emotional avoidance. **We use our productivity, our work, as distractions from the problems in our lives**. However it gets worse when this [Escapism](/notes/escapism.md) just aggravates the problem. Like an [Addiction](/notes/addiction.md), the more we dedicate to it, the more problems we have, the more we need a fix, the more we get addicted, and on and on.
+Our impatience operates as a negative spiral. It emanates from a will to avoid facing negative emotional states, i.e serve as a tool for emotional avoidance. **We use our productivity, our work, as distractions from the problems in our lives**. However it gets worse when this [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) just aggravates the problem. Like an [Addiction is escapism that destroys self-control](/notes/addiction-is-escapism-that-destroys-self-control.md), the more we dedicate to it, the more problems we have, the more we need a fix, the more we get addicted, and on and on.
 
-Instead of living life of flow, of letting things take their time. We have caught within the negative spiral of "speeding up life" [Slowing down](/notes/slowing-down.md).
+Instead of living life of flow, of letting things take their time. We have caught within the negative spiral of "speeding up life" [Slowing down prioritizes quality over speed and enables reflection](/notes/slowing-down-prioritizes-quality-over-speed-and-enables-reflection.md).
 
 :::note[The Impatience Spiral]
 
@@ -295,12 +321,12 @@ Instead of living life of flow, of letting things take their time. We have caugh
 
 #### Staying on the Bus
 
-Patience seems as something negative, a form of passiveness, of laziness in a world that focuses on rushing ahead. However nowadays it is more essential than ever to be [patient](/notes/patience.md). Because **rushing ahead stems from the misguided view that we can achieve life without problems, that everything is solvable and fast. However not only that it's not true, we want problems in our lives**.
+Patience seems as something negative, a form of passiveness, of laziness in a world that focuses on rushing ahead. However nowadays it is more essential than ever to be [patient](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md). Because **rushing ahead stems from the misguided view that we can achieve life without problems, that everything is solvable and fast. However not only that it's not true, we want problems in our lives**.
 
 How to be more patient:
-1. **Develop a taste for problems** - the struggle of facing problems and coming up with solutions is what gives our lives meaning. [Adversarial Growth](/notes/creative-destruction.md)
-2. **Slow and steady** - do small steps daily, something that is easy to maintain in the long run, and feel okay with stopping once you've reached the daily goal. Don't let the forces of impatience control you [Start Small](/notes/start-small.md)
-3. **Results take time** - at first we all fail or don't create unique results [First Batch Trash](/notes/first-batch-trash.md), this is not a sign of our inaptitude, just that we are on the track onwards. **It is those who have patience to let their skills develop, instead of quickly switching to a different track, that get to extraordinary performance** [Trust the Process](/notes/trust-the-process.md)
+1. **Develop a taste for problems** - the struggle of facing problems and coming up with solutions is what gives our lives meaning. [Adversarial Growth](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
+2. **Slow and steady** - do small steps daily, something that is easy to maintain in the long run, and feel okay with stopping once you've reached the daily goal. Don't let the forces of impatience control you [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md)
+3. **Results take time** - at first we all fail or don't create unique results [First attempts are inherently lower quality than iterations](/notes/first-attempts-are-inherently-lower-quality-than-iterations.md), this is not a sign of our inaptitude, just that we are on the track onwards. **It is those who have patience to let their skills develop, instead of quickly switching to a different track, that get to extraordinary performance** [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
 
 :::note[Staying on the Bus]
 
@@ -314,7 +340,7 @@ How to be more patient:
 
 #### The Loneliness of the Digital Nomad
 
-**We pursue more and more control over our time, especially our personal time, but we fail to see that having more personal freedom makes it harder for us to sync with others**. The desire to have uninterrupted ["me time"](/notes/individualism.md), together with the constraints of a full time job leaves almost no time to connect with others. The life of the free person are a life of [Loneliness](/notes/loneliness.md). And in the end, [Human is a social being](/notes/human-is-a-social-being.md), we are built to [sync](/notes/imitation.md) with others, we copy other's emotional and physical state without even noticing. **We have a sense of belonging the more we have shared experiences with others.**
+**We pursue more and more control over our time, especially our personal time, but we fail to see that having more personal freedom makes it harder for us to sync with others**. The desire to have uninterrupted ["me time"](/notes/the-individual-is-the-smallest-unit-of-moral-worth.md), together with the constraints of a full time job leaves almost no time to connect with others. The life of the free person are a life of [Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md). And in the end, [Human is a social being](/notes/human-is-a-social-being.md), we are built to [sync](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md) with others, we copy other's emotional and physical state without even noticing. **We have a sense of belonging the more we have shared experiences with others.** [Unity is the felt sense of connection with others and the world](/notes/unity-is-the-felt-sense-of-connection-with-others-and-the-world.md)
 
 :::note[The Loneliness of the Digital Nomad]
 
@@ -328,7 +354,7 @@ How to be more patient:
 
 #### Cosmic Insignificance Therapy
 
-We feel obligated to have a life mission that will live a mark, to be remembered, to have meaning through doing something remarkable. To "go big or go home" [Binary Thinking](/notes/binary-thinking.md). **The problem is that we set the bar too high. This will only lead to disappointment. We need to be [humble](/notes/humility.md) and remember that most people don't leave a legacy**, in the grand scheme of the cosmos, we are insignificant. But that shouldn't lead us to despair [Nihilism](/notes/nihilism.md). On the contrary, we should suffice with the daily activities that bring meaning to our live now, like spending time with your children, talking with friends. [Simplicity](/notes/simplicity.md)
+We feel obligated to have a life mission that will live a mark, to be remembered, to have meaning through doing something remarkable. To "go big or go home" [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md). **The problem is that we set the bar too high. This will only lead to disappointment. We need to be [humble](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md) and remember that most people don't leave a legacy**, in the grand scheme of the cosmos, we are insignificant. But that shouldn't lead us to despair [Morality is a construct without real meaning](/notes/morality-is-a-construct-without-real-meaning.md). On the contrary, we should suffice with the daily activities that bring meaning to our live now, like spending time with your children, talking with friends. [Distilling to essentials creates clarity and actionability](/notes/distilling-to-essentials-creates-clarity-and-actionability.md)
 
 :::note[Cosmic Insignificance Therapy]
 
@@ -340,7 +366,7 @@ We feel obligated to have a life mission that will live a mark, to be remembered
 
 #### The Human Disease
 
-Our problem is one of [Perception](/notes/subjective-reality.md), that we think that eventually we will be able to exert control over the entire reality, that we will have no more problems, we will have time to do everything we wanted, and we will be in control on everything that happens. We wish to believe it because the alternative is depressing, that problems are endless, that we don't have control and we don't matter.
+Our problem is one of [Perception](/notes/subjective-perception-filters-how-we-see-external-reality.md), that we think that eventually we will be able to exert control over the entire reality, that we will have no more problems, we will have time to do everything we wanted, and we will be in control on everything that happens. We wish to believe it because the alternative is depressing, that problems are endless, that we don't have control and we don't matter.
 
 However **we have to acknowledge this truth in order to advance to a healthier mindset. That "now" is all we have, that problems are a source of meaning, that it's okay to not be able to finish everything, so we should focus on what matters to us, without being judged by impossible standards**.
 

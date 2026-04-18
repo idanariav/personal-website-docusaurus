@@ -1,13 +1,13 @@
 ---
 UUID: 20240217073801
 Created: '2024-02-17 07:38'
-Modified: '2026-04-09 06:47'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Cooperation is working together toward shared mutual benefit.png]]'
 ImageText: >-
   Two people on opposite cliffs building a rope bridge together to connect
@@ -20,6 +20,10 @@ aliases:
   - Cooperation
   - Reciprocity
 new_schema: true
+Topic:
+  - '[[Collaborative Communication]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,9 +59,3 @@ Usually it is only within our group to make sure we filter out [free riders](/no
 ## Visual
 
 ![Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.webp)
-
-## Overview
-🔼Topic:: [Collaborative Communication](/notes/collaborative-communication.md)
-↩️Origin::
-🔗Link::
-

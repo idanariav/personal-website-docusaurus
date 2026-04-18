@@ -1,27 +1,44 @@
 ---
 UUID: 20240702060545
 Created: '2024-07-02 06:05'
-Modified: '2025-01-01 17:22'
+Modified: '2026-04-16 10:01'
 tags: []
+FullTitle: Selfless - The social Creation of "You"
+Description: >-
+  It argues that our self is a social construct shaped by relationships and
+  environments. We possess multiple selves influenced by different contexts, and
+  our sense of freedom is interconnected with others. Meaning in life arises
+  through connections, identity, and contributions to the world beyond
+  ourselves.
 Author:
   - '[[Brian Lowery]]'
+URL: 'https://www.goodreads.com/book/show/61387360-selfless'
+Cover: >-
+  http://books.google.com/books/content?id=XLMJ0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 Genre: Philosophy
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B0B6XLN2SZ
 excalidraw-plugin: parsed
-excalidraw-autoexport: png
+excalidraw-autoexport: svg
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
 Version: 1.01
 Pages: 272
+Reread: 0
 Rate: 5
 PublishDate: 2023-03-26T00:00:00.000Z
+StartDate: 2024-12-16T00:00:00.000Z
 FinishDate: 2025-01-01T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=XLMJ0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/61387360-selfless'
+Image: null
 aliases: []
+Topic:
+  - '[[Personal identity (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -30,21 +47,17 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [personal identity (moc)](/mocs/personal-identity-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Our self is a social construct** - We can't think of our "self" in a vacuum. We are social creatures embedded in a social world. Our self is a social construct, one made through and in every relationship we have. Our self is how we are reflected in the eyes of another, which is the combination of what we send out, and what is received. From our values, thoughts, emotions and tendencies, even genes, all is affected by our environment. There are no "objective facts" that permanently assign us certain attributes. Its about what we and others think about us. Believing makes it real.
 2. **Different context, different self** - We have more than one self, because we have more than one set of relationships in life. For example, parent, worker, friend are examples of different "selves", each influenced by the relationships in each role, the social environment and expectations that affect how we think and behave.
 3. **Total freedom is detachment** - Our "free will" or sense of agency is not and can't be detached from others, because what we want in life depends on how others will react to our desires. Kissing your partner = good, kissing a stranger = bad. Same action, different result, which influences our behavior and desires. . We live in a social world, so our goals and dreams have (if not completely) a social aspect to it. Similarly, relationship limit our potential self (from infinite to specificity), but also create space for us to grow and actualize ourselves.
 4. **Expanding self** - Same as our self is defined by others, it is also highly connected to them. It is no surprise that our sense of meaning in the world, the way we make sense of it is through connection to others. To be a part of social group and share an identity, to leave a legacy and to live on through our relationships, to be a good person to others, to do something that matters to the world, and not just ourselves.
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -52,33 +65,33 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
-### 🖼️Outline
+### Outline
 
-![Selfless (book).webp](/books/selfless-book.webp)
+![Selfless (book)](/books/selfless-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### You'll Be My Mirror
 
-Our identity is not something independent of the world, it's not only difficult to conceive of ourselves in a vacuum, it's impossible. **We can't define ourselves without thinking about our relationships with others** [Oneness](/notes/unity.md).
+Our identity is not something independent of the world, it's not only difficult to conceive of ourselves in a vacuum, it's impossible. **We can't define ourselves without thinking about our relationships with others** [Oneness](/notes/unity-is-the-felt-sense-of-connection-with-others-and-the-world.md).
 
-More than that, we are constructed by our interactions with others as we construct them [interpersonal identity](/notes/interpersonal-identity.md). There is no "self" without others, it's like trying to look at ourselves with our own eyes, it's just impossible. We need others to reflect our self to us. Meaning it's a combination of what we send out and how it's interpreted and reflected in the eyes of another. [Mirroring](/notes/mirroring.md).
+More than that, we are constructed by our interactions with others as we construct them [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md). There is no "self" without others, it's like trying to look at ourselves with our own eyes, it's just impossible. We need others to reflect our self to us. Meaning it's a combination of what we send out and how it's interpreted and reflected in the eyes of another. [Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md).
 
-Since our self is dependent on others, there's no surprise that we have [more](/notes/a-person-is-a-community.md) than one self. Who we are depends on the [context](/notes/context.md). It's often the people around us who influence which self will come to life in each situation. For example, we can be a parent, a partner, a worker, each with different sets of norms and behaviors, and not just because we choose to act differently, but also because we are shaped by our [relationships](/notes/relationships.md) with others such that we act differently.
+Since our self is dependent on others, there's no surprise that we have [more](/notes/a-person-is-a-community.md) than one self. Who we are depends on the [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md). It's often the people around us who influence which self will come to life in each situation. For example, we can be a parent, a partner, a worker, each with different sets of norms and behaviors, and not just because we choose to act differently, but also because we are shaped by our [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md) with others such that we act differently.
 
-The effect can also be across time [intertemporal identity](/notes/intertemporal-identity.md). For example, we can be shaped by our ancestors who are long gone or acting differently today because we want to be better for our future (unborn) children. A writer edits differently depending on the audience that one day will read the book, while the audience is affected by the words of the writer, even if they are distant in the past.
+The effect can also be across time [Identity persists across time through psychological continuity](/notes/identity-persists-across-time-through-psychological-continuity.md). For example, we can be shaped by our ancestors who are long gone or acting differently today because we want to be better for our future (unborn) children. A writer edits differently depending on the audience that one day will read the book, while the audience is affected by the words of the writer, even if they are distant in the past.
 
 We are a creature shaped by relationships, connections, and interactions, in a search for freedom that doesn't exist, like a leaf that wants freedom from the tree, separation is destruction.
 
-Similarly, [agency](/notes/agency.md) can't be perceived through the eyes of the individual alone, despite our best wishes to think of free will as something completely up to us, detached from any external influence. In our decision-making, we incorporate imagined or real [expectations](/notes/expectations.md) and [Intention](/notes/intention.md) of others. If we know that our partner loves to receive loving texts, and we decide to do so because we enjoy being a good partner, is our action free? If our partner didn't like texts, then we wouldn't have done it (probably). Others are always on our minds and part of our preferences during decision-making.
+Similarly, [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) can't be perceived through the eyes of the individual alone, despite our best wishes to think of free will as something completely up to us, detached from any external influence. In our decision-making, we incorporate imagined or real [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) and [Good action requires intention aligned with values](/notes/good-action-requires-intention-aligned-with-values.md) of others. If we know that our partner loves to receive loving texts, and we decide to do so because we enjoy being a good partner, is our action free? If our partner didn't like texts, then we wouldn't have done it (probably). Others are always on our minds and part of our preferences during decision-making.
 
-Ironically, even being a rebel who does the opposite of what they're told is still highly affected by others, just in the opposite direction. What people ask of them still has a huge influence on what they eventually choose to do, even if it's not what they suggest.
+Ironically, even being a rebel who does the opposite of what they're told is still highly affected by others, just in the opposite direction. What people ask of them still has a huge influence on what they eventually choose to do, even if it's not what they suggest. [Self-definition based on exclusion produces a negative identity](/notes/self-definition-based-on-exclusion-produces-a-negative-identity.md)
 
-The self is nothing more than a container of [subjective reality](/notes/subjective-reality.md), **a "set" of thoughts, norms, preferences, and behaviors that help us operate in the specific society or situation we live in** [pragmatism](/notes/pragmatism.md). Like talking in different languages in different countries, we assume (and receive) different selves in different contexts.
+The self is nothing more than a container of [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md), **a "set" of thoughts, norms, preferences, and behaviors that help us operate in the specific society or situation we live in** [Truth and goodness are defined by practical usefulness](/notes/truth-and-goodness-are-defined-by-practical-usefulness.md). Like talking in different languages in different countries, we assume (and receive) different selves in different contexts.
 
 :::note[You’ll Be My Mirror]
 
@@ -102,9 +115,9 @@ The self is nothing more than a container of [subjective reality](/notes/subject
 #### The search for Self
 Who we are depends a lot on how we are treated. If suddenly everyone would stop obeying the rules of traffic, we would also drive very differently. A person who is always treated with either respect it suspension will treat others differently in return. It as if we all carry a sign on ourselves that we can't read, but we guess is based on how others respond. This is our *self*.
 
-The self, like a nation, is defined not by its borders (a physical body), but rather the social interaction within, the shared [Narratives](/notes/narratives.md), as a state it continues after the death of its current citizens, like a tradition that lives on from one generation to another.
+The self, like a nation, is defined not by its borders (a physical body), but rather the social interaction within, the shared [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md), as a state it continues after the death of its current citizens, like a tradition that lives on from one generation to another.
 
-This is in opposition to the notion of [Self-awareness](/notes/self-awareness.md), that there's something in there that we can discover, something fixed that defines who we are, our beliefs, values and tendencies. While some genetic dispositions exist, even they are based on the environment and past experiences [genetic switches](/notes/genetic-switches.md). An angry person might have different ways of expressing their anger. Even our [core values](/notes/core-values.md) change over time, and even if they weren't, their meaning usually stems from the social implication it has. What does it mean to be kind, and courageous, to believe in equality or justice in a detached way from others and our community?
+This is in opposition to the notion of [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md), that there's something in there that we can discover, something fixed that defines who we are, our beliefs, values and tendencies. While some genetic dispositions exist, even they are based on the environment and past experiences [genetic switches](/notes/genetic-switches.md). An angry person might have different ways of expressing their anger. Even our [Core values guide authentic identity and moral action](/notes/core-values-guide-authentic-identity-and-moral-action.md) change over time, and even if they weren't, their meaning usually stems from the social implication it has. What does it mean to be kind, and courageous, to believe in equality or justice in a detached way from others and our community?
 
 Our sense of self is affected by our:
 1. **Body** - it affects both our potential (what we can do and how we see the world) and also how we are treated (an ugly person will be treated differently than a beautiful one)
@@ -114,18 +127,18 @@ Our sense of self is affected by our:
 
 **A small change in either one is "acceptable", we might see ourselves as the same self, but a large change in one or many changes in all will cause a change in self.**
 
-We see life through subjective lenses. Truth is based on the watcher [contextualism](/notes/contextualism.md).
+We see life through subjective lenses. Truth is based on the watcher [Truth depends on context and the observer's perspective](/notes/truth-depends-on-context-and-the-observers-perspective.md).
 
-We are [sense seeking creatures](/notes/sense-seeking-creatures.md), we need structure to not be overwhelmed by the world and to interact with people without exhausting ourselves. Since [We can't read minds](/notes/theory-of-mind.md), we have to use some [mental shortcuts](/notes/mental-shortcuts.md), such as:
-1. **Stereotypes** - we use [Stereotypes](/notes/stereotypes.md) to group together people based on external or easy-to-measure attributes so that it would be easy to categorize and assume their behavior
+We are [Humans compulsively seek patterns and meaning even in chaos](/notes/humans-compulsively-seek-patterns-and-meaning-even-in-chaos.md), we need structure to not be overwhelmed by the world and to interact with people without exhausting ourselves. Since [We can't read minds](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md), we have to use some [Mental shortcuts enable faster learning through analogies and simplification](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md), such as:
+1. **Stereotypes** - we use [Stereotypes apply mental shortcuts by inferring group traits onto individuals](/notes/stereotypes-apply-mental-shortcuts-by-inferring-group-traits-onto-individuals.md) to group together people based on external or easy-to-measure attributes so that it would be easy to categorize and assume their behavior
 2. **Similarly** - for simplicity, we assume that others think the way we do unless we receive a strong message to the contrary
 3. **Stories** - we tell ourselves stories that provide explanations for what happened to make sense of it or follow the common belief about a topic
 
-Since the self is a [social construct](/notes/social-construct.md), being perceived as normal or as a madman is a matter of quantity (the number of people who believe it), and not the degree (how "ridiculous it might sound). That's how conspiracy theories work, and why it's easy to believe them as long as somebody else does [Herd Mentality](/notes/social-environment.md).
+Since the self is a [Shared beliefs make constructs real and true](/notes/shared-beliefs-make-constructs-real-and-true.md), being perceived as normal or as a madman is a matter of quantity (the number of people who believe it), and not the degree (how "ridiculous it might sound). That's how conspiracy theories work, and why it's easy to believe them as long as somebody else does [Herd Mentality](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md).
 
 This also explains why it's hard for us to gain self-knowledge to recognize our "self", because not only we don't have direct access to its objective nature, but also its objective nature doesn't even exist. It depends on the context and the social perception of it, beyond the individual, so trying to guess what we would do in different situations is difficult within a [thought experiment](/notes/thought-experiment.md).
 
-Only by [being](/notes/experience-knowledge.md) in those situations, we can have any reliable insight as to who we are. [Behavioralism](/notes/behavioralism.md)
+Only by [being](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md) in those situations, we can have any reliable insight as to who we are. [Behavior reveals true preferences](/notes/behavior-reveals-true-preferences.md)
 
 :::note[The Search for Self]
 
@@ -142,9 +155,9 @@ Only by [being](/notes/experience-knowledge.md) in those situations, we can have
 
 #### False Promises
 
-The concept of self has come a long way from the history of psychology to where it is today, to the vast [Individualism](/notes/individualism.md) that surrounds us. First, we had a more static and social sense of self during medieval times based on your role: you are a farmer, a king, a blacksmith. This is who you are, and you will never be someone else. Then, as the Renaissance came and later the Industrial Revolution came ideas of individualism as separate from society. The process continued until today when people believe in myths such as "the secret", where all you have to do is to believe positive thoughts and good things will happen and vice versa. Whatever happens in your life is the result of your thoughts and nothing else, not society, not nature, you.
+The concept of self has come a long way from the history of psychology to where it is today, to the vast [The individual is the smallest unit of moral worth](/notes/the-individual-is-the-smallest-unit-of-moral-worth.md) that surrounds us. First, we had a more static and social sense of self during medieval times based on your role: you are a farmer, a king, a blacksmith. This is who you are, and you will never be someone else. Then, as the Renaissance came and later the Industrial Revolution came ideas of individualism as separate from society. The process continued until today when people believe in myths such as "the secret", where all you have to do is to believe positive thoughts and good things will happen and vice versa. Whatever happens in your life is the result of your thoughts and nothing else, not society, not nature, you.
 
-The overpowering of the self was accompanied by the separation of the self. We are more than our bodies, perhaps even more than our minds. This is in contrast with the research that shows that we know nothing about our mind and that our self is nothing more than a trick played by our memories, a false feeling of continuity.
+The overpowering of the self was accompanied by the separation of the self. We are more than our bodies, perhaps even more than our minds. This is in contrast with the research that shows that we know nothing about our mind and that our self is nothing more than a trick played by our memories, a false feeling of continuity. [The self is an illusion created by memory's false sense of continuity](/notes/the-self-is-an-illusion-created-by-memorys-false-sense-of-continuity.md)
 
 The concept of self has changed a lot during the last centuries, this is because the "self" doesn't wait there to be discovered, our definition of it changes its nature, and it's affected by our philosophical, and economic views.
 
@@ -158,16 +171,16 @@ The concept of self has changed a lot during the last centuries, this is because
 
 #### Freedom, Really?
 
-When we talk about [freedom](/notes/freedom.md), we often mean [Negative freedom](/notes/negative-freedom.md), that to be free means to be rid of [External Influence](/notes/external-influence.md). These can be:
+When we talk about [freedom](/notes/freedom.md), we often mean [Freedom from external constraints](/notes/freedom-from-external-constraints.md), that to be free means to be rid of [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md). These can be:
 1. **Overt limitations** - a law stopping me from doing something, or worse being put to jail and being physically limited
 2. **Covert influences** - ads and other expectations that try to influence our desires
-3. **Internal misalignment** - when we fall pray for [Temptations](/notes/procrastination.md) and we fail to act the way "we truly wanted to", or act in certain ways just to satisfy an urge (like needing coffee) [Insight Gap](/notes/akrasia.md)
+3. **Internal misalignment** - when we fall pray for [Temptations](/notes/distractions-pull-us-towards-them-as-a-temptation.md) and we fail to act the way "we truly wanted to", or act in certain ways just to satisfy an urge (like needing coffee) [Insight Gap](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md)
 
-We don't always know that we are experiencing a case of negative freedom. We might feel that we act freely because we [rationalize](/notes/rationalization.md) our behavior after the fact because who wants to claim that they're not free. But even if we could free ourselves from all forms of negative freedom, we still have to ask ourselves what do we really want? What about our [Positive freedom](/notes/positive-freedom.md)? What do we wish to do with our agency?
+We don't always know that we are experiencing a case of negative freedom. We might feel that we act freely because we [rationalize](/notes/we-justify-our-conclusions-after-acting-not-before.md) our behavior after the fact because who wants to claim that they're not free. But even if we could free ourselves from all forms of negative freedom, we still have to ask ourselves what do we really want? What about our [Freedom means having the ability to pursue your goals](/notes/freedom-means-having-the-ability-to-pursue-your-goals.md)? What do we wish to do with our agency?
 
-Since being free means to act according to who you are, and who you are is highly affected by others (as shown previously), then we could say that to be free also depends on others, since our self is defined in such a way too.
+Since being free means to act according to who you are, and who you are is highly affected by others (as shown previously), then we could say that to be free also depends on others, since our self is defined in such a way too. [Individual freedom depends on the freedom of others](/notes/individual-freedom-depends-on-the-freedom-of-others.md)
 
-**The same relationships that expands us also limit us, we both grow and narrow our possibilities when in relationships**. For example, a partner might cause us to act differently - sometimes we would do what they like, but we gain much more, the ability to connect, to love.
+**The same relationships that expands us also limit us, we both grow and narrow our possibilities when in relationships** [Social connections expand and constrain the self](/notes/social-connections-expand-and-constrain-the-self.md). For example, a partner might cause us to act differently - sometimes we would do what they like, but we gain much more, the ability to connect, to love.
 
 :::note[Freedom, Really?]
 
@@ -183,7 +196,7 @@ Since being free means to act according to who you are, and who you are is highl
 
 #### Hugs and Straitjackets
 
-**Each relationship is like theater, it subtlety demands us to play a part, and we really want to do it because of our innate desire to fit it** [human is a social being](/notes/human-is-a-social-being.md). Like smoothening a stone, we slightly adapt our behaviors and beliefs to be a better match with the other person.
+**Each relationship is like theater, it subtlety demands us to play a part, and we really want to do it because of our innate desire to fit it** [Human is a social being](/notes/human-is-a-social-being.md). Like smoothening a stone, we slightly adapt our behaviors and beliefs to be a better match with the other person.
 
 Each relationship shapes in turn who we are, and how we act in other relationships. Therefore **relationships shape the boundaries in which we form our self. They don't paint the picture, but they provide the frame**. To be completely free means to break out of that frame, but that will leave us untethered to the world, and we would go mad. We need structure, something that connects us to the world around us,and relationships are the way we do that.
 
@@ -201,11 +214,11 @@ Each relationship shapes in turn who we are, and how we act in other relationshi
 
 How do we treat the part of ourselves that overlap with others? Aka their influence on our selves?
 1. **Subtraction** - each part that has originated from someone else is not my "true" self. Therefore my self is defined by negativity, it is the part that's left once you remove all that comes from others. This definition is strange (because its not positive) and weak
-2. **Extending** - the more we overlap with others, the more we feel that this relationship is an extension of our selves. Perhaps we are the unique mix of all the relationships we have [Extended Mind](/notes/extended-mind.md).
+2. **Extending** - the more we overlap with others, the more we feel that this relationship is an extension of our selves. Perhaps we are the unique mix of all the relationships we have [Thinking extends beyond the brain to environment and society](/notes/thinking-extends-beyond-the-brain-to-environment-and-society.md).
 
-We can't avoid being affected by the relationships in our lives, for better or worse, especially the close ones. The only way to not be effected, to shed away the self that is generated through this relationship is to spend less time together, to be more with others who encourage the self you want to be. Distance and time are important factors for the level of influence in relationships.
+We can't avoid being affected by the relationships in our lives, for better or worse, especially the close ones. The only way to not be effected, to shed away the self that is generated through this relationship is to spend less time together, to be more with others who encourage the self you want to be. Distance and time are important factors for the level of influence in relationships. [Proximity and time determine the strength and influence of relationships](/notes/proximity-and-time-determine-the-strength-and-influence-of-relationships.md)
 
-When we are "in a bad relationship", it's not so much that we hate the other person, rather who we become because of them. It's their influence on us that's toxic.
+When we are "in a bad relationship", it's not so much that we hate the other person, rather who we become because of them. It's their influence on us that's toxic. [Toxic relationships harm by changing who we are](/notes/toxic-relationships-harm-by-changing-who-we-are.md)
 
 :::note[Building Selves]
 
@@ -238,11 +251,11 @@ Social identities don't just limit us, they also expand us. For example, the pri
 
 #### In or out
 
-Just as the membership of a social group is dependent on others, so does it's attributes. What it means to be a woman changes with time, and yet this group carries with it centuries of history as the concept changed over time [Semantics of words](/notes/semantics-of-words.md). To be considered as a woman means not only to be perceived as a woman, but (perhaps unfortunately) to be assigned certain traits.
+Just as the membership of a social group is dependent on others, so does it's attributes. What it means to be a woman changes with time, and yet this group carries with it centuries of history as the concept changed over time [Word meaning varies with history and social context](/notes/word-meaning-varies-with-history-and-social-context.md). To be considered as a woman means not only to be perceived as a woman, but (perhaps unfortunately) to be assigned certain traits.
 
-Social identities can change over time, and be fluid enough to encompass several sub communities within them, as long as there's little friction between the groups, and the changes are small and gradual. When a person wishes to redefine a social identity, this can cause [reactance](/notes/reactance.md) by the other members who now feel that their identity, their self is under attack. For example, if an artist now wishes to claim that only finger painting is true art and the rest is garbage, all those who paint differently now feel that their identity as an artist is under attack. A sub community might form, or the aggressor would be excluded [us vs them](/notes/us-vs-them.md). The intent doesn't have to be confrontational. For example, arguments for same sex marriage might encounter resistance because in the others eyes that counts as changing the nature of the institution of marriage, changing what it means for heteronormative couples as well, despite the fact that same sex couples have no Ill intent.
+Social identities can change over time, and be fluid enough to encompass several sub communities within them, as long as there's little friction between the groups, and the changes are small and gradual. When a person wishes to redefine a social identity, this can cause [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) by the other members who now feel that their identity, their self is under attack. For example, if an artist now wishes to claim that only finger painting is true art and the rest is garbage, all those who paint differently now feel that their identity as an artist is under attack. A sub community might form, or the aggressor would be excluded [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md). The intent doesn't have to be confrontational. For example, arguments for same sex marriage might encounter resistance because in the others eyes that counts as changing the nature of the institution of marriage, changing what it means for heteronormative couples as well, despite the fact that same sex couples have no Ill intent.
 
-This is why personal identity is also a political matter, because the self is a social construct, made of social identities, which are a matter of public and political discourse. [Me vs them](/notes/agent-vs-society-moralism.md)
+This is why personal identity is also a political matter, because the self is a social construct, made of social identities, which are a matter of public and political discourse. [Me vs them](/notes/morality-is-a-free-rider-problem.md)
 
 :::note[In or Out]
 
@@ -256,15 +269,15 @@ This is why personal identity is also a political matter, because the self is a 
 
 #### Rewriting Self
 
-The dawn of the internet has amplified existing tendencies within human nature. The [Conformation Bias](/notes/conformation-bias.md) and the [availability bias](/notes/availability-bias.md) tends to pull us towards what we empathize with, and not necessarily what's true. Instead of absolute freedom, we were pushed towards digital tribalism. Perhaps due to the endless amounts of information, we turned to those who are similar to us in hopes that they will be a trustworthy source to filter out the noise. These curators often show what we want to hear, rather than the truth.
+The dawn of the internet has amplified existing tendencies within human nature. The [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md) and the [Availability bias inflates perceived likelihood of easily recalled events](/notes/availability-bias-inflates-perceived-likelihood-of-easily-recalled-events.md) tends to pull us towards what we empathize with, and not necessarily what's true. Instead of absolute freedom, we were pushed towards digital tribalism. Perhaps due to the endless amounts of information, we turned to those who are similar to us in hopes that they will be a trustworthy source to filter out the noise. These curators often show what we want to hear, rather than the truth.
 
-More than just filling us with the wrong facts, they reshape our memories, since memories are not like files on a computer, they are rewritten every time we pull them, colored by the emotions and values we have now [Rewriting](/notes/rewriting.md). **Reshaping our past also means to put limits on the possibilities of our future self**.
+More than just filling us with the wrong facts, they reshape our memories, since memories are not like files on a computer, they are rewritten every time we pull them, colored by the emotions and values we have now [We rewrite our memories every time we access them](/notes/we-rewrite-our-memories-every-time-we-access-them.md). **Reshaping our past also means to put limits on the possibilities of our future self** [Rewriting our past shapes our future](/notes/rewriting-our-past-shapes-our-future.md).
 
-Similarly they try to actively shape our future as well. Since people don't do well with infinite choices [Analysis paralysis](/notes/analysis-paralysis.md), software offer us content based on what they *predict* that we would like, which is similar to what we have seen before. Meaning that the probability of accessing something truly different and original from what we know is small.
+Similarly they try to actively shape our future as well. Since people don't do well with infinite choices [Too much information prevents decision-making](/notes/too-much-information-prevents-decision-making.md), software offer us content based on what they *predict* that we would like, which is similar to what we have seen before. Meaning that the probability of accessing something truly different and original from what we know is small.
 
 Additionally, the internet has allowed creation of social identities across space and time, because you are no longer limited to the people around you, nor to people from your own generation. You can read a book from 300 years ago, or tweet to an audience half the world away.
 
-However, the greatest influence of all is from the nation state, which has the power through laws "legitimate" use of violence, and [soft power](/notes/soft-power.md) to enforce social identities, to determine what is accepted within the state, what's normal and what's excluded. Think about the power of patriotism, of how economics works, of national solidarity, rights and duties, all are based on the influential power and shared belief of a nation.
+However, the greatest influence of all is from the nation state, which has the power through laws "legitimate" use of violence, and [Normalizing power shapes compliance through internalized social norms](/notes/normalizing-power-shapes-compliance-through-internalized-social-norms.md) to enforce social identities, to determine what is accepted within the state, what's normal and what's excluded. Think about the power of patriotism, of how economics works, of national solidarity, rights and duties, all are based on the influential power and shared belief of a nation.
 
 Nations has a lot of influence on who we are. Imagine being born "the same" but in a different country, your life (and your self) would be completely different. There is no meaning to view the self from "nowhere", we are always bound and affected by where we are.
 
@@ -288,9 +301,9 @@ There is two sense of meaning, one is the meaning we feel during our lives, and 
 
 Meaning is something we yearn for, and for meaning to emerge, the world has to "make sense", it has to have an order. Order in a chaotic world is the result of finding the connection between us and the world, a way in which we *fit* in the world that makes sense. This connection requires a self, and as we have seen before, a self is constructed through our relationship with others.
 
-While our connection to others bring sense and structure to the world, it is not enough for a feeling of meaning. Intuitively we feel that we must do something meaningful, that we need a goal in life. First that requires a sense of freedom, of purposefulness, of choosing to act rather than being forced to do something. We have seen that our freedom must be tied somewhat to others, because otherwise we would lose all connection to the world, and with that it's meaning. We would feel the [absurdity of existence](/notes/absurdity-of-existence.md).
+While our connection to others bring sense and structure to the world, it is not enough for a feeling of meaning. Intuitively we feel that we must do something meaningful, that we need a goal in life. First that requires a sense of freedom, of purposefulness, of choosing to act rather than being forced to do something. We have seen that our freedom must be tied somewhat to others, because otherwise we would lose all connection to the world, and with that it's meaning. We would feel the [Life has no predefined meaning we can discover](/notes/life-has-no-predefined-meaning-we-can-discover.md).
 
-Same as our connection to the world, and our feeling of freedom in it, the significance of our actions that is required for a sense of meaning also is tied to our social self. **We want to do something that outlasts us, that extends the self across space and time. More than we want our body to last forever, we want to leave a legacy**.
+Same as our connection to the world, and our feeling of freedom in it, the significance of our actions that is required for a sense of meaning also is tied to our social self. **We want to do something that outlasts us, that extends the self across space and time. More than we want our body to last forever, we want to leave a legacy** [The desire for legacy is the desire to extend the self beyond death](/notes/the-desire-for-legacy-is-the-desire-to-extend-the-self-beyond-death.md).
 
 That's why it's no surprise that often people associate meaning with others, with being helpful, with making a meaningful change beyond themselves. Since our self is intertwined with others, so is our sense of meaning.
 
@@ -304,7 +317,7 @@ That's why it's no surprise that often people associate meaning with others, wit
 
 #### The End?
 
-Death happens twice, once when our body dies, and once when our self dies. Since our self is tied to our relationships, it lasts beyond our body, although not forever. As long as we are remembered, as we live on in others, our self still lives. Someday we will be forgotten, but that's not necessarily a bad thing. [Death](/notes/death.md) pushes us towards making meaningful choices, to live our lives fully, to make the most of the limited opportunities that we have.
+Death happens twice, once when our body dies, and once when our self dies. Since our self is tied to our relationships, it lasts beyond our body, although not forever. As long as we are remembered, as we live on in others, our self still lives. Someday we will be forgotten, but that's not necessarily a bad thing. [Mortality shapes meaning and motivates acceptance](/notes/mortality-shapes-meaning-and-motivates-acceptance.md) pushes us towards making meaningful choices, to live our lives fully, to make the most of the limited opportunities that we have.
 
 :::note[The End?]
 

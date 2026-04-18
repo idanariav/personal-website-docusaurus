@@ -1,13 +1,13 @@
 ---
 UUID: 20231113163444
 Created: '2023-11-13 16:34'
-Modified: '2026-04-10 06:07'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Communication is in our nature.png]]'
 ImageText: Two babies with speech bubbles communicating with each other
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
   solitude.
 aliases: []
 new_schema: true
+Topic:
+  - '[[Social Nature]]'
+Origin: '[[Hidden Brain]]'
+URL: 'https://share.snipd.com/episode/ff7b476b-773b-4b59-82cd-4b62402af31e'
 draft: false
 SiteProcssed: true
 ---
@@ -47,9 +51,3 @@ We shouldn't fear [Fear of rejection stems from perceived threat to self-worth a
 ## Visual
 
 ![Communication is in our nature](/notes/communication-is-in-our-nature.webp)
-
-## Overview
-🔼Topic:: [Social Nature](/notes/social-nature.md)
-Origin:: [Hidden Brain](/notes/hidden-brain.md)
-🔗Link:: [link]([https://share.snipd.com/episode/ff7b476b-773b-4b59-82cd-4b62402af31e](https://share.snipd.com/episode/ff7b476b-773b-4b59-82cd-4b62402af31e))
-

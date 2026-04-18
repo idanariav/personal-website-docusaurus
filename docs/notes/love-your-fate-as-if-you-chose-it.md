@@ -1,13 +1,13 @@
 ---
 UUID: 20240106080055
 Created: '2024-01-06 08:00'
-Modified: '2026-04-04 10:59'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Love your fate as if you chose it.png]]'
 ImageText: A person happily pushing a boulder up a hill
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Amor Fati
 new_schema: true
+Topic:
+  - '[[Acceptance and Effortless Action]]'
+Origin: '[[Friedrich Nietzsche (philosopher)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,8 +55,3 @@ It is to embrace discomfort and transform it into a necessary component of exist
 ## Visual
 
 ![Love your fate as if you chose it](/notes/love-your-fate-as-if-you-chose-it.webp)
-
-## Overview
-🔼Topic:: [Acceptance and Effortless Action](/notes/acceptance-and-effortless-action.md)
-↩️Origin:: [Friedrich Nietzsche (philosopher)](/notes/friedrich-nietzsche-philosopher.md)
-🔗Link:: 

@@ -1,8 +1,8 @@
 ---
 UUID: 20240103053810
 Created: '2024-01-03 05:38'
-Modified: '2026-04-10 06:09'
-Version: 3
+Modified: '2026-04-11 22:25'
+Version: 4
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
@@ -15,6 +15,11 @@ Description: >-
   without hierarchy, fostering constructive feedback, psychological safety, and
   accountability for personal growth and perspective change.
 new_schema: true
+Topic:
+  - '[[Psychological Safety and Team Conditions]]'
+  - '[[Conditions for Creative Thinking]]'
+Origin: '[[Originals (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,13 +59,3 @@ Our peers can also help us keep ourselves [accountable](/notes/you-are-responsib
 ## Visual
 
 ![peer support](/notes/peer-support.webp)
-
-## Overview
-🔼Topic:: [Psychological Safety and Team Conditions](/notes/psychological-safety-and-team-conditions.md)
-🔼Topic:: [Conditions for Creative Thinking](/notes/conditions-for-creative-thinking.md)
-↩️Origin:: [Originals (book)](/books/originals-book.md)
-🔗Link:: 
-
-
-
-

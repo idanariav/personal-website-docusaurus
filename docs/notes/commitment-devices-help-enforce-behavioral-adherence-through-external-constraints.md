@@ -1,13 +1,13 @@
 ---
 UUID: 20240104130904
 Created: '2024-01-04 13:09'
-Modified: '2026-04-01 08:57'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Commitment devices help enforce behavioral adherence through external
   constraints.png]]
@@ -20,6 +20,10 @@ aliases:
   - Commitment Devices
   - Commitment Devices
 new_schema: true
+Topic:
+  - '[[Environment and Behavior]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -31,7 +35,7 @@ SiteProcssed: true
 
 ### Claim
 
-Commitment devices are as their name suggests tool that can help us commit to what we aspire to do. It can range from keeping a diet, to writing, working out and waking up on time. Since we are prone to [Distractions](/notes/distraction.md) and [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md), it can be very difficult to commit to a long term goal, especially if it's benefits are far in the future while the costs are high and present.
+Commitment devices are as their name suggests tool that can help us commit to what we aspire to do. It can range from keeping a diet, to writing, working out and waking up on time. Since we are prone to [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) and [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md), it can be very difficult to commit to a long term goal, especially if it's benefits are far in the future while the costs are high and present.
 
 ### Explanation
 
@@ -58,8 +62,3 @@ Such devices can provide external pressure to maintain our habits. This could be
 ## Visual
 
 ![Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.webp)
-
-## Overview
-🔼Topic:: [Environment and Behavior](/notes/environment-and-behavior.md)
-↩️Origin::
-🔗Link::

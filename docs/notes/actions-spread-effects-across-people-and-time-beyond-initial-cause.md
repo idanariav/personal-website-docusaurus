@@ -1,12 +1,12 @@
 ---
 UUID: 20231226063123
 Created: '2023-12-26 06:31'
-Modified: '2026-04-06 22:40'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Actions spread effects across people and time beyond initial cause.png]]'
 ImageText: A domino chain
 Description: >-
@@ -19,6 +19,10 @@ aliases:
   - Positive feedback loop
   - Positive cycle
 new_schema: true
+Topic:
+  - '[[Tradeoffs and Consequences]]'
+Origin: '[[Creativity Inc (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,8 +58,3 @@ Similarly, when someone does a kind act towards another, it can cause that perso
 ## Visual
 
 ![Actions spread effects across people and time beyond initial cause](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.webp)
-
-## Overview
-🔼Topic:: [Tradeoffs and Consequences](/notes/tradeoffs-and-consequences.md)
-↩️Origin:: [Creativity Inc (book)](/books/creativity-inc-book.md)
-🔗Link::

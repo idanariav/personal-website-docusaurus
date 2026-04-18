@@ -1,8 +1,8 @@
 ---
 UUID: 20260323061800
 Created: '2026-03-23 06:18'
-Modified: '2026-03-23 06:18'
-Version: 1
+Modified: '2026-04-11 22:21'
+Version: 2
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -12,6 +12,10 @@ Description: >-
   controlled vacuum, as in scientific experiments.
 aliases:
   - Neutrality
+Topic:
+  - '[[Neutrality]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -40,8 +44,3 @@ This form of neutrality is most visible in the scientific method, where [experim
 
 ## Visual
 
-
-## Overview
-🔼Topic:: [Neutrality](/notes/neutrality.md)
-↩️Origin::
-🔗Link::

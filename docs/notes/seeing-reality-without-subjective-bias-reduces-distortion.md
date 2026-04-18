@@ -1,13 +1,13 @@
 ---
 UUID: 20240106080443
 Created: '2024-01-06 08:04'
-Modified: '2026-04-10 11:21'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Objectivism
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   free from judgment and narratives, aiming for a clearer understanding of the
   world as it truly is.
 new_schema: true
+Topic:
+  - '[[Nature and Limits of Knowledge]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ Like trying to see something without a color, is it even possible to see somethi
 ## Visual
 
 ![Objectivism](/notes/objectivism.webp)
-
-## Overview
-🔼Topic:: [Nature and Limits of Knowledge](/notes/nature-and-limits-of-knowledge.md)
-↩️Origin::
-🔗Link::
-

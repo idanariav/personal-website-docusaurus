@@ -1,13 +1,15 @@
 ---
 UUID: 20250629053426
 Created: '2025-06-29 05:34'
-Modified: 2025-08-04T16:17:00.000Z
+Modified: '2026-04-13 06:15'
 tags: []
 Author:
   - '[[Oliver Burkeman]]'
 Genre: Self-Help
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-transparent: false
@@ -15,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 162
 Rate: 3
 PublishDate: 2024-10-08T00:00:00.000Z
@@ -35,6 +37,10 @@ FullTitle: >-
 StartDate: 2025-07-21T00:00:00.000Z
 ASIN: B0CSBPW9F1
 Reread: 0
+Topic:
+  - '[[Wellbeing (Map)]]'
+  - '[[Mindsight is awareness of mental states in self and others]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -43,24 +49,19 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: Wellbeing (Map)
-⬆️Topic:: Mindsight
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **We can't have it all, but we can have something** - We try to do it all, to control it all, to finish all of our goals within our time. This is not possible, and will only add stress to our lives. While we must accept that we can't do everything, we still have time to do something.
 2. **Let go of control, we never had it to begin with** - We don't control the cards we are given, only what we do with them. A "perfect" stable life was never an achievable dream. Our finite lives and the nature of change prevents that. By letting go of expectations of control we become free, we don't have to spend energy fighting a hopeless cause. Instead we can dedicate it to what matters
 3. **Strive for imperfectness** - You don't have to do anything, and whatever you do it doesn't have to be perfect. Lower the bar, start small, try it for just a while instead lifelong commitment. It doesn't matter if you miss a streak once in a while, just as long as you do it regularly-ish. As long as you enjoy spending time doing something that is meaningful to you, that's enough.
 4. **Don't fight the current** - Some things like inboxes, social media, to-read lists are literally infinite. To try and reach "inbox zero" is hard borderline impossible. Treat these as rivers that flow by and you pick whatever interests you, instead of a bucket you have to drain.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 We would feel more at peace, accepting our limited nature and reduce suffering and anxiety
 
-### ✅Act
+### Act
 📋*What should I do to achieve the goals set out by this book?*
 1. **Accept your finitude** - acknowledge you cannot do everything and stop trying to control every outcome so you can free attention for what matters.
 2. **Start small (five minutes)** - lower goals and begin one task today for five minutes instead of demanding perfect or total change.
@@ -73,7 +74,7 @@ We would feel more at peace, accepting our limited nature and reduce suffering a
 9. **Take the smallest non‑anxiety step** - when avoiding an important task, identify and do the tiniest action that doesn’t trigger anxiety to start progress.
 10. **Produce quantity over perfect quality** - create freely and frequently to increase the chance of valuable outcomes instead of waiting for perfect results.
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **Being dry in the rain** - To resist our limits is like trying to stay dry in the blizzard without an umbrella, it is doomed from the start
@@ -84,29 +85,29 @@ We would feel more at peace, accepting our limited nature and reduce suffering a
 🧱 *Implementations and limitations of it are...*
 As a meditations book, it serves more as a remainder than as an awakening. Nothing here will astonish you, but these are ideas that needs to be reinforced from time to time.
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 I love the author and his arguments, but this book is a meh for me. Probably because of the format, it's not their fault for not having enough depth in a short meditations. For me, some of the meditations were interesting and some were not. I don't know if I will ever go back to reading this, as it's notes are less useful than reading the other book by this author.
 
-### 🖼️Outline
+### Outline
 
 ![Meditations for Mortals (book)](/books/meditations-for-mortals-book.webp)
-## 📒 Notes
+## Notes
 
 ### The Imperfect Life
 
-In our modern times, many of us are walking Busy Stress disorders, searching for meaning in the world. We believe there is an answer "out there," and until we find it, we won't feel satisfied Future disillusionment.
+In our modern times, many of us are walking [Busy](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md) [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) disorders, searching for meaning in the world. We believe there is an answer "out there," and until we find it, we won't feel satisfied [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md).
 
-We are Lost in the infinite, trying every trick we hear about in hopes of finding meaning. We jump from one shiny new promise to another, only to be quickly disappointed when we still feel empty inside after trying them.
+We are [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md), trying every trick we hear about in hopes of finding meaning. We jump from one [shiny](/notes/distraction-by-novelty-undermines-commitment-and-depth.md) new promise to another, only to be quickly disappointed when we still feel [empty](/notes/indifference.md) inside after trying them.
 
-Productivity is the greatest trap of all because it promises to help us fulfill our goals, regardless of what they may be. We fixate on the tools instead of the purpose Form vs essence.
+Productivity is the greatest trap of all because it promises to help us fulfill our goals, regardless of what they may be. We fixate on the tools instead of the purpose [Distinguishing appearance from authentic substance reveals hidden conflicts](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md).
 
-We perceive life as a matter of control, believing that Uncertainty is our enemy and the source of our Existential dread. By bringing order to life and taming it, we think we can find peace. We strive to be the best at everything, create systems that bring structure to our lives, and plan every step. However, life is anything but stable, so our attempts are destined for failure fatalism.
+We perceive life as a matter of [control](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md), believing that [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md) is our enemy and the source of our [Existential dread](/notes/life-has-no-predefined-meaning-we-can-discover.md). By bringing order to life and taming it, we think we can find peace. We strive to be the best at everything, create systems that bring structure to our lives, and plan every step. However, life is anything but [stable](/notes/life-is-change.md), so our attempts are destined for failure [fatalism](/notes/fatalism.md).
 
-Instead, we should find a way to connect with life rather than tame it. Happiness and creativity both arise from the unexpected.
+Instead, we should find a way to [connect](/notes/resonance-is-being-in-sync-with-reality-and-others.md) with life rather than tame it. Happiness and creativity both arise from the unexpected.
 
-Once we realize we can't do *everything* and that time is limited, we can choose to do *something* Prioritization. We can dedicate our time and attention to a specific project, pouring meaning into it and receiving meaning in return.
+Once we realize we can't do *everything* and that time is [limited](/notes/scarcity-forces-prioritization-when-resources-are-limited.md), we can choose to do *something* [Prioritization](/notes/triage-prioritizes-limited-resources-by-allocating-attention-wisely.md). We can dedicate our time and attention to a specific project, pouring meaning into it and receiving meaning in return.
 
 :::note[The imperfect life]
 
@@ -122,15 +123,15 @@ Once we realize we can't do *everything* and that time is limited, we can choose
 
 The first step is to accept that you will never be able to do everything or achieve a "perfect life," neither now nor in the future. It's like trying to stay dry in the rain without an umbrella; it's hopeless from the start. We can't stop the plane (of life) from crashing; we are born on a desert island, and now we must choose what to do with it.
 
-When we truly accept this, something is released within us - the burden of trying to control everything. Without it, we can simply be. We can choose to do something, not because we are perfect at it or because it will ever be perfect, but because we want to do it. We let go of impossible Expectations.
+When we truly accept this, something is released within us - the burden of trying to control everything. Without it, we can simply [be](/notes/achieve-more-by-not-resisting.md). We can choose to do something, not because we are perfect at it or because it will ever be perfect, but because we want to do it. We let go of impossible [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md).
 
-Instead of striving for perfection, an unattainable standard that's hard to maintain, you should Start Small. Lower your goal; just do it once today for five minutes. Not a complete life change, not a new system of habits, just something good enough to be worth doing.
+Instead of striving for [perfection](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md), an unattainable standard that's hard to maintain, you should [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md). Lower your goal; just do it once today for five minutes. Not a complete life change, not a new system of habits, just something good enough to be worth doing.
 
-Remember that you are never helpless; you are never *forced* to do anything. You can make any choice you want, as long as you are ready to face the consequences. For every decision you encounter, ask yourself what the Alternative cost of each choice is and determine whether it is a price you are willing to pay.
+Remember that you are never [helpless](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md); you are never *forced* to do anything. You can make any choice you want, as long as you are ready to face the consequences. For every decision you encounter, ask yourself what the [Every choice costs the alternatives you gave up](/notes/every-choice-costs-the-alternatives-you-gave-up.md) of each choice is and determine whether it is a price you are willing to pay.
 
-There's freedom in limitations, in being free to choose, regardless of the situation.
+There's freedom in limitations, in being [free to choose](/notes/agency-is-the-ability-to-connect-desires-and-actions.md), regardless of the situation.
 
-We face a *productivity debt*, feeling we must justify our existence by completing a certain number of tasks or achieving a specific social status. This creates a bar that generates debt for tomorrow. We are *insecure overachievers* who accomplish much yet always feel it's not enough. The only way to escape this cycle is to shift from a debt mindset to positive thinking by celebrating our accomplishments instead of fixating on our endless to-do list.
+We face a *productivity debt*, feeling we must justify our [existence](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md) by completing a certain number of tasks or achieving a specific social status. This creates a bar that generates debt for tomorrow. We are *insecure overachievers* who accomplish much yet always feel it's not enough. The only way to escape this cycle is to shift from a [debt](/notes/lacking.md) mindset to [positive thinking](/notes/empowering-language-builds-confidence-and-agency.md) by celebrating our accomplishments instead of fixating on our endless to-do list.
 
 We also experience *information overload*, with far more content than we can handle. That's why we should lower the bar. Treat your "to-read" list as a river, not a bucket. Allow things to come and go without feeling guilty for not reading them. Choose only what you want to read right now, without the added pressure of consuming only "what's useful" or forcing yourself to take notes for your future self. The benefits of reading lie not in the knowledge gained but in the process and the way it transforms you.
 
@@ -155,11 +156,11 @@ We worry too much, considering that many of the things we fret over are beyond o
 
 ### Taking Action
 
-Accepting our limited human existence is not settling for less; it's about the freedom to choose what matters most and promote it.
+Accepting our limited human existence is not settling for less; it's about the freedom to choose what matters most and [promote](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md) it.
 
-Inaction, Analysis paralysis, or procrastination are forms of Avoidance strategies because they delay the moment we must confront the results of our decisions and life itself. If I don't choose which job to take, I technically haven't made the wrong decision yet.
+Inaction, [Too much information prevents decision-making](/notes/too-much-information-prevents-decision-making.md), or procrastination are forms of [Avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) strategies because they delay the moment we must confront the results of our decisions and life itself. If I don't choose which job to take, I technically haven't made the wrong decision yet.
 
-However, we will never know what the right choice was because we can't access the Counterfactual to understand what it would have been like if we had chosen differently, not even in hindsight.
+However, we will never know what the right choice was because we can't access the [Imagining alternatives sharpens our judgment](/notes/imagining-alternatives-sharpens-our-judgment.md) to understand what it would have been like if we had chosen differently, not even in hindsight.
 
 We are like drivers at night, seeing only a sliver ahead, yet we can still reach our destination. Taking baby steps is perfectly fine, as long as we actually take them.
 
@@ -167,11 +168,11 @@ When in doubt, we must ask ourselves what our life's task is. The answer will co
 
 There are tasks we avoid on purpose, much like a person who fears checking their bank account. The information we need most often causes us the most anxiety because it shatters the bubble of our comfort zone. It's a truth that transforms us. To make it less intimidating, think about the smallest step you could take that doesn't trigger anxiety, and do that.
 
-We should avoid having Rigid rules. The purpose of rules is to support the way we want to live, not to make us their slaves. Since life is hard and unpredictable, having a rigid rule like "do this every day" is unforgiving. It focuses too much on not breaking the chain rather than improving in the areas we want to enhance.
+We should avoid having [Absolute rules trade flexibility for willpower savings](/notes/absolute-rules-trade-flexibility-for-willpower-savings.md). The purpose of rules is to support the way we want to live, not to make us their slaves. Since life is hard and unpredictable, having a rigid rule like "do this every day" is unforgiving. It focuses too much on not breaking the chain rather than improving in the areas we want to enhance.
 
 Using soft rules, such as doing things *dailish* - on most days but not necessarily every day - preserves the main intention behind the activity without making it impossible to follow.
 
-Limit yourself to 3-4 hours of work a day. This is the optimal amount of time to produce quality Deep Work while allowing yourself enough time to Rest. Since most of us can't freely choose how long we work, at least try to block off time for deep work.
+Limit yourself to 3-4 hours of work a day. This is the optimal amount of time to produce quality [Focused uninterrupted work produces the best results](/notes/focused-uninterrupted-work-produces-the-best-results.md) while allowing yourself enough time to [Rest enables recovery and sustained performance](/notes/rest-enables-recovery-and-sustained-performance.md). Since most of us can't freely choose how long we work, at least try to block off time for deep work.
 
 We will never be free of problems, as they indicate our lack of total control over life; otherwise, we wouldn't have problems in the first place. Dealing with problems is part of life, part of living, and even part of finding meaning.
 
@@ -189,17 +190,17 @@ We will never be free of problems, as they indicate our lack of total control ov
 
 ### Letting Go
 
-We praise effort and Grit as signs of progress and meaningful work. It feels like cheating to do something simple and enjoyable. To progress without constantly needing to motivate ourselves or tempt ourselves into working more, we should ask, "What if that were easy?" This helps us see if we are making some tasks unnecessarily difficult as a badge of honor No pain no gain instead of recognizing their redundancy.
+We praise effort and [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) as signs of progress and meaningful work. It feels like cheating to do something simple and enjoyable. To progress without constantly needing to motivate ourselves or tempt ourselves into working more, we should ask, "What if that were easy?" This helps us see if we are making some tasks unnecessarily difficult as a badge of honor [We wrongly equate effort with virtue](/notes/we-wrongly-equate-effort-with-virtue.md) instead of recognizing their redundancy.
 
-We should treat ourselves according to the reverse Golden rule, treating ourselves as we typically treat others, avoiding being our worst critic.
+We should treat ourselves according to the reverse [Treat others the way you want to be treated](/notes/treat-others-the-way-you-want-to-be-treated.md), treating ourselves as we typically treat others, avoiding being our worst [critic](/notes/self-criticism-is-being-your-own-harsh-judge.md).
 
-However, we shouldn't take our Kindness too far. We don't have to think about giving optimally at every opportunity; simply being nice is enough. Similarly, we are not responsible for others' mental states. Others may be angry, frustrated, or sad, but it's not our job to fix it.
+However, we shouldn't take our [Kindness](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md) too far. We don't have to think about giving optimally at every opportunity; simply being nice is enough. Similarly, we are not responsible for others' mental states. Others may be angry, frustrated, or sad, but it's not our job to fix it.
 
 Every experience is either a good time or a good story. Looking back, the memorable moments are often those where everything went wrong, yet we still laughed about it. Uncertainty makes life enjoyable and meaningful, as long as it doesn't consume us entirely. A life with full control is boring, while a life without any control is frightening. However, a life with some control is surprising and exciting.
 
-We sometimes obsess over quality, which blocks us from producing anything at all. Instead, we should focus on quantity; when we create without filtering, there's a higher chance we will produce something of value amid all the noise First Batch Trash.
+We sometimes obsess over quality, which blocks us from producing anything at all. Instead, we should focus on quantity; when we create without filtering, there's a higher chance we will produce something of value amid all the noise [First attempts are inherently lower quality than iterations](/notes/first-attempts-are-inherently-lower-quality-than-iterations.md).
 
-Distractions and interruptions are labels we often assign too easily, typically with a negative connotation. A world without distractions is a soplipstic world, where only you exist and nothing else - not even life itself. Life is not bound by your "time boxing" or your schedule; it exists constantly. A child interrupting your deep work session - is that really a bad thing? Isn't time with your children the main point of it all?
+Distractions and interruptions are labels we often assign too easily, typically with a negative connotation. A world without distractions is a [soplipstic](/notes/solipcism.md) world, where only you exist and nothing else - not even life itself. Life is not bound by your "time boxing" or your schedule; it exists constantly. A child interrupting your deep work session - is that really a bad thing? Isn't time with your children the main point of it all?
 
 :::note[Letting Go]
 
@@ -213,13 +214,13 @@ Distractions and interruptions are labels we often assign too easily, typically 
 
 ### Showing up
 
-We also shouldn't let future plans overshadow our present. It's okay to have ambition and to live by it, but not in a way that prevents us from living in the moment. For example, delaying gratification is only useful if we eventually decide to enjoy ourselves; otherwise, we risk delaying it to oblivion and suffering unnecessarily. Don't base your happiness on a future state or wait for it to arrive. Balance ambition with living in the now.
+We also shouldn't let future plans overshadow our present. It's okay to have ambition and to live by it, but not in a way that prevents us from living in the moment. For example, [delaying gratification](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md) is only useful if we eventually decide to enjoy ourselves; otherwise, we risk delaying it to oblivion and suffering unnecessarily. Don't base your happiness on a future state or wait for it to arrive. Balance ambition with living in the now.
 
-Trying to achieve Inbox Zero or tidy your house to perfection is a never-ending task because supply creates demand. A clean house creates more opportunities for messiness. Focusing on emptying our inbox is more about maintaining the facade of order and "being on top of things" than actually achieving it. For instance, if you tidy your house before friends come over, they won't see the real you, and you'll spend your effort cleaning instead of connecting with them Vulnerability.
+Trying to achieve [Inbox Zero](/notes/inbox-zero.md) or tidy your house to perfection is a never-ending task because [supply creates demand](/notes/supply-creates-demand.md). A clean house creates more opportunities for messiness. Focusing on emptying our inbox is more about maintaining the facade of order and "being on top of things" than actually achieving it. For instance, if you tidy your house before friends come over, they won't see the real you, and you'll spend your effort cleaning instead of connecting with them [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md).
 
-Everything "amazing" you see around you has been accomplished by ordinary people, just like you. They didn't break the laws of physics; they are not superhumans. More than raw talent, their "gift" was likely understanding their finitude and deciding to take action, even without all the answers Practice beats talent.
+Everything "amazing" you see around you has been accomplished by ordinary people, just like you. They didn't break the laws of physics; they are not superhumans. More than raw talent, their "gift" was likely understanding their finitude and deciding to take action, even without all the answers [Practice beats talent](/notes/practice-beats-talent.md).
 
-We should aim to be *imperfect perfectionists*. For example, we should lower the bar for what it means to have a meaningful life. Life cannot be meaningful only if we change the world. It is enough to be a good friend, to find flow in what we do, and to engage in activities that make us feel alive Meaning is Crafted.
+We should aim to be *imperfect perfectionists*. For example, we should lower the bar for what it means to have a meaningful life. Life cannot be meaningful only if we change the world. It is enough to be a good friend, to find flow in what we do, and to engage in activities that make us feel alive [Meaning is Crafted](/notes/meaning-is-crafted.md).
 
 :::note[Showing Up]
 

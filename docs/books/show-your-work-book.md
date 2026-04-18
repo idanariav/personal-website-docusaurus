@@ -1,23 +1,41 @@
 ---
 UUID: 20250501083825
 Created: '2025-05-01 08:38'
-Modified: '2025-05-18 20:03'
+Modified: '2026-04-13 06:17'
 tags: []
+FullTitle: Show Your Work! - 10 Ways to Share Your Creativity and Get Discovered
+Description: >-
+  It argues for the importance of daily consistency in writing and publishing to
+  refine material and engage with the audience. Emphasizing the process over
+  results, it highlights the need for understanding your audience and fostering
+  community connections through storytelling and delivering valuable content.
 Author:
   - '[[Austin Kleon]]'
-Genre: Art
-Stored: kindle
-ReadingStatus: Read
-Purchased: true
-Fiction: false
-Version: 1.01
-Pages: 228
-Rate: 2
-PublishDate: 2015-11-04T00:00:00.000Z
-FinishDate: 2025-05-18T00:00:00.000Z
+URL: 'https://www.goodreads.com/book/show/18290401-show-your-work'
 Cover: >-
   http://books.google.com/books/content?id=UdDaCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/18290401-show-your-work'
+Genre: Art
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B00GU2RGGI
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 228
+Reread: 0
+Rate: 2
+PublishDate: 2015-11-04T00:00:00.000Z
+StartDate: 2025-05-14T00:00:00.000Z
+FinishDate: 2025-05-18T00:00:00.000Z
+Image: ''
+aliases: ''
+Topic:
+  - '[[Self promotion and Entrepreneurship (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -26,20 +44,16 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Self promotion and Entrepreneurship (Map)](/mocs/self-promotion-and-entrepreneurship-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Consistency, consistency, consistency** - Keep on writing and publishing every day, this will create a chain reaction where you constantly refine your material, while making more and more opportunities to connect and know your audience.
 2. **Show the way, not the result** - Share the process you used to get where you are, and focus on how others can imitate that. Only discuss what you know based on your knowledge and experience
 3. **Connect and understand** - To be understood, you first have to understand. Be a good member of the community you are trying to lead. Knowing your audience makes all the difference between success and anonymity. Connect through good story telling and always deliver quality product of value.
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 A person who is more confident in publishing creative work, and more successful at doing so
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -47,19 +61,19 @@ A person who is more confident in publishing creative work, and more successful 
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 It's a short book, more inspirational than helpful.
-### 🖼️Outline
+### Outline
 
-## 📒 Notes
+## Notes
 
 ### You Don't Have to Be a Genius
 
 You don't just need to do good work, you also have to be hears. Self promotion is less fake than we realize, it is to put yourself out there, the entirety of you.
 
-It is to learn with others, not showing that you're an expert [peer support](/notes/peer-support.md). Genius is not a lone person, it is created through shared learning.
+It is to learn with others, not showing that you're an expert [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md). Genius is not a lone person, it is created through shared learning [collective intelligence](/notes/collective-intelligence.md).
 
 Once you find your voice, keep on expressing it, until people who are looking for you find you.
 
@@ -67,23 +81,23 @@ Once you find your voice, keep on expressing it, until people who are looking fo
 
 The process you use to create the product can be more interesting and useful than the product itself. For example, a painter can either show his paintings, or how he paints.
 
-Sharing the process can be scary, but this [Vulnerability](/notes/vulnerability.md) is what leads to a connection with your audience.
+Sharing the process can be scary, but this [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md) is what leads to a connection with your audience.
 
-[documenting](/notes/journaling.md) your work process will help you find the hidden insights of your work.
+[documenting](/notes/journaling-enables-reflection-and-self-understanding-through-written-documentation.md) your work process will help you find the hidden insights of your work.
 
 ### Share Something Small Every Day
 
-It is helpful to be [conssitent](/notes/consistency.md), to share your work everyday. But remember that the goal of your posts is to provide value. Showing something half baked is relevant if you're looking for feedback, but don't share everything. Your posts are another tool at your disposal, use wisely.
+It is helpful to be [conssitent](/notes/consistency-compounds-results-through-reliable-repeated-action.md), to share your work everyday. But remember that the goal of your posts is to provide value. Showing something half baked is relevant if you're looking for feedback, but don't share everything. Your posts are another tool at your disposal, use wisely.
 
 Social media is nice, but have your own domain online, a place where you can design and express freelyly.
 
 ### Open up Your Cabinet of Curiosities
 
-Consume interesting content such that it will feed your creativity, follow your [Curiosity](/notes/curiosity.md). There's no such thing as [guilty](/notes/guilt.md) pleasure, don't judge what you consume and why. If you like it, go after it with your whole heart.
+Consume interesting content such that it will feed your creativity, follow your [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md). There's no such thing as [guilty](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) pleasure, don't judge what you consume and why. If you like it, go after it with your whole heart.
 
 ### Tell Good Stories
 
-There's value in [Storytelling](/notes/storytelling.md), it provides the framework that will help the audience value and enjoy your work. It can't come on it's own, you have to wrap your work in a story. A good story is one that easily connects to the audience, that knows their language, their preferences, their style. A good story has a structure, something to follow from start to end.
+There's value in [Humans process and retain information better through stories than abstract facts](/notes/humans-process-and-retain-information-better-through-stories-than-abstract-facts.md), it provides the framework that will help the audience value and enjoy your work. It can't come on it's own, you have to wrap your work in a story. A good story is one that easily connects to the audience, that knows their language, their preferences, their style. A good story has a structure, something to follow from start to end.
 
 While stories should be captivating, don't invent fiction. Stick to the truth, be honest and open, don't exaggerate, and describe yourself in a non flattering way.
 
@@ -97,7 +111,7 @@ If you want to be interesting, first you should be interested. Be a member of th
 
 ### Learn how to Take a Punch
 
-Eventually you will receive [Feedback](/notes/feedback.md), whether you like it or not. Remember that [what you do is not who you are](/notes/cognitive-distancing.md), it doesn't define you, but use it to make you better. And don't listen to the trolls, learn to [filter](/notes/filtering.md) who's opinions really matter.
+Eventually you will receive [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md), whether you like it or not. Remember that [what you do is not who you are](/notes/separating-actions-from-identity-allows-growth.md), it doesn't define you, but use it to make you better. And don't listen to the trolls, learn to [filter](/notes/filtering-is-choosing-what-to-consume-before-distilling-it.md) who's opinions really matter.
 
 ### Sell out
 
@@ -105,10 +119,10 @@ Once you're confident in the value you're providing, and have a large audience, 
 
 Have an emailing list, this is the best way of converting people who are interested in what you do to paying customers.
 
-Be as [generous](/notes/giving.md) as you can, if you found success, pay tribute to those who helped you get there, and those who wish to be there, yet don't let it interrupt your work.
+Be as [generous](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md) as you can, if you found success, pay tribute to those who helped you get there, and those who wish to be there, yet don't let it interrupt your work.
 ### Stick around
 
-Creativity is all a matter of [Grit](/notes/grit.md), you have to persist even when it's hard, especially when it's hard. Good creative work doesn't come [easy](/notes/first-batch-trash.md), you have to dig deep, replace or cover up what you've done so far, so that you could be free to create something better.
+Creativity is all a matter of [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md), you have to persist even when it's hard, especially when it's hard. Good creative work doesn't come [easy](/notes/first-attempts-are-inherently-lower-quality-than-iterations.md), you have to dig deep, replace or cover up what you've done so far, so that you could be free to create something better.
 
 :::note[Highlights]
 

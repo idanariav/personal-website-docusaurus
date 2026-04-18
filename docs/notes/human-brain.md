@@ -1,13 +1,13 @@
 ---
 UUID: 20230415092539
 Created: '2023-04-15 09:25'
-Modified: '2026-03-23 18:19'
+Modified: '2026-04-11 22:31'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: '2'
+Version: 3
 aliases:
   - Neuroscience
 Description: >-
@@ -15,6 +15,13 @@ Description: >-
   functions, adapting through neuroplasticity while managing energy and
   resources for optimal performance and well-being.
 new_schema: true
+Topic:
+  - '[[Biology (Map)]]'
+  - >-
+    [[Understanding others requires attributing mental states like beliefs and
+    intentions to them]]
+Origin: null
+URL: 'https://share.snipd.com/episode/f6318ba4-f1cd-4506-947d-7d9a24622473'
 draft: false
 SiteProcssed: true
 ---
@@ -58,10 +65,3 @@ How does our brain operate? What is it's tendencies? it's structure? how does it
 ## Visual
 
 ![Human Brain](/notes/human-brain.webp)
-
-## Overview
-🔼Topic:: [Biology (Map)](/mocs/biology-map.md)
-🔼Topic:: [Understanding others requires attributing mental states like beliefs and intentions to them](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md)
-◀Origin::
-🔗Link:: [link](https://share.snipd.com/episode/f6318ba4-f1cd-4506-947d-7d9a24622473)
-

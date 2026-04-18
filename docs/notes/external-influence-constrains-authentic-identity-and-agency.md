@@ -1,13 +1,13 @@
 ---
 UUID: 20230715164142
 Created: '2023-07-15 16:41'
-Modified: '2026-04-01 14:45'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[External influence constrains authentic identity and agency.png]]'
 ImageText: A fish in the water
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
 aliases:
   - External Influence
 new_schema: true
+Topic:
+  - '[[Identity Formation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ Resisting these influences first requires a measure of [Self Knowledge](/notes/s
 ## Visual
 
 ![External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.webp)
-
-## Overview
-🔼Topic:: [Identity Formation](/notes/identity-formation.md)
-◀Origin::
-🔗Link::
-

@@ -1,8 +1,8 @@
 ---
 UUID: 20240217074715
 Created: '2024-02-17 07:47'
-Modified: '2026-04-08 15:22'
-Version: 2
+Modified: '2026-04-11 22:25'
+Version: 3
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
@@ -15,6 +15,10 @@ Description: >-
   individuals to pursue goals despite struggles, often leading to a willingness
   to endure pain for ownership and self-discovery.
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: '[[The Intentional Family]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,10 +52,3 @@ This willingness to suffer pain for our goal can sometimes cause us to be blind 
 ## Visual
 
 ![Passion](/notes/passion.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-Origin:: [The Intentional Family](/notes/the-intentional-family.md)
-Link:: https://share.snipd.com/episode/4ff25ab1-aa40-4830-aea2-e342993c8009
-
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20250826081537
 Created: '2025-08-26 08:15'
-Modified: '2026-04-08 10:28'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Categorical imperative
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   be universally applied, considering the logical implications of actions if
   adopted by all individuals.
 new_schema: true
+Topic:
+  - '[[Ethical Frameworks (Metaethics)]]'
+Origin: '[[Immanuel Kant (philosopher)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,8 +52,3 @@ However, the categorical imperative lies on the same shaky foundations as all th
 
 
 ## Visual
-
-## Overview
-🔼Topic:: [Ethical Frameworks (Metaethics)](/notes/ethical-frameworks-metaethics.md)
-↩️Origin:: [Immanuel Kant (philosopher)](/notes/immanuel-kant-philosopher.md)
-🔗Link::

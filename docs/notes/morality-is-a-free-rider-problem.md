@@ -1,13 +1,13 @@
 ---
 UUID: 20220529145502
 Created: '2022-05-29 14:55'
-Modified: '2026-04-08 13:20'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Morality is a free rider problem.png]]'
 ImageText: Two bar charts of expected behavior of myself vs society
 Description: >-
@@ -19,6 +19,14 @@ aliases:
   - Me vs them
   - Double standard
 new_schema: true
+Topic:
+  - '[[Social and Group Ethics]]'
+  - >-
+    [[Providing value without expectation of return cultivates
+    wellbeing|Altruism]]
+Origin: '[[Hi-Fi Nation]]'
+URL: >-
+  https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/28D492/traffic.megaphone.fm/SLT4676596066.mp3?updated=1637274554
 draft: false
 SiteProcssed: true
 ---
@@ -52,9 +60,3 @@ If this is how humanity is described, which suggests that it might not be that [
 ## Visual
 
 ![Morality is a free rider problem](/notes/morality-is-a-free-rider-problem.webp)
-## Overview
-🔼Topic:: [Social and Group Ethics](/notes/social-and-group-ethics.md)
-🔼Topic:: [Altruism](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md)
-Origin:: [Hi-Fi Nation](/notes/hi-fi-nation.md)
-🔗Link:: [Source](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/28D492/traffic.megaphone.fm/SLT4676596066.mp3?updated=1637274554)
-

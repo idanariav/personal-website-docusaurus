@@ -1,13 +1,13 @@
 ---
 UUID: 20230731072141
 Created: '2023-07-31 07:21'
-Modified: '2026-04-06 23:11'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Everything is a result of prior causes.png]]'
 ImageText: >-
   A dice showing random outcomes on the left, versus predetermined outcomes on
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Determinism
 new_schema: true
+Topic:
+  - '[[Freedom and Agency]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,8 +60,3 @@ Maybe it's all just a façade, like a video game character that thinks it is rea
 ## Visual
 
 ![Everything is a result of prior causes](/notes/everything-is-a-result-of-prior-causes.webp)
-
-## Overview
-🔼Topic:: [Freedom and Agency](/notes/freedom-and-agency.md)
-🔗Link::
-

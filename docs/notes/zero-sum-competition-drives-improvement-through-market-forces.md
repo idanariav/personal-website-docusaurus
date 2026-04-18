@@ -1,17 +1,21 @@
 ---
 UUID: 20260312074400
 Created: '2026-03-12 07:44'
-Modified: '2026-03-12 07:44'
+Modified: '2026-04-11 22:30'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 1
+Version: 2
 Description: >-
   Market competition is zero-sum rivalry that forces participants to improve and
   drives collective economic prosperity
 aliases:
   - Competition
+Topic:
+  - '[[Competition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -37,10 +41,4 @@ Competition is when each person tries to gain something at the expense of anothe
 
 
 ## Visual
-
-
-## Overview
-🔼Topic:: [Competition](/notes/competition.md)
-↩️Origin::
-🔗Link::
 

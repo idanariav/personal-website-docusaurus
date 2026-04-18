@@ -1,13 +1,13 @@
 ---
 UUID: 20231230073858
 Created: '2023-12-30 07:38'
-Modified: '2026-04-08 14:24'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Attachment distorts how we see the things we cling to.png]]'
 ImageText: 'A person looking at a small circle, with a large one behind then'
 Description: >-
@@ -20,6 +20,11 @@ aliases:
   - Entrenchment
   - Endowment effect
 new_schema: true
+Topic:
+  - '[[Status Quo and Inertia]]'
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,10 +60,3 @@ There are a few ways to reduce attachment:
 ## Visual
 
 ![Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.webp)
-
-## Overview
-🔼Topic:: [Status Quo and Inertia](/notes/status-quo-and-inertia.md)
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-↩️Origin::
-🔗Link::
-

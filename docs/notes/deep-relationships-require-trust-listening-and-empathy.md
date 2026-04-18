@@ -1,12 +1,12 @@
 ---
 UUID: 20240217084931
 Created: '2024-02-17 08:49'
-Modified: '2026-04-10 06:07'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Deep relationships require trust, listening, and empathy.png]]'
 ImageText: Two people hugging
 Description: >-
@@ -16,6 +16,11 @@ Description: >-
 aliases:
   - Relationships
 new_schema: true
+Topic:
+  - '[[Active Listening and Empathy]]'
+  - '[[Social Connection and Belonging]]'
+Origin: '[[Raising Good Humans]]'
+URL: 'https://share.snipd.com/episode/383eeb9b-ca11-4d6b-a443-328f6f2c0d04'
 draft: false
 SiteProcssed: true
 ---
@@ -51,10 +56,3 @@ Relationship is a two way street. We can't expect the other to open up to us if 
 ## Visual
 
 ![Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.webp)
-
-## Overview
-🔼Topic:: [Active Listening and Empathy](/notes/active-listening-and-empathy.md)
-🔼Topic:: [Social Connection and Belonging](/notes/social-connection-and-belonging.md)
-↩️Origin:: [Raising Good Humans](/notes/raising-good-humans.md)
-🔗Link:: https://share.snipd.com/episode/383eeb9b-ca11-4d6b-a443-328f6f2c0d04
-

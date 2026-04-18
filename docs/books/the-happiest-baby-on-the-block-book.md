@@ -1,40 +1,54 @@
 ---
 UUID: 20240703070056
 Created: '2024-07-03 07:00'
-Modified: '2024-10-24 09:16'
+Modified: '2026-04-13 06:19'
 tags: []
+FullTitle: >-
+  The Happiest Baby on the Block - The New Way to Calm Crying and Help Your
+  Newborn Baby Sleep Longer
+Description: >-
+  It argues that babies are born prematurely, missing the womb's safety. To
+  soothe them, techniques like swaddling, side/stomach positioning, shushing,
+  swinging, and sucking can trigger their innate relaxation reflex, helping to
+  calm cries and promote better sleep during their early months.
 Author:
   - '[[Harvey Karp]]'
+URL: 'https://www.goodreads.com/book/show/132900.The_Happiest_Baby_on_the_Block'
+Cover: >-
+  http://books.google.com/books/content?id=WAOOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 Genre: Family & Relationships
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B00TCI48AE
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 2
 Pages: 260
+Reread: 0
 Rate: 3
 PublishDate: 2015-10-06T00:00:00.000Z
+StartDate: 2024-07-01T00:00:00.000Z
 FinishDate: 2024-07-09T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=WAOOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/132900.The_Happiest_Baby_on_the_Block'
+Image: null
 aliases: null
+Topic:
+  - '[[Education (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Happiest Baby on the Block
 
-## 🔗Connect
-🔼Topic:: [Education (Map)](/mocs/education-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Born too soon** - Babies are born 3 months "too soon" because physical limits of size during birth. When they are born, they posses only the most basic of survival instincts and still miss the safe environment of the womb.
 2. **Relaxation reflex** - Every baby is imbued with a relaxation reflex that can be triggered when we simulate the womb. This can turn never ending cries in minutes, using these techniques:
@@ -43,11 +57,11 @@ SiteProcssed: true
 	3. **Shushing** - Babies are used to being (and sleeping) in a noisy low-pitch environment, like an air dryer constantly working. By using white noise or "shushing" next to the ear we can calm them down. Should be used in every nap or sleep time *up to one year*, up to 65 decibels.
 	4. **Swinging** - gentle movements by just an inch can imitate the constant movement in the womb
 	5. **Sucking** - Feeding is one of the most primal baby's instincts. Using a pacifier can maintain the calming reflex for a long time, and should be used after calming them down, during sleep and *up to 6 or 7 months*. Also, use only after breast feeding habit is settled down.
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 Happier and calmer parent that can sleep more and experience less stress and fatigue from endless crying.
@@ -56,16 +70,16 @@ Happier and calmer parent that can sleep more and experience less stress and fat
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 One of the most redundant books in terms of length, such little content over so many pages
 
-### 🖼️Outline
+### Outline
 
-![The Happiest Baby on the Block (book).webp](/books/the-happiest-baby-on-the-block-book.webp)
+![The Happiest Baby on the Block (book)](/books/the-happiest-baby-on-the-block-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
@@ -106,9 +120,9 @@ Use the 5 S's to trigger that reflex. One step is not enough, and it's best to d
 
 Crying was developed as a tool to gain attention, but it is not yet a way for communication. The baby is not aware that they are sending you signals, they react out of instinct as if expressing their emotions to themselves [children crying](/notes/children-crying.md).
 
-That's why we shouldn't ignore their cries. It's not about them being clingy, or teaching them to be strong. Only after nine months we can start to talk about cries for attention. That's why we should always respond to a cry [Dont Jump to the Rescue](/notes/dont-jump-to-the-rescue.md), because it can only teach them love and warmth, and create a bond between you and the baby [Relationships](/notes/relationships.md).
+That's why we shouldn't ignore their cries. It's not about them being clingy, or teaching them to be strong. Only after nine months we can start to talk about cries for attention. That's why we should always respond to a cry [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md), because it can only teach them love and warmth, and create a bond between you and the baby [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md).
 
-It's hard to determine what a cry is about. All cries sound the same, but it might be accompanied by body signals [non verbal communication](/notes/non-verbal-communication.md).
+It's hard to determine what a cry is about. All cries sound the same, but it might be accompanied by body signals [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md).
 
 For example:
 1. Overstimulation - a child that looks away or hiccupping

@@ -3,7 +3,7 @@ excalidraw-plugin: parsed
 tags: []
 UUID: 20220715053800
 Created: '2022-07-15 05:38'
-Modified: '2026-04-10 06:25'
+Modified: '2026-04-11 22:22'
 aliases: null
 excalidraw-open-md: true
 excalidraw-autoexport: png
@@ -13,7 +13,14 @@ Description: >-
   self-control, integrity, and the pursuit of virtue, rather than the mere
   acquisition of external goods.
 new_schema: true
-Version: '2'
+Version: 3
+Topic:
+  - '[[Value and Meaning]]'
+  - '[[Ethical Frameworks (Metaethics)]]'
+  - '[[Happiness (Nature and Sources)]]'
+Origin: '[[Plato (philosopher)]]'
+URL: >-
+  https://archive.philosophersmag.com/conference-briefing-plato-on-human-happiness/?utm_source=pocket_mylist
 draft: false
 SiteProcssed: true
 ---
@@ -57,11 +64,3 @@ Virtue is knowledge [Free will is knowledge](/notes/free-will-is-knowledge.md), 
 ## Visual
 
 ![Happiness is to be virtuous](/notes/happiness-is-to-be-virtuous.webp)
-
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-🔼Topic:: [Ethical Frameworks (Metaethics)](/notes/ethical-frameworks-metaethics.md)
-🔼Topic:: [Happiness (Nature and Sources)](/notes/happiness-nature-and-sources.md)
-◀Origin:: [Plato (philosopher)](/notes/plato-philosopher.md)
-🔗Link:: [Source](https://archive.philosophersmag.com/conference-briefing-plato-on-human-happiness/?utm_source=pocket_mylist)
-

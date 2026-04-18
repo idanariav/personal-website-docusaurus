@@ -1,13 +1,13 @@
 ---
 UUID: 20250227073528
 Created: '2025-02-27 07:35'
-Modified: '2026-04-08 13:58'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Non linear
   - Seasonality
@@ -16,6 +16,10 @@ Description: >-
   events do not follow a simple, straight pattern, necessitating adaptability
   and patience in the face of uncertainty.
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,9 +60,3 @@ We will fail, we will change our mind, [unexpected](/notes/randomness.md) things
 ## Visual
 
 ![non linear](/notes/non-linear.webp)
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-↩️Origin::
-🔗Link::
-

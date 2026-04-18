@@ -1,13 +1,13 @@
 ---
 UUID: 20240701071300
 Created: '2024-07-01 07:13'
-Modified: '2026-04-08 14:10'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Depression is chronic despair from helplessness and lost meaning.png]]'
 ImageText: A person falling deeper into a dark pit between two walls
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Depression
   - Despair
 new_schema: true
+Topic:
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ What makes depression worse is when we start [comparing](/notes/comparing-oursel
 ## Visual
 
 ![Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.webp)
-
-## Overview
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-↩️Origin::
-🔗Link::
-

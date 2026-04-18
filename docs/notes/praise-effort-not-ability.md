@@ -1,13 +1,13 @@
 ---
 UUID: 20221111071444
 Created: '2022-11-11 07:14'
-Modified: '2026-04-09 17:06'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Praises
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   innate abilities, fostering a growth mindset and encouraging resilience in the
   face of challenges.
 new_schema: true
+Topic:
+  - '[[Scaffolded Growth]]'
+Origin: '[[Mindset (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,9 +52,3 @@ We also have to make sure that our praise doesn't become a prize on it's own, in
 ## Visual
 
 ![how to give praises](/notes/how-to-give-praises.webp)
-
-## Overview
-🔼Topic:: [Scaffolded Growth](/notes/scaffolded-growth.md)
-◀Origin:: [Mindset (book)](/books/mindset-book.md)
-🔗Link::
-

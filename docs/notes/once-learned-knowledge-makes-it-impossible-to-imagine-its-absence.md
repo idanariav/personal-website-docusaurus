@@ -1,13 +1,13 @@
 ---
 UUID: 20240522064859
 Created: '2024-05-22 06:48'
-Modified: '2026-04-08 13:38'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Once learned, knowledge makes it impossible to imagine its absence.png]]'
 ImageText: >-
   A barrier showing a solid arrow for learning going forward but a blocked
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Curse of Knowledge
 new_schema: true
+Topic:
+  - '[[Overconfidence and Self-Assessment]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ Alternatively, although it is hard to do, practices of [Rethinking means updatin
 ## Visual
 
 ![Once learned, knowledge makes it impossible to imagine its absence](/notes/once-learned-knowledge-makes-it-impossible-to-imagine-its-absence.webp)
-
-## Overview
-🔼Topic:: [Overconfidence and Self-Assessment](/notes/overconfidence-and-self-assessment.md)
-↩️Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20241125074031
 Created: '2024-11-25 07:40'
-Modified: '2026-04-08 13:24'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Unity
   - Unity
@@ -18,6 +18,10 @@ Description: >-
   identity and purpose, essential for human experience and promoting altruism
   while overcoming individual biases.
 new_schema: true
+Topic:
+  - '[[Social Nature]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,9 +60,3 @@ Unity can sometimes be based on a shared identity, goal or circumstances, which 
 ## Visual
 
 ![Unity](/notes/unity.webp)
-
-## Overview
-🔼Topic:: [Social Nature](/notes/social-nature.md)
-↩️Origin::
-🔗Link::
-

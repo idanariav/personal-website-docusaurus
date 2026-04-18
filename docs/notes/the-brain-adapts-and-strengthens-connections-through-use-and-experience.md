@@ -1,8 +1,8 @@
 ---
 UUID: 20240217074958
 Created: '2024-02-17 07:49'
-Modified: '2026-04-10 10:24'
-Version: 2
+Modified: '2026-04-11 22:28'
+Version: 3
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
@@ -15,6 +15,10 @@ Description: >-
   learning, strengthening connections in frequently used areas, thereby enabling
   growth and change in cognitive abilities.
 new_schema: true
+Topic:
+  - '[[Human Brain]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,8 +58,3 @@ That's also why it reverts back if left unused. One month of constant training i
 ## Visual
 
 ![Neuroplasticity](/notes/neuroplasticity.webp)
-
-## Overview
-🔼Topic:: [Human Brain](/notes/human-brain.md)
-↩️Origin::
-🔗Link:: 

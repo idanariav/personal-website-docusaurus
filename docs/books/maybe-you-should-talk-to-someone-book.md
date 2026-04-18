@@ -1,19 +1,23 @@
 ---
 UUID: 20231113093558
 Created: '2023-11-13 09:35'
-Modified: '2024-10-21 07:07'
+Modified: '2026-04-13 06:15'
 tags: []
 Author:
   - '[[Lori Gottlieb]]'
 Genre: Biography & Autobiography
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 413
 Rate: 3
 PublishDate: 2019-01-01T00:00:00.000Z
@@ -22,29 +26,38 @@ Cover: >-
   http://books.google.com/books/content?id=ATKQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/40203647-maybe-you-should-talk-to-someone'
 aliases: null
+Description: >-
+  It argues that therapy fosters independence, emphasizing that while pain is
+  unavoidable, suffering is a choice. Unresolved emotions can lead to harmful
+  outcomes, and change involves both loss and gain.
+FullTitle: >-
+  Maybe You Should Talk to Someone - A Therapist, Her Therapist, and Our Lives
+  Revealed
+StartDate: 2023-10-19T00:00:00.000Z
+ASIN: B07BZ4F75T
+Reread: 0
+Topic:
+  - '[[behavioral psychology (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Maybe You Should Talk to Someone (book)
 
-## 🔗Connect
-🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. Therapy is about independence
 2. We can't avoid pain, but we choose to suffer
 3. Emotions left unsolved manifest in harmful ways
 4. Change is both loss and a gain
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. If you believed it is true late for you to change, that you are incapable of change or undeserving a better life, have hope, it is never too late, and therapy can be the key
@@ -53,25 +66,25 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 The book doesn't guide us to a healthier perspective about life. We have to read between the lines with subtle cues to understand her message
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 1. The book is a collection of short stories, some on her patients, some on herself. There is no clear connection or buildup through the chapters, and some seem unnecessary.
 2. The book is more similar to a prose, where we connect to the characters, and perhaps learn something along the way
 
-### 🖼️Outline
+### Outline
 
-![Maybe you should talk to someone (book).webp](/books/maybe-you-should-talk-to-someone-book.webp)
+![Maybe you should talk to someone (book)](/books/maybe-you-should-talk-to-someone-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Part 1
 
 #### The Idiot
 
-**Our first mistake is that we believe change can come without any loss**, like being fit without working out, or expecting everybody else to act differently without doing the same ourselves. Every change has to come from us stopping or starting doing things differently. [Creative Destruction](/notes/creative-destruction.md)
+**Our first mistake is that we believe change can come without any loss**, like being fit without working out, or expecting everybody else to act differently without doing the same ourselves. Every change has to come from us stopping or starting doing things differently. [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
 
-This is related to the topic of agency. We have to understand our part in the circumstances of our lives, and that we are the ones who have to act to improve it, and even more than that, we are often the root cause of the problem. **Therefore change, specifically changing ourselves, is key to any solution**. [Agency](/notes/agency.md) [Accountability](/notes/accountability.md)
+This is related to the topic of agency. We have to understand our part in the circumstances of our lives, and that we are the ones who have to act to improve it, and even more than that, we are often the root cause of the problem. **Therefore change, specifically changing ourselves, is key to any solution**. [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) [You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md)
 
 :::note[Quotes]
 
@@ -85,7 +98,7 @@ This is related to the topic of agency. We have to understand our part in the ci
 
 #### If the Queen Had Balls
 
-We can't live in a "what if" mentality, or "it will be better when...", **the perfect is the enemy of the good**. We have to recognize and be grateful for what we have and stop projecting fantasies on our live, only to live in illusion which will end up in depression once the bubble bursts. [Gratitude](/notes/gratitude.md)
+We can't live in a "what if" mentality, or "it will be better when...", **the perfect is the enemy of the good**. We have to recognize and be grateful for what we have and stop projecting fantasies on our live, only to live in illusion which will end up in depression once the bubble bursts. [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md)
 
 :::note[Quotes]
 
@@ -116,7 +129,7 @@ If there is nothing that's keeping you going other than escapism, like watching 
 
 #### Namastay in Bed
 
-To lie to others or to ignore toxic behavior in order to comfort them or to support your image is tempting, but this will only cause more harm then good. Even in difficult topics, **it's best to be honest and answer directly**, it will hurt, but you will be there with them, instead of letting them discover the truth alone, or never at all. [Honesty](/notes/honesty.md)
+To lie to others or to ignore toxic behavior in order to comfort them or to support your image is tempting, but this will only cause more harm then good. Even in difficult topics, **it's best to be honest and answer directly**, it will hurt, but you will be there with them, instead of letting them discover the truth alone, or never at all. [Speaking truth about yourself and others enables authentic action](/notes/speaking-truth-about-yourself-and-others-enables-authentic-action.md)
 #### Finding Wendel
 
 The most important thing about a therapist is your relationship with him, the connection, more than his training or "topic of expertise". Having a common ground such as marital status, gender, etc helps.
@@ -129,7 +142,7 @@ The most important thing about a therapist is your relationship with him, the co
 
 #### The Beginning of Knowing
 
-Patients often have conflicting incentives, they want the therapist to know their deepest feelings, problems and tendencies so that they could find them a solution, but also we are afraid of being so exposed, and often, not even consciously, present a false image of ourselves as "being fine". [Image vs core](/notes/form-vs-essence.md)
+Patients often have conflicting incentives, they want the therapist to know their deepest feelings, problems and tendencies so that they could find them a solution, but also we are afraid of being so exposed, and often, not even consciously, present a false image of ourselves as "being fine". [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md)
 
 :::note[Quotes]
 
@@ -150,7 +163,7 @@ Patients often have conflicting incentives, they want the therapist to know thei
 
 #### Snapshots of Ourselves
 
-At each point in time, at different contexts, we are different people, a collection of snapshots around a common theme, our "core identity". **The goal is to resolve the tension between those snapshots and reach inner peace**. [harmonious self](/notes/harmonious-self.md)
+At each point in time, at different contexts, we are different people, a collection of snapshots around a common theme, our "core identity". **The goal is to resolve the tension between those snapshots and reach inner peace**. [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md)
 
 :::note[Quotes]
 
@@ -164,7 +177,7 @@ At each point in time, at different contexts, we are different people, a collect
 
 #### The Present is also the Future
 
-**We can't avoid pain, but we choose to experience suffering**, to dwell on an issue, to let it block our time, emotions, and thoughts, we stay fixated in a nasty cycle instead of changing, healing. [Pain](/notes/struggle.md)
+**We can't avoid pain, but we choose to experience suffering**, to dwell on an issue, to let it block our time, emotions, and thoughts, we stay fixated in a nasty cycle instead of changing, healing. [Pain](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md)
 
 In that sense, suffering happens because it is helpful for us in some sense, perhaps we believe we can revenge, proven right, or perhaps we are too afraid of changing, of looking ourselves in the mirror and notice our flaws and part in our situation.
 
@@ -192,7 +205,7 @@ Life is filled with uncertainty, and many things we can't control. **Instead of 
 #### How Kids Deal with Grief
 #### Hareld and Maeve
 
-**Specialization often causes us to ignore the big picture**. In medicine, that is when we focus on the illness rather than the patient. We focus on organs, symptoms, and ignore the person. [holistic](/notes/holistic.md)
+**Specialization often causes us to ignore the big picture**. In medicine, that is when we focus on the illness rather than the patient. We focus on organs, symptoms, and ignore the person. [The whole is greater than its parts](/notes/the-whole-is-greater-than-its-parts.md)
 #### Hold the Mayo
 
 Therapy is not a "one size fits all", it requires flexibility, to set unique boundaries with each patient, all in the purpose of allowing them to feel comfortable and at peace.
@@ -213,9 +226,9 @@ The goal is therapy is to allow the patient to create a more healthy narrative o
 ### Part 2
 #### Fridays at Four
 
-Group discussion is a good way of finding out your blind spots and biases, and your way to help cover others' as well. [peer support](/notes/peer-support.md)
+Group discussion is a good way of finding out your blind spots and biases, and your way to help cover others' as well. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
 
-After all viable strategies have been tested, and peers consulted, it might be worthwhile to also know when to stop, when pursuing further is a bad use of your time and energy, and will only end in a bad result. [When to Quit](/notes/when-to-quit.md)
+After all viable strategies have been tested, and peers consulted, it might be worthwhile to also know when to stop, when pursuing further is a bad use of your time and energy, and will only end in a bad result. [Knowing when to stop prevents wasted persistence on misaligned goals](/notes/knowing-when-to-stop-prevents-wasted-persistence-on-misaligned-goals.md)
 
 :::note[Quotes]
 
@@ -245,7 +258,7 @@ Dreams are often an indication about our fears. The dream itself is often a meta
 
 #### Therapy with a Condom on
 
-[Anger](/notes/anger.md) is the most obvious emotion that shows that something is wrong deep within, often covering feels of depression, insecurities, doubt, and through rage it's expressed, help us project the problem onto the world instead of looking inside, and push everyone away to keep us safe.
+[Anger is information that something should be different](/notes/anger-is-information-that-something-should-be-different.md) is the most obvious emotion that shows that something is wrong deep within, often covering feels of depression, insecurities, doubt, and through rage it's expressed, help us project the problem onto the world instead of looking inside, and push everyone away to keep us safe.
 
 :::note[Quotes]
 
@@ -291,7 +304,7 @@ Silence is when truth is revealed. At first, our words convey the narrative we w
 
 #### The Rapist
 
-**People tend to project their feelings onto others In order to get rid of them**. for example, if you're angry, you might feel that your partner is angry too. [Emotional Projection](/notes/emotional-projection.md)
+**People tend to project their feelings onto others In order to get rid of them**. for example, if you're angry, you might feel that your partner is angry too. [We attribute our emotions to others and misread theirs](/notes/we-attribute-our-emotions-to-others-and-misread-theirs.md)
 #### On the Clock
 
 **You can't help others if you are unauthentic**, if you don't believe what you say, or try to present a false image of yourself.
@@ -315,7 +328,7 @@ Untreated anxiety can manifest as an actual physical illness
 
 Therapist are not meant to make decisions for you, but rather help you make decisions for yourself, so that you can achieve independence.
 
-Not acknowledging children's emotion, like "there's nothing to be afraid of", can cause them to hide their emotions, even to the point of hiding it from themselves, making them unaware of their own emotional state. [Acknowledgement](/notes/validation.md)
+Not acknowledging children's emotion, like "there's nothing to be afraid of", can cause them to hide their emotions, even to the point of hiding it from themselves, making them unaware of their own emotional state. [Acknowledgement](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md)
 
 :::note[Quotes]
 
@@ -340,7 +353,7 @@ Not acknowledging children's emotion, like "there's nothing to be afraid of", ca
 A lot of things in our lives are taken for granted, even though the are the things that make us the most happy, like our health, our relationships. We should experience gratitude to acknowledge these things and enjoy them while they last.
 #### The Speed of want
 
-We desire quick solutions, we have short attention span, and zero patience. All these prevent us from achieving meaningful lasting results, which are based on deep, uninterrupted, face to face conversation with the therapist. The [Attention Economy](/notes/attention-economy.md) is not only causing the problem, it is also preventing the solution.
+We desire quick solutions, we have short attention span, and zero patience. All these prevent us from achieving meaningful lasting results, which are based on deep, uninterrupted, face to face conversation with the therapist. The [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md) is not only causing the problem, it is also preventing the solution.
 
 :::note[Quotes]
 
@@ -351,7 +364,7 @@ We desire quick solutions, we have short attention span, and zero patience. All 
 
 #### Ultimate Concerns
 
-[Uncertainty](/notes/uncertainty.md) is a main driver of fear in our life. Instead of fearing it or fooling ourselves that it doesn't exist or that we can control it, is to embrace it. To see it as an opportunity to change, to have something new in life, to have more positive surprises. [Life as Flow](/notes/life-as-flow.md)
+[Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md) is a main driver of fear in our life. Instead of fearing it or fooling ourselves that it doesn't exist or that we can control it, is to embrace it. To see it as an opportunity to change, to have something new in life, to have more positive surprises. [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md)
 
 :::note[Quotes]
 
@@ -394,7 +407,7 @@ As Frankl is saying, there is a space between what is happening to us and our re
 
 **Even when people with depression change their situation, go out more, have a social circle, human connections, that's not necessarily mean that they automatically will be happier.**
 
-Most often, they will feel bad for being happy, a combination of [Imposter Syndrome](/notes/imposter-syndrome.md) and self [Punishment](/notes/punishment.md), they feel that they don't deserve happiness, perhaps due to harm done to others in the past, or perhaps their pain is their connection, distorted as may be, to what was lost. While they might feel that they will never get the forgiveness of others, the most important forgiveness they need is from themselves. Only by [Self-compassion](/notes/self-compassion.md) they can escape this self made prison. Their pain doesn't help anyone but themselves.
+Most often, they will feel bad for being happy, a combination of [Imposter syndrome is feeling undeserving despite actual competence](/notes/imposter-syndrome-is-feeling-undeserving-despite-actual-competence.md) and self [Punishment](/notes/punishment.md), they feel that they don't deserve happiness, perhaps due to harm done to others in the past, or perhaps their pain is their connection, distorted as may be, to what was lost. While they might feel that they will never get the forgiveness of others, the most important forgiveness they need is from themselves. Only by [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md) they can escape this self made prison. Their pain doesn't help anyone but themselves.
 
 :::note[Quotes]
 
@@ -443,7 +456,7 @@ There is no hierarchy of pain. Who suffers more is not a contest. **The only way
 
 #### Psychological Immune System
 
-Similar to the [Hedonic Treadmill](/notes/hedonic-treadmill.md), our brain learns to protect itself from hardships.
+Similar to the [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md), our brain learns to protect itself from hardships.
 
 :::note[Quotes]
 

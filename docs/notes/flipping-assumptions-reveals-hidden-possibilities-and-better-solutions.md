@@ -1,13 +1,13 @@
 ---
 UUID: 20240101065316
 Created: '2024-01-01 06:53'
-Modified: '2026-04-09 16:56'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Reverse Thinking
   - Inverse
@@ -16,6 +16,10 @@ Description: >-
   opposite scenario to uncover risks and insights, fostering critical and
   creative problem-solving.
 new_schema: true
+Topic:
+  - '[[Systems and Structural Thinking]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,9 +57,3 @@ It is similar to the [Excessive striving produces the opposite of intended outco
 ## Visual
 
 ![Reverse Thinking](/notes/reverse-thinking.webp)
-
-## Overview
-🔼Topic:: [Systems and Structural Thinking](/notes/systems-and-structural-thinking.md)
-↩️Origin::
-🔗Link::
-

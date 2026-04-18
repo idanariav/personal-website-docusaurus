@@ -1,8 +1,8 @@
 ---
 UUID: 20250606085235
 Created: '2025-06-06 08:52'
-Modified: '2026-04-08 13:59'
-Version: 2
+Modified: '2026-04-11 22:18'
+Version: 3
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -15,6 +15,10 @@ Description: >-
   leads to a complete loss of motivation and self-control, resulting in extreme
   behavior.
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -44,8 +48,3 @@ For example, let's say that you had a "no meat" diet that you kept for 100 days.
 
 ## Visual
 
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-↩️Origin::
-🔗Link:: 

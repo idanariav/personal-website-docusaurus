@@ -1,13 +1,13 @@
 ---
 UUID: 20230329074957
 Created: '2023-03-29 07:49'
-Modified: '2026-04-04 10:59'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Introspection
   - Self Reflection
@@ -16,6 +16,10 @@ Description: >-
   tendencies, preferences, and beliefs, often hindered by external distractions
   and cognitive biases.
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: '[[Anne-Laure Le Cunff]]'
+URL: 'https://nesslabs.com/introspection-trap'
 draft: false
 SiteProcssed: true
 ---
@@ -26,7 +30,7 @@ SiteProcssed: true
 
 ### Claim
 
-Introspection is the practice of [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md). As [Socrates](/notes/socrates-philosopher.md) said, the unexamined life is not worth living. By introspecting, we gain self knowledge about our emotions and their causes, our tendencies, our preferences and beliefs. Those things might sound arbitrary but nowadays due to the constant [Distractions](/notes/distraction.md) from the external world, our knowledge about ourselves is either limited or non existent.
+Introspection is the practice of [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md). As [Socrates](/notes/socrates-philosopher.md) said, the unexamined life is not worth living. By introspecting, we gain self knowledge about our emotions and their causes, our tendencies, our preferences and beliefs. Those things might sound arbitrary but nowadays due to the constant [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) from the external world, our knowledge about ourselves is either limited or non existent.
 
 ### Explanation
 
@@ -50,9 +54,3 @@ Introspection is not easy. we might be too tempted to trust first answer we find
 ## Visual
 
 ![introspection](/notes/introspection.webp)
-
-## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-◀Origin:: [Anne-Laure Le Cunff](/notes/anne-laure-le-cunff.md)
-🔗Link:: https://nesslabs.com/introspection-trap
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20221022074202
 Created: '2022-10-22 07:42'
-Modified: '2026-04-06 22:11'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - When to quit
   - when to make a decision
@@ -17,6 +17,10 @@ Description: >-
   pursuit of goals, emphasizing that successful individuals often know when to
   quit to enhance their overall success.
 new_schema: true
+Topic:
+  - '[[Intentional Decision-Making]]'
+Origin: '[[You are not so smart]]'
+URL: 'https://www.podcastrepublic.net/episode/72747137095'
 draft: false
 SiteProcssed: true
 ---
@@ -63,9 +67,3 @@ We should stand true to our commitment as long as they are consistent with our v
 ## Visual
 
 ![When to Quit](/notes/when-to-quit.webp)
-
-## Overview
-🔼Topic:: [Intentional Decision-Making](/notes/intentional-decision-making.md)
-◀Origin:: [You are not so smart](/notes/you-are-not-so-smart.md)
-🔗Link:: [https://www.podcastrepublic.net/episode/72747137095](https://www.podcastrepublic.net/episode/72747137095)
-

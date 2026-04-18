@@ -1,14 +1,14 @@
 ---
 UUID: 20231223072511
 Created: '2023-12-23 07:25'
-Modified: '2026-04-09 09:22'
+Modified: '2026-04-11 22:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
 new_schema: true
-Version: 4
+Version: 5
 Image: '[[Relaxation activates inward thinking for creative problem-solving.png]]'
 ImageText: >-
   A person working at a desk trying to focus on the left, versus someone
@@ -22,6 +22,13 @@ aliases:
   - Default Mode Network
   - DMN
   - Diffuse mode
+Topic:
+  - '[[Human Brain]]'
+  - '[[Conditions for Creative Thinking]]'
+Origin: null
+URL: >-
+  https://www.youtube.com/watch?v=vX0yPnRCNHA) [Video
+  2](https://www.youtube.com/watch?v=9CwyqtwtMHM
 draft: false
 SiteProcssed: true
 ---
@@ -61,13 +68,6 @@ when we [Focus is concentrated cognitive effort that maximizes performance on a 
 ### Open questions
 
 
-
 ## Visual
 
 ![Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.webp)
-
-## Overview
-🔼Topic:: [Human Brain](/notes/human-brain.md)
-🔼Topic:: [Conditions for Creative Thinking](/notes/conditions-for-creative-thinking.md)
-🔗Link:: [Video 1](https://www.youtube.com/watch?v=vX0yPnRCNHA) [Video 2](https://www.youtube.com/watch?v=9CwyqtwtMHM)
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20230616130817
 Created: '2023-06-16 13:08'
-Modified: '2026-04-08 13:20'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Us vs them
   - Us vs them
@@ -17,6 +17,10 @@ Description: >-
   reinforcing group biases, while also promoting empathy and kindness within the
   group.
 new_schema: true
+Topic:
+  - '[[Social and Group Ethics]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,9 +55,3 @@ In an us vs them mentality, the interaction with the other party is less about [
 ## Visual
 
 ![us vs them](/notes/us-vs-them.webp)
-
-## Overview
-🔼Topic:: [Social and Group Ethics](/notes/social-and-group-ethics.md)
-◀Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20231002193825
 Created: '2023-10-02 19:38'
-Modified: '2026-04-08 13:49'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Emotional resilience enables managing hardship and maintaining
   composure.png]]
@@ -21,6 +21,10 @@ aliases:
   - Calmness
   - Stillness
 new_schema: true
+Topic:
+  - '[[Growth Through Adversity]]'
+Origin: null
+URL: 'https://share.snipd.com/episode/14edfeb7-e6a0-4607-a7c5-e89eac6a6b8f'
 draft: false
 SiteProcssed: true
 ---
@@ -58,9 +62,3 @@ One main tool is [Healthy self-talk prevents spiraling and builds resilience](/n
 ## Visual
 
 ![Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.webp)
-
-## Overview
-🔼Topic:: [Growth Through Adversity](/notes/growth-through-adversity.md)
-Origin::
-🔗Link:: [https://share.snipd.com/episode/14edfeb7-e6a0-4607-a7c5-e89eac6a6b8f](https://share.snipd.com/episode/14edfeb7-e6a0-4607-a7c5-e89eac6a6b8f)
-

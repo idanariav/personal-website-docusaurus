@@ -1,13 +1,13 @@
 ---
 UUID: 20230412072511
 Created: '2023-04-12 07:25'
-Modified: '2026-04-10 14:07'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Clarity is achieved through definition and presentation.png]]'
 ImageText: >-
   A treasure map with trees and dotted paths leading from a starting point to an
@@ -20,6 +20,10 @@ aliases:
   - Clarity
   - Clarity
 new_schema: true
+Topic:
+  - '[[Knowledge Structure and Transfer]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -58,7 +62,3 @@ In essence, clarity is usually what we search for in our lives, because without 
 ## Visual
 
 ![Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.webp)
-## Overview
-🔼Topic:: [Knowledge Structure and Transfer](/notes/knowledge-structure-and-transfer.md)
-◀Origin::
-🔗Link::

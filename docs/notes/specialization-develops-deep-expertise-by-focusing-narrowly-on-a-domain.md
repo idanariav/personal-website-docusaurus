@@ -1,8 +1,8 @@
 ---
 UUID: 20230429071945
 Created: '2023-04-29 07:19'
-Modified: '2026-04-09 09:51'
-Version: 2
+Modified: '2026-04-11 22:27'
+Version: 3
 tags: []
 aliases:
   - Specialization
@@ -15,6 +15,10 @@ Description: >-
   a competitive advantage, influenced by the surrounding competition and
   historical context.
 new_schema: true
+Topic:
+  - '[[Market Dynamics and Competition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,9 +50,3 @@ This idea has arisen in the time of the industrial revolution, mainly by [Adam S
 ## Visual
 
 ![Specialization](/notes/specialization.webp)
-
-## Overview
-🔼Topic:: [Market Dynamics and Competition](/notes/market-dynamics-and-competition.md)
-◀Origin::
-🔗Link:: 
-

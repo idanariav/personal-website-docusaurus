@@ -1,27 +1,42 @@
 ---
 UUID: 20240812072133
 Created: '2024-08-12 07:21'
-Modified: '2024-09-25 07:46'
+Modified: '2026-04-13 06:20'
 tags: []
+FullTitle: The Power of a Positive No - How to Say No and Still Get to Yes
+Description: >-
+  It argues for balancing power and relationships by advocating for a "positive
+  no" that maintains boundaries without damaging connections. Emphasizing the
+  importance of core values, it encourages asserting boundaries respectfully and
+  finding shared solutions to conflicts to preserve relationships while
+  achieving personal goals.
 Author:
   - '[[William Ury]]'
+URL: 'https://www.goodreads.com/book/show/99401.The_Power_of_a_Positive_No'
+Cover: >-
+  http://books.google.com/books/content?id=rwI2ZnCZMd8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Self-Help
 Stored: Kindle
-ReadingStatus: Read
+ReadingStatus: Done
+ASIN: B000OI0GAW
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 270
+Reread: 0
 Rate: 2
 PublishDate: 2012-02-16T00:00:00.000Z
+StartDate: 2024-09-14T00:00:00.000Z
 FinishDate: 2024-09-24T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=rwI2ZnCZMd8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/99401.The_Power_of_a_Positive_No'
+Image: null
 aliases: null
+Topic:
+  - '[[Saying no protects time and energy for what matters most]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -30,21 +45,18 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [Saying no](/notes/saying-no.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Balancing power and relationships** - we want to stand our ground yet to be agreeable. This fake dichotomy often leads us to avoid saying no, or saying it aggressively. The key is to say a "positive no", one that preserves the relationship while maintaining our boundaries
 2. **Connect with your values** - understand not what you're running away from, but what you are running to. To stand up for yourself you need a strong connection to your core values, to your identity, to the people you care about.
 3. **State your boundaries** - uncovering what you care about will empower your ability to stick with placing boundaries. Be firm yet respectful and polite. Have a plan B in case your no is unaccepted.
 4. **Find a shared solution** - To resolve a conflict in a way that preserves the relationship while increasing the chances for your request to be accepted, you must seek a shared solution. See the situation through the other's eyes, be respectful, polite and positive.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 1. **Better conflict resolution** - Both short term benefits of staying true to yourself while also getting more from the other (in a mutually beneficial way), but also in the long run we will have more cooperation and less conflict because we maintained a positive relationship
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **yes, no yes tree** - Imagine conflict resolution as a tree. It starts from the roots, the first yes, where you draw your power from, your core values. The second part is the trunk, which is your "no", it is your power to resist the winds, to stand strong and keep your roots planted in the ground. The last section is the branches, the second yes, which represents your attempt to connect with the world, to offer something back.
@@ -53,20 +65,20 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 Despite the short length of the book it feels long in a bad way. The actual content is short, and it shows both in the amount of examples, the repetitiveness, and the overlap between different chapters despite dealing with different topics.
 
-### 🖼️Outline
+### Outline
 
-![The Power of A Positive No (book).webp](/books/the-power-of-a-positive-no-book.webp)
+![The Power of A Positive No (book)](/books/the-power-of-a-positive-no-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Getting to a no
 
-In a culture that is fixated on getting to "Yes", we have lost the power to say no. Saying no helps us set [boundaries](/notes/boundaries.md), it helps us defend ourselves from actions that goes against our wellbeing, and it is an expression of our [authenticity](/notes/authenticity.md).
+In a culture that is fixated on getting to "Yes", we have lost the power to say no. Saying no helps us set [boundaries](/notes/boundaries.md), it helps us defend ourselves from actions that goes against our wellbeing, and it is an expression of our [Acting in alignment with your values is authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.md).
 
 It is an important tool to have, one that we should develop.
 
@@ -79,9 +91,9 @@ It is an important tool to have, one that we should develop.
 
 ### The Gift of no
 
-Saying no is difficult because it puts us in tension between ourselves (our power) and our [relationships](/notes/relationships.md). We are social beings [human is a social being](/notes/human-is-a-social-being.md), and we want to uphold others [expectations](/notes/expectations.md) of us. We [fear](/notes/fear.md) conflicts.
+Saying no is difficult because it puts us in tension between ourselves (our power) and our [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md). We are social beings [Human is a social being](/notes/human-is-a-social-being.md), and we want to uphold others [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) of us. We [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md) conflicts.
 
-That's why the common answers [Organizational Conflict](/notes/organizational-conflict.md) to conflicts are:
+That's why the common answers [We respond to unsafe environments in four ways](/notes/we-respond-to-unsafe-environments-in-four-ways.md) to conflicts are:
 1. **False yes** (accommodation) - we say "yes" even though we didn't want to. We play along while bearing the costs on ourselves
 2. **Angry no** (attack) - we lash out, we treat it as a threat that must be eliminated. We see only our point of view in this situation
 3. **Nothing** (avoidance) - we do and say nothing, hoping that the problem would go away on its on
@@ -106,13 +118,13 @@ The better alternative is a **positive no**. It's a way to preserve both your po
 
 #### Uncover Your Yes
 
-Our main problem with saying no is that we start with no. We are reactive, instead of [proactive](/notes/proactiveness.md). We are quick to follow emotions like fear, anger and guilt [emotional hijacking](/notes/emotional-hijacking.md), which is not only a counterproductive way to say no, it is also weaker.
+Our main problem with saying no is that we start with no. We are reactive, instead of [proactive](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md). We are quick to follow emotions like fear, anger and guilt [Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md), which is not only a counterproductive way to say no, it is also weaker.
 
-A better way is to start with a yes, to focus on your [core values](/notes/core-values.md). For example, instead of saying "I don't want to be a smoker", say "I want to be healthy for my family". You have to dig deep, to ask yourself which person do you want to be, what is the reason behind your actions, what needs you have, what are you trying to protect, change or create in the world.
+A better way is to start with a yes, to focus on your [Core values guide authentic identity and moral action](/notes/core-values-guide-authentic-identity-and-moral-action.md). For example, instead of saying "I don't want to be a smoker", say "I want to be healthy for my family". You have to dig deep, to ask yourself which person do you want to be, what is the reason behind your actions, what needs you have, what are you trying to protect, change or create in the world.
 
-This often requires us to take a [Pause](/notes/rest.md), to stop for a moment and let the emotions cool down while we [Reflect](/notes/introspection.md) internally and check what are our goals, our values and how they interact with this situation. Don't be afraid to ask for a break, even just five minutes for reflection can be life changing.
+This often requires us to take a [Pause](/notes/rest-enables-recovery-and-sustained-performance.md), to stop for a moment and let the emotions cool down while we [Reflect](/notes/introspection-develops-self-knowledge-through-internal-examination.md) internally and check what are our goals, our values and how they interact with this situation. Don't be afraid to ask for a break, even just five minutes for reflection can be life changing.
 
-Additionally, we need on the one hand to [validate](/notes/validation.md) our own emotions, not to suppress or immediately act on them, but to listen to them [Gut Feeling](/notes/heuristics.md). They can provide us with valuable information on which direction we should take, which core value is being threatened or neglected. With the help of [cognitive distancing](/notes/cognitive-distancing.md), we can separate ourselves from the emotion we are currently experiencing, allowing us to take control of it instead of the other way around, and better yet, to use it as fuel for our resolve [emotional aikido](/notes/emotional-aikido.md).
+Additionally, we need on the one hand to [validate](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md) our own emotions, not to suppress or immediately act on them, but to listen to them [Gut Feeling](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.md). They can provide us with valuable information on which direction we should take, which core value is being threatened or neglected. With the help of [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md), we can separate ourselves from the emotion we are currently experiencing, allowing us to take control of it instead of the other way around, and better yet, to use it as fuel for our resolve [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md).
 
 :::note[UNCOVER YOUR YES]
 
@@ -130,9 +142,9 @@ Additionally, we need on the one hand to [validate](/notes/validation.md) our ow
 
 #### Empower Your no
 
-Saying no is about [standing up for yourself](/notes/standing-up-for-yourself.md), it's finding the [Confidence](/notes/self-worth.md) to protect your yes without "needing" the other's approval. This confidence stems from having a plan B [multitrack](/notes/multitrack.md). The plan B is not an alternative suggestion in case the other refuses to accept your no, but rather something you can do regardless of their reaction. For example, if you tell your boss that you will stop working weekends, and they say that it's part of the job, you can always quit and look for a different job. Don't be stuck in a [binary thinking](/notes/binary-thinking.md) that you either get want you want or that you have to accommodate their desires.
+Saying no is about [Standing up for yourself is courageous authenticity against social pressure](/notes/standing-up-for-yourself-is-courageous-authenticity-against-social-pressure.md), it's finding the [Confidence](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md) to protect your yes without "needing" the other's approval. This confidence stems from having a plan B [Generating multiple alternatives simultaneously improves outcomes](/notes/generating-multiple-alternatives-simultaneously-improves-outcomes.md). The plan B is not an alternative suggestion in case the other refuses to accept your no, but rather something you can do regardless of their reaction. For example, if you tell your boss that you will stop working weekends, and they say that it's part of the job, you can always quit and look for a different job. Don't be stuck in a [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) that you either get want you want or that you have to accommodate their desires.
 
-Brainstorm different ideas [Zoom out](/notes/zoom-out.md), try to think about the worst possible case [Pre-Mortem](/notes/pre-mortem.md). It might be helpful to seek others' help and build a coalition to your plan B.
+Brainstorm different ideas [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md), try to think about the worst possible case [Pre-mortem anticipates failure modes to enable preparation](/notes/pre-mortem-anticipates-failure-modes-to-enable-preparation.md). It might be helpful to seek others' help and build a coalition to your plan B.
 
 :::note[EMPOWER YOUR NO]
 
@@ -144,9 +156,9 @@ Brainstorm different ideas [Zoom out](/notes/zoom-out.md), try to think about th
 
 #### Respect Your way to Yes
 
-Another important part of saying no is doing it in a way that will cause the other to be [cooperative](/notes/cooperation.md), that they will be ready to hear your no instead of rejecting it. The key is respect. First it starts with respect for yourself [Self-compassion](/notes/self-compassion.md). We see respect as a sign of our values and moral code, regardless of who we are talking to. It is an expression of ourselves to be respectful.
+Another important part of saying no is doing it in a way that will cause the other to be [cooperative](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md), that they will be ready to hear your no instead of rejecting it. The key is respect. First it starts with respect for yourself [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md). We see respect as a sign of our values and moral code, regardless of who we are talking to. It is an expression of ourselves to be respectful.
 
-Respect starts with [active listening](/notes/active-listening.md), we need to really understand the other side, even if we don't agree with them, even if we don't like them. If we will be confrontational and just ready to refute whatever they are saying, how can we expect something else in return? Remember that [We can't read minds](/notes/theory-of-mind.md), so ask a lot of clarifying questions to understand them. By showing them that we understand them, we open them up and they will be much more willing to respond kindly in return.
+Respect starts with [Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.md), we need to really understand the other side, even if we don't agree with them, even if we don't like them. If we will be confrontational and just ready to refute whatever they are saying, how can we expect something else in return? Remember that [We can't read minds](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md), so ask a lot of clarifying questions to understand them. By showing them that we understand them, we open them up and they will be much more willing to respond kindly in return.
 
 Another way to be respectful is to treat the problem as the problem, not the person in front of you. You are working together to solve a shared problem. By approaching with positivity, we also allow them to maintain their self worth without feeling attacked.
 
@@ -211,9 +223,9 @@ It's hard to stay true to your yes when encountering resistance. To reduce the c
 1. **Give them time to process** - it's not easy hearing no, and it's hard to maintain composure after that. Give them time to process and think about what they could do next (for example focus on your second yes)
 2. **Don't yield or attack** - when we do either, we don't allow the other to process our no, because we either yield to their desires (solving the need to face your no), or attacking (switching their mind into fight or flight)
 
-To be unaffected by others remember to take a pause and zoom out. Also try to [name](/notes/naming.md) how they respond, like flattery, bribery, threats, and so on. Naming those will help you remove their power over you and staying true to your yes.
+To be unaffected by others remember to take a pause and zoom out. Also try to [name](/notes/naming-a-phenomenon-gives-us-power-over-it.md) how they respond, like flattery, bribery, threats, and so on. Naming those will help you remove their power over you and staying true to your yes.
 
-Also you can try [mirroring](/notes/mirroring.md), to repeat back what was said to you both to make sure you really understand the other, and also that he will feel understood.
+Also you can try [Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md), to repeat back what was said to you both to make sure you really understand the other, and also that he will feel understood.
 
 :::note[STAY TRUE TO YOUR YES]
 
@@ -230,7 +242,7 @@ And if all else fails, it's time for your plan B.
 
 #### Negotiate to Yes
 
-After we have stood by our yes, reaffirmed our no, it's time to end with a yes. This means sticking to your essentials, yet finding a solution that is respectful and beneficial [win win situations](/notes/win-win-situations.md) as much as possible to you both while taking into consideration the long run. Your interaction might not be a one-time thing, you will continue to work/be together so how this "negotiation" ends and how your relationship continue is important.
+After we have stood by our yes, reaffirmed our no, it's time to end with a yes. This means sticking to your essentials, yet finding a solution that is respectful and beneficial [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md) as much as possible to you both while taking into consideration the long run. Your interaction might not be a one-time thing, you will continue to work/be together so how this "negotiation" ends and how your relationship continue is important.
 
 Think about their point of view. What are their essentials? what can you still offer them while being true to your no? Which steps can you do to help them maintain their dignity or their appearance even if the content of the agreement is sub par? Even a simple apology, a declaration, a gesture of good will is enough to turn an impasse into a workable agreement.
 

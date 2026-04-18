@@ -1,12 +1,12 @@
 ---
 UUID: 20230401071628
 Created: '2023-04-01 07:16'
-Modified: '2026-04-08 10:25'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Cultivating virtues creates a good moral character.png]]'
 ImageText: ''
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
 aliases:
   - Virtue theory
 new_schema: true
+Topic:
+  - '[[Ethical Frameworks (Metaethics)]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -61,8 +65,3 @@ There is temptation in [Distilling to essentials creates clarity and actionabili
 ## Visual
 
 ![Cultivating virtues creates a good moral character](/notes/cultivating-virtues-creates-a-good-moral-character.webp)
-
-## Overview
-🔼Topic:: [Ethical Frameworks (Metaethics)](/notes/ethical-frameworks-metaethics.md)
-◀Origin::
-🔗Link::

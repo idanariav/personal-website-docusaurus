@@ -1,19 +1,22 @@
 ---
 UUID: 20221029090201
 Created: '2022-10-29 09:02'
-Modified: '2025-04-02 02:46'
+Modified: '2026-04-15 06:28'
 tags: []
 Author:
   - '[[Robert M. Sapolsky]]'
 Genre: Science
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 9
 Pages: 790
 Rate: 5
 PublishDate: 2017-05-02T00:00:00.000Z
@@ -21,19 +24,27 @@ FinishDate: 2022-11-04T00:00:00.000Z
 Cover: >-
   http://books.google.com/books/content?id=sJKoDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/31170723-behave'
+Description: >-
+  The book argues that behavior is influenced by a complex interplay of biology,
+  culture, and context. It highlights how automatic, habitual, and programmable
+  responses shape our actions, emphasizing the importance of early development
+  and cultural norms in determining behavior.
+FullTitle: Behave - The Biology of Humans at Our Best and Worst
+StartDate: 2022-10-01T00:00:00.000Z
+ASIN: B01IAUGC5S
+Reread: 0
+Topic:
+  - '[[Biology (Map)]]'
+  - '[[Human Nature (Map)]]'
 draft: false
 SiteProcssed: true
 ---
 
 # Behave (book)
 
-## Connect
-🔼Topic:: [Biology (Map)](/mocs/biology-map.md)
-🔼Topic:: [Human Nature (Map)](/mocs/human-nature-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 there is no single thing that explains behavior, it is a combination of biology, culture and context. it is more accurate to say that in most cases, biology increases our sensitivity to outside stimuli rather than actually making us behave a certain way.
 1. **Instant responses** - some of our decisions are highly impacted by automatic systems that are beyond our conscious control. The amygdala specifically is highly tuned to stimulus to create fight-flight responses that take control of our reaction to avoid danger, or alternatively to dopamine hits (aka pleasure)
@@ -42,11 +53,25 @@ there is no single thing that explains behavior, it is a combination of biology,
 4. **Childhood matters** - at the first years of our lives, up until mid twenties, we develop our behavior based on what we see around us, especially we learn from our parents. Good parenting could lead to empathic, holistic growth, while negative parenting can perpetuate abusive behavior and mental issues.
 5. **Culture matters** - The norms, perspectives and values we grow up and live in have a huge effect on our behavior.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 Biology is not as rigid as I thought, we are capable of change in a much higher rate.
-### 🔍Critique
+
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Practice exposure plus calm reappraisal** - when a fear or anxiety cue appears, immediately pair the cue with a deliberate calming message from your frontal cortex (e.g., slow breathing + verbal “this is safe”) to actively relearn that it’s not dangerous.
+2. **Use anticipatory rewards to motivate action** - set up small uncertain/variable rewards (surprise treats, variable praise, or lotteries) tied to tasks so anticipation-driven dopamine increases motivation to start and persist.
+3. **Design your environment to shape behavior** - arrange sights, sounds, smells, words, and cues around you to bias choices (remove tempting stimuli, add helpful reminders) so external stimuli nudge desired actions.
+4. **Reduce chronic stress with immediate coping routines** - build daily habits that lower psychological stress (short calming breaks, limit exposure to chronic stressors) to protect frontal-cortex function and long-term health.
+5. **Practice reciprocal cooperation (tit-for-tat habit)** - in ongoing relationships, start by cooperating, respond to defection with proportional punishment, then forgive when cooperation resumes to sustain long-run trust.
+6. **Signal trustworthiness regularly** - habitually display observable cooperative signals (consistent promises kept, transparent actions) to encourage others to cooperate with you.
+7. **Engage in perspective-taking exercises** - habitually practice individuating others and taking their perspective (name differences, list shared goals) to weaken automatic Us-vs-Them biases and increase empathy for outgroups.
+8. **Strengthen deliberative choice through socially complex challenges** - regularly take on decisions that require balancing social, moral, and practical factors (group projects, negotiated compromises) to train frontal-cortex decision-making.
+9. **Use repetition with emotional tagging to form durable learning** - repeat important lessons or behaviours with an emotional component (salient framing, meaningful consequences) so neurons “wire together” and learning persists.
+10. **Prioritize warm, consistent caregiving signals for children** - provide predictable warmth and emotional affirmation (presence, comfort, positive attention) as a routine to establish secure norms and healthier long-term development.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -57,16 +82,16 @@ while he claims that interdisciplinary is key, in most cases it is clear that he
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 this is one of the more in-depth books I've read, and this could have been an easy 5 with some minor modification. There is an attempt for interdisciplinary which is truly appreciated.
 
-### 🖼️Outline
+### Outline
 
-![Behave (book).webp](/books/behave-book.webp)
+![Behave (book)](/books/behave-book.webp)
 
-## 📒 Notes
+## Notes
 ### Intro
 
 **To really understand human behavior, we must go back. its not just our biology, culture or psychology, its a mix**. a complex process for a complex problem. [Complexity](/notes/complexity.md) one aspect we must consider is time. a behavior is caused by a variety of factors, some more immediate than others.
@@ -92,12 +117,12 @@ if hypothalamus connects between levels 1-2, the cortex connects between levels 
 the cortex is the "outer layer" of the brain, and is composed of several lobes.
 the **amygdala, which connects between level 2-3 is the center for fear, anger and anxiety.**
 **it has both innate properties (such as the innate fear of cats for rats), but can also "learn" new fears through conditioning**. [Amygdala](/notes/amygdala.md)
-when there are repeated cues and negative outcomes, such as a tune followed by a shock, the amygdala neurons "learn" to associate the two, thus making them more easily triggered when we receive the [Cue](/notes/priming.md) (i.e. hear the tune again). [The habit loop](/notes/the-habit-loop.md)
+when there are repeated cues and negative outcomes, such as a tune followed by a shock, the amygdala neurons "learn" to associate the two, thus making them more easily triggered when we receive the [Cue](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) (i.e. hear the tune again). [Habits operate through a four-part loop](/notes/habits-operate-through-a-four-part-loop.md)
 
-but as we learn, we can also re-learn. this is not by [Forgetting](/notes/forgetfulness.md) the past - the amygdala neurons are as easily triggered as before, rather the frontal cortex fires its own neurons with a new message of "calm down". so **we don't forget as much as we cover up with new knowledge**. [Layering](/notes/layering.md)
+but as we learn, we can also re-learn. this is not by [Forgetting](/notes/forgetfulness.md) the past - the amygdala neurons are as easily triggered as before, rather the frontal cortex fires its own neurons with a new message of "calm down". so **we don't forget as much as we cover up with new knowledge**. [Learning adds new knowledge layers instead of replacing old understanding](/notes/learning-adds-new-knowledge-layers-instead-of-replacing-old-understanding.md)
 
-studies have shown that **our amygdala supports trust and honesty as default, and all our hostility is learned through negative experience/interactions with others**. [humans are good as default](/notes/humans-are-good-as-default.md).
-the amygdala has 2 shortcuts, for inputs and outputs. this helps in terms of speed but at the price of accuracy. for example - when you jump when you see a snake, both the input "i think its a snake!" and the output "I should get back!" happen through these shortcuts, instead of running through the level 3 system which "cleans" and filters the inputs/outputs, i.e the things we are "aware" of (both inputs and actions). [Instincts](/notes/heuristics.md)
+studies have shown that **our amygdala supports trust and honesty as default, and all our hostility is learned through negative experience/interactions with others**. [Humans are good as default](/notes/humans-are-good-as-default.md).
+the amygdala has 2 shortcuts, for inputs and outputs. this helps in terms of speed but at the price of accuracy. for example - when you jump when you see a snake, both the input "i think its a snake!" and the output "I should get back!" happen through these shortcuts, instead of running through the level 3 system which "cleans" and filters the inputs/outputs, i.e the things we are "aware" of (both inputs and actions). [Instincts](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.md)
 
 The second important organ is the prefrontal cortex, the "decider of tough choices", this involves topics such as willpower, strategizing, moral or social dilemmas, rules and regulation we follow as a person.
 This was the last part to evolve in humans, and it's not fully developed until the mid twenties. it takes a lot of energy to run, being one of the most metabolic consuming region in the brain.
@@ -107,10 +132,10 @@ this sides aren't always opposites but rather sync together the more a decision 
 #### The Dopamine System
 dopamine is pleasure-producing, usually associated with rewards and satisfaction such as food, sex, etc...
 *dopamine is based on the relative difference between the reward and the current situation, in a diminishing way and not based on the "absolute" properties of the reward.* Meaning the value we get from the first reward is always higher than the second if they are the same. accordingly, we shall get more pleasure from eating when we're hungry compared to when we are full.
-also, **dopamine peaks higher when we anticipate reward rather than when we actually get it**. "the mind makes it better than the reality". Dopamine is also tide to the probability of the result, when it's a maybe we value the reward higher than when it's certain. Dopamine could become the reward itself in certain situations. [Expectations](/notes/expectations.md)
+also, **dopamine peaks higher when we anticipate reward rather than when we actually get it**. "the mind makes it better than the reality". Dopamine is also tide to the probability of the result, when it's a maybe we value the reward higher than when it's certain. Dopamine could become the reward itself in certain situations. [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md)
 
 **Dopamine is also linking between the reward and the action we need to do to receive it, meaning this is the source for our motivation to get things done**. [chemical motivation](/notes/chemical-motivation.md)
-Lastly, the dopamine has a discounted rate for future reward. The more we have to wait the less we value the reward now (i.e to do the work necessary to get it). The rate of discount is depended on our FPC, the stronger it is the longer we can delay the gratification. [Present Bias](/notes/present-bias.md)
+Lastly, the dopamine has a discounted rate for future reward. The more we have to wait the less we value the reward now (i.e to do the work necessary to get it). The rate of discount is depended on our FPC, the stronger it is the longer we can delay the gratification. [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md)
 
 :::note[One Second Before]
 
@@ -146,7 +171,7 @@ Lastly, the dopamine has a discounted rate for future reward. The more we have t
 
 ### Seconds to Minutes before (stimulus)
 
-**Our decisions are determined by the stimulus we receive from the environment**. [External Influence](/notes/external-influence.md)
+**Our decisions are determined by the stimulus we receive from the environment**. [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md)
 Outside stimuli can be sights such as people's faces or skin color. It can be sounds such as screams or the national anthem to make you more patriotic, it can be the smell of food to make us hungry, or trash to make us more unagreeable. Even words can trigger emotions or different states in us. Remind them of their race, Asian women tend to be better in math than when reminding them of their gender.
 Usually certain stimulus comes with an implicit bias for races, genders, etc...
 For example we are more likely to think that black men hold guns compared to white. The stimulus runs directly to the amygdala. [implicit bias 2bc](/notes/implicit-bias-2bc.md)
@@ -165,16 +190,16 @@ The stimulus can also be internal such as when we're more angry when we're in pa
 
 ### Hours to Days before (hormones)
 
-**Hormones Don't cause behavior as much as they increase the chances of behavior for people who are predisposed to that behavior** (i.e testosterone makes violent people more aggressive, but not other people).
-Similarity these effects happen if you believe that these hormones should affect you that way (the mind makes it real), for example being drunk will make you more aggressive only If you believe it does. [Self fulfilling prophecy](/notes/fake-it-till-you-make-it.md)
+**Hormones Don't cause behavior as much as they increase the chances of behavior for people who are predisposed to that behavior** (i.e testosterone makes violent people more aggressive, but not other people). [Hormones amplify predisposed behaviors rather than cause new ones](/notes/hormones-amplify-predisposed-behaviors-rather-than-cause-new-ones.md)
+Similarity these effects happen if you believe that these hormones should affect you that way (the mind makes it real), for example being drunk will make you more aggressive only If you believe it does. [Self fulfilling prophecy](/notes/being-emerges-from-action-not-belief.md)
 
 We are affected by our hormones. Usual suspect is testosterone, which is allegedly tied to aggression. But research shows other factors are in play, and especially that aggression is not only produced by hormones, but also the product of learning (so it's semi independent).
 
-so **testosterone makes us fearless, [over confidence](/notes/over-confidence.md) and delusional, but it doesn't make us more aggressive. it depends on the context and strengthens the desire in us to maintain our social status**. in cultures that use aggression as a status symbol, that would be correlated. but actually in cultures of cooperation and kindness, testosterone can improve these kinds of behaviors.
+so **testosterone makes us fearless, [Overestimating abilities blinds us to genuine risks](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md) and delusional, but it doesn't make us more aggressive. it depends on the context and strengthens the desire in us to maintain our social status**. in cultures that use aggression as a status symbol, that would be correlated. but actually in cultures of cooperation and kindness, testosterone can improve these kinds of behaviors.
 
-Oxytocin is another such hormone, one that increases [us vs them](/notes/us-vs-them.md) behavior. Meaning we are more nice, loving, trusting, protective, caring, cooperative with who we consider as out ingroup, but more hostile to the outside group. Again behavior is depended on context.
+Oxytocin is another such hormone, one that increases [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md) behavior. Meaning we are more nice, loving, trusting, protective, caring, cooperative with who we consider as out ingroup, but more hostile to the outside group. Again behavior is depended on context.
 
-[Stress](/notes/stress.md) is good when facing an immediate physical challenge. It prepares our body in the cost of shutting down higher thinking and any long term care of the body, also reduces Empathy and accuracy in social context. We even enjoy short term low levels of stress, for example in a theme park. The problem is that **today we're experiencing constant psychological stress, which hurts us physically and mentally in the long run**.
+[Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) is good when facing an immediate physical challenge. It prepares our body in the cost of shutting down higher thinking and any long term care of the body, also reduces Empathy and accuracy in social context. We even enjoy short term low levels of stress, for example in a theme park. The problem is that **today we're experiencing constant psychological stress, which hurts us physically and mentally in the long run**.
 Unfortunately, one of the easiest ways to reduce stress is to hurt others.
 
 :::note[Hours to Days Before]
@@ -193,9 +218,9 @@ Unfortunately, one of the easiest ways to reduce stress is to hurt others.
 
 ### Days to Months
 
-We are affected by our mind's [Neuroplasticity](/notes/neuroplasticity.md). The structure and connection between different neurons. Meaning what our mind's "remember" or is good at doing easily. **"Neurons that fire together are wired together".**
+We are affected by our mind's [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md). The structure and connection between different neurons. Meaning what our mind's "remember" or is good at doing easily. **"Neurons that fire together are wired together".**
 
-**There is a threshold that determines when a repetitive exposure is translated into learning** [spaced repetition](/notes/spaced-repetition.md) (the biological explanation to my sensation that things have to be repeated to actually learned, for example message of a book vs reading a summary).
+**There is a threshold that determines when a repetitive exposure is translated into learning** [Repeated exposure to information strengthens memory retention](/notes/repeated-exposure-to-information-strengthens-memory-retention.md) (the biological explanation to my sensation that things have to be repeated to actually learned, for example message of a book vs reading a summary).
 
 *Experience can cause the connections to strengthen*, and it is affected whether by the amygdala is also triggered or not. In the first case, the type of learning is more emotionally associated, for example to fear from a certain stimulus, and in the latter its more of a knowledge learning, such as how does the brain works.
 
@@ -237,7 +262,7 @@ It might be that it takes time for the PFC to develop because it's one of the mo
 
 ### Back to the Crib
 
-Children tend to develop a sense of empathy, [Theory of Mind](/notes/theory-of-mind.md) and a sense of self during their [childhood](/notes/childhood.md).
+Children tend to develop a sense of empathy, [Understanding others requires attributing mental states like beliefs and intentions to them](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md) and a sense of self during their [childhood](/notes/childhood.md).
 A theory of mind can develop from "everyone knows what I know" to "people can have different information than I do" to "people can have different preferences and feelings than I do.
 Similarly, empathy develops from "he and I are the same, if he hurts than my finger hurts too" to "I feel that they are in pain". The sense of self develops from being an extension of the mother to an individual.
 Usually kids are egalitarian, but initially from a perspective of "everyone should be treated as I do " to a more complex view of "we should be treated according to our merits or law abiding "
@@ -249,7 +274,7 @@ The marshmallow test is a strong predictor of future success.
 
 Mothers are needed not only for the biological wellbeing of the child, but mostly the emotions. As we've seen in the monkey experiment. A child would choose warmth and love over food.
 
-*the stimulus we are exposed to as a child, especially from the mother are registered as positive even if they're negative*. this could explain abusive parents that their child still loves them, what happens in our first few weeks becomes our norm. [Role Models](/notes/role-models.md)
+*the stimulus we are exposed to as a child, especially from the mother are registered as positive even if they're negative*. this could explain abusive parents that their child still loves them, what happens in our first few weeks becomes our norm. [Role models embody behaviors and values we aspire to adopt](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md) [Early experiences set the baseline for what feels normal](/notes/early-experiences-set-the-baseline-for-what-feels-normal.md)
 
 #### Stress and Childhood
 
@@ -258,7 +283,7 @@ things like poverty, bullying, malnourishment, abuse, exposure to violence (eith
 
 #### Social Environment
 
-we should also consider the effect of culture [Social Environment](/notes/social-environment.md) on our behavior, whether the society is more individualistic/communitive. whether its a society with a strong honor culture, the class you are born into, how authorities is your parent etc...
+we should also consider the effect of culture [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md) on our behavior, whether the society is more individualistic/communitive. whether its a society with a strong honor culture, the class you are born into, how authorities is your parent etc...
 
 even things that happen during the pregnancy can effect the behavior, it appears that babies have a way to recognize voices, , intonations and other stimulations while in the womb, for example it will recognize its mother even if he hadn't met her yet.
 
@@ -287,7 +312,7 @@ prenatal hormones and the environment (such as type of parenting, diet, stimulus
 
 genes are not as important as we thought, because:
 1. **No hard coded rules** - genes are only 5% of our DNA, the rest is instructions to when to activate which genes. usually the more complex the creature, thus the ratio between instructions/genes is higher.
-2. **Environment matters** - this activation manual is affected by the environment (whether internal - hormones, sugar/oxygen level... or external - stimulus...). thus difference in behavior can result from a difference in activation methods, while the gene themselves are identical. [Environmental design](/notes/nudge.md)
+2. **Environment matters** - this activation manual is affected by the environment (whether internal - hormones, sugar/oxygen level... or external - stimulus...). thus difference in behavior can result from a difference in activation methods, while the gene themselves are identical. [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
 3. **Habits matter** - some epigenetic properties are possible within humans, i.e activation protocols can change and transfer to the egg/sperm, thus affecting the next generation without a change in the genes themselves [Genetic Switches](/notes/genetic-switches.md)
 4. **Mutations** - the body has a way of mixing up his genes to create new mutations, usually in the immunization system or in the brain, where finding new ways to improve is more important than everything.
 
@@ -297,7 +322,7 @@ Definition of inheritance:
 Two important definitions: inheritance and inheritability. The first impacts the average level, and the second the variability around the average. A case for inherited can be the amount of fingers (5 fingers is of course depended on genes, but we don't see a lot of variance). [Bias and Variance](/notes/bias-and-variance.md)
 An example for the second can be height, the average man can still be the same height, when we suddenly see man much taller or shorter than others)
 
-**Since the activation of genes is based on the environment, there is no sense of splitting between "nature" and "nurture"**, or talking about the effects of genes in a vacuum. It's always about the context, the interaction between the gene and the environment. [nature vs nurture](/notes/nature-vs-nurture.md)
+**Since the activation of genes is based on the environment, there is no sense of splitting between "nature" and "nurture"**, or talking about the effects of genes in a vacuum. It's always about the context, the interaction between the gene and the environment. [Nature vs nurture](/notes/nature-vs-nurture.md)
 
 Even when considering this, we currently cannot fully understand the range of possibilities. Most studies of known genes can also explain 1%-2% of variation.
 
@@ -315,9 +340,9 @@ Even when considering this, we currently cannot fully understand the range of po
 
 ### Centuries to Millennia before
 
-Culture is how we perceive and interact with out physical and social environment. This is another faster evolutionary source of learning and adapting, i.e **cultural changes happen faster than biological ones**. (The book mixes cultural and economical differences sometimes).
+Culture is how we perceive and interact with out physical and social environment. This is another faster evolutionary source of learning and adapting, i.e **cultural changes happen faster than biological ones**. [Cultural evolution is faster than biological evolution](/notes/cultural-evolution-is-faster-than-biological-evolution.md) (The book mixes cultural and economical differences sometimes).
 
-One type of important cultural difference is individualistic vs communitive societies. Differences shown to mirror in brain activation. Other could be egalitarian vs hierarchical societies, perhaps originated from farming vs herding communities accordingly [Moral Taste Buds](/notes/moral-taste-buds.md). Environment affects our culture, weather and natural boarders can affect the relations between different communities. Social [Inequality](/notes/inequality.md) has an effect on conflict the more the difference is salient, beyond the effects of being poor in itself.
+One type of important cultural difference is individualistic vs communitive societies. Differences shown to mirror in brain activation. Other could be egalitarian vs hierarchical societies, perhaps originated from farming vs herding communities accordingly [Morality is a shared palette mixed in different proportions](/notes/morality-is-a-shared-palette-mixed-in-different-proportions.md). Environment affects our culture, weather and natural boarders can affect the relations between different communities. Social [Inequality is a normative problem caused by unjust distribution of resources and rights](/notes/inequality-is-a-normative-problem-caused-by-unjust-distribution-of-resources-and-rights.md) has an effect on conflict the more the difference is salient, beyond the effects of being poor in itself.
 
 (All in all, this chapter is very similar to gun, germs and steel)
 
@@ -341,16 +366,16 @@ It all comes down to evolution, basic terminology:
 *Kin selection* - since your genes exist in your relatives, we can see more altruistic behavior among family members. We all have unique markers, more similar amongst relatives that we can actually sense in others, even subconsciously. Our immune system works the same way, identifying cells as foreign if they don't have these markers.
 Group selection - some genes are beneficial to the group, while harming to the individual
 
-[Natural Selection](/notes/creative-destruction.md)
+[Natural Selection](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
 #### Cooperation between Non Relatives
-There are many examples of [Cooperation](/notes/cooperation.md) between members of the same species, usually because being cooperative is useful for the individual as well. Similar to a prisoner's dilemma.
+There are many examples of [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md) between members of the same species, usually because being cooperative is useful for the individual as well. Similar to a prisoner's dilemma.
 How can we make sure the cooperation is reciprocating?
 Enter the "tit for tat" [Game Theory](/notes/game-theory.md). A strategy that always loses, but wins in the long run.
 In real life, tit for tat means that we have to implement measures of detecting and punishing defections, which can be costly.
 That's why we have a cycle of increasing cooperation until someone defects, meaning:
 Everybody starts with tit for tat, then to a more forgiving version (in case someone makes a mistake, or there's a error in the system), then to a "always cooperating " version, until someone abuses this and defects, starting the cycle again.
 
-How can cooperation start? Using [Signaling](/notes/signaling.md), **if can signal you are trust worthy, you show others that working with you will be better than working with the competitors because you will cooperate**. But what if the defectors can copy that signal?
+How can cooperation start? Using [Signaling is displaying qualities to appear worthy or successful](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md), **if can signal you are trust worthy, you show others that working with you will be better than working with the competitors because you will cooperate**. But what if the defectors can copy that signal?
 
 **In humans, kin selection is based more on perceived kinship rather than necessarily genetic one**. We can feel as kins with members of our nationality, religion, political group or any kind of identifying attribute.
 
@@ -378,7 +403,7 @@ Evolution sometimes works in big leaps, but also in gradual steps, it is usually
 we tend to create "us" and "them" categories based on arbitrary details, even when we are aware that these are arbitrary. the separation increases cooperation between the us team and vice versa for the "them" team. 
 
 **the us/them behavior is deeply rooted in our amygdala, subconsciously, and not the result of rationalization. accordingly - we can easily manipulate us/them divides.**
-the conflict is more about the tension between the team, rather then the actual content of "them". so its more about hierarchy than ideology. also, we prefer to be at a better state than "them", even if overall we're in a worse state (we would pay 1 to make them have 2 less).
+the conflict is more about the tension between the team, rather then the actual content of "them". so its more about hierarchy than ideology. also, we prefer to be at a better state than "them", even if overall we're in a worse state (we would pay 1 to make them have 2 less). [We prioritize relative superiority over absolute wellbeing](/notes/we-prioritize-relative-superiority-over-absolute-wellbeing.md)
 
 We all have multiple identities simultaneously, which different situations can trigger some and ignore others. [a human is a community](/notes/a-person-is-a-community.md)
 Classification of attitude towards others: a metric of warmth (how much I love them) and competence (how much they are successful)
@@ -420,7 +445,7 @@ Hierarchy is a way to structure social relations and establish rules of dividing
 
 ### Political Beliefs
 
-the divide between left/right views (or liberal/conservative) is engraved in our biology. it seems that being conservative is a more "primary" mode of thinking, i.e **when having to make rash decisions, we tend towards conservatism.** This has the amygdala written all over it. it is a tendency/desire to reduce ambiguity, achieve stability, and reduce threats and novelty. it is a "gut" ideology which bases our beliefs on whether we feel disgusted by something or not.
+the divide between left/right views (or liberal/conservative) is engraved in our biology. it seems that being conservative is a more "primary" mode of thinking, i.e **when having to make rash decisions, we tend towards conservatism.** This has the amygdala written all over it. it is a tendency/desire to reduce ambiguity, achieve stability, and reduce threats and novelty. it is a "gut" ideology which bases our beliefs on whether we feel disgusted by something or not. [Threat and uncertainty push us toward conservative thinking](/notes/threat-and-uncertainty-push-us-toward-conservative-thinking.md)
 
 :::note[Morality and Doing the Right Thing, Once You’ve Figured Out What That Is]
 
@@ -442,15 +467,15 @@ Our social need to belong often makes us go against our beliefs, since the anxie
 
 ### Morality
 
-Morality is [Context](/notes/context.md) based. It depends on our sense of [intentionality](/notes/intentionality.md) (doing is stronger than not doing), it depends on the culture, our mental state, and based on our me-us-them divide. [Just World Bias](/notes/just-world-bias.md)
+Morality is [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md) based. It depends on our sense of [Intentionality is conscious presence that replaces automatic default behavior](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) (doing is stronger than not doing), it depends on the culture, our mental state, and based on our me-us-them divide. [We attribute bad outcomes to luck but others' misfortunes to their faults](/notes/we-attribute-bad-outcomes-to-luck-but-others-misfortunes-to-their-faults.md)
 
 ### Empathy
 
-[Empathy](/notes/empathy.md) is the leap from feeling "for" someone's pain, to feeling that pain "as if" it was yours. The brain region responsible is the ACC, which determines pain sensations from stimuli. It is not based on the level of the pain itself, rather on:
+[Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md) is the leap from feeling "for" someone's pain, to feeling that pain "as if" it was yours. The brain region responsible is the ACC, which determines pain sensations from stimuli. It is not based on the level of the pain itself, rather on:
 1. the gap between expected/actual pain
 2. the context of the pain - "good pain" (for example a medicine that will cause some pain) is felt different than "bad pain".
 
-feeling someone's pain is a more powerful way to learn that just know the other is in pain - like the example that to know everything about "red" is not the same as seeing it. [experience knowledge](/notes/experience-knowledge.md) [Mary's room](/notes/marys-room.md)
+feeling someone's pain is a more powerful way to learn that just know the other is in pain - like the example that to know everything about "red" is not the same as seeing it. [Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md) [Some knowledge requires experience](/notes/some-knowledge-requires-experience.md)
 
 to see someone's pain and to make your ACC feel the same requires a cognitive effort. This effort is easier the more him and you are similar, i.e belong to the same US group.
 
@@ -458,8 +483,8 @@ Is empathy good?
 **In a sense, we don't want to feel the other's pain since being in pain as well makes us focus on our own pain rather than theirs**, we will try to avoid or treat ourselves rather than do an act of kindness.
 Also, feeling someone's pain can lead to worse acts. If my child is afraid of a vaccination and I'm deciding to let go of it because I feel his fear, he is worse off than if he got the vaccine.
 Similarly, we might feel the person whose pain is "the easiest" to feel or to identify with, helping him instead of the one most in need.
-Therefore, a level of detachment is needed when trying to do an act of kindness.
-We also need to notice that sometimes feeling empathy doesn't lead to an action at all, we might be content with having felt the pain and consider it sufficient , producing [Moral Licensing](/notes/moral-licensing.md) to not act.
+Therefore, a level of detachment is needed when trying to do an act of kindness. [Effective helping requires detachment from the other's pain](/notes/effective-helping-requires-detachment-from-the-others-pain.md)
+We also need to notice that sometimes feeling empathy doesn't lead to an action at all, we might be content with having felt the pain and consider it sufficient , producing [Doing good gives us permission to do harm](/notes/doing-good-gives-us-permission-to-do-harm.md) to not act.
 
 :::note[Feeling Someone’s Pain, Understanding Someone’s Pain, Alleviating Someone’s Pain]
 
@@ -474,7 +499,7 @@ We also need to notice that sometimes feeling empathy doesn't lead to an action 
 
 ### Metaphors We Kill by
 
-in our brain, metaphors are connected deeply to our actual physical sensation. morally bad deeds (such as murder) make us disgusted, as if we ate something bad. we associate "clean" with moral. the role is also reversed - holding a cold drink can make us "colder" people. [Mind-body connection](/notes/mind-body-connection.md)
+in our brain, metaphors are connected deeply to our actual physical sensation. morally bad deeds (such as murder) make us disgusted, as if we ate something bad. we associate "clean" with moral. the role is also reversed - holding a cold drink can make us "colder" people. [Physical states and actions unconsciously shape beliefs and behavior](/notes/physical-states-and-actions-unconsciously-shape-beliefs-and-behavior.md)
 
 :::note[Metaphors We Kill By]
 
@@ -485,7 +510,7 @@ in our brain, metaphors are connected deeply to our actual physical sensation. m
 
 ### Justice and Free Will
 
-as we've seen, some tendencies can be explain by biology, so in a sense it reduces the amount of "free will" the criminal has on his behavior. same as you cant blame a drive whose car broke down. while we saw that biology tends to increase tendencies and not a guarantee, we will perhaps see less criminalization and punishment as a moral act and more judgment which is "mechanical", same as isolating patients is a result of medical needs, and not the fault of the patients. [Determinism](/notes/determinism.md)
+as we've seen, some tendencies can be explain by biology, so in a sense it reduces the amount of "free will" the criminal has on his behavior. same as you cant blame a drive whose car broke down. while we saw that biology tends to increase tendencies and not a guarantee, we will perhaps see less criminalization and punishment as a moral act and more judgment which is "mechanical", same as isolating patients is a result of medical needs, and not the fault of the patients. [Everything is a result of prior causes](/notes/everything-is-a-result-of-prior-causes.md)
 
 :::note[Biology, the Criminal Justice System, and (Oh, Why Not?) Free Will]
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20230413065052
 Created: '2023-04-13 06:50'
-Modified: '2026-04-09 16:57'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Life as Flow
   - Harmony with nature
@@ -16,6 +16,10 @@ Description: >-
   with nature, embracing uncertainty and change rather than attempting to
   control their environment, leading to greater contentment and harmony.
 new_schema: true
+Topic:
+  - '[[Value and Meaning]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,9 +57,3 @@ These philosophers claim that against nature we would always lose. Either becaus
 ## Visual
 
 ![Life as Flow](/notes/life-as-flow.webp)
-
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-◀Origin::
-🔗Link::
-

@@ -1,8 +1,8 @@
 ---
 UUID: 20250322095906
 Created: '2025-03-22 09:59'
-Modified: '2026-04-08 13:59'
-Version: 2
+Modified: '2026-04-11 22:27'
+Version: 3
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -15,6 +15,10 @@ Description: >-
   experiencing urges mindfully for 30-60 seconds without judgment or action,
   thus preventing regretful decisions.
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -28,7 +32,7 @@ Most of our emotional experiences are short lived, especially strong cases of [D
 
 ### Explanation
 
-Feeling the urge to fall for [Temptations](/notes/distraction.md) is actually very short. However, it gets stronger and longer the more we try to resist it [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md).
+Feeling the urge to fall for [Temptations](/notes/distractions-pull-us-towards-them-as-a-temptation.md) is actually very short. However, it gets stronger and longer the more we try to resist it [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md).
 
 By accepting the emotion, by letting ourselves experience it without [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) yet without acting on it either, we "surf the urge". We let it express itself for the 30-60 seconds that it lasts, until it is over as if it didn't exist in the first place.
 
@@ -49,8 +53,3 @@ It is also useful in cases where we are about to lose control, like with the [Br
 
 ## Visual
 
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-↩️Origin::
-🔗Link:: 

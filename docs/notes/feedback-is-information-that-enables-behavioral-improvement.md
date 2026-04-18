@@ -1,13 +1,13 @@
 ---
 UUID: 20230327065139
 Created: '2023-03-27 06:51'
-Modified: '2026-04-10 06:07'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Feedback is information that enables behavioral improvement.png]]'
 ImageText: 'A report with a score on it, and feedback in red marker'
 Description: >-
@@ -17,6 +17,11 @@ Description: >-
 aliases:
   - Feedback
 new_schema: true
+Topic:
+  - '[[Deliberate Practice and Skill Acquisition]]'
+  - '[[Collaborative Communication]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -60,10 +65,3 @@ The concept of feedback is based on several assumptions:
 
 ## Visual
 ![Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.webp)
-
-## Overview
-🔼Topic:: [Deliberate Practice and Skill Acquisition](/notes/deliberate-practice-and-skill-acquisition.md)
-🔼Topic:: [Collaborative Communication](/notes/collaborative-communication.md)
-◀Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20250304193927
 Created: '2025-03-04 19:39'
-Modified: '2026-04-10 16:47'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Individualism
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   moral worth and thought, often contrasting with communal perspectives and
   advocating for personal independence and self-interest.
 new_schema: true
+Topic:
+  - '[[Rights, Justice and Equality]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,8 +52,3 @@ Individualism doesn't support [Providing value without expectation of return cul
 ## Visual
 
 ![Individualism](/notes/individualism.webp)
-## Overview
-🔼Topic:: [Rights, Justice and Equality](/notes/rights-justice-and-equality.md)
-↩️Origin::
-🔗Link::
-

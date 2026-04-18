@@ -1,12 +1,12 @@
 ---
 UUID: 20250226170901
 Created: '2025-02-26 17:09'
-Modified: '2026-04-09 09:15'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Creativity is combining existing ideas in new ways.png]]'
 ImageText: 'Blue and yellow colors spilled into a bowl, creating the green color'
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
 aliases:
   - Remixing
 new_schema: true
+Topic:
+  - '[[Creative Ideation and Innovation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ Good remixing recognizes that ideas are [Content is independent from the medium 
 ## Visual
 
 ![Creativity is combining existing ideas in new ways](/notes/creativity-is-combining-existing-ideas-in-new-ways.webp)
-
-## Overview
-🔼Topic:: [Creative Ideation and Innovation](/notes/creative-ideation-and-innovation.md)
-↩️Origin::
-🔗Link::
-

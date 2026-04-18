@@ -1,13 +1,13 @@
 ---
 UUID: 20231228082520
 Created: '2023-12-28 08:25'
-Modified: '2026-04-08 13:46'
+Modified: '2026-04-11 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Risk Management
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   their impact on decision-making, influenced by human loss aversion and
   emotional responses to uncertainty.
 new_schema: true
+Topic:
+  - '[[Attribution Bias]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -46,9 +50,3 @@ Our dislike of risk runs deep. Facing great risks, we might experience [Emotiona
 ## Visual
 
 ![Risk Management](/notes/risk-management.webp)
-
-## Overview
-🔼Topic:: [Attribution Bias](/notes/attribution-bias.md)
-↩️Origin::
-🔗Link::
-

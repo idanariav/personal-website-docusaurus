@@ -45,7 +45,7 @@ We often feel guilty for "wasting time," yet a mind that is constantly productiv
 
 ![curiosity](/notes/curiosity.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 If you've ever seen a child "in the zone" while playing—as if the entire world is just them and their toy, then you know what pure curiosity looks like.
 

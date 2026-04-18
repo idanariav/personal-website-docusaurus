@@ -1,12 +1,12 @@
 ---
 UUID: 20231113162845
 Created: '2023-11-13 16:28'
-Modified: '2026-04-08 13:26'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Adaptation returns happiness to baseline regardless of life changes.png]]'
 ImageText: A line chart showing ups and downs but returning to baseline
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Hedonic Treadmill
 new_schema: true
+Topic:
+  - '[[Happiness (Nature and Sources)]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,8 +58,3 @@ On the one hand, it shows how much [resilient](/notes/emotional-resilience-enabl
 ## Visual
 
 ![Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.webp)
-
-## Overview
-🔼Topic:: [Happiness (Nature and Sources)](/notes/happiness-nature-and-sources.md)
-🔗Link::
-

@@ -1,8 +1,8 @@
 ---
 UUID: 20230314065952
 Created: '2023-03-14 06:59'
-Modified: '2024-03-22 07:47'
-Version: 1
+Modified: '2026-04-13 06:11'
+Version: 2
 tags: []
 FinishDate: 2023-03-14T00:00:00.000Z
 Author:
@@ -14,39 +14,53 @@ Purchased: true
 Fiction: false
 URL: 'https://www.goodreads.com/book/show/61461326-110-fallacies'
 aliases: null
-ReadingStatus: Read
+ReadingStatus: Done
 Genre: Philosophy
 Cover: >-
   https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657928088i/61461326.jpg
 PublishDate: 2022-07-01T00:00:00.000Z
+Description: A collection of logical fallacies
+FullTitle: 110 Fallacies
+StartDate: 2023-02-27T00:00:00.000Z
+ASIN: null
+Reread: 0
+Topic:
+  - '[[Communication (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # 110 Fallacies (book)
 
+## 🚀 Summary
+a good collection of fallacies when making arguments
+
 ## ✒️ Note-Making
-
-### Connect
-
-🔼Topic:: [Communication (Map)](/mocs/communication-map.md)
 
 ### 🔍 Clarify
 
-💭 *Simply, the main message is...*
-a good collection of fallacies when making arguments
+💭 Simply, the main message is...
+
+### ↔️ Relate
+
+💭 How does this topic relates to my life?
 
 ### Critique
 
-✅ *I agree with... the advantages are...*
-
+✅ I agree with... the advantages are...
 This book has very good demonstrations and explanations for all the common fallacies and even more
 
-❌ *I disagree with... the disadvantages are...*
-
+❌ I disagree with... the disadvantages are...
 It sometimes looks like he just really wanted to get to 110 so he "invented" or presented variations of other fallacies as new fallacies, repeating himself and making the book unnecessarily long
 
-## 📒 Notes
+💭 Implementations and limitations of it are...
+
+### 🤔 Reflect
+
+💭 My main take-aways are.. this affects me by...
+
+## Notes
 
 ### Intro
 
@@ -100,7 +114,7 @@ the "everyone is doing/believing it so you should do it to" fallacy".
 example: "everybody here thinks that the world is flat, so you should too"
 
 #### Appeal to Results
-aka Wishful thinking. when we think a claim is true because it has good results. Wishing something to be true, or the usefulness of a claim doesn't make it true. [Pragmatism](/notes/pragmatism.md)
+aka Wishful thinking. when we think a claim is true because it has good results. Wishing something to be true, or the usefulness of a claim doesn't make it true. [Truth and goodness are defined by practical usefulness](/notes/truth-and-goodness-are-defined-by-practical-usefulness.md)
 example: "if everyone believed in god, our world would be a much better place - so god must exist!".
 
 #### Appeal to Emotions
@@ -123,7 +137,7 @@ for example:
 thinking that quantity beats quality. For example, when a person makes 10 false claims quickly, and his opponent only succeeds in rebutting 5 of those in his allotted time, and since there are 5 claims "left on the table", they must be right.
 
 #### Appeal to Tradition
-thinking that something is right only because it has been done for a long time. this shows how dangerous and stupid the [Lindy Effect](/notes/lindy-effect.md) can be. For example:
+thinking that something is right only because it has been done for a long time. this shows how dangerous and stupid the [The longer something has lasted the longer it will last](/notes/the-longer-something-has-lasted-the-longer-it-will-last.md) can be. For example:
 "Women shouldn't have a right to vote, since the dawn of mankind they were going by their husbands opinion, this is our tradition and we should stick with it"
 
 #### Begging the Question
@@ -202,7 +216,7 @@ when the opponent treats the argument as a worse version of it and attacks it in
 "I think we should accept educated immigrants to improve our economy" - "so know you're going to let everybody in?!"
 
 #### Sunk Cost
-treating investment already made as a justified reason for continuing with the action, although sunk cost cannot be retrieved, but future cost can be avoided. [Sunk Cost](/notes/sunk-cost.md)
+treating investment already made as a justified reason for continuing with the action, although sunk cost cannot be retrieved, but future cost can be avoided. [Past costs irrationally justify future commitment decisions](/notes/past-costs-irrationally-justify-future-commitment-decisions.md)
 "we have already spent 100m on this road, we should invest 20m more"
 "but its no longer necessary, we have a better cheaper alternative"
 

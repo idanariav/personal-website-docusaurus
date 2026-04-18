@@ -1,13 +1,13 @@
 ---
 UUID: 20240925072556
 Created: '2024-09-25 07:25'
-Modified: '2026-04-02 22:44'
+Modified: '2026-04-11 22:30'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Zoom out
   - Mental time travel
@@ -16,6 +16,10 @@ Description: >-
   abstractly and objectively, while connecting disparate information and
   promoting well-being through cognitive distancing and reflection.
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,9 +52,3 @@ Often, zooming out allows us to take a [Break](/notes/rest-enables-recovery-and-
 ## Visual
 
 ![Zoom out](/notes/zoom-out.webp)
-
-## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-↩️Origin::
-🔗Link::
-

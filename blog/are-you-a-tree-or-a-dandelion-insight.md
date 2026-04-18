@@ -23,7 +23,7 @@ SiteProcssed: true
 **Is it better to stand firm like a tree, or adapt like a dandelion?**  
 We often think stability comes from clinging to a fixed identity, but when life throws powerful storms our way, flexibility may be the true strength. Here's why resilience might mean letting go, not holding on.
 
-<!-- truncate -->
+{/* truncate */}
 
 ### Deep roots as facade of stability
 

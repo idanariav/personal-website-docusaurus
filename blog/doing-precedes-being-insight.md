@@ -28,7 +28,7 @@ Who do you truly want to be? Have you ever felt trapped by perfectionism, waitin
 
 ![Doing Precedes Being (insight).webp](/posts/doing-precedes-being-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Who Do You want to Be?
 

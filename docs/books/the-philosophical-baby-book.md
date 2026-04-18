@@ -1,7 +1,7 @@
 ---
 UUID: 20250710072633
 Created: '2025-07-10 07:26'
-Modified: '2026-02-10 21:15'
+Modified: '2026-04-13 06:20'
 tags: []
 FullTitle: >-
   The Philosophical Baby - What Children's Minds Tell Us About Truth, Love, and
@@ -25,7 +25,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 300
 Reread: 0
 Rate: 2
@@ -33,6 +33,9 @@ PublishDate: 2003-01-01T00:00:00.000Z
 StartDate: 2026-01-21T00:00:00.000Z
 FinishDate: 2026-02-09T00:00:00.000Z
 Image: ''
+Topic:
+  - '[[childhood]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -41,11 +44,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [childhood](/notes/childhood.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Children are learning machines** - Even if they seem incapable, irrational, or acting strangely, most of children's actions are driven by the desire to learn more about the world around them, both the physical and the social world. Their strongest skill is the power of imitation. They don't just copy behavior, they copy intentions, they are able to translate between external behavior and internal states.
 2. **Learning is what makes us human** - We are born with only the most basic of skills. Most of who we are, what we know, how we act, is the result of our learning process about the world, especially when we were little. Our mental flexibility costs time, as we need to learn almost everything from scratch.
@@ -54,12 +53,12 @@ SiteProcssed: true
 5. **Sense of self takes time** - Their sense of self is one of the last things to be developed, because it require a psychological continuity, which is based on the ability to have an "internal viewer". At early stages, children are more like observers in a movie, passive (they don't choose what to watch).
 6. **A parental connection is a gateway for empathy and meaning** - First of all, as we help our children grow, so do we grow in the process. Similarly, through us they learn empathy, love, healthy attachment, and even how to find meaning in life. They enrich us as we enrich them.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 Understand better the behavior of children, and be able to experience awe seeing their fresh minds learn about the world
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -68,26 +67,26 @@ Understand better the behavior of children, and be able to experience awe seeing
 🧱 *Implementations and limitations of it are...*
 This is not a book you "implement", it is a book that enriches your understanding about children.
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book was interesting and boring at the same time. On the one hand, it was sprinkled with philosophical theories and cute anecdotes. On the other hand, it occasionally felt like a series of researches grouped together into a book without too much emphasis on how to connect them or to make them interesting.
 
-### 🖼️Outline
+### Outline
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
 Childhood is an amazing and important period of our lives. It's when we grow and learn the most, and it's the universal step that everyone around you has gone through.
 
-Childhood is a symbol for humans ability to change, to [grow](/notes/transcendence.md) beyond our [genes](/notes/nature-vs-nurture.md), to [change](/notes/neuroplasticity.md) our mind and change the world as well. It's not just that by learning we change who we are. Although that's a strong feature of humankind, that we change ourselves throughout our lifetime and across generations [social evolution](/notes/social-evolution.md).
+Childhood is a symbol for humans ability to change, to [grow](/notes/transcendence-is-the-act-of-continuously-becoming-a-better-self.md) beyond our [genes](/notes/nature-vs-nurture.md), to [change](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md) our mind and change the world as well. It's not just that by learning we change who we are. Although that's a strong feature of humankind, that we change ourselves throughout our lifetime and across generations [social evolution](/notes/social-evolution.md).
 
-But also, learning is how we change the world. All the amazing things around us are a product of human [creativity](/notes/innovation.md). Our thoughts literally change the world.
+But also, learning is how we change the world. All the amazing things around us are a product of human [creativity](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md). Our thoughts literally change the world.
 
-Childhood exists because learning takes time [Patience](/notes/patience.md). We can't be born creative same as a horse knows how to run on their first day. Our capacity for thinking has to be cultivated.
+Childhood exists because learning takes time [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md). We can't be born creative same as a horse knows how to run on their first day. Our capacity for thinking has to be cultivated.
 
-That's why childhood and adulthood are two different types of humans, not just a mere "weaker adults". Children are better at [Ideation](/notes/ideation.md). They are more flexible and faster at generating ideas, and not limited by [Status-quo bias](/notes/status-quo-bias.md), [Defaults](/notes/defaults.md) or [Attachment](/notes/attachment.md). How the world works is not a limitation. These are the most liberated minds in existence, free to explore in every direction that interests them. It takes time for the [prefrontal cortex](/notes/prefrontal-cortex.md) to develop, usually until the mid twenties. Until then it's a time of [exploration](/notes/exploration.md) and play.
+That's why childhood and adulthood are two different types of humans, not just a mere "weaker adults". Children are better at [Ideation generates ideas through exploratory thinking freed from constraints](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md). They are more flexible and faster at generating ideas, and not limited by [We prefer existing situations over alternatives despite better options](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md), [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) or [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md). How the world works is not a limitation. These are the most liberated minds in existence, free to explore in every direction that interests them. It takes time for the [prefrontal cortex](/notes/prefrontal-cortex.md) to develop, usually until the mid twenties. Until then it's a time of [exploration](/notes/exploration.md) and play.
 
 :::note[Introduction]
 
@@ -105,7 +104,7 @@ That's why childhood and adulthood are two different types of humans, not just a
 
 ### Possible Worlds - why Do Children Pretend
 
-Humans have a tendency to think through [counterfactuals](/notes/counterfactual.md). We don't only try to see the world [as is](/notes/objectivism.md), we imagine "what if" scenarios. The past, all the possible futures, all alive within our perspective right now. The advantage in "what if" thinking is it's ability to actually change the future. Through envisioning a different future we can't bring it to life [Believing makes it real](/notes/fake-it-till-you-make-it.md). It is also a disadvantage, as we feel responsible for all the possible future that didn't come to life. For example feeling [Regret](/notes/regret.md) for what we've done, knowing that we could have acted differently.
+Humans have a tendency to think through [counterfactuals](/notes/imagining-alternatives-sharpens-our-judgment.md). We don't only try to see the world [as is](/notes/seeing-reality-without-subjective-bias-reduces-distortion.md), we imagine "what if" scenarios. The past, all the possible futures, all alive within our perspective right now. The advantage in "what if" thinking is it's ability to actually change the future. Through envisioning a different future we can't bring it to life [Believing makes it real](/notes/being-emerges-from-action-not-belief.md). It is also a disadvantage, as we feel responsible for all the possible future that didn't come to life. For example feeling [We regret inaction more than action taken](/notes/we-regret-inaction-more-than-action-taken.md) for what we've done, knowing that we could have acted differently.
 
 Not only that children are very capable of thinking about counterfactual, as shown by experiments through their pretend play and reasoning, it is also very clear that they can distinguish between the real and the imaginary. The play with a fake kitchen, but they don't really eat the plastic fruit.
 
@@ -126,9 +125,9 @@ They are also very capable of reasoning and understanding [causality](/notes/cau
 
 Same as they track causal maps, they also create *social maps*, a deep understanding of the people around them, with their unique personality and preferences.
 
-This skill usually begins with the art of lying, [pretending](/notes/role-playing.md), or the creation of imaginary friends. Like counterfactuals, it's a type of [Simulations](/notes/simulations.md) that help them understand the [mind](/notes/theory-of-mind.md) of others. With time, they are able to understand that others think differently, and that we don't all see the same world, rather we see our beliefs of it. By age 2-5, our social understanding greatly develops.
+This skill usually begins with the art of lying, [pretending](/notes/role-playing.md), or the creation of imaginary friends. Like counterfactuals, it's a type of [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md) that help them understand the [mind](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md) of others. With time, they are able to understand that others think differently, and that we don't all see the same world, rather we see our beliefs of it. By age 2-5, our social understanding greatly develops.
 
-They also gain [Self-awareness](/notes/self-awareness.md) in the process. As they understand the minds of others better, so does they understand themselves, and here lies the spark of [Self-control](/notes/self-control.md).
+They also gain [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md) in the process. As they understand the minds of others better, so does they understand themselves, and here lies the spark of [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md).
 
 Through their social maps they become who they are, an American child becomes an "American", while they also can develop their own sense of self and uniqueness because they have the cognitive freedom to pursue whichever idea that interests them.
 
@@ -143,9 +142,9 @@ Through their social maps they become who they are, an American child becomes an
 
 ### Escaping Plato's Cave
 
-Babies are amazing [researchers](/notes/scientific-method.md). They are able to learn from their mistakes and of others, to see the logic behind people's actions. That's why they love to play and explore, because it helps them understand something about the world they live in. To make it "make sense".
+Babies are amazing [researchers](/notes/empirical-testing-not-reason-alone-discovers-truth.md). They are able to learn from their mistakes and of others, to see the logic behind people's actions. That's why they love to play and explore, because it helps them understand something about the world they live in. To make it "make sense".
 
-There are great [imitators](/notes/imitation.md), but they don't get copy the "how to" of others' actions, especially adults, they are also interested in the *why* behind the action. They try to think through the mind of the other, to understand it's [Intention](/notes/intention.md). They learn best from those around them, which is how culture is passed from one generation to another, from parents to children, between siblings.
+There are great [imitators](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md), but they don't get copy the "how to" of others' actions, especially adults, they are also interested in the *why* behind the action. They try to think through the mind of the other, to understand it's [Good action requires intention aligned with values](/notes/good-action-requires-intention-aligned-with-values.md). They learn best from those around them, which is how culture is passed from one generation to another, from parents to children, between siblings.
 
 :::note[Escaping Plato’s Cave]
 
@@ -158,7 +157,7 @@ There are great [imitators](/notes/imitation.md), but they don't get copy the "h
 
 There's still much to solve about consciousness, but we do have indications of how psychological and behavioral phenomenon are linked.
 
-Babies are on some level more conscious than we do. If we define [consciousness](/notes/consciousness.md) as being aware of something, and babies are focused on everything around them because it's new. They haven't [got used](/notes/habit-formation.md) to it yet. When we get used to something, it becomes white noise, something we ignore subconsciously. They are not at that stage yet, everything is exciting.
+Babies are on some level more conscious than we do. If we define [consciousness](/notes/consciousness.md) as being aware of something, and babies are focused on everything around them because it's new. They haven't [got used](/notes/repeated-actions-become-automatic-through-habit-formation.md) to it yet. When we get used to something, it becomes white noise, something we ignore subconsciously. They are not at that stage yet, everything is exciting.
 
 Their attention is not as easily controlled as it is for grown-ups. They are easily distracted, and having hard time to follow instructions. The world decides what they pay attention to.
 
@@ -175,7 +174,7 @@ Same as we have several different definitions of what it means to be conscious, 
 
 ### Who Am I
 
-We perceive consciousness as a continuous state. What we call *autobiographical/episodic memories*, similar to [psychological continuity](/notes/intertemporal-identity.md), that we distinctively remember important moments in our lives, like a first kiss, graduating, etc.
+We perceive consciousness as a continuous state. What we call *autobiographical/episodic memories*, similar to [psychological continuity](/notes/identity-persists-across-time-through-psychological-continuity.md), that we distinctively remember important moments in our lives, like a first kiss, graduating, etc.
 
 However, even if we have such memories, they're not necessarily true. They can be distorted over time, and even implanted [inception](/notes/inception.md).
 
@@ -196,7 +195,7 @@ The connection between parent and child works both ways. Our interactions with t
 ### Learning to Love
 
 Since infancy, babies form theories about love, specifically their relationship with their caregivers. You might get:
-1. **Secure attachment** - when the caregivers are responsive to the child and care about their emotional health [Safe Base](/notes/safe-base.md)
+1. **Secure attachment** - when the caregivers are responsive to the child and care about their emotional health [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md)
 2. **Anxious** - when the child is not certain whether they will get support or not
 3. **Indifference** - when the child ignores their caregivers
 
@@ -206,15 +205,15 @@ Our past, present and future identities are all interconnected. We care deeply a
 
 ### Love and Law
 
-Children are highly moral due to their strong sense of [Empathy](/notes/empathy.md). The source of that empathy is likely to be their innate desire to imitate the people around them. To try and do what others do requires a mapping between observed behavior and internal state, such as intention, feelings and desires. Second, due to the strong connection between body and mind, to physically imitate others leads to an emotional imitation as well. When a baby copies their parents smile, it makes them happy as well.
+Children are highly moral due to their strong sense of [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md). The source of that empathy is likely to be their innate desire to imitate the people around them. To try and do what others do requires a mapping between observed behavior and internal state, such as intention, feelings and desires. Second, due to the strong connection between body and mind, to physically imitate others leads to an emotional imitation as well. When a baby copies their parents smile, it makes them happy as well.
 
 That means that my parents happiness is mine, so making them happy would make me happy as well. That's how empathy is converted into morality.
 
-As they get older, their tendency of [Golden rule](/notes/golden-rule.md) becomes more complex as they understand that what you like might be different from what they like. Similarly they learn to differentiate between a general rule, and the harm that might be or not be depending on context. They recognize rules as something arbitrary, while harm is the real thing you want to prevent.
+As they get older, their tendency of [Treat others the way you want to be treated](/notes/treat-others-the-way-you-want-to-be-treated.md) becomes more complex as they understand that what you like might be different from what they like. Similarly they learn to differentiate between a general rule, and the harm that might be or not be depending on context. They recognize rules as something arbitrary, while harm is the real thing you want to prevent.
 
-Morality occurs when empathy is expanded from a close inner circle to many other people. However, we are often limited by a [Us vs them](/notes/us-vs-them.md) mentality, expanding our empathy only to those who share similar traits as us (usually arbitrary ones like skin color). All moral theories generally support universality, but it's easier said than done.
+Morality occurs when empathy is expanded from a close inner circle to many other people. However, we are often limited by a [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md) mentality, expanding our empathy only to those who share similar traits as us (usually arbitrary ones like skin color). All moral theories generally support universality, but it's easier said than done.
 
-Children have a strong perception of rules and intentions. They understand that it's bad to break a rule in a different sense of "badness" than it is to actually harm someone [Social Construct](/notes/social-construct.md). Like how it doesn't really matter which side of the road to drive, as long as we all drive on the same side.
+Children have a strong perception of rules and intentions. They understand that it's bad to break a rule in a different sense of "badness" than it is to actually harm someone [Shared beliefs make constructs real and true](/notes/shared-beliefs-make-constructs-real-and-true.md). Like how it doesn't really matter which side of the road to drive, as long as we all drive on the same side.
 
 They're also aware that breaking a rule is worse if you do it intentionally.
 

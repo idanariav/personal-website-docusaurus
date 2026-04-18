@@ -1,27 +1,44 @@
 ---
-excalidraw-plugin: parsed
-tags: []
 UUID: 20241001161254
 Created: '2024-10-01 16:12'
-Modified: '2024-10-01 16:12'
-Version: 1
-PublishDate: 2019-04-16T00:00:00.000Z
-Pages: 344
+Modified: '2026-04-13 06:20'
+tags: []
+FullTitle: The Second Mountain - The Quest for a Moral Life
+Description: >-
+  It argues that hyper individualism leads to emptiness and misery, advocating
+  for a moral ecology that prioritizes community over self. By recognizing that
+  social connections are fundamental to human fulfillment, it emphasizes the
+  importance of collective well-being and relationships in fostering a
+  meaningful life.
 Author:
   - '[[David Brooks]]'
-Genre: Self-Help
-Stored: Kindle
-Purchased: true
-Fiction: false
+URL: 'https://www.goodreads.com/book/show/40642458-the-second-mountain'
 Cover: >-
   http://books.google.com/books/content?id=qlyDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/40642458-the-second-mountain'
-ReadingStatus: Read
-FinishDate: 2024-12-17T00:00:00.000Z
-Rate: 3
-aliases: null
-excalidraw-open-md: true
+Genre: Self-Help
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B07DT1BD63
+excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 344
+Reread: 0
+Rate: 3
+PublishDate: 2019-04-16T00:00:00.000Z
+StartDate: 2024-11-29T00:00:00.000Z
+FinishDate: 2024-12-17T00:00:00.000Z
+Image: null
+aliases: null
+Topic:
+  - '[[Existentialism (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -30,21 +47,17 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-
-⬆️Topic:: [Existentialism (Map)](/mocs/existentialism-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas* 
 1. **Hyper individualism is dangerous** - after the communalism of the 20th century, comes the era of individual, focusing on material wealth, isolation, and personal gain which only brings emptiness and misery. We pursue "Instagram" life or workaholic life as a shallow replacement for true connection and meaning
 2. **We need a better moral ecology** - societies are like ecological systems. By thinking systematically, focusing on societies as a social unit rather than just individuals, we can create communities where we all flourish morally, living in balance, symbiosis and harmony, supporting and being supported by our community 
 3. **"We" preceded "me"** - sociality is embedded within us. Our greatest joy, our deepest desires, our heart and soul yearns for relationships and is fueled by them. A life of commitment, of altruism, of thinking through "we" is a life where the "me" also prosper.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 1. You will realize that you are most likely pursuing your first mountain, prioritizing empty, self centered goals over true shared joy.
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **The two mountains** - two types of achievements and goals in life
@@ -56,7 +69,7 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 Since it tries to cover too much, it's hard to say that it's helpful in any particular area, although the mindset as a whole is beneficial
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book starts at a 4 (perhaps even a 5), but then quickly drops to a 3 or even lower. The part about the two mountains is great, but then it diverges to specific topic life relationship and vocations, spending a few pages on each, as if you can talk about finding your work calling in 50 pages, when it can be a whole book. Same goes about relationships, and any other segment. It is unfortunately shallow without any insights.
@@ -65,11 +78,11 @@ It even begins to sidetrack, while the topic is relevant, how he presents it is 
 
 This book related need a better editor.
 
-### 🖼️Outline
+### Outline
 
-![The Second Mountain (book).webp](/books/the-second-mountain-book.webp)
+![The Second Mountain (book)](/books/the-second-mountain-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### introduction
 
@@ -77,19 +90,19 @@ There are two mountains in life, that represents the goals we are pursuing:
 1. **The ego mountain** - A mountain of self achievements, of individuality. We claw our way up, focusing just on the destination.
 2. **The moral mountain** - A mountain of connections to others and to a profession. It is guided by our desire to help others, of our selflessness. Here the journey is what matters 
 
-Most of us start their lives by focusing on the first mountain, on achieving and upgrading our status [Image vs core](/notes/form-vs-essence.md). However, when we get to the top, we notice how empty it feels [Hedonic Treadmill](/notes/hedonic-treadmill.md). We feel [burnout](/notes/burnout.md), hopeless, even [depression](/notes/depression.md) as we fall or get pushed off the mountain into the valley of despair by the unfortunate events of life or by our own doing. We realize that by playing a [Zero sum](/notes/binary-thinking.md) games, we will always lose.
+Most of us start their lives by focusing on the first mountain, on achieving and upgrading our status [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md). However, when we get to the top, we notice how empty it feels [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md). We feel [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md), hopeless, even [Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md) as we fall or get pushed off the mountain into the valley of despair by the unfortunate events of life or by our own doing. We realize that by playing a [Zero sum](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) games, we will always lose.
 
-Then, we see the second mountain. We realize that living is not about me, it is about others, that meaning is found in creating [unity](/notes/unity.md) rather than [Individualism](/notes/individualism.md). We realize that [happiness is shared](/notes/happiness-is-shared.md), that by connecting with others we find the answers to our own lives. The best thing about uniting with others, forgetting the [self](/notes/self-is-a-construct.md) is that [giving](/notes/giving.md) has a [multiplier](/notes/multiplier.md) effect, we give in pennies yet get back in dollars.
+Then, we see the second mountain. We realize that living is not about me, it is about others, that meaning is found in creating [Unity is the felt sense of connection with others and the world](/notes/unity-is-the-felt-sense-of-connection-with-others-and-the-world.md) rather than [The individual is the smallest unit of moral worth](/notes/the-individual-is-the-smallest-unit-of-moral-worth.md). We realize that [Happiness is shared](/notes/happiness-is-shared.md), that by connecting with others we find the answers to our own lives. The best thing about uniting with others, forgetting the [self](/notes/self-is-a-construct.md) is that [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md) has a [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) effect, we give in pennies yet get back in dollars.
 
 The same applies for societies as well, we are currently stuck in an individualistic culture which only causes disappointment and suffering. When we will realize the error of our perceptions and switch to a more altruistic nature, the better off we will be.
 
-The first mountain is the pursuit of happiness, which is very personal and fading. The second mountain is the pursuit of joy, which comes from our connection to others and to nature. There are several levels of joy, Each better than the other [maslows pyramid](/notes/maslows-pyramid.md):
+The first mountain is the pursuit of happiness, which is very personal and fading. The second mountain is the pursuit of joy, which comes from our connection to others and to nature. There are several levels of joy, Each better than the other [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md):
 1. Physical
 2. Emotional
 3. Spiritual
 4. Moral
 
-The first three are a type of momentary connection, a feeling of [resonance](/notes/resonance.md) with others, like a moment of awe with nature, or when dancing together in unison. But the highest level is moral, when we help one another, the feeling of joy lasts forever because it has a [ripple effect](/notes/ripple-effect.md) of good deeds and reciprocity. Not only that it lives on through our initial giving, it also changes us and brings us closer to [transcendence](/notes/transcendence.md). It's creates a positive cycle of improving our soul, making us shine brighter, which in turns helps other shine brighter as well.
+The first three are a type of momentary connection, a feeling of [Resonance is being in sync with reality and others](/notes/resonance-is-being-in-sync-with-reality-and-others.md) with others, like a moment of awe with nature, or when dancing together in unison. But the highest level is moral, when we help one another, the feeling of joy lasts forever because it has a [Actions spread effects across people and time beyond initial cause](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md) of good deeds and reciprocity. Not only that it lives on through our initial giving, it also changes us and brings us closer to [Transcendence is the act of continuously becoming a better self](/notes/transcendence-is-the-act-of-continuously-becoming-a-better-self.md). It's creates a positive cycle of improving our soul, making us shine brighter, which in turns helps other shine brighter as well.
 
 :::note[INTRODUCTION]
 
@@ -108,7 +121,7 @@ The first three are a type of momentary connection, a feeling of [resonance](/no
 
 #### moral ecologies
 
-Each person shapes and being shaped by the culture around them [interpersonal identity](/notes/interpersonal-identity.md). Such moral ecology is the sum of cultures and norms that govern a certain period. Each culture is an answer to the problems of that time, which means that with time that culture becomes less relevant as the problems change, which eventually leads to the creation of an anti culture that becomes the new culture [dialectic approach](/notes/dialectic-approach.md).
+Each person shapes and being shaped by the culture around them [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md). Such moral ecology is the sum of cultures and norms that govern a certain period. Each culture is an answer to the problems of that time, which means that with time that culture becomes less relevant as the problems change, which eventually leads to the creation of an anti culture that becomes the new culture [dialectic approach](/notes/dialectic-approach.md).
 
 Over the past century, in America especially, we see how we switched from a more communal culture of "we are all in this together" that focused on fulfilling your duties and being a good citizen, to a more individualistic culture of "I'm free to be me".
 
@@ -122,11 +135,11 @@ Over the past century, in America especially, we see how we switched from a more
 
 #### the Instagram life
 
-The problem with the individualistic culture is that it has nothing to say [Post-Modernism](/notes/post-modernism.md). We tell our young ones that are still searching for who they are, that the only truth out there is made by them. They are the only ones capable of choosing their own path, because they have both endless possibilities to choose from, and the autonomy and freedom to make up their mind. That the very nature of morality is up to them. No wonders that they get [lost in the infinite](/notes/lost-in-the-infinite.md) and even fall to depression.
+The problem with the individualistic culture is that it has nothing to say [Postmodernism rejects universal truth in favor of context-dependent meaning](/notes/postmodernism-rejects-universal-truth-in-favor-of-context-dependent-meaning.md). We tell our young ones that are still searching for who they are, that the only truth out there is made by them. They are the only ones capable of choosing their own path, because they have both endless possibilities to choose from, and the autonomy and freedom to make up their mind. That the very nature of morality is up to them. No wonders that they get [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md) and even fall to depression.
 
-With such a heavy burden, we are too [stressed](/notes/stress.md) from making a [commitment](/notes/commitment.md). We are plagued with [fomo](/notes/fomo.md) and can't make up our mind. We try everything yet commit to nothing. Enriching our Instagram feed yet leaving our life's empty.
+With such a heavy burden, we are too [stressed](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) from making a [commitment](/notes/commitment.md). We are plagued with [Fear of missing out fuels anxiety about opportunities we cannot take](/notes/fear-of-missing-out-fuels-anxiety-about-opportunities-we-cannot-take.md) and can't make up our mind. We try everything yet commit to nothing. Enriching our Instagram feed yet leaving our life's empty.
 
-We seek [escapism](/notes/escapism.md) because we are afraid of deciding who we are, of answering the big questions.
+We seek [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) because we are afraid of deciding who we are, of answering the big questions.
 
 [freedom](/notes/freedom.md) should be a tool, that helps us get to where we want to go, but it can't be our final destination - floating in a see of nothingness, of endless possibilities forever.
 
@@ -141,7 +154,7 @@ We seek [escapism](/notes/escapism.md) because we are afraid of deciding who we 
 
 #### the insecure overachiever 
 
-While some escape the question of meaning by trying to do it all, others replace the question with a [pragmatist](/notes/pragmatism.md) equivalent answer of achievement. The are [lost in the finite](/notes/lost-in-the-finite.md), the choose a job and surrender themselves completely into it, replacing questions of quality of live with those of quantity, "how much do I have", "how high is my status", "how much do I earn", etc. Because they act from a rational standpoint without being connected with their emotions, they become [econs](/notes/econs.md), they feel [alienation](/notes/alienation.md) from what they do, which leaves them [indeffirent](/notes/indifference.md) to the world. [morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md). They focus on the *how* without having the *why* [core values](/notes/core-values.md).
+While some escape the question of meaning by trying to do it all, others replace the question with a [pragmatist](/notes/truth-and-goodness-are-defined-by-practical-usefulness.md) equivalent answer of achievement. The are [Surrendering agency to external forces destroys individual identity](/notes/surrendering-agency-to-external-forces-destroys-individual-identity.md), the choose a job and surrender themselves completely into it, replacing questions of quality of live with those of quantity, "how much do I have", "how high is my status", "how much do I earn", etc. Because they act from a rational standpoint without being connected with their emotions, they become [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md), they feel [Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.md) from what they do, which leaves them [indeffirent](/notes/indifference.md) to the world. [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md). They focus on the *how* without having the *why* [Core values guide authentic identity and moral action](/notes/core-values-guide-authentic-identity-and-moral-action.md).
 
 :::note[The Insecure Overachiever]
 
@@ -153,11 +166,11 @@ While some escape the question of meaning by trying to do it all, others replace
 
 #### the valley
 
-Once we fall from the first mountain, we fall into the valley. There we are either *walking*, which means we are just going through life without any pleasure or energy, or worse we are *sleeping*, detaching ourselves from life all together, watching TV and staying all day in bed [helplessness](/notes/helplessness.md).
+Once we fall from the first mountain, we fall into the valley. There we are either *walking*, which means we are just going through life without any pleasure or energy, or worse we are *sleeping*, detaching ourselves from life all together, watching TV and staying all day in bed [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md).
 
-Without purpose, we are much more prone to feeling [loneliness](/notes/loneliness.md), distrust, and find refuge in a group, which unfortunately leads to a [us vs them](/notes/us-vs-them.md) mentality more than genuine connection.
+Without purpose, we are much more prone to feeling [Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md), distrust, and find refuge in a group, which unfortunately leads to a [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md) mentality more than genuine connection.
 
-However there can be also a positive in suffering, which no one can avoid regardless. The important thing is that we can choose how to respond to it [freedom of choice](/notes/agency.md). While suffering shatters our [subjective reality](/notes/subjective-reality.md) by giving us a harsh encounter with the truth, it also pushes us closer to one another [relationships](/notes/relationships.md). We can't avoid suffering with meaningless pleasure, only by true support from close ones and having deep conversations. [vulnerability](/notes/vulnerability.md)
+However there can be also a positive in suffering, which no one can avoid regardless. The important thing is that we can choose how to respond to it [freedom of choice](/notes/agency-is-the-ability-to-connect-desires-and-actions.md). While suffering shatters our [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md) by giving us a harsh encounter with the truth, it also pushes us closer to one another [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md). We can't avoid suffering with meaningless pleasure, only by true support from close ones and having deep conversations. [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md)
 
 :::note[The Valley]
 
@@ -169,7 +182,7 @@ However there can be also a positive in suffering, which no one can avoid regard
 
 #### the wilderness 
 
-The only way out of suffering is through. It means that we should first seek [solitude](/notes/solitude.md) in order to quiet our mind so that we will be able to hear ourselves. This is the moment for [Self Reflection](/notes/introspection.md), for truly listening to ourselves [active listening](/notes/active-listening.md), trying to piece together our thoughts, emotions and values, understanding who we are and want to do want out of life.
+The only way out of suffering is through. It means that we should first seek [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md) in order to quiet our mind so that we will be able to hear ourselves. This is the moment for [Self Reflection](/notes/introspection-develops-self-knowledge-through-internal-examination.md), for truly listening to ourselves [Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.md), trying to piece together our thoughts, emotions and values, understanding who we are and want to do want out of life.
 
 Once we go deep enough and we shed the ego and it's preferences, we find a deep core, one that yearns for truth and connections. 
 
@@ -183,7 +196,7 @@ Once we go deep enough and we shed the ego and it's preferences, we find a deep 
 
 #### heart and soul
 
-Deep inside of us, constantly pounding, is our true core, our heart and soul. Once we remove the ego, we can finally hear it. It takes the removal of the old to make room for the "new" [creative destruction](/notes/creative-destruction.md). With skills learned in the first mountain, and with truths discovered in the valley, the preparation time is over, it is time to take the leap, to start following your heart and soul.
+Deep inside of us, constantly pounding, is our true core, our heart and soul. Once we remove the ego, we can finally hear it. It takes the removal of the old to make room for the "new" [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md). With skills learned in the first mountain, and with truths discovered in the valley, the preparation time is over, it is time to take the leap, to start following your heart and soul.
 
 :::note[Heart and Soul]
 
@@ -197,9 +210,9 @@ Deep inside of us, constantly pounding, is our true core, our heart and soul. On
 
 Switching from the first to the second mountain is a switch from personal happiness to shared joy, from transactional thinking to giving, from freedom to shared interdependence, from empty status symbols to moral behavior.
 
-The second mountain is a mountain of commitments. These are promises we set in place when we are deeply in love with something, in order to preserve the important rituals of that love even when it weakens [path dependence](/notes/path-dependence.md). Like how marriage is something that should hold through thick and thin, sickness and in health, not just when times are good. That makes them more than just a transaction that can be canceled when one party doesn't profit as much, but rather it becomes an act of unity, a shared being that holds the two of us together and that we should nurture, like a child. 
+The second mountain is a mountain of commitments. These are promises we set in place when we are deeply in love with something, in order to preserve the important rituals of that love even when it weakens [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md). Like how marriage is something that should hold through thick and thin, sickness and in health, not just when times are good. That makes them more than just a transaction that can be canceled when one party doesn't profit as much, but rather it becomes an act of unity, a shared being that holds the two of us together and that we should nurture, like a child. 
 
-Commitments transform who we are, it supports our feelings of morality, the creation of our identity, they provide meaning in our lives and transform our thinking from [Negative freedom](/notes/negative-freedom.md) to [Positive freedom](/notes/positive-freedom.md)
+Commitments transform who we are, it supports our feelings of morality, the creation of our identity, they provide meaning in our lives and transform our thinking from [Freedom from external constraints](/notes/freedom-from-external-constraints.md) to [Freedom means having the ability to pursue your goals](/notes/freedom-means-having-the-ability-to-pursue-your-goals.md)
 
 :::note[The Committed Life]
 
@@ -213,7 +226,7 @@ Commitments transform who we are, it supports our feelings of morality, the crea
 
 Only relationships have the power to change our lives. From being down in the valley after our first mountain, being struck by lives cruelty, we can begin a new, and this is by being more connected to the people around us, from cultivating a giving mindset, a "we" mindset. 
 
-The key to unity with others is the [unity](/notes/harmonious-self.md) of the self. By bringing all the different pieces of ourselves together to a unified goal, it will become much more evident and easy to see ourselves as connected to others. It comes with vulnerability , with opening ourselves to others. Only then we could rise from the basic desires of material and status to the level of transcendence. 
+The key to unity with others is the [unity](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md) of the self. By bringing all the different pieces of ourselves together to a unified goal, it will become much more evident and easy to see ourselves as connected to others. It comes with vulnerability , with opening ourselves to others. Only then we could rise from the basic desires of material and status to the level of transcendence. 
 
 :::note[The Second Mountain]
 
@@ -233,7 +246,7 @@ A vocation is more than a career, it is a calling, something that echoes deep in
 
 #### the annunciation moment
 
-The annunciation moment is when we are struck by awe and [curiosity](/notes/curiosity.md). When we are completed captured by something. Usually we don't even realize that this was our moment, only in retrospect.
+The annunciation moment is when we are struck by awe and [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md). When we are completed captured by something. Usually we don't even realize that this was our moment, only in retrospect.
 
 :::note[The Annunciation Moment]
 
@@ -244,15 +257,15 @@ The annunciation moment is when we are struck by awe and [curiosity](/notes/curi
 
 #### what mentors do
 
-[mentors](/notes/mentor.md) are much more valuable than books (or any other form of non-personal teaching, because:
-1. They can teach you [practical knowledge](/notes/experience-knowledge.md) that is hard to teach in a non personal method
-2. They teach you [humility](/notes/humility.md), to accept your failures and don't focus too much on yourself, but rather the task
+[mentors](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md) are much more valuable than books (or any other form of non-personal teaching, because:
+1. They can teach you [practical knowledge](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md) that is hard to teach in a non personal method
+2. They teach you [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md), to accept your failures and don't focus too much on yourself, but rather the task
 
 #### vampire problems  
 
-The hard [problems](/notes/problems.md) in life are problematic because they are filled with [uncertainty](/notes/uncertainty.md). There is no data that we could collect that will help us solve them. This is because they are both transformative - they change who we are, and personal - what to choose depends on our personality. That's why reason based decision methods are useless, and [intuition](/notes/intuition.md) can only lead us astray.
+The hard [problems](/notes/problems.md) in life are problematic because they are filled with [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md). There is no data that we could collect that will help us solve them. This is because they are both transformative - they change who we are, and personal - what to choose depends on our personality. That's why reason based decision methods are useless, and [Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md) can only lead us astray.
 
-The best chance for us to find the right answer is first [exploration](/notes/testing.md), we need to :
+The best chance for us to find the right answer is first [exploration](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md), we need to :
 1. **Say yes** - say yes to many experiences so that we could have a feel to how this kind of life really is. 
 2. **Open heart and soul** - we need to be attentive to the subconscious voices of our heart and soul, what are they pulling us towards?
 3. **Desire and fit** - what has life been preparing us for? What is the combination of both our desire to do, and our capacity to do it well?
@@ -267,7 +280,7 @@ The best chance for us to find the right answer is first [exploration](/notes/te
 
 #### mastery
 
-Achieving [mastery](/notes/mastery.md) is only through [deliberate practice](/notes/deliberate-practice.md). You have to work hard on perfecting your output before you brains trigger a [habit formation](/notes/habit-formation.md) process, such that when things are automized they are already perfect, otherwise it will be very hard to change them afterwards. 
+Achieving [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md) is only through [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md). You have to work hard on perfecting your output before you brains trigger a [Repeated actions become automatic through habit formation](/notes/repeated-actions-become-automatic-through-habit-formation.md) process, such that when things are automized they are already perfect, otherwise it will be very hard to change them afterwards. 
 
 :::note[Mastery]
 
@@ -280,7 +293,7 @@ Achieving [mastery](/notes/mastery.md) is only through [deliberate practice](/no
 
 #### the maximum marriage
 
-Marriage was once a [safe base](/notes/safe-base.md), a shared identity filled with gratitude, kindness, acts of service and words of encouragement. It was a commitment that supports both side equality, through thick and thin. That has changed when individualism took over. It has become a transaction, each side hoping that the marriage would be beneficial for themselves, which often ends up as a disappointment when it starts demanding their time and energy and divert it from personal goals to shared (like having children). Marriage has become something of a truce, of a cold agreement to not hurt each other for the sake of the children, without anything to hold them together.
+Marriage was once a [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md), a shared identity filled with gratitude, kindness, acts of service and words of encouragement. It was a commitment that supports both side equality, through thick and thin. That has changed when individualism took over. It has become a transaction, each side hoping that the marriage would be beneficial for themselves, which often ends up as a disappointment when it starts demanding their time and energy and divert it from personal goals to shared (like having children). Marriage has become something of a truce, of a cold agreement to not hurt each other for the sake of the children, without anything to hold them together.
 
 We need to return to the days of the maximum marriage, where the goal is to put our selfishness aside and focus on what we can create together, on who we can be together. 
 

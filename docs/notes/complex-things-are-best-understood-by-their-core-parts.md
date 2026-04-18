@@ -1,12 +1,12 @@
 ---
 UUID: 20250302065412
 Created: '2025-03-02 06:54'
-Modified: '2026-04-10 11:21'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Complex things are best understood by their core parts.png]]'
 ImageText: A laptop broken down to electricity and on-off switches
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
 aliases:
   - Reductionism
 new_schema: true
+Topic:
+  - '[[Ontological Theories]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -47,8 +51,3 @@ Rather than believe that [truth](/notes/truth.md) is an [emergent](/notes/system
 ## Visual
 
 ![Complex things are best understood by their core parts](/notes/complex-things-are-best-understood-by-their-core-parts.webp)
-## Overview
-🔼Topic:: [Ontological Theories](/notes/ontological-theories.md)
-↩️Origin::
-🔗Link::
-

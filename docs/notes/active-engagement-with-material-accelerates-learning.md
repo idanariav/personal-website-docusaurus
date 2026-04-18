@@ -1,12 +1,12 @@
 ---
 UUID: 20240425171923
 Created: '2024-04-25 17:19'
-Modified: '2026-04-09 08:42'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Active engagement with material accelerates learning.png]]'
 ImageText: 'A video on a phone about making a clay bowl, vs hands that make a clay bowl'
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Learning through practice
   - Practice is the best teacher
 new_schema: true
+Topic:
+  - '[[Active Learning and Deep Encoding]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ Most of us avoid learning by doing because it:
 ## Visual
 
 ![Active engagement with material accelerates learning](/notes/active-engagement-with-material-accelerates-learning.webp)
-
-## Overview
-🔼Topic:: [Active Learning and Deep Encoding](/notes/active-learning-and-deep-encoding.md)
-↩️Origin::
-🔗Link::
-

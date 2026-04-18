@@ -1,13 +1,13 @@
 ---
 UUID: 20250227065644
 Created: '2025-02-27 06:56'
-Modified: '2026-04-02 22:44'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Focus on what you can do next not what went wrong.png]]'
 ImageText: 'A windshield showing the road ahead, above a rearview mirror'
 Description: >-
@@ -16,6 +16,10 @@ Description: >-
 aliases:
   - Forward thinking
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -45,8 +49,3 @@ While the first view hurts our [Self-worth is accurate assessment of your capabi
 ## Visual
 
 ![Focus on what you can do next not what went wrong](/notes/focus-on-what-you-can-do-next-not-what-went-wrong.webp)
-
-## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-↩️Origin::
-🔗Link::

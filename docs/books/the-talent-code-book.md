@@ -1,46 +1,61 @@
 ---
 UUID: 20240102062219
 Created: '2024-01-02 06:22'
-Modified: '2024-03-21 07:30'
-Version: 1
+Modified: '2026-04-13 06:20'
 tags: []
-ReadingStatus: Read
-FinishDate: 2024-03-15T00:00:00.000Z
-PublishDate: 2010-12-15T00:00:00.000Z
-Pages: 258
+FullTitle: >-
+  The Talent Code - Unlocking the Secret of Skill in Sports, Art, Music, Math,
+  and Just About Everything Else
+Description: >-
+  It argues that the mind's flexibility allows for improvement through repeated
+  challenges, as myelin isolates neurons to enhance performance. Additionally,
+  deep motivation, rooted in our identity, is essential for effective learning,
+  enabling us to aspire to become the person we desire.
 Author:
   - '[[Daniel Coyle]]'
-Genre: Social Science
-Rate: 2
-Stored: Kindle
-Purchased: true
-Fiction: false
+URL: 'https://www.goodreads.com/book/show/5771014-the-talent-code'
 Cover: >-
   http://books.google.com/books/content?id=MR4hJcrc4B8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/5771014-the-talent-code'
+Genre: Social Science
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B0026OR1UK
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 258
+Reread: 0
+Rate: 2
+PublishDate: 2010-12-15T00:00:00.000Z
+StartDate: 2024-03-10T00:00:00.000Z
+FinishDate: 2024-03-15T00:00:00.000Z
+Image: ''
 aliases: null
+Topic:
+  - '[[Mastery requires deliberate practice and hard work, not innate talent]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Talent Code
 
-## 🔗Connect
-🔼Topic:: [Mastery](/notes/mastery.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **The mind is flexible** - whenever we are faced with a difficult recurring process, this is when our mind will focus resources on doing it better each time, by isolating the neurons with myelin.
 2. **learning requires deep motivation** - since learning is by definition hard, we need a deep source of motivation, which is our identity. We need to believe we could become the person we want to be.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -53,16 +68,16 @@ We are left mostly empty handed
 🧱 *Implementations and limitations of it are...*
 There are barely any methods of implementation
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book is written as a passion project by the writer, but more often than not misses it's goal. The stories are what he really wanted to talk about, and sometimes forgets to tie it back to talent. A combination of ADHD and the desire to showoff his stories rather than research and conclusions. All this leaves us with little to go on, and forces us to guess what the lesson should be
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-**Talent is not born, it is grown.** Talent on the molecular level is myelin. The insolation around neurons that allow them to fire faster and smoother, which is expressed through a stronger manifestation of an action, aka talent. More myelin = more [Competence](/notes/competence.md).
+**Talent is not born, it is grown.** Talent on the molecular level is myelin. The insolation around neurons that allow them to fire faster and smoother, which is expressed through a stronger manifestation of an action, aka talent. More myelin = more [Competence is developed through practice not innate talent](/notes/competence-is-developed-through-practice-not-innate-talent.md).
 
 :::note[Introduction]
 
@@ -76,9 +91,9 @@ This book is written as a passion project by the writer, but more often than not
 
 #### The Sweet Spot
 
-**Developing talent can't be effortless**. It is precisely where we are met with [Challenge](/notes/struggle.md) that we develop the most. The goal is to find the sweet spot between too easy and too hard. [learning should be hard](/notes/learning-should-be-hard.md)
+**Developing talent can't be effortless**. It is precisely where we are met with [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) that we develop the most. The goal is to find the sweet spot between too easy and too hard. [Learning should be hard](/notes/learning-should-be-hard.md)
 
-Another crucial aspect is simulations where we chunk the skill into small components that can be tested and trained in rapid succession in a safe environment. A place of experimentation and improvisation [chunking](/notes/chunking.md) [simulations](/notes/simulations.md)
+Another crucial aspect is simulations where we chunk the skill into small components that can be tested and trained in rapid succession in a safe environment. A place of experimentation and improvisation [Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.md) [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md)
 
 :::note[The Sweet Spot]
 
@@ -94,7 +109,7 @@ Another crucial aspect is simulations where we chunk the skill into small compon
 **Myelin is the key for performance, it is the glue in "practice makes perfect".**
 Every skill relies on a message firing in the brain, and myelin makes that message faster, stronger, better.
 The more we practice a trait, the more we fire the same route, that signals the brain that this route is important, which causes dedication of resources to that route, slowly expanding it and covering it up with myelin.
-To fire it effectively requires that we face difficulties first. If the route is "good enough", there will be no development. We need to do it slowly, to face our mistakes, and tough challenges, and repeat the process until we achieve [Mastery](/notes/mastery.md). [spaced repetition](/notes/spaced-repetition.md) [failure](/notes/failure.md)
+To fire it effectively requires that we face difficulties first. If the route is "good enough", there will be no development. We need to do it slowly, to face our mistakes, and tough challenges, and repeat the process until we achieve [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md). [Repeated exposure to information strengthens memory retention](/notes/repeated-exposure-to-information-strengthens-memory-retention.md) [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md)
 
 our ability to produce myelin fades over time. Also, since it is a living tissue, **we have to continue to practice otherwise it will tear down**
 
@@ -113,7 +128,7 @@ our ability to produce myelin fades over time. Also, since it is a living tissue
 A genius isn't born, it's made. All of the famous "sudden genius" actually hide a history of training and failing behind it.
 
 It all goes back to myelin and how our body interacts with the world. Preprogramming skills is useful for limited, simple situations, like running from a lion, or avoiding rotten food. But for complex skills such as analysis or juggling, preprogramming would simply be very expensive, especially when the needs of survival change with time (being a good farmer was essential 300 years ago, but not now).
-That's why we have developed the ability to adapt on the stop, to detect using repetition and difficulty where we need resources the most, and with myelin and neurons we are able to generate strong skills in a flexible way [neuroplasticity](/notes/neuroplasticity.md)
+That's why we have developed the ability to adapt on the stop, to detect using repetition and difficulty where we need resources the most, and with myelin and neurons we are able to generate strong skills in a flexible way [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md)
 
 :::note[The Brontës, the Z-Boys, and the Renaissance]
 
@@ -125,7 +140,7 @@ That's why we have developed the ability to adapt on the stop, to detect using r
 
 #### The Three Rules of Deep Practice
 
-Having a skill is partially expressed by having useful [Mental Shortcuts](/notes/mental-shortcuts.md) like recognizing words instead of letters.
+Having a skill is partially expressed by having useful [Mental shortcuts enable faster learning through analogies and simplification](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md) like recognizing words instead of letters.
 
 The process of deep practice includes:
 1. **Chunking** - breaking the task down to it's core components
@@ -148,7 +163,7 @@ The process of deep practice includes:
 
 Deep practice is not fun, it requires a lot of motivation to maintain. Where does this motivation comes from?
 
-One suggestion is "primal cues", a preexisting motivation before the beginning of your training, that stems from a strong [Narratives](/notes/narratives.md) of your life. For example, being an orphan could create a narrative of "you are not safe", which would drive you towards being more in control of your surroundings. Similarly, having an older sibling can transmit the message "you have to do better", never to rest until you surpass them.
+One suggestion is "primal cues", a preexisting motivation before the beginning of your training, that stems from a strong [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md) of your life. For example, being an orphan could create a narrative of "you are not safe", which would drive you towards being more in control of your surroundings. Similarly, having an older sibling can transmit the message "you have to do better", never to rest until you surpass them.
 
 These cues don't have to be so dramatic or destined, they can be generated. **A strong message that goes out to the identity, to your core, instead of external or superficial rewards, is the way**. (Aka:: change starts from within)
 
@@ -163,7 +178,7 @@ These cues don't have to be so dramatic or destined, they can be generated. **A 
 
 #### The Curacao Experiment
 
-**Praise effort, not intelligence**. It is the ground level words that focus on struggle and effort that brings motivation, not high level dreams and aspirations [growth mindset](/notes/growth-mindset.md)
+**Praise effort, not intelligence**. It is the ground level words that focus on struggle and effort that brings motivation, not high level dreams and aspirations [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)
 
 :::note[The Curaçao Experiment]
 
@@ -180,7 +195,7 @@ When a place creates an identity that is built around achievable goals, that enc
 
 #### The Talent Whisperer
 
-To be a great [mentor](/notes/mentor.md) is to be like a farmer. It is more about connection and knowledge rather than inspiring leadership. Detect their potential and their errors, and repeat until success.
+To be a great [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md) is to be like a farmer. It is more about connection and knowledge rather than inspiring leadership. Detect their potential and their errors, and repeat until success.
 
 #### The Teaching Circuit, a Blueprint
 

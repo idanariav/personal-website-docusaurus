@@ -5,8 +5,8 @@ Image: null
 tags: []
 UUID: 20240322071955
 Created: '2024-03-22 07:19'
-Modified: '2026-04-08 14:10'
-Version: 2
+Modified: '2026-04-11 22:25'
+Version: 3
 aliases:
   - Good enough
 excalidraw-open-md: true
@@ -15,6 +15,10 @@ Description: >-
   appreciation of good outcomes, often leading to procrastination and binary
   thinking.
 new_schema: true
+Topic:
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: '[[The Happiness Lab with Dr. Laurie Santos]]'
+URL: 'https://share.snipd.com/episode/13ecaae4-406c-4d34-a086-cafb7cdad49d'
 draft: false
 SiteProcssed: true
 ---
@@ -47,10 +51,3 @@ There's even something beautiful in imperfection [wabi sabi](/notes/wabi-sabi.md
 ## Visual
 
 ![Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.webp)
-
-## Overview
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-↩️Origin:: [The Happiness Lab with Dr. Laurie Santos](null)
-🔗Link:: https://share.snipd.com/episode/13ecaae4-406c-4d34-a086-cafb7cdad49d
-
-

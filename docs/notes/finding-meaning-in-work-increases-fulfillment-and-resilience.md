@@ -1,20 +1,25 @@
 ---
 UUID: 20220729134626
 Created: '2022-07-29 13:46'
-Modified: '2026-04-09 17:01'
+Modified: '2026-04-11 22:21'
 tags: []
 aliases:
   - Job crafting
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
-Version: 3
+Version: 4
 excalidraw-open-md: true
 Description: >-
   The process of actively creating personal meaning in one's work to reduce
   burnout, by redefining roles and responsibilities beyond their basic
   functions.
 new_schema: true
+Topic:
+  - '[[Value and Meaning]]'
+  - '[[Meaning is Crafted]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,12 +55,3 @@ For example, orderlies in hospitals are experiencing less burnout if they see th
 ## Visual
 
 ![job crafting](/notes/job-crafting.webp)
-
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-🔼Topic:: [Meaning is Crafted](/notes/meaning-is-crafted.md)
-Origin::
-🔗Link:: 
-
-

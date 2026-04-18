@@ -1,7 +1,7 @@
 ---
 UUID: 20231220115735
 Created: '2023-12-20 11:57'
-Modified: '2026-03-24 11:00'
+Modified: '2026-04-13 06:19'
 tags: []
 FullTitle: The Genealogy of Morals
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: '3'
+Version: 4
 Pages: 102
 Reread: 0
 Rate: 4
@@ -35,28 +35,28 @@ StartDate: 2023-11-28T00:00:00.000Z
 FinishDate: 2023-12-20T00:00:00.000Z
 Image: ''
 aliases: []
+Topic:
+  - '[[Ethics (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Genealogy of Morals (book)
 
-## 🔗Connect
-🔼Topic:: [Ethics (Map)](/mocs/ethics-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Envy is a useful tool, resentment is not** - Don't resent the powerful, it is the same as blaming a lion for being a predator. Rather, envy them, mimic there behavior, overcome your weakness and fulfill your will to power.
 2. **The slave morality causes self punishment** - nowadays, the tables have turned against the strong. The power of numbers with the help of religion and the state have turned compassion and weakness to virtues, while strength and tenacity are vices. We learned to view ourselves, and specifically our animalistic nature which is the source of our transcendence as a vice, something that deserves to be punished for for eternity. While on the contrary, vice can often be a force for transcendence, usually by removing that which doesn't work or belongs to this world, and make room for something better
 3. **State punishment has robed us of growth** - When we transferred the power to punish individuals from the individual to the state, we have commodified crimes. Good and bad has become a matter of utility that can be quantified and demanded for retribution by the state. The individual has learned to "suppress" himself and let the state handle it, instead of raising to the occasion and doing what's right.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. **Free from bounds of slave morality** - you will no longer bow down to ideologies that tries to hold you back and punish you endlessly for your sins
@@ -66,12 +66,12 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 What might be true at the individual level is very hard to implement at the societal level. How would we operate without the concept of punishment, and utility as a way to measure hard done? What would remain if we throw away the slave morality, what would guide us away from nihilism?
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 In contrast with previous versions, this is an actual "textbook", which much less of his prose/ prophet style of writings, which enables to understand much better his concepts and ideas.
 
-## 📒 Notes
+## Notes
 
 ### Preface
 

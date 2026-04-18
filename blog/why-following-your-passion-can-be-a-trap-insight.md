@@ -60,7 +60,7 @@ When does the drive to do what you love start costing more than it provides? Cha
 
 ![Why following your passion can be a trap (insight)](/blogs/why-following-your-passion-can-be-a-trap-insight.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## The Hidden Cost of Chasing what We Love
 

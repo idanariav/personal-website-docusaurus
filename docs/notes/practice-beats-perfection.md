@@ -1,19 +1,23 @@
 ---
 UUID: 20230808165832
 Created: '2023-08-08 16:58'
-Modified: '2026-04-09 08:40'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases: null
 Description: >-
   A concept emphasizing that improvement arises from consistent practice and
   experience rather than the pursuit of perfection, fostering learning through
   trial and feedback.
 new_schema: true
+Topic:
+  - '[[Deliberate Practice and Skill Acquisition]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ Research shows that only [Consistency compounds results through reliable repeate
 ## Visual
 
 ![practice beats perfection](/notes/practice-beats-perfection.webp)
-
-## Overview
-🔼Topic:: [Deliberate Practice and Skill Acquisition](/notes/deliberate-practice-and-skill-acquisition.md)
-Origin::
-🔗Link::
-

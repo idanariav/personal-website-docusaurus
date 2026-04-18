@@ -1,50 +1,64 @@
 ---
 UUID: 20240123055852
 Created: '2024-01-23 05:58'
-Modified: '2024-10-08 07:58'
+Modified: '2026-04-13 06:19'
 tags: []
+FullTitle: >-
+  The Most Good You Can Do - How Effective Altruism Is Changing Ideas About
+  Living Ethically
+Description: >-
+  It argues against self-sacrifice, emphasizing the importance of personal
+  happiness in helping others. It advocates for rational donations to maximize
+  impact and asserts that morality demands action, highlighting our obligation
+  to assist others while maintaining our well-being.
 Author:
   - '[[Peter Singer]]'
+URL: 'https://www.goodreads.com/book/show/23168483-the-most-good-you-can-do'
+Cover: >-
+  http://books.google.com/books/content?id=GriFBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Philosophy
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B00VQPLZX4
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 228
+Reread: 0
 Rate: 3
 PublishDate: 2015-01-01T00:00:00.000Z
+StartDate: 2024-01-25T00:00:00.000Z
 FinishDate: 2024-01-29T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=GriFBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/23168483-the-most-good-you-can-do'
+Image: null
 aliases: null
+Topic:
+  - '[[Providing value without expectation of return cultivates wellbeing]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Most Good You Can Do
 
-## 🔗Connect
-🔼Topic:: [Giving](/notes/giving.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Don't be a martyr** - It's not about giving every single coin and moment of your life. Your happiness is essential too, even if it's just about maintaining your ability to help others.
 2. **Donate Rationally** - Think how to maximize the effectiveness of your donation, both in the goal chosen, the organization, and the amount. One might even consider switching to a high paying job in order to donate more.
 3. **Morality requires doing** - We can't ignore the moral obligation we face helping others considering our wellbeing (both as a cause and as a goal). Only through moral acting we become moral.
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 1. Donate 10% of my income
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 You will understand the importance of being an effective altruist, and you will enjoy knowing the extent of good that your donation can make, if done properly.
@@ -53,16 +67,16 @@ You will understand the importance of being an effective altruist, and you will 
 
 🧱 *Implementations and limitations of it are...*
 This book is directed towards a western audience, where the economical situation is strong enough that it is justified to donate to global poor rather than to local one.
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 It is a nice summary of the main ideas of effective altruism, with some important nuances
 
-### 🖼️Outline
+### Outline
 
-![The Most Good You Can Do (book).webp](/books/the-most-good-you-can-do-book.webp)
+![The Most Good You Can Do (book)](/books/the-most-good-you-can-do-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Preface
 
@@ -72,9 +86,9 @@ We can distinguish between:
 2. **Fully moral life** - to do the most good we can
 
 The aspects of effective altruism are:
-1. **Action** - EA is about doing, our morality is measured by actual improvements we bring to the world, especially those who need support the most [to be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md)
-2. **Factual** - Action should be focused on the areas with the highest "moral return". Many organizations don't measure or allow to measure their effectiveness [Pareto Principle](/notes/pareto-principle.md)
-3. **Reason above empathy** - our desire to help comes from a rational understanding of our duty, and not an emphatical emotional connection. [Empathy](/notes/empathy.md) This allows us to transcend [us vs them](/notes/us-vs-them.md) borders and help those who are not from our society.
+1. **Action** - EA is about doing, our morality is measured by actual improvements we bring to the world, especially those who need support the most [To be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md)
+2. **Factual** - Action should be focused on the areas with the highest "moral return". Many organizations don't measure or allow to measure their effectiveness [Most benefits come from a small proportion of inputs](/notes/most-benefits-come-from-a-small-proportion-of-inputs.md)
+3. **Reason above empathy** - our desire to help comes from a rational understanding of our duty, and not an emphatical emotional connection. [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md) This allows us to transcend [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md) borders and help those who are not from our society.
 
 :::note[Preface]
 
@@ -94,9 +108,9 @@ The aspects of effective altruism are:
 As said previously, it is to make the best use of our resources to make the most good.
 By resources we usually mean money, but influence and physical body can also be considered. That's why it is not illogical to strive for a high paying job just to be able to donate more money, than doing a volunteering job elsewhere, with perhaps a lower effect.
 
-By most good we usually mean a [Utilitarianism](/notes/utilitarianism.md) view of reducing suffering and increase pleasure, usually by preventing death and improving the quality of life of not just humans, but animals as well.
+By most good we usually mean a [Maximizing pleasure and minimizing suffering defines moral action](/notes/maximizing-pleasure-and-minimizing-suffering-defines-moral-action.md) view of reducing suffering and increase pleasure, usually by preventing death and improving the quality of life of not just humans, but animals as well.
 
-All this is in contrast with *normal philanthropy*, which is more focused on the *warm glow* [Signaling](/notes/signaling.md) of giving, which is the benefit for the self through the act of donation, regardless of the actual effects of the donation. It is just the benefit of signaling that we are virtuous people, rather than actually being ones [form vs essence](/notes/form-vs-essence.md). Meanwhile EA is about *doing* good, regardless of whether we are noticed or not. **The act of doing good is what provides us with the sense of satisfaction.**
+All this is in contrast with *normal philanthropy*, which is more focused on the *warm glow* [Signaling is displaying qualities to appear worthy or successful](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md) of giving, which is the benefit for the self through the act of donation, regardless of the actual effects of the donation. It is just the benefit of signaling that we are virtuous people, rather than actually being ones [Distinguishing appearance from authentic substance reveals hidden conflicts](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md). Meanwhile EA is about *doing* good, regardless of whether we are noticed or not. **The act of doing good is what provides us with the sense of satisfaction.**
 
 :::note[What Is Effective Altruism?]
 
@@ -124,7 +138,7 @@ We need to rethink charities, to create a standard of transparency and measureme
 #### Living Modestly to Give More
 
 **The goal is not to be a martyr, nor to live in a cardboard box. Even in the most practical sense, our happiness is essential to our ability to contribute**. A depressed person without any means won't be able to earn enough to donate.
-However, we can be more reflective on what actually is essential to our happiness. You'll be surprised on the lack of connection between spendings and happiness. **It is our social ties, and simple pleasures that are essential**, which means that we can cut back on any unnecessary luxurious buy, but we can still enjoy the occasional new iphone, eating ice cream and going out to the movies. [Minimalism](/notes/addition-by-subtraction.md)
+However, we can be more reflective on what actually is essential to our happiness. You'll be surprised on the lack of connection between spendings and happiness. **It is our social ties, and simple pleasures that are essential**, which means that we can cut back on any unnecessary luxurious buy, but we can still enjoy the occasional new iphone, eating ice cream and going out to the movies. [Minimalism](/notes/improvement-often-comes-from-removing-rather-than-adding.md)
 
 The goal is to not be satisfied with giving 10%, but to strive to 30%-50%. But also remember that you don't have to be rich to give, and that any giving is better than none.
 
@@ -144,7 +158,7 @@ The goal is to not be satisfied with giving 10%, but to strive to 30%-50%. But a
 If you're debating between being a charity worker and a banker that earns a lot of money and then donates, think about your marginal utility.
 By not being a charity worker, you are giving your place to the next runner up, which will likely be almost as good as you, so it is not a huge loss, as long as there are plenty of applicants.
 In a high earning job, it is very unlikely that the runner up will donate as much as you, and that's why you would a much overall influence if you strive to earn more.
-Just don't treat yourself as a "money machine" for donations, remember the importance of your happiness. [Competitive Advantage](/notes/competitive-advantage.md)
+Just don't treat yourself as a "money machine" for donations, remember the importance of your happiness. [Finding your unique strength creates sustainable advantage](/notes/finding-your-unique-strength-creates-sustainable-advantage.md)
 
 #### Other Ethical Careers
 
@@ -180,7 +194,7 @@ This rule of rationality is hard to implement, since our emotions are always inv
 
 #### One among Many
 
-**It is not that effective altruists try to eliminate emotions, but rather they are passionate about helping in a rational way** [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md) [Emotional Aikido](/notes/emotional-aikido.md). Rational inquiry helps us avoid misguided emotions that stem from our tribal nature, and focus on the big picture.
+**It is not that effective altruists try to eliminate emotions, but rather they are passionate about helping in a rational way** [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md) [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md). Rational inquiry helps us avoid misguided emotions that stem from our tribal nature, and focus on the big picture.
 
 :::note[One Among Many]
 
@@ -191,7 +205,7 @@ This rule of rationality is hard to implement, since our emotions are always inv
 
 #### Altruism and Happiness
 Altruism is not about sacrificing something for the greater good because:
-1. **Giving makes us happy** - spending money on ourselves usually leads to the [Hedonic Treadmill](/notes/hedonic-treadmill.md), where increases in earning doesn't lead to more happiness. In contrasts, giving to others has proven to be beneficial to our wellbeing
+1. **Giving makes us happy** - spending money on ourselves usually leads to the [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md), where increases in earning doesn't lead to more happiness. In contrasts, giving to others has proven to be beneficial to our wellbeing
 2. **Giving is in their interests** - altruists don't "give up" on their interests because the wellbeing of others is part of their interests. It is not our of duty, but rather passion that drives them to help others, so overall this act improves their wellbeing and sense of fulfillment
 
 :::note[Altruism and Happiness]
@@ -209,7 +223,7 @@ Altruism is not about sacrificing something for the greater good because:
 
 #### Domestic or Global
 
-There are two main reasons why donating globally is preferred than donating locally [Inequality](/notes/inequality.md):
+There are two main reasons why donating globally is preferred than donating locally [Inequality is a normative problem caused by unjust distribution of resources and rights](/notes/inequality-is-a-normative-problem-caused-by-unjust-distribution-of-resources-and-rights.md):
 1. **They are worse off** - global poverty is much more severe than local poverty in developed countries
 2. **It's cheaper to help** - the cost effectiveness of helping the global poor is on a completely different scale, so if you can help 10,100,1000 times more if you donate the same amount to global rather than local poverty, why shouldn't you?
 
@@ -244,7 +258,7 @@ This is regardless of the fact that the animal industry is one of the biggest co
 
 #### Choosing the Best Organization
 
-A common method of testing an organization efficiency is to use random control trails [Testing](/notes/testing.md), which compare an exposed group to a control group with similar attributes except for the intervention.
+A common method of testing an organization efficiency is to use random control trails [Experimentation is the only reliable way to improve and discover truth](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md), which compare an exposed group to a control group with similar attributes except for the intervention.
 It is better to use external estimators since they are less susceptible to corruption and bias
 
 #### Preventing Human Extinction

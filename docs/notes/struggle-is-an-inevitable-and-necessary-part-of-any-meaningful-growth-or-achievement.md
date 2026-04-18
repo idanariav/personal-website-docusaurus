@@ -1,13 +1,13 @@
 ---
 UUID: 20230708071408
 Created: '2023-07-08 07:14'
-Modified: '2026-04-08 13:48'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Struggle
   - Challenge
@@ -20,6 +20,10 @@ Description: >-
   paralyze us with fear or serve as vital opportunities for growth and
   self-discovery.
 new_schema: true
+Topic:
+  - '[[Growth Through Adversity]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -64,9 +68,3 @@ The way to convert trauma into growth:
 ## Visual
 
 ![Struggle](/notes/struggle.webp)
-
-## Overview
-🔼Topic:: [Growth Through Adversity](/notes/growth-through-adversity.md)
-◀Origin::
-🔗Link::
-

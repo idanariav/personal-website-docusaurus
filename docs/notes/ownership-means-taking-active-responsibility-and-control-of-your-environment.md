@@ -1,13 +1,13 @@
 ---
 UUID: 20240511080713
 Created: '2024-05-11 08:07'
-Modified: '2026-04-08 17:07'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Ownership
   - Personalization
@@ -16,6 +16,10 @@ Description: >-
   environment or tasks, fostering empowerment and connection, particularly in a
   workplace context.
 new_schema: true
+Topic:
+  - '[[Proactive Agency and Accountability]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,9 +60,3 @@ Ownership can only be given in cases without [Micro-management restricts autonom
 ## Visual
 
 ![Ownership](/notes/ownership.webp)
-
-## Overview
-🔼Topic:: [Proactive Agency and Accountability](/notes/proactive-agency-and-accountability.md)
-↩️Origin::
-🔗Link::
-

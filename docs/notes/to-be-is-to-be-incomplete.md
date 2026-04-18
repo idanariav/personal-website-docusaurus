@@ -1,19 +1,23 @@
 ---
 UUID: 20240709080217
 Created: '2024-07-09 08:02'
-Modified: '2026-04-10 06:27'
+Modified: '2026-04-11 22:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases: []
 Description: >-
   A philosophical concept emphasizing that individuals are perpetually evolving
   and never fully complete, highlighting the importance of embracing the journey
   and accepting inherent limitations.
 new_schema: true
+Topic:
+  - '[[Growth Through Adversity]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -48,9 +52,3 @@ Therefore we should [Focusing on process and consistency yields better results t
 ## Visual
 
 ![To be is to be incomplete](/notes/to-be-is-to-be-incomplete.webp)
-
-## Overview
-🔼Topic:: [Growth Through Adversity](/notes/growth-through-adversity.md)
-↩️Origin::
-🔗Link::
-

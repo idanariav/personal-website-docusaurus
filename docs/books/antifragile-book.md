@@ -1,16 +1,16 @@
 ---
 UUID: 20220703183415
 Created: '2022-07-03 18:34'
-Modified: 2022-07-03T18:34:00.000Z
+Modified: '2026-04-13 06:11'
 tags: []
 Author:
   - '[[Nassim Taleb]]'
 Genre: Business & Economics
 Stored: Kindle
-ReadingStatus: Read
+ReadingStatus: Done
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 426
 Rate: 2
 PublishDate: 2012-11-27T00:00:00.000Z
@@ -19,6 +19,19 @@ Cover: >-
   http://books.google.com/books/content?id=5fqbz_qGi0AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/33279884-antifragile'
 aliases: null
+Description: >-
+  Anti-fragile systems are those which not only can withstand crises and
+  randomness, but also benefit from it. To create an anti-fragile system, we
+  need to allow for small, continuous bursts of randomness and be open to the
+  positive effects of drastic changes. We should also keep in mind that
+  real-world experience is key, not just theoretical analysis.
+FullTitle: Antifragile - Things That Gain from Disorder
+StartDate: 2022-05-07T00:00:00.000Z
+ASIN: B0083DJWGO
+Reread: 0
+Topic:
+  - '[[We prefer avoiding losses over gaining equivalent value]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -31,8 +44,7 @@ SiteProcssed: true
 
 ## Note-Making
 
-down:: [Anti-Fragility](/notes/anti-fragility.md)
-🔼Topic:: [Risk Management](/notes/risk-management.md)
+down:: [Some systems grow stronger through disorder](/notes/some-systems-grow-stronger-through-disorder.md)
 
 ### Clarify
 
@@ -41,8 +53,20 @@ down:: [Anti-Fragility](/notes/anti-fragility.md)
 If your life is not built to withstand disasters you are in a problem. Black swans will always happen. Prevent bad randomness from affecting you, and be open to positive randomness.
 
 ### Relate
+⛓ *by following this method, what will happen? What is the goal of this book?*
 
-💭 How does this topic relate to my life?
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Measure system fragility regularly** - assess and track indicators of fragility in your projects, organization, or habits to spot vulnerabilities before crises occur.
+2. **Build redundancy and overcompensate** - create deliberate spare capacity (time, resources, inventory, skills) beyond immediate needs as an investment against shocks.
+3. **Introduce small, intermittent stressors** - expose yourself, teams, or systems to controlled, low-dose challenges (training, short experiments, variable workloads) and allow recovery to strengthen resilience.
+4. **Avoid naive interventions; wait when nonfatal** - practice deliberate nonaction for noncritical problems (delay medical visits or fixes when not serious, ignore noisy short-term data) to let natural adaptation occur.
+5. **Apply a barbell risk strategy** - split exposure into very safe (large portion) and very speculative (small portion) bets instead of concentrating on medium-risk options.
+6. **Increase optionality through cheap experiments** - run many small, low-cost trials that preserve upside and let you exploit favorable outcomes while discarding failures quickly.
+7. **Clip downside risks and protect from extreme harm** - proactively identify and shield against catastrophic failures while tolerating small failures that produce information.
+8. **Favor small, decoupled units and local feedback** - structure work, governance, or teams into smaller independent units so local variability provides faster information and adaptation.
+9. **Prioritize practical, autodidactic learning over classroom theory** - cultivate hands-on skills and learn by doing; change approaches based on practice rather than relying solely on abstract models.
+10. **Remove harmful elements (via negativa)** - regularly eliminate practices, rules, or components that cause the most harm or cost (identify the 20% causing 80% of problems) instead of only adding new features.
 
 ### Critique
 
@@ -69,7 +93,7 @@ Prepare for the worst, instead of hoping that a crisis will never show
 
 Treatment by reducing. For example to stop smoking would be the best treatment instead of any chemotherapy.
 
-## 📒 Notes
+## Notes
 
 ### Summary
 how to be anti fragile:
@@ -102,7 +126,7 @@ In our society we see a lot of fragile companies, and even a movement to only ma
 
 While we can't predict which and when a crisis will happen, we can measure the fragility level of the system.
 
-In nature we see antifragile systems which constantly change, but are stable in the long run ([Creative Destruction](/notes/creative-destruction.md)). Today's economy is experiencing a market failure by doing a top-down management which enforces the actors to "go along" without letting anti fragile system to emerge. Like trying to control prices instead of letting prices fluctuate, which will provide useful current information to all the players.
+In nature we see antifragile systems which constantly change, but are stable in the long run ([Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)). Today's economy is experiencing a market failure by doing a top-down management which enforces the actors to "go along" without letting anti fragile system to emerge. Like trying to control prices instead of letting prices fluctuate, which will provide useful current information to all the players.
 
 An example of anti-fragility:
 1. Fragile - Democlisus sword, the power of a king, but when that sword goes down he will die
@@ -119,7 +143,7 @@ An example of anti-fragility:
 
 ### Chapter 2 - Over-compensation
 
-Our body and nature knows how to over compensate, meaning prepare for the worst. For example, working out improves our health by over compensating. When we are introduced with stress, our body is getting used to ever higher levels of stress. [Emotional Resilience](/notes/emotional-resilience.md)
+Our body and nature knows how to over compensate, meaning prepare for the worst. For example, working out improves our health by over compensating. When we are introduced with stress, our body is getting used to ever higher levels of stress. [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md)
 
 **Over compensation is not an insurance policy as it is an investment**. For example, if we store flour more than we need to, then in times of crisis we can sell high.
 
@@ -127,7 +151,7 @@ Our body and nature knows how to over compensate, meaning prepare for the worst.
 
 Nowadays our economy is the opposite of over compensating, we are based on debt, meaning much more prepared for a worse situation when it will come, and it will.
 
-Information and reputation are also anti-fragile. The more we try to control them, the worse the situation will be. Like suppressing protests or trying to control your thoughts. The act of control creates an amplified response such that the final situation is worse than doing nothing. [Life as Flow](/notes/life-as-flow.md).
+Information and reputation are also anti-fragile. The more we try to control them, the worse the situation will be. Like suppressing protests or trying to control your thoughts. The act of control creates an amplified response such that the final situation is worse than doing nothing. [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md).
 
 :::note[Overcompensation and Overreaction Everywhere]
 
@@ -146,7 +170,7 @@ Organic systems are usually anti-fragile, while engineered ones are. For example
 
 As biological creatures, pressure improves us, like a workout. Its important that the pressure will come in small doses, and not a too high fixed amount, otherwise we will crash.
 
-As humans, we evolve thanks to pressure and randomness. Like learning a language is easier when I have no other choice but to speak it. **Modern comfort and the will to reduce risk is like mental death.** We don't only evolve due to randomness, we also enjoy it more, we look for the new, the different, the surprising. If everything was known in advance, we would always be depressed. [Hedonic Treadmill](/notes/hedonic-treadmill.md)
+As humans, we evolve thanks to pressure and randomness. Like learning a language is easier when I have no other choice but to speak it. **Modern comfort and the will to reduce risk is like mental death.** We don't only evolve due to randomness, we also enjoy it more, we look for the new, the different, the surprising. If everything was known in advance, we would always be depressed. [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md)
 
 :::note[The Cat and the Washing Machine]
 
@@ -211,7 +235,7 @@ so:
 2. don't listen to much to the news
 3. The state should intervene as least as possible
 
-[Procrastination](/notes/procrastination.md) could be a positive sign, a type of inner signal that our mind or body doesn't think that it is good for us.
+[Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md) could be a positive sign, a type of inner signal that our mind or body doesn't think that it is good for us.
 
 :::note[Naive Intervention]
 
@@ -237,7 +261,7 @@ You can't predict the future. Its even better to let the predictors be wrong, in
 
 ### Chapter 10 - Antifragile is Good
 
-[Stoicism](/notes/stoicism.md) is an example for an anti-fragile philosophy, since we disconnect between our inner feelings and outside influences, so that no matter what happens, we continue to function (although its actually more like "immune" than anti-fragiliy.)
+[Stoicism teaches detachment from external events to maintain inner freedom](/notes/stoicism-teaches-detachment-from-external-events-to-maintain-inner-freedom.md) is an example for an anti-fragile philosophy, since we disconnect between our inner feelings and outside influences, so that no matter what happens, we continue to function (although its actually more like "immune" than anti-fragiliy.)
 
 :::note[A Nonpredictive View of the World]
 
@@ -340,7 +364,7 @@ We need to Cherise those who by trial and error lead to the best innovation of h
 
 ### Chapter 16 - Education
 
-Knowledge learned in a classroom is limited and only relevant to the [context](/notes/context.md) in which it was learned. Any attempt to implement it elsewhere is doomed to failure [Transferred Learning](/notes/transferred-learning.md).
+Knowledge learned in a classroom is limited and only relevant to the [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md) in which it was learned. Any attempt to implement it elsewhere is doomed to failure [Knowledge applied across contexts enables learning generalization](/notes/knowledge-applied-across-contexts-enables-learning-generalization.md).
 
 be auto-deduct and focus on practical knowledge.
 
@@ -385,7 +409,7 @@ Size matters, the bigger you are the more fragile you become. we as humans or so
 negative knowledge (what doesn't work) is more anti-fragile than positive knowledge (what works). one observation is enough to disprove something, in contrast with the 1000 observation you need to prove it.
 also, since reality is rapidly changing, what works today might not work tomorrow, but usually what doesn't work stays that way.
 
-as a general rule, [Addition by subtraction](/notes/addition-by-subtraction.md), or "less is more", or [Pareto Principle](/notes/pareto-principle.md). Identify the 20% which makes 80% of the cost/harm and try to reduce those, instead of focusing on growth engines.
+as a general rule, [Improvement often comes from removing rather than adding](/notes/improvement-often-comes-from-removing-rather-than-adding.md), or "less is more", or [Most benefits come from a small proportion of inputs](/notes/most-benefits-come-from-a-small-proportion-of-inputs.md). Identify the 20% which makes 80% of the cost/harm and try to reduce those, instead of focusing on growth engines.
 
 :::note[Via Negativa]
 
@@ -397,7 +421,7 @@ as a general rule, [Addition by subtraction](/notes/addition-by-subtraction.md),
 
 ### Chapter 20 - Irrational Vs Rational
 
-we have a misguided view about the future, we tend to prefer the new over the old, but the truth is that usually the opposite is true, the old is better. the [Lindy Effect](/notes/lindy-effect.md), what has survived so far is also what's likely to survive in the future. Today's kitchen is similar to ancient times, we still transport ourselves using wheels, and clothing is generally the same. Its the new technologies that are rapidly replaced, like start-ups, and its unclear whether those are what brings us value.
+we have a misguided view about the future, we tend to prefer the new over the old, but the truth is that usually the opposite is true, the old is better. the [The longer something has lasted the longer it will last](/notes/the-longer-something-has-lasted-the-longer-it-will-last.md), what has survived so far is also what's likely to survive in the future. Today's kitchen is similar to ancient times, we still transport ourselves using wheels, and clothing is generally the same. Its the new technologies that are rapidly replaced, like start-ups, and its unclear whether those are what brings us value.
 
 **Time is the best filter for the anti-fragile, since only those will stand the test of time**
 

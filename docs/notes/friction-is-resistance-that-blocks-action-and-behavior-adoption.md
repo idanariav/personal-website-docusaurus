@@ -1,13 +1,13 @@
 ---
 UUID: 20230328192058
 Created: '2023-03-28 19:20'
-Modified: '2026-04-04 11:00'
+Modified: '2026-04-11 22:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Friction
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   actions, often leading individuals to favor easier, default choices over more
   challenging ones.
 new_schema: true
+Topic:
+  - '[[Habit Mechanics]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,9 +60,3 @@ This idea goes against the idea that a [Challenge](/notes/struggle-is-an-inevita
 ## Visual
 
 ![Friction](/notes/friction.webp)
-
-## Overview
-🔼Topic:: [Habit Mechanics](/notes/habit-mechanics.md)
-◀Origin::
-🔗Link::
-

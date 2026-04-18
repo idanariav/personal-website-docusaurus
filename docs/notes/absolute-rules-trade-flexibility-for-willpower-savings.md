@@ -1,12 +1,12 @@
 ---
 UUID: 20250606084114
 Created: '2025-06-06 08:41'
-Modified: '2026-04-08 13:59'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Absolute rules trade flexibility for willpower savings.png]]'
 ImageText: A dimmer and a switch side by side
 Description: >-
@@ -17,6 +17,10 @@ aliases:
   - Rigid rules
   - Creed
 new_schema: true
+Topic:
+  - '[[Self-Regulation and Change]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,10 +54,3 @@ The downside of rigid rules is that once broken, they usually lead to the [Break
 ## Visual
 
 ![Absolute rules trade flexibility for willpower savings](/notes/absolute-rules-trade-flexibility-for-willpower-savings.webp)
-
-## Overview
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-↩️Origin::
-🔗Link::
-
-==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'

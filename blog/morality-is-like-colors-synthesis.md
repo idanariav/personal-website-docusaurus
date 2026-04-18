@@ -25,7 +25,7 @@ Just like all colors stem from a few primary shades, our wildly different moral 
 
 ![morality_like_colors.webp](/posts/morality_like_colors.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Introduction
 

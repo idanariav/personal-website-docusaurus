@@ -25,7 +25,7 @@ We often try to change habits or traits, only to feel stuck, like something deep
 
 ![are_we_capable_of_change.webp](/posts/are_we_capable_of_change.webp)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Introduction
 

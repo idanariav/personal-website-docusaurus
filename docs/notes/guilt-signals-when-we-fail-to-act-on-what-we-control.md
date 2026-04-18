@@ -1,13 +1,13 @@
 ---
 UUID: 20220715053856
 Created: '2022-07-15 05:38'
-Modified: '2026-04-04 10:59'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Guilt
   - Shame
@@ -16,6 +16,11 @@ Description: >-
   imagined harm, influenced by subjective judgments and societal expectations,
   often leading to shame and self-criticism.
 new_schema: true
+Topic:
+  - '[[Emotions as Signals]]'
+Origin: '[[The Happiness Lab with Dr. Laurie Santos]]'
+URL: >-
+  https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/39E17/traffic.megaphone.fm/HSW3326477518.mp3?updated=1643918660 
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +59,3 @@ Additionally, the more we care about our [Ego](/notes/distinguishing-appearance-
 ## Visual
 
 ![Guilt](/notes/guilt.webp)
-
-## Overview
-🔼Topic:: [Emotions as Signals](/notes/emotions-as-signals.md)
-◀Origin:: [The Happiness Lab with Dr. Laurie Santos](null)
-🔗Link:: [Source](https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/39E17/traffic.megaphone.fm/HSW3326477518.mp3?updated=1643918660 )
-

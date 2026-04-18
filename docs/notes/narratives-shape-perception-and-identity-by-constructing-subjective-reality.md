@@ -1,13 +1,13 @@
 ---
 UUID: 20230930163407
 Created: '2023-09-30 16:34'
-Modified: '2026-04-01 14:45'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Narratives
   - Narrative
@@ -16,6 +16,10 @@ Description: >-
   experiences, shaping perceptions of reality, identity, and truth, often
   requiring reevaluation during moments of significant change or crisis.
 new_schema: true
+Topic:
+  - '[[Identity Formation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,9 +57,3 @@ This is the true power of words, of stories [speech acts](/notes/speech-acts.md)
 ## Visual
 
 ![Narratives](/notes/narratives.webp)
-
-## Overview
-🔼Topic:: [Identity Formation](/notes/identity-formation.md)
-Origin::
-🔗Link::
-

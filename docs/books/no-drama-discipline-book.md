@@ -1,20 +1,24 @@
 ---
 UUID: 20240331173303
 Created: '2024-03-31 17:33'
-Modified: '2024-09-15 05:36'
+Modified: '2026-04-13 06:16'
 tags: []
 Author:
   - '[[Daniel J. Siegel]]'
   - '[[Tina Payne Bryson]]'
 Genre: Family & Relationships
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 2
 Pages: 289
 Rate: 3
 PublishDate: 2014-09-23T00:00:00.000Z
@@ -22,7 +26,23 @@ FinishDate: 2024-09-15T00:00:00.000Z
 Cover: >-
   http://books.google.com/books/content?id=JDNcAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/40873423-no-drama-discipline'
-aliases: null
+Description: >-
+  It argues that discipline should focus on teaching skills like empathy and
+  decision-making through experiential learning. Development requires patience
+  and connection, emphasizing emotional validation before lessons. Engaging the
+  upper brain fosters complex reasoning and mindfulness, guiding individuals to
+  understand emotions and develop better behaviors.
+FullTitle: >-
+  No-Drama Discipline - The Whole-Brain Way to Calm the Chaos and Nurture Your
+  Child's Developing Mind
+StartDate: 2024-09-02T00:00:00.000Z
+ASIN: B00JCS4NMC
+Reread: 0
+Topic:
+  - '[[parental rules]]'
+  - '[[developing capabilities]]'
+Origin: null
+draft: false
 SiteProcssed: true
 ---
 
@@ -30,11 +50,7 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [parental rules](/notes/parental-rules.md)
-🔼Topic:: [developing capabilities](/notes/developing-capabilities.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Discipline is about teaching** - when we discipline, the goal should be to develop the skills necessary to make future cases less likely, by helping them learn empathy, delay gratification, emotional resilience and good decision making.
 2. **Learn through experiences** - no amount of lecturing or random punishments can teach them to be better. People (and children) learn through experience (and consequences). It is when they feel guilt over their actions, when they notice how others feel, and when they attempt at repair, that they are able to internalize and do better next time.
@@ -42,12 +58,26 @@ SiteProcssed: true
 4. **Connection first** - no "lesson" can be learned while the emotions are running high. To help them go from reactive to receptive, we need first to connect with them, to validate their emotions, to embrace them, not to lecture, belittle or gaslight them and especially not to lash out at them. A warm "I know you're hurt buddy" and a hug is a good place to start.
 5. **Engage their upper brain** - Once we have calmed them down, we shouldn't settle for solving the immediate crisis, but rather use the opportunity to help them develop important skills. This is done through "redirecting", through engaging their upper brain, the part capable of empathy, of complex reasoning and mindfulness. By asking them open ended questions, by directing them towards understanding how they and others feel, through asking them to come up with solutions to act better next time, we help them develop a capable mind.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 1. **Happy, resilient, capable kids** - A child that has a developed "upper brain", that is more integrated, mindful and empathic is a child that is much more capable of facing the challenges that are waiting for them as ground ups, and will not only overcome but by able to do so happily.
 2. **More cooperation and less misbehavior in the long run** - Having a discipline method that is focused on developing necessary skills is beneficial in the long run, since it reduces the chance for misbehavior because they child is better at self regulating, but also in the short run we are more likely to elicit cooperation from the child.
-### 🔍Critique
+
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Connect first (comfort)** - approach your child calmly (eye level, gentle touch or hug) to soothe them before addressing behavior.
+2. **Validate feelings** - acknowledge and name your child's emotions (e.g., “You must be really sad”) to show you understand without endorsing the behavior.
+3. **Listen more, talk less** - practice active listening to discover the subtext of their upset instead of lecturing or correcting.
+4. **Reflect back** - summarize what you heard (without putting ideas into their mouth) to confirm understanding and build trust.
+5. **Pause and ask three questions** - before reacting, stop and ask: Why did they act that way? What skill do I want to teach? How should I deliver this given their development and context?
+6. **Be proactive: check HALT (Hungry, Angry, Lonely, Tired)** - look for and address these triggers to prevent tantrums (give a snack, rest, attention, etc.).
+7. **Wait until ready to redirect** - delay teaching or consequences until the child is calm and receptive so learning can occur.
+8. **Involve the child in solutions** - invite them to suggest fixes or compromises to increase ownership and long-term internalization.
+9. **Reframe “no” into a conditional yes** - offer “yes, if/yes, when” alternatives (e.g., “We can later if…”) to maintain boundaries while engaging their upstairs brain.
+10. **Use concise, descriptive language and teach mindsight** - reduce words, describe what’s happening neutrally (don’t preach), and encourage them to observe their feelings so they can learn self-awareness and self-control.
+
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **Why what how questions** - before reacting, ask yourself "why is my child acting this way", "what do I want to teach them", and "how can I deliver the right message"
@@ -60,24 +90,24 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book is a deep dive on the technical parts of the [The Whole-Brain Child (book)](/books/the-whole-brain-child-book.md), but it offers less depth than expected. While there are some more practical ideas, it is highly repetitive and didn't have enough content for a whole book.
 
 As always, I do like the drawings, the cheat sheets, they are a helpful reminder.
-### 🖼️Outline
+### Outline
 
-![No-Drama Discipline (book).webp](/books/no-drama-discipline-book.webp)
+![No-Drama Discipline (book)](/books/no-drama-discipline-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Relational Low Drama Discipline
 **encouraging cooperation while building a child's brain**
 
-When we discipline our children, the goal is always to inform and direct, never to punish. On the short term, we wish to enlist [cooperation](/notes/cooperation.md), to either stop a bad behavior or encourage a good one. On the long term, we wish to develop skills to help them make better decisions by themselves later in life, to help them become capable adults.
+When we discipline our children, the goal is always to inform and direct, never to punish. On the short term, we wish to enlist [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md), to either stop a bad behavior or encourage a good one. On the long term, we wish to develop skills to help them make better decisions by themselves later in life, to help them become capable adults.
 
-The key is that we can do all this, have a "no drama" discipline, one that is supportive yet still has boundaries in a way that promotes development using the *whole brain approach*. We can implement that using the *connect and redirect* approach. By connecting we mean that we [Respect](/notes/validation.md) them enough to truly [listen](/notes/active-listening.md) to them, to be there for them no matter what they did or said, even if we don't agree with it. However it shouldn't end here, otherwise we get permissiveness, which is counterproductive to a child's development. Their development comes with the added "direct", which is to present to them the clear boundaries and limits we pose that will help them understand how the world works, and what are the consequences of their actions. That's why punishment is often counterproductive as well, because it is aimed at causing pain, and unrelated to the "offence" they did. However, redirection doesn't work while there are experiencing [emotional hijacking](/notes/emotional-hijacking.md), first we need to help them deal with their emotions, and only after we can direct them towards a better solution. The connect and redirect addresses their mind as a whole, therefore promoting using their whole brain, making more internal connections, and allowing for [Self-control](/notes/self-control.md) [empathy](/notes/empathy.md), and [emotional resilience](/notes/emotional-resilience.md)
+The key is that we can do all this, have a "no drama" discipline, one that is supportive yet still has boundaries in a way that promotes development using the *whole brain approach*. We can implement that using the *connect and redirect* approach. By connecting we mean that we [Respect](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md) them enough to truly [listen](/notes/listening-well-requires-active-effort-to-understand.md) to them, to be there for them no matter what they did or said, even if we don't agree with it. However it shouldn't end here, otherwise we get permissiveness, which is counterproductive to a child's development. Their development comes with the added "direct", which is to present to them the clear boundaries and limits we pose that will help them understand how the world works, and what are the consequences of their actions. That's why punishment is often counterproductive as well, because it is aimed at causing pain, and unrelated to the "offence" they did. However, redirection doesn't work while there are experiencing [Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md), first we need to help them deal with their emotions, and only after we can direct them towards a better solution. The connect and redirect addresses their mind as a whole, therefore promoting using their whole brain, making more internal connections, and allowing for [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md), and [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md)
 
 :::note[Relational, Low-Drama Discipline:]
 
@@ -95,20 +125,20 @@ The key is that we can do all this, have a "no drama" discipline, one that is su
 
 ### Rethinking Discipline
 
-We should try to avoid [reacting](/notes/reactance.md) to our child's misbehavior. Especially when we are tired and stress our [default](/notes/defaults.md) response would be less than ideal. We need to [Pause](/notes/rest.md) and ask ourselves three questions:
+We should try to avoid [reacting](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) to our child's misbehavior. Especially when we are tired and stress our [default](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) response would be less than ideal. We need to [Pause](/notes/rest-enables-recovery-and-sustained-performance.md) and ask ourselves three questions:
 1. **Why** - why did they act that way? What is causing it? What is their goal?
 2. **What** - what do I want to teach them, what skills are relevant in this situation?
 3. **How** - how will I deliver this message considering the situation and the child's development level.
 
 It's not easy to stop and ask ourselves these questions, but they will guide us towards a better response that will give us better results in the short and long term.
 
-Note that what works now won't necessarily work on a different kid, nor on the same kid in a different time or context, so [adaptability](/notes/adaptability.md) is key.
+Note that what works now won't necessarily work on a different kid, nor on the same kid in a different time or context, so [Our beliefs must adapt as context and goals change](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md) is key.
 
 We also have to remember the difference between *cant* and *wont*. Young children are bad at regulating their emotions (even we have a hard time to act stoically when hungry or tired), so their outbursts are because they can't handle their emotions, not because they choose to.
 
 Spanking is never a good strategy because it damages the trust between the child and the caregiver, it puts them in a "fight or flight" response instead of activating their *upstairs brain* which is what helps them develop the necessary skills, and works as an external motivation (how can I avoid this punishment) instead of internal motivation (how can I learn to self regulate)
 
-Time outs have a similar drawback. They send of message of "i can only be with you when you are happy", and we miss an opportunity to [Repair](/notes/apology.md). It is only through experiences that we can help them develop a mind capable of making good decisions, and time outs rarely allow us to do that. They are more a form of punishment than educational.
+Time outs have a similar drawback. They send of message of "i can only be with you when you are happy", and we miss an opportunity to [Repair](/notes/a-true-apology-includes-intent-to-repair.md). It is only through experiences that we can help them develop a mind capable of making good decisions, and time outs rarely allow us to do that. They are more a form of punishment than educational.
 
 :::note[ReTHINKING Discipline]
 
@@ -124,8 +154,8 @@ Time outs have a similar drawback. They send of message of "i can only be with y
 A few important facts about brain development that will help us approach our kids with more compassion and understanding:
 
 1. **Development takes time** - the *upstairs brain*, the part in charge of all the higher order thinking like critical thinking, decision making, empathy, is all still understand construction and won't be fully developed until the twenties. It isn't an excuse for bad behavior, but it is a reason for it, and that's why they need our help on this journey.
-2. **The brain is changeable** - not only it develops with time, it is also develops with experience [neuroplasticity](/notes/neuroplasticity.md), meaning that what we expose them to, how we interact with them and how they process the events will significantly alter their brain. *Neurons that fire together are wired together*. Like piano lessons that improve hand coordination. It's not that we wish for them to avoid challenges and hardships, but we do need to help them process it to switch it from potential trauma to a learning experience.
-3. **Engage, don't enrage** - the more we approach the situation with ultimatums and threats, the more we enrage the "downstairs" brain, and the reactions will be accordingly. These are the "fight or flight" type of responses, the simplistic, often aggressive sort of solutions the amygdala can offer. Instead, if we calm down the downstairs brain by connecting, and then engaging with the upstairs brain, we can get much more calm, compassionate and moral responses. It's important to remember that upstairs and downstairs modes of thinking are [Mutually Exclusive](/notes/crowding-out.md), so the more we engage with the upstairs, the less rageful responses we would get, and in turn the upstairs brain will develop much faster [learning by doing](/notes/learning-by-doing.md).
+2. **The brain is changeable** - not only it develops with time, it is also develops with experience [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md), meaning that what we expose them to, how we interact with them and how they process the events will significantly alter their brain. *Neurons that fire together are wired together*. Like piano lessons that improve hand coordination. It's not that we wish for them to avoid challenges and hardships, but we do need to help them process it to switch it from potential trauma to a learning experience.
+3. **Engage, don't enrage** - the more we approach the situation with ultimatums and threats, the more we enrage the "downstairs" brain, and the reactions will be accordingly. These are the "fight or flight" type of responses, the simplistic, often aggressive sort of solutions the amygdala can offer. Instead, if we calm down the downstairs brain by connecting, and then engaging with the upstairs brain, we can get much more calm, compassionate and moral responses. It's important to remember that upstairs and downstairs modes of thinking are [Mutually Exclusive](/notes/one-activity-displaces-another-when-pursued-excessively.md), so the more we engage with the upstairs, the less rageful responses we would get, and in turn the upstairs brain will develop much faster [Active engagement with material accelerates learning](/notes/active-engagement-with-material-accelerates-learning.md).
 
 Therefore no-drama discipline is more than just a discipline tool, it is a way to develop their brain. By connecting with them and engaging their upstairs brain, we help them develop the skills that we all wish to see in our children, the ability to be empathic, moral, to have self control and make good decisions. It is not easy, and it is certainly not our default response to tough situations. It's feels "easier" to just say no, or to immediately give in, but what is really easier in the long run is to do both simultaneously. Have the "softness" of understanding where they are coming from, and the compassion to find a way to say "yes" to their request, while having the boundaries they need to learn those skills. So a "no" could be converted to a "yes, if" or "yes when" "but not right now"
 
@@ -145,7 +175,7 @@ Therefore no-drama discipline is more than just a discipline tool, it is a way t
 
 ### From Tantrum to Tranquility: Connection is the Key
 
-First, the more we can be [proactive](/notes/proactiveness.md) about discipline, the fewer meltdowns we will have. We can sometimes notice signals of an incoming tantrum, and stop it before it escalates. It's useful to ask yourself, "is my kid":
+First, the more we can be [proactive](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md) about discipline, the fewer meltdowns we will have. We can sometimes notice signals of an incoming tantrum, and stop it before it escalates. It's useful to ask yourself, "is my kid":
 1. Hungry
 2. Angry
 3. Lonely
@@ -163,8 +193,8 @@ Ignoring tantrums is a bad strategy because it's precisely in those moments that
 Note that connecting with our child, even at their "worst" is not spoiling them. Showing them love and care, letting them know that we can take care of their needs builds connection, confidence and reduces stress. "Spoiling" happens when it's not about having their needs met, but rather answering to their every whim immediately. And it gets worse when we answer their wants instead of their needs. For example if we buy too much presents instead of spending quality time together. We need the clarity to distinguish between wants and needs.
 
 Things we should not "spare" our children from (that can make them spoiled):
-1. **Limiting presents** - kids should learn to [Delay Gratification](/notes/patience.md), and that happens only when they don't get everything they won't immediately
-2. **Facing challenges** - [Dont Jump to the Rescue](/notes/dont-jump-to-the-rescue.md), it is through these difficulties moments that our child builds it skills and character, although this doesn't mean we won't be there to help them get through the experience, but we won't help them avoid it
+1. **Limiting presents** - kids should learn to [Delay Gratification](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md), and that happens only when they don't get everything they won't immediately
+2. **Facing challenges** - [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md), it is through these difficulties moments that our child builds it skills and character, although this doesn't mean we won't be there to help them get through the experience, but we won't help them avoid it
 3. **Limits and boundaries** - connection could and should be combined with boundaries. Once we established connection, it is through the *redirect* that we can teach them valuable lessons. To let them let loose without doing anything is harmful for their development
 
 :::note[From Tantrum to Tranquility: Connection Is the Key]
@@ -188,13 +218,13 @@ Things we should not "spare" our children from (that can make them spoiled):
 We all want to jump quickly to the redirect part, but as we've seen, we first have to connect. Connection requires flexibility since it is deeply dependent on the circumstances and how they interact with our child right now. This requires us to pause before we react, because the best reaction is hardly the first that comes to our mind.
 
 Some techniques to be more flexible:
-1. **Stop the shark music** - when it comes to our children, we tend to over dramatize the consequences of this situation. One bad report grade and we're already thinking about how their future is in danger. This is a form of [Judgment](/notes/judgment.md) driven by [fear](/notes/fear.md). Our default is to add "shark music" as a soundtrack to our interactions that paints every scene as a horror movie. The only way to reduce it's effect is to be [mindful](/notes/intentionality.md) of the present moment, no thoughts about anything else. Focus on how they feel right now, what is actually happening and how can you react in a calm, clear headed way.
-2. **Chase the why** - don't be quick to make assumptions. Be [curious](/notes/curiosity.md) as to what really happened and why. You'll be surprised how often our initial assumptions are wrong. Also, when we are quick to assume we distort the reality to match our assumptions, rather than the other way around. [subjective reality](/notes/subjective-reality.md). When we are curious as default, we can gain valuable information on what really happened and why, which can help us a form a much better and effective response.
+1. **Stop the shark music** - when it comes to our children, we tend to over dramatize the consequences of this situation. One bad report grade and we're already thinking about how their future is in danger. This is a form of [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) driven by [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md). Our default is to add "shark music" as a soundtrack to our interactions that paints every scene as a horror movie. The only way to reduce it's effect is to be [mindful](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) of the present moment, no thoughts about anything else. Focus on how they feel right now, what is actually happening and how can you react in a calm, clear headed way.
+2. **Chase the why** - don't be quick to make assumptions. Be [curious](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md) as to what really happened and why. You'll be surprised how often our initial assumptions are wrong. Also, when we are quick to assume we distort the reality to match our assumptions, rather than the other way around. [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md). When we are curious as default, we can gain valuable information on what really happened and why, which can help us a form a much better and effective response.
 3. **Think about the how** - the tone, body language and general way we interact with them matters, not just what we say. A calm, compassionate response will often fair much better than a stressed angry response
 
 A good framework for connection can include these four steps:
 1. ****Communicate comfort**** - first we need to help them clam down, and to signal that we are not there to threaten but rather support them. (We are not your rival, we will help you get through this). Going down to their eye level (or below), adding a gentle touch, a hug, or any expression of love and car e is very effective.
-2. **Validate** - It's all about validation, to recognize, empathize, and [resonate](/notes/resonance.md) with them. To acknowledge their feelings instead of [Gaslighting](/notes/gaslighting.md) them or shutting them down. To say things like "I know it hurts" or "You must be really sad". To send a message that we will be with them no matter what, even if we don't agree with their choices, that we can handle their emotions and that we understand them.
+2. **Validate** - It's all about validation, to recognize, empathize, and [resonate](/notes/resonance-is-being-in-sync-with-reality-and-others.md) with them. To acknowledge their feelings instead of [Dismissing someone's experience erodes their reality](/notes/dismissing-someones-experience-erodes-their-reality.md) them or shutting them down. To say things like "I know it hurts" or "You must be really sad". To send a message that we will be with them no matter what, even if we don't agree with their choices, that we can handle their emotions and that we understand them.
 3. **Listen** - talk less, listen more. When feelings are high, it's not a time for a lecture, or to try and "correct" her world view. It's time to focus on the subtext behind what they're saying or expressing, to really get them.
 4. **Reflect** - once we understood what they are going through, we need to reflect it back to them to show that we understand, like "I know you really wanted to go to the party, it feels really bed to be left out". Be careful to not "put ideas" in their head. Like saying "you must really hate your brother" would convert the momentary anger to a permanent state.
 
@@ -217,16 +247,16 @@ A good framework for connection can include these four steps:
 
 ### 1-2-3 Discipline: Redirecting for Today and Tomorrow
 
-Remember the discipline is all about teaching, meaning not only to solve the situation at hand, but help them develop their brains and make better choices in the future. That's the goal of "redirecting", where we shift the attention towards how others felt about their actions, what were their consequences, and what they can do better next time. It works best if we use [open ended questions](/notes/open-ended-questions.md), that triggers the child's creative thinking, instead of telling them what to do or when we forcefully guild them towards a specific decision.
+Remember the discipline is all about teaching, meaning not only to solve the situation at hand, but help them develop their brains and make better choices in the future. That's the goal of "redirecting", where we shift the attention towards how others felt about their actions, what were their consequences, and what they can do better next time. It works best if we use [Open-ended questions enable deeper understanding and meaningful dialogue](/notes/open-ended-questions-enable-deeper-understanding-and-meaningful-dialogue.md), that triggers the child's creative thinking, instead of telling them what to do or when we forcefully guild them towards a specific decision.
 
-The redirecting would often surface feelings of [guilt](/notes/guilt.md), and we should not protect or distract our child from it, this is precisely the moment of learning, where we utilize the natural reactions of the mind (to feel guilt for something "bad" you've done), to help them internalize their behavior and what to do next time. Without guidance, this feeling might be missed, it is our role to make them aware of it, and help them utilize it.
+The redirecting would often surface feelings of [Guilt signals when we fail to act on what we control](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md), and we should not protect or distract our child from it, this is precisely the moment of learning, where we utilize the natural reactions of the mind (to feel guilt for something "bad" you've done), to help them internalize their behavior and what to do next time. Without guidance, this feeling might be missed, it is our role to make them aware of it, and help them utilize it.
 
 Remember that:
 1. **Wait until ready** - There's no point in redirecting if the child is over aroused (emotions are running wild), or under aroused (tired, hungry). We have to wait until they are ready to listen and learn, which often comes after connecting.
 2. **Be consistent, yet not rigid** - It is important to be consistent with our limits, but we should always consider the context. For example, if the grandparents came for a visit, perhaps now is not the right time to stick with the homework schedule.
 
 The benefits of redirecting are:
-1. **Insights** - Aka [Self-awareness](/notes/self-awareness.md). To be mindful of one's emotional state and the ability to pause, reflect and choose how to respond.
+1. **Insights** - Aka [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md). To be mindful of one's emotional state and the ability to pause, reflect and choose how to respond.
 2. **Empathy** - They become more aware of the feelings of others, which would allow them to be more respectful and think in advance on others' reactions to their decisions.
 3. **Repair** - once we "learned the lesson", we can help them suggest a solution to the problem, while also considering what can be done now to repair the situation, for example to apologize. We shouldn't force them to apologize or to say something, this should come from them. However, we can suggest that you do it together, it is the thought that counts.
 
@@ -242,7 +272,7 @@ The benefits of redirecting are:
 ### Addressing Behavior: as Simple as R-E-D-I-R-E-C-T
 
 Strategies for better redirection:
-1. **Reduce words** - Don't overtalk, causing them to lose focus. Also when you overtalk you surround the important message with a lot of [noise](/notes/noise.md), so they might remember the unessential things, or nothing at all.
+1. **Reduce words** - Don't overtalk, causing them to lose focus. Also when you overtalk you surround the important message with a lot of [Noise obscures truth with external interference and confusion](/notes/noise-obscures-truth-with-external-interference-and-confusion.md), so they might remember the unessential things, or nothing at all.
 2. **Embrace emotions** - It's okay to experience a range of emotions, sometimes they just "happen", and that doesn't turn them into bad/good emotions. It is what we choose to do with the emotions that turns a behavior to okay/not okay. We need to validate their emotions, while also talking about healthy ways of expressing them.
 3. **Describe, don't preach** - Let go of judgment. Describe what's happening as a neutral outside observer. Instead of "you need to share the toy", say "it seems Johnny wants to play with this toy too"
 4. **Involve your child in the discipline** - Instead of telling them your idea of a solution, or force it on them, let them come up with an idea on how to solve it or do it better next time. When they are more involved, it is more likely to stick, and you'll be surprised how often they come up with better solutions.

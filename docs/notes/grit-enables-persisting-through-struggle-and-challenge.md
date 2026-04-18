@@ -1,13 +1,13 @@
 ---
 UUID: 20240102083442
 Created: '2024-01-02 08:34'
-Modified: '2026-04-08 13:49'
+Modified: '2026-04-11 22:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Grit
   - Persistance
@@ -16,6 +16,10 @@ Description: >-
   intrinsic motivation and self-control, while balancing determination with the
   need for adaptability.
 new_schema: true
+Topic:
+  - '[[Growth Through Adversity]]'
+Origin: '[[Grit (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -33,7 +37,7 @@ Grit is the ability to push on, to continue pursuing our goals no matter the [Di
 
 It means to be [persistent](/notes/consistency-compounds-results-through-reliable-repeated-action.md), to keep going without [Quitting](/notes/knowing-when-to-stop-prevents-wasted-persistence-on-misaligned-goals.md). This determination usually stems from a strong source of [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md), with the help of [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md), because we know that doing the hard things is... hard, so without any motivation to do them we will never even start in the first place.
 
-Those who have grit seems resistant to [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md) and [Distractions](/notes/distraction.md), they are unwavering in pursuing their cause, they are an immovable force. They are aware that good things take time, that the only way out is through, and they are willing to be [patient](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md) until they accomplish what they've set out to do.
+Those who have grit seems resistant to [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md) and [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md), they are unwavering in pursuing their cause, they are an immovable force. They are aware that good things take time, that the only way out is through, and they are willing to be [patient](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md) until they accomplish what they've set out to do.
 
 ### Why it matters
 
@@ -51,9 +55,3 @@ However, despite it's best intentions, sometimes having too much grit means we a
 
 ## Visual
 ![Grit](/notes/grit.webp)
-
-## Overview
-🔼Topic:: [Growth Through Adversity](/notes/growth-through-adversity.md)
-↩️Origin:: [Grit (book)](/notes/grit-book.md)
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20240409082138
 Created: '2024-04-09 08:21'
-Modified: '2026-04-02 22:44'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Optimism
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   improvement, characterized by unwavering belief in agency and cooperation,
   opposing pessimism and nostalgia.
 new_schema: true
+Topic:
+  - '[[Inner Critic and Self-Perception]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ A strong force that opposes optimism in a hidden way is [We look to the past whe
 ## Visual
 
 ![Optimism](/notes/optimism.webp)
-
-## Overview
-🔼Topic:: [Inner Critic and Self-Perception](/notes/inner-critic-and-self-perception.md)
-↩️Origin::
-🔗Link::
-

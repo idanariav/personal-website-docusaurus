@@ -1,7 +1,7 @@
 ---
 UUID: 20220822073106
 Created: '2022-08-22 07:31'
-Modified: '2024-02-15 07:31'
+Modified: '2026-04-13 06:15'
 tags: []
 FinishDate: 2022-08-21T00:00:00.000Z
 Author:
@@ -15,8 +15,8 @@ Fiction: false
 URL: >-
   https://www.goodreads.com/book/show/37880811-make-time?from_search=true&from_srp=true&qid=Tv6lw5RhXU&rank=1
 aliases: null
-Version: 1
-ReadingStatus: Read
+Version: 2
+ReadingStatus: Done
 Genre: Business & Economics
 Cover: >-
   http://books.google.com/books/content?id=eaFHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
@@ -24,27 +24,37 @@ PublishDate: 2018-09-2
 excalidraw-plugin: parsed
 excalidraw-open-md: true
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
+Description: >-
+  Between the endless distractions, and the constant need to be productive, you
+  have to remember to take care of yourself, and make time to what's important
+  to you
+FullTitle: Make Time - How to Focus on What Matters Every Day
+StartDate: 2022-08-16T00:00:00.000Z
+ASIN: B078QSCM3V
+Reread: 0
+Topic:
+  - '[[Wellbeing (Map)]]'
+  - '[[Productivity (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # make time (book)
 
-## Connect
-🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
-🔼Topic:: [Productivity (Map)](/mocs/productivity-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas* 
 between the endless distractions, and the constant need to be productive, you have to remember to take care of yourself, and make time to what's important to you
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 1. A simple guide to useful habits and wellness tactics  
@@ -56,24 +66,24 @@ perhaps too simplistic, the theory is minimal and downplayed, meant to be a guid
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 some of the tactics are worthwhile, others are very specific
 
-### 🖼️Outline
-![make time (book).webp](/books/make-time-book.webp)
+### Outline
+![make time (book)](/books/make-time-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
-Two powers are always affecting us - the "busy bandwagon" [Hustle Culture](/notes/hustle-culture.md) which is the expectation to always do more, to be more productive, but the more you do, the more you have to do.  
-The second is the infinity pool [Attention Economy](/notes/attention-economy.md), which is the endless distractions from our devices.  
-To make time we have to resist these forces, but not with will power, but with changing the defaults ([Nudge](/notes/nudge.md)), such as deleting the app from your phone. The purpose of make time is to make time to what you want to do (such as family or side projects), like the big stones in the analogy, not to have more time for those forces.  
+Two powers are always affecting us - the "busy bandwagon" [Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md) which is the expectation to always do more, to be more productive, but the more you do, the more you have to do.  
+The second is the infinity pool [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md), which is the endless distractions from our devices.  
+To make time we have to resist these forces, but not with will power, but with changing the defaults ([Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)), such as deleting the app from your phone. The purpose of make time is to make time to what you want to do (such as family or side projects), like the big stones in the analogy, not to have more time for those forces.  
   
 The key ingredients of make time:  
-1. **Daily highlight** [The One Thing (book)](/books/the-one-thing-book.md)   
+1. **Daily highlight** [focusing question](/notes/focusing-question.md)
 2. **Laser focus** on the daily highlight  
 3. **Energize** throughout the day  
 4. **Review** - review your progress
@@ -137,7 +147,7 @@ Schedule your highlight in your calendar, it will focus you. Make sure to not le
 
 
 ### Laser focus  
-in order to be focused on your highlight, you need to reduce [Distractions](/notes/procrastination.md), don't depend on will power, adjust the environment such that it will have fewer distractions to begin with, and harder for you to reach them [Environmental design](/notes/nudge.md) [Minimalism](/notes/addition-by-subtraction.md)  [Task Switching](/notes/task-switching.md)
+in order to be focused on your highlight, you need to reduce [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md), don't depend on will power, adjust the environment such that it will have fewer distractions to begin with, and harder for you to reach them [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md) [Minimalism](/notes/improvement-often-comes-from-removing-rather-than-adding.md)  [Task switching incurs cognitive costs that reduce productivity](/notes/task-switching-incurs-cognitive-costs-that-reduce-productivity.md)
 do actions such as:  
 1. delete apps from phone and disable notification  
 2. clear your home screen  
@@ -150,10 +160,10 @@ do actions such as:
 
 ### Energize  
 the brain cant function without a healthy body.  
-Take [Nature walk](/notes/nature-walk.md), eat healthier food, sleep well without screens. Take naps, do some exercises and meditate.  
+Take [Nature restores mental health and renews focus through immersive presence](/notes/nature-restores-mental-health-and-renews-focus-through-immersive-presence.md), eat healthier food, sleep well without screens. Take naps, do some exercises and meditate.  
   
 ### Reflect  
-at the end of the day, measure how was your level of energy, of focus on your highlight, did you complete it, which tactics did you try and were they helpful, and what are you grateful for [Gratitude](/notes/gratitude.md)  
+at the end of the day, measure how was your level of energy, of focus on your highlight, did you complete it, which tactics did you try and were they helpful, and what are you grateful for [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md)  
 
 
 summary:

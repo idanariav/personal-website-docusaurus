@@ -1,13 +1,13 @@
 ---
 UUID: 20250226165509
 Created: '2025-02-26 16:55'
-Modified: '2026-04-10 16:47'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Behavior reveals true preferences.png]]'
 ImageText: A person who judges another person who is eating a hamburger
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Behavioralism
 new_schema: true
+Topic:
+  - '[[Value and Meaning]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ However, it fails to account for cases of [Insight Gap](/notes/knowing-the-right
 ## Visual
 
 ![Behavior reveals true preferences](/notes/behavior-reveals-true-preferences.webp)
-
-## Overview
-🔼Topic:: [Value and Meaning](/notes/value-and-meaning.md)
-↩️Origin::
-🔗Link::
-

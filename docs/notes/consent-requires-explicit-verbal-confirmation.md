@@ -1,13 +1,13 @@
 ---
 UUID: 20240705174546
 Created: '2024-07-05 17:45'
-Modified: '2026-04-10 06:07'
+Modified: '2026-04-11 22:19'
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Consent
 Description: >-
@@ -15,6 +15,11 @@ Description: >-
   requiring freedom from coercion and the ability to refuse without fear of
   negative consequences.
 new_schema: true
+Topic:
+  - '[[Honest Communication]]'
+  - '[[Boundaries]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -44,11 +49,3 @@ Consent impowers the other side by giving them a say in the situation, they are 
 
 
 ## Visual
-
-## Overview
-🔼Topic:: [Honest Communication](/notes/honest-communication.md)
-🔼Topic:: [Boundaries](/notes/boundaries.md)
-↩️Origin::
-🔗Link::
-
-*covert to drawing shortcut: ctrl+shirt+d

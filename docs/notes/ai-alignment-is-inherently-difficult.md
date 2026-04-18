@@ -1,13 +1,13 @@
 ---
 UUID: 20221029085700
 Created: '2022-10-29 08:57'
-Modified: '2026-04-10 06:24'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[AI alignment is inherently difficult.png]]'
 ImageText: 'Two frequency aka wave lengths, one harmonious and one disordered'
 Description: >-
@@ -19,6 +19,10 @@ aliases:
   - AI Ethics
   - AI alignment problem
 new_schema: true
+Topic:
+  - '[[Artificial Intelligence]]'
+Origin: '[[Towards data science]]'
+URL: 'https://www.podcastrepublic.net/episode/7802484905'
 draft: false
 SiteProcssed: true
 ---
@@ -51,8 +55,3 @@ The fourth point is similar to humans vs [evolution 2bc](/notes/evolution-2bc.md
 ## Visual
 
 ![AI alignment is inherently difficult](/notes/ai-alignment-is-inherently-difficult.webp)
-
-## Overview
-🔼Topic:: [Artificial Intelligence](/notes/artificial-intelligence.md)
-◀Origin:: [Towards data science](/notes/towards-data-science.md)
-🔗Link:: [podcast]([https://www.podcastrepublic.net/episode/7802484905](https://www.podcastrepublic.net/episode/7802484905))

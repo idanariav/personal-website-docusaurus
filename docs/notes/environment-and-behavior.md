@@ -1,13 +1,18 @@
 ---
 UUID: 20260401082713
 Created: '2026-04-01 08:27'
-Modified: '2026-04-01 08:56'
+Modified: '2026-04-11 22:31'
 tags: []
-Version: 2
+Version: 3
 Description: >-
   How environmental structure, situational context, and economic incentives
   shape and constrain human behavior.
 aliases: []
+Topic:
+  - '[[behavioral psychology (Map)]]'
+  - '[[Economics (Map)]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -28,9 +33,3 @@ Beyond deliberate design, immediate situational context drives responses automat
 The environment also shapes behavior through incentives and opportunity costs. [Incentives](/notes/incentives-shape-behavior-by-making-certain-actions-more-attractive.md) make certain paths easier and others harder. [Crowding out](/notes/one-activity-displaces-another-when-pursued-excessively.md) adds a key constraint — desirable behaviors can undermine each other when overdone.
 
 ## Visual
-
-## Overview
-🔼Topic:: [behavioral psychology (Map)](/mocs/behavioral-psychology-map.md)
-🔼Topic:: [Economics (Map)](/mocs/economics-map.md)
-↩️Origin::
-🔗Link::

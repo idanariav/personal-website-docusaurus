@@ -1,37 +1,52 @@
 ---
 UUID: 20240321074214
 Created: '2024-03-21 07:42'
-Modified: '2024-06-11 06:39'
-Version: 1.01
+Modified: '2026-04-13 06:22'
 tags: []
-PublishDate: 2019-11-05T00:00:00.000Z
-Pages: 288
+FullTitle: >-
+  You Are Awesome - How to Navigate Change, Wrestle with Failure, and Live an
+  Intentional Life
+Description: >-
+  It argues that personal growth stems from reframing failures as opportunities,
+  embracing pain as essential for development, and sharing burdens with others.
+  By shifting perspectives and focusing on small successes, individuals can
+  advance towards their goals and achieve self-fulfillment without distractions.
 Author:
   - '[[Neil Pasricha]]'
-Genre: Self-Help
-Stored: Kindle
-Purchased: true
-Fiction: false
+URL: 'https://www.goodreads.com/book/show/45733311-you-are-awesome'
 Cover: >-
   http://books.google.com/books/content?id=nd20DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/45733311-you-are-awesome'
-ReadingStatus: Read
-FinishDate: 2024-05-23T00:00:00.000Z
+Genre: Self-Help
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B07RNMHGNS
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 288
+Reread: 0
 Rate: 2
+PublishDate: 2019-11-05T00:00:00.000Z
+StartDate: 2024-05-20T00:00:00.000Z
+FinishDate: 2024-05-23T00:00:00.000Z
+Image: ''
 aliases: null
+Topic:
+  - '[[Mindset (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # You Are Awesome
 
-## 🔗Connect
-🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Add a dot dot dot** - You decide when the story ends. Every bad statement about yourself can be converted with the word "yet". "I didn't get the job I want... yet"
 2. **Shift the spotlight** - failures don't shine a spotlight on you or who you are, they shine on what you can do better.
@@ -43,11 +58,11 @@ SiteProcssed: true
 8. **Go untouchable** - have moments of complete uninterrupted work, no meetings, distractions or notification
 9. **Never never stop** - Don't let anything stop you on your way to self fulfillment.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 
@@ -55,12 +70,12 @@ SiteProcssed: true
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The book has little content or depth, mostly a focus on his personal story, with only a sentence of how it can relate to others.
 
-## 📒 Notes
+## Notes
 
 ### You Need to Be More Resilient
 
@@ -75,7 +90,7 @@ Resilience is knowing how to get back up after facing obstacles, it is to rememb
 
 ### Add a Dot-dot-dot
 
-When we feel defeat, facing an obstacle that seems to have crushed us with no option for victory, we have to remember that this is not the end of the story. We add a "dot dot dot" and the word "yet". Like "I didn't get into Harvard *... Yet*", "I didn't pass the course *... Yet*". This turns the obstacle from something definitive to a temporal statement, one that gives motivation for overcoming it and believing a better future [optimism](/notes/optimism.md).
+When we feel defeat, facing an obstacle that seems to have crushed us with no option for victory, we have to remember that this is not the end of the story. We add a "dot dot dot" and the word "yet". Like "I didn't get into Harvard *... Yet*", "I didn't pass the course *... Yet*". This turns the obstacle from something definitive to a temporal statement, one that gives motivation for overcoming it and believing a better future [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md).
 
 :::note[Add a Dot-Dot-Dot]
 
@@ -87,11 +102,11 @@ When we feel defeat, facing an obstacle that seems to have crushed us with no op
 
 ### Shift the Spotlight
 
-We let [failure](/notes/failure.md) own us, we get lost in negative feeling and [self criticism](/notes/self-criticism.md). We feel as each time we are making a mistake, a huge spotlight is on us and that makes us feel embarrassed and anxious. However this is only [The Spotlight Effect](/notes/the-spotlight-effect.md). People are not as concentrated about us as we think. This allows for space for us to breath, take a brake, and [distance](/notes/cognitive-distancing.md) ourselves from our mistakes. Not to ignore those or to shift the blame, but to allow ourselves to take responsibility on the one hand, but also see the failure as something we can work with, not as a permanent stain on ourselves.
+We let [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md) own us, we get lost in negative feeling and [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md). We feel as each time we are making a mistake, a huge spotlight is on us and that makes us feel embarrassed and anxious. However this is only [We overestimate how much others notice us](/notes/we-overestimate-how-much-others-notice-us.md). People are not as concentrated about us as we think. This allows for space for us to breath, take a brake, and [distance](/notes/separating-actions-from-identity-allows-growth.md) ourselves from our mistakes. Not to ignore those or to shift the blame, but to allow ourselves to take responsibility on the one hand, but also see the failure as something we can work with, not as a permanent stain on ourselves.
 
 ### See it as a step
 
-We don't expect to change in the long run, despite knowing that we have changed so much when looking back, we think that we are the "finished version" right now. This bias denies the fact that we are always on a path to a better us, we just don't know which road will take us there. One way of overcoming a disaster is to see it as one more step on that road. Looking back, we can see how some of the challenges we faced brought us to a better situation or made us better people, like a devastating breakup that allowed you to switch from a hopeless relationship to the person of your dreams. Sure, no one wants to suffer, but it doesn't mean that there aren't any benefits to that. [creative destruction](/notes/creative-destruction.md)
+We don't expect to change in the long run, despite knowing that we have changed so much when looking back, we think that we are the "finished version" right now. This bias denies the fact that we are always on a path to a better us, we just don't know which road will take us there. One way of overcoming a disaster is to see it as one more step on that road. Looking back, we can see how some of the challenges we faced brought us to a better situation or made us better people, like a devastating breakup that allowed you to switch from a hopeless relationship to the person of your dreams. Sure, no one wants to suffer, but it doesn't mean that there aren't any benefits to that. [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
 
 :::note[See It as a Step]
 
@@ -102,9 +117,9 @@ We don't expect to change in the long run, despite knowing that we have changed 
 
 ### Tell Yourself a Different Story
 
-Much of how we feel, especially moments of shame and depression is not a cause of what happened, but rather how we view the situation, the [Narratives](/notes/narratives.md) we tell ourselves. Do we blame ourselves or find a story that allows for more [Self-compassion](/notes/self-compassion.md)?
+Much of how we feel, especially moments of shame and depression is not a cause of what happened, but rather how we view the situation, the [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md) we tell ourselves. Do we blame ourselves or find a story that allows for more [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md)?
 
-Instead of letting this moment destroy who we are, we need to find a way to merge it together with our identity in a healthy way [Coherentism](/notes/coherentism.md)
+Instead of letting this moment destroy who we are, we need to find a way to merge it together with our identity in a healthy way [Knowledge emerges from interconnected beliefs not foundational truths](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.md)
 
 When we are at a low point, we can ask ourselves:
 1. Will it matter in my deathbed?
@@ -122,7 +137,7 @@ Those two questions often give us enough space to zoom out and gain a good persp
 
 ### Lose More to Win More
 
-Nobody gets it right the first time [first batch trash](/notes/first-batch-trash.md). Some things takes time, but mostly failures. We have to fail to get where we want to go, because we won't know what will be a failure or a success before we try it, so we have to keep on trying [Experimentation](/notes/testing.md). We should love failures, have a dedicated budget to test things out guilt free. Remember that growth is painful but it's a necessary part of it.
+Nobody gets it right the first time [First attempts are inherently lower quality than iterations](/notes/first-attempts-are-inherently-lower-quality-than-iterations.md). Some things takes time, but mostly failures. We have to fail to get where we want to go, because we won't know what will be a failure or a success before we try it, so we have to keep on trying [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md). We should love failures, have a dedicated budget to test things out guilt free. Remember that growth is painful but it's a necessary part of it.
 
 ### Reveal to Heal
 
@@ -131,7 +146,7 @@ We all carry secrets and anxiety within us that eats us because we lock it in, a
 
 ### Find Small Ponds
 
-We all need to be the big fish in a small pond, it lets ourselves stand out relatively easy while improving our self confidence [small wins](/notes/small-wins.md).
+We all need to be the big fish in a small pond, it lets ourselves stand out relatively easy while improving our self confidence [Visible progress sustains motivation](/notes/visible-progress-sustains-motivation.md).
 
 :::note[Find Small Ponds]
 
@@ -142,7 +157,7 @@ We all need to be the big fish in a small pond, it lets ourselves stand out rela
 
 ### Go Untouchable
 
-In today's world we are more focused on productivity than ever, we can't let a single moment go to waste, drowning in the [hustle culture](/notes/hustle-culture.md). This attention split to do everything is damaging because [Multitasking doesnt exist](/notes/multitasking-doesnt-exist.md), it hurts our focus and paradoxically our productivity too.
+In today's world we are more focused on productivity than ever, we can't let a single moment go to waste, drowning in the [Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md). This attention split to do everything is damaging because [Multitasking is sequential task switching with cognitive switching costs](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md), it hurts our focus and paradoxically our productivity too.
 
 That's why we need untouchable days, moments of deep work where we focus only on the task ahead, no meetings, no phones or notification.
 

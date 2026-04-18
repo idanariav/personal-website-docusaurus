@@ -1,45 +1,59 @@
 ---
 UUID: 20240518062822
 Created: '2024-05-18 06:28'
-Modified: '2024-07-25 12:42'
+Modified: '2026-04-13 06:19'
 tags: []
+FullTitle: >-
+  The Montessori Toddler - A Parent's Guide to Raising a Curious and Responsible
+  Human Being
+Description: >-
+  It argues for allowing individuals to lead their own learning journeys,
+  emphasizing the importance of fostering a supportive environment that nurtures
+  their enthusiasm and potential without interference.
 Author:
   - '[[Simone Davies]]'
-Genre: Family & Relationships
-Stored: Kindle
-ReadingStatus: Read
-Purchased: true
-Fiction: false
-Version: 1.01
-Pages: 342
-Rate: 2
-PublishDate: 2019-03-19T00:00:00.000Z
-FinishDate: 2024-07-23T00:00:00.000Z
+URL: 'https://www.goodreads.com/book/show/38103723-the-montessori-toddler'
 Cover: >-
   http://books.google.com/books/content?id=KOhrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/38103723-the-montessori-toddler'
+Genre: Family & Relationships
+Stored: Kindle
+ReadingStatus: Done
+ASIN: B07GNWSZBG
+excalidraw-plugin: ''
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
+Purchased: true
+Fiction: false
+Version: 2
+Pages: 342
+Reread: 0
+Rate: 2
+PublishDate: 2019-03-19T00:00:00.000Z
+StartDate: 2024-07-18T00:00:00.000Z
+FinishDate: 2024-07-23T00:00:00.000Z
+Image: ''
 aliases: null
+Topic:
+  - '[[Education (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Montessori Toddler
 
-## 🔗Connect
-🔼Topic:: [Education (Map)](/mocs/education-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Let them lead** - instead of trying to mold them, we should encourage them to fulfill their potential how they see fit. To not interfere with their learning enthusiasm, and only create a supportive environment for them to explore freely.
 
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Critique
 
 ✅ *by following this method, what will happen?*
 More independent developed child - by letting them the freedom to explore, and include them in our lives, they will be much more motivated to learn and will fulfill their potential
@@ -49,14 +63,14 @@ More independent developed child - by letting them the freedom to explore, and i
 🧱 *Implementations and limitations of it are...*
 Is this method really revolutionary? The theoretical background is hardly even there, and based on "punishment is bad, molding is bad". There is little to no research backing this, and it's more like a brochure for Montessori schools rather than actual educational improvement.
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book is highly repetitive and thin in content. Most of it is a collection of activities, more fitting to an article rather than a book.
 
 I personally don't like "index books", so maybe it's my fault, but that makes them so irrelevant because it turns them into a collection of posts rather than one arching theme that takes a book to develop
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
@@ -75,7 +89,7 @@ When we look at what they need, they need:
 5. Time to process and respond
 6. Be a contributing part of the family [developing capabilities](/notes/developing-capabilities.md)
 
-Toddlers are not trying to give us a hard time, it's a sign that they're having a hard time. [Hanlon's Razor](/notes/hanlons-razor.md)
+Toddlers are not trying to give us a hard time, it's a sign that they're having a hard time. [Avoid attributing malice when ignorance or circumstance explains action](/notes/avoid-attributing-malice-when-ignorance-or-circumstance-explains-action.md)
 
 In the Montessori approach, we see children as who they are, not who we want them to be, and we don't try to mold them, but rather help them become who they wish to be.
 
@@ -97,7 +111,7 @@ The mindset is to let the child be in charge of their own education and growth p
 
 For example, if the toddler begins to climb on furniture, we will create a "ninja course" in the yes space. We would lay down toys and books but it's their choice to decide how to spend their time and what to interact with.
 
-This is the best way to maintain their [curiosity](/notes/curiosity.md) and [intrinsic motivation](/notes/intrinsic-motivation.md). It's a [life as flow](/notes/life-as-flow.md) kind of parenting. That doesn't mean we won't set limits. Harmful actions are always prohibited, but other than that they are free to choose and explore.
+This is the best way to maintain their [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md) and [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md). It's a [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md) kind of parenting. That doesn't mean we won't set limits. Harmful actions are always prohibited, but other than that they are free to choose and explore.
 
 :::note[INTRODUCTION TO MONTESSORI]
 
@@ -113,7 +127,7 @@ This is the best way to maintain their [curiosity](/notes/curiosity.md) and [int
 
 The goal of Montessori activities is to develop one skill from start to end.
 
-The goal is to present the activities in an attractive manner, not stored away in a box, and let them choose and interact with it how they wish. Don't disturbed them and try to avoid showing them the "solution" [Dont Jump to the Rescue](/notes/dont-jump-to-the-rescue.md), instead offer clues and only if they ask for it. They need to learn that part of the activity is the clean up afterwards.
+The goal is to present the activities in an attractive manner, not stored away in a box, and let them choose and interact with it how they wish. Don't disturbed them and try to avoid showing them the "solution" [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md), instead offer clues and only if they ask for it. They need to learn that part of the activity is the clean up afterwards.
 
 The main skills we should develop (by dedicated activities, listed in the book):
 1. Hand eye coordination
@@ -122,7 +136,7 @@ The main skills we should develop (by dedicated activities, listed in the book):
 4. Arts and crafts
 5. Language
 
-Point 3 is crucial. Since from early as age 12 months, the child can help around the house, and they want to. We have to be inclusive, patient and remember that they will do it slower and worse than we would have done ourselves, but this is crucial for development and especially to take load off you later when they grow. [patience](/notes/patience.md)
+Point 3 is crucial. Since from early as age 12 months, the child can help around the house, and they want to. We have to be inclusive, patient and remember that they will do it slower and worse than we would have done ourselves, but this is crucial for development and especially to take load off you later when they grow. [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md)
 
 ### Setting up the home
 
@@ -141,13 +155,13 @@ To help them develop their curiosity, we should:
 4. Include them in daily life
 5. Observe and praise effort
 
-Accept them as who they are [validation](/notes/validation.md), remember that all feelings are acceptable, even if some behavior isn't.
+Accept them as who they are [Accepting others feelings and perspectives without dismissal](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md), remember that all feelings are acceptable, even if some behavior isn't.
 
-Remove your [Judgment](/notes/judgment.md), be the narrator, the translator. Try to understand them without assuming you know what they mean. Give them the words to describe how they feel
+Remove your [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md), be the narrator, the translator. Try to understand them without assuming you know what they mean. Give them the words to describe how they feel
 
 ### Nurturing Cooperation and Responsibility in Our Child
 
-Instead of treating it as a "me vs them" problem, we need to see it as a "us vs problem". When there's a conflict, ask them to come up with a solution, find a [win win situations](/notes/win-win-situations.md). Allow them to make age appropriate decisions. Make them part of the decision making process of the day.
+Instead of treating it as a "me vs them" problem, we need to see it as a "us vs problem". When there's a conflict, ask them to come up with a solution, find a [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md). Allow them to make age appropriate decisions. Make them part of the decision making process of the day.
 
 Limits should be clear, and we should be consistent about it. Crossing the limit should have a logical implication, not as a punishment, but that's how they will understand cause and effect.
 

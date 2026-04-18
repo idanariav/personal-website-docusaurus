@@ -1,13 +1,13 @@
 ---
 UUID: 20240720062925
 Created: '2024-07-20 06:29'
-Modified: '2026-04-08 13:35'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 new_schema: true
 aliases:
   - Upfront costs
@@ -16,6 +16,11 @@ Description: >-
   A financial barrier that deters individuals from making beneficial changes due
   to high initial expenses, often leading to persistence in suboptimal
   situations despite potential future gains.
+Topic:
+  - '[[Status Quo and Inertia]]'
+  - '[[Friction is resistance that blocks action and behavior adoption]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -53,10 +58,3 @@ However, the very idea of [Repeated actions yield exponentially increasing retur
 ## Visual
 
 ![Upfront costs](/notes/upfront-costs.webp)
-
-## Overview
-🔼Topic:: [Status Quo and Inertia](/notes/status-quo-and-inertia.md)
-🔼Topic:: [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md)
-↩️Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20220715063854
 Created: '2022-07-15 06:38'
-Modified: '2026-04-08 15:20'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Gratitude
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   appreciation for life's blessings and enhancing personal well-being through
   intentional acknowledgment of good moments.
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -59,9 +63,3 @@ As simple as being grateful for 1-3 things a day can be enough to change our per
 ## Visual
 
 ![Gratitude](/notes/gratitude.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-↩️Origin::
-🔗Link::
-

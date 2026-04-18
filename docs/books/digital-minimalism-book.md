@@ -1,19 +1,23 @@
 ---
 UUID: 20220901091016
 Created: '2022-09-01 09:10'
-Modified: '2025-03-25 02:33'
+Modified: '2026-04-13 06:12'
 tags: []
 Author:
   - '[[Cal Newport]]'
 Genre: Technology & Engineering
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 302
 Rate: 3
 PublishDate: 2019-02-05T00:00:00.000Z
@@ -21,31 +25,54 @@ FinishDate: 2022-09-01T00:00:00.000Z
 Cover: >-
   http://books.google.com/books/content?id=S4NbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/40672036-digital-minimalism'
+Description: >-
+  It argues that technologies prioritize capturing our attention over enhancing
+  our lives, urging us to use them minimally and intentionally. Emphasizing the
+  irreplaceable value of face-to-face interactions, it advocates for
+  high-quality leisure and solitude to foster deep thinking and regain personal
+  agency.
+FullTitle: Digital Minimalism - Choosing a Focused Life in a Noisy World
+StartDate: 2022-08-20T00:00:00.000Z
+ASIN: B07DBRBP7G
+Reread: 0
+Topic:
+  - '[[Wellbeing (Map)]]'
+  - '[[Improvement often comes from removing rather than adding|Minimalism]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Digital Minimalism (book)
 
-## Connect
-🔼Topic:: [Wellbeing (Map)](/mocs/wellbeing-map.md)
-🔼Topic:: [Minimalism](/notes/addition-by-subtraction.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Technologies are after our attention and agency** - technologies have evolved beyond their initial proposal of improving our life, to the point that these technologies are lead by a desire to use our attention, our time and money against our preferences, and to take away our agency.
 2. **Use technology as a last resort and as supportive tool only** - as default, use technologies only to support your physical social life, and not as a replacement. regain your agency and act with intentionality. reduce use of technology to make time for high quality leisure.
 3. **There's no alternative to face to face interactions** - no matter how easy it is to connect through technology, the quality is not remotely the same. Don't give up on face to face interactions with those you care about.
 4. **Replace technology with high quality leisure** - Create opportunities for pure solitude to detox and enable deep thinking, or spend time in quality leisure like a craft or a sport.
 
-### 🗒️Relate
+### Relate
 
 ⛓*by following this method, what will happen?*
 technology is a tool, it can be used for good or for bad/harmful purposes. and we should be attentive to the way we use it and do it in a conscience way.
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Define a personal philosophy of technology** - write down your core values and answer which tools you should use, how you should use them, and what you will confidently ignore.
+2. **Make a 30-day declutter list** - list every entertainment and social media technology you will not use for the next 30 days.
+3. **Do a 30-day digital detox and replace with activities** - remove the items on your declutter list for 30 days and schedule alternative activities (family time, nature walks, hobbies, friends).
+4. **Reintroduce technologies only by rule** - after 30 days, permit a technology back only if it (a) supports a core value, (b) is the best way to support that value, and (c) has a clear usage boundary/standard operating procedure.
+5. **Schedule regular solitude sessions** - block recurring, phone-free time for uninterrupted thinking (e.g., walks, café stops, quiet reflection) to promote introspection and creativity.
+6. **Use social media only to support real-life connection** - arrange events and share logistics via apps, but avoid substituting likes/comments for actual conversations or meetings.
+7. **Fill freed time with high-quality leisure** - plan and participate in leisure that is active, physical (crafts, hobbies), and social (sports, board games) instead of passive consumption.
+8. **Implement concentrated text and “office hours”** - set specific times to read/respond to messages and announce windows when people may call, keeping other times on Do Not Disturb.
+9. **Schedule low-quality digital leisure and enforce blocks** - preplan any digital entertainment, use site-blocking services and set blocked-as-default to prevent mindless use.
+10. **Simplify devices and separate roles** - reduce phone complexity (“dumb down” your phone), and separate leisure devices from productivity devices to reduce distractions.
+
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -55,17 +82,17 @@ any recommendation to board games is appreciated
 
 🧱 *Implementations and limitations of it are...*
 there is a thin line for those who either use their phone for work purposes or otherwise incapable of detaching themselves from technology, for them the solution is more difficult to implement, and will require higher effort from them.
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
-### 🖼️Outline
+### Outline
 
-![Digital Minimalism (book).webp](/books/digital-minimalism-book.webp)
+![Digital Minimalism (book)](/books/digital-minimalism-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Intro
-our current digital life is taking control of our time, emotions, thoughts and [Agency](/notes/agency.md). **small steps/ tips and tactics cant be the solution. a whole philosophical standpoint is required to reshape our relationship with digital life and social media in particular**.
+our current digital life is taking control of our time, emotions, thoughts and [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md). **small steps/ tips and tactics cant be the solution. a whole philosophical standpoint is required to reshape our relationship with digital life and social media in particular**.
 
 :::note[Introduction]
 
@@ -81,11 +108,11 @@ our current digital life is taking control of our time, emotions, thoughts and [
 
 #### A Lopsided Arms Race
 we didn't sign up to lose our control to social media. they began as innocent products, which quickly became a source of addiction. its not that were lazy or stupid, were just "hooked". they make us addicted by using:
-1. **intermittent gratification** - dopamine hits in random internals (you're never going to know when you're going to get a like or a new notification) [Gamification](/notes/gamification.md)
-2. **social acceptance** - we crave for the acceptance and approval of others, to maintain our social status and check on others [Peer Pressure](/notes/social-environment.md)
+1. **intermittent gratification** - dopamine hits in random internals (you're never going to know when you're going to get a like or a new notification) [Gamification increases motivation by making activities enjoyable](/notes/gamification-increases-motivation-by-making-activities-enjoyable.md)
+2. **social acceptance** - we crave for the acceptance and approval of others, to maintain our social status and check on others [Peer Pressure](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 
 in light of these strong forces, tips and tricks aren't enough, we need a complete change in the way we look, consume and use technology, a new philosophy of technology, which is digital minimalism.
-those who practice it go against the [FOMO](/notes/fomo.md) of not being online or using social media, and *their default is to only use the tool if the benefits outweigh the costs*. [Pareto Principle](/notes/pareto-principle.md)
+those who practice it go against the [Fear of missing out fuels anxiety about opportunities we cannot take](/notes/fear-of-missing-out-fuels-anxiety-about-opportunities-we-cannot-take.md) of not being online or using social media, and *their default is to only use the tool if the benefits outweigh the costs*. [Most benefits come from a small proportion of inputs](/notes/most-benefits-come-from-a-small-proportion-of-inputs.md)
 
 :::note[A Lopsided Arms Race]
 
@@ -101,14 +128,14 @@ those who practice it go against the [FOMO](/notes/fomo.md) of not being online 
 #### Digital Minimalism
 
 digital minimalism principles:
-1. **clutter is costly** (too many tools reduce value of each one) the flip side of [Emergence](/notes/emergence.md) and less is more
+1. **clutter is costly** (too many tools reduce value of each one) the flip side of [System properties arise from component interactions not individual parts](/notes/system-properties-arise-from-component-interactions-not-individual-parts.md) and less is more
 2. **optimization is important**
-3. [intentionality](/notes/intentionality.md) is satisfying
+3. [Intentionality is conscious presence that replaces automatic default behavior](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) is satisfying
 
 Deep dive:
-1. **Clutter** - think economically about your life, how you spend your minutes. Would you really want to "pay" 2 hours a day for the gains you get from social media? Are there better alternatives? Be like Henry David Thoreau that calculated what is the minimal amount of money he needed for his basic needs, and rested all the rest, that way he worked only one day a week. [Alternative cost](/notes/alternative-cost.md)
-2. **optimization** - We need to spend more focus on [Optimization](/notes/optimization.md) .currently small improvements to the way we use technology can lead to a drastic change in our wellbeing, because we spend too little on finding the optimal point, instead being sucked in too deep where every minute is more harmful to us than good. i.e we stick to the [Defaults](/notes/defaults.md), and lack [Critical Thinking](/notes/critical-thinking.md)
-3. **use technology with awareness** - like noticing what you eat and be mindful about it. Keep your autonomy by actively choosing which technologies you use and why, and not succumbing to the [Attention Economy](/notes/attention-economy.md)
+1. **Clutter** - think economically about your life, how you spend your minutes. Would you really want to "pay" 2 hours a day for the gains you get from social media? Are there better alternatives? Be like Henry David Thoreau that calculated what is the minimal amount of money he needed for his basic needs, and rested all the rest, that way he worked only one day a week. [Every choice costs the alternatives you gave up](/notes/every-choice-costs-the-alternatives-you-gave-up.md)
+2. **optimization** - We need to spend more focus on [Optimization finds the efficient point balancing outputs and inputs](/notes/optimization-finds-the-efficient-point-balancing-outputs-and-inputs.md) .currently small improvements to the way we use technology can lead to a drastic change in our wellbeing, because we spend too little on finding the optimal point, instead being sucked in too deep where every minute is more harmful to us than good. i.e we stick to the [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md), and lack [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md)
+3. **use technology with awareness** - like noticing what you eat and be mindful about it. Keep your autonomy by actively choosing which technologies you use and why, and not succumbing to the [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md)
 
 :::note[Digital Minimalism]
 
@@ -127,9 +154,9 @@ Deep dive:
 
 Decluttering is made of three parts:
 a. make a list of all the technologies you are not going to use for the next 30 days (mainly entertainment and social media technologies, not your microwave)
-b. have a detox for 30 days, with replacing the technologies with other activities (family, friends, nature walks...) - more on that in part 2
+b. have a [Overcoming addiction requires removing all traces of it](/notes/overcoming-addiction-requires-removing-all-traces-of-it.md) for 30 days, with replacing the technologies with other activities (family, friends, nature walks...) - more on that in part 2
 c. reinsert the technologies back only if:
-* it support one of your [Core Values](/notes/core-values.md).
+* it support one of your [Core values guide authentic identity and moral action](/notes/core-values-guide-authentic-identity-and-moral-action.md).
 * it is the best way to support this value
 * you have defined clear rules and [Boundaries](/notes/boundaries.md) of using this technology
 
@@ -145,9 +172,9 @@ c. reinsert the technologies back only if:
 ### Part 2: Methods to Maintain a Digital Minimalist Life
 
 #### Spend Time Alone
-have more moments of [Solitude](/notes/solitude.md) - solitude is when we are able to have uninterrupted thoughts without the influence/disturbance from others. this doesn't mean you have to have a cabin in the woods, but can also happen in a café.
-solitude is a great chance to process our thoughts and emotions, have deep [introspection](/notes/introspection.md) with ourselves, spark creative thoughts, and evaluate our connection with others. [Downtime brain](/notes/downtime-brain.md). in this generation, these moments are rarer than ever, since having constant [Distractions](/notes/procrastination.md) (either by boredom or from other people) denies us these moments, which causes anxiety.
-for example, a [Nature walk](/notes/nature-walk.md) is a good chance to get some solitude, as long as you're without your phone, no headphones...
+have more moments of [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md) - solitude is when we are able to have uninterrupted thoughts without the influence/disturbance from others. this doesn't mean you have to have a cabin in the woods, but can also happen in a café.
+solitude is a great chance to process our thoughts and emotions, have deep [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md) with ourselves, spark creative thoughts, and evaluate our connection with others. [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md). in this generation, these moments are rarer than ever, since having constant [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) (either by boredom or from other people) denies us these moments, which causes anxiety.
+for example, a [Nature restores mental health and renews focus through immersive presence](/notes/nature-restores-mental-health-and-renews-focus-through-immersive-presence.md) is a good chance to get some solitude, as long as you're without your phone, no headphones...
 
 :::note[Spend Time Alone]
 
@@ -161,7 +188,7 @@ for example, a [Nature walk](/notes/nature-walk.md) is a good chance to get some
 
 
 #### Don't Click "Like"
-we are social animals by default [Human is a social being](/notes/human-is-a-social-being.md), when uninterrupted, our brain "fires" regions that are related to social issues. this social need doesn't get fulfilled from social media, we need deep long conversation, that involve facial expressions, not the mere shallowness of text. [Platos Cave](/notes/platos-cave.md)
+we are social animals by default [Human is a social being](/notes/human-is-a-social-being.md), when uninterrupted, our brain "fires" regions that are related to social issues. this social need doesn't get fulfilled from social media, we need deep long conversation, that involve facial expressions, not the mere shallowness of text. [Every object is a representation of a flawless essence](/notes/every-object-is-a-representation-of-a-flawless-essence.md)
 thus, social media should be a supporter of real life social events, and not the replacement of communication. so:
 set up events using Facebook = good
 have a chat/hit "like" or "comment" instead of calling/meeting = bad

@@ -1,52 +1,68 @@
 ---
 UUID: 20240101072326
 Created: '2024-01-01 07:23'
-Modified: '2025-03-21 10:27'
+Modified: '2026-04-17 07:04'
 tags: []
+FullTitle: >-
+  The Whole-Brain Child - 12 Revolutionary Strategies to Nurture Your Child's
+  Developing Mind
+Description: >-
+  It argues that emotional stability is essential for learning, emphasizing the
+  importance of connection and affection. Role modeling, engaging children's
+  thinking, editing their narratives, and promoting self-awareness through the
+  SIFT method are crucial for their development and emotional understanding.
 Author:
   - '[[Tina Payne Bryson]]'
   - '[[Daniel J. Siegel]]'
+URL: 'https://www.goodreads.com/book/show/10353369-the-whole-brain-child'
+Cover: >-
+  http://books.google.com/books/content?id=MXmeBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Psychology
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B004J4X32U
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: 8
 Pages: 187
+Reread: 0
 Rate: 5
 PublishDate: 2012-08-16T00:00:00.000Z
+StartDate: 2024-01-15T00:00:00.000Z
 FinishDate: 2024-01-20T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=MXmeBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/10353369-the-whole-brain-child'
+Image: null
+aliases: ''
+Topic:
+  - '[[Education (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # The Whole-Brain Child
 
-## 🔗Connect
-🔼Topic:: [Education (Map)](/mocs/education-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Emotional stability precedes learning** - threats or logic won't work during an emotional storm. First calm them down through connection and affection
 2. **Be a role model** - act the way you preach. Not just with your behavior, but also your thought processes, be transparent and explain to your children what you think or why you did those things.
 3. **Engage your child's thinking** - ask questions, let them make decisions, pose hypotheticals scenarios and ask what would they have done
 4. **Edit the narrative** - Children often have a hard time to create a healthy narrative around the events of their life. By helping them retell it, and engaging their memories, the will be able to be better have a sense of what has happened and to enrich their emotional language.
 5. **Promote self awareness** - by focusing your child's attention towards the *SIFT* (sensations, images, feelings, thoughts) that they are experiencing and helping them describe and deal with them, the child will have a better sense of self awareness and control.
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 We would be better parents that educate towards an integrated mind, which is a child that is both aware and uses all of the different parts of the mind, the emotional, the rational, the creative, and the social one.
 We would use everyday situations as opportunities for educating and growth, rather than just a day-to-day survival.
 
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 1. **Connect and redirect** - In situations of overflow of emotions, talking logically won't help. Be there emotionally, connect with words and with body language. Accept and allow them to express their emotions. Only after the situation quiets down you can talk logically.
@@ -58,19 +74,19 @@ We would use everyday situations as opportunities for educating and growth, rath
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 wow, i never expected a book to be so influential even when we are still not parents. The message is clear, direct, easy to understand and filled with examples that are relevant not only for children but for adults as well.
 
-### 🖼️Outline
+### Outline
 
-![The Whole-Brain Child (book).webp](/books/the-whole-brain-child-book.webp)
-## 📒 Notes
+![The Whole-Brain Child (book)](/books/the-whole-brain-child-book.webp)
+## Notes
 
 ### Introduction - Survive and Thrive
 
-**Every interaction with your child is an opportunity to learn and grow**, especially the "survival" moments - an argument, sitting over homework, the moments we are just trying to get by, those are the teachable moments, where are virtues are put to the test, and we can use this experience for learning [Post Traumatic Growth](/notes/creative-destruction.md)
+**Every interaction with your child is an opportunity to learn and grow**, especially the "survival" moments - an argument, sitting over homework, the moments we are just trying to get by, those are the teachable moments, where are virtues are put to the test, and we can use this experience for learning [Post Traumatic Growth](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
 
 :::note[Survive and Thrive]
 
@@ -84,14 +100,14 @@ wow, i never expected a book to be so influential even when we are still not par
 
 ### Parenting with the Brain in Mind
 
-Cases of [tantrums](/notes/emotional-hijacking.md), meltdowns and such are examples of disintegration, which are situations where different parts of the [Human Brain](/notes/human-brain.md) work separately.
-What we want to create is integration, harmony and connection between all the different parts of the brain, using the "whole brain approach". [harmonious self](/notes/harmonious-self.md)
+Cases of [tantrums](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md), meltdowns and such are examples of disintegration, which are situations where different parts of the [Human Brain](/notes/human-brain.md) work separately.
+What we want to create is integration, harmony and connection between all the different parts of the brain, using the "whole brain approach". [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md)
 
-The first step for this method is to avoid falling into [Distractions](/notes/gaslighting.md). When something bad happens, don't do the "let's go get ice cream", but rather help the child adjust the [Narratives](/notes/narratives.md) of what happened. like "yes it was sad that you lost your toy, didn't it?" This examples connect between the emotion (right side of the brain) to the facts of what happened (left side of the brain). This is called horizontal integration. Vertical integration is when we combine feelings of survival with higher values. [Maslows pyramid](/notes/maslows-pyramid.md)
+The first step for this method is to avoid falling into [Distractions](/notes/dismissing-someones-experience-erodes-their-reality.md). When something bad happens, don't do the "let's go get ice cream", but rather help the child adjust the [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md) of what happened. like "yes it was sad that you lost your toy, didn't it?" This examples connect between the emotion (right side of the brain) to the facts of what happened (left side of the brain). This is called horizontal integration. Vertical integration is when we combine feelings of survival with higher values. [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md)
 
-Due to brains [Neuroplasticity](/notes/neuroplasticity.md), **the more we use and create experiences to connect between different parts of the brain, the more capable, [Emotional Resilience](/notes/emotional-resilience.md) and peaceful your child will grow.**
+Due to brains [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md), **the more we use and create experiences to connect between different parts of the brain, the more capable, [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md) and peaceful your child will grow.**
 
-This state of peacefulness can be compared to sailing in the river of tranquility, when chaos and rigidity are the banks from each side. Chaos is full out tantrums, and rigidity is "non negotiable situation" like not be willing to get dressed or share the toys.
+This state of peacefulness can be compared to sailing in the river of tranquility, when chaos and rigidity are the banks from each side. Chaos is full out tantrums, and rigidity is "non negotiable situation" like not be willing to get dressed or share the toys. [Mental wellbeing requires balance between emotional chaos and rigid control](/notes/mental-wellbeing-requires-balance-between-emotional-chaos-and-rigid-control.md)
 
 :::note[Parenting with the Brain in Mind]
 
@@ -111,13 +127,13 @@ This state of peacefulness can be compared to sailing in the river of tranquilit
 The brain is largely divided into two sides. The left is logical, linear, linguistic and the right is nonverbal, emotional, communicative.
 We need both to avoid being an emotional flood (no left brain) or emotional desert (no right brain). It's like swimming, without both hands we would just swim in circles
 
-**When either side of the brain is imbalanced, we lose perspective.**
+**When either side of the brain is imbalanced, we lose perspective.** [Mental wellbeing requires balance between emotional chaos and rigid control](/notes/mental-wellbeing-requires-balance-between-emotional-chaos-and-rigid-control.md)
 
 What can we do when we have emotional flood?
-*Connect and redirect* - giving logical responses wouldn't work because the emotions overwhelm the situation. First we need to calm down, and that's through [Relationships](/notes/relationships.md), an attunement [Resonance](/notes/resonance.md), an emotional response. Don't forget to include non verbal cues such as a smile and a touch. [non verbal communication](/notes/non-verbal-communication.md)
+*Connect and redirect* - giving logical responses wouldn't work because the emotions overwhelm the situation. First we need to calm down, and that's through [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md), an attunement [Resonance is being in sync with reality and others](/notes/resonance-is-being-in-sync-with-reality-and-others.md), an emotional response. Don't forget to include non verbal cues such as a smile and a touch. [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md)
 For example, in a tantrum of "you never do nice things" the answer is not to list all the things, but rather say "I do care for you, so much, you are important for me", and **once the emotions quite down, you can talk logically**
 
-*name it to tame it* - [Naming](/notes/naming.md) To help integrate the left and right side of the brain, and reduce emotional floods, we can help the child align the narrative of what happened. This will give them the understanding and control of what happened they are lacking. Go with them step by step of what happened, **let them tell the story as much as possible** [supporting independence](/notes/supporting-independence.md), focus on the positive moments, when you took care of them, or when they did something good. **Only later you can discuss what could have been done better. Acknowledge their emotions along the way, don't skip over the "scary part"**
+*name it to tame it* - [Naming a phenomenon gives us power over it](/notes/naming-a-phenomenon-gives-us-power-over-it.md) To help integrate the left and right side of the brain, and reduce emotional floods, we can help the child align the narrative of what happened. This will give them the understanding and control of what happened they are lacking. Go with them step by step of what happened, **let them tell the story as much as possible** [supporting independence](/notes/supporting-independence.md), focus on the positive moments, when you took care of them, or when they did something good. **Only later you can discuss what could have been done better. Acknowledge their emotions along the way, don't skip over the "scary part"**
 
 :::note[Two Brains Are Better Than One]
 
@@ -140,7 +156,7 @@ For example, in a tantrum of "you never do nice things" the answer is not to lis
 
 ### Building the Staircase of the Mind
 
-A second important "combo" of the mind is the vertical integration between the higher and lower parts of the brain. The "upstairs" [System 2](/notes/system-2.md) is our high-level thinking. It's the prefrontal cortex that deals with decision making, moral behavior, etc. The "downstairs" [System 1](/notes/system-1.md) is the primal part that deals with our most basic needs.
+A second important "combo" of the mind is the vertical integration between the higher and lower parts of the brain. The "upstairs" [System 2 enables deliberate analytical thinking for complex problems](/notes/system-2-enables-deliberate-analytical-thinking-for-complex-problems.md) is our high-level thinking. It's the prefrontal cortex that deals with decision making, moral behavior, etc. The "downstairs" [Automatic thinking processes drive fast emotional responses](/notes/automatic-thinking-processes-drive-fast-emotional-responses.md) is the primal part that deals with our most basic needs.
 
 We need the integration because just have the primal part is obviously bad, but so does only the upper part. **Decision making without being connected to our emotions, our sensory experience, can cause inhuman robotic like behavior.** [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md)
 
@@ -153,16 +169,16 @@ Accordingly, we can differentiate between two types of tantrums.
 2. **Downstairs tantrum** the child is in a fit of rage, unable to control himself. Boundaries won't do any good because the child isn't in a state to listen. Therefore, **the strategy should be similar to connect and redirect**. First sooth his emotions, and only later appeal to the logical side.
 
 Tactics:
-*Engage, don't enrage* - instead of giving threats and ultimatums to the child that might push him over the edge. Use his upper brain to find a [win win situations](/notes/win-win-situations.md). Ask him "convince me" or "come up with a solution" or "how would that be possible" so that it triggers his [creativity](/notes/ideation.md) skills instead of an emotional breakout. [Open ended questions](/notes/open-ended-questions.md) [Reverse Thinking](/notes/reverse-thinking.md)
+*Engage, don't enrage* - instead of giving threats and ultimatums to the child that might push him over the edge. Use his upper brain to find a [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md). Ask him "convince me" or "come up with a solution" or "how would that be possible" so that it triggers his [creativity](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md) skills instead of an emotional breakout. [Open-ended questions enable deeper understanding and meaningful dialogue](/notes/open-ended-questions-enable-deeper-understanding-and-meaningful-dialogue.md) [Flipping assumptions reveals hidden possibilities and better solutions](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md)
 
 Besides engaging the upper brain, we can proactively train it using:
-1. **Letting the child make decisions** - as much as possible. For example, an allowance is great for letting the child manage his own priorities and making difficult choices. **Avoid intervening and rescuing. The goal is not perfect decisions, but rather training the decision making muscle** [Dont Jump to the Rescue](/notes/dont-jump-to-the-rescue.md) [developing capabilities](/notes/developing-capabilities.md)
+1. **Letting the child make decisions** - as much as possible. For example, an allowance is great for letting the child manage his own priorities and making difficult choices. **Avoid intervening and rescuing. The goal is not perfect decisions, but rather training the decision making muscle** [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md) [developing capabilities](/notes/developing-capabilities.md)
 2. **Calmness** - train them to calm themselves using a count to ten or taking it out on a pillow.
-3. **Self awareness** - ask them [introspection](/notes/introspection.md) questions, like "what calms you when you are angry?" "What made you choose this decision"
-4. **Empathy** - be drawing their attention to other people's emotions, they can learn to be compassionate. [Empathy](/notes/empathy.md)
-5. **Morality** - test their sense of morality through hypothetical questions [Simulations](/notes/simulations.md), like "what would you do if there was a dollar on the street and no one was looking?" Don't forget to be a role model for them for this behavior.
+3. **Self awareness** - ask them [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md) questions, like "what calms you when you are angry?" "What made you choose this decision"
+4. **Empathy** - be drawing their attention to other people's emotions, they can learn to be compassionate. [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md)
+5. **Morality** - test their sense of morality through hypothetical questions [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md), like "what would you do if there was a dollar on the street and no one was looking?" Don't forget to be a role model for them for this behavior.
 
-Physical activity is also a good method of relaxing our lower part and restore integration.
+Physical activity is also a good method of relaxing our lower part and restore integration. [Physical activity shapes mental and emotional wellbeing](/notes/physical-activity-shapes-mental-and-emotional-wellbeing.md)
 
 :::note[Building the Staircase of the Mind]
 
@@ -188,13 +204,13 @@ Physical activity is also a good method of relaxing our lower part and restore i
 ### Kill the Butterflies
 
 We have two misconceptions about memory:
-1. *Memory is like a filing cabinet* - this is wrong because memory is not "stored somewhere" as it is "regenerated" [Rewriting](/notes/rewriting.md). The generation is through association, we fire up the neurons that are connected to what we are trying to remember. I.e neurons that fire together are wired together.
+1. *Memory is like a filing cabinet* - this is wrong because memory is not "stored somewhere" as it is "regenerated" [We rewrite our memories every time we access them](/notes/we-rewrite-our-memories-every-time-we-access-them.md). The generation is through association, we fire up the neurons that are connected to what we are trying to remember. I.e neurons that fire together are wired together.
 2. *Memory is accurate* - this is wrong because in every recollection we reprocess the memory based on the context and our emotions. For example, seeing a picture of a friend will generate different distortions of a shared memory depending whether they are still our friend or not.
 
 An important distinction is that memories can be either implicit or explicit.
-**Implicit memories can be considered as our habits or subconscious**. When we are affected in the present by past events and not even realizing it. like Pavlovian dogs, or PTSD, it happens automatically because we are [primed](/notes/priming.md) for it.
+**Implicit memories can be considered as our habits or subconscious**. When we are affected in the present by past events and not even realizing it. like Pavlovian dogs, or PTSD, it happens automatically because we are [primed](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) for it.
 **Explicit memories are when we consciously try to recollect a memory**.
-This distinction is critical because when our child is experiencing anger or fear, it might be caused by implicit memories of the past, manifested through [Emotional Projection](/notes/emotional-projection.md) when the underlying cause of the tantrum is not known even for the child.
+This distinction is critical because when our child is experiencing anger or fear, it might be caused by implicit memories of the past, manifested through [We attribute our emotions to others and misread theirs](/notes/we-attribute-our-emotions-to-others-and-misread-theirs.md) when the underlying cause of the tantrum is not known even for the child.
 
 **We can help our kids by converting negative implicit memories to explicit ones**, where they can face their fears and rewrite the hurtful narrative.
 *DVD player method* - where we retell the event, but let them control the pace using an imaginary remote with pause and fast forward. Slowly but surely, they will be able to acknowledge what happened and truly move on.
@@ -219,7 +235,7 @@ This distinction is critical because when our child is experiencing anger or fea
 
 ### The United States of Me
 
-We often mix between what we feel and who we are. Instead of saying "I feel lonely " we say "I am lonely". The latter forces us into a state that we can't escape from, it defines us in a narrow [one-dimensional being](/notes/one-dimensional-being.md) kind of way. [Fixed Mindset](/notes/fixed-mindset.md) But **we are a multitude, we are capable of a great variety of emotions and thoughts**. This is conceptualized through [mindsight](/notes/mindsight.md), which is to understand both our mind and of others. It is helpful to use the *wheel of awareness*, to view ourself as a rim of many different thoughts and a hub which is our inner self. We choose what to focus on, and accordingly what to give power to, instead of it taking control of us.
+We often mix between what we feel and who we are. Instead of saying "I feel lonely " we say "I am lonely". The latter forces us into a state that we can't escape from, it defines us in a narrow [Multidimensional identity collapses into single fixed characteristic](/notes/multidimensional-identity-collapses-into-single-fixed-characteristic.md) kind of way. [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md) But **we are a multitude, we are capable of a great variety of emotions and thoughts**. This is conceptualized through [Mindsight is awareness of mental states in self and others](/notes/mindsight-is-awareness-of-mental-states-in-self-and-others.md), which is to understand both our mind and of others. It is helpful to use the *wheel of awareness*, to view ourself as a rim of many different thoughts and a hub which is our inner self. We choose what to focus on, and accordingly what to give power to, instead of it taking control of us.
 
 The method is called *SIFT*, which is
 1. **S**ensations - like hungry or tired
@@ -228,11 +244,11 @@ The method is called *SIFT*, which is
 4. **T**houghts - like "I'm stupid"
 The more our child will be aware of those things, the easier it will be to change his perspective.
 
-First we can help our child understand that **emotions are fleeting**. What we feel now won't last forever, they will feel differently in the future. So instead of "I'm stupid", go for "you are feeling stupid right now, but soon you won't be". [Surf the Urge](/notes/surf-the-urge.md).
-Second of all, **we need to provide them with the language to express what they're feeling**. By naming the emotions it's more likely that they will recognize these emotions when they surface and understand their emotional state. Use complex language like disappointed, frustrated, angry or exited instead of just "good" or "bad".
+First we can help our child understand that **emotions are fleeting**. What we feel now won't last forever, they will feel differently in the future. So instead of "I'm stupid", go for "you are feeling stupid right now, but soon you won't be". [Strong urges are short-lived if you wait them out](/notes/strong-urges-are-short-lived-if-you-wait-them-out.md).
+Second of all, **we need to provide them with the language to express what they're feeling**. By naming the emotions it's more likely that they will recognize these emotions when they surface and understand their emotional state. Use complex language like disappointed, frustrated, angry or exited instead of just "good" or "bad". [Emotional vocabulary enables recognition and regulation of feelings](/notes/emotional-vocabulary-enables-recognition-and-regulation-of-feelings.md)
 
-Similarly with thoughts, we don't have to relate or believe all the thoughts that pop in our heads.
-We can practice [mindfulness](/notes/intentionality.md) with them. This increases calmness and integration between different parts of the brain, and improve our ability to control our emotional state. Letting them picture their "happy place" could be helpful.
+Similarly with thoughts, we don't have to relate or believe all the thoughts that pop in our heads. [Our thoughts don't represent our identity](/notes/our-thoughts-dont-represent-our-identity.md)
+We can practice [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) with them. This increases calmness and integration between different parts of the brain, and improve our ability to control our emotional state. Letting them picture their "happy place" could be helpful.
 
 :::note[The United States of Me Integrating the Many Parts of the Self]
 
@@ -253,19 +269,19 @@ We can practice [mindfulness](/notes/intentionality.md) with them. This increase
 ### The Me-we Connection
 
 It is a misconception to think of our human brain as an isolated organ. It is built for connection [Human is a social being](/notes/human-is-a-social-being.md). It is constantly seeking and using signals from our social world, we are both influenced and influencing it.
-The key to that sense of connection and empathy are [Mirror neurons](/notes/mirroring.md) which fire and cause us the same phenomenon not only when others do certain actions, but we also imitate emotional state.
+The key to that sense of connection and empathy are [Mirror neurons](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md) which fire and cause us the same phenomenon not only when others do certain actions, but we also imitate emotional state.
 
-We have the responsibility to serve as [Role Models](/notes/role-models.md) to what being a part of a "we" supposed to look. **If we show that relationships are about caring, sharing, trust and communication, that's what the child will learn.**
+We have the responsibility to serve as [Role models embody behaviors and values we aspire to adopt](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md) to what being a part of a "we" supposed to look. **If we show that relationships are about caring, sharing, trust and communication, that's what the child will learn.**
 
-It's important to remember that we want to interact with our kids when they are in a receptive state rather than a reactional one. That's means not in the midst of an emotional storm, but before and after.
+It's important to remember that we want to interact with our kids when they are in a receptive state rather than a reactional one. That's means not in the midst of an emotional storm, but before and after. [Receptive states are necessary for learning and meaningful connection](/notes/receptive-states-are-necessary-for-learning-and-meaningful-connection.md)
 Also remember that we don't want to erase their personal identity, the goal is balance, an integration between the "me" and the "we".
 
-*Shared fun* - simply have shared fun with them. Goof around as a family, and between siblings [Play](/notes/gamification.md). Having fun together is a bonding moment.
+*Shared fun* - simply have shared fun with them. Goof around as a family, and between siblings [Play](/notes/play.md). Having fun together is a bonding moment.
 
 In cases of conflicts, emphasize:
 1. **Others perspective** - try to show the situation through the other's eyes. Ask the child "why did he act in such a way?"
 2. **Nonverbal cues** - point the child towards the other's body language so that they could understand nonverbal communication
-3. **Repairment** - often just apologizing is not enough. After the apology, ask what can be done to "make it right". If a picture has been torn, why not draw a new one together? [Apology](/notes/apology.md)
+3. **Repairment** - often just apologizing is not enough. After the apology, ask what can be done to "make it right". If a picture has been torn, why not draw a new one together? [A true apology includes intent to repair](/notes/a-true-apology-includes-intent-to-repair.md)
 
 :::note[The Me-We Connection Integrating Self and Other]
 
@@ -288,7 +304,7 @@ In cases of conflicts, emphasize:
 
 ### Conclusion
 
-The whole brain approach has a [ripple effect](/notes/ripple-effect.md), what we teach our children goes out to their friends and the next generation.
+The whole brain approach has a [Actions spread effects across people and time beyond initial cause](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md), what we teach our children goes out to their friends and the next generation.
 
 Remember that you don't have to be perfect, you will make mistakes but even those moments are opportunities for growth.
 

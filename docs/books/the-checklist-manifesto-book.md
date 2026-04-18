@@ -1,26 +1,44 @@
 ---
 UUID: 20220703185406
 Created: '2022-07-03 18:54'
-Modified: '2025-03-23 06:24'
+Modified: '2026-04-13 06:18'
 tags: []
+FullTitle: The Checklist Manifesto - How to Get Things Right
+Description: >-
+  It argues that knowledge overload leads to inaptitude rather than ignorance,
+  highlighting the importance of checklists in reducing errors and improving
+  cooperation. Checklists help individuals anticipate risks and facilitate
+  teamwork by providing structure while allowing personal input.
 Author:
   - '[[Atul Gawande]]'
+URL: 'https://www.goodreads.com/book/show/7796228-the-checklist-manifesto'
+Cover: >-
+  http://books.google.com/books/content?id=x3IcNujwHxcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Genre: Medical
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
+ASIN: B0030V0PEW
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 208
+Reread: 0
 Rate: 4
 PublishDate: 2010-04-01T00:00:00.000Z
+StartDate: 2022-01-28T00:00:00.000Z
 FinishDate: 2022-01-31T00:00:00.000Z
-Cover: >-
-  http://books.google.com/books/content?id=x3IcNujwHxcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-URL: 'https://www.goodreads.com/book/show/7796228-the-checklist-manifesto'
+Image: null
+aliases: ''
+Topic:
+  - '[[Productivity (Map)]]'
+  - '[[Memory, Attention and cognitive load (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
@@ -29,20 +47,16 @@ SiteProcssed: true
 
 ## ✒️ Note-Making
 
-### 🔗Connect
-🔼Topic:: [Productivity (Map)](/mocs/productivity-map.md)
-🔼Topic:: [Memory, Attention and cognitive load (Map)](/mocs/memory-attention-and-cognitive-load-map.md)
-
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
-1. **Knowledge overload** - Nowadays, our problem is not a lack of knowledge, it is widely available and in abondance. We fail due to inaptitude, not ignorance. We have difficulties in finding ways to remember and implement all that we know
+1. **Knowledge overload** - Nowadays, our problem is not a lack of knowledge, it is widely available and in abandonce. We fail due to inaptitude, not ignorance. We have difficulties in finding ways to remember and implement all that we know
 2. **Checklists reduce errors** - by thinking about the action in advance, we can increase of chances of avoiding errors by noting explicitly the main risks of error and make sure that we address them. For example, having a checkbox of "make sure to put gloves" before a surgery to reduce risks of infection.
 3. **Checklists improve cooperation** - similar to the complexity at the individual level, working with others add more degrees of complexity. Using a checklist as a method to "bind" people to a process while allowing them freedom of expression is a good way to verify that cooperation is achieved.
-### 🗒️Relate
+### Relate
 
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 You will be better equipped with managing complex actions through the use of check lists
-### 🔍Critique
+### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
 
@@ -50,14 +64,14 @@ You will be better equipped with managing complex actions through the use of che
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 This book is nice, and almost as short as it needs to be. Some examples are overly described, maybe even at ADHD level, and sometimes he's not really talking about checklists rather than simply mechanisms of cooperation. Could have been an article, but the content is interesting.
 
-### 🖼️Outline
+### Outline
 
-![The Checklist Manifesto (book).webp](/books/the-checklist-manifesto-book.webp)
+![The Checklist Manifesto (book)](/books/the-checklist-manifesto-book.webp)
 
 ### Introduction
 
@@ -65,7 +79,7 @@ In a world with increasing [Complexity](/notes/complexity.md), it's more likely 
 1. You wont be able to perform tasks by yourself
 2. Higher complexity leads to more serious errors
 
-We no longer live in a world where the main problem is ignorance. All the necessary knowledge is "out there". The problem therefore is to make [good use](/notes/filtering.md) of that knowledge. Following the right principles is difficult even if we remember them.
+We no longer live in a world where the main problem is ignorance. All the necessary knowledge is "out there". The problem therefore is to make [good use](/notes/filtering-is-choosing-what-to-consume-before-distilling-it.md) of that knowledge. Following the right principles is difficult even if we remember them.
 
 :::note[INTRODUCTION]
 
@@ -83,7 +97,7 @@ We no longer live in a world where the main problem is ignorance. All the necess
 ### Why Do We Need a List
 
 As individuals, our greatest problem is no longer the lack of knowledge, we have the whole internet at our fingertips, **the problem is implementing knowledge in an efficient and error free way**.
-The recommended way to do this is by delegation. To store to a later time some of your mental effort now (creating the list) to save effort on a future time when you will need it (in times of pressure or uncertainty) [Effort Storing](/notes/effort-storing.md).
+The recommended way to do this is by delegation. To store to a later time some of your mental effort now (creating the list) to save effort on a future time when you will need it (in times of pressure or uncertainty) [One-time effort investment yields future benefits](/notes/one-time-effort-investment-yields-future-benefits.md).
 
 :::note[THE PROBLEM OF EXTREME COMPLEXITY]
 
@@ -94,9 +108,9 @@ The recommended way to do this is by delegation. To store to a later time some o
 
 ### What is a List
 
-A list is a minimal collection of the necessary steps to succeed in the mission. [Systematical Thinking](/notes/systematical-thinking.md) The list should be flexible and changeable by the working parties as the process and task develop. The list will usually contain the steps that don't demand too much focus or mental effort, which are part of the "management" of the task (the things you have to verify).
+A list is a minimal collection of the necessary steps to succeed in the mission. [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md) The list should be flexible and changeable by the working parties as the process and task develop. The list will usually contain the steps that don't demand too much focus or mental effort, which are part of the "management" of the task (the things you have to verify).
 
-Once we have a list, we can be more [focused](/notes/focus.md) and relax because we know we are safe from errors if we only [Trust the Process](/notes/trust-the-process.md)
+Once we have a list, we can be more [focused](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md) and relax because we know we are safe from errors if we only [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
 
 We can define three sets of problems [Problems](/notes/problems.md):
 1. **Simple** - usually comes with basic instructions, that after several times you have enough experience to do them easily and automatically, like baking a cake.
@@ -122,7 +136,7 @@ We can define three sets of problems [Problems](/notes/problems.md):
 
 ### The Idea
 
-The list not only helps us remember the [small](/notes/atomism.md) forgettable tasks, and clears our mental capabilities to the more complex issues, it also helps us to coordinate [Cooperation](/notes/cooperation.md), organize, and turn cooperation into a habit between groups.
+The list not only helps us remember the [small](/notes/understanding-requires-breaking-things-to-their-smallest-parts.md) forgettable tasks, and clears our mental capabilities to the more complex issues, it also helps us to coordinate [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md), organize, and turn cooperation into a habit between groups.
 This way, the check-list not only solves simple problems, but also lays the foundation for solutions for complex problems.
 Coordination should be both recurring ("before each x stage we meet"), and both in ad-hok cases ("if y happens we stop and meet"). Cooperation between different units enables the usage of various fields of knowledge, otherwise inaccessible to us since we can't be super-experts in everything, and having all the necessary knowledge for complex problems ourselves.
 The goal of the meetings is to discuss problems that might occur, coordinate expectations, and promote healthy communication.
@@ -170,9 +184,9 @@ The list short be short, updatable, and user-facing based on the type of the use
 
 ### Setbacks in Embracing Checklists
 
-sometimes it might feel [embarrassment](/notes/guilt.md) to use a checklist, as if it is an indication of our lack of expertise [Mastery](/notes/mastery.md). We should view it however as a sign of it. **As makers of checklists, we use our expertise to our fullest by embedding it into a process**. [Feynman Technique](/notes/feynman-technique.md)
+sometimes it might feel [embarrassment](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) to use a checklist, as if it is an indication of our lack of expertise [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md). We should view it however as a sign of it. **As makers of checklists, we use our expertise to our fullest by embedding it into a process**. [Explaining ideas simply exposes gaps in understanding](/notes/explaining-ideas-simply-exposes-gaps-in-understanding.md)
 
-We have no other choice rather than to use systems for our benefit, because if we don't we will simply fail, which is much worse than any damage to our ego. [Image vs core](/notes/form-vs-essence.md)
+We have no other choice rather than to use systems for our benefit, because if we don't we will simply fail, which is much worse than any damage to our ego. [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md)
 
 Don't view checklists as another box to be ticked, this is only a symptom of a larger principle, which is creating systems that will facilitate productive work, with fewer errors and higher cooperation.
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20240529075703
 Created: '2024-05-29 07:57'
-Modified: '2026-04-08 13:23'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Judgment
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   and internal perceptions, influencing our understanding and relationships with
   ourselves and others.
 new_schema: true
+Topic:
+  - '[[Moral Epistemology]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,9 +60,3 @@ Like missing the bus only to find later that the same bus had an accident. At fi
 ## Visual
 
 ![Judgement](/notes/judgement.webp)
-
-## Overview
-🔼Topic:: [Moral Epistemology](/notes/moral-epistemology.md)
-↩️Origin::
-🔗Link::
-

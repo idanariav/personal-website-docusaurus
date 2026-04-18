@@ -1,19 +1,24 @@
 ---
 UUID: 20221104144847
 Created: '2022-11-04 14:48'
-Modified: '2026-04-08 13:21'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases: []
 Description: >-
   The concept that ethical actions require both rational understanding and
   emotional engagement, emphasizing the necessity of integrating knowledge and
   feelings for true moral behavior.
 new_schema: true
+Topic:
+  - '[[Moral Psychology]]'
+  - '[[Self-Regulation and Change]]'
+Origin: '[[Behave (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,10 +54,3 @@ For some, the fact that morality needs reason seems obvious, but less so for the
 ## Visual
 
 ![Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.webp)
-
-## Overview
-🔼Topic:: [Moral Psychology](/notes/moral-psychology.md)
-🔼Topic:: [Self-Regulation and Change](/notes/self-regulation-and-change.md)
-◀Origin:: [Behave (book)](/books/behave-book.md)
-🔗Link::
-

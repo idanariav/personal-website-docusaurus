@@ -1,19 +1,23 @@
 ---
 UUID: 20230404063545
 Created: '2023-04-04 06:35'
-Modified: '2026-04-09 06:47'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases: []
 Description: >-
   A collaborative process of communication aimed at reaching an agreement,
   emphasizing empathy, honesty, and vulnerability while acknowledging the human
   emotions and preferences involved.
 new_schema: true
+Topic:
+  - '[[Collaborative Communication]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -47,9 +51,3 @@ Only by realizing this holistic picture of negotiations, could we be able to fin
 ## Visual
 
 ![Negotiation is an act of connection](/notes/negotiation-is-an-act-of-connection.webp)
-
-## Overview
-🔼Topic:: [Collaborative Communication](/notes/collaborative-communication.md)
-◀Origin::
-🔗Link::
-

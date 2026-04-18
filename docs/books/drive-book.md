@@ -1,19 +1,23 @@
 ---
 UUID: 20221208221323
 Created: '2022-12-08 22:13'
-Modified: '2025-03-30 03:46'
+Modified: '2026-04-13 06:12'
 tags: []
 Author:
   - '[[Daniel H. Pink]]'
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 242
 Rate: 3
 PublishDate: 2011-04-05T00:00:00.000Z
@@ -21,26 +25,48 @@ FinishDate: 2022-12-08T00:00:00.000Z
 Cover: >-
   http://books.google.com/books/content?id=A-agLi2ldB4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/6452796-drive'
+Description: >-
+  It argues that external motivation can undermine creativity and ethical
+  behavior, diminishing intrinsic motivation. To foster intrinsic motivation,
+  individuals require autonomy, mastery through challenging goals, and a sense
+  of purpose.
+FullTitle: Drive - The Surprising Truth About What Motivates Us
+StartDate: 2022-12-01T00:00:00.000Z
+ASIN: B004P1JDJO
+Reread: 0
+Topic:
+  - '[[Motivation (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Drive (book)
 
-## Connect
-🔼Topic:: [Motivation (Map)](/mocs/motivation-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **External motivation is harmful** - more often than not, external motivation hurts creativity, our focus, and encourages unethical behavior, and more harmful is that it crowds out intrinsic motivation, without incentives we lack the will to do it anymore
 2. **Autonomy mastery and purpose** - To support intrinsic motivation, people need a sense of autonomy, i.e freedom of choice over their strategy and decisions, a challenging goal that will bring flow, and a sense of purpose to drive them to action.
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Pay people enough** - set compensation so money is "off the table" (pay fairly and generously) to avoid extrinsic crowding-out of motivation.
+2. **Offer unexpected rewards after completion** - give extrinsic rewards sparingly and unpredictably (e.g., a surprise bonus, party, or praise) only after a task is finished.
+3. **Grant autonomy over the four T’s** - give each person control of their Task, Time, Technique, and Team (allow flexible schedules, methods, and team choices).
+4. **Give 20% project time** - allocate regular "free time" for people to pursue their own creative or improvement projects.
+5. **Design tasks for flow** - set "goldilocks" challenges (match difficulty to skill) and run periodic flow checks during the day.
+6. **Build mastery routines** - practice daily learning/improvement, persist through hard days (grit), and test mastery by teaching the skill to others.
+7. **Cultivate a growth mindset** - praise effort and learning (not innate intelligence) and frame work as an opportunity to improve.
+8. **Clarify and connect to purpose** - help people define their "sentence" or larger cause and tie tasks to that purpose (use oaths or explicit purpose statements).
+9. **Start small and include the team in goals** - solicit team feedback, set cooperative goals together, and pilot changes incrementally.
+10. **Remove perverse incentives** - avoid commission-heavy or easily gamed metrics; favor structures that reduce competition and unethical shortcuts.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 the book is short, to the point, the structure is clear and I really liked that all the tips were concentrated at the end, along with summaries of different length (a sentence, a page, and by chapter). This can be really be helpful as a manual Post reading. Also, no promises on changing the world or groundbreaking truth, simply an acknowledgement of what's best to do now days
@@ -50,15 +76,15 @@ The content of this book is a three in terms of novelty, but in any other case i
 
 🧱 *Implementations and limitations of it are...*
 the focus on this book is changing business norms, so its less relevant to individuals, although it tries to be.
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
-### 🖼️Outline
+### Outline
 
-![Drive (book).webp](/books/drive-book.webp)
+![Drive (book)](/books/drive-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### Intro
 We each have 3 types of motivation:
@@ -66,7 +92,7 @@ We each have 3 types of motivation:
 2. external (Motivation 2.0 - rewards and punishments)
 3. internal (Motivation 3.0 - passion, interest...)
 
-[External Motivation](/notes/external-motivation.md) causes us to be fixed on these external rewards [Incentives](/notes/incentives.md), so that when they are gone we no longer have the motivation (its [Crowding Out](/notes/crowding-out.md) other types of motivation).
+[External motivation crowds out intrinsic drive and sustainability](/notes/external-motivation-crowds-out-intrinsic-drive-and-sustainability.md) causes us to be fixed on these external rewards [Incentives shape behavior by making certain actions more attractive](/notes/incentives-shape-behavior-by-making-certain-actions-more-attractive.md), so that when they are gone we no longer have the motivation (its [One activity displaces another when pursued excessively](/notes/one-activity-displaces-another-when-pursued-excessively.md) other types of motivation).
 
 :::note[intro]
 
@@ -76,16 +102,16 @@ We each have 3 types of motivation:
 
 ### Part 1 - why External Motivation is Bad
 
-our biological motivation (system 1.0) was the primary motivation while we were hunter-gatherers, not a lot more than simply animals. however, the introduction of the [Industrial Revolution](/notes/industrial-revolution.md) has brought forth the motivation 2.0 system, which is external rewards and punishments. Topics like productivity, and efficiency were introduced, and our actions have become measured, in a way that efficiency was rewarded, and bad behavior was punished [Quantifiable self](/notes/quantifiable-self.md).
+our biological motivation (system 1.0) was the primary motivation while we were hunter-gatherers, not a lot more than simply animals. however, the introduction of the [Industrial Revolution](/notes/industrial-revolution.md) has brought forth the motivation 2.0 system, which is external rewards and punishments. Topics like productivity, and efficiency were introduced, and our actions have become measured, in a way that efficiency was rewarded, and bad behavior was punished [Self-knowledge can be driven by data](/notes/self-knowledge-can-be-driven-by-data.md).
 
-however, **nowadays we need a new kind of motivation. Because external motivation hurts us in the way we organize, think, and do what we do**. It seems that [Intrinsic Motivation](/notes/intrinsic-motivation.md) is the most valuable resource to businesses nowadays. Workers who achieve [Flow](/notes/flow.md) perform better than workers who are rewarded for their achievements.
+however, **nowadays we need a new kind of motivation. Because external motivation hurts us in the way we organize, think, and do what we do**. It seems that [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) is the most valuable resource to businesses nowadays. Workers who achieve [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md) perform better than workers who are rewarded for their achievements.
 
 #### The Rise and Fall of Motivation 2.0
 
 external motivation is problematic because:
-1. **it assumes we are rational agents**, but as we see in recent developments in behavioral economics, we are very irrational in some cases [Econs](/notes/econs.md).
+1. **it assumes we are rational agents**, but as we see in recent developments in behavioral economics, we are very irrational in some cases [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md).
 2. **its useful when the job/behavior's rules are simple**, but when you introduce [Complexity](/notes/complexity.md), such in our high-skilled work nowadays, its a more challenging and problematic system to implement.
-3. **We have greater needs than monetary goals**, as seen in [Maslows pyramid](/notes/maslows-pyramid.md). so external motivation can only get you so far
+3. **We have greater needs than monetary goals**, as seen in [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md). so external motivation can only get you so far
 
 :::note[The Rise and Fall of Motivation 2.0]
 
@@ -99,11 +125,11 @@ external motivation is problematic because:
 
 
 #### Seven Reasons Carrot and Sticks Often Don't Work
-1. **it makes us focus on the reward instead** of the work we do [Goodhart’s Law](/notes/goodhart’s-law.md), reducing productivity
+1. **it makes us focus on the reward instead** of the work we do [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md), reducing productivity
 2. **It crowds out internal motivation**. so perhaps we will be more motivated in the short term, but lose interest in the long term. It makes us believe that what we do is "work", and cannot be "fun" or "interesting" (why do it for myself when I can do it for money)
-3. **It damages creativity**, since usually the external rewards are time based, and in situations of pressure of deadline, we tend to take fewer risks or experiment, so we go for more basic and straightforward solutions. [Experimentation](/notes/testing.md)
-4. **it encourages cheating and unethical behavior** (either by "the end justifies the means"), or by "economizing" social situations (if being late is punishable by a fine, that means that its an option, rather than a "vice"). [Commodification](/notes/commodification.md)
-5. **it makes us focus on the short term** rather than the long term [Present Bias](/notes/present-bias.md)
+3. **It damages creativity**, since usually the external rewards are time based, and in situations of pressure of deadline, we tend to take fewer risks or experiment, so we go for more basic and straightforward solutions. [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md)
+4. **it encourages cheating and unethical behavior** (either by "the end justifies the means"), or by "economizing" social situations (if being late is punishable by a fine, that means that its an option, rather than a "vice"). [Commodification turns non-tradable values into economic transactions](/notes/commodification-turns-non-tradable-values-into-economic-transactions.md)
+5. **it makes us focus on the short term** rather than the long term [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md)
 
 :::note[Seven Reasons Carrots and Sticks (Often) Don’t Work]
 
@@ -155,7 +181,7 @@ those with internal motivation are:
 
 #### Autonomy
 
-to grow type i workers (internal motivation), they need [Autonomy](/notes/agency.md) over:
+to grow type i workers (internal motivation), they need [Autonomy](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) over:
 1. **tasks** - like google that gives 20% "free time" to work on whatever you like. It shows that most creative projects or useful improvements come from that time.
 2. **Time** - workers are more productive when they have control over their schedule. In terms of working hours, but also vacation days. What's important is getting things done, not how much time you work
 3. **Technique** - your work is not scripted, have the freedom to find the best way to do it yourself
@@ -172,10 +198,10 @@ to grow type i workers (internal motivation), they need [Autonomy](/notes/agency
 
 #### Mastery
 
-[Mastery](/notes/mastery.md), and the sense of type I motivation requires engagement with the work, to do this we need three things:
+[Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md), and the sense of type I motivation requires engagement with the work, to do this we need three things:
 1. **Flow** - the work should be a "goldilocks challenge" - just the right amount of challenge to skill.
-2. **Mindset** - people with (Related: [Growth Mindset](/notes/growth-mindset.md)) will tend to look at work differently, as an opportunity for learning and adapting, which will increase their engagement.
-3. **Grit** - to achieve mastery one must be willing to do it even on the bad days. Especially considering that in order to be really good in something, it takes time, effort and consistency, all of those require grit. [Grit](/notes/grit.md)
+2. **Mindset** - people with (Related: [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)) will tend to look at work differently, as an opportunity for learning and adapting, which will increase their engagement.
+3. **Grit** - to achieve mastery one must be willing to do it even on the bad days. Especially considering that in order to be really good in something, it takes time, effort and consistency, all of those require grit. [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md)
 
 :::note[Mastery]
 
@@ -186,7 +212,7 @@ to grow type i workers (internal motivation), they need [Autonomy](/notes/agency
 
 #### Purpose
 
-**what fuels type I workers is purpose, and not only monetary gains** (although these are important as well). Modern business have to take that into account, their companies can no longer be just profit maximizers, they have to also come with a purpose, a way to demonstrate that they increase people's welfare or bring social change. This can also be done using words. Oaths have a strong effect on our sense of purpose, like the hypocritic oath of doctors. [job crafting](/notes/job-crafting.md)
+**what fuels type I workers is purpose, and not only monetary gains** (although these are important as well). Modern business have to take that into account, their companies can no longer be just profit maximizers, they have to also come with a purpose, a way to demonstrate that they increase people's welfare or bring social change. This can also be done using words. Oaths have a strong effect on our sense of purpose, like the hypocritic oath of doctors. [Finding meaning in work increases fulfillment and resilience](/notes/finding-meaning-in-work-increases-fulfillment-and-resilience.md)
 
 :::note[Purpose]
 
@@ -220,7 +246,7 @@ to grow type i workers (internal motivation), they need [Autonomy](/notes/agency
 #### For Businesses:
 Open your team for feedback, prompt autonomy and mastery. Less competition, more cooperation. Add the "20% private research time".
 Start small, and include your team in goal settings.
-Get money out of the equation - pay fairly and generously, and avoid commissions or other metrics that could be tricked. [People First](/notes/people-first.md)
+Get money out of the equation - pay fairly and generously, and avoid commissions or other metrics that could be tricked. [People are the most valuable organizational resource](/notes/people-are-the-most-valuable-organizational-resource.md)
 
 #### For Education:
-Give kids time to explore what they want. Have them present a personal project. Don't connect between allowance and doing chores. Praise efforts, not intelligence [how to give praises](/notes/how-to-give-praises.md). Help them see the purpose of what they're doing.
+Give kids time to explore what they want. Have them present a personal project. Don't connect between allowance and doing chores. Praise efforts, not intelligence [Praise effort not ability](/notes/praise-effort-not-ability.md). Help them see the purpose of what they're doing.

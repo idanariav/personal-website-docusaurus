@@ -1,19 +1,23 @@
 ---
 UUID: 20240101072222
 Created: '2024-01-01 07:22'
-Modified: '2024-10-12 08:47'
+Modified: '2026-04-13 06:13'
 tags: []
 Author:
   - '[[Michelle Icard]]'
 Genre: Family & Relationships
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 288
 Rate: 3
 PublishDate: 2023-08-22T00:00:00.000Z
@@ -23,29 +27,52 @@ Cover: >-
 URL: >-
   https://www.goodreads.com/book/show/63428340-eight-setbacks-that-can-make-a-child-a-success
 aliases: null
+Description: >-
+  It argues that manageable failures are essential for children's growth. By
+  allowing them the freedom to experience setbacks, and supporting them through
+  the process using the contain, resolve, evolve method, we foster resilience
+  and strength in their development.
+FullTitle: >-
+  8 Setbacks That Can Make a Child a Success - What to Do and What to Say to
+  Turn "Failures" into Character-Building Moments
+StartDate: 2024-06-10T00:00:00.000Z
+ASIN: B0BMKSQ1Q7
+Reread: 0
+Topic:
+  - '[[Education (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Eight Setbacks That Can Make a Child a Success
 
-## 🔗Connect
-🔼Topic:: [Education (Map)](/mocs/education-map.md)
-
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Failure's are key to growth** - If we expect too much or too little from our kids, we are setting them up to fail (in a bad way). We need to give them the freedom to fail and succeed on their own, to learn and grow from it, because it is much better now when failures are still manageable, and you are still here to support them. To help them with failures use the contain, resolve, evolve method:
 	1. **Contain** - Make sure the crisis isn't spreading
 	2. **Resolve** - Help them solve the problem at hand
 	3. **Evolve** - Help them grow stronger from it
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Accept failures without judgment** - when your child fails, put judgment aside and validate them so they trust you and stop hiding mistakes.
+2. **Let them fail in small, manageable ways** - deliberately allow early, low-risk failures so your child can learn and build resilience instead of protecting them from every mistake.
+3. **Prepare yourself before intervening** - calm your mind and body (walk, meditate, bath) and resist gut impulses so you can see the child’s actual state and avoid unhelpful rescue.
+4. **Contain a crisis** - control the narrative (who knows what), affirm your love, reduce exposure (people/technology/places), and gather truthful information before acting.
+5. **Resolve the problem by taking concrete steps** - take necessary actions (apology, changed behavior, limits/rewards, rebuilding trust), update relevant communication, and engage supportive people with relevant experience.
+6. **Evolve from the failure** - give your child time and space to process, triage your own fears, deliberately face one fear, uphold their rights to grow, set time-based bonuses for improved behavior, and help them gain perspective.
+7. **Encourage open rule discussions** - invite your child to argue about rules rather than breaking them in secret; acknowledge intentions and redirect toward amends and future prevention.
+8. **Protect their privacy and independence** - allow your child private space to experiment, choose friends, take reasonable risks, and practice decision-making to develop agency and authenticity.
+9. **Avoid rescuing and micromanaging** - stop intervening to shield them from normal adversity; let them practice coping, embarrassment recovery, and problem-solving so competence develops.
+10. **Help them practice toward competence and community** - support your child in finding an area of interest, set achievable practice goals, and encourage participation in communities where they can develop skills and belonging.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 More resilient, successful teens that can face failures
@@ -54,28 +81,28 @@ More resilient, successful teens that can face failures
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 The examples in the book are less helpful than the writer believes they are, while they do cover most of the book. The contain resolve evolve seems partially unhelpful in some of the cases, and the q&a section seems unrelated to this method (although the subtext does share a common theme)
 
-### 🖼️Outline
+### Outline
 
-![Eight Setbacks That Can Make a Child a Success (book).webp](/books/eight-setbacks-that-can-make-a-child-a-success-book.webp)
+![Eight Setbacks That Can Make a Child a Success (book)](/books/eight-setbacks-that-can-make-a-child-a-success-book.webp)
 
-## ## 📒 Notes
+## ## Notes
 
 ### Introduction
 
-We grown ups have an easier time than children dealing with [failure](/notes/failure.md), because we have:
+We grown ups have an easier time than children dealing with [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md), because we have:
 1. *more freedom* - we can choose which challenges to face and how
 2. *more perspective* - we know that most failures are not that bad
 
-And yet we still avoid it whenever we can, or try to mask it to protect our image [Image vs core](/notes/form-vs-essence.md). Our children on the other hand are facing failure every day without a way out, and since they don't know how to deal with it, even small things can be a big deal.
+And yet we still avoid it whenever we can, or try to mask it to protect our image [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md). Our children on the other hand are facing failure every day without a way out, and since they don't know how to deal with it, even small things can be a big deal.
 
 **We are responsible for teaching them how to deal with failures**, and it starts with:
-1. **Acceptance** - [validation](/notes/validation.md), to put judgment aside and accept them as they are.
-2. **See it as an opportunity for growth** - failures are good, each provides a lesson on how and where we should grow [Obstacles as stepping stones](/notes/creative-destruction.md)
+1. **Acceptance** - [Accepting others feelings and perspectives without dismissal](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md), to put judgment aside and accept them as they are.
+2. **See it as an opportunity for growth** - failures are good, each provides a lesson on how and where we should grow [Obstacles as stepping stones](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
 
 To effectively help them grow, we should use the *contain, resolve, evolve* model.
 
@@ -104,11 +131,11 @@ The common types of failures and attitudes we might face:
 
 #### Understanding Failure and how it Functions
 
-When parents expect too much of their children, they are not pushing them to rise up, but rather burn down [expectations](/notes/expectations.md) [Depression](/notes/depression.md).
+When parents expect too much of their children, they are not pushing them to rise up, but rather burn down [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) [Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md).
 
-However, over protection is also problematic [Moderation](/notes/balance-extremes.md). Failure is the only way to grow, so [Dont Jump to the Rescue](/notes/dont-jump-to-the-rescue.md). Also, we can't be naive, **we can't stop our kids from experiencing failure, so better to use early failures when they're still small and manageable** [Simulations](/notes/simulations.md). Experiencing failures without proper mindset or the support we parents can provide will only cause them to learn [helplessness](/notes/helplessness.md). The only positive outcome from failure is if we manage to turn it into a positive experience.
+However, over protection is also problematic [Moderation](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md). Failure is the only way to grow, so [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md). Also, we can't be naive, **we can't stop our kids from experiencing failure, so better to use early failures when they're still small and manageable** [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md). Experiencing failures without proper mindset or the support we parents can provide will only cause them to learn [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md). The only positive outcome from failure is if we manage to turn it into a positive experience.
 
-We need to let go of [perfectionism](/notes/perfectionism.md), they will surely fail or do it badly on their first attempts [first batch trash](/notes/first-batch-trash.md), but if we don't allow them to do it badly, they won't reach the point where they do it well. Similarly, of course we want to protect our children, but in most cases safety is hardly at risk when we let them fail, most failures are not that dangerous or irreversible.
+We need to let go of [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md), they will surely fail or do it badly on their first attempts [First attempts are inherently lower quality than iterations](/notes/first-attempts-are-inherently-lower-quality-than-iterations.md), but if we don't allow them to do it badly, they won't reach the point where they do it well. Similarly, of course we want to protect our children, but in most cases safety is hardly at risk when we let them fail, most failures are not that dangerous or irreversible.
 
 :::note[Understanding Failure and How It Functions]
 
@@ -139,7 +166,7 @@ Our family and community benefits from having capable, responsible adults as it'
 
 #### Keeping Children Safe as They Take More Risks
 
-Kids have a tendency to take risks, but this tendency is indifferent to where those risks are taken. Therefore it would be much preferable if they would be done in your home with your guidance if needed, instead of letting them ve by themselves out there where the failures and risks are much greater. Therefore the worst thing we can do is to [Micro-Management](/notes/micro-management.md), the "not under my roof" policy will only push them to do it somewhere else, where you couldn't help them. Its important to let your kids freedom and privacy.
+Kids have a tendency to take risks, but this tendency is indifferent to where those risks are taken. Therefore it would be much preferable if they would be done in your home with your guidance if needed, instead of letting them ve by themselves out there where the failures and risks are much greater. Therefore the worst thing we can do is to [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md), the "not under my roof" policy will only push them to do it somewhere else, where you couldn't help them. Its important to let your kids freedom and privacy.
 
 Think of this as your kids bill of rights:
 1. Make mistakes and have opportunities to fix them - if we don't show them that making mistakes is normal, they will be ashamed and hide those.
@@ -164,8 +191,8 @@ Think of this as your kids bill of rights:
 #### Preparing Yourself for What's ahead
 
 When our child appears in crisis or when we think they are having a problem, we need to do two things:
-1. Relax our mind and body - we can't let [stress](/notes/stress.md) take over us, so first we have to calm our mind and body. Do meditation, take a walk or a bath, whatever you need
-2. Resist your instincts - while they seem helpful, most often our instincts on what should be the best reaction are wrong [Gut Feeling](/notes/heuristics.md), we should take a close look on the child's circumference, emotional state, and remember that they don't necessarily need saving
+1. Relax our mind and body - we can't let [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) take over us, so first we have to calm our mind and body. Do meditation, take a walk or a bath, whatever you need
+2. Resist your instincts - while they seem helpful, most often our instincts on what should be the best reaction are wrong [Gut Feeling](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.md), we should take a close look on the child's circumference, emotional state, and remember that they don't necessarily need saving
 
 :::note[Preparing Yourself for What’s Ahead]
 
@@ -254,7 +281,7 @@ Remember that teens are experiencing a huge power gap between you as parents and
 
 #### Failure to Believe in Oneself
 
-Confidence and talent are the result of practice [Practice beats talent](/notes/practice-beats-talent.md) [experience knowledge](/notes/experience-knowledge.md). Giving them inspirational speeches does nothing for their self esteem. Encourage them to practice more, to understand what is in their power to change [acceptance](/notes/acceptance.md) and focus on that, and let go of any stress related to things they cannot change.
+Confidence and talent are the result of practice [Practice beats talent](/notes/practice-beats-talent.md) [Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md). Giving them inspirational speeches does nothing for their self esteem. Encourage them to practice more, to understand what is in their power to change [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) and focus on that, and let go of any stress related to things they cannot change.
 
 We can't force our kids to believe in themselves, but we can encourage them to try.
 

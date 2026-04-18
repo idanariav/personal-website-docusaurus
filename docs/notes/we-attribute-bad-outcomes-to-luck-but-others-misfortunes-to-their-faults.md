@@ -5,17 +5,22 @@ Image: null
 tags: []
 UUID: 20220715053886
 Created: '2022-07-15 05:38'
-Modified: '2026-04-10 06:25'
+Modified: '2026-04-11 22:29'
 aliases:
   - Just World Bias
   - Fundemental Attribution Error
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Description: >-
   A cognitive bias where individuals believe that good outcomes result from
   personal merit while bad outcomes stem from personal failings, affecting
   perceptions of self and others.
 new_schema: true
+Topic:
+  - '[[Attribution Bias]]'
+Origin: '[[Hidden Brain]]'
+URL: >-
+  https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/39E17/traffic.megaphone.fm/HSW6583103718.mp3?updated=1635792853
 draft: false
 SiteProcssed: true
 ---
@@ -60,10 +65,3 @@ Therefore, we should:
 ## Visual
 
 ![Just World Bias](/notes/just-world-bias.webp)
-
-## Overview
-🔼Topic:: [Attribution Bias](/notes/attribution-bias.md)
-◀Origin::  [Hidden Brain](/notes/hidden-brain.md)
-🔗Link:: [Source](https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/39E17/traffic.megaphone.fm/HSW6583103718.mp3?updated=1635792853)
-
-

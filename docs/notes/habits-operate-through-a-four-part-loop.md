@@ -1,8 +1,8 @@
 ---
 UUID: 20221019213242
 Created: '2022-10-19 21:32'
-Modified: '2026-04-04 11:01'
-Version: 3
+Modified: '2026-04-11 22:22'
+Version: 4
 tags: []
 aliases:
   - The habit loop
@@ -15,6 +15,11 @@ Description: >-
   cues, cravings, actions, and rewards, emphasizing strategies to effectively
   establish positive habits.
 new_schema: true
+Topic:
+  - '[[Human Brain]]'
+  - '[[Habit Mechanics]]'
+Origin: '[[Atomic Habits (book)]]'
+URL: 'https://www.youtube.com/watch?v=G_WDLZ8pYrQ&t=992s'
 draft: false
 SiteProcssed: true
 ---
@@ -65,9 +70,3 @@ We can apply this knowledge by:
 ## Visual
 
 ![The habit loop](/notes/the-habit-loop.webp)
-
-## Overview
-🔼Topic:: [Human Brain](/notes/human-brain.md)
-🔼Topic:: [Habit Mechanics](/notes/habit-mechanics.md)
-◀Origin:: [Atomic Habits (book)](/books/atomic-habits-book.md)
-🔗Link:: [Atomic Habits](https://www.youtube.com/watch?v=G_WDLZ8pYrQ&t=992s)

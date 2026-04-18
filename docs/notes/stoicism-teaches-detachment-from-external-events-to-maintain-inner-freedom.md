@@ -1,13 +1,13 @@
 ---
 UUID: 20221112071520
 Created: '2022-11-12 07:15'
-Modified: '2026-04-04 10:59'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Stoicism
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   virtue through understanding perception, self-awareness, agency, and
   interconnectedness, particularly in the face of hardship and uncertainty.
 new_schema: true
+Topic:
+  - '[[Acceptance and Effortless Action]]'
+Origin: '[[How to think like a roman emperor (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -65,9 +69,3 @@ Stress inculcation would remove much of your [Stress can be adaptive or harmful 
 ## Visual
 
 ![Stoicism](/notes/stoicism.webp)
-
-## Overview
-🔼Topic:: [Acceptance and Effortless Action](/notes/acceptance-and-effortless-action.md)
-◀Origin:: [How to think like a roman emperor (book)](/books/how-to-think-like-a-roman-emperor-book.md)
-🔗Link::
-

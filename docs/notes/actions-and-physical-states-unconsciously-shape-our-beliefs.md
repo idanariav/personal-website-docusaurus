@@ -1,13 +1,13 @@
 ---
 UUID: 20231113161919
 Created: '2023-11-13 16:19'
-Modified: '2026-04-01 14:44'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Actions and physical states unconsciously shape our beliefs.png]]'
 ImageText: Two overlapping circles labeled Actions and Identity forming a Venn diagram
 Description: >-
@@ -18,6 +18,10 @@ aliases:
   - Cognitive Alignment
   - Cognitive Alignment
 new_schema: true
+Topic:
+  - '[[Identity Formation]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -55,8 +59,3 @@ It gets problematic when we are doing bad things. We can get stuck in a [Fixed m
 ## Visual
 
 ![Actions and physical states unconsciously shape our beliefs](/notes/actions-and-physical-states-unconsciously-shape-our-beliefs.webp)
-
-## Overview
-🔼Topic:: [Identity Formation](/notes/identity-formation.md)
-Origin::
-🔗Link::

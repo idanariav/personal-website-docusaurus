@@ -1,12 +1,12 @@
 ---
 UUID: 20240219083421
 Created: '2024-02-19 08:34'
-Modified: '2026-03-25 06:47'
+Modified: '2026-04-11 22:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 2
+Version: 3
 Image: '[[Automatic thinking processes drive fast emotional responses.png]]'
 ImageText: 'An eye directly connected to a body running, bypassing the brain'
 Description: >-
@@ -17,6 +17,10 @@ aliases:
   - System 1
   - Emotional Side
 new_schema: true
+Topic:
+  - '[[Human Brain]]'
+Origin: '[[thinking fast and slow (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ System one is beneficial for:
 ## Visual
 
 ![Automatic thinking processes drive fast emotional responses](/notes/automatic-thinking-processes-drive-fast-emotional-responses.webp)
-
-## Overview
-🔼Topic:: [Human Brain](/notes/human-brain.md)
-↩️Origin:: [thinking fast and slow (book)](/notes/thinking-fast-and-slow-book.md)
-🔗Link::
-

@@ -1,19 +1,23 @@
 ---
 UUID: 20221111065527
 Created: '2022-11-11 06:55'
-Modified: '2025-03-27 11:01'
+Modified: '2026-04-13 06:15'
 tags: []
 Author:
   - '[[Carol S. Dweck]]'
 Genre: Psychology
-Stored: Kindle
-ReadingStatus: Read
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
+excalidraw-export-transparent: false
+Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.02
+Version: 3
 Pages: 276
 Rate: 4
 PublishDate: 2006-02-28T00:00:00.000Z
@@ -21,25 +25,46 @@ FinishDate: 2022-11-11T00:00:00.000Z
 Cover: >-
   http://books.google.com/books/content?id=fdjqz0TPL2wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 URL: 'https://www.goodreads.com/book/show/40745.Mindset'
+Description: >-
+  It argues that nothing about you is permanent; skills and intelligence can be
+  improved. By viewing obstacles as learning opportunities, seeking feedback and
+  mentorship, and believing in others, personal growth is achievable.
+FullTitle: Mindset - The New Psychology of Success
+StartDate: 2022-11-04T00:00:00.000Z
+ASIN: B000FCKPHG
+Reread: 0
+Topic:
+  - '[[Mindset (Map)]]'
+Origin: null
 draft: false
 SiteProcssed: true
 ---
 
 # Mindset (book)
 
-## Connect
-🔼Topic:: [Mindset (Map)](/mocs/mindset-map.md)
-
 ## ✒️ Note-Making
 
-### 💡Clarify
+### Clarify
 🔈 *Summary of main ideas*
 nothing about you is permanent, you can improve your skills, your intelligence, and act better. you just have to treat obstacles as opportunities to learn, search for feedback and mentors, and believe in others.
-### 🗒️Relate
+### Relate
 
 ⛓ *Life lessons, action items*
 
-### 🔍Critique
+### Act
+📋*What should I do to achieve the goals set out by this book?*
+1. **Seek challenges** - intentionally pursue tasks that stretch your abilities rather than choosing easier options to protect your image.
+2. **Treat failure as data** - when you fail, analyze what happened, extract lessons, and plan specific steps to improve.
+3. **Praise effort and strategies** - give feedback that highlights hard work, learning strategies, and persistence instead of innate talent.
+4. **Request and use feedback** - actively ask for honest criticism and use it to adjust strategies and skills.
+5. **Separate action from identity** - remind yourself that mistakes don’t define you and state actionable steps to change behaviors.
+6. **Adopt a learning-oriented goal scale** - frame goals as progress on a continuum and track incremental improvements.
+7. **Coach, don’t judge** - when responding to others’ setbacks, focus on teaching how to improve rather than assigning blame.
+8. **Set high standards and offer support** - establish demanding expectations for yourself and others while providing guidance and resources to meet them.
+9. **Cultivate openness as a leader** - solicit dissenting views, welcome new ideas, and develop people rather than surrounding yourself with yes-people.
+10. **Work on relationships continuously** - invest regular effort in communicating, resolving conflicts, and adapting to change instead of expecting relationships to be effortless.
+
+### Critique
 
 ✅ *by following this method, what will happen?*
 growth mindset is truly a key to self improvement, enjoyment and success in all areas of life. it is a way to have less stress, anger when facing obstacles.
@@ -49,22 +74,22 @@ the book is a clear repetition of a simple and narrow idea, in less than 20% of 
 
 🧱 *Implementations and limitations of it are...*
 
-### 🗨️Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
-### 🖼️Outline
+### Outline
 
-![Mindset (book).webp](/books/mindset-book.webp)
+![Mindset (book)](/books/mindset-book.webp)
 
-## 📒 Notes
+## Notes
 
 ### The Mindset
 There are two options:
-1. **Fixed mindset** - the belief that what you have at birth is fixed, for example intelligence is fixed. In those cases you will want to prove yourself, since if everyone won't change, then you want to [signal](/notes/signaling.md) that you're part of the good ones. (Related:: [Fixed Mindset](/notes/fixed-mindset.md) )
-2. **growth mindset** - instead of proving, they are growing. *Intelligence and other skills could be cultivated*. [Growth Mindset](/notes/growth-mindset.md)
+1. **Fixed mindset** - the belief that what you have at birth is fixed, for example intelligence is fixed. In those cases you will want to prove yourself, since if everyone won't change, then you want to [signal](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md) that you're part of the good ones. (Related:: [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md) )
+2. **growth mindset** - instead of proving, they are growing. *Intelligence and other skills could be cultivated*. [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)
 
-We have to remember that genes and biology are not fixed but rather are dependent and respond to the environment ([nature vs nurture](/notes/nature-vs-nurture.md))
+We have to remember that genes and biology are not fixed but rather are dependent and respond to the environment ([Nature vs nurture](/notes/nature-vs-nurture.md))
 
 :::note[THE MINDSETS]
 
@@ -80,17 +105,17 @@ We have to remember that genes and biology are not fixed but rather are dependen
 
 
 ### Into the Mindset
-those with a growth mindset not only seek the [Challenge](/notes/struggle.md), they thrive in it. they search for [Feedback](/notes/feedback.md) and see everything as a chance to learn and improve. [Obstacles as stepping stones](/notes/creative-destruction.md)
-For a fixed mindset, failure is connected to your identity, it defines you, and since your skills are immutable, you have nothing to do with the failure, only to try and boost your self esteem by looking for easier challenges, or blaming the world. [Helplessness](/notes/helplessness.md).
+those with a growth mindset not only seek the [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md), they thrive in it. they search for [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md) and see everything as a chance to learn and improve. [Obstacles as stepping stones](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
+For a fixed mindset, failure is connected to your identity, it defines you, and since your skills are immutable, you have nothing to do with the failure, only to try and boost your self esteem by looking for easier challenges, or blaming the world. [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md).
 
-While for growth mindset, there is a disconnect between action and identity, [What we do is not who we are](/notes/cognitive-distancing.md) you are not defined by your failures, since you know they are a stepping stone on your way to become better. [Failure](/notes/failure.md)
+While for growth mindset, there is a disconnect between action and identity, [What we do is not who we are](/notes/separating-actions-from-identity-allows-growth.md) you are not defined by your failures, since you know they are a stepping stone on your way to become better. [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md)
 
-**It's not that growth mindset people don't feel bad when they fail, the difference is that they use those feelings as motivation** to learn and improve by using [Emotional Aikido](/notes/emotional-aikido.md)
+**It's not that growth mindset people don't feel bad when they fail, the difference is that they use those feelings as motivation** to learn and improve by using [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md)
 
-Fixed mindset people tend to view success as binary [Binary Thinking](/notes/binary-thinking.md), either I succeeded or not. But growth mindset people tend to **view their actions and goals as a scale, on their way to be their best self**.
+Fixed mindset people tend to view success as binary [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md), either I succeeded or not. But growth mindset people tend to **view their actions and goals as a scale, on their way to be their best self**.
 
 Labeling and praise:
-[how to give praises](/notes/how-to-give-praises.md)
+[Praise effort not ability](/notes/praise-effort-not-ability.md)
 *You should praise effort, not abilities* - for example "you worked really hard, or it's good when you so x" and not "you are so smart".
 When a fixed mindset gets positive praise, they are afraid to lose it so they will avoid challenges, and when they get negative labeling they will be afraid that it's correct. Having a growth mindset and praising effort will use these praises as motivation, and learn to avoid negative labeling since it doesn't connect to their identity.
 
@@ -124,7 +149,7 @@ When a fixed mindset gets positive praise, they are afraid to lose it so they wi
 
 ### Business: Mindset and Leadership
 
-CEOs with fixed mindsets are focused on their [Ego](/notes/form-vs-essence.md) and image, they surround themselves with yes men, avoid criticism and are often mean to those beneath them. **While growth mindset leaders see their work as part of a team**, they search for feedback and criticism, and try to develop the potential of their employees. [People First](/notes/people-first.md) [Transparency](/notes/transparency.md) [Cooperation](/notes/cooperation.md)
+CEOs with fixed mindsets are focused on their [Ego](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md) and image, they surround themselves with yes men, avoid criticism and are often mean to those beneath them. **While growth mindset leaders see their work as part of a team**, they search for feedback and criticism, and try to develop the potential of their employees. [People are the most valuable organizational resource](/notes/people-are-the-most-valuable-organizational-resource.md) [Transparency requires actively revealing truth to others](/notes/transparency-requires-actively-revealing-truth-to-others.md) [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md)
 
 :::note[BUSINESS: MINDSET AND LEADERSHIP]
 
@@ -140,7 +165,7 @@ CEOs with fixed mindsets are focused on their [Ego](/notes/form-vs-essence.md) a
 
 ### Relationships: Mindets in Love (or not)
 
-fixed mindset people believe that relationships should come easy, in a binary way - either it works or it doesn't. happily ever after since day one. However this is a belief that is a source of heartbreaks. Strong, **happy relationships demand constant work and upkeep, it relies on a stable communication, on understanding that people can change**, and probably will change throughout their lives, so no challenge is necessarily permanent. [Relationships](/notes/relationships.md)
+fixed mindset people believe that relationships should come easy, in a binary way - either it works or it doesn't. happily ever after since day one. However this is a belief that is a source of heartbreaks. Strong, **happy relationships demand constant work and upkeep, it relies on a stable communication, on understanding that people can change**, and probably will change throughout their lives, so no challenge is necessarily permanent. [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md)
 
 :::note[RELATIONSHIPS: MINDSETS IN LOVE (OR NOT)]
 
@@ -173,9 +198,9 @@ and when something bad happens - be a teacher, not a judge. Focus on how can we 
 
 ### Changing Mindsets
 
-To see yourself as a work in progress doesn't mean you are less yourself, or that you are not whole, but rather the opposite. In the process of self actualizing, you become yourself [transcendence](/notes/transcendence.md).
+To see yourself as a work in progress doesn't mean you are less yourself, or that you are not whole, but rather the opposite. In the process of self actualizing, you become yourself [Transcendence is the act of continuously becoming a better self](/notes/transcendence-is-the-act-of-continuously-becoming-a-better-self.md).
 
-Embracing new beliefs doesn't mean that the old ones are discarded, but rather they exist side by side with the old ones [Apperception](/notes/layering.md)
+Embracing new beliefs doesn't mean that the old ones are discarded, but rather they exist side by side with the old ones [Apperception](/notes/learning-adds-new-knowledge-layers-instead-of-replacing-old-understanding.md)
 
 :::note[CHANGING MINDSETS]
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20240101065022
 Created: '2024-01-01 06:50'
-Modified: '2026-04-08 15:22'
+Modified: '2026-04-11 22:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Intrinsic Motivation
   - Internal motivation
@@ -15,6 +15,10 @@ Description: >-
   A powerful and sustainable form of motivation driven by internal reasons, such
   as passion and purpose, rather than external rewards like money or status.
 new_schema: true
+Topic:
+  - '[[Peak States and Optimal Experience]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ To cultivate intrinsic motivation, you can:
 ## Visual
 
 ![Intrinsic Motivation](/notes/intrinsic-motivation.webp)
-
-## Overview
-🔼Topic:: [Peak States and Optimal Experience](/notes/peak-states-and-optimal-experience.md)
-↩️Origin::
-🔗Link::
-

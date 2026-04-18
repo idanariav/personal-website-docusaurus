@@ -1,13 +1,13 @@
 ---
 UUID: 20230322072830
 Created: '2023-03-22 07:28'
-Modified: '2026-04-08 17:07'
+Modified: '2026-04-11 22:30'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[You are responsible for what happens under your watch.png]]'
 ImageText: 'Labeled boxes - Actions, mistakes and results'
 Description: >-
@@ -17,6 +17,10 @@ Description: >-
 aliases:
   - Accountability
 new_schema: true
+Topic:
+  - '[[Proactive Agency and Accountability]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -49,9 +53,3 @@ It is a measure of both [Speaking truth about yourself and others enables authen
 ## Visual
 
 ![You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.webp)
-
-## Overview
-Topic:: [Proactive Agency and Accountability](/notes/proactive-agency-and-accountability.md)
-◀Origin::
-🔗Link::
-

@@ -1,13 +1,13 @@
 ---
 UUID: 20230420100742
 Created: '2023-04-20 10:07'
-Modified: '2026-04-09 17:25'
+Modified: '2026-04-11 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Mental Representations
   - Envisioning
@@ -17,6 +17,10 @@ Description: >-
   the storage, retrieval, and application of information, exemplified by
   expertise in fields like chess.
 new_schema: true
+Topic:
+  - '[[Active Learning and Deep Encoding]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,10 +58,3 @@ Additionally, they tested whether chess masters remember board configurations be
 ## Visual
 
 ![Mental Representations](/notes/mental-representations.webp)
-
-## Overview
-🔼Topic:: [Active Learning and Deep Encoding](/notes/active-learning-and-deep-encoding.md)
-🔼Topic:: [Active Learning and Deep Encoding](/notes/active-learning-and-deep-encoding.md)
-◀Origin::
-🔗Link::
-

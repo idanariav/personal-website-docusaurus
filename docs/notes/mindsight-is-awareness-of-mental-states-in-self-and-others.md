@@ -1,13 +1,13 @@
 ---
 UUID: 20250227071927
 Created: '2025-02-27 07:19'
-Modified: '2026-04-09 08:34'
+Modified: '2026-04-11 22:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Mindsight
   - Perspective taking
@@ -16,6 +16,10 @@ Description: >-
   others, through empathy and clarity, allowing for an unbiased view of
   individual realities.
 new_schema: true
+Topic:
+  - '[[Self-Knowledge and Metacognition]]'
+Origin: '[[Mindsight (book)]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -51,8 +55,3 @@ Mindsight is gained through [exprience](/notes/some-knowledge-requires-direct-ex
 ## Visual
 
 ![mindsight](/notes/mindsight.webp)
-## Overview
-🔼Topic:: [Self-Knowledge and Metacognition](/notes/self-knowledge-and-metacognition.md)
-↩️Origin:: [Mindsight (book)](/notes/mindsight-book.md)
-🔗Link::
-

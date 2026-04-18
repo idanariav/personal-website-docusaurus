@@ -1,13 +1,13 @@
 ---
 UUID: 20231226191748
 Created: '2023-12-26 19:17'
-Modified: '2026-04-08 17:16'
+Modified: '2026-04-11 22:17'
 tags: []
 excalidraw-plugin: raw
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[A true apology includes intent to repair.png]]'
 ImageText: 'Two people sitting, one is crying'
 Description: >-
@@ -19,6 +19,10 @@ aliases:
   - Forgivness
   - Repair
 new_schema: true
+Topic:
+  - '[[Honest Communication]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -50,9 +54,3 @@ Apologizing is harder to do when we are stuck in [Actions and physical states un
 ## Visual
 
 ![A true apology includes intent to repair](/notes/a-true-apology-includes-intent-to-repair.webp)
-
-## Overview
-🔼Topic:: [Honest Communication](/notes/honest-communication.md)
-↩️Origin::
-🔗Link::
-

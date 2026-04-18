@@ -1,13 +1,13 @@
 ---
 UUID: 20240115181452
 Created: '2024-01-15 18:14'
-Modified: '2026-04-09 06:47'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Deliberation is a discussion that bridges different perspectives.png]]'
 ImageText: >-
   Two people exchanging speech bubbles in a circular conversation with
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Deliberation
 new_schema: true
+Topic:
+  - '[[Collaborative Communication]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -58,9 +62,3 @@ When we talk instead of [argue](/notes/debate-treats-disagreement-as-a-zero-sum-
 ## Visual
 
 ![Deliberation is a discussion that bridges different perspectives](/notes/deliberation-is-a-discussion-that-bridges-different-perspectives.webp)
-
-## Overview
-🔼Topic:: [Collaborative Communication](/notes/collaborative-communication.md)
-↩️Origin::
-🔗Link::
-

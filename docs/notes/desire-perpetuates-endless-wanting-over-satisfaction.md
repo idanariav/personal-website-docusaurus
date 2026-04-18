@@ -1,13 +1,13 @@
 ---
 UUID: 20231225065338
 Created: '2023-12-25 06:53'
-Modified: '2026-04-10 06:22'
+Modified: '2026-04-11 22:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Desire perpetuates endless wanting over satisfaction.png]]'
 ImageText: A person being pulled toward magnets representing attraction and want
 Description: >-
@@ -19,6 +19,10 @@ aliases:
   - Wanting
   - Hedonic happiness
 new_schema: true
+Topic:
+  - '[[Avoidance and Defense Mechanisms]]'
+Origin: '[[Elucidations]]'
+URL: 'https://share.snipd.com/episode/84d6576d-4f94-407c-a172-3774cbc9ca47'
 draft: false
 SiteProcssed: true
 ---
@@ -56,9 +60,3 @@ Desire can be problematic when it causes [Attachment distorts how we see the thi
 ## Visual
 
 ![Desire perpetuates endless wanting over satisfaction](/notes/desire-perpetuates-endless-wanting-over-satisfaction.webp)
-
-## Overview
-🔼Topic:: [Avoidance and Defense Mechanisms](/notes/avoidance-and-defense-mechanisms.md)
-↩️Origin:: [Elucidations](/notes/elucidations.md)
-🔗Link:: [https://share.snipd.com/episode/84d6576d-4f94-407c-a172-3774cbc9ca47](https://share.snipd.com/episode/84d6576d-4f94-407c-a172-3774cbc9ca47)
-

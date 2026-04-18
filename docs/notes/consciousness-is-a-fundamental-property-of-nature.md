@@ -1,8 +1,8 @@
 ---
 UUID: 20230612180908
 Created: '2023-06-12 18:09'
-Modified: '2026-04-10 11:21'
-Version: 2
+Modified: '2026-04-11 22:19'
+Version: 3
 tags: []
 aliases:
   - Panpsychism
@@ -11,6 +11,10 @@ Description: >-
   of all entities in the universe, suggesting that even inanimate objects
   possess some form of conscious experience.
 new_schema: true
+Topic:
+  - '[[Ontological Theories]]'
+Origin: '[[Philosophize This!]]'
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -41,8 +45,3 @@ Pan psychism goes against the idea that consciousness is a human experience alon
 ### Opposers
 
 ### Open questions
-
-## Overview
-🔼Topic:: [Ontological Theories](/notes/ontological-theories.md)
-Origin:: [Philosophize This!](/notes/philosophize-this.md)
-Link:: https://share.snipd.com/episode/17ceabfb-05b4-4ff2-ad3a-c4828f808b4b

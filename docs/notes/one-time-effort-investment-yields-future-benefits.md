@@ -1,13 +1,13 @@
 ---
 UUID: 20240220084135
 Created: '2024-02-20 08:41'
-Modified: '2026-04-09 08:54'
+Modified: '2026-04-11 22:25'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[One-time effort investment yields future benefits.png]]'
 ImageText: >-
   A funnel collecting water drops into stacked bottles when in surplus, then a
@@ -19,6 +19,10 @@ Description: >-
 aliases:
   - Effort Storing
 new_schema: true
+Topic:
+  - '[[Memory Strategies and Mnemonics]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -56,9 +60,3 @@ The great thing about effort storing is that it acts as a [Multiplier amplifies 
 ## Visual
 
 ![One-time effort investment yields future benefits](/notes/one-time-effort-investment-yields-future-benefits.webp)
-
-## Overview
-🔼Topic:: [Memory Strategies and Mnemonics](/notes/memory-strategies-and-mnemonics.md)
-↩️Origin::
-🔗Link::
-

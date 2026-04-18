@@ -1,13 +1,13 @@
 ---
 UUID: 20240104080006
 Created: '2024-01-04 08:00'
-Modified: '2026-04-02 09:17'
+Modified: '2026-04-11 22:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Honesty
 Description: >-
@@ -15,6 +15,10 @@ Description: >-
   integrity, while balancing the need for moderation in truth-telling to foster
   trust and transparency.
 new_schema: true
+Topic:
+  - '[[Authenticity and Values]]'
+Origin: null
+URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -54,9 +58,3 @@ There can be such thing as too much honesty, because we humans tend to be able t
 ## Visual
 
 ![Honesty](/notes/honesty.webp)
-
-## Overview
-🔼Topic:: [Authenticity and Values](/notes/authenticity-and-values.md)
-↩️Origin::
-🔗Link::
-
