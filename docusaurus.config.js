@@ -11,7 +11,7 @@ require('dotenv').config();
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   future: {
-    experimental_faster: true,
+    faster: true,
     v4: true
   },
   title: 'Idan Ariav',
