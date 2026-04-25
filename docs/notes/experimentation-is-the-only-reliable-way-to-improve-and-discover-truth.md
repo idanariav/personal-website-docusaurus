@@ -1,26 +1,29 @@
 ---
 UUID: 20230407074513
 Created: '2023-04-07 07:45'
-Modified: '2026-04-11 22:21'
+Modified: '2026-04-20 07:11'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 2
-aliases:
-  - Testing
-  - Experimentation
-  - Research
+Version: 3
+Image: '[[Experimentation is the only reliable way to improve and discover truth.png]]'
+ImageText: >-
+  A person spills blue and orange test tubs into a large container, resulting in
+  green liquid
 Description: >-
   A process of applying theoretical knowledge through experimentation to gain
   practical insights, improve skills, and uncover truths, emphasizing the
   importance of hypothesis, risk management, and open-mindedness.
-new_schema: true
 Topic:
   - '[[Empirical testing not reason alone discovers truth]]'
 Origin: null
 URL: null
+aliases:
+  - Testing
+  - Experimentation
+  - Research
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -36,11 +39,11 @@ It is our main source of [Truth](/notes/truth.md), at least in an [empirical](/n
 
 ### Explanation
 
-### Why it matters
+### Why it Matters
 
 Tips for useful experimentation:
 1. **Narrow your scope** - experimentation takes time and resources, so in order to not test every possible theory, it is useful to first set up an [hypothesis](/notes/hypothesis-testing.md), and do a [Pre-mortem anticipates failure modes to enable preparation](/notes/pre-mortem-anticipates-failure-modes-to-enable-preparation.md) in advance to discover potential flaws that can harm your experiment
-2. **Small and safe wins the race** - As mentioned, experimentation is costly, which can make it risky. In order to reduce these risks, [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md), and preferably in a [safe](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md) environment. 
+2. **Small and safe wins the race** - As mentioned, experimentation is costly, which can make it risky. In order to reduce these risks, [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md), and preferably in a [safe](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md) environment.
 3. **Be open minded** - Testing should be approached with a sense of [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md), and with a [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md), we don't know what the results might be, and we need to be open to accepting them regardless.
 
 ### Examples
@@ -49,8 +52,8 @@ Tips for useful experimentation:
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Testing](/notes/testing.webp)
+![Experimentation is the only reliable way to improve and discover truth](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.webp)

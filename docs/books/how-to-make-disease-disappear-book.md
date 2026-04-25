@@ -1,7 +1,7 @@
 ---
 UUID: 20240510111644
 Created: '2024-05-10 11:16'
-Modified: '2026-04-13 06:14'
+Modified: '2026-04-20 22:22'
 tags: []
 Author:
   - '[[Rangan Chatterjee]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 7
 Pages: 278
 Rate: 4
 PublishDate: 2018-05-01T00:00:00.000Z
@@ -100,7 +100,7 @@ I do like this book very much, although it is thin in theory but rich in substan
 
 ### Introduction
 
-**The problem with modern medicine is that they focus too much on the symptoms and not on the root cause**. Since the human body is an "holistic" system, we can have many potential chronic conditions stemming from the same problem, so instead of trying to fix each one individually, we can recognize four main pillars that when cared for, they will keep us healthy and prevent [Handle problems while they are still small](/notes/handle-problems-while-they-are-still-small.md) many potential diseases, while fighting the symptoms is not only a lost cause, it's also much more damaging to our health, our wellbeing, and our life.
+**The problem with modern medicine is that they focus too much on the symptoms and not on the root cause** [Treating symptoms and not root causes misses the point](/notes/treating-symptoms-and-not-root-causes-misses-the-point.md). Since the human body is an "holistic" system, we can have many potential chronic conditions stemming from the same problem, so instead of trying to fix each one individually, we can recognize four main pillars that when cared for, they will keep us healthy and prevent [Handle problems while they are still small](/notes/handle-problems-while-they-are-still-small.md) many potential diseases, while fighting the symptoms is not only a lost cause, it's also much more damaging to our health, our wellbeing, and our life.
 
 Those pillars are:
 1. Diet
@@ -112,7 +112,7 @@ Those pillars are:
 
 [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) is perhaps one of the most harmful aspects of modern life, leading to many complications.
 
-  Stress is useful in the short term, but having constant feelings of stress is harmful to you. The body is overwhelmed with cortisol that puts you in a "fight or flight" response, and diverts all resources to handle the "threat". That means less resources to thinking, to digesting, only to automated reactions. It causes heightened responses of the immune system, often causing inflammation throughout the body.
+  Stress is useful in the short term, but having constant feelings of stress is harmful to you. The body is overwhelmed with cortisol that puts you in a "fight or flight" response, and diverts all resources to handle the "threat". That means less resources to thinking, to digesting, only to automated reactions. It causes heightened responses of the immune system, often causing inflammation throughout the body. [Chronic stress is harmful](/notes/chronic-stress-is-harmful.md)
 
 Stress can be caused by anything, from actual physical stress, to emotional. From short deadlines at work, from balancing work-life, tight schedules, and even imbalanced diet can push us towards stress eating.
 #### Me time Every Day
@@ -188,7 +188,7 @@ Although we do see some very basic common traits such as:
 #### De-normalize Sugar
 **Remove all sugar from your house**
 
-Sugar is everywhere (thanks capitalism) and can cause diabetes, and make us fatter. The food industry has hijacks our taste buds, we get more and more used to sugar so we need larger doses to satisfy ourselves.
+Sugar is everywhere (thanks capitalism) and can cause diabetes, and make us fatter. The food industry has hijacks our taste buds, we get more and more used to sugar so we need larger doses to satisfy ourselves. [Repeated exposure raises threshold](/notes/repeated-exposure-raises-threshold.md)
 
 Over consumption of sugar can lead to:
 1. Cravings, especially for snacks between meals
@@ -309,7 +309,7 @@ Key exercises for activating our glutes:
 
 ### Sleep
 
-We are all [Sleep is essential for cognitive function and peak performance](/notes/sleep-is-essential-for-cognitive-function-and-peak-performance.md) deprived, and this is one of the most harmful things we can do to our bodies, even more harmful than being drunk. The problem gets worse when we see that we can't "pay back" our sleep in our days off, sleeping extra on the weekend is not enough to compensate for the lack of sleep during the week.
+We are all [Sleep is essential for cognitive function and peak performance](/notes/sleep-is-essential-for-cognitive-function-and-peak-performance.md) deprived, and this is one of the most harmful things we can do to our bodies, even more harmful than being drunk. The problem gets worse when we see that we can't "pay back" our sleep in our days off, sleeping extra on the weekend is not enough to compensate for the lack of sleep during the week. [Sleep debt can't be repaid](/notes/sleep-debt-cant-be-repaid.md)
 
 To understand whether you sleep well is less about the length as it is about the quality, to see if you sleep well, ask yourself:
 1. do you feel refreshed when waking up?

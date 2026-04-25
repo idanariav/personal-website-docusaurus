@@ -1,7 +1,7 @@
 ---
 UUID: 20230331103942
 Created: '2023-03-31 10:39'
-Modified: '2026-04-13 06:15'
+Modified: '2026-04-22 06:19'
 tags: []
 Author:
   - '[[Chip Heath]]'
@@ -18,7 +18,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 7
 Pages: 291
 Rate: 4
 PublishDate: 2007-01-02T00:00:00.000Z
@@ -123,7 +123,7 @@ we can narrow it down to six components:
 **the main idea of "simple" is to strip the idea to its core components, it focused on having only the essential parts**, an [Improvement often comes from removing rather than adding](/notes/improvement-often-comes-from-removing-rather-than-adding.md) methodology, that an idea is complete only when there's nothing more to remove. [Distilling to essentials creates clarity and actionability](/notes/distilling-to-essentials-creates-clarity-and-actionability.md)
 So start with what's most important, say it in as few words as you can.
 
-This simplicity could give clarity for people on what to think or how to act in ambiguous or confusing situations, this will become their heuristic.
+This simplicity could give clarity for people on what to think or how to act in ambiguous or confusing situations, this will become their heuristic. [Simple messages serve as decision heuristics in ambiguous situations](/notes/simple-messages-serve-as-decision-heuristics-in-ambiguous-situations.md)
 
 But **simplicity is not only compactness, it's also choosing words that connect to the audience's existing mental models and perceptions**, use as much of their knowledge for your favor.
 For example, I can either do a 100 word paragraph on what a pomelo is, or just say "pomelo is like a grapefruit but larger and purple", which one is easier to remember? [Mental shortcuts enable faster learning through analogies and simplification](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md)
@@ -144,11 +144,11 @@ For example, I can either do a 100 word paragraph on what a pomelo is, or just s
 ### Chapter 2 - Unexpected
 
 humans are used to getting use to. When we begin to perceive something, we are already trying to guess if it similar to something that we've heard and if we can guess the ending. The more similar it is, the less attention we give to it since we can "finish the sentence" without really listening. [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md)
-That's why your idea has to be surprising, but it can't just be surprising for surprise sake. **When something surprises us, we pay more attention so that we could learn from it for next time**.
+That's why your idea has to be surprising, but it can't just be surprising for surprise sake. **When something surprises us, we pay more attention so that we could learn from it for next time**. [Novelty breaks autopilot and sharpens focus](/notes/novelty-breaks-autopilot-and-sharpens-focus.md)
 That unexpected thing we are trying to learn has to be related to your core message.
 Showing an ad about a band that suddenly gets eaten by wolf is surprising but there is no message, so it's a worthless ad. Showing an ad about a nice family car that drives around the neighborhood but suddenly gets slammed by a truck is not only surprising, but also relevant if the core message is "it can happen anywhere, so buckle up".
 
-Unexpectedness can also come from a mystery, creating curiosity in the audience is a good way to spark interest. a common method is called the knowledge gap, which is to start with a question, pointing at a knowledge gap that audience has, something that they don't know and now they need to listen in order to find out.
+Unexpectedness can also come from a mystery, creating curiosity in the audience is a good way to spark interest. [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md) a common method is called the knowledge gap, which is to start with a question, pointing at a knowledge gap that audience has, something that they don't know and now they need to listen in order to find out.
 For example, instead of saying " only 10% of our young customers are contributing to...", you can start with "why young people who are 40% of our customers, are only 10% of total donations..."
 
 :::note[UNEXPECTED]
@@ -204,7 +204,7 @@ for example, saying that Bambi is more dangerous than a shark, by 300! (if you h
 **To make us invested in a story, to make it memorable, it has to [Trigger](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) an emotion within us**. The thing that reduces emotional reaction is statistics and facts, this cause us to switch to the analytical mind, which is less emotional. [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md)
 For example, people tend to donate more when they are shown with a picture of a starving child, rather than hearing that 1 million children are starving in Africa.
 
-Another way to trigger emotional reaction is to talk about what people care most, which is sometimes their self interest. By "tempting" the audience we can have a strong emotional reaction. Headlines like "5 tips to reduce your stress". Also, by making the reader the focus of the story, talking to him in second person rather than a description of something far away could be very helpful.
+Another way to trigger emotional reaction is to talk about what people care most, which is sometimes their self interest. [Appealing to self-interest triggers stronger emotional investment](/notes/appealing-to-self-interest-triggers-stronger-emotional-investment.md) By "tempting" the audience we can have a strong emotional reaction. Headlines like "5 tips to reduce your stress". Also, by making the reader the focus of the story, talking to him in second person rather than a description of something far away could be very helpful.
 
 However, self interest is not always the solution, we should keep [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md) in mind. People are also after self actualization, a higher purpose, Identity. **By saying messages that connect with who they are or who they want to be, we have a much higher chance of success** [Emotional Contagion](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md)
 

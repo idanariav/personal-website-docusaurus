@@ -1,7 +1,7 @@
 ---
 UUID: 20220705224352
 Created: '2022-07-05 22:43'
-Modified: '2026-04-13 06:13'
+Modified: '2026-04-19 20:14'
 tags: []
 Author:
   - '[[Adam Grant]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 7
 Pages: 320
 Rate: 4
 PublishDate: 2013-04-09T00:00:00.000Z
@@ -127,7 +127,7 @@ Networks are one of the main ways to get new skills, to get help and to grow in 
 
 Giving makes our network grow because we are willing to give to those that we don't necessarily expect to give back in return. The result is not only that the network is bigger, but also more efficient because its precisely those [Weak social ties bridge different networks and expand access to opportunities](/notes/weak-social-ties-bridge-different-networks-and-expand-access-to-opportunities.md) that help us the most in the long run by giving us access to new kinds of information and skills as opposed to our closest environment are most likely exposed to the same opportunities we are exposed to.
 
-**Giving is contagious**. When we help others without expecting return, we encourage others to do the same, and increase the circulation of help in our network.
+**Giving is contagious**. When we help others without expecting return, we encourage others to do the same, and increase the circulation of help in our network. [Actions spread effects across people and time beyond initial cause](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md)
 
 :::note[The Peacock and the Panda How Givers, Takers, and Matchers Build Networks]
 
@@ -151,7 +151,7 @@ Giving makes our network grow because we are willing to give to those that we do
 
 **The strength of a team comes not from the genius of a single member, rather from the level of their** cooperation [collective intelligence](/notes/collective-intelligence.md). They realize that [Dependency](/notes/dependency.md) is a strength, not a weakness. They create a feeling of [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md) because they are [authentic](/notes/acting-in-alignment-with-your-values-is-authenticity.md) in their desire to help the common cause.
 
-Givers don't take the credit for themselves, but rather give credit to others [Ego](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md). We are inclined to think that we do more than others simply because we are more aware of our own actions than others.
+Givers don't take the credit for themselves, but rather give credit to others [Ego](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md). We are inclined to think that we do more than others simply because we are more aware of our own actions than others. [We overestimate our contribution](/notes/we-overestimate-our-contribution.md)
 When givers are in a team, they are more free to do bold actions, because the team knows they do it for the right reasons, for the benefit of all, and not personal gain.
 
 :::note[The Ripple Effect Collaboration and the Dynamics of Giving and Taking Credit]
@@ -229,7 +229,7 @@ matchers expect to receive each time he helps someone, while givers don't expect
 The key to being a good giver is to not give too much, that you are no longer able to provide for yourself [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md).
 
 Being a giver out of choice, and not of coercion will give us a renewed sense of satisfaction and enjoyment [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md).
-3. **Giver tend to lose motivation when they don't see the results of their actions.**
+3. **Giver tend to lose motivation when they don't see the results of their actions.** [Visible progress sustains motivation](/notes/visible-progress-sustains-motivation.md)
 4. **Givers fail when they trust takers**
 Giver tend to trust too much, they help takers who take advantage of them. Smart givers should know who to help, and to filter the requests. Note that looks can be deceiving, Some givers don't seem nice at all, and takers can pretend.
 We need to treat others with a tit-for-tat, to be optimistic but to stop if you're being taken advantage. [Game Theory](/notes/game-theory.md)
@@ -276,7 +276,7 @@ You should look for the win-win cases and not as a zero-sum. but taking others i
 ### The Scrooge Shift Why a Soccer Team, a Fingerprint, and a Name Can Tilt Us in the Other Direction
 
 A sense of community increases our desire to help and give our community members, especially when we acknowledge all the benefits we get from being a member of that community. [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md).
-**The stronger the shared identity with others, the more we want to help**.
+**The stronger the shared identity with others, the more we want to help**. [Shared identity strengthens solidarity](/notes/shared-identity-strengthens-solidarity.md)
 The feeling of shared identity is actually stronger in smaller groups, because it combines the sense of [Belonging](/notes/inclusion-means-proactively-welcoming-and-believing-in-others.md) with the sense of being unique.
 When you create a community where giving is the norm, it creates a behavioral change in the members. Givers will reveal themselves since currently they tend to hide in communities where taking is the norm.
 Having more givers "out in the open" will encourage others to do the same [Role models embody behaviors and values we aspire to adopt](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md). [Signaling is displaying qualities to appear worthy or successful](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md)

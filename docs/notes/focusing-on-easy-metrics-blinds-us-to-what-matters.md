@@ -1,25 +1,26 @@
 ---
 UUID: 20230525161157
 Created: '2023-05-25 16:11'
-Modified: '2026-04-11 22:21'
+Modified: '2026-04-25 08:57'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Streetlight effect
-  - to focus on what is easy to measure
+Version: 4
+Image: '[[Focusing on easy metrics blinds us to what matters.png]]'
+ImageText: A dull lightbulb under s streetlight vs a shining lightbulb in the dark
 Description: >-
   A cognitive bias where individuals focus on easily observable aspects of a
   situation, neglecting more relevant but less visible factors, leading to
   misguided conclusions.
-new_schema: true
 Topic:
   - '[[Selective Evidence]]'
 Origin: null
 URL: null
+aliases:
+  - Streetlight effect
+  - to focus on what is easy to measure
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -40,7 +41,7 @@ This is where [What matters most is often less visible than what is salient](/no
 
 Sometimes, most of what we focus on due to the streetlight effect is just a low-quality [Proxy](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md) of the real thing.
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -50,9 +51,7 @@ A policeman sees a drunk man searching for something under a streetlight and ask
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
-
-![streetlight effect](/notes/streetlight-effect.webp)
+![Focusing on easy metrics blinds us to what matters](/notes/focusing-on-easy-metrics-blinds-us-to-what-matters.webp)

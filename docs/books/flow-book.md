@@ -1,7 +1,7 @@
 ---
 UUID: 20221126095800
 Created: '2022-11-26 09:58'
-Modified: '2026-04-13 06:13'
+Modified: '2026-04-19 17:53'
 tags: []
 Author:
   - '[[Mihaly Csikszentmihalyi]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 8
 Pages: 303
 Rate: 4
 PublishDate: 2009-09-13T00:00:00.000Z
@@ -152,7 +152,7 @@ When we focus on the task at hand and achieve that sense of harmony, we paradoxi
 the flow experience is achieved when:
 1. **the task is challenging** - on the borderline between boredom and anxiety (not too easy, not too hard). [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md) [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md)
 2. **The task has clear goals and visible [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md)** [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md)
-3. **We are capable to exert control on the situation**, not necessarily have complete control (the example is poker players - skills matter, while luck is still relevant).
+3. **We are capable to exert control on the situation**, not necessarily have complete control (the example is poker players - skills matter, while luck is still relevant). [Feeling in control is more important than being in control](/notes/feeling-in-control-is-more-important-than-being-in-control.md)
 
 in such task, we tend to give all of our attention to the task at hand, thus making us *forget ourselves*, or forget our sense of selves while being completely immersed in the task, we usually also forget the sense of time.
 
@@ -225,9 +225,9 @@ work is the place where we can grow the most, since it is the closest and easies
 
 ### Enjoying Solitude and Other People
 
-relationships are key to our quality of life, but we most also be able to withstand moments of [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md). **it is within these moments where we are tested, whether we are able to turn them into worthwhile activities, or whether we are drawn towards chaos and escapism**, by watching the tv for example.
+relationships are key to our quality of life, but we most also be able to withstand moments of [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md). **it is within these moments where we are tested, whether we are able to turn them into worthwhile activities, or whether we are drawn towards chaos and escapism**, by watching the tv for example. [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md)
 
-the key to being a good friend, parent or partner, is to **treat those relationships as potential flow experiences**. Introduce new challenges and opportunities to grow and learn, look for feedback and set goals.
+the key to being a good friend, parent or partner, is to **treat those relationships as potential flow experiences**. Introduce new challenges and opportunities to grow and learn, look for feedback and set goals. [Shared challenges and growth deepen relationships](/notes/shared-challenges-and-growth-deepen-relationships.md)
 
 :::note[ENJOYING SOLITUDE AND OTHER PEOPLE]
 
@@ -245,7 +245,7 @@ the key to being a good friend, parent or partner, is to **treat those relations
 
 ### Cheating Chaos
 
-to avoid the chaos and negative effects of the outside world that will surly come [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md), one must become a autotelic person, which is a person with inner intrinsic goals.
+to avoid the chaos and negative effects of the outside world that will surly come [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md), one must become a autotelic person, which is a person with inner intrinsic goals. [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md)
 to do that, one must:
 1. **Transform emotions** - use [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md), turn negative situations to a force for improvement
 2. **Immersion** - immerse yourself in the environment, learn the situation instead of being focused on you
@@ -269,7 +269,7 @@ to do that, one must:
 
 Usually, a sense of meaning involves a process of inner development, similar to [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md), from focusing on basic physical needs, to our community, self actualization, and a sense of [Oneness](/notes/unity-is-the-felt-sense-of-connection-with-others-and-the-world.md) with the world.
 
-**Such a sense can only be achieved by practicing self knowledge and action**. Action without thought is blind, and self reflection alone is futile. We must be a combination of both.
+**Such a sense can only be achieved by practicing self knowledge and action**. Action without thought is blind, and self reflection alone is futile. We must be a combination of both. [Meaning requires both action and self-reflection working together](/notes/meaning-requires-both-action-and-self-reflection-working-together.md)
 Since it is possible that a meaning won't necessarily be moral, we also have to tend to our virtues. [To be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md)
 A good meaning comes from within, and not determined by external factors, usually from a place of struggle or important challenge you experienced. [Meaning is Crafted](/notes/meaning-is-crafted.md)
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20221002151457
 Created: '2022-10-02 15:14'
-Modified: '2026-04-13 06:14'
+Modified: '2026-04-22 06:03'
 tags: []
 Author:
   - '[[Donald J. Robertson]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 7
 Pages: 304
 Rate: 4
 PublishDate: 2019-04-02T00:00:00.000Z
@@ -101,7 +101,7 @@ history of [Marcus Aurelius](/notes/marcus-aurelius.md) and stoicism, the main a
 In stoicism, we need to live in accordance with nature, and part of human nature is it's wisdom, so we should love it, use it, and try to improve it. [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md)
 
 *about the inherit value of external things*
-**The wise man needs nothing, but uses what he has well, while the fool needs many things and uses them wrongly**. [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md)
+**The wise man needs nothing, but uses what he has well, while the fool needs many things and uses them wrongly**. [Wisdom enables contentment](/notes/wisdom-enables-contentment.md) [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md)
 External things such as wealth, health and friends is preferred, but not good in themselves, because I can use those things for evils as much as good. I can spend all my money at the casino And end up poor and miserable. While it is not wrong to pursue those things, it is wrong if we value them more than our virtues. Money should never be more important than justice for example. [External motivation crowds out intrinsic drive and sustainability](/notes/external-motivation-crowds-out-intrinsic-drive-and-sustainability.md) [Minimalism](/notes/improvement-often-comes-from-removing-rather-than-adding.md)
 
 *about the stoicism core principles*
@@ -212,7 +212,7 @@ according to stoics, wellbeing in life is:
 
 we should focus on the limits of pain, instead of it's experience. if the pain is too much to bear, it would end us quickly, otherwise it means that we can tolerate it.
 
-another way to [cope](/notes/coping-trades-short-term-relief-for-long-term-cost.md) is to do "exposure inoculation", **by exposing ourselves and facing small amounts of stress/pain, we can strengthen ourselves and our endurance when bigger pains will present themselves.** [Handle problems while they are still small](/notes/handle-problems-while-they-are-still-small.md)
+another way to [cope](/notes/coping-trades-short-term-relief-for-long-term-cost.md) is to do "exposure inoculation", **by exposing ourselves and facing small amounts of stress/pain, we can strengthen ourselves and our endurance when bigger pains will present themselves.** [Handle problems while they are still small](/notes/handle-problems-while-they-are-still-small.md) [We grow stronger by adapting to stress](/notes/we-grow-stronger-by-adapting-to-stress.md)
 
 Same in previous chapter, we can distance ourselves from the pain, treat it only as facts and not as a devastating harmful thing for us. To separate between the mind and the body (but pain actually causes a chemical reaction in the brain, can we truly separate them?) [The mind and body are separate](/notes/the-mind-and-body-are-separate.md)
 
@@ -232,7 +232,7 @@ Same in previous chapter, we can distance ourselves from the pain, treat it only
 ### Chapter 6 - how to Relinquish Fear
 
 [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md) is future based, grounded in outcomes that we only have some effect on. A way to reduce the anxiety and fear sensations, is to increase our immunization to it by doing the following:
-1. **cognitive distance** - If you acted the best you could, then the failure is not your fault. External factors are always in play, you just have to keep your attention on your attitude.
+1. **cognitive distance** - If you acted the best you could, then the failure is not your fault. External factors are always in play, you just have to keep your attention on your attitude. [Focus on what you can do next not what went wrong](/notes/focus-on-what-you-can-do-next-not-what-went-wrong.md)
 2. **focus on the present** - Since the fear stems from a possible future, it means that it might hurt us even if it won't come to pass. Keep your attention on your actions right now
 3. **imagine your worst case scenario** - By imagining it, it will be as an exposure therapy, reducing the default stress levels. It will also make it easier to find creative solutions to the problem once the stress is out of the way. [Pre-mortem anticipates failure modes to enable preparation](/notes/pre-mortem-anticipates-failure-modes-to-enable-preparation.md)
 
@@ -252,7 +252,7 @@ to avoid anger, we should follow these tips:
 3. **remember that people are not just their action, they are a whole** - meaning that they could be doing this "bad" thing because they believe it is good, or perhaps they are making a mistake, or being influenced by their circumstances or upbringings. assuming good intentions instead of mal intentions will often lead to more conflict resolutions and better results (and feelings) overall, and mostly, it will probably be more accurate. [We attribute bad outcomes to luck but others' misfortunes to their faults](/notes/we-attribute-bad-outcomes-to-luck-but-others-misfortunes-to-their-faults.md)
 4. **You might be wrong** - in accordance with previous point, you might also be wrong, doing something that seems right to you but wrong to others. [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md)
 5. **Think long term** - is this worth being angry for? [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md)
-6. **remember that anger harms you most** - since it turns you into a different person, one that is not acting according to virtues.
+6. **remember that anger harms you most** - since it turns you into a different person, one that is not acting according to virtues. [Acting from strong emotion undermines your character](/notes/acting-from-strong-emotion-undermines-your-character.md)
 7. **Nobody is perfect** - it is only rational to expect that someone someday will cause as anger, so we shouldn't be as surprised or rattled when that happens.
 
 :::note[TEMPORARY MADNESS]

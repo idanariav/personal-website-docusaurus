@@ -1,7 +1,7 @@
 ---
 UUID: 20221111065527
 Created: '2022-11-11 06:55'
-Modified: '2026-04-13 06:15'
+Modified: '2026-04-22 07:45'
 tags: []
 Author:
   - '[[Carol S. Dweck]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 6
 Pages: 276
 Rate: 4
 PublishDate: 2006-02-28T00:00:00.000Z
@@ -117,7 +117,7 @@ Fixed mindset people tend to view success as binary [Binary thinking reduces com
 Labeling and praise:
 [Praise effort not ability](/notes/praise-effort-not-ability.md)
 *You should praise effort, not abilities* - for example "you worked really hard, or it's good when you so x" and not "you are so smart".
-When a fixed mindset gets positive praise, they are afraid to lose it so they will avoid challenges, and when they get negative labeling they will be afraid that it's correct. Having a growth mindset and praising effort will use these praises as motivation, and learn to avoid negative labeling since it doesn't connect to their identity.
+When a fixed mindset gets positive praise, they are afraid to lose it so they will avoid challenges, and when they get negative labeling they will be afraid that it's correct. Having a growth mindset and praising effort will use these praises as motivation, and learn to avoid negative labeling since it doesn't connect to their identity. [Praises can lead to fixation](/notes/praises-can-lead-to-fixation.md)
 
 :::note[INSIDE THE MINDSETS]
 
@@ -165,7 +165,7 @@ CEOs with fixed mindsets are focused on their [Ego](/notes/distinguishing-appear
 
 ### Relationships: Mindets in Love (or not)
 
-fixed mindset people believe that relationships should come easy, in a binary way - either it works or it doesn't. happily ever after since day one. However this is a belief that is a source of heartbreaks. Strong, **happy relationships demand constant work and upkeep, it relies on a stable communication, on understanding that people can change**, and probably will change throughout their lives, so no challenge is necessarily permanent. [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md)
+fixed mindset people believe that relationships should come easy, in a binary way - either it works or it doesn't. happily ever after since day one. However this is a belief that is a source of heartbreaks. Strong, **happy relationships demand constant work and upkeep, it relies on a stable communication, on understanding that people can change**, and probably will change throughout their lives, so no challenge is necessarily permanent. [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md) [Relationships require constant maintenance](/notes/relationships-require-constant-maintenance.md)
 
 :::note[RELATIONSHIPS: MINDSETS IN LOVE (OR NOT)]
 
@@ -179,7 +179,7 @@ fixed mindset people believe that relationships should come easy, in a binary wa
 ### Parents, Teachers and Coaches
 
 kids are very observant, they can detect the subtext very easily. So when we praise them, it is important to do so in a way that promotes a growth mindset - i.e praise effort, actions, and learning - instead of intellect or talent.
-and when something bad happens - be a teacher, not a judge. Focus on how can we learn and improve, and not punishment or judgment.
+and when something bad happens - be a teacher, not a judge. Focus on how can we learn and improve, and not punishment or judgment. [Judgement causes mistakes to repeat themselves](/notes/judgement-causes-mistakes-to-repeat-themselves.md)
 
 :::note[PARENTS, TEACHERS, AND COACHES: WHERE DO MINDSETS COME FROM?]
 

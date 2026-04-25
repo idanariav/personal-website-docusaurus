@@ -1,33 +1,33 @@
 ---
 UUID: 20220729134626
 Created: '2022-07-29 13:46'
-Modified: '2026-04-11 22:21'
+Modified: '2026-04-23 20:21'
 tags: []
-aliases:
-  - Job crafting
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
-Version: 4
 excalidraw-open-md: true
+Version: 5
+Image: '[[Finding meaning in work increases fulfillment and resilience.png]]'
+ImageText: 'A piece of marble, together with a chisel turns into a statue of a heart'
 Description: >-
   The process of actively creating personal meaning in one's work to reduce
   burnout, by redefining roles and responsibilities beyond their basic
   functions.
-new_schema: true
 Topic:
   - '[[Value and Meaning]]'
   - '[[Meaning is Crafted]]'
 Origin: null
 URL: null
+aliases:
+  - Job crafting
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
 
-# Job crafting
+# Job Crafting
 
 ## Notes
-
 
 ### Claim
 
@@ -39,7 +39,7 @@ Work is a huge part of our life, both in terms of how much time we spend every d
 
 Essentially, this means that we forge meaning into our work, instead of hoping that the job comes with an inherit meaning.
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -49,9 +49,8 @@ For example, orderlies in hospitals are experiencing less burnout if they see th
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![job crafting](/notes/job-crafting.webp)
+![Finding meaning in work increases fulfillment and resilience](/notes/finding-meaning-in-work-increases-fulfillment-and-resilience.webp)

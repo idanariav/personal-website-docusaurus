@@ -1,25 +1,26 @@
 ---
 UUID: 20240101065316
 Created: '2024-01-01 06:53'
-Modified: '2026-04-11 22:21'
+Modified: '2026-04-24 08:10'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Reverse Thinking
-  - Inverse
+Version: 4
+Image: '[[Flipping assumptions reveals hidden possibilities and better solutions.png]]'
+ImageText: A drawing of a rabbit or a duck
 Description: >-
   A cognitive approach that involves challenging assumptions by considering the
   opposite scenario to uncover risks and insights, fostering critical and
   creative problem-solving.
-new_schema: true
 Topic:
   - '[[Systems and Structural Thinking]]'
 Origin: null
 URL: null
+aliases:
+  - Reverse Thinking
+  - Inverse
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -38,7 +39,7 @@ For example, instead of asking ourselves "how likely are we to fail", which usua
 
 To engage in reverse thinking is different from just "thinking more" about the subject, it's to [rethink](/notes/rethinking-means-updating-beliefs-by-reconsidering-what-you-thought-you-knew.md) the situation entirely.
 
-### Why it matters
+### Why it Matters
 
 Rethinking should be framed as a [simulation](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md). When separating between "real world costs" and our thought experiment, we are more likely to be bold, [critical](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md) and [creative](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md), discovering ideas and thoughts that were previously hidden from us.
 
@@ -52,7 +53,7 @@ It is similar to the [Excessive striving produces the opposite of intended outco
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 

@@ -1,24 +1,25 @@
 ---
 UUID: 20240702072024
 Created: '2024-07-02 07:20'
-Modified: '2026-04-11 22:21'
+Modified: '2026-04-18 10:54'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Second order thinking
+Version: 4
+Image: '[[Examine your desires not just your actions.png]]'
+ImageText: A Russian doll of critical thinking
 Description: >-
   A reflective cognitive process that evaluates one's preferences and values,
   distinguishing between immediate desires and deeper self-alignment.
-new_schema: true
 Topic:
   - '[[Freedom and Agency]]'
   - '[[Self-Tracking and Reflection]]'
 Origin: null
 URL: null
+aliases:
+  - Second order thinking
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -35,7 +36,7 @@ Second order thinking is a type of meta-thinking, which often happens during the
 
 When your first and second order thinking are not aligned it's a sign of [intrapersonal conflict](/notes/a-person-is-a-community.md), and when they are aligned we can say that we have the [ability](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) to follow through with our [authentic](/notes/acting-in-alignment-with-your-values-is-authenticity.md) self.
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -45,8 +46,8 @@ For example, a first order thinking would be "I want to eat chocolate right now"
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Second order thinking](/notes/second-order-thinking.webp)
+![Examine your desires not just your actions](/notes/examine-your-desires-not-just-your-actions.webp)

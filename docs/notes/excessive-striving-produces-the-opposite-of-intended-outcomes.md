@@ -1,26 +1,26 @@
 ---
 UUID: 20230708070446
 Created: '2023-07-08 07:04'
-Modified: '2026-04-11 22:21'
+Modified: '2026-04-19 18:01'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - The law of reverse effect
-  - The law of reverse effect
-  - extremes are self destructive
+Version: 4
+Image: '[[Excessive striving produces the opposite of intended outcomes.png]]'
+ImageText: Two hands stuck in a Chinese finger trap
 Description: >-
   A principle suggesting that focusing on desired results can hinder
   achievement; instead, emphasizing present actions and experiences fosters
   success and creativity.
-new_schema: true
 Topic:
   - '[[Acceptance and Effortless Action]]'
 Origin: '[[Einzelganger]]'
 URL: 'https://youtu.be/VpcQVjSVqOM'
+aliases:
+  - The law of reverse effect
+  - extremes are self destructive
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -41,7 +41,7 @@ We can't overpower our mind to think that we can set goals yet not focus on them
 
 This law is also true in reverse—somethings are only achieved by their opposites.
 
-### Why it matters
+### Why it Matters
 
 Setting [goals](/notes/clear-direction-matters-more-than-speed-of-progress.md) takes away our focus from where it should be, which is the life we live right now, the way we behave right now. The present is what matters. We need to [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md), and the results will flow by themselves. A person who focused on doing a good job will be rewarded and promoted much more than those who only care about the promotion.
 
@@ -63,9 +63,8 @@ But if all those people are his enemies, who is left of his nation? Who is he tr
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![The law of reverse effect](/notes/the-law-of-reverse-effect.webp)
+![Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.webp)
