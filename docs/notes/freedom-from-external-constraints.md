@@ -1,25 +1,26 @@
 ---
 UUID: 20250228115203
 Created: '2025-02-28 11:52'
-Modified: '2026-04-11 22:21'
+Modified: '2026-04-27 09:16'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Negative freedom
-  - freedom from
+Version: 4
+Image: '[[Freedom from external constraints.png]]'
+ImageText: A person tied to a ball and chain like a prisoner
 Description: >-
   A concept referring to the absence of constraints or dependencies, allowing
   individuals to act freely without restrictions, contrasting with positive
   freedom, which emphasizes the ability to pursue goals.
-new_schema: true
 Topic:
   - '[[Freedom and Agency]]'
 Origin: '[[Isaiah Berlin (philosopher)]]'
 URL: null
+aliases:
+  - Negative freedom
+  - freedom from
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -27,7 +28,6 @@ SiteProcssed: true
 # Negative Freedom
 
 ## Notes
-
 
 ### Claim
 
@@ -39,7 +39,7 @@ This is different from [Freedom means having the ability to pursue your goals](/
 
 Usually negative freedom is [visible](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md), that are concrete laws, regulations and actions done against you that limit your available actions.
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -49,9 +49,8 @@ For example, we don't have negative freedom when we are put in jail. Our movemen
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Negative freedom](/notes/negative-freedom.webp)
+![Freedom from external constraints](/notes/freedom-from-external-constraints.webp)

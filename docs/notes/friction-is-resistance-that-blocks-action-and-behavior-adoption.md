@@ -1,24 +1,27 @@
 ---
 UUID: 20230328192058
 Created: '2023-03-28 19:20'
-Modified: '2026-04-11 22:21'
+Modified: '2026-04-30 19:30'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 4
-aliases:
-  - Friction
+Version: 5
+Image: '[[Friction is resistance that blocks action and behavior adoption.png]]'
+ImageText: >-
+  A person next to a chocolate bar vs a person next to a high shelf with a
+  chocolate bar on top of it
 Description: >-
   A force that influences decision-making and behavior by creating resistance to
   actions, often leading individuals to favor easier, default choices over more
   challenging ones.
-new_schema: true
 Topic:
   - '[[Habit Mechanics]]'
 Origin: null
 URL: null
+aliases:
+  - Friction
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -26,7 +29,6 @@ SiteProcssed: true
 # Friction
 
 ## Notes
-
 
 ### Claim
 
@@ -36,7 +38,7 @@ Friction is usually something we want to avoid in life.
 
 Many of our day to day actions are determined not by our [willpower](/notes/willpower-is-limited.md) but rather the level of friction of each action, meaning that we tend to stick to the [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) and choose the path of less resistance, or more accurately, the easy path is the [default](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) path.
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -54,9 +56,8 @@ To reduce friction, we can:
 
 This idea goes against the idea that a [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) is something that is beneficial to us. That only through facing difficulties we can grow [Adversarial Growth](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md). Similarly, it could be said that when something is too easy it becomes [boring](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md), creating a feeling of emptiness, of meaninglessness. Also, sometimes we want friction, especially when we want to make bad choices harder to make, or to add [Stability is undervalued compared to growth](/notes/stability-is-undervalued-compared-to-growth.md) to a process, like how security checks at the airport are a major friction, yet we want to preserve these because otherwise the risk is just too great.
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Friction](/notes/friction.webp)
+![Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.webp)

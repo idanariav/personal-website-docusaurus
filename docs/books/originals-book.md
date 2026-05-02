@@ -1,7 +1,7 @@
 ---
 UUID: 20220907071038
 Created: '2022-09-07 07:10'
-Modified: '2026-04-13 06:16'
+Modified: '2026-04-26 20:52'
 tags: []
 FullTitle: Originals - How Non-Conformists Move the World
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 9
 Pages: 326
 Reread: 0
 Rate: 4
@@ -94,7 +94,7 @@ in the end it seems that the process of being original is still as elusive as be
 
 ## Notes
 
-## Intro
+### Intro
 
 originality isn't originality in the sense of a new thought, but rather a mix of existing thoughts in a new [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md).
 
@@ -107,14 +107,14 @@ therefore, **originality is an act of** [Progress emerges through cycles of dest
 This is especially true at work, since it requires [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md)
 
 We tend to think that originals and entrepreneurs are risk takers, but they are actually risk mitigators. For example most of them kept their day job while starting the business. [Test assumptions with small experiments first](/notes/test-assumptions-with-small-experiments-first.md). Advantages:
-4. **Fallback option** - When you have a "fallback" option, you are more inclined to see the errors and failures you make, and adjust accordingly so you can build the business to last instead of "this has to succeed"
+4. **Fallback option** - When you have a "fallback" option, you are more inclined to see the errors and failures you make, and adjust accordingly so you can build the business to last instead of "this has to succeed" [Having option B enables clearer perspective and thinking](/notes/having-option-b-enables-clearer-perspective-and-thinking.md)
 5. **Flexibility** - you have greater flexibility with trail and error and trying new original ideas since failure is less painful. [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md)
 
-## Part 1 - risk Management for Originals
+### Part 1 - risk Management for Originals
 
-### Chapter 1 - Creative Destruction
+#### Chapter 1 - Creative Destruction
 
-**Our main problem is not to generate original ideas, but rather selecting/filtering the good from the bad.**
+**Our main problem is not to generate original ideas, but rather selecting/filtering the good from the bad.** [Filtering ideas is harder than generating them](/notes/filtering-ideas-is-harder-than-generating-them.md)
 
 We are bad at evaluating our own ideas, usually due to [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md). Either we get false positives (thinking a bad idea is good) or false negatives (thinking a good idea is bad).
 
@@ -137,7 +137,7 @@ strike gold. [Practice beats perfection](/notes/practice-beats-perfection.md)
 :::
 
 
-### Chapter 2 - Blind Investors and One-eyed Investors
+#### Chapter 2 - Blind Investors and One-eyed Investors
 
 The best way to [filter](/notes/filtering-is-choosing-what-to-consume-before-distilling-it.md) is to get [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md), but from who? Novices might make false negatives due to [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md), and experts might be too entrenched [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) and rigid in their way of thinking. So who?
 The answer is other creators, or people inclined to be in creative mode, to consider new out of the box ideas without being too involved in the subject [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
@@ -169,17 +169,17 @@ trust your intuition in a field you don't have expertise in, this will create fa
 :::
 
 
-### Chapter 3 Speaking Truth
+#### Chapter 3 Speaking Truth
 
 how to convince others (especially when encountering resistance)
 do an [Expose your flaws before others discover them](/notes/expose-your-flaws-before-others-discover-them.md), be open, clear and direct about your opinion's weaknesses, drawbacks and doubts. (Related:: [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md) ). it helps you by:
 1. **building trust** - when people hear only the positive, they are skeptical and defensive. This audit lowers their guards and enables [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md)
 2. **making it harder to think about other weaknesses** - by listing your weaknesses, it focuses the audience on those things and makes it harder for them to think about new ones [How we describe something shapes how it is perceived](/notes/how-we-describe-something-shapes-how-it-is-perceived.md)
-3. **you are perceived as smarter.** - A person who has self awareness and is transparent about it seems as a more intelligent and insightful person.
+3. **you are perceived as smarter.** - A person who has self awareness and is transparent about it seems as a more intelligent and insightful person. [Transparent self-awareness signals intelligence to others](/notes/transparent-self-awareness-signals-intelligence-to-others.md)
 
 also, while the idea is familiar to you, it is foreign to others, so **in order for it to sink in, it has to be repeated**, and have patience. [Repeated exposure to information strengthens memory retention](/notes/repeated-exposure-to-information-strengthens-memory-retention.md)
 When you speak up, remember that in order to be heard, or to exercise power, you have to have the reputation, or the credit to do so before.
-**Be someone who delivers, who get things done, prove your worth, then they will listen to you**.
+**Be someone who delivers, who get things done, prove your worth, then they will listen to you**. [Credibility must be earned before your voice carries influence](/notes/credibility-must-be-earned-before-your-voice-carries-influence.md)
 
 To change a situation, we can either speak up, or leave [We respond to unsafe environments in four ways](/notes/we-respond-to-unsafe-environments-in-four-ways.md), persisting or neglecting only maintains the status quo and leads to worse outcomes in the long run.
 
@@ -196,9 +196,9 @@ To change a situation, we can either speak up, or leave [We respond to unsafe en
 :::
 
 
-## Part 2 - Originality Scaling (timing + coalition)
+### Part 2 - Originality Scaling (timing + coalition)
 
-### Chapter 4 Timing
+#### Chapter 4 Timing
 
 [Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md) can be harmful to productivity but useful for [creativity](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md). when we procrastinate, the task lives on in our mind, in the back-burner, which allows us to consider new approaches instead of the default one [Unfinished tasks linger in the mind and reduce focus](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md).
 
@@ -221,9 +221,9 @@ in summary, its not always helpful to be first, or to rush into a project. its b
 :::
 
 
-### Chapter 5 - Coalition
+#### Chapter 5 - Coalition
 
-Shared values are often a separating factor instead of unifying. **The more you cling to your beliefs, the harder it is for you to accept other moderate views.** The key is sharing a tactic, like when everybody sings the anthem together, the how unifies us more than the why
+Shared values are often a separating factor instead of unifying. **The more you cling to your beliefs, the harder it is for you to accept other moderate views.** The key is sharing a tactic, like when everybody sings the anthem together, the how unifies us more than the why [Shared tactics unite people more than shared values](/notes/shared-tactics-unite-people-more-than-shared-values.md)
 Try to turn your enemies into your allies, if you will succeed they will be your strongest supporters.
 
 :::note[Goldilocks and the Trojan Horse Creating and Maintaining Coalitions]
@@ -237,9 +237,9 @@ Try to turn your enemies into your allies, if you will succeed they will be your
 :::
 
 
-## Part 3 - Sustaining Originality
+### Part 3 - Sustaining Originality
 
-### Chapter 6 Nurture Originality
+#### Chapter 6 Nurture Originality
 
 Laterborns are more likely to be original than firstborns, because they cannot compete with them in terms of education or achievements, since they have a head start, so they take more risks as their strategy.
 Firstborns are more responsible and rule-abiding, which makes their younger siblings more rebellious.
@@ -261,9 +261,9 @@ how to make sure they rebel in the right way?
 :::
 
 
-## Part 4 - Barriers for Originality
+### Part 4 - Barriers for Originality
 
-### Chapter 7 - Rethinking Group Thinking
+#### Chapter 7 - Rethinking Group Thinking
 
 **the enemy of originality is group thinking**. when people conform to norm and power instead of thinking and criticizing for themselves. but group thinking is not necessarily link to a cohesion of a group. on the contrary, groups with a strong culture and motivation for the success of the group tend to be more original.
 
@@ -285,7 +285,7 @@ also there is a strong culture of speak up even when its up the chain, everyone 
 :::
 
 
-### Chapter 8 - when to Rock the Boat and when to Let it Slide
+#### Chapter 8 - when to Rock the Boat and when to Let it Slide
 
 how to spark action and motivation in an effective way.
 
@@ -296,7 +296,7 @@ Fear can allow us to understand the weaknesses of ourselves/our actions and prep
 in each of us there is a "go" system and a "stop" system, the fear fuels us for action, the second clears it and presses on the breaks. fear, since it is a strong emotion can be a fueling force for our "go" system, so we should treat it as that, and not try to suppress it and "calm down".
 
 *A second aspect of triggering our go system is our viewpoint*. if doing the action is not risky, we should focus on the benefits from preforming the action. if it is risky, we should focus on the harms we have now, and what we will (continue to) lose if you don't preform the action. it is because we as humans are [loss aversion](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md), so only when the loss seems certain we will be forced to do an action.
-similarly, when we are starting to lose our commitment, we should focus on the progress we already made, see how far we've come, be proud of ourselves. but when we have renewed our commitment, we should focus on the way we still have to go, let the distance fuel our purpose and drive to move ahead as far as possible.
+similarly, when we are starting to lose our commitment, we should focus on the progress we already made, see how far we've come, be proud of ourselves. but when we have renewed our commitment, we should focus on the way we still have to go, let the distance fuel our purpose and drive to move ahead as far as possible. [Focusing on progress made strengthens motivation](/notes/focusing-on-progress-made-strengthens-motivation.md)
 
 *A third aspect is the society around us*. is it hard to trigger the go system when we are all alone, when it seems that we have no other supporters. that's why we need to make it as easy as possible for others to speak up and show that we are not alone. small actions, and even just one person can reduce [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) and enable us to trigger the go system.
 

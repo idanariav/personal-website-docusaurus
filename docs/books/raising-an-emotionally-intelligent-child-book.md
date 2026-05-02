@@ -1,7 +1,7 @@
 ---
 UUID: 20240331220714
 Created: '2024-03-31 22:07'
-Modified: '2026-04-13 06:17'
+Modified: '2026-04-27 06:21'
 tags: []
 FullTitle: Raising An Emotionally Intelligent Child
 Description: >-
@@ -29,7 +29,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 8
 Pages: 246
 Reread: 0
 Rate: 4
@@ -149,7 +149,7 @@ Four types of parenting:
 1. **Dismissive** - ignores the child's emotional state, usually thinking that negative emotions are a problem that needs fixing by distractions or gaslighting. They believe that focusing on those emotions will only increase the problem, and are the result of the child's lack of perspective
 2. **Disapproving** - thinks that negative emotions are a sign of weakness, a lack of character, and one must be punished for expressing them
 3. **lassie-faire** - allows their child to express their emotions, but leave them be as is, without addressing it. They hope that negative emotions is just something to vent, and that the child has to learn on their own how to handle it.
-4. **Emotional coach** - sees negative emotions as an important expression, an opportunity for connection and growth. Even negative emotions can be a source of communication, of information, and us parents should use these moments to help them learn how to deal with it. Emotional coaching accepts all types of emotions, but not all behavior. It's okay to be mad at your sister, but not hitting her. It's about truly listen ,sharing their feelings, being honest and open. They're not looking for an explanation, but a validation
+4. **Emotional coach** - sees negative emotions as an important expression, an opportunity for connection and growth. Even negative emotions can be a source of communication, of information, and us parents should use these moments to help them learn how to deal with it. Emotional coaching accepts all types of emotions, but not all behavior. It's okay to be mad at your sister, but not hitting her. [All emotions are acceptable, all behaviors are not](/notes/all-emotions-are-acceptable-all-behaviors-are-not.md) It's about truly listen ,sharing their feelings, being honest and open. They're not looking for an explanation, but a validation
 
 :::note[ASSESSING YOUR PARENTING STYLE]
 
@@ -170,7 +170,7 @@ The five steps in detail:
 
 #### Being Aware of the Child's Emotions
 
-**To be aware of others' emotion, we first have to be aware of own our** emotions [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md) Some of us, especially men, are often taught to hide their emotions, until they become invisible to themselves, and turning emotions into something evil, which just causes them to be expressed through outbursts, rather than small drops. To be aware of one's emotions, it is helpful to use[Journaling enables reflection and self-understanding through written documentation](/notes/journaling-enables-reflection-and-self-understanding-through-written-documentation.md), to reflect on life's events and how it made you feel.
+**To be aware of others' emotion, we first have to be aware of own our** emotions [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md) Some of us, especially men, are often taught to hide their emotions, until they become invisible to themselves, and turning emotions into something evil, which just causes them to be expressed through outbursts, rather than small drops. [Suppressing emotions causes them to resurface as outbursts](/notes/suppressing-emotions-causes-them-to-resurface-as-outbursts.md) To be aware of one's emotions, it is helpful to use[Journaling enables reflection and self-understanding through written documentation](/notes/journaling-enables-reflection-and-self-understanding-through-written-documentation.md), to reflect on life's events and how it made you feel.
 
 In those moments that we feel like we are going to burst on our kids, it's best to walk away and come back later, calmer. To take a break is much better than saying hurtful or cynical things that can damage their self esteem [Rest enables recovery and sustained performance](/notes/rest-enables-recovery-and-sustained-performance.md). And if or when we fail, it's important to [apologize](/notes/a-true-apology-includes-intent-to-repair.md), to repair. Tell the child that you're sorry, explain how you felt during and after.
 
@@ -182,15 +182,15 @@ To recognize the child's emotional state, it's worth remembering that **most chi
 
 #### Listening Empathically and Validating the Child's Feelings
 
-**Reason and logic is not a useful tool in emotional situations**. First we must [listen](/notes/listening-well-requires-active-effort-to-understand.md), dedicate our complete attention, notice facial expressions, body posture, tone, everything we can use to understand our child [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md) Then, **we simply reflect back what we think they're saying, with no judgment** [Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md). We validate their emotions, whatever they are. We don't try to assume, we give our best guess and wait for their response.
+**Reason and logic is not a useful tool in emotional situations** [Reason cannot reach someone in an emotional state](/notes/reason-cannot-reach-someone-in-an-emotional-state.md). First we must [listen](/notes/listening-well-requires-active-effort-to-understand.md), dedicate our complete attention, notice facial expressions, body posture, tone, everything we can use to understand our child [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md) Then, **we simply reflect back what we think they're saying, with no judgment** [Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md). We validate their emotions, whatever they are. We don't try to assume, we give our best guess and wait for their response.
 
 **We don't try to give advice, we just listen. We help them find their own solution**. [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md). Note that this is not an interrogation. We are not trying to squeeze the answer out of them. A "maybe" and "I don't know" is good enough to continue the conversation. They don't have yet the self awareness to know exactly what causes their behavior.
 
-**They don't need a problem solver, they need a safe place to share their feelings.**
+**They don't need a problem solver, they need a safe place to share their feelings.** [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md)
 
 #### Helping the Child Verbally Label Emotions
 
-An important step of the process is to help them understand what they're feeling. **We don't tell them how to feel, just give them words to express themselves**, like "does this makes you sad/angry/jealous/excited" etc. once they are able to label their emotions, it gives them clarity, it turns the unknown into something manageable, normal. It removes the ambiguity.
+An important step of the process is to help them understand what they're feeling. **We don't tell them how to feel, just give them words to express themselves**, like "does this makes you sad/angry/jealous/excited" etc. once they are able to label their emotions, it gives them clarity, it turns the unknown into something manageable, normal. It removes the ambiguity. [Emotional vocabulary enables recognition and regulation of feelings](/notes/emotional-vocabulary-enables-recognition-and-regulation-of-feelings.md)
 
 #### Setting Limits while Helping the Child Problem Solve
 

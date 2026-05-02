@@ -1,7 +1,7 @@
 ---
 UUID: 20220703184558
 Created: '2022-07-03 18:45'
-Modified: '2026-04-13 06:16'
+Modified: '2026-04-26 07:07'
 tags: []
 Author:
   - '[[Chris Voss]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 5
 Pages: 288
 Rate: 4
 PublishDate: 2016-05-19T00:00:00.000Z
@@ -94,7 +94,7 @@ Although the book might sometimes be too cynical or hypocrite, in the end the ma
 
 ### Intro
 
-**Emotions are not a problem to be solved, it is the solution**. [Negotiation is an act of connection](/notes/negotiation-is-an-act-of-connection.md). Negotiation is never only a rational solution, but rather its affected by desires, preferences, and viewpoints.
+**Emotions are not a problem to be solved, it is the solution**. [Emotions drive conflict resolution more than rational arguments](/notes/emotions-drive-conflict-resolution-more-than-rational-arguments.md) [Negotiation is an act of connection](/notes/negotiation-is-an-act-of-connection.md). Negotiation is never only a rational solution, but rather its affected by desires, preferences, and viewpoints.
 
 Note the tone you are using, your body language, try to be more calm, relax, like a late-at-night radio host. Smile. [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md)
 
@@ -172,7 +172,7 @@ so say things like:
 
 ### Seek No
 
-You should be afraid of the word "no", **when your partner says no it gives us a lot of information on what he does want or feel**. It gives him a sense of security and control in the conversation, otherwise if they can't say no, they will either lie, leave or feel coerced.
+You should be afraid of the word "no", **when your partner says no it gives us a lot of information on what he does want or feel**. [Rejection reveals preferences](/notes/rejection-reveals-preferences.md) It gives him a sense of security and control in the conversation, otherwise if they can't say no, they will either lie, leave or feel coerced.
 
 :::note[BEWARE “YES”—MASTER “NO”]
 

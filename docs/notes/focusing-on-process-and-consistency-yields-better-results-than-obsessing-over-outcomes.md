@@ -1,27 +1,29 @@
 ---
 UUID: 20240106081208
 Created: '2024-01-06 08:12'
-Modified: '2026-04-11 22:21'
+Modified: '2026-04-26 22:29'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 4
-aliases:
-  - Trust the Process
-  - Trust the Process
-  - Habits beats goals
-  - Journey not destination
+Version: 5
+Image: >-
+  [[Focusing on process and consistency yields better results than obsessing
+  over outcomes.png]]
+ImageText: 'A needle and a thread on the left, turns to Cinderella''s dress on the right'
 Description: >-
   A philosophy emphasizing the importance of consistent actions and habits over
   abstract goals, asserting that steady effort leads to desired outcomes despite
   uncertainty.
-new_schema: true
 Topic:
   - '[[Compounding and Consistency]]'
 Origin: null
 URL: null
+aliases:
+  - Trust the Process
+  - Habits beats goals
+  - Journey not destination
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -44,7 +46,7 @@ Additionally, habits reframe the meaning of success from a binary yes/no to a co
 
 Furthermore, by preforming good habits, you can be certain that you make good [progress](/notes/consistency-compounds-results-through-reliable-repeated-action.md) daily, so that the outcomes you wish for will come naturally "by themselves". At first the results look insignificant, but over time they [compound](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md). For example, writing 15 minutes a day doesn't sound a lot if you wish to become a writer, but when it translates into 7.5 hours a month it suddenly sounds enough to do something towards your goal.
 
-### Why it matters
+### Why it Matters
 
 Focus on the process, not the outcome.
 
@@ -60,8 +62,8 @@ We usually hold in a high regard the importance of goals, especially as our main
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Trust the Process](/notes/trust-the-process.webp)
+![Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.webp)

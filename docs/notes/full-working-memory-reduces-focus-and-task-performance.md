@@ -1,25 +1,26 @@
 ---
 UUID: 20240217085548
 Created: '2024-02-17 08:55'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-01 21:09'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Working Memory
+Version: 4
+Image: '[[Full working memory reduces focus and task performance.png]]'
+ImageText: A person lifting more and more rocks
 Description: >-
   A cognitive system that temporarily holds and processes information, limited
   by capacity and efficiency, affecting focus and retention of data for
   short-term tasks.
-new_schema: true
 Topic:
   - '[[Human Brain]]'
   - '[[Working Memory and Cognitive Limits]]'
 Origin: null
 URL: null
+aliases:
+  - Working Memory
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -42,7 +43,7 @@ Working memory can be greatly improved by [Breaking complex topics into smaller 
 
 Additionally, our working memory is less effective when we have less of it to spare. For unfinished tasks tend to [linger](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md), leaving less attention for other tasks.
 
-### Why it matters
+### Why it Matters
 
 We should note that our working memory is a tool for the short term. It is a processing stage for simple tasks, and more complicated ones are transferred to the long term memory. In general, [Our mind is a processor and not a warehouse](/notes/our-mind-is-a-processor-and-not-a-warehouse.md), we can't expect ourselves to remember everything all the time, and especially not hold it in our conscious mind when we work on something important. It is best to outsource our memory, or parts of it, to more stable forms of memory like digital copies.
 
@@ -54,9 +55,8 @@ For example, remembering a random set of numbers is hard, but if we give meaning
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Working Memory](/notes/working-memory.webp)
+![Full working memory reduces focus and task performance](/notes/full-working-memory-reduces-focus-and-task-performance.webp)

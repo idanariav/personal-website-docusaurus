@@ -1,23 +1,24 @@
 ---
 UUID: 20230404203219
 Created: '2023-04-04 20:32'
-Modified: '2026-04-11 22:21'
+Modified: '2026-04-27 08:47'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases: null
+Version: 4
+Image: '[[Free will is knowledge.png]]'
+ImageText: 'An open door and a closed door side by side, and a key next to it'
 Description: >-
   The concept that true free will necessitates both self-awareness and
   understanding of external influences, enabling informed decision-making
   aligned with personal well-being and morality.
-new_schema: true
 Topic:
   - '[[Freedom and Agency]]'
 Origin: '[[Socrates (philosopher)]]'
 URL: null
+aliases: []
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -25,7 +26,6 @@ SiteProcssed: true
 # Free Will is Knowledge
 
 ## Notes
-
 
 ### Claim
 
@@ -35,7 +35,7 @@ Free will requires both internal knowledge and external knowledge. Meaning, both
 
 Additionally, free will requires [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md), the environment doesn't work in a vacuum, it affects each person differently based on our internal emotional state. To be aware on what triggers us and how, we need to be self aware of our thoughts and emotions.
 
-### Why it matters
+### Why it Matters
 
 Without both internal and external knowledge, our decisions, even if feel as if were made by free will, are most likely not free at all, and are just expressions of our environment, our education, and our biases. Therefore **freedom is not just about being able to do what you want, but also about being able to do what is good for you**.
 
@@ -47,9 +47,8 @@ For example, a tyrant that rules with an iron fist is not truly powerful because
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![free will is knowledge](/notes/free-will-is-knowledge.webp)
+![Free will is knowledge](/notes/free-will-is-knowledge.webp)
