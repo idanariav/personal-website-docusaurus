@@ -1,25 +1,26 @@
 ---
 UUID: 20230404161856
 Created: '2023-04-04 16:18'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-09 08:13'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 2
-aliases:
-  - Task Batching
-  - Batching
+Version: 3
+Image: '[[Group similar tasks to reduce switching costs.png]]'
+ImageText: An agenda split into many different tasks vs an agenda with bigger blocks
 Description: >-
   A productivity strategy that involves grouping similar tasks together to
   minimize context switching, enhance focus, and maintain consistent mental
   effort.
-new_schema: true
 Topic:
   - '[[Triage prioritizes limited resources by allocating attention wisely]]'
 Origin: '[[Thomas Frank]]'
 URL: 'https://www.youtube.com/watch?v=c92hhEFCcGw'
+aliases:
+  - Task Batching
+  - Batching
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -43,7 +44,7 @@ the usual groups are:
 4. *tools* - does it require internet? workout gear? my computer?
 5. *Social interaction* - does this task can be done solely by me? am i reliant on others?
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -51,8 +52,8 @@ the usual groups are:
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Task Batching](/notes/task-batching.webp)
+![Group similar tasks to reduce switching costs](/notes/group-similar-tasks-to-reduce-switching-costs.webp)

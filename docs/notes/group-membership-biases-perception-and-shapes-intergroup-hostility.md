@@ -1,26 +1,26 @@
 ---
 UUID: 20230616130817
 Created: '2023-06-16 13:08'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-08 08:09'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Us vs them
-  - Us vs them
+Version: 4
+Image: '[[Group membership biases perception and shapes intergroup hostility.png]]'
+ImageText: People who look like angels vs people who look like demons
 Description: >-
   A social phenomenon where groups form opposing identities, fostering negative
   sentiments towards others, leading to low tolerance for diversity and
   reinforcing group biases, while also promoting empathy and kindness within the
   group.
-new_schema: true
 Topic:
   - '[[Social and Group Ethics]]'
 Origin: null
 URL: null
+aliases:
+  - Us vs them
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -37,7 +37,7 @@ The "us vs them" divide is when people not only naturally divide into groups, bu
 
 Such divide could be arbitrary, and starts as early as childhood [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md). But whichever the source of the divide may be, once groups are formed, there is low tolerance for [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md) within each group, and [conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md) becomes essential. Often the perceptions of the group are self reinforcing, because each member is [grown](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md) to hate the other group and love their own, which affects how they later educate their children.
 
-### Why it matters
+### Why it Matters
 
 On the one hand, there are good implications to this divide, such as increased [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md), [Kindness](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md), and "other-thinking". On the other hand, it increases the distance between groups, creates social gaps and even promotes hate and violence [Inequality is a normative problem caused by unjust distribution of resources and rights](/notes/inequality-is-a-normative-problem-caused-by-unjust-distribution-of-resources-and-rights.md).
 
@@ -49,9 +49,8 @@ In an us vs them mentality, the interaction with the other party is less about [
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![us vs them](/notes/us-vs-them.webp)
+![Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.webp)

@@ -1,25 +1,26 @@
 ---
 UUID: 20240102083442
 Created: '2024-01-02 08:34'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-07 07:04'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Grit
-  - Persistance
+Version: 4
+Image: '[[Grit enables persisting through struggle and challenge.png]]'
+ImageText: A person pushing a boulder up a mountain towards a goalpost
 Description: >-
   The ability to persistently pursue goals despite difficulties, driven by
   intrinsic motivation and self-control, while balancing determination with the
   need for adaptability.
-new_schema: true
 Topic:
   - '[[Growth Through Adversity]]'
 Origin: '[[Grit (book)]]'
 URL: null
+aliases:
+  - Grit
+  - Persistance
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -27,7 +28,6 @@ SiteProcssed: true
 # Grit
 
 ## Notes
-
 
 ### Claim
 
@@ -39,7 +39,7 @@ It means to be [persistent](/notes/consistency-compounds-results-through-reliabl
 
 Those who have grit seems resistant to [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md) and [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md), they are unwavering in pursuing their cause, they are an immovable force. They are aware that good things take time, that the only way out is through, and they are willing to be [patient](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md) until they accomplish what they've set out to do.
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -51,7 +51,8 @@ Grit stems from the idea that [Practice beats talent](/notes/practice-beats-tale
 
 However, despite it's best intentions, sometimes having too much grit means we are not ;[flexible](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md). We treat every obstacle as something to overcome, while potentially ignoring the message it contains, that perhaps we have to change course, do things differently, or even quit all together.
 
-### Open questions
+### Open Questions
 
 ## Visual
-![Grit](/notes/grit.webp)
+
+![Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.webp)

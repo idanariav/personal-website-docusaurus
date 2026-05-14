@@ -1,26 +1,27 @@
 ---
 UUID: 20220715053856
 Created: '2022-07-15 05:38'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-10 14:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 5
-aliases:
-  - Guilt
-  - Shame
+Version: 6
+Image: '[[Guilt signals when we fail to act on what we control.png]]'
+ImageText: A red button pushed vs a blue button unpushed
 Description: >-
   A complex emotion arising from the perception of having caused real or
   imagined harm, influenced by subjective judgments and societal expectations,
   often leading to shame and self-criticism.
-new_schema: true
 Topic:
   - '[[Emotions as Signals]]'
 Origin: '[[The Happiness Lab with Dr. Laurie Santos]]'
 URL: >-
   https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/39E17/traffic.megaphone.fm/HSW3326477518.mp3?updated=1643918660 
+aliases:
+  - Guilt
+  - Shame
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -28,7 +29,6 @@ SiteProcssed: true
 # Guilt
 
 ## Notes
-
 
 ### Claim
 
@@ -42,7 +42,7 @@ We are very bad at being [objective](/notes/seeing-reality-without-subjective-bi
 
 It can also result from unfair [comparisons](/notes/comparing-ourselves-to-others-damages-wellbeing-and-progress.md). For example if in the past you had time to do x, and now you don't, it would be unfair for you to expect yourself to reach the same standard. You always have to set your [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) in accordance with reality [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md).
 
-### Why it matters
+### Why it Matters
 
 Shame is a very powerful emotion, perhaps even more than fear because we are [social beings](/notes/human-is-a-social-being.md). We intuitively care about others opinion of us, so we will do almost anything to avoid being shamed, even at the price of self harm like loosing [Acting in alignment with your values is authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.md), or at the price of creating an even bigger lie just to cover up your shameful acts (which will ultimately result in more shame and pain once the truth will come out).
 
@@ -54,8 +54,8 @@ Additionally, the more we care about our [Ego](/notes/distinguishing-appearance-
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Guilt](/notes/guilt.webp)
+![Guilt signals when we fail to act on what we control](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.webp)

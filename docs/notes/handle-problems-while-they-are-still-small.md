@@ -1,24 +1,25 @@
 ---
 UUID: 20250228114013
 Created: '2025-02-28 11:40'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-12 07:06'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 2
-aliases:
-  - Prevention
-  - Immunization
+Version: 3
+Image: '[[Handle problems while they are still small.png]]'
+ImageText: A single drop above a small candle vs a bucket above a campfire
 Description: >-
   A proactive approach to managing potential problems by addressing them early,
   thereby minimizing future complications and costs, often involving initial
   investments for long-term benefits.
-new_schema: true
 Topic: []
 Origin: null
 URL: null
+aliases:
+  - Prevention
+  - Immunization
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -37,7 +38,7 @@ It is also a form of [One-time effort investment yields future benefits](/notes/
 
 Prevention requires us first to know what we are trying to prevent, and take a [proactive](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md) approach rather than dealing with problems as they arise.
 
-### Why it matters
+### Why it Matters
 
 Since [Problems](/notes/problems.md) have a [Actions spread effects across people and time beyond initial cause](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md), preventing problems in advance solves much more than the immediate effect.
 
@@ -49,8 +50,8 @@ For example, a process of [Pre-mortem anticipates failure modes to enable prepar
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Prevention](/notes/prevention.webp)
+![Handle problems while they are still small](/notes/handle-problems-while-they-are-still-small.webp)

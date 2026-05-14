@@ -1,18 +1,16 @@
 ---
 UUID: 20231230184156
 Created: '2023-12-30 18:41'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-03 12:04'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 4
-new_schema: true
-aliases:
-  - Gamification
-  - Instant Gratification
-  - Gaming
+Version: 5
+Image: '[[Gamification increases motivation by making activities enjoyable.png]]'
+ImageText: >-
+  A phone with a game that gives points for completing a task of taking out the
+  trash
 Description: >-
   A method of enhancing activities by incorporating elements of play and
   challenge to increase enjoyment and engagement, often transforming mundane
@@ -22,6 +20,11 @@ Topic:
   - '[[Peak States and Optimal Experience]]'
 Origin: '[[The Knowledge Project with Shane Parrish]]'
 URL: 'https://share.snipd.com/episode/858e9e0a-f2a4-4651-baae-19da8d88a64d'
+aliases:
+  - Gamification
+  - Instant Gratification
+  - Gaming
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -38,7 +41,7 @@ Gamification is when we do an activity mainly because it is fun and gratifying.
 
 It usually involves a (Jump:: challenge, perhaps uncertainty, and progression (like video games). This can be either activities that we created for play, or "[boring](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md)" activities that we convert to "fun" activities. The logic behind gamifying is the same as behind [Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.md) - to add fun to our tasks to make them more approachable.
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -55,8 +58,8 @@ Usually games gives us a sense of [Flow is deep immersion where performance peak
 
 While perhaps not a true solution to the problem, it can put [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md) at bay.
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Gamification](/notes/gamification.webp)
+![Gamification increases motivation by making activities enjoyable](/notes/gamification-increases-motivation-by-making-activities-enjoyable.webp)
