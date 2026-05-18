@@ -9,9 +9,9 @@ const pillars = [
   {
     icon: '🤖',
     title: 'AI Systems & Data Engineering',
-    body: 'I create, evaluate, and integrate AI-powered systems — from data pipelines and dashboards to LLM-native CLI tools. Recent work includes building PKM tools for LLM agents: qmd (semantic document search), qnode (knowledge graph), qvoid (vector store), and qimg (image search).',
+    body: 'I create, evaluate, and integrate AI-powered systems — from data pipelines and dashboards to LLM-native CLI tools. Recent work includes building PKM tools for LLM agents: qmd (semantic document search), qnode (knowledge graph), qvoid (unresolved link analysis), and qimg (image search).',
     linkLabel: 'My Portfolio →',
-    linkHref: 'https://github.com/idanariav/Idans_portfolio',
+    linkHref: 'https://github.com/idanariav',
     external: true,
   },
   {
