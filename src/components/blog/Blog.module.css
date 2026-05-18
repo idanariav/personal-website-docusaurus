@@ -9,8 +9,13 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height: 350px;
   position: relative;
+}
+
+@media (min-width: 768px) {
+  .blog-list-page article {
+    min-height: 350px;
+  }
 }
 
 .blog-list-page article:hover {

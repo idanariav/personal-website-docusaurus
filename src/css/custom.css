@@ -70,22 +70,25 @@ html[data-theme="light"] .main-wrapper {
   margin-bottom: 1rem;
 }
 
-html[data-theme='light'] em {
-  color: #f5a4df;
+input:focus-visible,
+textarea:focus-visible,
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
 }
 
-/* For italic text in dark mode */
-html[data-theme='dark'] em {
-  color: #F5C2E7; 
+em {
+  color: var(--ifm-color-primary);
+  font-style: italic;
 }
 
-html[data-theme='light'] strong {
-  color: #f7bf47;
+strong {
+  color: var(--ifm-color-primary-darkest);
 }
 
-/* For bold text in dark mode */
-html[data-theme='dark'] strong {
-  color: #F9E2AF;
+[data-theme='dark'] strong {
+  color: var(--ifm-color-primary-lightest);
 }
 
 

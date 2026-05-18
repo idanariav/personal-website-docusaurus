@@ -21,15 +21,18 @@
 }
 
 .submit-btn {
-  align-self: center; 
+  align-self: center;
   padding: 0.5rem 1rem;
-  width: 100%; 
+  width: 100%;
   font-size: 1rem;
   cursor: pointer;
-  border-radius: 8px; /* Rounded corners */
-  background-color: #a953ff;
+  border-radius: 8px;
+  background-color: var(--ifm-color-primary);
+  color: #fff;
+  border: none;
+  transition: background 0.2s;
 }
 
-[data-theme="dark"] .submit-btn {
-  background-color: var(--ifm-color-primary); /* Set a different background color for dark mode */
+.submit-btn:hover {
+  background-color: var(--ifm-color-primary-dark);
 }

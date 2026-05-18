@@ -136,7 +136,7 @@ const config = {
     }],
       image: "general/website-social-card.png",
       navbar: {
-        hideOnScroll: true,
+        hideOnScroll: false,
         title: 'Welcome',
         items: [
           {

@@ -62,7 +62,7 @@ function SketchGallery() {
                   />
                 </CardActionArea>
               </Card>
-              <p className={styles.sketchTitle}>{sketch.title}</p>
+              <h3 className={styles.sketchTitle}>{sketch.title}</h3>
             </Grid>
           ))}
         </Grid>

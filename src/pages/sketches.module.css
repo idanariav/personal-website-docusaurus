@@ -73,8 +73,8 @@
 }
 
 .sketchCard:hover {
-  transform: none;
-  box-shadow: none;
+  transform: translateY(-3px);
+  box-shadow: var(--ifm-global-shadow-md);
 }
 
 .sketchImage {
@@ -88,6 +88,7 @@
 .sketchTitle {
   text-align: center;
   margin-top: 0.75rem !important;
+  margin-bottom: 0 !important;
   font-size: 0.95rem;
   font-weight: 500;
   opacity: 0.85;
