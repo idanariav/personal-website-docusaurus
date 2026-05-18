@@ -7,30 +7,30 @@ const FeatureList = [
   {
     title: 'How can I help you?',
     link: '/contactPage',
-    Svg: require('@site/static/general/mind_map_illustration.svg').default,
-    description: (
-      <>
-        I specialize in knowledge management systems that convert information into clear, valuable insights  - reach out anytime
-      </>
-    ),
-  },
-  {
-    title: 'Knowledge is power',
-    link: '/docs/welcome',
     Svg: require('@site/static/general/knowledge_illustration.svg').default,
     description: (
       <>
-        Dive into my knowledge vault - a collection of valuable resources and insights, from philosophy to productivity
+        I specialize in knowledge management systems that convert information into clear, valuable insights — reach out anytime
       </>
     ),
   },
   {
-    title: 'Join the Journey',
+    title: 'Visual Thinking',
+    link: '/sketches',
+    Svg: require('@site/static/general/mind_map_illustration.svg').default,
+    description: (
+      <>
+        Bringing complex ideas to life through simple, hand-crafted visuals — a gallery of illustrated concepts
+      </>
+    ),
+  },
+  {
+    title: 'Read the Newsletter',
     link: '/blog',
     Svg: require('@site/static/general/newsletter_illustration.svg').default,
     description: (
       <>
-      "Philosopher's Code" newsletter explores practical philosophy - join me on the journey of happiness, growth, and clarity
+        "Philosopher's Code" newsletter explores practical philosophy - join me on the journey of happiness, growth, and clarity
       </>
     ),
   },

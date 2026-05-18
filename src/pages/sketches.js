@@ -4,13 +4,14 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
 import styles from './sketches.module.css';
 import { Container, Grid, Card, CardMedia, CardActionArea } from "@mui/material";
+import { sketches as sketchData } from '@site/src/data/sketches';
 
 function SketchesHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container text--center">
         <Heading as="h1" className={styles.title}>
-          Idan Ariav
+          Visual Notes
         </Heading>
         <p className={styles.tagline}>
           Bringing insight to life with simple visuals.
@@ -20,50 +21,40 @@ function SketchesHeader() {
   );
 }
 
-function SketchGallery() {
-  // Portfolio items with thumbnail images
-  const sketches = [
-    {
-      id: 1,
-      title: "Clarity",
-      image: useBaseUrl('/notes/clarity.webp'),
-      link: "/docs/welcome"
-    },
-    {
-      id: 2,
-      title: "Deontology",
-      image: useBaseUrl('/notes/deontology.webp'),
-      link: "/blog"
-    },
-    {
-      id: 3,
-      title: "Curiosity",
-      image: useBaseUrl('/notes/curiosity.webp'),
-      link: "/docs"
-    },
-  ];
+function SketchCard({ title, image, link }) {
+  const resolvedImage = useBaseUrl(image);
+  const cardContent = (
+    <CardMedia
+      component="img"
+      image={resolvedImage}
+      alt={title}
+      className={styles.sketchImage}
+    />
+  );
+  return (
+    <Grid item xs={12} sm={6} md={4}>
+      <Card className={styles.sketchCard}>
+        {link ? (
+          <CardActionArea href={link}>{cardContent}</CardActionArea>
+        ) : (
+          cardContent
+        )}
+      </Card>
+      <h3 className={styles.sketchTitle}>{title}</h3>
+    </Grid>
+  );
+}
 
+function SketchGallery() {
   return (
     <section className={styles.gallerySection}>
-      <Container maxWidth="md">
+      <Container maxWidth="lg">
         <Heading as="h2" className={styles.galleryTitle}>
           Recent Works
         </Heading>
         <Grid container spacing={3} justifyContent="center">
-          {sketches.map((sketch) => (
-            <Grid item xs={12} sm={sketch.id === 1 ? 12 : 6} md={sketch.id === 1 ? 12 : 6} key={sketch.id}>
-              <Card className={styles.sketchCard}>
-                <CardActionArea href={sketch.link}>
-                  <CardMedia
-                    component="img"
-                    image={sketch.image}
-                    alt={sketch.title}
-                    className={styles.sketchImage}
-                  />
-                </CardActionArea>
-              </Card>
-              <h3 className={styles.sketchTitle}>{sketch.title}</h3>
-            </Grid>
+          {sketchData.map((sketch, idx) => (
+            <SketchCard key={idx} {...sketch} />
           ))}
         </Grid>
       </Container>

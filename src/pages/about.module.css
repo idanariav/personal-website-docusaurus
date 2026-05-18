@@ -1,0 +1,146 @@
+.heroBanner {
+  padding: 6rem 2rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background-color: var(--ifm-color-primary-welcome);
+  color: var(--ifm-font-base-color);
+  min-height: 280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 4rem 1rem;
+    min-height: 200px;
+  }
+}
+
+.title {
+  font-size: 3.5rem !important;
+  font-weight: 900 !important;
+  margin: 0 !important;
+}
+
+@media screen and (max-width: 996px) {
+  .title {
+    font-size: 2.2rem !important;
+  }
+}
+
+.tagline {
+  font-size: 1.3rem;
+  margin-top: 1rem;
+  opacity: 0.9;
+  font-weight: 400;
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+}
+
+/* Pillars section */
+.pillarsSection {
+  padding: 4rem 0;
+  background-color: var(--ifm-background-color);
+}
+
+.pillarCard {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 12px;
+  padding: 2.5rem 2rem;
+  height: 100%;
+  background-color: var(--ifm-background-surface-color);
+  box-shadow: var(--ifm-global-shadow-lw);
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.pillarCard:hover {
+  box-shadow: var(--ifm-global-shadow-md);
+  border-color: var(--ifm-color-primary);
+}
+
+.pillarIcon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.pillarTitle {
+  font-size: 1.4rem !important;
+  font-weight: 700 !important;
+  margin-bottom: 1rem !important;
+  color: var(--ifm-color-primary);
+}
+
+.pillarBody {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--ifm-font-base-color);
+  margin-bottom: 1rem;
+}
+
+.pillarLink {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+/* Connect section */
+.connectSection {
+  padding: 4rem 2rem;
+  background-color: var(--ifm-color-primary-welcome);
+  text-align: center;
+}
+
+.connectTitle {
+  font-size: 2rem !important;
+  font-weight: 700 !important;
+  margin-bottom: 1rem !important;
+}
+
+.connectBody {
+  font-size: 1.05rem;
+  max-width: 560px;
+  margin: 0 auto 2rem;
+  line-height: 1.7;
+}
+
+.ctaRow {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.ctaButton {
+  background: var(--ifm-color-primary);
+  color: #fff !important;
+  padding: 0.65rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none !important;
+  transition: background 0.2s;
+  font-size: 1rem;
+}
+
+.ctaButton:hover {
+  background: var(--ifm-color-primary-dark);
+}
+
+.ctaButtonOutline {
+  background: transparent;
+  color: var(--ifm-color-primary) !important;
+  padding: 0.65rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none !important;
+  border: 2px solid var(--ifm-color-primary);
+  transition: background 0.2s, color 0.2s;
+  font-size: 1rem;
+}
+
+.ctaButtonOutline:hover {
+  background: var(--ifm-color-primary);
+  color: #fff !important;
+}

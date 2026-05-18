@@ -112,7 +112,7 @@ const config = {
         { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }, // Helps with responsive design
         { name: 'og:title', content: 'Philosopher\'s Code – Practical Philosophy for everyday life' },
         { name: 'og:description', content: 'Turning complex ideas into tools for happiness, growth, and clarity.' },
-        //{ name: 'og:image', content: 'https://yoursite.com/social-preview.png' },
+        { name: 'og:image', content: 'https://idanariav.com/general/website-social-card.png' },
         { name: 'og:url', content: 'https://idanariav.com/' },
         { name: 'og:type', content: 'website' }],
       headTags: [
@@ -146,7 +146,7 @@ const config = {
           }, 
           {
             to: '/sketches',
-            label: 'Visuals',
+            label: 'Visual Notes',
             position: 'left',
           },
           {
@@ -155,8 +155,8 @@ const config = {
             position: 'left',
           },
           {
-            to: '/blog', 
-            label: 'Newsletter', 
+            to: '/blog',
+            label: 'Blog',
             position: 'left'
           },
           {
@@ -169,11 +169,19 @@ const config = {
       footer: {
         links: [
           {
-            title: 'Into my "Second Brain"',
+            title: 'Free Resources',
             items: [
               {
                 label: 'Free Obsidian Starter Kit',
-                href: 'https://ko-fi.com/s/8e6f6ccefc', 
+                href: 'https://ko-fi.com/s/8e6f6ccefc',
+              },
+              {
+                label: 'Knowledge Vault',
+                to: '/docs/welcome',
+              },
+              {
+                label: 'Book Summaries',
+                to: '/docs/category/book-summaries',
               },
             ],
           },
@@ -182,11 +190,11 @@ const config = {
             items: [
               {
                 label: 'Linkedin',
-                href: 'https://www.linkedin.com/in/idan-ariav/', 
+                href: 'https://www.linkedin.com/in/idan-ariav/',
               },
               {
                 label: "GitHub",
-                href: 'https://github.com/idanariav', 
+                href: 'https://github.com/idanariav',
               },
               {
                 label: 'X (Twitter)',
@@ -196,10 +204,6 @@ const config = {
                 label: 'Medium',
                 href: 'https://medium.com/@idanariav',
               },
-              {
-                label: "Contact",
-                to: '/contactPage',
-              }
             ],
           },
           {
@@ -210,16 +214,16 @@ const config = {
                 to: '/',
               },
               {
-                label: 'Ideas',
-                to: '/docs/category/notes',
-              },
-              {
                 label: 'Blog',
                 to: '/blog',
               },
               {
-                label: 'Book Summaries',
-                to: '/docs/category/book-summaries',
+                label: 'Visual Notes',
+                to: '/sketches',
+              },
+              {
+                label: 'Contact',
+                to: '/contactPage',
               },
             ],
           }
