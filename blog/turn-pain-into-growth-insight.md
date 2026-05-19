@@ -9,6 +9,7 @@ Description: Embracing challenges is key for growth
 tags:
   - challenges
   - motivation
+  - resilience
 ContentStatus: Published
 aliases: null
 draft: false

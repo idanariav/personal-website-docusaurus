@@ -1,67 +1,77 @@
-obsidian:
-  label: Obsidian
-  permalink: /obsidian
-  description: Articles about using Obsidian
-
-growth:
-  label: Growth
-  permalink: /growth
-  description: Practical philosophy for self growth and improved wellbeing
-
-knowledge_management:
-  label: Knowledge Management
-  permalink: /knowledge_management
-  description: Tools to leverage knowledge in your favor, both personally and in your organization
-
-philosophy:
-  label: Philosophy
-  permalink: /philosophy
-  description: Spark your curiosity with the big questions of life
-
-control:
-  label: Self-Control
-  permalink: /self-control
-  description: How to take control of your life and make better decisions
-
-identity:
-  label: Personal-Identity
-  permalink: /personal-identity
-  description: Who are you? What is your identity? How do you define yourself?
-
-reflection:
-  label: Reflection
-  permalink: /reflection
-  description: Reflect on your life, your decisions, and your future
-
-accountability:
-  label: Accountability
-  permalink: /accountability
-  description: Take responsibility for your actions and decisions
+change:
+  label: Change
+  permalink: /change
+  description: Embracing change and adapting to new situations
 
 challenges:
   label: Challenges
   permalink: /challenges
   description: Overcoming obstacles and challenges in life
 
-change:
-  label: Change
-  permalink: /change
-  description: Embracing change and adapting to new situations
+resilience:
+  label: Resilience
+  permalink: /resilience
+  description: Bouncing back from adversity and growing through difficulty
+
+identity:
+  label: Identity
+  permalink: /identity
+  description: Who are you? What is your identity? How do you define yourself?
+
+mindset:
+  label: Mindset
+  permalink: /mindset
+  description: How you think about yourself, your world, and your possibilities
+
+control:
+  label: Self-Control
+  permalink: /self-control
+  description: How to take control of your life and make better decisions
+
+habits:
+  label: Habits
+  permalink: /habits
+  description: Building and maintaining good habits
+
+decision-making:
+  label: Decision-Making
+  permalink: /decision-making
+  description: How to make better choices under uncertainty
+
+focus:
+  label: Focus
+  permalink: /focus
+  description: Improving concentration and directing your attention wisely
+
+reflection:
+  label: Reflection
+  permalink: /reflection
+  description: Reflect on your life, your decisions, and your future
+
+motivation:
+  label: Motivation
+  permalink: /motivation
+  description: Finding and maintaining motivation in your life
+
+stillness:
+  label: Stillness
+  permalink: /stillness
+  description: Finding peace, rest, and quiet in a busy world
+
+creativity:
+  label: Creativity
+  permalink: /creativity
+  description: Exploring and enhancing your creative abilities
 
 communication:
   label: Communication
   permalink: /communication
   description: Understanding and improving communication skills
 
-cooperation:
-  label: Cooperation
-  permalink: /cooperation
-  description: Working together for a common goal
-
-creativity:
-  label: Creativity
-  permalink: /creativity
-  description: Exploring and enhancing your creative abilities
+relationships:
+  label: Relationships
+  permalink: /relationships
+  description: How we connect, cooperate, and relate to others
 
 emotions:
   label: Emotions
@@ -72,58 +82,3 @@ ethics:
   label: Ethics
   permalink: /ethics
   description: Exploring moral principles and values
-
-focus:
-  label: Focus
-  permalink: /focus
-  description: Improving concentration and focus in your life
-
-habits:
-  label: Habits
-  permalink: /habits
-  description: Building and maintaining good habits
-
-kindness:
-  label: Kindness
-  permalink: /kindness
-  description: Cultivating kindness in our lives
-
-mindset:
-  label: Mindset
-  permalink: /mindset
-  description: Developing a positive mindset
-
-minimalism:
-  label: Minimalism
-  permalink: /minimalism
-  description: Simplifying your life and decluttering your mind
-
-recharge:
-  label: Recharge
-  permalink: /recharge
-  description: Methods recharge and rejuvenate
-
-motivation:
-  label: Motivation
-  permalink: /motivation
-  description: Finding and maintaining motivation in your life
-
-stillness:
-  label: Stillness
-  permalink: /stillness
-  description: Finding peace and stillness in a busy world
-
-writing:
-  label: Writing
-  permalink: /writing
-  description: The art and craft of writing
-
-perspective:
-  label: Perspective
-  permalink: /perspective
-  description: Changing your perspective to see the world differently
-
-environment:
-  label: Environment
-  permalink: /environment
-  description: Understanding your environment and using it to your advantage

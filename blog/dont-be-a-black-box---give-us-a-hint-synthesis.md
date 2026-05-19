@@ -4,6 +4,7 @@ Created: '2023-03-29 17:35'
 Modified: '2024-06-20 07:44'
 tags:
   - communication
+  - relationships
 Medium:
   - Obsidian
 Description: being understood is easier when it is explicit

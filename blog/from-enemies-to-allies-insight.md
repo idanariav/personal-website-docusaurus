@@ -4,8 +4,8 @@ Created: '2025-03-08 18:10'
 Modified: '2025-03-15 10:05'
 tags:
   - communication
-  - cooperation
   - mindset
+  - relationships
 Medium:
   - Obsidian
 Description: >-

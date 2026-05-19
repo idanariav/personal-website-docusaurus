@@ -4,9 +4,11 @@ Created: '2025-11-14 17:10'
 Modified: '2026-02-17 16:50'
 tags:
   - challenges
-  - perspective
+  - mindset
   - change
   - communication
+  - resilience
+  - relationships
 Platform:
   - Obsidian
   - Medium

@@ -4,7 +4,7 @@ Created: '2025-08-07 08:03'
 Modified: '2025-08-31 06:33'
 tags:
   - control
-  - environment
+  - habits
   - stillness
 Medium:
   - Obsidian

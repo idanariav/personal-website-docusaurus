@@ -8,7 +8,6 @@ Medium:
 Description: By narrowing our scope we can accomplish more
 tags:
   - focus
-  - minimalism
   - reflection
 ContentStatus: Published
 aliases: null

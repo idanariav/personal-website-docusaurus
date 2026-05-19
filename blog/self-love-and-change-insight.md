@@ -8,7 +8,7 @@ Medium:
 Description: 'To change ourselves, we have to first love ourselves'
 tags:
   - change
-  - kindness
+  - resilience
 ContentStatus: Published
 aliases: null
 draft: false

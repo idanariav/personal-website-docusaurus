@@ -6,6 +6,7 @@ tags:
   - control
   - identity
   - reflection
+  - decision-making
 Medium:
   - Obsidian
 Description: >-

@@ -3,10 +3,9 @@ UUID: 20260424095105
 Created: '2026-04-24 09:51'
 Modified: '2026-04-27 17:01'
 tags:
-  - perspective
   - challenges
-  - accountability
   - reflection
+  - mindset
 Platform:
   - Obsidian
   - Medium

@@ -5,6 +5,7 @@ Modified: '2025-02-02 06:36'
 tags:
   - motivation
   - emotions
+  - resilience
 Medium:
   - Obsidian
 Description: >-

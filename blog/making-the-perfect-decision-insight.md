@@ -6,6 +6,7 @@ tags:
   - ethics
   - stillness
   - challenges
+  - decision-making
 Platform:
   - Obsidian
 Resources:

@@ -10,6 +10,7 @@ tags:
   - challenges
   - change
   - identity
+  - resilience
 ContentStatus: Published
 aliases: null
 draft: false

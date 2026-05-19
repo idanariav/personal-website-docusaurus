@@ -6,6 +6,7 @@ tags:
   - control
   - challenges
   - mindset
+  - resilience
 Platform:
   - Obsidian
   - Medium

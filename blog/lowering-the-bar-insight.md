@@ -6,7 +6,7 @@ tags:
   - control
   - challenges
   - habits
-  - minimalism
+  - focus
 Platform:
   - Obsidian
   - Medium

@@ -3,7 +3,7 @@ UUID: 20240321174859
 Created: '2024-03-21 17:48'
 Modified: '2025-10-24 09:33'
 tags:
-  - perspective
+  - mindset
   - challenges
   - control
 Medium:

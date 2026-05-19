@@ -3,7 +3,6 @@ UUID: 20220617084526
 Created: '2022-06-17 08:45'
 Modified: '2024-06-20 07:45'
 tags:
-  - writing
   - identity
 Medium:
   - Obsidian

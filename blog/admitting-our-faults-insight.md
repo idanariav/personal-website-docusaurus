@@ -3,9 +3,10 @@ UUID: 20250208155454
 Created: '2025-02-08 15:54'
 Modified: '2025-02-14 11:02'
 tags:
-  - accountability
   - challenges
   - change
+  - reflection
+  - resilience
 Medium:
   - Obsidian
 Description: Admitting our mistakes is the only way to learn from them

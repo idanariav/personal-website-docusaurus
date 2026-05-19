@@ -5,7 +5,6 @@ Modified: '2025-04-14 14:58'
 tags:
   - stillness
   - creativity
-  - recharge
 Medium:
   - Obsidian
 Description: Why doing nothing is both so hard and yet so essential

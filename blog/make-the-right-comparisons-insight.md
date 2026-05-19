@@ -4,8 +4,9 @@ Created: '2025-10-03 10:40'
 Modified: '2025-11-25 18:30'
 tags:
   - motivation
-  - perspective
+  - mindset
   - focus
+  - decision-making
 Platform:
   - Obsidian
   - Medium

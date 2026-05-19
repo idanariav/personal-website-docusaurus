@@ -8,7 +8,8 @@ Medium:
 Description: null
 tags:
   - communication
-  - perspective
+  - mindset
+  - relationships
 ContentStatus: Ready
 aliases: null
 draft: false

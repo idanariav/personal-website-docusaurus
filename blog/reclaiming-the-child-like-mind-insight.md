@@ -5,7 +5,7 @@ Modified: '2026-01-08 16:51'
 tags:
   - creativity
   - mindset
-  - recharge
+  - stillness
 Platform:
   - Obsidian
   - Medium

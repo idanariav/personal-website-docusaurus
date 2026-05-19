@@ -5,7 +5,7 @@ Modified: '2025-11-11 22:09'
 tags:
   - control
   - challenges
-  - perspective
+  - mindset
   - habits
 Medium:
   - Obsidian

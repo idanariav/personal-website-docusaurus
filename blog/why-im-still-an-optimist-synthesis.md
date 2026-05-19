@@ -9,7 +9,6 @@ Description: Optimism changes our reality for the better
 tags:
   - mindset
   - motivation
-  - perspective
 ContentStatus: Published
 aliases: null
 draft: false

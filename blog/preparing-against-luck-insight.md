@@ -3,8 +3,9 @@ UUID: 20250615185520
 Created: '2025-06-15 18:55'
 Modified: '2025-06-24 16:11'
 tags:
-  - perspective
+  - mindset
   - control
+  - decision-making
 Medium:
   - Obsidian
 Description: Positioning makes good decisions less costly and much more impactful

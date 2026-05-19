@@ -4,7 +4,6 @@ Created: '2022-09-03 08:42'
 Modified: '2026-03-04 06:18'
 tags:
   - ethics
-  - perspective
   - emotions
   - mindset
 Platform:

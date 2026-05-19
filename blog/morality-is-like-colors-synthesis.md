@@ -5,7 +5,7 @@ Modified: '2025-03-31 07:23'
 tags:
   - ethics
   - communication
-  - perspective
+  - mindset
 Medium:
   - Obsidian
 Description: All moral views are a different mixture of the same moral values
