@@ -1,23 +1,24 @@
 ---
 UUID: 20221021141609
 Created: '2022-10-21 14:16'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-22 15:09'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases: []
+Version: 4
+Image: '[[Human is a social being]]'
+ImageText: 'A neuron alone is grayed out, and neurons together fire and pass information'
 Description: >-
   A concept emphasizing that humans inherently require social interactions for
   emotional fulfillment and identity formation, with meaningful connections
   being essential for well-being and happiness.
-new_schema: true
 Topic:
   - '[[Social Nature]]'
 Origin: null
 URL: null
+aliases: []
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -36,7 +37,7 @@ More than our basic needs, our own identity is often influenced by others [Ident
 
 Therefore we are not only a social being in an instrumental meaning, i.e for our betterment we need others, but rather in a deep essential meaning. Like being an arm of a bigger body, there is no meaning to be detached from it. To detach is to wither and die [Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md) [Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md).
 
-### Why it matters
+### Why it Matters
 
 Many of today's activities are a cheap, shallow substitutions of that, giving us the short-term sensation of meeting our social needs, while leaving us empty and unsatisfied in the long run.
 As a general rule, we see that:
@@ -52,7 +53,7 @@ Alternatively, we come alive when we interact with others, when we [give](/notes
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 

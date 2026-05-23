@@ -1,7 +1,7 @@
 ---
 UUID: 20241015110817
 Created: '2024-10-15 11:08'
-Modified: '2026-04-13 06:11'
+Modified: '2026-05-15 13:44'
 tags: []
 Author:
   - '[[Todd May]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 5
 Pages: 210
 Rate: 3
 PublishDate: 2015-04-02T00:00:00.000Z
@@ -120,7 +120,7 @@ We will discuss (or have discussed) three options:
 
 [Aristotle](/notes/aristotle-philosopher.md) believed that happiness and meaning are intertwined. That meaning comes from living a good life, of flourishing. [Happiness is to be virtuous](/notes/happiness-is-to-be-virtuous.md).
 
-This is not something we achieve, but rather something we are. It is a matter of process, not destination [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md). **By developing and expressing our virtues, we are living a good life. Virtues therefore are the expression and the tool for meaning simultaneously**, and are usually involve [Optimal outcomes emerge from balance between extremes not absolutes](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md), using the powers of reason to balance virtues and their extremes based on the situation.
+This is not something we achieve, but rather something we are. It is a matter of process, not destination [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md). **By developing and expressing our virtues, we are living a good life. Virtues therefore are the expression and the tool for meaning simultaneously** [Virtues are both path and expression of the good life](/notes/virtues-are-both-path-and-expression-of-the-good-life.md), and are usually involve [Optimal outcomes emerge from balance between extremes not absolutes](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md), using the powers of reason to balance virtues and their extremes based on the situation.
 
 If we develop our virtues in the right way, being moral becomes not only our default, but even something enjoyable [Love what is good](/notes/love-what-is-good.md). We would have no [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) while being moral, it will be easy to act morally.
 
@@ -149,14 +149,14 @@ If meaning is something so elusive, so secretive and perhaps we will never find 
 
 What is happiness? a basic definition can be of maximizing [Utility quantifies measurable benefits and guides rational decisions](/notes/utility-quantifies-measurable-benefits-and-guides-rational-decisions.md), to pursue pleasure and minimize pain. However the more we dive into it, [Pleasure and pain are the only measures of good](/notes/pleasure-and-pain-are-the-only-measures-of-good.md) seems not enough. What about pleasures that require pain to achieve? Like climbing a mountain, they seem radically different from watching tv although they are weighted the same. A bigger problem is the [experience machine](/notes/experience-machine.md), what if we could have a level that instantly makes us happy, but we will be trapped in a room with nothing but a bed, water and food. We technically can be happy until the day we die, but this option doesn't seem enticing. It seems to be missing what makes people happy - relationships, overcoming challenges, rich experiences.
 
-According to [John Stuart Mill](/notes/john-stuart-mill-philosopher.md), pleasures are not all equal. There are higher and lowers ones. A lower could be watching TV, while a high one is doing philosophy. That's why we shy away from the pleasure machine. But even if it was a full experience machine, a matrix like world where we could have any experience we want, even to philosophize until we're 120, most of us would still won't want that. Why? Because it seems that happiness is not just a matter of how we feel, but how our lives connects to others, the implication of our life projects, the progress of our lives. That's why offering a virtual environment feels empty, because we know we would be the only ones experiencing it.
+According to [John Stuart Mill](/notes/john-stuart-mill-philosopher.md), pleasures are not all equal. There are higher and lowers ones. A lower could be watching TV, while a high one is doing philosophy. That's why we shy away from the pleasure machine. But even if it was a full experience machine, a matrix like world where we could have any experience we want, even to philosophize until we're 120, most of us would still won't want that. Why? Because it seems that happiness is not just a matter of how we feel, but how our lives connects to others, the implication of our life projects, the progress of our lives. That's why offering a virtual environment feels empty, because we know we would be the only ones experiencing it. [Happiness is shared](/notes/happiness-is-shared.md)
 
 Haybron suggests a different take on happiness, that reminds [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md). Happiness is built on three layers:
 1. **Attunement** - to feel safe in the world, that we have few to no sources of worries, insecurities and fear [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md)
 2. **Engagement** - a feeling of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md), to be one with what we are doing
 3. **Endorsement** - to feel satisfied with what we do in life, with what we choose to invest in [Happiness is contentment](/notes/happiness-is-contentment.md)
 
-To the author, meaning is more than being happy about your life, there has to be a *more* to it. He agrees with [Suzan wolf](/notes/suzan-wolf.md), that supports the idea that **meaning is a combination of subject and an object. It is to be fully immersed in a project that matters**. We have to feel connection to these project, that they are part of us [Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.md), of our identity, yet they have to go beyond our own identity, to go out into the world and affect others. It can't be just caring for a goldfish as an example.
+To the author, meaning is more than being happy about your life, there has to be a *more* to it. He agrees with [Suzan wolf](/notes/suzan-wolf.md), that supports the idea that **meaning is a combination of subject and an object. It is to be fully immersed in a project that matters** [Meaning combines personal connection with objective worth](/notes/meaning-combines-personal-connection-with-objective-worth.md). We have to feel connection to these project, that they are part of us [Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.md), of our identity, yet they have to go beyond our own identity, to go out into the world and affect others. It can't be just caring for a goldfish as an example.
 
 It must have *objective attractiveness*, something that many can agree that has importance. But we need to be careful not to fall into [elitism](/notes/elitism.md), where only philosophers determine what is meaningful. Also worth noting that meaning is unrelated to value. A life without meaning still has the same [moral worth](/notes/moral-worth.md) as a meaningful life.
 

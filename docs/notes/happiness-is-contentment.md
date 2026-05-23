@@ -1,24 +1,25 @@
 ---
 UUID: 20230408072548
 Created: '2023-04-08 07:25'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-14 22:24'
 tags: []
+excalidraw-plugin: parsed
+excalidraw-autoexport: png
+excalidraw-open-md: true
+Version: 5
+Image: '[[Happiness is contentment.png]]'
+ImageText: A smiley face almost completely full vs a mostly empty sad face
 Description: >-
   A state of well-being derived from appreciating the present, valuing intrinsic
   over instrumental worth, and maintaining realistic expectations, rather than
   pursuing endless desires or achievements.
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 4
-aliases:
-  - eudaemonic happiness
-new_schema: true
 Topic:
   - '[[Happiness (Nature and Sources)]]'
 Origin: null
 URL: null
+aliases:
+  - eudaemonic happiness
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -35,7 +36,7 @@ Happiness is not a destination, it's a journey. If our happiness depends on "whe
 
 We are often poor judges about what makes us happy. We can even lack the sufficient [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md) to even know that we are currently happy. We also have to remember that due to [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md), happiness is not about having more, because we will fall back to the same level of happiness.
 
-### Why it matters
+### Why it Matters
 
 Happiness is about [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md), about [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md), to enjoy what we currently have, to appreciate the good in our lives. It's not about trying to fulfill our endless [desires](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md), nor is it trying to [do it all](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md).
 
@@ -53,7 +54,7 @@ It is to live in [Moderation](/notes/optimal-outcomes-emerge-from-balance-betwee
 
 It is about setting realistic and minimalistic [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md), to set the bar lower so that relatively we would enjoy more what we get, instead of expecting for the "best" and being disappointed when we only have "great".
 
-### Open questions
+### Open Questions
 
 ## Visual
 

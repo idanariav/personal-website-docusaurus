@@ -1,7 +1,7 @@
 ---
 UUID: 20240812072156
 Created: '2024-08-12 07:21'
-Modified: '2026-04-13 06:21'
+Modified: '2026-05-15 08:23'
 tags: []
 FullTitle: >-
   The Yes Brain -  How to Cultivate Courage, Curiosity, and Resilience in Your
@@ -30,7 +30,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 5
 Pages: 209
 Reread: 0
 Rate: 4
@@ -130,7 +130,7 @@ One of the best ways is to do so yourself, be [Role models embody behaviors and 
 
 ### The Balanced Yes Brain
 
-Balance is knowing how to regulate your emotions, to be able to stay in control when emotions are high, to recognize our [Freedom of response](/notes/agency-is-the-ability-to-connect-desires-and-actions.md). It's very hard for adults, let alone kids to do so, so **when they are having a crisis it's mostly because they can't control their emotions, not that they choose not to**. In these moments they need support, a calming presence, not a lecture. Moments of crisis can be either a tantrum (aka "red zone") or shutting down (aka "blue zone"), balance is achieving when they are able to withstand their emotions, which is not the same as not experiencing them at all (aka "green zone")
+Balance is knowing how to regulate your emotions, to be able to stay in control when emotions are high, to recognize our [Freedom of response](/notes/agency-is-the-ability-to-connect-desires-and-actions.md). It's very hard for adults, let alone kids to do so, so **when they are having a crisis it's mostly because they can't control their emotions, not that they choose not to** [Emotional dysregulation is inability, not defiance](/notes/emotional-dysregulation-is-inability-not-defiance.md). In these moments they need support, a calming presence, not a lecture. Moments of crisis can be either a tantrum (aka "red zone") or shutting down (aka "blue zone"), balance is achieving when they are able to withstand their emotions, which is not the same as not experiencing them at all [Regulation means withstanding emotions, not suppressing them](/notes/regulation-means-withstanding-emotions-not-suppressing-them.md) (aka "green zone")
 
 Our goal as parents is to make their green zone wider, and help them get back to the green zone in moments of crisis. Both of which are done through a stable, strong, supportive relationship. It's not our job to rescue them [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md), but we should [Accepting others feelings and perspectives without dismissal](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md) their feelings, to really hear them out and share their pain, even if we don't change or mind or so something to solve their crisis.
 
@@ -176,7 +176,7 @@ Developing [Grit enables persisting through struggle and challenge](/notes/grit-
 
 It starts with us acknowledging that a "problematic behavior" doesn't mean that our child "is problematic", but rather as a sign of communication that they are experiencing a problem, a certain skill that they haven't developed yet. The worse thing we can do is to gaslight them, to say "there's nothing to worry about", or "don't be scared" or "you're already a big boy now, and big boy's don't do x". Instead say things like "I know this can be scary, and I see how much you make an effort. I'm right here with you."
 
-The key is to find the balance between *pushing* - to let them experience challenges and failure, and *cushioning* - to not let them crash facing challenges too big, and be there for them when they need support. Just one or the other isn't enough.
+The key is to find the balance between *pushing* - to let them experience challenges and failure, and *cushioning* - to not let them crash facing challenges too big, and be there for them when they need support. Just one or the other isn't enough. [Growth needs both challenge and a safety net](/notes/growth-needs-both-challenge-and-a-safety-net.md)
 
 When we have a strong connection with our child, we help them grow by:
 1. **Safe base** - when they know we are there to support them whenever they wish to, that they always have a safe base to lean on, it gives them the strength and freedom to explore without stress [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md)

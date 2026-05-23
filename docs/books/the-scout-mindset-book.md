@@ -1,7 +1,7 @@
 ---
 UUID: 20250814140256
 Created: '2025-08-14 14:02'
-Modified: '2026-04-13 06:20'
+Modified: '2026-05-15 06:20'
 tags: []
 FullTitle: The Scout Mindset - Why Some People See Things Clearly and Others Don't
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 5
 Pages: 266
 Reread: 0
 Rate: 4
@@ -133,7 +133,7 @@ There are emotional benefits:
 3. **Motivation** - It is harder to work diligently at your startup when you know the low success rates. You ignore harmful information to maintain motivation [deliberate ignorance](/notes/deliberate-ignorance.md).
 
 There are also social benefits:
-1. **Persuasion** - It is much easier to persuade others if we believe wholeheartedly (even if it is false).
+1. **Persuasion** - It is much easier to persuade others if we believe wholeheartedly (even if it is false). [Self-deception strengthens persuasion](/notes/self-deception-strengthens-persuasion.md)
 2. **Image** - We want to project a certain image to others, such as wearing fancy clothes and pretending to have high status. We "fake" the image we want others to believe.
 3. **Belonging** - Believing a lie is often preferable to being alone. Sharing a belief fosters a sense of community, which is essential.
 
@@ -292,7 +292,7 @@ Over time, contradictory evidence can stretch our current beliefs until we reach
 
 Leaving your echo chamber might have the [reverse](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) effect; we may double down on our opinions when we hear the other side.
 
-However, if we engage in discussion with someone we empathize with, trust, and find reasonable and respectable, we may open our minds and be willing to change.
+However, if we engage in discussion with someone we empathize with, trust, and find reasonable and respectable, we may open our minds and be willing to change. [Changing minds requires trust](/notes/changing-minds-requires-trust.md)
 
 It takes mental effort and [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md) to [listen](/notes/listening-well-requires-active-effort-to-understand.md) to the other side.
 
@@ -313,7 +313,7 @@ Ideologies can quickly turn into identity wars [Group membership biases percepti
 
 When we hold our identity strongly, we are prone to conflict and quickly defend it from perceived threats. We may even argue with those closest to our beliefs to ensure our identity shines and does not blend with someone else's. The closer the lines, the harder we work to distinguish them.
 
-In contrast, holding our identity lightly allows for flexibility and clarity in knowing when to fight and when to cooperate. We will be guided by truth rather than ego. Identity should be viewed as a description—a piece of clothing we can replace—not as intrinsic as the color of our skin.
+In contrast, holding our identity lightly allows for flexibility and clarity in knowing when to fight and when to cooperate. We will be guided by truth rather than ego. Identity should be viewed as a description—a piece of clothing we can replace—not as intrinsic as the color of our skin. [Identity is a description not a fixed trait](/notes/identity-is-a-description-not-a-fixed-trait.md)
 
 :::note[Hold Your Identity Lightly]
 

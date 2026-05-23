@@ -1,20 +1,18 @@
 ---
 UUID: 20230415092539
 Created: '2023-04-15 09:25'
-Modified: '2026-04-11 22:31'
+Modified: '2026-05-21 14:15'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Neuroscience
+Version: 4
+Image: '[[Human Brain.png]]'
+ImageText: A human brain
 Description: >-
   The human brain is a complex organ that governs thought, behavior, and bodily
   functions, adapting through neuroplasticity while managing energy and
   resources for optimal performance and well-being.
-new_schema: true
 Topic:
   - '[[Biology (Map)]]'
   - >-
@@ -22,6 +20,9 @@ Topic:
     intentions to them]]
 Origin: null
 URL: 'https://share.snipd.com/episode/f6318ba4-f1cd-4506-947d-7d9a24622473'
+aliases:
+  - Neuroscience
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -44,7 +45,7 @@ Mental health and physical health are intertwined. It's no surprise that depress
 
 Our brain is anything but statis. It has proven that the brain has [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md), which means it can adapt, we can learn new things, we can change the structure of our brain, and the wiring of specific pathways.
 
-### Why it matters
+### Why it Matters
 
 Our mind has capabilities that could be highly beneficial to our productivity and having a routine that supports our well-being. From learning to creating new habits, understanding how our mind works is key to achieve anything in life.
 
@@ -54,13 +55,11 @@ Our mind has capabilities that could be highly beneficial to our productivity an
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 How does our brain operate? What is it's tendencies? it's structure? how does it affect our thinking and our actions?
 
-
 ### Claims
-
 
 ## Visual
 

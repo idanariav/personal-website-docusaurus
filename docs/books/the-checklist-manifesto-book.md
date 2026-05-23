@@ -1,7 +1,7 @@
 ---
 UUID: 20220703185406
 Created: '2022-07-03 18:54'
-Modified: '2026-04-13 06:18'
+Modified: '2026-05-14 19:34'
 tags: []
 FullTitle: The Checklist Manifesto - How to Get Things Right
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 6
 Pages: 208
 Reread: 0
 Rate: 4
@@ -79,7 +79,7 @@ In a world with increasing [Complexity](/notes/complexity.md), it's more likely 
 1. You wont be able to perform tasks by yourself
 2. Higher complexity leads to more serious errors
 
-We no longer live in a world where the main problem is ignorance. All the necessary knowledge is "out there". The problem therefore is to make [good use](/notes/filtering-is-choosing-what-to-consume-before-distilling-it.md) of that knowledge. Following the right principles is difficult even if we remember them.
+We no longer live in a world where the main problem is ignorance. All the necessary knowledge is "out there". The problem therefore is to make [good use](/notes/filtering-is-choosing-what-to-consume-before-distilling-it.md) of that knowledge. Following the right principles is difficult even if we remember them. [Knowing the right thing doesn't mean we do it](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md)
 
 :::note[INTRODUCTION]
 
@@ -138,7 +138,7 @@ We can define three sets of problems [Problems](/notes/problems.md):
 
 The list not only helps us remember the [small](/notes/understanding-requires-breaking-things-to-their-smallest-parts.md) forgettable tasks, and clears our mental capabilities to the more complex issues, it also helps us to coordinate [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md), organize, and turn cooperation into a habit between groups.
 This way, the check-list not only solves simple problems, but also lays the foundation for solutions for complex problems.
-Coordination should be both recurring ("before each x stage we meet"), and both in ad-hok cases ("if y happens we stop and meet"). Cooperation between different units enables the usage of various fields of knowledge, otherwise inaccessible to us since we can't be super-experts in everything, and having all the necessary knowledge for complex problems ourselves.
+Coordination should be both recurring ("before each x stage we meet"), and both in ad-hok cases ("if y happens we stop and meet"). Cooperation between different units enables the usage of various fields of knowledge, otherwise inaccessible to us since we can't be super-experts in everything, and having all the necessary knowledge for complex problems ourselves. [No individual can master all knowledge complexity requires](/notes/no-individual-can-master-all-knowledge-complexity-requires.md)
 The goal of the meetings is to discuss problems that might occur, coordinate expectations, and promote healthy communication.
 
 :::note[THE IDEA]
@@ -184,7 +184,7 @@ The list short be short, updatable, and user-facing based on the type of the use
 
 ### Setbacks in Embracing Checklists
 
-sometimes it might feel [embarrassment](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) to use a checklist, as if it is an indication of our lack of expertise [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md). We should view it however as a sign of it. **As makers of checklists, we use our expertise to our fullest by embedding it into a process**. [Explaining ideas simply exposes gaps in understanding](/notes/explaining-ideas-simply-exposes-gaps-in-understanding.md)
+sometimes it might feel [embarrassment](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) to use a checklist, as if it is an indication of our lack of expertise [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md). We should view it however as a sign of it. **As makers of checklists, we use our expertise to our fullest by embedding it into a process**. [Explaining ideas simply exposes gaps in understanding](/notes/explaining-ideas-simply-exposes-gaps-in-understanding.md) [Embedding expertise in systems scales its reach](/notes/embedding-expertise-in-systems-scales-its-reach.md)
 
 We have no other choice rather than to use systems for our benefit, because if we don't we will simply fail, which is much worse than any damage to our ego. [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md)
 

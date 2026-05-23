@@ -1,7 +1,7 @@
 ---
 UUID: 20230526072856
 Created: '2023-05-26 07:28'
-Modified: '2026-04-13 06:21'
+Modified: '2026-05-15 08:40'
 tags: []
 FullTitle: Theory of Moral Sentiments
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 4
+Version: 7
 Pages: 368
 Reread: 0
 Rate: 4
@@ -109,7 +109,7 @@ Additionally, there are several factors which affect the level of sympathy we ge
 
 Since we cannot truly experience what the other person is experiencing, because all experience is subjective. [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md), we imagine ourselves in his place, going though everything that he is going through, and feeling what we believe that *should* be the right emotion in that case. It is not because of facial expressions that we experience sympathy, since we don't share the anger of an angry man, but rather we get angry at him. [Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md)
 
-Until we know why a person is experiencing those things, every sympathy will remain incomplete, and would be (at least partially) replaced by curiosity or indifference.
+Until we know why a person is experiencing those things, every sympathy will remain incomplete, and would be (at least partially) replaced by curiosity or indifference. [Sympathy requires understanding the cause](/notes/sympathy-requires-understanding-the-cause.md)
 
 **It is the situation, not the person, who triggers the sympathetic emotions**. It is not the poor man that makes us sympathetic, but rather the [situation](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md) (what would I feel if I was also poor like that). That's why we sympathize with inanimate or inhuman objects, because it's the situation that triggers the emotion.
 
@@ -209,7 +209,7 @@ With physical pain, it's best to exercise [Self-control is the capacity to regul
 
 ##### Chapter 2 - "imaginary" Sensations
 
-**Not all sensations are created equal** in terms of their capability to transfer from one person to another, i.e to spark sympathy. For example, love. Love, because it is built on such a strong connection between people or to a given topic, requires more context than we could hope to transfer from one person to another. Therefore, **there are certain topics where similarity between people is key**. For example, a philosopher is a good companion to philosophy, because of the high context needed to share the enthusiasm about related topics and works of art.
+**Not all sensations are created equal** in terms of their capability to transfer from one person to another, i.e to spark sympathy. For example, love. Love, because it is built on such a strong connection between people or to a given topic, requires more context than we could hope to transfer from one person to another. Therefore, **there are certain topics where similarity between people is key**. For example, a philosopher is a good companion to philosophy, because of the high context needed to share the enthusiasm about related topics and works of art. [Shared challenges and growth deepen relationships](/notes/shared-challenges-and-growth-deepen-relationships.md)
 
 ##### Chapter 3 - "unsocial" Sensations
 
@@ -619,7 +619,7 @@ Sympathy is not out of self love, because we don't imagine ourselves in your sit
 
 ##### Chapter 2 - Approbation due to Reason
 
-While reason is the method by which we discover the first principles of morality, it is not the first source of those. **Virtues and vice are agreeable and pleasurable due to sensations, and not bursts of reason**. Therefore our sensations must track (most of the time?) The moral principles which can be detected by logic.
+While reason is the method by which we discover the first principles of morality, it is not the first source of those. **Virtues and vice are agreeable and pleasurable due to sensations, and not bursts of reason**. Therefore our sensations must track (most of the time?) The moral principles which can be detected by logic. [Moral intuition precedes rational justification](/notes/moral-intuition-precedes-rational-justification.md)
 
 :::note[Quotes]
 

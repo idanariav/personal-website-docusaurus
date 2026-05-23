@@ -1,7 +1,7 @@
 ---
 UUID: 20240401054715
 Created: '2024-04-01 05:47'
-Modified: '2026-04-13 06:18'
+Modified: '2026-05-14 19:20'
 tags: []
 FullTitle: The Art of Loving
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 5
 Pages: 157
 Reread: 1
 Rate: 4
@@ -101,7 +101,7 @@ There are three main paths chosen for escaping it:
 2. *Conformity* - we resolve the anxiety by becoming one with society, a member of the herd, we lose ourselves in the process, we embrace the world's expectation on work, on habits, even on leisure. We lie even to ourselves, believing that society's thoughts are our own. [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 3. *Legacy* - through creative work we strive to leave a mark, to be remembered, to last even after our death.
 
-The problem with these methods is that they are all either partial or destined to fail. Sensual is temporary, conformity is sacrificing the self, and legacy is devoid of reciprocity, we throw our words into the void, without a true connection to others, without conversation. This is why **love is the only healthy viable way. It is a connection so deep that two people become one, yet they are still two authentic beings**.
+The problem with these methods is that they are all either partial or destined to fail. Sensual is temporary, conformity is sacrificing the self, and legacy is devoid of reciprocity, we throw our words into the void, without a true connection to others, without conversation. This is why **love is the only healthy viable way. It is a connection so deep that two people become one, yet they are still two authentic beings**. [Love unites without erasing individual identity](/notes/love-unites-without-erasing-individual-identity.md)
 
 This connection is based on the fact that love is an activity, not a passive phenomenon. This activity has three main attributes:
 1. **Giving** - not giving through the expectation of receiving, and not giving out of a desire to be a martyr. Giving is not a sacrifice, but rather an indication of our power, of our richness, of our aliveness. It is he who gives which is rich, no matter how much money he has. But *the greatest giving is not material but one of life. To give yourself entirely, your thoughts, your experiences, your joy, your anger and fear, every part of who you are*. [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md)
@@ -152,7 +152,7 @@ A healthy child needs both.
 
 To love is a matter of attitude, not object. It is not about "finding the right person", but rather having a perspective on life and human connection. **To love means to support life wherever it is, to be a beacon of life, of care, responsibility and respect**. While it is only natural that we are connected to some more than others and in different ways, such as sibling love, parental love, and romantic love, the common trait is that it is only a matter of how we treat others, not who they are. To love one, we must be able to love all, to develop the virtues within us that make us capable of loving.
 
-Also it is worth noting that self love is very different from selfishness. **To love oneself is essential to love others, it is one and the same**, since it stems from care about others and their wellbeing, so it makes no sense to not care about yourself as well. Selfishness however is about caring about a distorted version of yourself, one that is disconnected from others, it is to isolate yourself which is harmful to your wellbeing, which means selfishness is not love at all.
+Also it is worth noting that self love is very different from selfishness. **To love oneself is essential to love others, it is one and the same**, since it stems from care about others and their wellbeing, so it makes no sense to not care about yourself as well. [Self-love and love of others are the same act](/notes/self-love-and-love-of-others-are-the-same-act.md) Selfishness however is about caring about a distorted version of yourself, one that is disconnected from others, it is to isolate yourself which is harmful to your wellbeing, which means selfishness is not love at all.
 
 :::note[The Objects of Love]
 

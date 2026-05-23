@@ -1,7 +1,7 @@
 ---
 UUID: 20220703185924
 Created: '2022-07-03 18:59'
-Modified: '2026-04-13 06:21'
+Modified: '2026-05-15 09:33'
 tags: []
 FullTitle: >-
   Ultralearning - Master Hard Skills, Outsmart the Competition, and Accelerate
@@ -28,7 +28,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 4
+Version: 10
 Pages: 305
 Reread: 0
 Rate: 4
@@ -166,7 +166,7 @@ Focus has three main parts, Beginning, Continuous, and quality. [Focus is concen
 
 ### Chapter 3 - Directedness: Go Straight ahead
 
-learn both in terms of method and in terms of subjects exactly according to your goal. Want to become a musician? play the instrument. Want to learn a new language? start speaking it instead of listening to lectures. Want to become a coder? have a coding project. [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md)
+learn both in terms of method and in terms of subjects exactly according to your goal. Want to become a musician? play the instrument. Want to learn a new language? start speaking it instead of listening to lectures. Want to become a coder? have a coding project. [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md) [Direct practice transfers skills better than indirect study](/notes/direct-practice-transfers-skills-better-than-indirect-study.md)
 
 Directedness is the best way to learn because:
 1. **There is a higher change that you will acquire the tools and skills that you would actually need "in real life"**. compare for example a degree in college that is detached and completely unrelated from the needs of the industry, as opposed to an "on-the-job training".
@@ -260,7 +260,7 @@ Also, you should know not to listen to each and every feedback, since that many 
 Forgetting is a natural part of learning, but you can reduce it by:
 1. **Spaced repetition** - going over the material again based on predefined internals. [Repeated exposure to information strengthens memory retention](/notes/repeated-exposure-to-information-strengthens-memory-retention.md)
 2. **Procedural** - turning the new skill into something "automated" within you, like knowing how to ride a bike
-3. **Over-practicing** - Learning more than it's needed won't improve the skill but will improve retention.
+3. **Over-practicing** - Learning more than it's needed won't improve the skill but will improve retention. [Over-practicing improves retention without improving performance](/notes/over-practicing-improves-retention-without-improving-performance.md)
 4. **Mnemonic devices** - like a [Abstract information is easier to remember spatially](/notes/abstract-information-is-easier-to-remember-spatially.md), or any other visual representation that help you remember what you've learned.
 
 :::note[Retention Don’t Fill a Leaky Bucket]
@@ -282,7 +282,7 @@ Forgetting is a natural part of learning, but you can reduce it by:
 ### Chapter 8 - Intuition: Dig Deep before Building up
 
 Intuition is a different, sub-concious level of understanding. It is not necessarily created by "over-practicing", but by a deeper understanding of the relevant subject. For example the [Explaining ideas simply exposes gaps in understanding](/notes/explaining-ideas-simply-exposes-gaps-in-understanding.md), which by forcing you to teach others what you've learned, enables you to understand the subject on a deeper level.
-**Intuition will be formed if we would be able to recognize the logic, or leading cause behind what we've learning**, like being able to prove the mathematical equations you are using, or the grammatical rule instead of just remembering sentences. [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md) [Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md)
+**Intuition will be formed if we would be able to recognize the logic, or leading cause behind what we've learning**, like being able to prove the mathematical equations you are using, or the grammatical rule instead of just remembering sentences. [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md) [Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md) [Understanding causal logic builds intuition](/notes/understanding-causal-logic-builds-intuition.md)
 
 :::note[Intuition Dig Deep Before Building Up]
 
@@ -302,7 +302,7 @@ Intuition is a different, sub-concious level of understanding. It is not necessa
 ### Chapter 9 - Experimentation: Explore outside Your Comfort Zone
 
 Improvement comes not only from learning the same subjects, but also by searching new ways to improve [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md). Whether by improving the learning methods (do I study better by using videos or books?) or by improving the ways in which the knowledge is implemented.
-**Success is most often the result of innovation, and not just a good execution of the things that are easy to do**.
+**Success is most often the result of innovation, and not just a good execution of the things that are easy to do**. [Innovation is generating something genuinely new that hasn't existed before](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md)
 Trying new ways to solve problems, mixing skills from different fields, and being with a [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md) is what will help you switch from a beginner to an expert.
 
 :::note[Experimentation Explore Outside Your Comfort Zone]
@@ -327,10 +327,10 @@ to plan an ultra-learning project:
 	2. Which resources can you use?
 	3. How others have attempted to learn this subject
 	4. Which drills will you preform
-2. **Plan your sessions** - how much time are you going to dedicate to studying? which day of the week? its better to have multiple short sessions that a single long one.
+2. **Plan your sessions** - how much time are you going to dedicate to studying? which day of the week? its better to have multiple short sessions that a single long one. [Distributed practice outperforms massed practice](/notes/distributed-practice-outperforms-massed-practice.md)
 3. **Plan your learning** - create your learning map based on all the components listed in this book, and implement it even if its not perfect
 4. **review your results** - what when well, what didn't, what can I improve next time.
-5. **Implementation** - how will you use what you've learn, otherwise it will fade.
+5. **Implementation** - how will you use what you've learn, otherwise it will fade. [Applying knowledge prevents forgetting](/notes/applying-knowledge-prevents-forgetting.md)
 
 :::note[Your First Ultralearning Project]
 

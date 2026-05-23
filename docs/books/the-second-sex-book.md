@@ -1,7 +1,7 @@
 ---
 UUID: 20230902083034
 Created: '2023-09-02 08:30'
-Modified: '2026-04-13 06:21'
+Modified: '2026-05-15 06:31'
 tags: []
 FullTitle: The Second Sex
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 9
 Pages: 835
 Reread: 0
 Rate: 4
@@ -87,7 +87,7 @@ SiteProcssed: true
 
 #### Introduction
 
-**In our culture, to be a man is to be the default,** the positive and the neutral definition of humanity. It is the focal point, and everything else is defines relative to a man. To be a woman, is to detract several capabilities from a man, i.e to be defined relative to him, while he is to defined relative to her.
+**In our culture, to be a man is to be the default,** the positive and the neutral definition of humanity. It is the focal point, and everything else is defines relative to a man. To be a woman, is to detract several capabilities from a man, i.e to be defined relative to him, while he is to defined relative to her. [The dominant group defines itself as the universal norm](/notes/the-dominant-group-defines-itself-as-the-universal-norm.md)
 
 It is because we, as humans, quickly divide ourselves into groups of [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md). The process of self defining requires creating an "other".
 While the "we" (aka "one") group are more characterized by [subjectivity](/notes/subjectivity.md), as a capable, moral, transcendent being, the other is described as [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md), as a lesser form, less deserving of rights and privileges.
@@ -96,7 +96,7 @@ While in most cases, both groups tend to accept themselves as the "one", while t
 
 Similarly, while other cases can "imagine a world" where the other disappears, where there is only "us", it cannot be the case for women. "Unfortunately", women are half of a whole who two components are needed for one another. I.e she is bound to a relationship with her oppressor.
 
-These relationship is not equal. **While men feels independent of women, women have internalized their need for men**. Similarly, men hold all the power in the relationship, usually through economical and political means. To demand equality would be an act of war, especially for men who are most insecure about their position in life.
+These relationship is not equal. **While men feels independent of women, women have internalized their need for men** [Power imbalances create asymmetric dependency](/notes/power-imbalances-create-asymmetric-dependency.md). Similarly, men hold all the power in the relationship, usually through economical and political means. To demand equality would be an act of war, especially for men who are most insecure about their position in life.
 
 **It is a self fulfilling prophecy, that men use their power to make women inferior, and then justify their inferiority based on the situation they have created** [Confusing current reality with how things should be blocks change](/notes/confusing-current-reality-with-how-things-should-be-blocks-change.md). Like forcing a black person to be only a shoe-shine, and then justifying their inferiority by saying "look, they are only good for shining shoes".
 
@@ -121,7 +121,7 @@ These relationship is not equal. **While men feels independent of women, women h
 ### Part 2 - DESTINY
 #### Biological Data
 
-What is the nature of different sexes in the animal world? the distinction is not as clear and simple as it seems. when considering evolutionary theory, neither biological system can be called “superior.” **The biological differences between the sexes within the human world doesn't entails a certain destiny**, for example, being a child barer doesn't mean that female should be the care takers of the children. Biology is not enough to explain why woman is “the Other” in society, because we as humans have already surpassed nature in many aspects, therefore **our social, and economical context is much more relevant when we analyze women's situation than biology**. [Nature vs nurture](/notes/nature-vs-nurture.md)
+What is the nature of different sexes in the animal world? the distinction is not as clear and simple as it seems. when considering evolutionary theory, neither biological system can be called “superior.” **The biological differences between the sexes within the human world doesn't entails a certain destiny**, for example, being a child barer doesn't mean that female should be the care takers of the children. Biology is not enough to explain why woman is “the Other” in society, because we as humans have already surpassed nature in many aspects, therefore **our social, and economical context is much more relevant when we analyze women's situation than biology**. [Nature vs nurture](/notes/nature-vs-nurture.md) [Biology constrains but does not determine social roles](/notes/biology-constrains-but-does-not-determine-social-roles.md)
 
 :::note[Quotes]
 
@@ -369,7 +369,7 @@ women are not lesbians because of their anatomical “destiny” but because of 
 
 women are often very conflicted about marriage because it is both beneficial and harmful to them. They often marry because they think they should, and end up in situations they did not expect. Because no one talks to them about what to expect, either from married life or from losing their virginity, many women feel violated by their first sexual experience with their husbands, and continue to feel miserable in their sexual relations. **Most men are not in love with their wives, but rather think of them as property**. Love and marriage generally do not go together for either gender because marriage is an oppressive and unequal institution.
 
-**To compensate for their lack of freedom outside the house, women often become domineering within the space of the home** and fixate completely on housework. However, this work is largely meaningless because it does not create anything new or contribute to society, leaving women unhappy and unfulfilled overall.
+**To compensate for their lack of freedom outside the house, women often become domineering within the space of the home** [Feeling in control is more important than being in control](/notes/feeling-in-control-is-more-important-than-being-in-control.md) and fixate completely on housework. However, this work is largely meaningless because it does not create anything new or contribute to society, leaving women unhappy and unfulfilled overall.
 
 :::note[Quotes]
 
@@ -483,7 +483,7 @@ at this age, women place all of their hopes on their children and expect to live
 
 #### Woman in Love
 
-omen in love can also lose themselves fully in their love affairs without being truly understood. **Love is all-consuming for women; they devote themselves entirely to pleasing the man they love. However, for men, love is just another piece of their lives**, as opposed to their entire existence. Women will inevitably be disappointed by their lovers because they expect too much of them. **By putting the beloved man on a pedestal, a woman sets herself up to be devastated when that man acts human and appears flawed**. At the same time, there is another contradiction inherent in women’s love for men: they want men to be godlike but they also want to possess them entirely. Similarly, women want to give themselves up entirely to men but also want men to fully appreciate this sacrifice and give them access to the world through their love. de Beauvoir believes that many women find self-worth only through the fact that a man loves them.
+omen in love can also lose themselves fully in their love affairs without being truly understood. **Love is all-consuming for women; they devote themselves entirely to pleasing the man they love. However, for men, love is just another piece of their lives**, as opposed to their entire existence. Women will inevitably be disappointed by their lovers because they expect too much of them. **By putting the beloved man on a pedestal, a woman sets herself up to be devastated when that man acts human and appears flawed** [Idealization leads to unrealistic expectations](/notes/idealization-leads-to-unrealistic-expectations.md). At the same time, there is another contradiction inherent in women’s love for men: they want men to be godlike but they also want to possess them entirely. Similarly, women want to give themselves up entirely to men but also want men to fully appreciate this sacrifice and give them access to the world through their love. de Beauvoir believes that many women find self-worth only through the fact that a man loves them.
 
 When a love affair is broken off, a woman often finds herself completely ruined. She not only loses economic benefits, but also feels like she has lost her entire purpose for living. On the other hand, men can usually recover more easily from the end of an affair because their affairs do not give them purpose in life.
 
@@ -532,7 +532,7 @@ Overall, an independent woman in de Beauvoir’s day was torn between her profes
 
 #### Conclusion
 
-**The oppression of women is not only negative for all women, but also creates a conflict that involves and negatively impacts men**, as well. Ending such conflict will bring stability and peace to all of society.
+**The oppression of women is not only negative for all women, but also creates a conflict that involves and negatively impacts men** [Oppressing others ultimately undermines the oppressor's freedom](/notes/oppressing-others-ultimately-undermines-the-oppressors-freedom.md), as well. Ending such conflict will bring stability and peace to all of society.
 
 I women can exist for themselves, they can continue to exist for men as well and both men and women can find greater satisfaction in love. Romantic relations are the basis for interactions between the two genders, in all spheres of life. The most exalted of human emotions, love, might become even more important and fulfilling if women were better treated throughout society.
 

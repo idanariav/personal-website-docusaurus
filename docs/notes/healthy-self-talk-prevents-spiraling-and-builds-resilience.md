@@ -1,24 +1,25 @@
 ---
 UUID: 20231002192928
 Created: '2023-10-02 19:29'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-18 20:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 4
-aliases:
-  - self talk
+Version: 5
+Image: '[[Healthy self-talk prevents spiraling and builds resilience.png]]'
+ImageText: Two people sitting together on a bench
 Description: >-
   A mental process involving the practice of conversing with oneself, often in a
   compassionate and objective manner, to gain perspective, wisdom, and emotional
   resilience during challenging situations.
-new_schema: true
 Topic:
   - '[[Inner Critic and Self-Perception]]'
 Origin: '[[Chatter (book)]]'
 URL: null
+aliases:
+  - self talk
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -35,16 +36,13 @@ Usually, when we are spiraling, or unable to process the situation, it is when w
 
 In order to break the chatter and have a better [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md), we can implement [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md), by looking at the situation from the outside, like a third person view, and actually talk to ourselves in third person, like to a friend [Empowering language builds confidence and agency](/notes/empowering-language-builds-confidence-and-agency.md). Similarly, we can use temporal distancing, meaning looking at the situation from a "future me" point of view: what meaning or effects would these events have on my five years later? [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md)
 
-### Why it matters
+### Why it Matters
 
 This can give us four benefits:
 
 1. **Perspective** - We can judge better the [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md) and implications of the situation, gather new viewpoint on the situation that might be healthier and more helpful.
-
 2. **Wisdom** - We give better [advices](/notes/seeking-and-giving-advice-both-expand-our-perspective.md) to our friends than to ourselves. By looking at the situation from the outside, we might gain insights on how to solve the situation or what to learn from it.
-
 3. **New narratives** - Find a new "overarching logic" that guides us in our life, makes sense of the events and the connection between the outside world and our identity. [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md)
-
 4. **Compassion** - Since we are more likely to be compassionate towards others than to ourselves when we fail, talking to ourselves in third person is likely to increase [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md)
 
 These aspects combined allow us to undergo a moment of [Critical moments force examination of identity and belief](/notes/critical-moments-force-examination-of-identity-and-belief.md) in a healthy way without spiraling into an existential or identity crisis.
@@ -55,9 +53,8 @@ These aspects combined allow us to undergo a moment of [Critical moments force e
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![self talk](/notes/self-talk.webp)
+![Healthy self-talk prevents spiraling and builds resilience](/notes/healthy-self-talk-prevents-spiraling-and-builds-resilience.webp)

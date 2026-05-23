@@ -1,7 +1,7 @@
 ---
 UUID: 20230428071833
 Created: '2023-04-28 07:18'
-Modified: '2026-04-13 06:17'
+Modified: '2026-05-14 19:14'
 tags: []
 FullTitle: Range -  Why Generalists Triumph in a Specialized World
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 4
 Pages: 352
 Reread: 0
 Rate: 4
@@ -168,7 +168,7 @@ There are two types of learning:
 1. **Using-procedure**: when x happens, do y. This is a close ended way of thinking, similar to a computer program, we treat knowledge like a dictionary, and we're able to give a response only if we have the right translation for the task at hand.
 2. **connection making** - this is the more abstract kind of learning. [Learning should be hard](/notes/learning-should-be-hard.md). By combining knowledge from different areas, or [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md), we can theorize, test and derive the solution ourselves even on unfamiliar situations.
 
-The key here is that there is a tradeoff between these two. **Procedural thinking is faster in the short run, but preforms worse in the long run**. This is similar to [Growth requires balancing the new and the proven](/notes/growth-requires-balancing-the-new-and-the-proven.md), when a short term investment is worth it in the long run
+The key here is that there is a tradeoff between these two. **Procedural thinking is faster in the short run, but preforms worse in the long run** [Longer time horizon makes exploration more valuable than exploitation](/notes/longer-time-horizon-makes-exploration-more-valuable-than-exploitation.md). This is similar to [Growth requires balancing the new and the proven](/notes/growth-requires-balancing-the-new-and-the-proven.md), when a short term investment is worth it in the long run
 
 Teachers, parents sometimes try to be helpful but in the end lead to worse outcomes, we tend to give the kid the answer, or the way to solve the question, therefore denying him from the struggle of exploration. It is this struggle which exactly produces long term learning.
 If learning is easy, then you know it's not working. [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md)

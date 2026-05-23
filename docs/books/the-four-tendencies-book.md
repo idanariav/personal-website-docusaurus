@@ -1,7 +1,7 @@
 ---
 UUID: 20240415113109
 Created: '2024-04-15 11:31'
-Modified: '2026-04-13 06:19'
+Modified: '2026-05-14 22:24'
 tags: []
 FullTitle: >-
   The Four Tendencies - The Indispensable Personality Profiles That Reveal How
@@ -29,7 +29,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 6
 Pages: 272
 Reread: 0
 Rate: 4
@@ -118,7 +118,7 @@ Similarly, when you communicate with someone, it's essential to know what their 
 ### Upholders
 *"Discipline is my freedom"*
 
-Upholders are those who meet internal and external expectations. They love structure and [Self Dicipline](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md), and they **don't have any difficulty following up with their plans, they just "do it", even if it's something they don't enjoy doing, simply because it's needed/recommended**. In that sense, they are self [ motivated](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md). The don't need reminders or commitment devices to stay on track.
+Upholders are those who meet internal and external expectations. They love structure and [Self Dicipline](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md), and they **don't have any difficulty following up with their plans, they just "do it", even if it's something they don't enjoy doing, simply because it's needed/recommended** [Discipline acts regardless of mood or preference](/notes/discipline-acts-regardless-of-mood-or-preference.md). In that sense, they are self [ motivated](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md). The don't need reminders or commitment devices to stay on track.
 
 This makes them [trsutworthy](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) and reliable, both to themselves and to others, and might even make them a person who others want to follow.
 They don't want to fail anyone, either themselves or others, and like it when expectations are clearly [communicated](/notes/explicit.md) to avoid misinterpretation.
@@ -184,7 +184,7 @@ These can either be negative or positive, personal or technological:
 	- Personal: an accountability partner that checks in once in a while, provides feedback and criticism when needed
 	- Technological: deadlines, fees or other forms of punishment through commitment devices to deter slacking.
 
-**Some obligers feel that the [You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md) has to come from a real place. An app or a fake partner is not enough, the damage has to be relevant and real**. For example like inviting friends over to motivate to clean the house, only their true shame from seeing the mess is a good source of motivation, any other option would still allow slacking because the damage is fake.
+**Some obligers feel that the [You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md) has to come from a real place. An app or a fake partner is not enough, the damage has to be relevant and real** [Accountability requires real stakes to motivate](/notes/accountability-requires-real-stakes-to-motivate.md). For example like inviting friends over to motivate to clean the house, only their true shame from seeing the mess is a good source of motivation, any other option would still allow slacking because the damage is fake.
 
 While it could motivate obligers to view internal expectations as an external one, like "to sleep well would make me a better parent for my child", it's important to note that obligers aren't inherently more empathic or altruistic (or lazy or apathic for that matter), it's just the matter of what moves them to action, and the answer is accountability. For example, a close accepting relationship like a marriage can cause one partner's expectations to be perceived as internal to the obliger, even if they are not the same person, because they know that they would be no accountability when they fail.
 
@@ -212,7 +212,7 @@ In those cases, the obliger tends to snap into an act of rebellion, shutting off
 
 Rebels are all about living their true [authentic](/notes/acting-in-alignment-with-your-values-is-authenticity.md) life. Usually this means that their **[freedom](/notes/freedom-from-external-constraints.md) is top priority. Anything that binds them to a schedule, a behavior, goes against their freedom and feels like an attack against their authentic life.** 
 
-The "problem" is that their rebellion doesn't necessarily brings freedom. Often just to feel as if they are free to act otherwise, they go deliberately against whatever they are asked to do, and the more pressure they feel, they more the want to act the opposite. This means that they are affected just as much from peer pressure, but express it differently, even in self harming ways. It's the [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md), the more you encourage (either positivity or negatively), the less you get back. So [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md), praise, deadlines, all these sorts of things are bound to fail.
+The "problem" is that their rebellion doesn't necessarily brings freedom. Often just to feel as if they are free to act otherwise, they go deliberately against whatever they are asked to do, and the more pressure they feel, they more the want to act the opposite. This means that they are affected just as much from peer pressure, but express it differently, even in self harming ways [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md). It's the [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md), the more you encourage (either positivity or negatively), the less you get back. So [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md), praise, deadlines, all these sorts of things are bound to fail.
 
 **The best way to help a rebel act is to provide information as much as possible, both on the context and the possible consequences, and be clear that they are free to choose**. Another option is to display a request as a challenge, like "I bet you can't get this done by tomorrow".
 

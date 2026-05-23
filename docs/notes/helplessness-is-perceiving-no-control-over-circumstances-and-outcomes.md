@@ -1,26 +1,27 @@
 ---
 UUID: 20240502101110
 Created: '2024-05-02 10:11'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-19 07:44'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 4
-aliases:
-  - Helplessness
-  - Life Denying
-  - Victim mentality
+Version: 5
+Image: '[[Helplessness is perceiving no control over circumstances and outcomes.png]]'
+ImageText: 'A person stuck in a hole, looking upwards helplessly with no way out'
 Description: >-
   A psychological state characterized by the perception of lacking control over
   one's life, leading to feelings of victimization, fear, and a tendency towards
   escapism in response to uncertainty and despair.
-new_schema: true
 Topic:
   - '[[Avoidance and Defense Mechanisms]]'
 Origin: null
 URL: null
+aliases:
+  - Helplessness
+  - Life Denying
+  - Victim mentality
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -39,7 +40,7 @@ To make things worse, that fate is filled with [Uncertainty creates anxiety when
 
 We often get into a [Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) where we feel like a victim, we don't believe in our [ability](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md) to change the situation, which leads us to do [nothing](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md), which in most cases worsens the situation. It's like wearing a blindfold, only capable of seeing darkness everywhere [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md), a sign of [despair](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md).
 
-### Why it matters
+### Why it Matters
 
 In cases of helplessness, we seek what little control and certainty we can provide for ourselves, which is often a form of [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md), to escape to a different world where things are better, even if they are fake.
 
@@ -51,8 +52,8 @@ For example, video games, drinking, TV, etc.
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Helplessness](/notes/helplessness.webp)
+![Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.webp)

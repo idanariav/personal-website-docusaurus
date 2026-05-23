@@ -1,29 +1,31 @@
 ---
 UUID: 20240101070402
 Created: '2024-01-01 07:04'
-Modified: '2026-04-11 22:22'
-Version: 3
+Modified: '2026-05-21 14:05'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
-aliases:
-  - Heuristics
-  - Instincts
-  - Gut Feeling
 excalidraw-open-md: true
+Version: 4
+Image: '[[Heuristics are mental shortcuts enabling fast automatic decisions.png]]'
+ImageText: A person at a crossroads that turns right
 Description: >-
   Simple, often unconscious rules for decision making that allow quick
   judgments, typically manifesting as instincts or gut feelings, but can lead to
   biases and stereotypes.
-new_schema: true
 Topic:
   - '[[Decision Traps and Biases]]'
 Origin: '[[The Curiosity Chronicle by Sahil Bloom]]'
 URL: null
+aliases:
+  - Heuristics
+  - Instincts
+  - Gut Feeling
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
+
 # Heuristics
 
 ## Notes
@@ -36,7 +38,7 @@ Heuristics are a type of simple rules for decision making that enable us to make
 
 We are not always aware of the "rules" that guides our behavior, so the heuristics are expressed as instincts, as "gut feelings" that drives us towards a behavior or thought. It is when our instincts are honed to monitored that we can transform those to [Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md)
 
-### Why it matters
+### Why it Matters
 
 Nowadays, heuristics results often in biases and stereotypes.
 
@@ -68,9 +70,8 @@ Nowadays, heuristics results often in biases and stereotypes.
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Heuristics](/notes/heuristics.webp)
-
+![Heuristics are mental shortcuts enabling fast automatic decisions](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.webp)

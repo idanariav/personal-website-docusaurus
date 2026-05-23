@@ -1,26 +1,29 @@
 ---
 UUID: 20240427135742
 Created: '2024-04-27 13:57'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-17 16:04'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 4
-aliases:
-  - Negative cycle
-  - Vicious cycle
+Version: 5
+Image: >-
+  [[Harmful actions reinforce themselves through self-perpetuating feedback
+  loops.png]]
+ImageText: A snowball sliding down a hill and growing
 Description: >-
   A negative cycle refers to a harmful pattern of behavior that perpetuates
   itself through temptation and emotional responses, leading to increased stress
   and detrimental habits.
-new_schema: true
 Topic:
   - '[[Self-Regulation and Change]]'
   - '[[Avoidance and Defense Mechanisms]]'
 Origin: '[[The Willpower Instinct (book)]]'
 URL: null
+aliases:
+  - Negative cycle
+  - Vicious cycle
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -28,7 +31,6 @@ SiteProcssed: true
 # Negative Cycle
 
 ## Notes
-
 
 ### Claim
 
@@ -44,7 +46,7 @@ Afterwards, once we "wake up" from our uncontrollable episode, we have a clear e
 
 The second type is when we fall into [Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md), when we can't stop from damaging ourselves actively, even though "we know better" [Insight Gap](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md). For example, when we experience [Anger is information that something should be different](/notes/anger-is-information-that-something-should-be-different.md) or engage in [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md), we know that these are emotions that we don't want to feel, that we would have preferred to live without them, yet they serve a purpose. Instead of just mind numbing activities like the first case, these are actions that are meant to [justify](/notes/we-attribute-bad-outcomes-to-luck-but-others-misfortunes-to-their-faults.md) our actions, our situation, to rid ourselves of the [Responsibility is binding yourself to outcomes and people you value](/notes/responsibility-is-binding-yourself-to-outcomes-and-people-you-value.md) over our own lives and behavior, to promote [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md).
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -52,9 +54,8 @@ The second type is when we fall into [Emotional hijacking is uncontrolled System
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Negative cycle](/notes/negative-cycle.webp)
+![Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.webp)

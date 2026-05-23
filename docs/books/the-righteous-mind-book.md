@@ -1,7 +1,7 @@
 ---
 UUID: 20221223110004
 Created: '2022-12-23 11:00'
-Modified: '2026-04-13 06:20'
+Modified: '2026-05-14 22:38'
 tags: []
 FullTitle: The Righteous Mind - Why Good People are Divided by Politics and Religion
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 5
 Pages: 419
 Reread: 0
 Rate: 4
@@ -106,7 +106,7 @@ A more sophisticated test separated between social conventions, and moral laws, 
 
 In the end, the rationalist view was proven in studies, but in a different direction than we thought. **we don't use rationalization to find our beliefs, but rather we use it post-hoc to justify our emotional reaction**. [We justify our conclusions after acting, not before](/notes/we-justify-our-conclusions-after-acting-not-before.md) only this can explain our tendency to object to victimless taboos, like eating a dead dog, or using a flag as a mop in secret.
 
-In the author's opinion, **our moral theories are both born and taught. We are born to feel righteous, but need learning and direction to know what we should feel righteous about**.
+In the author's opinion, **our moral theories are both born and taught. We are born to feel righteous, but need learning and direction to know what we should feel righteous about**. [Moral sense is innate but must be cultivated](/notes/moral-sense-is-innate-but-must-be-cultivated.md)
 
 :::note[Where Does Morality Come From?]
 
@@ -129,7 +129,7 @@ After that, our rider activates the "reason why" reaction, which tries to make s
 
 The process works both ways in the long run, **the intuitions drive our reasoning process, but others can also affect our intuitions through their reasoning, which will change our moral judgments.**
 
-The best and fastest way to change someone's mind is through talking to their "elephant", since the intuitions precede our judgment, this will result in a deeper and stable change of mind. So **emotional arguments are stronger than factual rational ones**. [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md) **is the answer to righteousness** [Negotiation is an act of connection](/notes/negotiation-is-an-act-of-connection.md)
+The best and fastest way to change someone's mind is through talking to their "elephant", since the intuitions precede our judgment, this will result in a deeper and stable change of mind. So **emotional arguments are stronger than factual rational ones**. [Emotional appeals change minds more than rational arguments](/notes/emotional-appeals-change-minds-more-than-rational-arguments.md) [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md) **is the answer to righteousness** [Negotiation is an act of connection](/notes/negotiation-is-an-act-of-connection.md)
 
 :::note[The Intuitive Dog and Its Rational Tail]
 
