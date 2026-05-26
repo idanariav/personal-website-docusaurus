@@ -1,0 +1,121 @@
+---
+UUID: 20260518224219
+Created: '2026-05-18 22:42'
+Modified: '2026-05-22 07:28'
+tags:
+  - communication
+  - change
+  - control
+Platform:
+  - Obsidian
+  - Medium
+Resources:
+  - '[[Listening well requires active effort to understand]]'
+  - '[[Open-ended questions enable deeper understanding and meaningful dialogue]]'
+  - '[[Reason and emotion compete for control]]'
+  - '[[Naming a phenomenon gives us power over it]]'
+  - '[[Conformation bias makes us accept confirming evidence without scrutiny]]'
+  - '[[Binary thinking reduces complexity to false dichotomies]]'
+  - '[[Cooperation is working together toward shared mutual benefit]]'
+  - '[[Separating actions from identity allows growth]]'
+URL:
+  - 'https://philosophers-code.kit.com/posts/change-their-mind'
+  - 'https://idanariav.com/blog/change-their-mind'
+Description: >-
+  We all occasionally argue with a friend or colleague and we feel so sure that
+  they're wrong. The problem isn't the argument, it's the approach. Changing a
+  mind is less like winning a debate and more like tending a garden - it takes
+  the right conditions, the right season, and a lot of patience.
+ContentStatus: Published
+excalidraw-plugin: parsed
+excalidraw-autoexport: png
+excalidraw-open-md: true
+Version: 14
+IssueNum: 41
+Image: '[[How to change their mind (insight).png]]'
+ImageText: >-
+  A person being pushed down by heavy rocks vs a person flying up using baloons
+  with question marks
+aliases: null
+draft: false
+slug: change-their-mind
+date: 2026-05-27T00:00:00.000Z
+SiteProcssed: true
+---
+
+# How to change their mind
+
+Most of us enter tough conversations waiting for our turn to speak, viewing the other person as an obstacle to be overcome. What if we shifted our goal from convincing them to genuinely understanding their values? By separating the person from their beliefs, you open the door to real, lasting change.
+
+
+![How to change their mind (insight)](/posts/how-to-change-their-mind-insight.webp)
+
+{/* truncate */}
+
+## Why is it so hard changing minds?
+
+We all occasionally argue with a friend or colleague and we feel so sure that they're wrong. "Why can't they listen to reason?" you might think, knowing deep down that if they just listen for one second you can convince them you're right.
+
+I'll take a wild guess and say that more often than not they didn't end up changing their mind. Why? Why is this so hard? Our logic is sound, we explained slowly and repeatedly, we made our case bulletproof, so why did we fail?
+
+The problem isn't the argument, it's the approach. Changing a mind is less like winning a debate and more like tending a garden - it takes the right conditions, the right season, and a lot of patience.
+
+## To be understood, you first need to understand
+
+Despite our innate desire to overwhelm the other side with words until they understand us, a good conversation requires you to do the opposite - the shut the f#1s up.  Close your mouth and open your eyes and ears.
+
+Before you can change someone's mind, you have to understand it. Not in a tactical way, you're not looking for a way to "beat them" - do it genuinely from a place of curiosity. What do they actually believe, and why? Where is it coming from and what experiences shaped it? 
+
+> "He who knows only his own side of the case, knows little of that. His reasons may be good, and no one may have been able to refute them. But if he is equally unable to refute the reasons on the opposite side; if he does not so much as know what they are, he has no ground for preferring either opinion." - John Stuart Mill, On Liberty
+
+It's not just about politeness, or waiting for your turn to speak. If while they talk you only think about what you're going to say back - then you missed the point. You're not really listening, you're just waiting to strike. 
+
+Listening seems passive but it's actually the opposite. It's an active effort, resisting the urge to talk back, to show them the extent of your knowledge and the flawlessness of your logic. The temptation to be on the right side is very strong. 
+
+Instead of a rebuttal, try to respond with open-ended question. Imagine you had to explain their view to someone else. What information do you lack? What are the intentions behind their choices? Instead of defending your position, you first need to understand theirs as if you had to believe it yourself.
+
+Another way to signal that you've heard them is to repeat what they were saying, Chris Voss (Never Split the Difference) calls this "*tactical empathy*" — labeling what the other person seems to feel — for example saying "it seems like what I did has hurt you", or "it seems that you prioritize stability over flexibility".  You're not trying to twist their words, you're genuinely trying to summarize what you've heard. If you're correct - they'll appreciate feeling heard. If not, they'll give you a better explanation of their view.
+
+The added bonuses: Labeling removes the emotional charge. When we feel understood, we no longer feel as if it is a battle to be won, we're more open for communication. Secondly, listening opens *both* directions. When people feel truly heard, they become more willing to hear you back.
+
+
+## Logic doesn't move people - emotion does
+
+> *"To change someone's mind is to talk to their elephant, not their rider."* — Jonathan Haidt, The Righteous Mind
+
+We are not the rational beings we believe ourselves to be. Jonathan Haidt's metaphor captures it well: the mind has a Rider (our rational brain) and an Elephant (our emotional brain). The Rider can plan, but the Elephant decides where they actually go.
+
+This is why purely logical arguments often fail - worse, they can backfire. When we try to drown them in evidence, they might feel like they're under attack. The "objective" nature of evidence turns logical arguments into binary right/wrong. I can't both accept the new facts and still hold my "wrongful" perspective. It is as if my own logic is false, as if I'm being called stupid for holding such clearly wrong beliefs.
+
+That's where ego and confirmation bias kicks in. They discredit the facts, they find more reasons to believe what they already believe. Even though we think providing information is the right approach, it usually isn't. It's often perceived as a threat which causes them to entrench themselves even deeper in their beliefs.
+
+What actually moves people is reaching the emotional layer first. To connect with their values, their goals. 
+
+A simple yet powerful question is "why". The famous "five why's" method can help us uncover the values that motivate us. Usually the first response to a "why" is very practical and superficial, that's why we need to ask the question again and again until we hit the true emotional core. 
+
+More often than not, your end goal or ideal world is not that different, they have a justified reason to believe in what they do, so it's false to assume that the other person is ignorant, just stubborn or bad. Even though you might hold different values, I believe a little empathy can go a long way. Once you exposed their core values, hopefully you'll be able to share at least some of their hopes and ideals. 
+
+When you shift the conversation from "i'm right, you're wrong" to "we both want the same thing, let's see how to get there", it becomes a matter of cooperation instead of competition. 
+
+## The long road needs patience and kindness
+
+> *"Holding our identity strongly makes us prone to conflict. Holding it lightly allows for flexibility and clarity."* — The Scout Mindset
+
+Minds don't change in a single conversation. Expecting a sudden shift is unrealistic. People change slowly but surely, so if the other person feels that you don't pressure them to change, and give them the space to process the conversation, they are much more likely to be on the path for change. 
+
+Patience is an underrated virtue and a difficult one to master. It starts with separating the person from their beliefs -  "I respect you, and I see this differently" — is what makes it possible for someone to update their view without feeling like they're losing themselves in the process. It's not about just saying the words, you need to actually believe it. If you believe a person can still be good even if they hold an opposite opinion, you'll be more open to continuous conversation that will gradually over time lead to change, instead of shutting the door on the first try, which will entrench both parties in their current beliefs. 
+
+Imagine randomly meeting someone from the other political spectrum, a person you deeply disagree with, perhaps even have anger towards, and you know they think the same about you. The initial instinct is to either shout at them or walk the other way. But what if you sat with them? Chatted a bit like two people, not two symbols of opposing ideologies.
+
+That was the turning point for Derek Black - the heir to the KKK throne and was raised on the beliefs of the clan since childhood. His journey took a radical turn which started with a simple encounter with African Americans in his university. Instead of raging on one another, they had the patience to listen, to meet the person behind the hood, to not immediately judge. With time, it led to friendship, to questioning his beliefs, to becoming a vocal opponent of racism.  
+
+The patience, kindness and curiosity of the people he met along the way is what allowed him to slowly open up and change in the most unexpected and heart-warming way.
+
+
+So before your next difficult conversation, remember to:
+1. **Listen before you speak** - Enter every conversation with at least one genuine question you don't already know the answer to.
+2. **Label, don't argue** - Name what you sense the other person is feeling: "It sounds like this feels unfair to you." Labeled emotions lose power; suppressed ones amplify.
+3. **Find the value underneath** - Try to see the world through their eyes, what is the value that drives them? What is their form of good they're pursuing?
+4. **Separate the person from the belief** - Make it clear, through tone and words, that you challenge their ideas, not their identities.
+
+
