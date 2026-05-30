@@ -1,26 +1,29 @@
 ---
 UUID: 20240112064933
 Created: '2024-01-12 06:49'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-27 08:55'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Hustle Culture
-  - Busyness
-  - Have it all
+Version: 4
+Image: '[[Hustle culture equates busyness with progress and causes burnout.png]]'
+ImageText: >-
+  Two calendar schedules, one that balances sleep, rest and work. The other is
+  filled with work
 Description: >-
   A societal phenomenon that promotes relentless busyness and prioritizes
   material success over personal well-being, often leading to burnout and a
   distorted sense of fulfillment.
-new_schema: true
 Topic:
   - '[[Peak States and Optimal Experience]]'
 Origin: null
 URL: null
+aliases:
+  - Hustle Culture
+  - Busyness
+  - Have it all
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -37,7 +40,7 @@ We sometimes feel like we want to "do it all", to be everything everywhere all a
 
 When we embrace the hustle culture, we surrender to the [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) of others, that material things and status are what's most important, and that any time spent [Relaxing](/notes/rest-enables-recovery-and-sustained-performance.md) is time wasted. It causes us to focus more on our [image](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md) rather than developing our nourishing who we are as people.
 
-### Why it matters
+### Why it Matters
 
 To escape the hustle culture, we first have to [slow down](/notes/slowing-down-prioritizes-quality-over-speed-and-enables-reflection.md), and start [Saying no protects time and energy for what matters most](/notes/saying-no-protects-time-and-energy-for-what-matters-most.md) to the unreasonable demands of work and societies expectations of success. We should remember that richness is not a matter of quantity, but quality. It is the one who is satisfied with what they have that is rich, while paradoxically it is those who are constantly searching for more that will never be satisfied, no matter how much they have.
 
@@ -53,8 +56,8 @@ It is like the tale about the businessman who meets a fisherman, that suggests h
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Hustle Culture](/notes/hustle-culture.webp)
+![Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.webp)

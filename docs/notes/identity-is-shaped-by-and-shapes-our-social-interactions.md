@@ -1,24 +1,28 @@
 ---
 UUID: 20231231070530
 Created: '2023-12-31 07:05'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-29 10:55'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Interpersonal Identity
+Version: 4
+Image: '[[Identity is shaped by and shapes our social interactions.png]]'
+ImageText: >-
+  A venn diagram of overlapping circles, one shows friendship, one shows family,
+  one shows society (a symbol of an institution) and one shows a globe. In the
+  center there is a person, representing the self
 Description: >-
   A concept that asserts individual identity is shaped by social interactions
   and environments, emphasizing that personal beliefs, values, and experiences
   are influenced by relationships with others.
-new_schema: true
 Topic:
   - '[[Identity Structure]]'
 Origin: '[[Selfless (book)]]'
 URL: null
+aliases:
+  - Interpersonal Identity
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -37,7 +41,7 @@ We often [imitate](/notes/imitation-internalizes-others-behaviors-and-mental-mod
 
 A more extreme notion claims that our identity is a complete [Shared beliefs make constructs real and true](/notes/shared-beliefs-make-constructs-real-and-true.md). That the different roles we assume (whether by choice or by force) such as parent, friend, partner, even racial and gender group are all assigned by others. We can't be friends with people who don't love us back. We can't be a parent to a random kid of the street, there has to be a connection to base it on. The way others perceive who we are, is who we are.
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -49,8 +53,8 @@ It could be argued that our innate tendency to [mirror](/notes/mirroring-copies-
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Interpersonal Identity](/notes/interpersonal-identity.webp)
+![Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.webp)

@@ -1,24 +1,30 @@
 ---
 UUID: 20250226135454
 Created: '2025-02-26 13:54'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-28 20:04'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Ideation
+Version: 4
+Image: >-
+  [[Ideation generates ideas through exploratory thinking freed from
+  constraints.png]]
+ImageText: >-
+  A dull lightbulb with a short cable unable to reach the socket, vs a glowing
+  lightbulb with a long cable that reaches the socket, passing a block in the
+  way
 Description: >-
   The process of generating new ideas through expansive thinking, influenced by
   environmental factors and requiring curiosity, while balancing freedom with
   certain constraints for optimal creativity.
-new_schema: true
 Topic:
   - '[[Creative Ideation and Innovation]]'
 Origin: null
 URL: null
+aliases:
+  - Ideation
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -37,7 +43,7 @@ Interestingly, complete freedom is tempting yet not recommended, we actually do 
 
 Similarly, the level of our creativity is highly impacted by our environment. Due to the [Physical states and actions unconsciously shape beliefs and behavior](/notes/physical-states-and-actions-unconsciously-shape-beliefs-and-behavior.md), being in a closed space, monotonic, and rigid/hierarchical is harmful to our creative pursuit. Having the ability to think outside the box requires us to literally step out of it [Thinking extends beyond the brain to environment and society](/notes/thinking-extends-beyond-the-brain-to-environment-and-society.md). To change our environment [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md) or shape it based on our preferences [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -49,8 +55,8 @@ Therefore generating ideas requires some level of [Curiosity is the joy of filli
 
 While this process can be improved, it can't be perfected. Many of the ideas, especially the [first](/notes/first-attempts-are-inherently-lower-quality-than-iterations.md) ones will be of low quality, but it shouldn't deter us, because eventually we will find some good ideas among the [Noise obscures truth with external interference and confusion](/notes/noise-obscures-truth-with-external-interference-and-confusion.md).
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Ideation](/notes/ideation.webp)
+![Ideation generates ideas through exploratory thinking freed from constraints](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.webp)

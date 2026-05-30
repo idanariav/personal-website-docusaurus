@@ -1,24 +1,25 @@
 ---
 UUID: 20221104144403
 Created: '2022-11-04 14:44'
-Modified: '2026-04-11 22:22'
+Modified: '2026-05-23 14:34'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - People are inherently good
-  - we are born good
+Version: 4
+Image: '[[Humans are good as default.png]]'
+ImageText: A rock being split open and inside there is a red heart
 Description: >-
   A concept suggesting that humans possess an inherent tendency towards empathy,
   kindness, and trust, with negative behaviors being learned rather than innate.
-new_schema: true
 Topic:
   - '[[Innate Human Disposition]]'
 Origin: '[[Behave (book)]]'
 URL: null
+aliases:
+  - People are inherently good
+  - we are born good
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -33,7 +34,7 @@ Researches show that we have tendency towards [Empathy means understanding and a
 
 ### Explanation
 
-### Why it matters
+### Why it Matters
 
 That is why it is easy to motivate people through non material means, through shared values, culture and goals instead of monetary incentives because it aligns better with our deep preferences [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md). Similarly, cultivating these values in others is more accurately described as helping them discover their core self rather than changing them [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md).
 
@@ -45,7 +46,7 @@ Those who live their lives guided by love and have an [optimistic](/notes/optimi
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
