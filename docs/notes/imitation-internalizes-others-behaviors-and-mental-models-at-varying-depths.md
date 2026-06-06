@@ -1,27 +1,32 @@
 ---
 UUID: 20240219081432
 Created: '2024-02-19 08:14'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-01 07:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
+Image: >-
+  [[Imitation internalizes others' behaviors and mental models at varying
+  depths.png]]
+ImageText: >-
+  A grownup using a hammer to punch a nail, a kid imitating them with a small
+  nail and a toy hammer
+Description: >-
+  The process of internalizing and replicating others' behaviors and mental
+  models, facilitating learning and efficiency while emphasizing the importance
+  of adaptation and personal ownership in applying these practices.
+Topic:
+  - '[[Creative Ideation and Innovation]]'
+Origin: null
+URL: null
 aliases:
   - Imitation
   - Best Practice
   - Reverse Engineering
   - Learning from what works
-Description: >-
-  The process of internalizing and replicating others' behaviors and mental
-  models, facilitating learning and efficiency while emphasizing the importance
-  of adaptation and personal ownership in applying these practices.
 new_schema: true
-Topic:
-  - '[[Creative Ideation and Innovation]]'
-Origin: null
-URL: null
 draft: false
 SiteProcssed: true
 ---
@@ -40,7 +45,7 @@ This is similar to the concept of best practice. Instead of trying to reinvent t
 
 Imitation can be perceived as an attempt to look at the positive, rather than the negative. To look for what works, instead of trying to think why it won't.
 
-### Why it matters
+### Why it Matters
 
 Imitating from a far won't get us very far. To really understand something we will likely need a [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md) to show us the right path, to give us [Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md) that is difficult to transfer in a virtual settings.
 
@@ -59,8 +64,8 @@ Imitation is related to creativity because everything we do is a continuation of
 
 However, we have to be careful not to fall for [We draw conclusions only from what survived](/notes/we-draw-conclusions-only-from-what-survived.md), associating irrelevant qualities as essential for success just because we didn't look at those who failed.
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Imitation](/notes/imitation.webp)
+![Imitation internalizes others' behaviors and mental models at varying depths](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.webp)

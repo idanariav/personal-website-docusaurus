@@ -1,24 +1,25 @@
 ---
 UUID: 20230328065311
 Created: '2023-03-28 06:53'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-02 08:01'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 5
-aliases:
-  - Imposter Syndrome
+Version: 6
+Image: '[[Imposter syndrome is feeling undeserving despite actual competence.png]]'
+ImageText: A superman symbol vs a kryptonite
 Description: >-
   A psychological pattern where individuals doubt their accomplishments and fear
   being exposed as a "fraud," despite evident success, leading to feelings of
   inadequacy and self-criticism.
-new_schema: true
 Topic:
   - '[[Inner Critic and Self-Perception]]'
 Origin: null
 URL: null
+aliases:
+  - Imposter Syndrome
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -35,7 +36,7 @@ Imposter syndrome is when we feel that we are not entitled to our position in ou
 
 Perhaps we have over doubted ourselves in order to avoid [Overestimating abilities blinds us to genuine risks](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md), only to end up on the other side of the spectrum. With imposter syndrome - [Moderation](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md) is the only path forward. To recognize our flaws and failures, yet not let them paralyze us, believing that we have worth as we are today, and also that we can improve.
 
-### Why it matters
+### Why it Matters
 
 How to avoid imposter syndrome:
 1. **Be open for compliments** - Don't just listen to the negative things others say, also listen to the good things. Sometimes others have better grasp of our situation and skills. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
@@ -49,10 +50,10 @@ How to avoid imposter syndrome:
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Imposter Syndrome](/notes/imposter-syndrome.webp)
+![Imposter syndrome is feeling undeserving despite actual competence](/notes/imposter-syndrome-is-feeling-undeserving-despite-actual-competence.webp)
 
 ## Overview
