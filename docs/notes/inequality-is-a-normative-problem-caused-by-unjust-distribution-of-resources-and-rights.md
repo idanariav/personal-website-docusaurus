@@ -1,24 +1,29 @@
 ---
 UUID: 20230616130327
 Created: '2023-06-16 13:03'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-06 18:04'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Inequality
+Version: 4
+Image: >-
+  [[Inequality is a normative problem caused by unjust distribution of resources
+  and rights.png]]
+ImageText: >-
+  A person standing on a large stack of gold coins vs a person standing on a
+  single silver coin
 Description: >-
   A condition where two or more members possess differing shares of resources,
   rights, or liberties, often viewed negatively due to its association with
   injustice and societal division.
-new_schema: true
 Topic:
   - '[[Rights, Justice and Equality]]'
 Origin: null
 URL: null
+aliases:
+  - Inequality
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -38,7 +43,7 @@ Whether people are able or not to escape their financial situation is a tough qu
 
 Economics has always been about the system it creates, and not individual people [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md), so we need to see what are the effects of the [capitalist](/notes/capitalism.md) system that we have in place.
 
-### Why it matters
+### Why it Matters
 
 Often, when we try to solve inequality, the first challenge we face is what kind of inequality are we talking about, and accordingly, how could we solve it.
 
@@ -52,12 +57,10 @@ For example, a debate between left-right economical views is the difference betw
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ### Claims
 
-
 ## Visual
 
-![Inequality](/notes/inequality.webp)
+![Inequality is a normative problem caused by unjust distribution of resources and rights](/notes/inequality-is-a-normative-problem-caused-by-unjust-distribution-of-resources-and-rights.webp)

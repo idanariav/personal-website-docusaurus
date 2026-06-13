@@ -1,24 +1,28 @@
 ---
 UUID: 20230722083757
 Created: '2023-07-22 08:37'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-09 09:11'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Shirky Principle
-  - Moral Hazard
+Version: 4
+Image: '[[Institutions preserve the problems they exist to solve.png]]'
+ImageText: >-
+  A signpost showing "profit" on one end, and "solution" on the other. The
+  "profit" is glowing with stars, the "solution" is old with spiderwebs
 Description: >-
   A concept stating that institutions tend to maintain the problems they solve
   to avoid obsolescence, balancing usefulness and dependency on their services.
-new_schema: true
 Topic:
   - '[[Systems and Structural Thinking]]'
 Origin: '[[The Curiosity Chronicle by Sahil Bloom]]'
-URL: null
+URL: >-
+  https://www.sahilbloom.com/newsletter/the-greatest-life-hack-decision-making-tools-more
+aliases:
+  - Shirky Principle
+  - Moral Hazard
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -36,7 +40,7 @@ In simple terms, **companies (or people) have a tendency to avoid fully eliminat
 
 So each institution is trying to walk the fine line between being useful (so that you would want to continue the service), but not too useful (so that it will become obsolete).
 
-### Why it matters
+### Why it Matters
 
 Unfortunately, this means that it is hard to [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) those we rely on their services. The disadvantage of the [Selfish incentives can produce collective prosperity](/notes/selfish-incentives-can-produce-collective-prosperity.md) is that it [One activity displaces another when pursued excessively](/notes/one-activity-displaces-another-when-pursued-excessively.md) [Kindness](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md) and replacing it with cold hard calculous.
 
@@ -50,8 +54,8 @@ This is also similar to cases of moral hazard. If you are not the bearer of the 
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Shirky Principle](/notes/shirky-principle.webp)
+![Institutions preserve the problems they exist to solve](/notes/institutions-preserve-the-problems-they-exist-to-solve.webp)

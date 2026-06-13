@@ -1,24 +1,25 @@
 ---
 UUID: 20240115182435
 Created: '2024-01-15 18:24'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-10 07:20'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 4
-aliases:
-  - Instrumental
+Version: 5
+Image: '[[Instrumental value treats things as means rather than ends.png]]'
+ImageText: A dollar bill and a cardboard box
 Description: >-
   A concept describing the valuation of something based on its indirect utility
   rather than its inherent importance, often leading to weaker emotional
   connections and pragmatic, transactional relationships.
-new_schema: true
 Topic:
   - '[[Value and Meaning]]'
 Origin: '[[The Knowledge Project with Shane Parrish]]'
-URL: null
+URL: 'https://share.snipd.com/episode/1098c93b-c96b-43cd-b756-5cfa378aec19'
+aliases:
+  - Instrumental
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -37,7 +38,7 @@ An easy way to differentiate between instrumental and intrinsic is to ask yourse
 
 The conflict between instrumental and intrinsic properties of objects is similar to the [Distinguishing appearance from authentic substance reveals hidden conflicts](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md) conflict of individuals. We can compare the intrinsic properties of the individual as their soul, values, true desires, and their instrumental properties as their ego and image.
 
-### Why it matters
+### Why it Matters
 
 Therefore when something is instrumental to us, usually we have a weaker connection to it [Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.md), and we can't [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) that the connection will last. It is a [pragmatic](/notes/truth-and-goodness-are-defined-by-practical-usefulness.md) look on life, yet a cold one potentially.
 
@@ -57,8 +58,8 @@ A friendship that is based on monetary gains is not just less deep, but also les
 
 To see things only in terms of their instrumental value, and prioritize things based on that value would turn us into [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md). We would be good friends only if we received the same level of support in return, we would be good employees only so far as it promotes our status, and once things get hard and we give more than we receive, we would abandon it completely.
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Instrumental](/notes/instrumental.webp)
+![Instrumental value treats things as means rather than ends](/notes/instrumental-value-treats-things-as-means-rather-than-ends.webp)

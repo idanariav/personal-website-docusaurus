@@ -1,24 +1,25 @@
 ---
 UUID: 20230731073335
 Created: '2023-07-31 07:33'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-06 10:33'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 5
-aliases:
-  - Incentives
+Version: 6
+Image: '[[Incentives shape behavior by making certain actions more attractive.png]]'
+ImageText: A plant that sends it's roots towards the water underground
 Description: >-
   Tools or mechanisms that motivate actions through rewards or punishments,
   often driven by personal benefit, influencing behavior and distorting
   intentions in pursuit of utility.
-new_schema: true
 Topic:
   - '[[Environment and Behavior]]'
 Origin: null
 URL: null
+aliases:
+  - Incentives
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -35,7 +36,7 @@ Incentives are often synonymous with "motives". Or rather incentives are the too
 
 Usually incentives are inwards driven, meaning that they are egoist in nature, referring to personal benefits [Preferring personal benefits blinds us to others' perspectives](/notes/preferring-personal-benefits-blinds-us-to-others-perspectives.md). They turn us into [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md) that think it matters of [Utility quantifies measurable benefits and guides rational decisions](/notes/utility-quantifies-measurable-benefits-and-guides-rational-decisions.md) and logical calculations rather than our more human side of values, emotions and norms. They distort the [Good action requires intention aligned with values](/notes/good-action-requires-intention-aligned-with-values.md) of our actions. Even if we are incentivized to do what's right, we do it only because it benefits us, and not because we see it as an expression of our values [Commodification turns non-tradable values into economic transactions](/notes/commodification-turns-non-tradable-values-into-economic-transactions.md). What we do becomes [Instrumental value treats things as means rather than ends](/notes/instrumental-value-treats-things-as-means-rather-than-ends.md) to us.
 
-### Why it matters
+### Why it Matters
 
 Sometimes we can assume the cause of someone's actions just by looking at the incentives dictated by the system he works in [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md).
 
@@ -53,8 +54,8 @@ It gets worse when what we are incentivized to do goes against what's right, whi
 
 Additionally, incentives harm [Repeated actions become automatic through habit formation](/notes/repeated-actions-become-automatic-through-habit-formation.md), because when the incentives stop, so does the reason to continue with the habit.
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Incentives](/notes/incentives.webp)
+![Incentives shape behavior by making certain actions more attractive](/notes/incentives-shape-behavior-by-making-certain-actions-more-attractive.webp)

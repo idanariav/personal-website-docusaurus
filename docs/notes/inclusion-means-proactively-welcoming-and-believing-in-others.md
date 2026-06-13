@@ -1,25 +1,28 @@
 ---
 UUID: 20240626054741
 Created: '2024-06-26 05:47'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-06 10:39'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 4
-aliases:
-  - Inclusion
-  - Belonging
+Version: 5
+Image: '[[Inclusion means proactively welcoming and believing in others.png]]'
+ImageText: >-
+  A group of people wearing a blue hat, welcoming a new member that also has a
+  blue hat
 Description: >-
   The practice of actively empowering individuals by trusting in their abilities
   and involving them in tasks, fostering mutual growth and a sense of
   accomplishment within a group.
-new_schema: true
 Topic:
   - '[[Social Connection and Belonging]]'
 Origin: null
 URL: null
+aliases:
+  - Inclusion
+  - Belonging
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -36,7 +39,7 @@ To be inclusive is more than just to allow someone to take part in you are doing
 
 This essentially is an empowering move. By [trusting](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) others we allow them to fulfill their potential, both giving them a sense of accomplishment [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md), but also helping yourself along the way [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md). It requires [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md) to accept that you don't always know best, or that you might need the help of others. By letting them take part, we help ourselves.
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -46,8 +49,8 @@ For example, for parent's inclusion could be the change in perspective from "I h
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Inclusion](/notes/inclusion.webp)
+![Inclusion means proactively welcoming and believing in others](/notes/inclusion-means-proactively-welcoming-and-believing-in-others.webp)

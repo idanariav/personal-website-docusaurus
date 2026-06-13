@@ -1,23 +1,26 @@
 ---
 UUID: 20230413174312
 Created: '2023-04-13 17:43'
-Modified: '2026-04-11 22:31'
+Modified: '2026-06-06 13:07'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases: []
+Version: 4
+Image: '[[Indifference.png]]'
+ImageText: >-
+  An image with four distinct frames. A boulder in the snow, a boulder facing a
+  wall, a boulder falling from the sky, and a boulder on it's own
 Description: >-
   A state of having no preference, which can lead to detachment and nihilism,
   but may also foster authenticity, emotional resilience, better performance,
   and contentment.
-new_schema: true
 Topic:
   - '[[behavioral psychology (Map)]]'
 Origin: null
 URL: null
+aliases: []
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -32,7 +35,7 @@ Indifference is when we have no preference over something. It can either be good
 
 ### Explanation
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -50,7 +53,7 @@ However, some level of indifference can also be a good thing, especially if it r
 
 The bad connotation is perhaps more obvious. We feel indifferent because we are [detached](/notes/alienation-means-feeling-detached-from-life-and-others.md) from the world, we are not engaged with the world, or experiencing recurring [Boredom signals under-stimulation and disconnection from intrinsic motivation](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md), or on a grander scale, feel that everything is [devoid](/notes/morality-is-a-construct-without-real-meaning.md) of meaning.
 
-### Open questions
+### Open Questions
 
 ## Visual
 

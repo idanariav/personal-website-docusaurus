@@ -1,17 +1,16 @@
 ---
 UUID: 20240720062925
 Created: '2024-07-20 06:29'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-07 17:16'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 4
-new_schema: true
-aliases:
-  - Upfront costs
-  - Upfront costs
+Version: 5
+Image: >-
+  [[Initial effort investments create friction preventing optimal behavior
+  change.png]]
+ImageText: A person standing at a bottom of a cliff
 Description: >-
   A financial barrier that deters individuals from making beneficial changes due
   to high initial expenses, often leading to persistence in suboptimal
@@ -21,6 +20,9 @@ Topic:
   - '[[Friction is resistance that blocks action and behavior adoption]]'
 Origin: null
 URL: null
+aliases:
+  - Upfront costs
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -39,7 +41,7 @@ High upfront costs can something push you into a [Harmful actions reinforce them
 
 The costs seem even higher the more we are biased towards our [present](/notes/we-prefer-immediate-benefits-over-delayed-ones.md) self. Why should I work hard now just so that "future me" can reap the benefits? The upfront costs are [visible](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md), while any future benefit is [uncertain](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md).
 
-### Why it matters
+### Why it Matters
 
 Therefore, upfront costs should always be paid as soon as possible, so that the compounding effect would be the greatest.
 
@@ -53,8 +55,8 @@ However, the very idea of [Repeated actions yield exponentially increasing retur
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Upfront costs](/notes/upfront-costs.webp)
+![Initial effort investments create friction preventing optimal behavior change](/notes/initial-effort-investments-create-friction-preventing-optimal-behavior-change.webp)
