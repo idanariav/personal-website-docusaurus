@@ -1,25 +1,28 @@
 ---
 UUID: 20230329074957
 Created: '2023-03-29 07:49'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-13 16:31'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 4
-aliases:
-  - Introspection
-  - Self Reflection
+Version: 5
+Image: '[[Introspection develops self-knowledge through internal examination.png]]'
+ImageText: >-
+  A person looking at the mirror with a question mark above his head, while his
+  reflection shows an exclamation mark
 Description: >-
   The practice of self-examination to gain self-knowledge about emotions,
   tendencies, preferences, and beliefs, often hindered by external distractions
   and cognitive biases.
-new_schema: true
 Topic:
   - '[[Inner Critic and Self-Perception]]'
 Origin: '[[Anne-Laure Le Cunff]]'
 URL: 'https://nesslabs.com/introspection-trap'
+aliases:
+  - Introspection
+  - Self Reflection
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -34,7 +37,7 @@ Introspection is the practice of [Self-awareness reveals mental and emotional st
 
 ### Explanation
 
-### Why it matters
+### Why it Matters
 
 How then do we find the answers? It changes from one person to the next, but some common themes are:
 1. **Solitude** - Seek [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md), a place where we can be completely open with ourselves without any external [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) or interruptions.
@@ -49,8 +52,8 @@ How then do we find the answers? It changes from one person to the next, but som
 
 Introspection is not easy. we might be too tempted to trust first answer we find. [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md) and [Availability bias inflates perceived likelihood of easily recalled events](/notes/availability-bias-inflates-perceived-likelihood-of-easily-recalled-events.md) can cause us to come up with false answers, which represents what we want to hear, and not what we need to. For example, if we ask ourselves why we are feeling angry, the first answers would probably be an accusation of someone else, rather than admitting our flaws.
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![introspection](/notes/introspection.webp)
+![Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.webp)

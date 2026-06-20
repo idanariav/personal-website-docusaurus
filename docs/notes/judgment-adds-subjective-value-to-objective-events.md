@@ -1,24 +1,23 @@
 ---
 UUID: 20240529075703
 Created: '2024-05-29 07:57'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-16 22:58'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases:
-  - Judgment
+sketch-editor-plugin: parsed
+Version: 4
+Image: '[[Judgment adds subjective value to objective events.png]]'
+ImageText: A gray circle that turns into happy or unhappy face
 Description: >-
   The process of labeling events as "good" or "bad" based on personal context
   and internal perceptions, influencing our understanding and relationships with
   ourselves and others.
-new_schema: true
 Topic:
   - '[[Moral Epistemology]]'
 Origin: null
 URL: null
+aliases:
+  - Judgment
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -26,7 +25,6 @@ SiteProcssed: true
 # Judgment
 
 ## Notes
-
 
 ### Claim
 
@@ -38,7 +36,7 @@ It is up to us to determine how to label events, we choose the [How we describe 
 
 We are either approaching a situation with a question mark [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md) or an exclamation mark, there is no room in between. We either suspend judgment and try to understand others and the situation more clearly, or we come full with assumptions about the world, detached from how things really are, trying to force our view onto the world [Overestimating abilities blinds us to genuine risks](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md).
 
-### Why it matters
+### Why it Matters
 
 Judgment creates a tether between us and the event, sometimes preventing us from viewing it differently or noticing important information since it creates [Actions and physical states unconsciously shape our beliefs](/notes/actions-and-physical-states-unconsciously-shape-our-beliefs.md). If something bad happened to us, the default response is to see ourselves as [victims](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md) and the event as inevitable, while something good is necessarily the result of our hard work [We attribute bad outcomes to luck but others' misfortunes to their faults](/notes/we-attribute-bad-outcomes-to-luck-but-others-misfortunes-to-their-faults.md). Only by [distancing](/notes/separating-actions-from-identity-allows-growth.md) ourselves and suspending judgement we have a chance for clarity and seeing things how they are.
 
@@ -54,9 +52,8 @@ Like missing the bus only to find later that the same bus had an accident. At fi
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Judgement](/notes/judgement.webp)
+![Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.webp)

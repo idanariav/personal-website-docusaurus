@@ -1,25 +1,28 @@
 ---
 UUID: 20240502101951
 Created: '2024-05-02 10:19'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-15 09:41'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 4
-aliases:
-  - Journaling
+sketch-editor-plugin: parsed
+Version: 5
+Image: >-
+  [[Journaling enables reflection and self-understanding through written
+  documentation.png]]
+ImageText: >-
+  A messy scribble in a thought bubble turns into clear text open a book through
+  a pen
 Description: >-
   A written practice of documenting thoughts, emotions, and life events that
   enhances self-understanding and memory retention through reflection and
   cognitive distancing.
-new_schema: true
 Topic:
   - '[[Self-Tracking and Reflection]]'
   - '[[Writing]]'
 Origin: null
 URL: null
+aliases:
+  - Journaling
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -27,7 +30,6 @@ SiteProcssed: true
 # Journaling
 
 ## Notes
-
 
 ### Claim
 
@@ -44,7 +46,7 @@ Usually it is done daily, and can be as versatile as your imagination, it can be
 2. **Empty dumping** - Just a blank space where you can dump your thoughts and ideas
 3. **Scoring** - give a score or a yes/no to things you've done today like meditating
 
-### Why it matters
+### Why it Matters
 
 By documenting and reflecting on our life, we increase [Active engagement turns information into knowledge](/notes/active-engagement-turns-information-into-knowledge.md) with our memories, improving retention and self understanding.
 
@@ -56,9 +58,10 @@ It can also be done on different levels across time, for example to track your e
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Journaling](/notes/journaling.webp)
+![Journaling enables reflection and self-understanding through written documentation](/notes/journaling-enables-reflection-and-self-understanding-through-written-documentation.webp)
+
+# Sketch Editor Data

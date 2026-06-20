@@ -1,24 +1,27 @@
 ---
 UUID: 20240101065022
 Created: '2024-01-01 06:50'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-13 16:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
-Image: null
 excalidraw-open-md: true
-Version: 3
-aliases:
-  - Intrinsic Motivation
-  - Internal motivation
+Version: 4
+Image: >-
+  [[Intrinsic motivation drives action through internal alignment and
+  passion.png]]
+ImageText: 'A person waters a plant, while thinking about how will that plant grow'
 Description: >-
   A powerful and sustainable form of motivation driven by internal reasons, such
   as passion and purpose, rather than external rewards like money or status.
-new_schema: true
 Topic:
   - '[[Peak States and Optimal Experience]]'
 Origin: null
 URL: null
+aliases:
+  - Intrinsic Motivation
+  - Internal motivation
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -35,7 +38,7 @@ Intrinsic motivation is when we feel [passionate](/notes/passion-is-deep-desire-
 
 Most often, intrinsic motivation is [croweded out](/notes/one-activity-displaces-another-when-pursued-excessively.md) by [External motivation crowds out intrinsic drive and sustainability](/notes/external-motivation-crowds-out-intrinsic-drive-and-sustainability.md). Not only that they cancel each other out, they are also not equal in quality. Intrinsic motivation is a much more powerful, stable and sustainable form of motivation. and it is the only way to protect ourselves from [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md).
 
-### Why it matters
+### Why it Matters
 
 To cultivate intrinsic motivation, you can:
 1. **Follow your curiosity** - Give yourself time throughout the day to simply follow your [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md) and see where it takes you. Don't think about "spending the time wisely" or "Is it useful", let yourself "waste time" exploring, like finding gold, the important discoveries are worth the hours of searching.
@@ -48,8 +51,8 @@ To cultivate intrinsic motivation, you can:
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Intrinsic Motivation](/notes/intrinsic-motivation.webp)
+![Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.webp)
