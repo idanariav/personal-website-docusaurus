@@ -1,24 +1,25 @@
 ---
 UUID: 20230825155721
 Created: '2023-08-25 15:57'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-23 09:13'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases:
-  - Growth requires challenges
+sketch-editor-plugin: parsed
+Version: 4
+Image: '[[Learning should be hard.png]]'
+ImageText: >-
+  A small plant with small roots in a pot full of water, a large plant with deep
+  root and big leaves
 Description: >-
   The concept that effective learning involves facing challenges and discomfort,
   requiring grit and deliberate practice to internalize knowledge meaningfully
   and avoid shallow understanding.
-new_schema: true
 Topic:
   - '[[Active Learning and Deep Encoding]]'
 Origin: null
 URL: null
+aliases:
+  - Growth requires challenges
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -26,7 +27,6 @@ SiteProcssed: true
 # Learning Should Be Hard
 
 ## Notes
-
 
 ### Claim
 
@@ -38,7 +38,7 @@ It is only when the [Human Brain](/notes/human-brain.md) realizes that it is inc
 
 Learning always requires a certain [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md), since we often attempt to avoid challenges, at least as a default, so only with grit could we face the challenges and grow from them.
 
-### Why it matters
+### Why it Matters
 
 We have to step out of our comfort zone. Instead of relying on shortcuts, we have to embrace a [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md).
 
@@ -54,9 +54,9 @@ It takes [Deliberate Practice is the best way to develop skills](/notes/delibera
 
 While [Mental shortcuts enable faster learning through analogies and simplification](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md) are helpful when learning a new topic, they can cause us to learn it in a shallow way, thinking that we already know what we need to.
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
 ![learning should be hard](/notes/learning-should-be-hard.webp)
+# Sketch Editor Data

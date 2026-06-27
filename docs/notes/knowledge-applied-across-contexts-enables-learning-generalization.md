@@ -1,26 +1,26 @@
 ---
 UUID: 20230419075549
 Created: '2023-04-19 07:55'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-20 18:42'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 5
-aliases:
-  - Transferred Learning
-  - Transferred Learning
+sketch-editor-plugin: parsed
+Version: 6
+Image: '[[Knowledge applied across contexts enables learning generalization.png]]'
+ImageText: >-
+  A syringe spills a blue liquid on a red cell, a fire hose spills water on a
+  fire
 Description: >-
   The ability to utilize knowledge from one context to another, enhancing
   adaptability and creativity by establishing connections and understanding
   underlying principles rather than mere memorization.
-new_schema: true
 Topic:
   - '[[Knowledge Structure and Transfer]]'
   - '[[Creative Ideation and Innovation]]'
 Origin: null
 URL: null
+aliases:
+  - Transferred Learning
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -41,7 +41,7 @@ Aside from the connections themselves, this also means that the information itse
 
 Knowledge is more transferrable the more it provides you with understanding of the logic, method and processes underlying it instead of just memorization of facts [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md) [Active engagement turns information into knowledge](/notes/active-engagement-turns-information-into-knowledge.md).
 
-### Why it matters
+### Why it Matters
 
 Transferred learning benefits from [Range](/notes/breath-beats-depth.md)—the more knowledgeable we are in different fields, the more likely we are to find ways of transferring knowledge from one area to another. Therefore range has a [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) effect on our knowledge, because the amount of potential links between ideas and fields grows exponentially, and not linearly, as more information we gather.
 
@@ -59,9 +59,15 @@ The broader sense is transferring knowledge between fields. For example, using k
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Transferred Learning](/notes/transferred-learning.webp)
+![Knowledge applied across contexts enables learning generalization](/notes/knowledge-applied-across-contexts-enables-learning-generalization.webp)
+
+# Sketch Editor Data
+
+## Linked Files
+- [syringe (framework)](/notes/syringe-framework.md)
+- [Fire (framework)](/notes/fire-framework.md)
+- [Fire hose (framework)](/notes/fire-hose-framework.md)

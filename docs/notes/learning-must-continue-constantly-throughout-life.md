@@ -1,24 +1,25 @@
 ---
 UUID: 20230328192618
 Created: '2023-03-28 19:26'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-21 20:16'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases:
-  - Lifelong Learning
+sketch-editor-plugin: parsed
+Version: 4
+Image: '[[Learning must continue constantly throughout life.png]]'
+ImageText: >-
+  A baby, a teenager, a business woman, and an elderly woman standing in a line
+  holding a book
 Description: >-
   The continuous process of acquiring knowledge and skills throughout life to
   adapt to changing circumstances and avoid obsolescence, emphasizing growth,
   consistency, and a beginner's mindset.
-new_schema: true
 Topic:
   - '[[Learning Through Experience]]'
 Origin: null
 URL: null
+aliases:
+  - Lifelong Learning
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -27,14 +28,13 @@ SiteProcssed: true
 
 ## Notes
 
-
 ### Claim
 
 Lifelong learning is the idea that learning is not something we do just once or twice, for example when we are kids in school, or later in college. Learning is something we have to do constantly throughout our lifetime.
 
 ### Explanation
 
-### Why it matters
+### Why it Matters
 
 Having a lifelong learning mindset, we need to:
 1. **Be a beginner** - After we have gained some knowledge, it is easy to fall for the [The less you know the more confident you are](/notes/the-less-you-know-the-more-confident-you-are.md), thinking that we are experts in the field and that there's nothing more to learn. To avoid it, we need to always see ourselves as a student, always open for learning something new, as if our mind is blank [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md).
@@ -50,9 +50,8 @@ Having a lifelong learning mindset, we need to:
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Lifelong Learning](/notes/lifelong-learning.webp)
+![Learning must continue constantly throughout life](/notes/learning-must-continue-constantly-throughout-life.webp)

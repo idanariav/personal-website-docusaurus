@@ -1,7 +1,7 @@
 ---
 UUID: 20250507084955
 Created: '2025-05-07 08:49'
-Modified: '2026-06-13 10:44'
+Modified: '2026-06-21 17:21'
 tags: []
 FullTitle: >-
   The Way of Play - Using Little Moments of Big Connection to Raise Calm and
@@ -27,7 +27,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 5
 Pages: 289
 Reread: 0
 Rate: 2
@@ -186,7 +186,7 @@ While the first strategy gives us *cognitive empathy* (the ability to understand
 
 We have to make the first step, and it is done through [Mirroring](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md). We tune ourselves to them through play.
 
-This makes them feel *seen*. This is not a conscious response, they first feel it and only with time they'll acknowledge it logically. It's a bottom up approach.
+This makes them feel *seen*. This is not a conscious response, they first feel it and only with time they'll acknowledge it logically. It's a bottom up approach [Emotional understanding precedes intellectual understanding](/notes/emotional-understanding-precedes-intellectual-understanding.md).
 
 To copy them, just try to go with the flow, to see what they're pitching and return a tuned response [Resonance](/notes/resonance-is-being-in-sync-with-reality-and-others.md).
 
@@ -204,7 +204,7 @@ To mirror them, you can use your body, your face or your voice. Just remember no
 
 In order for kids to learn how to manage their emotions, they first need to learn to express them. They need a [safe space](/notes/safe-base-provides-security-enabling-growth-and-exploration.md) to vent. To help them recognize the emotion they are expressing, you can use [Labeling](/notes/naming-a-phenomenon-gives-us-power-over-it.md). Using play for emotional management is beneficial because the play itself provides [distance](/notes/separating-actions-from-identity-allows-growth.md) for processing these emotions without feeling overwhelmed or attacked.
 
-We can't control having an emotions, but we do control our association with it. For example seeing a spider will always capture our attention, the question is do we get curious or afraid. These are the type of linking healthy play can generate.
+We can't control having an emotions, but we do control our association with it [We control our response to emotions, not their arrival](/notes/we-control-our-response-to-emotions-not-their-arrival.md). For example seeing a spider will always capture our attention, the question is do we get curious or afraid. These are the type of linking healthy play can generate.
 
 There are three types of play for emotional management:
 1. **Expressive play** - There is an emotional scene we are playing that helps them vent safely what they feel, perhaps the floor is lava, perhaps we are fighting a dragon. We respond to the child by expressing our own emotions and labeling them, such as "This dragon is so big and scary, I feel afraid just by seeing it"
@@ -233,7 +233,7 @@ In general, we all have tendencies towards being *sensory seeker* or *sensory av
 
 By seeing their reaction to different situations, we can learn their tendencies. It's easy to see cases where they're over situmaled, but under stimulated are harder to catch. [introvert](/notes/introvert.md) [extrovert](/notes/extrovert.md)
 
-Before trying to change something, just show up, be there and be supportive. Until they will learn to regulate themselves, we will co-regulate with them, be the necessary anchor for them to return to calm.
+Before trying to change something, just show up, be there and be supportive. Until they will learn to regulate themselves, we will co-regulate with them, be the necessary anchor for them to return to calm [Co-regulation precedes self-regulation](/notes/co-regulation-precedes-self-regulation.md).
 
 Then, we can dial it up or down as necessary. Suggesting a change in scenery or activity, one that matches their preference. The change in behavior won't be instantaneous, but slowly but surely they will return to balance and calmness.
 

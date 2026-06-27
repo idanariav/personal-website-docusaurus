@@ -1,25 +1,26 @@
 ---
 UUID: 20221104144114
 Created: '2022-11-04 14:41'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-21 06:32'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 4
-aliases:
-  - Layering
-  - Apperception
+sketch-editor-plugin: parsed
+Version: 5
+Image: >-
+  [[Learning adds new knowledge layers instead of replacing old
+  understanding.png]]
+ImageText: An expanding tree ring
 Description: >-
   The process of enhancing one's knowledge or identity by adding new layers
   rather than erasing previous understandings, reflecting the complexity and
   continuity of personal development.
-new_schema: true
 Topic:
   - '[[Knowledge Structure and Transfer]]'
 Origin: '[[Behave (book)]]'
 URL: null
+aliases:
+  - Layering
+  - Apperception
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -27,7 +28,6 @@ SiteProcssed: true
 # Layering
 
 ## Notes
-
 
 ### Claim
 
@@ -39,7 +39,7 @@ When we will access our knowledge on this topic, it will work from the inside ou
 
 This also suggests that our [multitude](/notes/a-person-is-a-community.md) is not a matter of independent, co-existing voices, rather than the different layers of our identity, resurfacing depending on the situation.
 
-### Why it matters
+### Why it Matters
 
 This also means that change is perhaps not similar to [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md), but rather simply adding new layers of personality of who we are. We might feel different but in the end we are still the same person deep down.
 
@@ -51,11 +51,10 @@ This perhaps supports our [Objectivity is loss of agency to external control and
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 Whether it is due to our genes or our environment [Nature vs nurture](/notes/nature-vs-nurture.md), our ability to change and grow is [limited](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md).
 
-
 ## Visual
 
-![Layering](/notes/layering.webp)
+![Learning adds new knowledge layers instead of replacing old understanding](/notes/learning-adds-new-knowledge-layers-instead-of-replacing-old-understanding.webp)

@@ -1,33 +1,33 @@
 ---
 UUID: 20220729135355
 Created: '2022-07-29 13:53'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-20 20:15'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases:
-  - Methods of knowledge management
-  - how to organize notes
+sketch-editor-plugin: parsed
+Version: 4
+Image: >-
+  [[Knowledge organization requires choosing structural and navigational
+  approaches.png]]
+ImageText: Different methods of connecting dots to one another
 Description: >-
   Various organizational strategies for managing information, including random
   mess, daily notes, atomic notes, topic-focused pages, and action/context-based
   structures, aimed at enhancing retrieval and understanding.
-new_schema: true
 Topic:
   - '[[Knowledge Structure and Transfer]]'
 Origin: '[[Zsolt''s Visual Personal Knowledge Management]]'
 URL: 'https://www.youtube.com/watch?v=AtdAAD47aQY'
+aliases:
+  - Methods of knowledge management
+  - how to organize notes
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
 
-# methods of knowledge management
+# Methods of Knowledge Management
 
 ## Notes
-
 
 ### Claim
 
@@ -41,7 +41,7 @@ There are different methods to organize and manage knowledge, each with its own 
 4. **Topic first** - a separate page/MOC/Log for projects in your self, such as a project page, research topics, areas, hobbies... [Zettelkasten 2bc](/notes/zettelkasten-2bc.md) is an example for such a system.
 5. **Action/Context first** - the structure is based on the [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md), i.e the primary use of each type of note. an example is the [P.A.R.A](null) method, which divides content into projects, actions, resources or archives.
 
-### Why it matters
+### Why it Matters
 
 Whichever structure we choose, it must "make sense", i.e that it will be easy for us to find what we are looking for. Use the concept of [We optimize by keeping the most-used close at hand](/notes/we-optimize-by-keeping-the-most-used-close-at-hand.md) to find the structure that supports best what you need.
 
@@ -51,9 +51,10 @@ Whichever structure we choose, it must "make sense", i.e that it will be easy fo
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![methods of knowledge management](/notes/methods-of-knowledge-management.webp)
+![Knowledge organization requires choosing structural and navigational approaches](/notes/knowledge-organization-requires-choosing-structural-and-navigational-approaches.webp)
+
+# Sketch Editor Data
