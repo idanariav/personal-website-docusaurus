@@ -1,24 +1,25 @@
 ---
 UUID: 20250227070636
 Created: '2025-02-27 07:06'
-Modified: '2026-04-11 22:24'
+Modified: '2026-06-30 08:52'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases:
-  - Manifesting
+sketch-editor-plugin: parsed
+Version: 4
+Image: '[[Manifesting imposes beliefs onto reality rather than accepting it.png]]'
+ImageText: >-
+  A warning sign, vs a warning sign with a projector shining a smile face onto
+  it
 Description: >-
   The practice of imposing one's beliefs onto reality, contrasting with
   acceptance, and often leading to naivety and entitlement without proactive
   effort to achieve desired outcomes.
-new_schema: true
 Topic:
   - '[[Acceptance and Effortless Action]]'
 Origin: null
 URL: null
+aliases:
+  - Manifesting
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -27,14 +28,13 @@ SiteProcssed: true
 
 ## Notes
 
-
 ### Claim
 
 Manifesting is when we try to impose our beliefs onto the world, instead of matching our views based on how the world is right now [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md).
 
 ### Explanation
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -48,9 +48,8 @@ However, manifesting is problematic due to several reasons:
 1. **Nativity** - there's often a distinction between thinking and doing, when we focus on manifesting rather than [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md), we naively think that manifesting is enough. Instead of "I will have a great day", we need to ask ourselves "how can I make my day great"
 2. **Entitlement** - sometimes manifesting leads us to think that we already have it in the bag, or that we deserve as a matter of "promised " it [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md). We set our [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) way too high, we become [attached](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) to this reality that doesn't yet exist, which could lead to [Disappointment is the gap between expectations and reality](/notes/disappointment-is-the-gap-between-expectations-and-reality.md) when life doesn't go our way.
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![manifesting](/notes/manifesting.webp)
+![Manifesting imposes beliefs onto reality rather than accepting it](/notes/manifesting-imposes-beliefs-onto-reality-rather-than-accepting-it.webp)

@@ -1,24 +1,23 @@
 ---
 UUID: 20240409080645
 Created: '2024-04-09 08:06'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-29 09:10'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases:
-  - Loneliness
+sketch-editor-plugin: parsed
+Version: 4
+Image: '[[Loneliness is the painful state of feeling disconnected from others.png]]'
+ImageText: A wanderer alone in the outdoors
 Description: >-
   A painful state of emotional detachment from others, contrasting with
   solitude, arising from the inherent human need for social connection and often
   perceived as a form of escapism.
-new_schema: true
 Topic:
   - '[[Social Connection and Belonging]]'
 Origin: null
 URL: null
+aliases:
+  - Loneliness
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -26,7 +25,6 @@ SiteProcssed: true
 # Loneliness
 
 ## Notes
-
 
 ### Claim
 
@@ -38,7 +36,7 @@ Note that loneliness is not necessarily physical. One can be alone while being s
 
 Loneliness can be created when we try to free ourselves from others. Becoming completely "free" without [depending](/notes/dependency.md) on others might sound liberating, but like the tree example, when we escape the ground we are free to go anywhere, yet our freedom is theoretical and not practical because we lack the resources, the motivation, the sense of meaning to actualize it.
 
-### Why it matters
+### Why it Matters
 
 We need others to be [happy](/notes/happiness-is-shared.md), without people around us we are like a plant without the ground, we wither and die.
 
@@ -50,11 +48,10 @@ Some might say that every thing we do is in order to [escape](/notes/escapism-is
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 One requires [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md) to know whether their actions are a result of escaping loneliness or really pursuing something else.
 
-
 ## Visual
 
-![Loneliness](/notes/loneliness.webp)
+![Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.webp)

@@ -1,22 +1,21 @@
 ---
 UUID: 20250305131056
 Created: '2025-03-05 13:10'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-27 18:35'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 2
-aliases: []
+sketch-editor-plugin: parsed
+Version: 3
+Image: '[[Life is pain.png]]'
+ImageText: A sun on a rose vs a cloud with rain and lightning
 Description: >-
   The concept that suffering is an inherent part of existence, influenced by
   external circumstances and personal choices, emphasizing the inevitability of
   pain in life.
-new_schema: true
 Topic: []
 Origin: null
 URL: null
+aliases: []
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -24,7 +23,6 @@ SiteProcssed: true
 # Life is Pain
 
 ## Notes
-
 
 ### Claim
 
@@ -36,7 +34,7 @@ There is endless [Randomness](/notes/randomness.md) that can affect our life, pe
 
 To try and control every aspect in life to avoid suffering is [wishful](/notes/manifesting-imposes-beliefs-onto-reality-rather-than-accepting-it.md) thinking. [Rejecting](/notes/denial-is-choosing-a-false-view-to-avoid-painful-truths.md) life as they are would only bring more pain.
 
-### Why it matters
+### Why it Matters
 
 Perhaps it's the saddest irony that by trying to avoid pain, we only cause ourselves more of it. We have a part in our pain too, no matter the external circumstances, it is our [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) that translate events into emotions. To hurt is a choice, sometimes an acceptable one, yet it is still our choice.
 
@@ -48,8 +46,7 @@ For example, we don't control (to an extent) whether we are hurt in an accident,
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 

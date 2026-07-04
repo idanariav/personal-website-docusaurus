@@ -1,25 +1,24 @@
 ---
 UUID: 20231230072933
 Created: '2023-12-30 07:29'
-Modified: '2026-04-11 22:24'
+Modified: '2026-06-30 08:26'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases:
-  - Luck
+sketch-editor-plugin: parsed
+Version: 4
+Image: '[[Luck is external randomness affecting outcomes beyond control.png]]'
+ImageText: 'A single d20 with 1, vs a few d20 rolls which one scored 20'
 Description: >-
   A multifaceted concept encompassing various types, including blind luck, which
   is beyond control, and other forms that can be influenced by personal actions
   and awareness, highlighting the interplay between randomness and individual
   agency.
-new_schema: true
 Topic:
   - '[[Randomness]]'
 Origin: '[[The Curiosity Chronicle by Sahil Bloom]]'
 URL: null
+aliases:
+  - Luck
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -39,7 +38,7 @@ Luck could be perceived as similar to [Randomness](/notes/randomness.md), but lu
 3. **Luck from Awareness**: The result of your awareness and depth of understanding of a specific domain. This depth of understanding within a given arena allows you to become very good at [Positioning](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md) yourself for lucky breaks to benefit you [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md).
 4. **Luck from Uniqueness**: Occurs when your unique set of attributes attracts specific luck to you. It actually seeks you out [Unique skill combinations create competitive and creative advantage](/notes/unique-skill-combinations-create-competitive-and-creative-advantage.md).
 
-### Why it matters
+### Why it Matters
 
 Aside from blind luck, all the other components show that there’s meaning to [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md), that luck isn’t the same for all people, and that we can increase our exposure to good luck while reducing the risk of bad luck [Some systems grow stronger through disorder](/notes/some-systems-grow-stronger-through-disorder.md).
 
@@ -55,8 +54,8 @@ Luck can also have a moral importance. For example the difference of killing and
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Luck](/notes/luck.webp)
+![Luck is external randomness affecting outcomes beyond control](/notes/luck-is-external-randomness-affecting-outcomes-beyond-control.webp)

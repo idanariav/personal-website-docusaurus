@@ -1,25 +1,24 @@
 ---
 UUID: 20230418185354
 Created: '2023-04-18 18:53'
-Modified: '2026-04-11 22:24'
+Modified: '2026-06-29 19:10'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 6
-aliases:
-  - Morality is enjoyable
+sketch-editor-plugin: parsed
+Version: 7
+Image: '[[Love what is good.png]]'
+ImageText: A shaky stone tower vs a stable stone arc
 Description: >-
   A concept emphasizing that true moral success arises from aligning personal
   enjoyment with virtuous actions, rather than merely acting out of duty or
   obligation.
-new_schema: true
 Topic:
   - '[[Moral Psychology]]'
   - '[[Authenticity and Values]]'
 Origin: '[[Aristotle (philosopher)|Aristotle]]'
-URL: null
+URL: 'https://share.snipd.com/episode/d9bef53e-c2c6-4319-96b0-bfdcdc02d12f'
+aliases:
+  - Morality is enjoyable
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -27,7 +26,6 @@ SiteProcssed: true
 # Love what is Good
 
 ## Notes
-
 
 ### Claim
 
@@ -37,7 +35,7 @@ In order for us to be a moral, successful person, we have to understand that [Wi
 
 By teaching ourselves to enjoy the right things, such as enjoying a workout, eating healthy, helping others, only then could we successfully change. We have to embrace an identity that enjoys doing those things [change starts from the inside out](/notes/change-starts-from-the-inside-out.md). This is one of the cornerstones in having a [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md).
 
-### Why it matters
+### Why it Matters
 
 **If you true desires don't match the right actions, then one day you will fail** [Good action requires intention aligned with values](/notes/good-action-requires-intention-aligned-with-values.md). The person who helps the old lady cross the street because of a sense of duty rather than enjoyment will one day be too tired for that and he will stop acting this way.
 
@@ -51,10 +49,9 @@ According to Aristotle, we should fear the man that is doing the right thing out
 
 For [Immanuel Kant](/notes/immanuel-kant-philosopher.md), the right reason for doing something is because it is one's duty, not because one enjoys it.
 
-### Open questions
+### Open Questions
 
 But can we really love doing good things, should it even be enjoyable? What if doing the right thing is a "chore", a hassle?
-
 
 ## Visual
 

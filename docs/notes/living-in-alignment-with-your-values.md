@@ -1,24 +1,23 @@
 ---
 UUID: 20241128141655
 Created: '2024-11-28 14:16'
-Modified: '2026-04-11 22:23'
+Modified: '2026-06-27 18:35'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 4
-aliases:
-  - Integrity
+sketch-editor-plugin: parsed
+Version: 5
+Image: '[[Living in alignment with your values.png]]'
+ImageText: A compass vs a compass that's being moved by magnets
 Description: >-
   A proactive alignment with one's core values, reflecting authenticity and
   self-awareness, though excessive integrity may hinder adaptability and
   appreciation for diverse perspectives.
-new_schema: true
 Topic:
   - '[[Authenticity and Values]]'
 Origin: null
 URL: null
+aliases:
+  - Integrity
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -33,7 +32,7 @@ Integrity is a proactive form of [Acting in alignment with your values is authen
 
 ### Explanation
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -45,8 +44,8 @@ It is usually a sign that we have (or close to having) a [Achieving internal har
 
 However, too much integrity might lead to a lack of [Flexability](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md), because we are so sure of what the right path is and how one should walk it, that we fail to see the righteousness in other views [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md), and therefore lack the ability to even change ourselves depending on the situation.
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Integrity](/notes/integrity.webp)
+![Living in alignment with your values](/notes/living-in-alignment-with-your-values.webp)
