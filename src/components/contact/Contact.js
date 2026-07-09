@@ -1,10 +1,10 @@
-import React, { useRef, useEffect } from "react";
+import { useRef, useEffect } from "react";
 import { ValidationError, useForm } from "@formspree/react";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import Translate from "@docusaurus/Translate";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import styles from "./Contact.module.css"; // Import the CSS module
+import PillButton from "../common/PillButton";
+import styles from "./Contact.module.css";
 
 const Contact = () => {
   const {
@@ -25,7 +25,7 @@ const Contact = () => {
   }, [state.succeeded, state.submitting]);
 
   return (
-    <section className={styles["contact-page"]}>
+    <div className={styles.card}>
       <ToastContainer
         position="top-right"
         autoClose={5000}
@@ -37,62 +37,54 @@ const Contact = () => {
         draggable
         pauseOnHover
       />
-      <article className={styles["contact-form"]}>
-        <h3>
-          <Translate>I’d love to hear from you!</Translate>
-        </h3>
-        <p>Whether you're:</p>
-        <ul>
-          <li>Exploring potential collaborations or opportunities</li>
-          <li>Seeking guidance in setting up personal or organizational knowledge management systems</li>
-          <li>Wishing to share feedback, ask questions, or start a conversation</li>
-        </ul>
-        <form onSubmit={handleSubmit} ref={formRef}>
-          <div className={styles["form-group"]}>
-            <input
-              type="text"
-              name="name"
-              placeholder="First Name"
-              className={styles["form-control"]}
-              required
-            />
-            <ValidationError
-              field="name"
-              prefix="Name"
-              errors={state.errors}
-            />
-            <input
-              type="email"
-              placeholder="Email Address"
-              name="email"
-              className={styles["form-control"]}
-              required
-            />
-            <ValidationError
-              field="email"
-              prefix="Email"
-              errors={state.errors}
-            />
-            <textarea
-              name="message"
-              rows="5"
-              placeholder="How can I help you?"
-              className={styles["form-control"]}
-            ></textarea>
-            <button
-              type="submit"
-              disabled={state.submitting}
-              className={`${styles["submit-btn"]} btn`}
-            >
-              <Translate>Send</Translate>
-            </button>
-            <div className={styles["form-error"]}>
-              <ValidationError errors={state.errors} />
-            </div>
-          </div>
-        </form>
-      </article>
-    </section>
+      <form onSubmit={handleSubmit} ref={formRef} className={styles.form}>
+        <div className={styles.field}>
+          <label className={styles.label} htmlFor="contact-name">First name</label>
+          <input
+            id="contact-name"
+            type="text"
+            name="name"
+            placeholder="What should I call you?"
+            className={styles.input}
+            required
+          />
+          <ValidationError field="name" prefix="Name" errors={state.errors} />
+        </div>
+        <div className={styles.field}>
+          <label className={styles.label} htmlFor="contact-email">Email</label>
+          <input
+            id="contact-email"
+            type="email"
+            placeholder="So I can write back"
+            name="email"
+            className={styles.input}
+            required
+          />
+          <ValidationError field="email" prefix="Email" errors={state.errors} />
+        </div>
+        <div className={styles.field}>
+          <label className={styles.label} htmlFor="contact-message">Message</label>
+          <textarea
+            id="contact-message"
+            name="message"
+            rows="6"
+            placeholder="What's on your mind?"
+            className={styles.textarea}
+          ></textarea>
+        </div>
+        <PillButton
+          variant="primary"
+          type="submit"
+          disabled={state.submitting}
+          className={styles.submitBtn}
+        >
+          Send it my way
+        </PillButton>
+        <div className={styles.formError}>
+          <ValidationError errors={state.errors} />
+        </div>
+      </form>
+    </div>
   );
 };
 

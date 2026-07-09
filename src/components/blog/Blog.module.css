@@ -85,3 +85,11 @@
 .readMoreButton:hover {
   background: var(--ifm-color-primary-dark);
 }
+
+.paginationRow {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 56px 32px;
+  text-align: center;
+  box-sizing: border-box;
+}

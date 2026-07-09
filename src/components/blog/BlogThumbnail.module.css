@@ -1,0 +1,46 @@
+.thumb {
+  background: var(--surface);
+  border: 2px solid var(--ink);
+  border-radius: 10px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.thumb :where(p, h1, h2, h3, h4, h5, h6, ul, ol, blockquote, pre, admonition):not(:has(img)) {
+  display: none;
+}
+
+.thumb a:not(:has(img)) {
+  display: none;
+}
+
+.thumb p:has(img) ~ p:has(img) {
+  display: none;
+}
+
+.thumb p:has(img) {
+  margin: 0;
+  height: 100%;
+}
+
+.thumb img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.md {
+  padding: 10px;
+  aspect-ratio: 4 / 3;
+}
+
+.sm {
+  padding: 5px;
+  aspect-ratio: 1 / 1;
+}
+
+.placeholder {
+  background: var(--accent-soft);
+}

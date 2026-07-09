@@ -46,6 +46,15 @@ const config = {
     locales: ['en'],
   },
 
+  stylesheets: [
+    { href: 'https://fonts.googleapis.com', rel: 'preconnect' },
+    { href: 'https://fonts.gstatic.com', rel: 'preconnect', crossorigin: 'anonymous' },
+    {
+      href: 'https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@600;700&family=Nunito+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Caveat:wght@500;600&display=swap',
+      rel: 'stylesheet',
+    },
+  ],
+
   customFields: {
     newsletter: {
       action:
@@ -105,13 +114,13 @@ const config = {
     ({
       // Declare some <meta> tags
       metadata: [
-        { name: 'keywords', content: 'personal website, knowledge management, data analyst, practical philosophy' },
-        { name: 'description', content: 'A site about self growth, practical philosophy, and knowledge management.' },
+        { name: 'keywords', content: 'personal website, visual notes, practical philosophy, who we are, peaceful living, creative life' },
+        { name: 'description', content: 'Sketches and essays on who we are, peaceful living, and creative life — practical philosophy for everyday life.' },
         { name: 'author', content: 'Idan Ariav' },
         { name: 'robots', content: 'index, follow' }, // Allow indexing
         { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }, // Helps with responsive design
         { name: 'og:title', content: 'Philosopher\'s Code – Practical Philosophy for everyday life' },
-        { name: 'og:description', content: 'Turning complex ideas into tools for happiness, growth, and clarity.' },
+        { name: 'og:description', content: 'Sketches and essays on who we are, peaceful living, and creative life.' },
         { name: 'og:image', content: 'https://idanariav.com/general/website-social-card.png' },
         { name: 'og:url', content: 'https://idanariav.com/' },
         { name: 'og:type', content: 'website' }],
@@ -137,68 +146,75 @@ const config = {
       image: "general/website-social-card.png",
       navbar: {
         hideOnScroll: false,
-        title: 'Welcome',
+        title: 'Philosopher\'s Code',
         items: [
           {
-            to: '/about', 
-            label: 'About me', 
-            position: 'left'
-          }, 
-          {
             to: '/sketches',
-            label: 'Visual Notes',
+            label: 'Visuals',
+            position: 'left',
+          },
+          {
+            to: '/blog',
+            label: 'Newsletter',
             position: 'left',
           },
           {
             to: '/docs/welcome',
             label: 'Knowledge Vault',
             position: 'left',
+            className: 'navbar__link--muted',
           },
           {
-            to: '/blog',
-            label: 'Blog',
-            position: 'left'
+            to: '/about',
+            label: 'About',
+            position: 'left',
+            className: 'navbar__link--muted',
           },
           {
-            to: '/contactPage', 
-            label: 'Contact', 
-            position: 'left'
+            to: '/contactPage',
+            label: 'Say hi',
+            position: 'left',
+            className: 'navbar__link--cta',
           },
         ],
       },
       footer: {
         links: [
           {
-            title: 'Free Resources',
+            title: 'Explore',
             items: [
               {
-                label: 'Free Obsidian Starter Kit',
-                href: 'https://ko-fi.com/s/8e6f6ccefc',
+                label: 'Visuals',
+                to: '/sketches',
+              },
+              {
+                label: 'Newsletter',
+                to: '/blog',
               },
               {
                 label: 'Knowledge Vault',
                 to: '/docs/welcome',
               },
               {
-                label: 'Book Summaries',
-                to: '/docs/category/book-summaries',
+                label: 'Contact',
+                to: '/contactPage',
               },
             ],
           },
           {
-            title: "Let's connect",
+            title: 'Elsewhere',
             items: [
               {
-                label: 'Linkedin',
+                label: 'LinkedIn',
                 href: 'https://www.linkedin.com/in/idan-ariav/',
-              },
-              {
-                label: "GitHub",
-                href: 'https://github.com/idanariav',
               },
               {
                 label: 'X (Twitter)',
                 href: 'https://x.com/ariav_idan',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/idanariav',
               },
               {
                 label: 'Medium',
@@ -206,38 +222,17 @@ const config = {
               },
             ],
           },
-          {
-            title: 'Navigation',
-            items: [
-              {
-                label: 'Home',
-                to: '/',
-              },
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'Visual Notes',
-                to: '/sketches',
-              },
-              {
-                label: 'Contact',
-                to: '/contactPage',
-              },
-            ],
-          }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Idan Ariav. Built with Docusaurus.`,
+        copyright: `© ${new Date().getFullYear()} Idan Ariav`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
     colorMode: {
-      defaultMode: 'dark',
-      disableSwitch: false, // Allow users to switch between light and dark mode
-      respectPrefersColorScheme: false, // Respect user's system preference
+      defaultMode: 'light',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
     }}),
     themes: [
       [

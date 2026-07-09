@@ -1,81 +1,41 @@
-import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import useBaseUrl from '@docusaurus/useBaseUrl';
-import Heading from '@theme/Heading';
-import styles from './sketches.module.css';
-import { Container, Grid, Card, CardMedia, CardActionArea } from "@mui/material";
+import PageHero from '../components/common/PageHero';
+import SketchFrame from '../components/common/SketchFrame';
+import NewsletterForm from '../components/newsletter/NewsletterForm';
 import { sketches as sketchData } from '@site/src/data/sketches';
-
-function SketchesHeader() {
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container text--center">
-        <Heading as="h1" className={styles.title}>
-          Visual Notes
-        </Heading>
-        <p className={styles.tagline}>
-          Bringing insight to life with simple visuals.
-        </p>
-      </div>
-    </header>
-  );
-}
-
-function SketchCard({ title, image, link }) {
-  const resolvedImage = useBaseUrl(image);
-  const cardContent = (
-    <CardMedia
-      component="img"
-      image={resolvedImage}
-      alt={title}
-      className={styles.sketchImage}
-    />
-  );
-  return (
-    <Grid item xs={12} sm={6} md={4}>
-      <Card className={styles.sketchCard}>
-        {link ? (
-          <CardActionArea href={link}>{cardContent}</CardActionArea>
-        ) : (
-          cardContent
-        )}
-      </Card>
-      <h3 className={styles.sketchTitle}>{title}</h3>
-    </Grid>
-  );
-}
+import styles from './sketches.module.css';
 
 function SketchGallery() {
   return (
     <section className={styles.gallerySection}>
-      <Container maxWidth="lg">
-        <Heading as="h2" className={styles.galleryTitle}>
-          Recent Works
-        </Heading>
-        <Grid container spacing={3} justifyContent="center">
-          {sketchData.map((sketch, idx) => (
-            <SketchCard key={idx} {...sketch} />
-          ))}
-        </Grid>
-      </Container>
+      <div className={styles.grid}>
+        {sketchData.map((sketch, idx) => (
+          <SketchFrame
+            key={sketch.title}
+            src={useBaseUrl(sketch.image)}
+            alt={sketch.title}
+            caption={sketch.title}
+            href={sketch.link}
+            rotate={idx % 2 === 0 ? -0.7 : 0.7}
+          />
+        ))}
+      </div>
     </section>
   );
 }
 
-function AboutSection() {
+function ClosingSection() {
   return (
-    <section className={styles.aboutSection}>
-      <Container maxWidth="sm">
-        <div className={styles.aboutContent}>
-          <p>
-            I’m Idan - a curious person who likes turning complicated ideas into simple visuals.
-            My goal has always been to spark new ways of thinking about life's challenges,
-            and what better way is there than through visuals? 
-            I hope you'll find something here that resonates with you,
-            that piques your curiosity, or simply makes you smile.
-          </p>
-        </div>
-      </Container>
+    <section className={styles.closingSection}>
+      <div className={styles.closingInner}>
+        <img src={useBaseUrl('/general/profile_photo.jpg')} alt="Idan Ariav" className={styles.closingPhoto} />
+        <p className={styles.closingBlurb}>
+          I&apos;m Idan — I like turning complicated ideas into simple visuals that spark new ways
+          of thinking. If one of these made you pause or smile, there&apos;s more where that came from:
+        </p>
+        <NewsletterForm variant="section" className={styles.closingForm} />
+      </div>
     </section>
   );
 }
@@ -83,12 +43,19 @@ function AboutSection() {
 export default function Sketches() {
   return (
     <Layout
-      title="Visuals & Sketches"
-      description="Bringing insight to life with simple visuals"
+      title="Visual Notes"
+      description="Life's big questions, answered with a pen — sketches about who we are, peaceful living, and creative life."
     >
-      <SketchesHeader />
+      <PageHero
+        align="center"
+        maxWidth={820}
+        title="Visual Notes"
+        subtitle="Life's big questions, answered with a pen — sketches about who we are, peaceful living, and creative life."
+      >
+        <div className={`eyebrow ${styles.scrollCue}`}>↓ scroll, wander, smile ↓</div>
+      </PageHero>
       <SketchGallery />
-      <AboutSection />
+      <ClosingSection />
     </Layout>
   );
 }

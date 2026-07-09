@@ -1,46 +1,116 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  font-weight: bold;
-  position: relative;
-  overflow: hidden;
-  background-color: var(--ifm-color-primary-welcome);
-  color: var(--ifm-font-base-color);
+.finePrint {
+  font-size: 14px;
+  color: var(--text-faint);
+  margin-top: 14px;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.finePrint em {
+  color: var(--accent);
+  font-style: italic;
 }
 
-.headshot {
-  width: 200px;
-  height: 200px;
+/* Sketchbook band */
+.sketchbookSection {
+  background: var(--surface);
+  border-top: 2px solid var(--ink);
+  border-bottom: 2px solid var(--ink);
+  padding: 72px 56px;
+}
+
+.sketchbookInner {
+  max-width: 1168px;
+  margin: 0 auto;
+}
+
+.sketchbookHeader {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  margin-bottom: 40px;
+}
+
+.sketchbookTitle {
+  font-family: var(--font-display);
+  font-size: 36px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.seeAllLink {
+  margin-left: auto;
+  font-weight: 700;
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+}
+
+/* About strip */
+.aboutStrip {
+  max-width: 1168px;
+  margin: 0 auto;
+  padding: 80px 56px;
+  display: flex;
+  align-items: center;
+  gap: 48px;
+  box-sizing: border-box;
+}
+
+.aboutPhoto {
+  width: 140px;
+  height: 140px;
   object-fit: cover;
   border-radius: 50%;
-  border: 4px solid var(--ifm-color-primary);
-  margin-bottom: 1rem;
+  border: 2px solid var(--ink);
+  box-shadow: var(--shadow-sticker-sm);
+  flex-shrink: 0;
 }
 
-.shapeFill {
-  fill: var(--ifm-color-primary-welcome);
+.aboutTitle {
+  font-family: var(--font-display);
+  font-size: 30px;
+  font-weight: 700;
+  margin: 0 0 12px;
 }
 
-.topShape{
-  width: 100%;
-  overflow: hidden;
-  line-height: 0;
+.aboutBody {
+  font-size: 18px;
+  line-height: 1.65;
+  color: var(--text-muted);
+  margin: 0 0 16px;
+  max-width: 640px;
 }
 
-.bottomShape{
-  width: 100%;
-  overflow: hidden;
-  line-height: 0;
-  transform: rotate(180deg);
+.aboutLinks {
+  display: flex;
+  gap: 24px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.aboutLink {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+@media screen and (max-width: 900px) {
+  .sketchbookSection {
+    padding: 48px 24px;
+  }
+  .grid {
+    grid-template-columns: 1fr;
+  }
+  .aboutStrip {
+    flex-direction: column;
+    text-align: center;
+    padding: 56px 24px;
+  }
+  .aboutLinks {
+    justify-content: center;
+  }
 }

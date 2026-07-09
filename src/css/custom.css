@@ -1,66 +1,73 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Warm Paper Studio design tokens + Infima overrides.
  */
-
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #6000bf;
-  --ifm-color-primary-dark: #5600ac;
-  --ifm-color-primary-darker: #5200a2;
-  --ifm-color-primary-darkest: #430086;
-  --ifm-color-primary-light: #6a00d2;
-  --ifm-color-primary-lighter: #6e00dc;
-  --ifm-color-primary-lightest: #7d00f8;
-  --ifm-color-primary-welcome: #b599ef;
-  --ifm-font-base-color: #000000;
+  --paper: #F7F3EC;
+  --surface: #FFFDF9;
+  --ink: #2A2430;
+  --text-muted: #574F62;
+  --text-faint: #6E6678;
+  --accent: #7A5AC8;
+  --accent-soft: #EEE8FA;
+  --accent-underline: #D8CCF2;
+  --border-soft: #E4DCCF;
+
+  --footer-bg: #2A2430;
+  --footer-text: #B7AFC8;
+  --footer-heading: #EDE9F5;
+  --footer-input-bg: #3A3346;
+  --footer-input-border: #564E68;
+  --footer-button: #A98BF0;
+  --footer-fine: #8A819E;
+  --footer-divider: #3A3346;
+
+  --font-display: 'Shantell Sans', cursive;
+  --font-body: 'Nunito Sans', sans-serif;
+  --font-hand: 'Caveat', cursive;
+
+  --radius-card: 12px;
+  --radius-pill: 999px;
+  --shadow-sticker-sm: 5px 6px 0 rgba(42, 36, 48, 0.10);
+  --shadow-sticker-md: 6px 7px 0 rgba(42, 36, 48, 0.12);
+  --shadow-sticker-lg: 8px 10px 0 rgba(42, 36, 48, 0.12);
+  --shadow-button: 3px 3px 0 #2A2430;
+
+  /* Infima mapping so stock components inherit the new look */
+  --ifm-background-color: var(--paper);
+  --ifm-background-surface-color: var(--surface);
+  --ifm-font-color-base: var(--ink);
+  --ifm-font-color-secondary: var(--text-muted);
+  --ifm-color-emphasis-300: var(--border-soft);
+  --ifm-color-emphasis-600: var(--text-faint);
+  --ifm-color-emphasis-700: var(--text-muted);
+
+  --ifm-color-primary: #7A5AC8;
+  --ifm-color-primary-dark: #6947BC;
+  --ifm-color-primary-darker: #6242B1;
+  --ifm-color-primary-darkest: #513692;
+  --ifm-color-primary-light: #8B6DD1;
+  --ifm-color-primary-lighter: #9278D5;
+  --ifm-color-primary-lightest: #AC98E0;
+
+  --ifm-link-color: var(--accent);
+  --ifm-navbar-background-color: var(--surface);
+  --ifm-menu-color-background-active: var(--accent-soft);
+  --ifm-menu-color-active: var(--accent);
+  --ifm-font-family-base: var(--font-body);
+  --ifm-heading-font-family: var(--font-display);
+  --ifm-global-radius: var(--radius-card);
+  --ifm-button-border-radius: var(--radius-pill);
   --ifm-code-font-size: 90%;
-  --ifm-footer-background-color: var(--ifm-color-primary-welcome);
-  --ifm-menu-color-background-active: var(--ifm-color-emphasis-200);
-  --ifm-footer-text-color: var(--ifm-font-base-color);
-  --ifm-font-size-base: 16px;
+  --ifm-footer-background-color: var(--footer-bg);
+  --ifm-footer-color: var(--footer-text);
+  --ifm-footer-link-color: var(--footer-text);
+  --ifm-footer-title-color: var(--footer-heading);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #9f7aea;
-  --ifm-color-primary-dark: #895be5;
-  --ifm-color-primary-darker: #7e4ce3;
-  --ifm-color-primary-darkest: #5e22d7;
-  --ifm-color-primary-light: #b599ef;
-  --ifm-color-primary-lighter: #c0a8f1;
-  --ifm-color-primary-lightest: #e2d6f9;
-  --ifm-color-primary-welcome: #211933;
-  --ifm-font-base-color: #dee0f2;
-  --ifm-navbar-link-hover-color: #9f7aea;
-  --ifm-link-color: #9f7aea;
-  --ifm-menu-color-active: #9f7aea;
-  --ifm-background-color: #0f0b17;
-  --ifm-footer-background-color: #211933;
-  --ifm-navbar-background-color: #211933;
-  --ifm-menu-color-background-active: #211933;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
-
-/* For Light Theme */
 html[data-theme="light"] body,
 html[data-theme="light"] .main-wrapper {
-  background-color: #f0f4f8;
-}
-
-
-.footer--dark {
-  --ifm-footer-background-color: #211933;
-}
-
-.footer {
-  --ifm-footer-background-color: var(--ifm-color-primary-welcome);
-}
-
-.footer a {
-  color: var(--ifm-font-base-color);
+  background-color: var(--paper);
 }
 
 .img-center {
@@ -74,21 +81,131 @@ input:focus-visible,
 textarea:focus-visible,
 button:focus-visible,
 a:focus-visible {
-  outline: 2px solid var(--ifm-color-primary);
+  outline: 2px solid var(--accent);
   outline-offset: 2px;
 }
 
 em {
-  color: var(--ifm-color-primary);
+  color: var(--accent);
   font-style: italic;
 }
 
 strong {
-  color: var(--ifm-color-primary-darkest);
+  color: var(--ink);
 }
 
-[data-theme='dark'] strong {
-  color: var(--ifm-color-primary-lightest);
+/* Handwritten annotation utilities — Caveat only, never body copy */
+.eyebrow,
+.caption,
+.pull-quote {
+  font-family: var(--font-hand);
+  font-weight: 500;
+  color: var(--accent);
+}
+.eyebrow { font-size: 27px; }
+.caption { font-size: 24px; color: var(--text-muted); }
+.pull-quote { font-size: 25px; }
+
+/* Navbar */
+.navbar {
+  border-bottom: 2px solid var(--ink);
+  box-shadow: none;
+}
+.navbar__title {
+  font-family: var(--font-display);
+  font-weight: 700;
+}
+.navbar__link--muted {
+  color: var(--text-faint) !important;
+}
+.navbar__link--cta {
+  border: 2px solid var(--ink);
+  border-radius: var(--radius-pill);
+  padding: 8px 20px !important;
 }
 
+/* Docs: sidebar */
+.theme-doc-sidebar-container {
+  border-right: none !important;
+}
+.theme-doc-sidebar-menu {
+  background: var(--surface);
+  border: 2px solid var(--ink);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-sticker-sm);
+  padding: 20px 16px;
+}
+.theme-doc-sidebar-menu::before {
+  content: "wander the vault";
+  display: block;
+  font-family: var(--font-hand);
+  font-size: 22px;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+.menu__link {
+  border-radius: 8px;
+  color: var(--ink);
+}
+.menu__link--active,
+.menu__link--active:hover {
+  background: var(--accent-soft);
+  color: var(--ink);
+  font-weight: 700;
+}
+.menu__list .menu__list {
+  border-left: 2px solid var(--border-soft);
+  margin-left: 10px;
+  padding-left: 8px;
+}
 
+/* Docs: table of contents */
+.table-of-contents {
+  border-left: 2px solid var(--border-soft);
+  font-size: 15px;
+}
+.theme-doc-toc-desktop::before {
+  content: "on this note";
+  display: block;
+  font-family: var(--font-hand);
+  font-size: 21px;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+.table-of-contents__link--active {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+/* Docs: breadcrumbs */
+.theme-doc-breadcrumbs .breadcrumbs__link {
+  color: var(--text-faint);
+}
+.breadcrumbs__item--active .breadcrumbs__link {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border-radius: var(--radius-pill);
+  font-weight: 700;
+}
+
+/* Docs: note content */
+.theme-doc-markdown h1 {
+  font-family: var(--font-display);
+  font-size: 44px;
+}
+.theme-doc-markdown a:not(.button) {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 2px solid var(--accent-underline);
+}
+.note-section-card {
+  background: var(--surface);
+  border: 2px solid var(--ink);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-sticker-sm);
+  padding: 28px 32px;
+  margin-bottom: 28px;
+}
+.note-section-card img {
+  border-radius: 4px;
+}

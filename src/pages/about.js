@@ -1,53 +1,51 @@
-import clsx from 'clsx';
 import Layout from '@theme/Layout';
-import Heading from '@theme/Heading';
 import Link from '@docusaurus/Link';
-import { Container, Grid } from '@mui/material';
+import { Container } from '@mui/material';
+import PageHero from '../components/common/PageHero';
+import PillButton from '../components/common/PillButton';
 import styles from './about.module.css';
 
 const pillars = [
   {
-    icon: '🤖',
-    title: 'AI Systems & Data Engineering',
-    body: 'I create, evaluate, and integrate AI-powered systems — from data pipelines and dashboards to LLM-native CLI tools. Recent work includes building PKM tools for LLM agents: qmd (semantic document search), qnode (knowledge graph), qvoid (unresolved link analysis), and qimg (image search).',
-    linkLabel: 'My Portfolio →',
-    linkHref: 'https://github.com/idanariav',
-    external: true,
+    kicker: 'the pen',
+    title: 'Visual Notes',
+    body: 'I turn complicated ideas into simple, hand-drawn sketches — exploring who we are, peaceful living, and creative life.',
+    linkLabel: 'See the sketchbook →',
+    linkHref: '/sketches',
+    external: false,
   },
   {
-    icon: '🧠',
-    title: 'Knowledge Management',
-    body: 'I design systems to capture, organize, and resurface ideas. Whether developing PKM workflows or helping teams retain institutional wisdom, I believe how we manage knowledge shapes what we can create.',
-    linkLabel: 'Free Obsidian Starter Kit →',
-    linkHref: 'https://ko-fi.com/s/8e6f6ccefc',
-    external: true,
-  },
-  {
-    icon: '🎨',
+    kicker: 'the code',
     title: "Philosopher's Code",
-    body: "I write a newsletter exploring ideas at the intersection of philosophy, productivity, and personal growth — translating timeless questions into practical insights, often brought to life through visual sketches.",
+    body: "Each sketch comes from somewhere — a newsletter exploring who we are, peaceful living, and creative life, translating timeless questions into practical insights.",
     linkLabel: 'Read the latest issue →',
     linkHref: '/blog',
     external: false,
   },
+  {
+    kicker: 'the system',
+    title: 'Knowledge Management',
+    body: 'Behind the scenes, I build PKM systems to capture, organize, and resurface ideas — the vault where these sketches and essays actually live and connect.',
+    linkLabel: 'Explore the Knowledge Vault →',
+    linkHref: '/docs/welcome',
+    external: false,
+  },
 ];
 
-function PillarCard({ icon, title, body, linkLabel, linkHref, external }) {
+function PillarCard({ kicker, title, body, linkLabel, linkHref, external, rotate }) {
   return (
-    <Grid item xs={12} md={4}>
-      <div className={styles.pillarCard}>
-        <div className={styles.pillarIcon}>{icon}</div>
-        <Heading as="h3" className={styles.pillarTitle}>{title}</Heading>
-        <p className={styles.pillarBody}>{body}</p>
-        {external ? (
-          <a href={linkHref} className={styles.pillarLink} target="_blank" rel="noopener noreferrer">
-            {linkLabel}
-          </a>
-        ) : (
-          <Link to={linkHref} className={styles.pillarLink}>{linkLabel}</Link>
-        )}
-      </div>
-    </Grid>
+    <div className={styles.pillarCard} style={{ transform: `rotate(${rotate}deg)` }}>
+      <div className="eyebrow">{kicker}</div>
+      <h3 className={styles.pillarTitle}>{title}</h3>
+      <p className={styles.pillarBody}>{body}</p>
+      {external ? (
+        <a href={linkHref} className={styles.pillarLink} target="_blank" rel="noopener noreferrer">
+          {linkLabel}
+        </a>
+      ) : (
+        <Link to={linkHref} className={styles.pillarLink}>{linkLabel}</Link>
+      )}
+    </div>
   );
 }
 
@@ -57,34 +55,40 @@ export default function About() {
       title="About Me"
       description="Learn more about Idan Ariav — data analyst, knowledge management consultant, and author of Philosopher's Code."
     >
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
-        <div className="container text--center">
-          <Heading as="h1" className={styles.title}>About Me</Heading>
-          <p className={styles.tagline}>
-            Hey, I'm Idan — a curious thinker with a passion for bringing clarity to how we work, think, and act.
-          </p>
-        </div>
-      </header>
+      <PageHero
+        eyebrow="nice to meet you"
+        title="I'm Idan."
+        subtitle="A curious thinker with a passion for bringing clarity to how we live, think, and act."
+        columns="auto 1fr"
+        gap="56px"
+        reverse
+        visual={
+          <div className={styles.photoWrap}>
+            <img src="/general/profile_photo.jpg" alt="Idan Ariav" className={styles.photo} />
+            <div className={`caption ${styles.photoCaption}`}></div>
+          </div>
+        }
+      />
 
       <section className={styles.pillarsSection}>
         <Container maxWidth="lg">
-          <Grid container spacing={3}>
+          <div className={styles.pillarsGrid}>
             {pillars.map((pillar, idx) => (
-              <PillarCard key={idx} {...pillar} />
+              <PillarCard key={pillar.title} {...pillar} rotate={idx % 2 === 0 ? -0.5 : 0.6} />
             ))}
-          </Grid>
+          </div>
         </Container>
       </section>
 
       <section className={styles.connectSection}>
         <Container maxWidth="sm">
-          <Heading as="h2" className={styles.connectTitle}>Let's Connect</Heading>
+          <h2 className={styles.connectTitle}>Let&apos;s connect</h2>
           <p className={styles.connectBody}>
-            Whether you're exploring job opportunities, looking for help setting up a knowledge management system, or just want to have a conversation — I'd love to hear from you.
+            Exploring opportunities, setting up a knowledge system, or just want to talk about ideas — I&apos;d love to hear from you.
           </p>
           <div className={styles.ctaRow}>
-            <Link to="/contactPage" className={styles.ctaButton}>Get in Touch</Link>
-            <Link to="/blog" className={styles.ctaButtonOutline}>Read the Newsletter</Link>
+            <PillButton variant="primary" to="/contactPage">Get in touch</PillButton>
+            <PillButton variant="secondary" to="/blog">Read the newsletter</PillButton>
           </div>
         </Container>
       </section>
