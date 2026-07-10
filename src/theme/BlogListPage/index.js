@@ -1,4 +1,5 @@
 import Layout from '@theme/Layout';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import { PageMetadata, HtmlClassNameProvider, ThemeClassNames } from '@docusaurus/theme-common';
 import SearchMetadata from '@theme/SearchMetadata';
 import BlogListPageStructuredData from '@theme/BlogListPage/StructuredData';
@@ -26,6 +27,7 @@ export default function BlogListPage(props) {
         <PageHero
           align="center"
           maxWidth={760}
+          icon={<img src={useBaseUrl('/general/newsletter_logo.png')} alt="Philosopher's Code logo" />}
           eyebrow="the newsletter archive"
           title="Philosopher's Code"
           subtitle="Short essays on who we are, peaceful living, and creative life — each with a sketch. Read a few, then get the next one in your inbox."

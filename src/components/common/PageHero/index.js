@@ -13,6 +13,7 @@ export default function PageHero({
   alignItems = 'center',
   reverse = false,
   visual,
+  icon,
   children,
   className,
 }) {
@@ -29,6 +30,7 @@ export default function PageHero({
     >
       {isSplit && reverse && visual && <div className={styles.visual}>{visual}</div>}
       <div className={styles.text}>
+        {icon && <div className={styles.icon}>{icon}</div>}
         {eyebrow && <div className={clsx('eyebrow', styles.eyebrow)}>{eyebrow}</div>}
         {title && (
           <Heading as="h1" className={styles.title}>
