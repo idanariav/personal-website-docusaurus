@@ -13,6 +13,7 @@ const pillars = [
     linkLabel: 'See the sketchbook →',
     linkHref: '/sketches',
     external: false,
+    image: '/general/about_pen_sketch.png',
   },
   {
     kicker: 'the code',
@@ -21,6 +22,7 @@ const pillars = [
     linkLabel: 'Read the latest issue →',
     linkHref: '/blog',
     external: false,
+    image: '/general/about_code_sketch.png',
   },
   {
     kicker: 'the system',
@@ -29,12 +31,16 @@ const pillars = [
     linkLabel: 'Explore the Knowledge Vault →',
     linkHref: '/docs/welcome',
     external: false,
+    image: '/general/about_system_sketch.png',
   },
 ];
 
-function PillarCard({ kicker, title, body, linkLabel, linkHref, external, rotate }) {
+function PillarCard({ kicker, title, body, linkLabel, linkHref, external, rotate, image }) {
   return (
     <div className={styles.pillarCard} style={{ transform: `rotate(${rotate}deg)` }}>
+      <div className={styles.pillarImageWrap}>
+        <img src={image} alt={title} className={styles.pillarImage} />
+      </div>
       <div className="eyebrow">{kicker}</div>
       <h3 className={styles.pillarTitle}>{title}</h3>
       <p className={styles.pillarBody}>{body}</p>
