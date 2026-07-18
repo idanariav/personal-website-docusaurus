@@ -1,25 +1,24 @@
 ---
 UUID: 20230710192932
 Created: '2023-07-10 19:29'
-Modified: '2026-04-11 22:24'
+Modified: '2026-07-04 15:56'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 4
-aliases:
-  - Mastery
-  - expertise
+sketch-editor-plugin: parsed
+Version: 5
+Image: '[[Mastery requires deliberate practice and hard work, not innate talent.png]]'
+ImageText: 'A small mountain, zoomed out to an even bigger chain of mountains'
 Description: >-
   The state of being highly skilled in a specific field, characterized by a
   complex process involving imitation, filtering, remixing, and refining
   knowledge, often lacking clear benchmarks for achievement.
-new_schema: true
 Topic:
   - '[[Deliberate Practice and Skill Acquisition]]'
 Origin: null
 URL: null
+aliases:
+  - Mastery
+  - expertise
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -27,7 +26,6 @@ SiteProcssed: true
 # Mastery
 
 ## Notes
-
 
 ### Claim
 
@@ -41,7 +39,7 @@ When trying to master a specific field, we can divide the process into different
 3. **Remix** - We explore various sources and combine different steps from each one to create a tailored made solution for our needs. At this stage we have lateral thinking, and we can identify what is missing in the process, what can be done differently, and we can evaluate the contribution of each step not only to the origin process they came from, but also the potential contribution in a different [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md), with a different combination of steps alongside it. [Knowledge applied across contexts enables learning generalization](/notes/knowledge-applied-across-contexts-enables-learning-generalization.md)
 4. **Refine** - we no longer use only existing material from external sources, but we also turn inwards. We identify that each situation is unique, therefore the best fitting answer to our case would require more than just [Creativity is combining existing ideas in new ways](/notes/creativity-is-combining-existing-ideas-in-new-ways.md), but rather synthesizing it with our own contribution. We will create something new based on all that we have learned and tested over time [Distilling separates essence from noise to simplify understanding](/notes/distilling-separates-essence-from-noise-to-simplify-understanding.md).
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -51,11 +49,10 @@ While some think that mastery is a matter of [talent](/notes/competence-is-devel
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 Often, there is a question whether in order to master we have to solely dedicate ourselves to the one field [Specialization develops deep expertise by focusing narrowly on a domain](/notes/specialization-develops-deep-expertise-by-focusing-narrowly-on-a-domain.md), or whether mastery in modern times require much more branching out and mixing different fields of knowledge. [Breath beats depth](/notes/breath-beats-depth.md).
 
-
 ## Visual
 
-![Mastery](/notes/mastery.webp)
+![Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.webp)

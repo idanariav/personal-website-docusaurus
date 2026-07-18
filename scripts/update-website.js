@@ -13,6 +13,9 @@ const notesSourceFolders = [
 ];
 const imageSourceFolder = path.resolve(__dirname, '../../Obsidian_Vault/Scaffolding/Visuals');
 
+// Subfolders of imageSourceFolder to skip entirely when importing images
+const imageSourceFolderBlacklist = ['inspirations', 'frameworks', 'incubation'];
+
 const destinationFolder = 'docs';
 const imageDestinationFolder = 'static';
 
@@ -126,14 +129,19 @@ async function findAndCopyPublishedFiles() {
 
 }
 
-async function getImagesFiles(dir) {
+async function getImagesFiles(dir, baseDir = dir) {
   let files = [];
   const entries = await fse.readdir(dir, { withFileTypes: true });
 
   for (const entry of entries) {
     const fullPath = path.join(dir, entry.name);
     if (entry.isDirectory()) {
-      files = files.concat(await getImagesFiles(fullPath));
+      const relativePath = path.relative(baseDir, fullPath);
+      const topLevelFolder = relativePath.split(path.sep)[0];
+      if (imageSourceFolderBlacklist.includes(topLevelFolder)) {
+        continue;
+      }
+      files = files.concat(await getImagesFiles(fullPath, baseDir));
     } else if (entry.isFile()) {
       const name = entry.name.toLowerCase();
       if (name.endsWith('.webp') || name.endsWith('.png')) {

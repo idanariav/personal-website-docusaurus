@@ -1,24 +1,27 @@
 ---
 UUID: 20241011102101
 Created: '2024-10-11 10:21'
-Modified: '2026-04-11 22:24'
+Modified: '2026-07-07 09:24'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 4
-aliases:
-  - Meditation
+sketch-editor-plugin: parsed
+Version: 5
+Image: >-
+  [[Meditation strengthens focus and mindfulness through intentional
+  presence.png]]
+ImageText: >-
+  A person holding a lantern and getting blinded by it seeing a blurry heart, vs
+  a turned off lantern that makes the heart easier to see
 Description: >-
   A practice aimed at enhancing the mind-body connection through intentional
   mindfulness, promoting solitude, self-compassion, and mental clarity while
   recharging energy and reducing self-criticism.
-new_schema: true
 Topic:
   - '[[Peak States and Optimal Experience]]'
 Origin: null
 URL: null
+aliases:
+  - Meditation
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -26,7 +29,6 @@ SiteProcssed: true
 # Meditation
 
 ## Notes
-
 
 ### Claim
 
@@ -36,7 +38,7 @@ Meditation is a way to strengthen the [Physical states and actions unconsciously
 
 A session of [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md), where we try to quiet our mind and focus on our body, on our breath.
 
-### Why it matters
+### Why it Matters
 
 This helps silence the [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md), and cultivate [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md).
 
@@ -48,9 +50,8 @@ It is a method of [Rest enables recovery and sustained performance](/notes/rest-
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Meditation](/notes/meditation.webp)
+![Meditation strengthens focus and mindfulness through intentional presence](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.webp)

@@ -1,23 +1,22 @@
 ---
 UUID: 20240220081217
 Created: '2024-02-20 08:12'
-Modified: '2026-04-11 22:24'
+Modified: '2026-07-05 16:05'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases: null
+sketch-editor-plugin: parsed
+Version: 4
+Image: '[[Meaning is Crafted.png]]'
+ImageText: A binoculars with a red x vs a chisel with a green v
 Description: >-
   The concept that purpose in life is not innate but must be actively defined
   and cultivated through introspection and personal authenticity, acknowledging
   its potential evolution over time.
-new_schema: true
 Topic:
   - '[[Value and Meaning]]'
 Origin: null
 URL: null
+aliases: []
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -25,7 +24,6 @@ SiteProcssed: true
 # Meaning is Crafted
 
 ## Notes
-
 
 ### Claim
 
@@ -35,7 +33,7 @@ Meaning, or purpose to our lives is not something that we are born with, and eve
 
 Since we are our own unique person, we can't copy another's purpose [Surrendering agency to external forces destroys individual identity](/notes/surrendering-agency-to-external-forces-destroys-individual-identity.md). We have to dive deep [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md), find our [Passion is deep desire that sustains intrinsic motivation through difficulty](/notes/passion-is-deep-desire-that-sustains-intrinsic-motivation-through-difficulty.md), and cultivate our [authentic self](/notes/acting-in-alignment-with-your-values-is-authenticity.md).
 
-### Why it matters
+### Why it Matters
 
 Without it, we are simply [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md), unable to take control of the way our life is headed because we don't know where we are going.
 
@@ -45,10 +43,9 @@ Without it, we are simply [Facing unlimited options paralyzes decision and breed
 
 ### Opposers
 
-### Open questions
+### Open Questions
 
 It is okay to not be sure about your purpose even after you have decided it, since it can and probably will change over time [Identity persists across time through psychological continuity](/notes/identity-persists-across-time-through-psychological-continuity.md), and it is okay to include other's in our meaning of life, as long as they don't decide for us what that meaning will be [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md)
-
 
 ## Visual
 

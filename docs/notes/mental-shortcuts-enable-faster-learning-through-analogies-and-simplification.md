@@ -1,27 +1,26 @@
 ---
 UUID: 20230418184517
 Created: '2023-04-18 18:45'
-Modified: '2026-04-11 22:24'
+Modified: '2026-07-13 08:44'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
+sketch-editor-plugin: parsed
+Version: 4
 Image: null
-excalidraw-open-md: true
-Version: 3
-aliases:
-  - Mental Shortcuts
-  - Analogies
-  - Metaphors
+ImageText: ''
 Description: >-
   Techniques that facilitate quicker understanding and learning by leveraging
   existing knowledge through analogies, thereby reducing cognitive load and
   enhancing the mastery of new concepts.
-new_schema: true
 Topic:
   - '[[Working Memory and Cognitive Limits]]'
   - '[[Simplification and Categorization]]'
 Origin: null
 URL: null
+aliases:
+  - Mental Shortcuts
+  - Analogies
+  - Metaphors
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -29,7 +28,6 @@ SiteProcssed: true
 # Mental Shortcuts
 
 ## Notes
-
 
 ### Claim
 
@@ -41,7 +39,7 @@ Usually, this refers to analogies, that allows us to use what we've already lear
 
 Analogies relay somewhat on a type of [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md). We expose the similarities between two supposably unrelated fields by uncovering the similar mechanisms that drives them.
 
-### Why it matters
+### Why it Matters
 
 Mental shortcuts reduce the [Initial effort investments create friction preventing optimal behavior change](/notes/initial-effort-investments-create-friction-preventing-optimal-behavior-change.md) when learning something new because we leverage existing knowledge in our favor. It weakens the idea that [Learning should be hard](/notes/learning-should-be-hard.md), because if we had to relearn everything from scratch every time we would know very little because each learning session would be very taxing.
 
@@ -55,9 +53,8 @@ The more we expose ourselves to a [Range](/notes/breath-beats-depth.md) of diffe
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Mental Shortcuts](/notes/mental-shortcuts.webp)
+![Mental shortcuts enable faster learning through analogies and simplification](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.webp)
