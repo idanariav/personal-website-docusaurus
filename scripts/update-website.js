@@ -19,6 +19,9 @@ const imageSourceFolderBlacklist = ['inspirations', 'frameworks', 'incubation'];
 const destinationFolder = 'docs';
 const imageDestinationFolder = 'static';
 
+const isDryRun = process.argv.includes('--dry-run') || process.argv.includes('-n');
+let importedFilesCount = 0;
+
 // Mapping from source folder names to destination folder names
 const folderNameMapping = {
   'concepts': 'notes',
@@ -103,8 +106,13 @@ async function findAndCopyPublishedFiles() {
       if (!existingFileWithUUID) {
         const normalizedName = fileRename(originalFilename);
         const destFile = path.join(fullDestFolder, normalizedName);
-        await fse.copy(filePath, destFile);
-        console.log(`Copied new file: ${filePath} -> ${destFile}`);
+        importedFilesCount++;
+        if (isDryRun) {
+          console.log(`[dry-run] Would copy new file: ${filePath} -> ${destFile}`);
+        } else {
+          await fse.copy(filePath, destFile);
+          console.log(`Copied new file: ${filePath} -> ${destFile}`);
+        }
         continue;
       }
 
@@ -116,13 +124,17 @@ async function findAndCopyPublishedFiles() {
 
       // If new file is more recent, replace the existing one
       if (newModifiedDate > existingModifiedDate) {
-        fs.unlinkSync(existingFileWithUUID);
-        console.log(`Deleted outdated file: ${existingFileWithUUID}`);
-
         const normalizedName = fileRename(originalFilename);
         const destFile = path.join(fullDestFolder, normalizedName);
-        await fse.copy(filePath, destFile);
-        console.log(`Replaced with newer file: ${filePath} -> ${destFile}`);
+        importedFilesCount++;
+        if (isDryRun) {
+          console.log(`[dry-run] Would replace outdated file: ${existingFileWithUUID} -> ${destFile}`);
+        } else {
+          fs.unlinkSync(existingFileWithUUID);
+          console.log(`Deleted outdated file: ${existingFileWithUUID}`);
+          await fse.copy(filePath, destFile);
+          console.log(`Replaced with newer file: ${filePath} -> ${destFile}`);
+        }
       }
     }
   }
@@ -183,18 +195,28 @@ async function copyMissingImages() {
     if (!existingFile) {
       // File doesn't exist, copy it with the renamed filename
       const destImagePath = path.join(destFolder, renamedFilename);
-      await fse.copy(imagePath, destImagePath, { preserveTimestamps: true });
-      console.log(`Copied image: ${imagePath} -> ${destImagePath}`);
+      importedFilesCount++;
+      if (isDryRun) {
+        console.log(`[dry-run] Would copy image: ${imagePath} -> ${destImagePath}`);
+      } else {
+        await fse.copy(imagePath, destImagePath, { preserveTimestamps: true });
+        console.log(`Copied image: ${imagePath} -> ${destImagePath}`);
+      }
     } else {
       // File exists, compare modification times and sizes
       const existingPath = path.join(destFolder, existingFile);
       const destStats = await fse.stat(existingPath);
       if (sourceStats.mtime > destStats.mtime) {
         // Delete old file and copy new one with potentially different format
-        await fse.remove(existingPath);
         const destImagePath = path.join(destFolder, renamedFilename);
-        await fse.copy(imagePath, destImagePath, { preserveTimestamps: true });
-        console.log(`Updated image: ${imagePath} -> ${destImagePath}`);
+        importedFilesCount++;
+        if (isDryRun) {
+          console.log(`[dry-run] Would update image: ${imagePath} -> ${destImagePath}`);
+        } else {
+          await fse.remove(existingPath);
+          await fse.copy(imagePath, destImagePath, { preserveTimestamps: true });
+          console.log(`Updated image: ${imagePath} -> ${destImagePath}`);
+        }
       }
     }
   }
@@ -202,6 +224,11 @@ async function copyMissingImages() {
 
 findAndCopyPublishedFiles()
   .then(copyMissingImages)
+  .then(() => {
+    if (isDryRun) {
+      console.log(`\n[dry-run] ${importedFilesCount} file(s) would have been imported.`);
+    }
+  })
   .catch(err => {
     console.error('Error during processing:', err);
   });
