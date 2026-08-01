@@ -1,25 +1,26 @@
 ---
 UUID: 20230626191735
 Created: '2023-06-26 19:17'
-Modified: '2026-04-11 22:24'
+Modified: '2026-07-27 08:55'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases:
-  - Mirroring
-  - Mirror neurons
+sketch-editor-plugin: parsed
+Version: 4
+Image: >-
+  [[Mirroring copies others emotional states and body language to build
+  empathy.png]]
+ImageText: Two people standing in front of each other doing the exact same poses
 Description: >-
   A social phenomenon involving the activation of mirror neurons, enabling
   individuals to imitate and empathize with others' emotional states, fostering
   cooperation, shared learning, and communication.
-new_schema: true
 Topic:
   - '[[Active Listening and Empathy]]'
 Origin: null
 URL: null
+aliases:
+  - Mirroring
+  - Mirror neurons
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -28,14 +29,13 @@ SiteProcssed: true
 
 ## Notes
 
-
 ### Claim
 
 Mirroring is a social phenomenon that is triggered by mirror neurons that fire when we observe and [imitate](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md) another's emotional state. This is the biological reason for [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md), because, through the mirror neurons, we can sense the other's feelings. For example, when we see someone eat, we get hungry. Perhaps this is also the reason why [Human is a social being](/notes/human-is-a-social-being.md), because caring and looking at how others behave is embedded within us.
 
 ### Explanation
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -53,9 +53,8 @@ However, we don't mirror others equally. We tend to imitate less those who are f
 
 Since mirroring is mostly an automatic process (although we can also try to spark it), it can create unpleasant consequences such as [Herd Mentality](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md). The more we are the minority opinion, the more we are likely to abandon it to fit in with others. This assimilation is not fake; we come to believe what others believe as well.
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Mirroring](/notes/mirroring.webp)
+![Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.webp)

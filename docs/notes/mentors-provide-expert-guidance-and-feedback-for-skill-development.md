@@ -1,24 +1,20 @@
 ---
 UUID: 20240217074048
 Created: '2024-02-17 07:40'
-Modified: '2026-04-11 22:24'
+Modified: '2026-07-21 09:00'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases:
-  - Mentor
-Description: >-
-  A mentor is an experienced individual who provides tailored guidance and
-  feedback in a specific field, aiming to enhance the mentee's skills and
-  understanding without necessarily being a personal confidant.
-new_schema: true
+Version: 4
 Topic:
   - '[[Deliberate Practice and Skill Acquisition]]'
 Origin: null
 URL: null
+aliases:
+  - Mentor
+new_schema: true
+Drawings:
+  - >-
+    [[Mentors provide expert guidance and feedback for skill development
+    (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -26,7 +22,6 @@ SiteProcssed: true
 # Mentor
 
 ## Notes
-
 
 ### Claim
 
@@ -38,7 +33,7 @@ The advantage of a mentor is not only the expertise, but the ability to [distill
 
 A good mentor needs to have good [Mindsight is awareness of mental states in self and others](/notes/mindsight-is-awareness-of-mental-states-in-self-and-others.md), they need to know what it's like to be in your situation, in your shoes, so that they could tailor their teaching style and content to your needs. They are able to bridge over the [Once learned, knowledge makes it impossible to imagine its absence](/notes/once-learned-knowledge-makes-it-impossible-to-imagine-its-absence.md).
 
-### Why it matters
+### Why it Matters
 
 Note that a mentor is not necessarily someone who would be your [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md), they are not the person to come to when you just want to talk and vent. These are people dedicate to make you a better person, they are not your friends, they are like mechanics. For that reason, you know that you can [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) them, because they will not sugar coat the truth, they will not try to make you happy, they will do and say what needs to be done to make sure you stay on the right path.
 
@@ -48,9 +43,8 @@ Note that a mentor is not necessarily someone who would be your [Safe Base provi
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Mentor](/notes/mentor.webp)
+![Mentors provide expert guidance and feedback for skill development (sketch)](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development-sketch.webp)

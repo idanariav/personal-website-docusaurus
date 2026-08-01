@@ -1,24 +1,23 @@
 ---
 UUID: 20231223073425
 Created: '2023-12-23 07:34'
-Modified: '2026-04-11 22:24'
+Modified: '2026-07-21 09:13'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 4
-aliases:
-  - Micro-Management
+sketch-editor-plugin: parsed
+Version: 5
+Image: '[[Micro-management restricts autonomy and inhibits growth.png]]'
+ImageText: A hand controlling a person like a marionette
 Description: >-
   A supervisory approach characterized by excessive control and oversight,
   undermining individual decision-making, eroding trust, and ultimately reducing
   productivity and cooperation.
-new_schema: true
 Topic:
   - '[[Scaffolded Growth]]'
 Origin: '[[Creativity Inc (book)]]'
 URL: null
+aliases:
+  - Micro-Management
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -27,14 +26,13 @@ SiteProcssed: true
 
 ## Notes
 
-
 ### Claim
 
 Micro management is a form of over supervision and control, one that leaves no room for the individual to make decisions, the manager tracks and dictates every move.
 
 ### Explanation
 
-### Why it matters
+### Why it Matters
 
 This [removes](/notes/one-activity-displaces-another-when-pursued-excessively.md) [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md), increases [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) for both sides, and hurts productivity, which is ironically the opposite of what it tries to achieve [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md).
 
@@ -46,9 +44,8 @@ When we try to micro manage someone, we signal that we don't [Trust enables reli
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Micro-Management](/notes/micro-management.webp)
+![Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.webp)

@@ -1,25 +1,24 @@
 ---
 UUID: 20250227071927
 Created: '2025-02-27 07:19'
-Modified: '2026-04-11 22:24'
+Modified: '2026-07-26 22:18'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases:
-  - Mindsight
-  - Perspective taking
+sketch-editor-plugin: parsed
+Version: 4
+Image: '[[Mindsight is awareness of mental states in self and others.png]]'
+ImageText: Professor Xavier sitting in his chair activating his power
 Description: >-
   The ability to perceive and understand mental states, both in oneself and
   others, through empathy and clarity, allowing for an unbiased view of
   individual realities.
-new_schema: true
 Topic:
   - '[[Self-Knowledge and Metacognition]]'
 Origin: '[[Mindsight (book)]]'
 URL: null
+aliases:
+  - Mindsight
+  - Perspective taking
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -27,7 +26,6 @@ SiteProcssed: true
 # Mindsight
 
 ## Notes
-
 
 ### Claim
 
@@ -39,7 +37,7 @@ To have mindsight requires both [Empathy means understanding and acting on anoth
 
 It means to see people clearly, as they are, without biases or [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md), we can grasp that each person has their own version of reality, and we are able to switch between these realities with ease.
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -49,9 +47,8 @@ Mindsight is gained through [exprience](/notes/some-knowledge-requires-direct-ex
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![mindsight](/notes/mindsight.webp)
+![Mindsight is awareness of mental states in self and others](/notes/mindsight-is-awareness-of-mental-states-in-self-and-others.webp)

@@ -1,24 +1,23 @@
 ---
 UUID: 20230711165344
 Created: '2023-07-11 16:53'
-Modified: '2026-04-11 22:23'
+Modified: '2026-07-19 20:52'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases:
-  - Intuition
+sketch-editor-plugin: parsed
+Version: 4
+Image: '[[Intuition is trained expertise converted to automatic response.png]]'
+ImageText: A blindfolded person in front of a chess board
 Description: >-
   A refined, subconscious response derived from expertise, enabling efficient
   decision-making, but challenging to teach or improve due to lack of
   self-awareness and susceptibility to biases.
-new_schema: true
 Topic:
   - '[[Attribution Bias]]'
 Origin: null
 URL: null
+aliases:
+  - Intuition
+new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -33,7 +32,7 @@ Intuition can be conceived as the trained, refined version of [Instincts](/notes
 
 ### Explanation
 
-### Why it matters
+### Why it Matters
 
 One way of testing whether our intuition is based on expertise or whether it is full of holes is to [test](/notes/we-understand-less-than-we-think.md) it
 
@@ -51,9 +50,9 @@ Disadvantages:
 2. **Hard to improve** - Similarly, once we have automated something, it is very difficult to [rethink](/notes/rethinking-means-updating-beliefs-by-reconsidering-what-you-thought-you-knew.md) it and see how we could do it better. Perhaps once something as been automated, there's no going back. That's why they often say that it's easier to teach a novice than an expert, because a novice has no history of bad habits that we need to erase [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md)
 3. **Prone to biases** - Since we are not aware of our thinking process, we are much more prone to biases without much to do about it. Our [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) might lead us astray without having the capability of analyzing why and how to avoid it.
 
-### Open questions
+### Open Questions
 
 ## Visual
 
-![Intuition](/notes/intuition.webp)
+![Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.webp)
 
