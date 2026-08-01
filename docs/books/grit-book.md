@@ -102,11 +102,11 @@ This book got a lot of love but also a lot of hate. I think that it was misjudge
 
 ### Outline
 
-![Grit (book) 1 (sketch)](/notes/grit-book-1-sketch.webp)
+![Grit (book) 1 (sketch)](/sketches/grit-book-1-sketch.webp)
 
-![Grit (book) (sketch)](/notes/grit-book-sketch.webp)
+![Grit (book) (sketch)](/sketches/grit-book-sketch.webp)
 
-![grit (book) 2 (sketch)](/notes/grit-book-2-sketch.webp)
+![grit (book) 2 (sketch)](/sketches/grit-book-2-sketch.webp)
 
 ## Notes
 

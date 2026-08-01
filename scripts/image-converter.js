@@ -9,7 +9,8 @@ const folderPaths = [
     'static/notes',
     'static/posts',
     'static/blogs',
-    'static/frameworks'
+    'static/frameworks',
+    'static/sketches'
 ];
 const quality = 80;               // Adjust quality 0–100
 const skipExisting = false;        // If true, skip if .webp already exists

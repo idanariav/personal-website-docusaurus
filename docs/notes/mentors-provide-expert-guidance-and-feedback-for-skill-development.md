@@ -47,4 +47,4 @@ Note that a mentor is not necessarily someone who would be your [Safe Base provi
 
 ## Visual
 
-![Mentors provide expert guidance and feedback for skill development (sketch)](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development-sketch.webp)
+![Mentors provide expert guidance and feedback for skill development (sketch)](/sketches/mentors-provide-expert-guidance-and-feedback-for-skill-development-sketch.webp)
