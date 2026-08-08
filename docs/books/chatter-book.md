@@ -1,7 +1,7 @@
 ---
 UUID: 20230213065555
 Created: '2023-02-13 06:55'
-Modified: '2026-04-13 06:12'
+Modified: '2026-08-06 06:22'
 tags: []
 Author:
   - '[[Ethan Kross]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 6
 Pages: 272
 Rate: 3
 PublishDate: 2021-01-26T00:00:00.000Z
@@ -55,8 +55,8 @@ SiteProcssed: true
 	3. **Fake it till you make it** - Use placebos and rituals to get yourself "unstuck", to escape from the negative cycle you are in and start acting like the person you want to be, and with time you will become one.
 ### Relate
 
-⛓ *by following this method, what will happen? What is the goal of this book?
-*
+⛓ *by following this method, what will happen? What is the goal of this book?*
+our inner voice is our source of strength but also weakness. It fuels our motivation, goals, and creativity. But sometimes it can lead to stress and anxiety. To reduce those cases, we need to use cognitive distancing, rituals and constructive conversations to give us perspective and order.
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
 1. **Zoom out (cognitive distancing)** - habitually take a step back to see the big picture, recognize limits of your knowledge, consider future changes, and reframe stressful situations before getting lost in details.
@@ -73,7 +73,16 @@ SiteProcssed: true
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
-our inner voice is our source of strength but also weakness. It fuels our motivation, goals, and creativity. But sometimes it can lead to stress and anxiety. To reduce those cases, we need to use cognitive distancing, rituals and constructive conversations to give us perspective and order.
+1. **Metaphor** – Dreams are described as "zany flight simulators" that allow us to practice for future scenarios and threats in a safe environment. Supports: The inner voice is functional and aligns with our practical needs.
+2. **Scientific Finding** – One's mood is more accurately predicted by what they are thinking about than by their actual current activity. Supports: Happiness is an internal state rather than a byproduct of circumstances.
+3. **Psychological Concept** – Attempting to consciously analyze automatic, well-learned processes (e.g., while performing a task) creates a "dual task" jam that leads to impaired performance. Supports: Inner chatter disrupts physical actions when it shifts focus from automatic execution to conscious analysis.
+4. **Practical Technique** – Using one's own name creates emotional distance by shifting the perspective toward a third-person view. Supports: Cognitive distancing can be achieved easily without significant mental effort.
+5. **Environmental Analogy** – Nature is compared to "mental vitamins" that restore focus by drawing attention away from the self toward something external and immersive. Supports: We can structure our physical environment to reduce chatter from the outside in.
+6. **Cognitive Strategy** – Rituals occupy working memory with procedural steps, leaving little mental space for anxiety. Supports: Rituals help manage inner voices by directing attention away from stressors.
+7. **Social Dynamic** – Rehashing narratives with others often functions as an amplifier for distress rather than a solution, while simultaneously pushing supportive people away. Supports: Social sharing can exacerbate chatter when emotional needs outweigh cognitive problem-solving.
+8. **Definition of Wisdom** – Wisdom is characterized as recognizing the limits of one’s knowledge, acknowledging the varied contexts of life, and reconciling opposing perspectives. Supports: Effective mental reasoning requires distancing to see the "big picture."
+9. **Behavioral Effect** – Believing that a substance or behavior has healing properties (the placebo effect) can independently generate real outcomes, such as reduced pain or increased mental order. Supports: We can effectively manipulate our mental state by "tricking" our minds.
+10. **Scientific Finding** – Emotional pain is processed similarly to physical injury, and stress-related chatter can even influence genetic switches. Supports: Chatter is not merely a mental construct; it has tangible, negative physical consequences.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -93,7 +102,7 @@ He advices using placebos and rituals to calm our inner chatter. While it does s
 We all talk to ourselves, using introspection as a tool to find answers to the challenges we meet in life.
 However, sometimes we find an inner critic instead of support, and get stuck on an endless cycle of negative thought. [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md)
 
-**The answer, is not to avoid inner chatter, but rather to do it wisely.**
+**The answer, is not to avoid inner chatter, but rather to do it wisely.** [Engaging diffuses while avoidance escalates](/notes/engaging-diffuses-while-avoidance-escalates.md)
 
 :::note[Introduction]
 
@@ -129,7 +138,7 @@ Chatter can hurt us in several ways:
 1. **Disrupt our physical actions** - chatter draws attention away from our automatic processes, which turns them from automatic to separated high maintenance actions, which leads most likely to errors, like thinking about how to play the piano can only hurt vs just "let the fingers do their thing". [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md)
 2. **Isolate us** - whether by chattering about our positive image, or overwhelming others with our complaints, we just push people away. It intensifies our emotions so much that we are no longer able to see clearly the other side, empathize with them, so we ignore their viewpoint. [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md)
 
-Chatter can also lead to actual physical damage. Emotional and physical sensations are linked, meaning an emotional pain like being dumped is felt the same as actual pain in our body. Which means that the negative cycle of chatter can actually hurt us. Also, it can effect the way our genes interact which the world, meaning manipulate the effects of the environment on which genes are activates, to increases negative effects of stress, for example. [Genetic Switches](/notes/genetic-switches.md)
+Chatter can also lead to actual physical damage. Emotional and physical sensations are linked, meaning an emotional pain like being dumped is felt the same as actual pain in our body. [Emotional pain is felt the same as physical pain](/notes/emotional-pain-is-felt-the-same-as-physical-pain.md) Which means that the negative cycle of chatter can actually hurt us. Also, it can effect the way our genes interact which the world, meaning manipulate the effects of the environment on which genes are activates, to increases negative effects of stress, for example. [Genetic Switches](/notes/genetic-switches.md)
 
 :::note[When Talking to Ourselves Backfires]
 
@@ -164,7 +173,7 @@ However , [Separating actions from identity allows growth](/notes/separating-act
 However, there is a simple and easy tool that mimics cognitive distancing without costing much.
 **Address yourself by your name.**
 Instead of "why did I do it", ask "what did John did it".
-It will force your mind to look at yourself as a third person, thus creating distance.
+It will force your mind to look at yourself as a third person, thus creating distance. [talking in third person creates distance and improves compassion](/notes/talking-in-third-person-creates-distance-and-improves-compassion.md)
 
 :::note[When I Become You]
 
@@ -182,7 +191,7 @@ Even talking to others might not be the best solution for our chatter. In each s
 
 When we focus more on our emotional needs rather than our cognitive ones, instead of distancing by listening to an outsiders opinion, we get an amplifier for our chatter, a sort of a [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md).
 
-**the answer, therefore, is to combine "somehow" the emotional connection of a warm human, with the guidance of a wise teacher**. [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md) note however that it could backfire when the person you are talking to doesn't want your help, and didn't invite you to do so.
+**the answer, therefore, is to combine "somehow" the emotional connection of a warm human, with the guidance of a wise teacher**. [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md) note however that it could backfire when the person you are talking to doesn't want your help, and didn't invite you to do so. [Unsolicited help can backfire](/notes/unsolicited-help-can-backfire.md)
 
 :::note[The Power and Peril of Other People]
 

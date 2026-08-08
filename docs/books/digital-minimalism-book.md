@@ -1,7 +1,7 @@
 ---
 UUID: 20220901091016
 Created: '2022-09-01 09:10'
-Modified: '2026-04-13 06:12'
+Modified: '2026-08-08 06:16'
 tags: []
 Author:
   - '[[Cal Newport]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 4
 Pages: 302
 Rate: 3
 PublishDate: 2019-02-05T00:00:00.000Z
@@ -75,8 +75,16 @@ technology is a tool, it can be used for good or for bad/harmful purposes. and w
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
-
-any recommendation to board games is appreciated
+1. **Metaphor (Slot Machines)** – Apps and websites are designed to put “slot machines in our pockets” using intermittent positive reinforcement. Supports: The argument that digital addiction is a byproduct of engineered design rather than user laziness.
+2. **Historical Example (Henry David Thoreau)** – Thoreau calculated his essential needs to reduce his labor to one day a week, freeing the remaining time for rest and reflection. Supports: The necessity of thinking economically about the "cost" of technologies in terms of the minutes of our lives.
+3. **Case Study (The Amish)** – This community prioritizes acting intentionally about technology over the benefits of any specific tool they choose to abandon. Supports: The principle that aligning digital use with deep values is more important than the convenience of connectivity.
+4. **Conceptual Definition (Solitude)** – Solitude is described as a subjective mental state where the mind is free from input by other minds, rather than a specific physical environment like a cabin in the woods. Supports: The argument that solitude is a prerequisite for creative and original thought, and for regulating emotions.
+5. **Logical Premise (Evolutionary Mismatch)** – Technologies created in dorm rooms and incubators cannot successfully replace complex, rich social interactions to which humans have adapted over millennia. Supports: The claim that social media should function as a low-value logistical support for, not a replacement of, real-world connection.
+6. **Procedural Evidence (Digital Declutter)** – The 30-day "reset" process involves removing optional technologies, filling the resulting void with purposeful activities, and reintroducing tools only if they serve a deep value with strict, predefined rules. Supports: The argument that permanent behavioral change requires systemic elimination rather than small, easily subverted tips or tricks.
+7. **Scientific Reasoning (Social Brain Function)** – Humans are inherently social, and our brains are adapted to automatically perform "social thinking" during moments of cognitive downtime. Supports: The requirement for high-quality, face-to-face interaction over the superficiality of text-based "likes" or comments.
+8. **Economic Principle (Cumulative Cost of Clutter)** – The cumulative cost of nonessential digital tools often far outweighs the small, individual benefits they provide. Supports: The principle that minimalizing your digital toolset allows you to better serve your most important life goals.
+9. **Leisure Criteria** – High-quality leisure—which is essential for a successful transition away from digital overload—must be active, physical, and socially structured. Supports: The idea that you must replace the void left by digital distractions with high-quality activities to avoid failure.
+10. **Tactical Framework (Attention Resistance)** – Implementing "office hours" for communication, using "do not disturb" modes, and separating devices into specific purposes (leisure vs. productivity). Supports: The shift from passive, default technology consumption to actively regaining control of one's attention and autonomy.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -190,7 +198,7 @@ for example, a [Nature restores mental health and renews focus through immersive
 #### Don't Click "Like"
 we are social animals by default [Human is a social being](/notes/human-is-a-social-being.md), when uninterrupted, our brain "fires" regions that are related to social issues. this social need doesn't get fulfilled from social media, we need deep long conversation, that involve facial expressions, not the mere shallowness of text. [Every object is a representation of a flawless essence](/notes/every-object-is-a-representation-of-a-flawless-essence.md)
 thus, social media should be a supporter of real life social events, and not the replacement of communication. so:
-set up events using Facebook = good
+set up events using Facebook = good [social media is beneficial if it promotes face to face interaction](/notes/social-media-is-beneficial-if-it-promotes-face-to-face-interaction.md)
 have a chat/hit "like" or "comment" instead of calling/meeting = bad
 
 :::note[Don’t Click “Like”]
@@ -205,8 +213,8 @@ have a chat/hit "like" or "comment" instead of calling/meeting = bad
 
 
 #### Reclaim Leisure
-the transition (i.e decluttering your life) wont be successful unless you fill the time you previously spend doing digital things with other activities.
-the book recommends on doing high leisure activities, which are:
+the transition (i.e decluttering your life) wont be successful unless you fill the time you previously spend doing digital things with other activities. [Replacing removed habits sustains behavior change](/notes/replacing-removed-habits-sustains-behavior-change.md)
+the book recommends on doing high leisure activities, which are: [leisure](/notes/leisure.md)
 1. something active (do, instead of watch)
 2. something physical (such as a craft or a hobby)
 3. something social (such as sports or board games)

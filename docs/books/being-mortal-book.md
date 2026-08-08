@@ -1,7 +1,7 @@
 ---
 UUID: 20230729064033
 Created: '2023-07-29 06:40'
-Modified: '2026-04-13 06:12'
+Modified: '2026-08-05 21:30'
 tags: []
 Author:
   - '[[Atul Gawande]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 6
 Pages: 297
 Rate: 3
 PublishDate: 2014-10-07T00:00:00.000Z
@@ -61,6 +61,7 @@ Four things that are essential to our quality of life:
 ⛓ *Life lessons, action items*
 1. **Focus on quality** - When it is clear that the end is near and unavoidable, we should focus on quality of life, rather than prolonging it, since it is not only better for our quality of live, we might even live longer.
 2. **don't run from hard conversations** - at some point we have to ask ourselves what do we want out of life, what are our fears and hopes, and what is important for us given our limitations
+3. **Inner peace** - you and your loved ones will have an easier and better end of the story if you focus on what matters instead of pointless prolonging.
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
 1. **Hold regular end-of-life conversations** - habitually discuss preferences, fears, hopes, and trade-offs with patients/family rather than defaulting to “all-out” treatment.
@@ -76,8 +77,17 @@ Four things that are essential to our quality of life:
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-1. **Inner peace** - you and your loved ones will have an easier and better end of the story if you focus on what matters instead of pointless prolonging.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Conceptual Framework** – The identification of "Three Plagues"—boredom, loneliness, and helplessness—as the primary ailments of institutionalized nursing care. Supports: The argument that nursing homes often ignore the psychological and spiritual needs of residents.
+2. **Practical Intervention** – The introduction of plants, pets, and children into nursing home environments to stimulate residents. Supports: The claim that meaning is derived from having responsibility for living things.
+3. **Historical Evidence** – The origin of modern "nursing" homes was to clear out hospital beds, not to provide specialized care for the elderly. Supports: The argument that institutional systems prioritize administrative goals over patient well-being.
+4. **Survey Data** – Evidence showing that patients with serious illness prioritize avoiding suffering, maintaining relationships, and feeling mental clarity over simple longevity. Supports: The claim that medical professionals often misidentify the goals of the terminally ill.
+5. **Counter-Intuitive Finding** – The "Zen lesson" that patients who abandon toxic, life-prolonging treatments to focus on happiness and quality of life often live longer. Supports: The argument that excessive, all-out medical striving can be counterproductive.
+6. **Social Metaphor** – We have replaced the "old-timer" (whose wisdom we once valued) with Google. Supports: The claim that old age/infirmity has moved from a shared community responsibility to a private, medicalized state.
+7. **Strategic Reframing** – The geriatric approach of focusing on "falls" (a broad risk factor) rather than treating individual diseases in isolation. Supports: The argument that medicine should focus on the "whole" person rather than just mechanical repairs.
+8. **Psychological Insight** – How an individual's perception of "remaining time" dictates their behavior; as life shortens, focus shifts from "doing" to "being" and from the future to the present. Supports: The claim that the priorities of the elderly are fundamentally different from healthy, younger populations.
+9. **Conceptual Framework** – The "Two Kinds of Courage": the courage to confront the truth of mortality, and the courage to act on that truth. Supports: The argument that informed, difficult decision-making is necessary to avoid "a warehoused oblivion."
+10. **Organizational Critique** – The distinction between "means" (maintaining weight, avoiding bedsores) and "ends" (how to make life worth living). Supports: The claim that current medical institutions fail because they treat patients as a series of biological problems to be solved rather than human beings.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 1. **Clarity of mind** - how can one make tough decisions under pain, and with a severe knowledge gap from his doctor? Who can really say no to what his doctor is recommending him? Who can demand independence when knowing what a burden that will pose on your family.
@@ -146,7 +156,7 @@ For example, instead of looking at each disease separately, focus on the greates
 
 ### Chapter 3 - Dependence
 
-Nursing home as developed as an extension of hospitals, focused solely on "managing" the patients and their disability, seeing them as a means and not an end. **Nobody focuses on the hopes, preferences and wellbeing of the elderly in those places**.
+Nursing home as developed as an extension of hospitals, focused solely on "managing" the patients and their disability, seeing them as a means and not an end. [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md) **Nobody focuses on the hopes, preferences and wellbeing of the elderly in those places**.
 
 :::note[Quotes]
 
@@ -160,7 +170,7 @@ Nursing home as developed as an extension of hospitals, focused solely on "manag
 
 ### Chapter 4 - Assistance
 
-Although nursing homes are not a good solution, the alternative is not so easy as well. If a person stays with the family, the difficulties of combining both work and care while also perhaps being a parent yourself is simply overwhelming.
+Although nursing homes are not a good solution, the alternative is not so easy as well. If a person stays with the family, the difficulties of combining both work and care while also perhaps being a parent yourself is simply overwhelming. [Taking on too much overwhelms capacity and causes depletion](/notes/taking-on-too-much-overwhelms-capacity-and-causes-depletion.md)
 
 Even the family is having trouble with seeing the elderly as a person entitled to opinions and preferences, even if they are against his medical well-being.
 
@@ -217,7 +227,7 @@ doctors have to learn how to do the hard conversations, when it is clear that we
 
 Hard conversations are not enough, in order for them to be relevant and effective, we, as in the family and the patient, must have courage.
 
-By courage we mean to identify what are our fears and hopes, and not let it push us into decisions that are bad for us based on our true preferences.
+By courage we mean to identify what are our fears and hopes, and not let it push us into decisions that are bad for us based on our true preferences. [Courage means clarity about fears to protect true preferences](/notes/courage-means-clarity-about-fears-to-protect-true-preferences.md)
 To not let illusions of cure, or the end of pain blind us to what's really important, which is usually autonomy, meaning and social life.
 
 :::note[Quotes]

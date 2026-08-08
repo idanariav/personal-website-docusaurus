@@ -1,7 +1,7 @@
 ---
 UUID: 20250506085115
 Created: '2025-05-06 08:51'
-Modified: '2026-04-13 06:11'
+Modified: '2026-08-05 21:04'
 tags: []
 Author:
   - '[[Shannon Lee]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 7
 Pages: 233
 Rate: 3
 PublishDate: 2020-10-08T00:00:00.000Z
@@ -75,6 +75,16 @@ SiteProcssed: true
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Water Metaphor** – Water is inherently powerful because it does not resist, finds the path of least resistance, and adapts to fit any container. Supports: Living in harmony with natural processes and maintaining power through adaptability and flow.
+2. **The Tree Analogy** – A rigid tree breaks in a storm, while a soft tree bends and survives. Supports: Flexibility is a required response to the reality that life is constantly changing.
+3. **The "Empty Cup" Metaphor** – One must metaphorically empty their cup of past, future, and preconceived judgments to see reality clearly. Supports: Humility and the ability to learn require an open, unbiased, and present mind.
+4. **The Mirror Analogy** – Relationships function as a reflection of our internal state; outward conflict often mirrors our own internal unresolved issues or untreated behaviors. Supports: Improving relationships requires looking inward at one's own boundaries and projections rather than blaming others.
+5. **The "Yet" Technique** – Append the word "yet" to statements such as "I can't do it" to psychologically reframe limitation into potential. Supports: Optimism is a conscious choice that promotes growth and helps overcome setbacks.
+6. **Physical Symbols** – Using specific items like tattoos, written prayers, or mementos serves as a persistent anchor for the person one wishes to become. Supports: External physical manifestations help maintain commitment to personal identity and self-actualization.
+7. **Stepping Stones Metaphor** – Obstacles are neutral, functioning as either "stumbling blocks" or "stepping stones" depending on the individual's chosen reaction. Supports: One has the agency to choose whether failures or hardships lead to despair or growth.
+8. **The "Raising Hand" Comparison** – Reaching a state of "living void" is compared to the effortless act of raising one's hand; it is expertise that has become automatic. Supports: High-level mastery moves beyond over-thinking into intuitive, effortless action.
+9. **The Subtraction Principle** – Realizing one's potential is often a matter of removing ego, bias, and overthinking, rather than adding new skills. Supports: Improvement is achieved by clearing away internal barriers rather than accumulating knowledge.
+10. **The Rainstorm/Pit Metaphor** – Experiencing extreme suffering or depression is compared to being in a dark, deep pit where logic fails; one must trust their own capacity to move forward. Supports: Resilience during hardship is sustained by intrinsic motivation, agency, and the refusal to succumb to helplessness.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 The whole philosophy is to flow with life, to find a way, your way of achieving your goals, to be as flexible as water, but at many points Bruce Lee was so determined on a goal that it came at a high cost or risk, confronting others, which goes against that philosophy.
@@ -148,7 +158,7 @@ When we judge, we are not present, when our mind is filled with thoughts, we are
 
 These actions are [One activity displaces another when pursued excessively](/notes/one-activity-displaces-another-when-pursued-excessively.md) our ability to be aware.
 
-We're not trying to silence our mind, that only gives greater power to our thoughts, we simply have to notice them.
+We're not trying to silence our mind, that only gives greater power to our thoughts, we simply have to notice them [white elephant syndrome](/notes/white-elephant-syndrome.md).
 
 It doesn't mean we won't get angry, but we could become better at returning quickly to calmness, to let the emotions [inform](/notes/emotions-provide-decision-relevant-information-when-navigating-choices.md) you without being "sticky" in your being.
 
@@ -189,11 +199,11 @@ Learning is a never-ending process, as is self-improvement, so continue to explo
 
 We should avoid a [Competition](/notes/competitive-mindset-harms-wellbeing-by-focusing-on-opponents.md) mindset. In competition, we enter a "win" or "lose" mentality where we focus only on our opponent and on winning instead of ourselves. We focus on the drawbacks of others instead of self-improvement.
 
-If you must compete, compete with yourself. Be better than who you were yesterday. Your experience, your behavior, your strengths and weaknesses are the only thing that matters.
+If you must compete, compete with yourself [Compete with your past self, not others](/notes/compete-with-your-past-self-not-others.md). Be better than who you were yesterday. Your experience, your behavior, your strengths and weaknesses are the only thing that matters.
 
 Shame and [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md), whether internally or at others is not how we improve, we only need to pay attention, be curious, and non-judgmental, until we find the best path forward.
 
-Our relationships are a mirror of our behavior. Instead of [projecting](/notes/we-attribute-our-emotions-to-others-and-misread-theirs.md) blame onto others, or spiraling with crazy conspiracies on how everyone's out to get us, we can solve much of our problems by looking inwards. Have we set clear boundaries? Are we acting the way we don't want others to treat us? Do we have impossible standards that we are helplessly trying to enforce, or are we just ignoring the circumstances, like attributing malice where there's none [Avoid attributing malice when ignorance or circumstance explains action](/notes/avoid-attributing-malice-when-ignorance-or-circumstance-explains-action.md)
+Our relationships are a mirror of our behavior [How we treat others reflects how we treat ourselves](/notes/how-we-treat-others-reflects-how-we-treat-ourselves.md). Instead of [projecting](/notes/we-attribute-our-emotions-to-others-and-misread-theirs.md) blame onto others, or spiraling with crazy conspiracies on how everyone's out to get us, we can solve much of our problems by looking inwards. Have we set clear boundaries? Are we acting the way we don't want others to treat us? Do we have impossible standards that we are helplessly trying to enforce, or are we just ignoring the circumstances, like attributing malice where there's none [Avoid attributing malice when ignorance or circumstance explains action](/notes/avoid-attributing-malice-when-ignorance-or-circumstance-explains-action.md)
 
 Relationships are a back-and-forth movement, a reflection, a dance, a flow. By looking inward we understand ourselves better and learn to have clarity which allows us to flow with the energy we are given, instead of fighting back.
 
@@ -210,7 +220,7 @@ Relationships are a back-and-forth movement, a reflection, a dance, a flow. By l
 1. **Take aim** - find your [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md), write it down, memorize it, and review it daily. It should reenergize you every time you read it, it is a combination of what you want to achieve and why, a mission that resonates with your values. Make sure you make it [clear](/notes/clarity-is-achieved-through-definition-and-presentation.md), actionable and measurable
 2. **Take action**- goals are meaningless if we do nothing to pursue them. We must be [proactive](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md), to avoid [Too much information prevents decision-making](/notes/too-much-information-prevents-decision-making.md) and take action. We can [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md) just to get [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md), because momentum is all that matters. Keep going, keep doing, don't stop for nothing. Action will also lead to improvement [Practice beats talent](/notes/practice-beats-talent.md).
 3. **Affirm** - review daily your core values and the description of the person you wish to be. By affirming it, you can [reframe](/notes/how-we-describe-something-shapes-how-it-is-perceived.md) the experiences in your life in a new light, one that promotes you towards the person you wish to become. Like adding a "yet" when you say "I can't do it" [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md)
-4. **Be symbolic** - Create symbols that will remind you of the person you wish to become, which could be a memento, a tattoo, a printed prayer, a drawing, or whatever you like. It will cement the person you want to become and will help you maintain your commitment to becoming that person.
+4. **Be symbolic** - Create symbols that will remind you of the person you wish to become, which could be a memento, a tattoo, a printed prayer, a drawing, or whatever you like. It will cement the person you want to become and will help you maintain your commitment to becoming that person [Symbols reinforce commitment to a chosen identity](/notes/symbols-reinforce-commitment-to-a-chosen-identity.md).
 5. **Journal** - Write about your thoughts, your experiences, and your values. It will help you gain clarity [Journaling enables reflection and self-understanding through written documentation](/notes/journaling-enables-reflection-and-self-understanding-through-written-documentation.md).
 6. **Get physical** - do some form of [fitness](/notes/fitness.md). It will help you connect with your body, it is part of who you are, and if left ignored it will backfire. It is a way to bring harmony to oneself.
 
@@ -274,7 +284,7 @@ Becoming a void is usually a question of [subtraction](/notes/improvement-often-
 
 ### The way of Intercepting Fist
 
-Once we have achieved being a living void, it is time to develop the last stage. To maintain our [Oneness](/notes/unity-is-the-felt-sense-of-connection-with-others-and-the-world.md) with life, yet somehow, magically, imbue it with our being. To be our true self, nothing more, nothing less. There are no two identical copies in this world, you can't imitate your way into stage four, no system to adapt, it is about finding your way, embracing, and connecting yourself to life itself.
+Once we have achieved being a living void, it is time to develop the last stage. To maintain our [Oneness](/notes/unity-is-the-felt-sense-of-connection-with-others-and-the-world.md) with life, yet somehow, magically, imbue it with our being. To be our true self, nothing more, nothing less. There are no two identical copies in this world, you can't imitate your way into stage four, no system to adapt, it is about finding your way, embracing, and connecting yourself to life itself [Meaning is Crafted](/notes/meaning-is-crafted.md).
 
 In that place there's no worry or fear or pain, only life and action. The mind has no room for second-guessing or doubt. Only a sense of enthusiasm and aliveness [The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md)
 
@@ -308,12 +318,3 @@ Don't fall for [Deferring happiness to future goals creates present suffering](/
 :::
 
 
-## Cleanup
-- [x] fill note making
-- [x] add highlights
-- [x] add drawing
-- [x] review notes
-- [x] remove duplicate links (see query)
-- [x] edit with Grammarly
-- [ ] mark to publish
-- [ ] lint document

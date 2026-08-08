@@ -3,7 +3,7 @@ excalidraw-plugin: parsed
 tags: []
 UUID: 20230708064620
 Created: '2023-07-08 06:46'
-Modified: '2026-04-13 06:12'
+Modified: '2026-08-05 22:00'
 Author:
   - '[[Friedrich Nietzsche (philosopher)|Friedrich Nietzsche]]'
 Genre: Philosophy
@@ -13,7 +13,7 @@ Stored:
 ReadingStatus: Done
 Purchased: true
 Fiction: false
-Version: 2
+Version: 7
 Pages: 240
 Rate: 3
 PublishDate: 1886-01-01T00:00:00.000Z
@@ -62,11 +62,20 @@ SiteProcssed: true
 ⛓ *Life lessons, action items*
 1. **Be more scientific** - explore, hypothesis and test your beliefs, don't let your beliefs take control of you. Let truth guide you, and not bend truth to your beliefs. However, you must turn into a full skeptic, not standing by anything because it might be false. As long as you have an hypothesis, stand your ground until it is falsified.
 2. **Embrace struggles** - challenges are what helps us grow. We should seek difficulty rather than try to escape it. All of human ingenuity and resilience comes from overcoming struggles.
-
+3. **Ubermench** - a being beyond good and evil, immune to criticism and external influence, free from slave morality and forces trying to make you a smaller person. A person in control of himself, who sees truth as it is, and do what it takes to fulfill his will to power in brutal honesty.
 ### Critique
 
-✅ *by following this method, what will happen?*
-1. **Ubermench** - a being beyond good and evil, immune to criticism and external influence, free from slave morality and forces trying to make you a smaller person. A person in control of himself, who sees truth as it is, and do what it takes to fulfill his will to power in brutal honesty.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Psychological Breakdown** – Free will is not a simple unitary cause but a complex state consisting of a bodily sensation, a conscious thought, a commanding force, and an obeying force. Supports: The claim that free will is an internal, multi-part state of conflict rather than a singular agency.
+2. **Historical Metaphor** – Human civilization has progressed via a "ladder of religious cruelty": first sacrificing humans to God, then sacrificing our internal "animal" nature, and finally sacrificing God entirely. Supports: The argument that religious development is a destructive process of nihilism.
+3. **Biological Claim** – A living thing primarily exists to discharge its strength (the will to power), whereas self-preservation is merely an indirect, secondary result. Supports: The claim that the traditional definition—that life acts primarily out of a "will to live"—is a biological error.
+4. **Sociological Argument** – Every significant improvement in the human species has historically relied on an aristocratic society, assigned hierarchy, and the imposition of order. Supports: The argument that structural inequality and order are necessary conditions for human advancement.
+5. **Analytical Observation** – Most "conscious" philosophical thinking is merely an unconscious, post-hoc justification used to rationalize prejudices and instincts the philosopher already possessed. Supports: The claim that great philosophy is a personal confession rather than an objective search for truth.
+6. **Aphorism/Metaphor** – "Whoever fights monsters should see to it that in the process he does not become a monster. And when you look long into an abyss, the abyss also looks into you." Supports: The warning that the pursuit of profound or dangerous truths carries the risk of internal corruption.
+7. **Developmental Claim** – The "discipline of great suffering" is the only mechanism that has created all of humanity’s enhancements; comfort and well-being lead to stagnation. Supports: The argument that suffering is a necessary crucible for individual perfection and growth.
+8. **Sociological/Political Analysis** – Religions such as Christianity and Buddhism act as tools to preserve the "worst in humanity" by comforting the despairing and framing life as a sickness to be suppressed. Supports: The claim that these religions actively stifle human cultivation and vigor.
+9. **Conceptual Contrast** – To "live" is to desire, prefer, and want to be different, whereas "nature" is fixed and unmoving, making the goal of living "according to nature" a contradiction. Supports: The rejection of Stoicism and similar philosophies that advocate for living in accordance with natural processes.
+10. **Historical/Moral Analysis** – Master morality originated from the exercise of the will to power, while slave morality (centered on humility and compassion) originated as a necessary survival strategy for subjected peoples. Supports: The claim that moralities are defined by the survival needs and power dynamics of the groups that create them.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 1. **Free will is not conquest but deliberation** - He says that free will is self governance. It is the supremacy of the will on all the other desires, having one soul govern all else. I believe that true will is not to command, but to harmonize, to deliberate, understand and synthesis between our inner parts to come to a conclusion healthy and good to all. Because if you first yourself, no matter who wins, you will lose.
@@ -119,7 +128,7 @@ free will is made up of 4 things:
 
 We are all these parts together. When we will something, we are both the commanding force and the obeying one. We are fighting ourselves. We feel both the desire to enforce our will, and our resistance to it. [intrapersonal conflict](/notes/a-person-is-a-community.md) [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md).
 
-**He who manages to become the will**, to be "the one" who wills something, preforms that actions, and enjoys the process, i.e both the result and the fact that he has managed to overcome obstacles in fulfilling his will **is the ideal person**. as society is made of many people, a man is made up of many "souls", and those who manage to create a hierarchy where the one who "wills" is at the top, commanding all the other souls is an example of a successful society [Willpower is Limited](/notes/willpower-is-limited.md)
+**He who manages to become the will**, to be "the one" who wills something, preforms that actions, and enjoys the process, i.e both the result and the fact that he has managed to overcome obstacles in fulfilling his will **is the ideal person**. [Mastering and unifying one's inner drives makes one the ideal person](/notes/mastering-and-unifying-ones-inner-drives-makes-one-the-ideal-person.md) as society is made of many people, a man is made up of many "souls", and those who manage to create a hierarchy where the one who "wills" is at the top, commanding all the other souls is an example of a successful society [Willpower is Limited](/notes/willpower-is-limited.md)
 In contrast, we have the "*weak will*", which includes those who deny [Responsibility is binding yourself to outcomes and people you value](/notes/responsibility-is-binding-yourself-to-outcomes-and-people-you-value.md) for their actions, putting the [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md) as far away from them as possible, and also those who believe are in control, but rather are affected by the myths of today's culture. [Peer Pressure](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 
 :::note[Quote]
@@ -144,7 +153,7 @@ In contrast, we have the "*weak will*", which includes those who deny [Responsib
 
 ### Part 2 - the Free Spirit
 
-In Part 2 Nietzsche describes the qualifications of the true philosopher, whom he also calls the free spirit. "Independence is for the very few; it is a privilege of the strong," Nietzsche says. The [Truth](/notes/truth.md) at times can be harmful and even kill a person, thus **the strength of a person's spirit may be measured according to how much truth they can endure**. The philosopher needs hardness and cunning, while the mere scholar can afford the luxury of being gentle and good-natured. Moreover, profound spirits need masks, meaning they must be able to disguise themselves, since what they say and do is often distorted, misunderstood, and misinterpreted.
+In Part 2 Nietzsche describes the qualifications of the true philosopher, whom he also calls the free spirit. "Independence is for the very few; it is a privilege of the strong," Nietzsche says. The [Truth](/notes/truth.md) at times can be harmful and even kill a person, thus **the strength of a person's spirit may be measured according to how much truth they can endure**. [Strength of spirit is measured by truth endurance](/notes/strength-of-spirit-is-measured-by-truth-endurance.md) The philosopher needs hardness and cunning, while the mere scholar can afford the luxury of being gentle and good-natured. Moreover, profound spirits need masks, meaning they must be able to disguise themselves, since what they say and do is often distorted, misunderstood, and misinterpreted.
 
 To have a free spirit is to get rid of all detachments, of all [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md). Which could be other people, our nation, and even our values. [Human is a social being](/notes/human-is-a-social-being.md). completely contradicting Simone de Beauvoir's point of view. [Ethics of ambiguity (book)](/books/ethics-of-ambiguity-book.md) .
 Generosity can be turned into a vice, for example, since the free spirit must conserve himself. Today's free spirits guard their solitude and hope that the new philosophers who succeed them will be kindred souls.
@@ -198,7 +207,7 @@ The rise of democracy, communism and Christianity is the proof that we as people
 
 
 ### Part 6 - We Scholars
-The ideal scholar is nothing more than an instrument, not an end in himself. Such people are mirrors and passageways; they avoid taking a definitive stand on a subject because they are fragile and inauthentic. The scholar is a "sublime type of slave," but a slave nevertheless. **While a philosopher sets aside skepticism when necessary, the scholar doubts everything and turns to a jellyfish in the face of No or even an emphatic Yes. The skeptic suffers paralysis of the will**. The philosophers of the future will not be skeptics in this weak-willed sense. Rather, they will be able to say No and take things apart, know how to "handle a knife," and use critics and scholars as their instruments.
+The ideal scholar is nothing more than an instrument, not an end in himself. Such people are mirrors and passageways; they avoid taking a definitive stand on a subject because they are fragile and inauthentic. The scholar is a "sublime type of slave," but a slave nevertheless. **While a philosopher sets aside skepticism when necessary, the scholar doubts everything and turns to a jellyfish in the face of No or even an emphatic Yes. The skeptic suffers paralysis of the will**. [Excessive doubt paralyzes the will to act](/notes/excessive-doubt-paralyzes-the-will-to-act.md) The philosophers of the future will not be skeptics in this weak-willed sense. Rather, they will be able to say No and take things apart, know how to "handle a knife," and use critics and scholars as their instruments.
 
 Nietzsche says that genuine philosophers are commanders and legislators, and their will to truth is a will to power, meaning that they wish to impose their views on the world. Such philosophers will always find themselves in contradiction with the thinking of their own time period, in which they will appear as "disagreeable fools and dangerous question marks." **The philosopher holds as ideals a strong will and the ability to stand alone against the herd. Nietzsche calls such a person the "higher man." Such a human being is "beyond good and evil, the master of his virtues, he that is rich in will."**
 
@@ -211,11 +220,11 @@ Nietzsche says that genuine philosophers are commanders and legislators, and the
 
 ### Part 7 - Our Virtues
 
-Part 7 raises questions about what is generally thought to be good or virtuous. **Philosophies that measure the value of things in accordance with how much pleasure or pain they provide are misguided.** To want to "abolish suffering" is "insane," in Nietzsche's view. **The new philosopher would rather heighten suffering**; so-called "well-being" is not a noble goal, but rather makes man "ridiculous and contemptible." All improvements in human beings so far have been achieved through "the discipline of suffering." [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) **Through suffering the soul gathers strength**, along with other virtues, and "creature and creator are united," so that a person might fashion himself or herself according to their own preferential image. [Some systems grow stronger through disorder](/notes/some-systems-grow-stronger-through-disorder.md)
+Part 7 raises questions about what is generally thought to be good or virtuous. **Philosophies that measure the value of things in accordance with how much pleasure or pain they provide are misguided.** [Pleasure and pain are the only measures of good](/notes/pleasure-and-pain-are-the-only-measures-of-good.md) To want to "abolish suffering" is "insane," in Nietzsche's view. **The new philosopher would rather heighten suffering**; so-called "well-being" is not a noble goal, but rather makes man "ridiculous and contemptible." All improvements in human beings so far have been achieved through "the discipline of suffering." [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) **Through suffering the soul gathers strength**, along with other virtues, and "creature and creator are united," so that a person might fashion himself or herself according to their own preferential image. [Some systems grow stronger through disorder](/notes/some-systems-grow-stronger-through-disorder.md)
 
 Nietzsche means that suffering is the crucible in which human beings may create and perfect a self. In his view, those who simply wish to have a comfortable life are simply contemptible; **the philosopher or free spirit nobly pursues knowledge, even if that pursuit is accompanied by suffering**.
 
-Nietzsche says, honesty is a virtue from which free spirits—true philosophers—cannot escape. Therefore, he recommends that true philosophers perfect [Speaking truth about yourself and others enables authentic action](/notes/speaking-truth-about-yourself-and-others-enables-authentic-action.md), the only virtue left to them. Nietzsche admits that while learning changes a seeker, there is always something incorrigible in a human being that refuses education. One way to solve this problem is to find workarounds that people label "convictions." Later they might realize those convictions were only the first steps to self-knowledge, "signposts" pointing to the "problem" that is each individual person.
+Nietzsche says, honesty is a virtue from which free spirits—true philosophers—cannot escape. Therefore, he recommends that true philosophers perfect [Speaking truth about yourself and others enables authentic action](/notes/speaking-truth-about-yourself-and-others-enables-authentic-action.md), the only virtue left to them. Nietzsche admits that while learning changes a seeker, there is always something incorrigible in a human being that refuses education. [Learning adds new knowledge layers instead of replacing old understanding](/notes/learning-adds-new-knowledge-layers-instead-of-replacing-old-understanding.md) One way to solve this problem is to find workarounds that people label "convictions." Later they might realize those convictions were only the first steps to self-knowledge, "signposts" pointing to the "problem" that is each individual person.
 
 :::note[Quote]
 

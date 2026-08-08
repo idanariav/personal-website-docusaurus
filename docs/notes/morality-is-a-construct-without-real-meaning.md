@@ -1,24 +1,22 @@
 ---
 UUID: 20230903180427
 Created: '2023-09-03 18:04'
-Modified: '2026-04-11 22:24'
+Modified: '2026-08-02 16:24'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases:
-  - Nihilism
+Version: 4
 Description: >-
   A moral view asserting that morality does not exist, emphasizing that
   perceptions of good and bad are misleading and that life lacks intrinsic
   purpose or meaning.
-new_schema: true
 Topic:
   - '[[Moral Epistemology]]'
 Origin: null
 URL: null
+aliases:
+  - Nihilism
+new_schema: true
+Drawings:
+  - '[[Morality is a construct without real meaning (sketch)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -26,7 +24,6 @@ SiteProcssed: true
 # Nihilism
 
 ## Notes
-
 
 ### Claim
 
@@ -36,7 +33,7 @@ Nihilism is a moral view in which morality doesn't exist. Not to be confused wit
 
 The nihilist often doesn't have any [internal reasons](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) to act, since he knows that there is no meaning out there, no external reason can exist that pushes him to action, and that any [Moral reasons](/notes/good-action-requires-intention-aligned-with-values.md) is a fabrication that has no valid basis.
 
-### Why it matters
+### Why it Matters
 
 ### Examples
 
@@ -49,9 +46,8 @@ Nihilism is problematic due to:
 2. **It rejects usefulness** - Even if morality is a social construct, why does that entail that it's useless? Money is a social construct yet we won't say no to a suitcase of 1 million dollars just because "money has no intrinsic value" [Truth and goodness are defined by practical usefulness](/notes/truth-and-goodness-are-defined-by-practical-usefulness.md).
 3. **It turns us into objects** - without [Subjectivity](/notes/subjectivity.md), all that's left is [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md). Without a reason to fulfill our [The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md), we will forever be the same, doing nothing of meaning, just "surviving" without thriving, because any attempt to be more means that there is something worth pursuing [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md)
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Nihilism](/notes/nihilism.webp)
+![Morality is a construct without real meaning (sketch)](/sketches/morality-is-a-construct-without-real-meaning-sketch.webp)

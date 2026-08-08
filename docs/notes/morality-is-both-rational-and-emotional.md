@@ -1,24 +1,22 @@
 ---
 UUID: 20221104144847
 Created: '2022-11-04 14:48'
-Modified: '2026-04-11 22:24'
+Modified: '2026-08-04 09:17'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
-aliases: []
+Version: 4
 Description: >-
   The concept that ethical actions require both rational understanding and
   emotional engagement, emphasizing the necessity of integrating knowledge and
   feelings for true moral behavior.
-new_schema: true
 Topic:
   - '[[Moral Psychology]]'
   - '[[Self-Regulation and Change]]'
 Origin: '[[Behave (book)]]'
 URL: null
+aliases: []
+new_schema: true
+Drawings:
+  - '[[Morality is both rational and emotional (sketch)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -26,7 +24,6 @@ SiteProcssed: true
 # Morality is both Rational and Emotional
 
 ## Notes
-
 
 ### Claim
 
@@ -36,7 +33,7 @@ To act in a moral way requires us not only to *know* what is right, but also *fe
 
 This connects to [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md), where empathy alone is not necessarily what we want, since it could lead us to help those whose pain is most clear, not those most in need, or stop us from doing the right thing because we focus too much on the pain, and not on the solution [Morality must account for relationships and context](/notes/morality-must-account-for-relationships-and-context.md).
 
-### Why it matters
+### Why it Matters
 
 I believe that this supports the idea the morality has to stem from the person doing the action [Cultivating virtues creates a good moral character](/notes/cultivating-virtues-creates-a-good-moral-character.md), and can't be a premade list of rules [Deontology treats morality as duties and rights that transcend consequences](/notes/deontology-treats-morality-as-duties-and-rights-that-transcend-consequences.md). It has to come from a [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md), from a person who unites all of their sides into a single voice, reason and emotion working together.
 
@@ -48,9 +45,8 @@ For some, the fact that morality needs reason seems obvious, but less so for the
 
 ### Opposers
 
-### Open questions
-
+### Open Questions
 
 ## Visual
 
-![Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.webp)
+![Morality is both rational and emotional (sketch)](/sketches/morality-is-both-rational-and-emotional-sketch.webp)
