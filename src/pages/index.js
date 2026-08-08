@@ -32,7 +32,7 @@ function HomepageHero() {
     >
       <NewsletterForm variant="hero" />
       <div className={styles.finePrint}>
-        Join the journey. Starts with the <em>Five Quests for a Philosophical Life</em> guide.
+        Join the journey.
       </div>
     </PageHero>
   );
