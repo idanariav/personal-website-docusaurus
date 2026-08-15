@@ -14,7 +14,7 @@ const notesSourceFolders = [
 const imageSourceFolder = path.resolve(__dirname, '../../Obsidian_Vault/Scaffolding/Visuals');
 
 // Subfolders of imageSourceFolder to skip entirely when importing images
-const imageSourceFolderBlacklist = ['inspirations', 'frameworks', 'incubation'];
+const imageSourceFolderBlacklist = ['inspirations', 'frameworks', 'incubation', 'general'];
 
 const destinationFolder = 'docs';
 const imageDestinationFolder = 'static';
