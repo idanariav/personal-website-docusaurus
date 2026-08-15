@@ -1,7 +1,7 @@
 ---
 UUID: 20240101072222
 Created: '2024-01-01 07:22'
-Modified: '2026-04-13 06:13'
+Modified: '2026-08-08 15:23'
 tags: []
 Author:
   - '[[Michelle Icard]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 10
 Pages: 288
 Rate: 3
 PublishDate: 2023-08-22T00:00:00.000Z
@@ -57,7 +57,8 @@ SiteProcssed: true
 	3. **Evolve** - Help them grow stronger from it
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓*by following this method, what will happen?*
+More resilient, successful teens that can face failures
 
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
@@ -74,8 +75,17 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-More resilient, successful teens that can face failures
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Neuroscientific finding** – The adolescent brain shutters synapses and neurons used for learning when it perceives feedback as criticism. Supports: The claim that direct criticism is counter-productive because the teen brain physically shuts down to protect itself.
+2. **Developmental framework** – The four-stage "rite of passage" for growing up: (1) detach emotionally/physically, (2) handle a hardship alone, (3) identify lessons within the struggle, and (4) rejoin the community. Supports: The claim that growing up requires children to experience challenging situations independently.
+3. **Psychological law** – A "positive experience" is the singular factor capable of overriding the human tendency to quit when facing pain. Supports: The claim that failing is only beneficial if managed in a way that provides a positive outcome or lesson.
+4. **Performance observation** – Setting success benchmarks just beyond an adolescent’s reach does not inspire extra effort; it induces "sinking" or hopelessness. Supports: The claim that unrealistic expectations damage wellbeing and stifle progress.
+5. **Developmental consequences** – Denying children the opportunity to experience negative emotions and fix their own problems results in "incapable, insufferable adults." Supports: The claim that over-protection actually harms a child’s long-term development.
+6. **Redefined metric for success** – True success should be measured by personal fulfillment, developed competency in an interest, and community engagement rather than standard, measurable outcomes. Supports: The claim that parents should pivot focus away from arbitrary benchmarks like grades.
+7. **Causal relationship** – Children hide mistakes strictly because they lack the tools to handle the resulting complex emotions and fear judgment. Supports: The claim that non-judgmental support is a prerequisite for children to trust adults with their failures.
+8. **Empirical outcome on self-esteem** – Inspirational speeches are ineffective for building self-esteem; true tenacity is exclusively the product of direct experience and practice. Supports: The claim that confidence is built through action, not through pep talks.
+9. **Safety strategy** – Rigid "not under my roof" policies are counter-productive because they force risky behavior into secret locations where parents cannot provide guidance. Supports: The claim that allowing risks at home is safer than prohibiting them entirely.
+10. **Behavioral motivation** – Adolescents often break rules not from malice, but to secure peer acceptance and establish social community. Supports: The claim that rule-breaking should be viewed as a social search rather than a character flaw.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -133,7 +143,7 @@ The common types of failures and attitudes we might face:
 
 When parents expect too much of their children, they are not pushing them to rise up, but rather burn down [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) [Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md).
 
-However, over protection is also problematic [Moderation](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md). Failure is the only way to grow, so [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md). Also, we can't be naive, **we can't stop our kids from experiencing failure, so better to use early failures when they're still small and manageable** [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md). Experiencing failures without proper mindset or the support we parents can provide will only cause them to learn [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md). The only positive outcome from failure is if we manage to turn it into a positive experience.
+However, over protection is also problematic [Moderation](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md). Failure is the only way to grow, so [Avoiding rescue preserves others' opportunity to grow](/notes/avoiding-rescue-preserves-others-opportunity-to-grow.md). Also, we can't be naive, **we can't stop our kids from experiencing failure, so better to use early failures when they're still small and manageable** [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md). Experiencing failures without proper mindset or the support we parents can provide will only cause them to learn [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md). The only positive outcome from failure is if we manage to turn it into a positive experience [Failure only helps when reframed as positive](/notes/failure-only-helps-when-reframed-as-positive.md).
 
 We need to let go of [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md), they will surely fail or do it badly on their first attempts [First attempts are inherently lower quality than iterations](/notes/first-attempts-are-inherently-lower-quality-than-iterations.md), but if we don't allow them to do it badly, they won't reach the point where they do it well. Similarly, of course we want to protect our children, but in most cases safety is hardly at risk when we let them fail, most failures are not that dangerous or irreversible.
 
@@ -166,7 +176,7 @@ Our family and community benefits from having capable, responsible adults as it'
 
 #### Keeping Children Safe as They Take More Risks
 
-Kids have a tendency to take risks, but this tendency is indifferent to where those risks are taken. Therefore it would be much preferable if they would be done in your home with your guidance if needed, instead of letting them ve by themselves out there where the failures and risks are much greater. Therefore the worst thing we can do is to [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md), the "not under my roof" policy will only push them to do it somewhere else, where you couldn't help them. Its important to let your kids freedom and privacy.
+Kids have a tendency to take risks, but this tendency is indifferent to where those risks are taken. Therefore it would be much preferable if they would be done in your home with your guidance if needed, instead of letting them ve by themselves out there where the failures and risks are much greater [Front-load risk before costs compound](/notes/front-load-risk-before-costs-compound.md). Therefore the worst thing we can do is to [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md), the "not under my roof" policy will only push them to do it somewhere else, where you couldn't help them. Its important to let your kids freedom and privacy.
 
 Think of this as your kids bill of rights:
 1. Make mistakes and have opportunities to fix them - if we don't show them that making mistakes is normal, they will be ashamed and hide those.
@@ -227,9 +237,9 @@ To resolve a crisis, use this method:
 
 When kids develop from child to teen, they start to see the world from black and white to shades of gray. This moral grayness along with the desire for independence and figuring out who they were, can cause tension with family, society and general rules.
 
-**We prefer them arguing about rules rather than breaking them in secret**. As long as lines of communication are open, a resolution and understanding can be reached, while breaking in secrecy is a breach of trust.
+**We prefer them arguing about rules rather than breaking them in secret**. As long as lines of communication are open, a resolution and understanding can be reached, while breaking in secrecy is a breach of trust [Open disagreement preserves trust better than secrecy](/notes/open-disagreement-preserves-trust-better-than-secrecy.md).
 
-Remember that even if they break the rules, they don't necessarily want to harm, just be accepted by their peers.
+Remember that even if they break the rules, they don't necessarily want to harm, just be accepted by their peers [Misbehavior often seeks belonging not harm](/notes/misbehavior-often-seeks-belonging-not-harm.md).
 
 :::note[Failure to Follow the Rules: The Rebel]
 
@@ -241,11 +251,11 @@ Remember that even if they break the rules, they don't necessarily want to harm,
 
 #### Failure to Take Care of Their Body
 
-We can't protect our kids from everything, they will get hurt (emotionally and physically). So how they got hurt, why and how bad are all relevant questions. While grounding them after an incident could be helpful, make sure to make it short otherwise they will get hurt socially. Remember to include bonuses, other freedoms and validation of your care. Usually getting hurt physically is a salient message to the kids themselves to not repeat this behavior, but if it is repeated consider asking for professional help.
+We can't protect our kids from everything, they will get hurt (emotionally and physically). So how they got hurt, why and how bad are all relevant questions. While grounding them after an incident could be helpful, make sure to make it short otherwise they will get hurt socially. Remember to include bonuses, other freedoms and validation of your care. Usually getting hurt physically is a salient message to the kids themselves to not repeat this behavior [Natural consequences teach without punishment](/notes/natural-consequences-teach-without-punishment.md), but if it is repeated consider asking for professional help.
 
 #### Failure to Preform well in School
 
-School is hard, especially if we have learning disabilities. Sometimes it takes time for them to be discovered. Also kids start juggling between social and academic life which isn't simple at all. Remember that the important thing is for the child to flourish by their standards, not the absolute cold values of grades. To find their interests, their own benchmark.
+School is hard, especially if we have learning disabilities. Sometimes it takes time for them to be discovered. Also kids start juggling between social and academic life which isn't simple at all. Remember that the important thing is for the child to flourish by their standards, not the absolute cold values of grades [Success is measured by personal standards](/notes/success-is-measured-by-personal-standards.md). To find their interests, their own benchmark.
 
 #### Failure to Show Concern for Others
 
@@ -264,13 +274,13 @@ Adolescence is a time when friendships are formed and abandoned. It's a social e
 
 #### Failure to Handle Their Feelings
 
-Usually a depressed teen can't back away from what's making him sad. Even though it hurts them, they maintain the toxic connection. We have to be the ones who sever this connection, even if it causes them to resist. Other than that, we must embrace, accept them without judgment, while also approaching an expert if we feel it might be dangerous for them.
+Usually a depressed teen can't back away from what's making him sad. Even though it hurts them, they maintain the toxic connection [Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md). We have to be the ones who sever this connection, even if it causes them to resist. Other than that, we must embrace, accept them without judgment, while also approaching an expert if we feel it might be dangerous for them.
 
 Also, we should remember that there's a difference between us not being able to cope with how they feel, to them not being able to.
 
 #### Failure to Get along with Their Families
 
-Remember that teens are experiencing a huge power gap between you as parents and them. They want to be independent, but are still very limited in the choices they can make. Even when it's hard, even when they are insulting and causing conflicts, remember to validate who they are, show interest, and maintain their freedom. Criticism will only backfire and cause them to shut down and not grow. Be patient and compassionate, even when "you are right".
+Remember that teens are experiencing a huge power gap between you as parents and them. They want to be independent, but are still very limited in the choices they can make. Even when it's hard, even when they are insulting and causing conflicts, remember to validate who they are, show interest, and maintain their freedom. Criticism will only backfire and cause them to shut down and not grow [Criticism causes shutdown not growth](/notes/criticism-causes-shutdown-not-growth.md). Be patient and compassionate, even when "you are right".
 
 :::note[Failure to Get Along with Their Family: The Black Sheep]
 

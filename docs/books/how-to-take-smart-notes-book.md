@@ -3,8 +3,8 @@ excalidraw-plugin: parsed
 tags: []
 UUID: 20241001221939
 Created: '2024-10-01 22:19'
-Modified: '2026-04-13 06:14'
-Version: 2
+Modified: '2026-08-11 13:50'
+Version: 7
 PublishDate: 2022-03-11T00:00:00.000Z
 Pages: 190
 Author:
@@ -76,7 +76,16 @@ SiteProcssed: true
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
-Lumin with the help of his slip-box had managed to publish countless books and articles.
+1. **Telephone number chunking** – Analogy: Dividing a random string of numbers into sets makes them easier to memorize. Supports: Breaking complex information into smaller units to improve learning and mastery.
+2. **The Latticework** – Metaphor: Connecting notes establishes a frame for new information to be anchored. Supports: Improving memory retention by creating structural hooks for new facts.
+3. **Processor vs. Warehouse** – Metaphor: The mind functions as a processor of ideas rather than a warehouse for storage. Supports: The necessity of externalizing info to clear cognitive space.
+4. **The Zeigarnik Effect** – Scientific finding: Unfinished tasks linger in the mind and drain focus. Supports: Reducing cognitive resistance by completing small, manageable writing units.
+5. **Bottom-up organization** – Methodology: Allocating ideas by context (where you want to find the idea again) rather than top-down topic tagging. Supports: Building a knowledge system that remains resilient and relevant as it grows.
+6. **Virtuous feedback loop** – System dynamic: Processing ideas and writing them out provides immediate feedback on one's own level of understanding. Supports: Continuous cognitive improvement through iterative, active engagement.
+7. **Handwriting vs. typing** – Observation: Engaging with text by hand requires greater effort than typing. Supports: The principle that deep learning, understanding, and recall require "hard" effort.
+8. **The Planning Fallacy** – Empirical observation: First drafts are inherently lower quality, and tasks typically take longer than pre-estimated. Supports: Shifting focus from planning to doing to avoid writer's block.
+9. **System requirements** – Practical necessity: The collection of a slip-box, reference manager, text editor, and pen/paper. Supports: Using a standardized, reliable environment to reduce the need for willpower.
+10. **Brain-slipbox Co-evolution** – Concept: Productivity is derived from the dynamic interaction between the brain and the external repository. Supports: The idea that knowledge creation is an emergent property of the system, not an individual effort.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 Is there really no other way to have good knowledge management other than the slip box method? Something that someone has done once and had huge success is enough? (although Lumin is unheard of aside from the zettlkasten knowledge)
@@ -96,7 +105,7 @@ I remember how I waited to read this book when I just started diving into the pk
 
 ### Introduction
 
-We all write, because writing is not the end product of the process of thinking, rather it is an essential part of the process itself, **we think through writing**. The problem is that we assume that writing starts when we have chosen a topic and now face an empty note waiting to be filled.
+We all write, because writing is not the end product of the process of thinking, rather it is an essential part of the process itself, **we think through writing**. [Writing is how we think, not just its output](/notes/writing-is-how-we-think-not-just-its-output.md) The problem is that we assume that writing starts when we have chosen a topic and now face an empty note waiting to be filled.
 
 The truth is that good writing starts earlier in the preparation phase. It is all about [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md), by having a good system set in place, we can [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md), we can let go of the belief that all the content has to be constantly remembered and situated in our mind, and focus on writing. Therefore it is not our IQ that determines the quality of our work, but rather the systems we set up. A good system also reduces the need for [Self discipline](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) because it reduces [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) and creates a sense of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md), which is much more beneficial than relying on willpower because [Willpower is Limited](/notes/willpower-is-limited.md). They also reduce the threats of [Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md)
 
@@ -167,7 +176,7 @@ The slip box method require:
 
 ### A few things to keep in mind
 
-A tool is only useful if we proficient in it
+A tool is only useful if we proficient in it [Tools are only useful when we're proficient in them](/notes/tools-are-only-useful-when-were-proficient-in-them.md)
 
 ### The four underlying principle
 
@@ -178,7 +187,7 @@ Writing is the main tool of research, therefore it should be it's focus. Everyth
 #### Simplicity is paramount
 
 The advantage of a slip-box method is an emergent property, it gets better the more it grows, thanks to:
-1. **Bottom up approach** - Instead of trying to divide ideas into topics, which gets messy the more notes and topics we have, we arrange ideas by context, i.e "where would I want to encounter the idea next". A bottom up approach is much more resilient to size, and it allows for creation of new (and multiple) contexts as the knowledge grows.
+1. **Bottom up approach** - Instead of trying to divide ideas into topics, which gets messy the more notes and topics we have, we arrange ideas by context, i.e "where would I want to encounter the idea next". A bottom up approach is much more resilient to size, and it allows for creation of new (and multiple) contexts as the knowledge grows. [Organizing by context scales better than topic categorization](/notes/organizing-by-context-scales-better-than-topic-categorization.md)
 2. **Pruning** - If we keep every thought we ever had, it is going to get messy, and good ideas will be lost between all the [Noise obscures truth with external interference and confusion](/notes/noise-obscures-truth-with-external-interference-and-confusion.md). That's why it's important for us to have the "fleeting notes", a place where we only temporarily store ideas, and process them into permanent note if we see value in them. 
 
 Explore many different fields, not just the one you are currently interested in [Range](/notes/breath-beats-depth.md), because you don't know which notes/content will be the one who will give you the most insights [Most benefits come from a small proportion of inputs](/notes/most-benefits-come-from-a-small-proportion-of-inputs.md)
@@ -267,7 +276,7 @@ Learning is a form of [Deliberate Practice is the best way to develop skills](/n
 
 Writing turns the value of the slip box into a [Repeated actions yield exponentially increasing returns over time](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md) one. The more notes we have, the exponentially better the box is. Writing also improves our ability to understand ideas because it gives us both the space [Empty Space](/notes/every-system-needs-empty-space-to-function.md) and the distance [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md) needed to understand and think critically about complex ideas. Therefore we learn through writing.
 
-Another key aspect in learning is [Forgetfulness](/notes/forgetfulness.md), to remember everything is to be filled with noise, unable to detect the core message. Filtering out irrelevant information is key, but how can we know what is relevant and what is not? Our mind consider the information that has more cues to be more relevant, because it is more likely we will need it again someday. In the slip box method, more cues means more connections to other notes. That's why the value of an idea is mostly the amount of connections it has to other ideas.
+Another key aspect in learning is [Forgetfulness](/notes/forgetfulness.md), to remember everything is to be filled with noise, unable to detect the core message. Filtering out irrelevant information is key, but how can we know what is relevant and what is not? Our mind consider the information that has more cues to be more relevant, because it is more likely we will need it again someday. [The mind judges relevance by how many cues something has](/notes/the-mind-judges-relevance-by-how-many-cues-something-has.md) In the slip box method, more cues means more connections to other notes. That's why the value of an idea is mostly the amount of connections it has to other ideas. [An idea's value comes from its connections](/notes/an-ideas-value-comes-from-its-connections.md)
 
 #### develop ideas
 
@@ -275,7 +284,7 @@ Ideas starts from making connections, and that's why it is important to invest i
 
 Second, remember to invest in your note-to-note links, this helps you develop the external system and your internal knowledge simultaneously. By creating links we can detect patterns, which will be easier to remember. 
 
-Linking can also help you improve your [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md) because connecting ideas is the underlying concept of creativity. [creativity](/notes/knowledge-applied-across-contexts-enables-learning-generalization.md) requires abstract thinking, to reduce ideas to their core essence, separated from the context and method in which they were captured [Content is independent from the medium that transmits it](/notes/content-is-independent-from-the-medium-that-transmits-it.md), to compare, combine and test. Only simple ideas can be combined in such a way, that is the benefit of having a system that distill ideas to a simple concept, which can be later used as a basis for a more complex idea, built on top of many notes. 
+Linking can also help you improve your [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md) because connecting ideas is the underlying concept of creativity. [creativity](/notes/knowledge-applied-across-contexts-enables-learning-generalization.md) requires abstract thinking, to reduce ideas to their core essence, separated from the context and method in which they were captured [Content is independent from the medium that transmits it](/notes/content-is-independent-from-the-medium-that-transmits-it.md), to compare, combine and test. Only simple ideas can be combined in such a way, that is the benefit of having a system that distill ideas to a simple concept, which can be later used as a basis for a more complex idea, built on top of many notes. [Creativity is combining existing ideas in new ways](/notes/creativity-is-combining-existing-ideas-in-new-ways.md) 
 
 Another contributing factor for creativity is [standartization](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md), by having a clear and rigid structure to our notes, we first reduce the amount of [Decision points force re-evaluation or action by creating deliberate triggers](/notes/decision-points-force-re-evaluation-or-action-by-creating-deliberate-triggers.md) we make when writing, while also making it easier to add new content or use existing one because it is in the same format, like how languages have clear grammar rules that helps us communicate better with fewer words. 
 

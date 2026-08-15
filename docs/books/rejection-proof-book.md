@@ -1,7 +1,7 @@
 ---
 UUID: 20251021080451
 Created: '2025-10-21 08:04'
-Modified: '2026-04-13 06:17'
+Modified: '2026-08-13 07:24'
 tags: []
 FullTitle: >-
   Rejection Proof - How I Beat Fear and Became Invincible Through 100 Days of
@@ -23,13 +23,10 @@ Stored:
   - Epub
 ReadingStatus: Done
 ASIN: 080414138X
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-excalidraw-export-transparent: false
-excalidraw-open-md: true
+sketch-editor-plugin: ''
 Purchased: true
 Fiction: false
-Version: 2
+Version: 11
 Pages: 241
 Reread: 0
 Rate: 3
@@ -39,6 +36,11 @@ FinishDate: 2025-11-20T00:00:00.000Z
 Image: '[[Rejection Proof (book).png]]'
 Topic:
   - '[[Communication (Map)]]'
+aliases: ''
+excalidraw-plugin: parsed
+excalidraw-autoexport: png
+excalidraw-export-transparent: false
+excalidraw-open-md: true
 Origin: null
 draft: false
 SiteProcssed: true
@@ -76,7 +78,16 @@ You will no longer fear rejection, which will give you the courage to live more 
 ### Critique
 
 🧩 *relevant research, metaphors or examples that helps to convey the argument*
-Many of the famous works of art we know they that are almost unanimously acknowledged for their quality has been rejected by many publishers. Books such as Harry Potter, lord of the files.
+1. **The Wizard of Oz** – Metaphor. Rejection appears intimidating on the surface but is essentially harmless behind the curtain. Supports: The fear of rejection is frequently based on irrational magnification of the worst-case scenario.
+2. **Humor as an analgesic** – Scientific finding. Humor and laughter have been specifically linked to the reduction of pain and stress. Supports: Humor is a functional remedy for the sting of rejection, serving as a way to "brush off" the emotional pain.
+3. **The revenge trap** – Behavioral observation. Those who lash out or seek revenge after being rejected typically end up feeling worse than they did initially. Supports: Negative emotional responses to rejection are counterproductive and damaging to the self.
+4. **"Rejection has a number"** – Statistical analogy. With enough persistent attempts, the probability of obtaining a "yes" increases, as rejection is not a universal constant but a variable outcome. Supports: Success in the face of rejection is often a matter of persistence rather than personal failure.
+5. **Courage as a muscle** – Metaphor. Courage is a capacity that is not innate but gained, and it will atrophy if not regularly exercised. Supports: Maintaining the ability to navigate rejection requires consistent, ongoing practice.
+6. **The "Big Setup" failure** – Interpersonal observation. Using elaborate setups or "yes, but..." phrasing when delivering bad news is insincere and generally makes the rejection feel worse. Supports: Direct and honest communication is more effective and respectful than trying to cushion negative outcomes.
+7. **The power of "Why"** – Psychological observation. A request is significantly more likely to be met with compliance if the requester explains the logic or reasoning behind it. Supports: Providing context and intent helps align interests and reduces defensiveness.
+8. **Admitting the price** – Tactical observation. Proactively acknowledging that a request involves risk or is unusual puts the other person at ease by validating their perspective before they have to express doubt. Supports: Exposing potential flaws or costs in your request builds trust and openness.
+9. **The default of self-rejection** – Behavioral observation. Failing to ask for what you want essentially means you are rejecting yourself on behalf of others, leading to missed opportunities. Supports: The avoidance of rejection is often more harmful than the actual experience of it.
+10. **The "Ask Why" feedback loop** – Empirical tool. Inquiring about the reason for a refusal transforms a rejection into usable information for behavioral improvement. Supports: "No" is not an absolute end point, but rather a source of data that can be used to improve future attempts.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -96,7 +107,7 @@ It is a nice story, clearly inspired by the viral trend the author has created. 
 
 ### Meeting Rejection
 
-Many of us keep a pile of sacred dreams tucked away, afraid to let them out because we fear rejection. We surrender to [Peer Pressure](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md) and others' [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md), becoming our own worst rejectors. We deny our dreams before even giving them a chance.
+Many of us keep a pile of sacred dreams tucked away, afraid to let them out because we fear rejection. We surrender to [Peer Pressure](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md) and others' [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md), becoming our own worst rejectors. We deny our dreams before even giving them a chance [Self-rejection precedes external rejection](/notes/self-rejection-precedes-external-rejection.md).
 
 ### Fighting Rejection
 
@@ -106,7 +117,7 @@ However, when we muster the courage to ask for what we want, we often find that 
 
 The chance of hearing "yes" increases if you're [polite](/notes/polite.md), open, and friendly. People generally want to help those who seem genuine and nice.
 
-When you take the poison out of rejection, you see it's not that bad, and you might even hear "yes." This experience is a great boost for your confidence.
+When you take the poison out of rejection, you see it's not that bad, and you might even hear "yes." This experience is a great boost for your confidence [Successfully facing rejection builds confidence](/notes/successfully-facing-rejection-builds-confidence.md).
 
 :::note[Fighting Rejection]
 
@@ -123,11 +134,11 @@ Tasting victory can be exhilarating, but don't forget your purpose-what brought 
 
 ### Battling Evolution
 
-The fear of rejection is often stronger than a typical fear of [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md). It hurts more because it feels personal. We put our faith in others, and when they turn us down-perhaps choosing someone else-we can feel worthless, even if we did our best.
+The fear of rejection is often stronger than a typical fear of [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md). It hurts more because it feels personal. We put our faith in others, and when they turn us down-perhaps choosing someone else-we can feel worthless, even if we did our best [Rejecting an opportunity is not rejecting the person](/notes/rejecting-an-opportunity-is-not-rejecting-the-person.md).
 
-The pain of rejection can feel like physical pain, which may be an evolutionary remnant designed to keep us socially safe.
+The pain of rejection can feel like physical pain, which may be an evolutionary remnant designed to keep us socially safe [Emotional pain is felt the same as physical pain](/notes/emotional-pain-is-felt-the-same-as-physical-pain.md).
 
-It turns out [humor](/notes/humor.md) is a great remedy for this pain. It allows us to "brush off" the sting of being rejected, though it does little for the anticipation of pain and isn't always applicable. Rejection is like the Wizard of Oz: intimidating on the surface but harmless behind the curtain.
+It turns out [humor](/notes/humor.md) is a great remedy for this pain. It allows us to "brush off" the sting of being rejected, though it does little for the anticipation of pain and isn't always applicable. Rejection is like the Wizard of Oz: intimidating on the surface but harmless behind the curtain [Fears shrink when faced](/notes/fears-shrink-when-faced.md).
 
 :::note[Battling Evolution]
 
@@ -141,7 +152,7 @@ It turns out [humor](/notes/humor.md) is a great remedy for this pain. It allows
 
 Rejection is nothing more than an opinion. You can make the exact same request to several people and get a different response each time. It's not about absolutes; it's about finding the right [match](/notes/good-decisions-match-the-best-option-for-both-sides.md), which is partly influenced by [Randomness](/notes/randomness.md) and [Luck is external randomness affecting outcomes beyond control](/notes/luck-is-external-randomness-affecting-outcomes-beyond-control.md).
 
-This means that rejection "has a number." Given enough attempts, you'll likely find someone who will say yes. Don't be too harsh on yourself when they don't. You just have to survive the potentially many "no"s to get there.
+This means that rejection "has a number." Given enough attempts, you'll likely find someone who will say yes [Persistence increases odds of success](/notes/persistence-increases-odds-of-success.md). Don't be too harsh on yourself when they don't. You just have to survive the potentially many "no"s to get there. And you'll be surprised how rare rejection can be [Rejection is rarer than we fear](/notes/rejection-is-rarer-than-we-fear.md)
 
 :::note[Rethinking Rejection]
 
@@ -157,7 +168,7 @@ Hearing "no" isn't the end of the story; you can still gain something from the s
 1. **Ask why** - This helps you understand the reasons for their refusal, which can be valuable [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md).
 2. **Make a concession** - Adopt an "if you can't do this, can you do that?" mindset. Perhaps they can't accept your original request, but lowering the bar might get you a "yes." [consession](/notes/consession.md)
 3. **Think like a team** - Instead of arguing or pushing back, try to find [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md).
-4. **Connect with your "why"** - Explain the reasons behind your request. It is helpful to show how your request benefits the other person or a greater cause.
+4. **Connect with your "why"** - Explain the reasons behind your request. It is helpful to show how your request benefits the other person or a greater cause [Explaining reasoning increases understanding](/notes/explaining-reasoning-increases-understanding.md).
 5. **Acknowledge the price** - Be the first to admit that your request comes at a cost-perhaps it involves a risk or is unusual. This puts the other person at ease and shows that you understand their perspective. [Expose your flaws before others discover them](/notes/expose-your-flaws-before-others-discover-them.md)
 
 :::note[Taking a No]
@@ -189,7 +200,7 @@ When you have to turn someone down, follow these principles for a peaceful, resp
 1. **It's a matter of perspective** - Whether rejection has a good or bad impact on us is a matter of judgment. How we view the experience shapes it.
 2. **Use rejection as fuel.** Rejection can serve as powerful fuel for self-improvement. [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md)
 3. **Improve communication** - If your approach fails 100 times, perhaps the message is the problem. Treat rejection as feedback to improve what you say and how you say it.
-4. **It builds character** - At the very least, experiencing rejection is like exposure therapy. Going through hardship makes you more resilient for the future.
+4. **It builds character** - At the very least, experiencing rejection is like exposure therapy. Going through hardship makes you more resilient for the future [Struggle is an inevitable and necessary part of any meaningful growth or achievement](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md).
 
 :::note[Finding Upside]
 
@@ -201,7 +212,7 @@ When you have to turn someone down, follow these principles for a peaceful, resp
 
 ### Finding Meaning
 
-Rejection can cultivate [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md). Because pain is a universal experience, having suffered ourselves makes it easier to see and understand the pain of others. Similarly, it can help us find and stick with our [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md). If something is worth suffering for, it must be important.
+Rejection can cultivate [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md). Because pain is a universal experience, having suffered ourselves makes it easier to see and understand the pain of others. Similarly, it can help us find and stick with our [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md). If something is worth suffering for, it must be important [We wrongly equate effort with virtue](/notes/we-wrongly-equate-effort-with-virtue.md).
 
 :::note[Finding Meaning]
 

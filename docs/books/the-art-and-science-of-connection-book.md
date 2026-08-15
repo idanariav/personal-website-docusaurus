@@ -1,7 +1,7 @@
 ---
 UUID: 20251020060144
 Created: '2025-10-20 06:01'
-Modified: '2026-04-13 06:18'
+Modified: '2026-08-14 17:02'
 tags: []
 FullTitle: >-
   The Art and Science of Connection - Why Social Health Is the Missing Key to
@@ -30,7 +30,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 9
 Pages: 282
 Reread: 0
 Rate: 3
@@ -152,7 +152,7 @@ Research shows that strong social connections have several health benefits, incl
 4. A longer life expectancy.
 5. Greater happiness and life satisfaction.
 
-The impact of connection versus loneliness on our health is as significant as the effects of smoking or obesity.
+The impact of connection versus loneliness on our health is as significant as the effects of smoking or obesity [Strong social connections improve health](/notes/strong-social-connections-improve-health.md).
 
 Social health is inherently [positive](/notes/empowering-language-builds-confidence-and-agency.md). It's not about simply avoiding loneliness, but about thriving through meaningful relationships and finding purpose, rather than just preventing harm.
 
@@ -174,7 +174,7 @@ There are three steps to measuring the quality of your social health:
 	1. *Relationships* - who is your emergency contact? Who you can call to late at night? Who would you lean on in tough times? Who would you invite to an important party?
 	2. *Communities* - which groups are you a part of? Do you feel like you belong?
 	3. *Other connections* - god, pets, fictional characters
-2. **Measure their strength** - are your connections mutual? Do they feel close to you as you to them? Do both sides reciprocate support? Are the relationships strong? It's better to have quality over quantity.
+2. **Measure their strength** - are your connections mutual? Do they feel close to you as you to them? Do both sides reciprocate support? Are the relationships strong? It's better to have quality over quantity [Quality of connection matters more than quantity of time](/notes/quality-of-connection-matters-more-than-quantity-of-time.md).
 3. **Decide on a strategy** - it might vary with time, but the options are:
 	1. *Stretch* - if the quantity is lower than you'd like, try to meet new friends or join a group.
 	2. *Rest* - if the quantity is good, focus on maintaining the connections you have, or even scale back some.
@@ -183,7 +183,7 @@ There are three steps to measuring the quality of your social health:
 
 Remember that what's true for you is not necessarily what's true for others. Find the your social health sweet spot. For example introverts might thrive with a small group doing intimate activities, vs extroverts who prefer large events.
 
-Your social health, as physical health, requires constant maintenance, and will change over time, especially if not invested in.
+Your social health, as physical health, requires constant maintenance, and will change over time, especially if not invested in [Relationships require constant maintenance](/notes/relationships-require-constant-maintenance.md).
 
 :::note[Demystify Your Relationships]
 
@@ -232,7 +232,7 @@ There are blockers for social health, such as:
 
 Being social is important, but it's not easy. You have to take a risk and try to blend in with people you don't know yet. There is no other way to make friends. Try to find a common thread that will connect you, like a shared hobby.
 
-You also might get distracted or feeling that you just don't have the time to socialize [Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md). The more stressed we are, the less likely we would even think about investing time in socializing. Remember that social health is just as important as other goals in life, as it a key pillar for your wellbeing.
+You also might get distracted or feeling that you just don't have the time to socialize [Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md). The more stressed we are, the less likely we would even think about investing time in socializing [Stress reduces investment in relationships](/notes/stress-reduces-investment-in-relationships.md). Remember that social health is just as important as other goals in life, as it a key pillar for your wellbeing.
 
 Make do with the time you have. Don't have a full hour? Take 10 minutes to call someone. Also try to automate it as much as possible by turning it into a habit, like shared evening meals. It will help you maintain the activity without it being overrun by "urgency"
 
@@ -241,7 +241,7 @@ Make do with the time you have. Don't have a full hour? Take 10 minutes to call 
 Just like workouts, it takes time, but as time progresses you get better at it [We grow stronger by adapting to stress](/notes/we-grow-stronger-by-adapting-to-stress.md)
 There are methods for improving your social health:
 1. **Hobby groups** - find groups of like minded people that you will get easily comfortable with
-2. **Volunteering** - helping others is not only a good way to connect, it creates a deeper connection because both sides benefit from it (you both become happier).
+2. **Volunteering** - helping others is not only a good way to connect, it creates a deeper connection because both sides benefit from it (you both become happier) [Helping others benefits the helper too](/notes/helping-others-benefits-the-helper-too.md).
 3. **Deeper conversations** - be a good listener, ask better questions and show genuine interest in the other party
 4. **Be vulnerable** - share your pain, your struggles, your "true self", worts and all. [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md)
 5. **Express gratitude** - be sincere, make them feel appreciated.
@@ -293,7 +293,7 @@ Remember to take it easy and enjoy your experiments, and don't be too hard on yo
 
 Communities are the glue that connects us to others in a scalable way. Not just coworkers or childhood friends, but a network of people, of friendliness behavior that helps us feel welcomed and [Belong](/notes/inclusion-means-proactively-welcoming-and-believing-in-others.md).
 
-The key is to find the "third places" that serve as a natural gathering place, such as a library, a coffee shop, a park, and be there. Find your local community leaders who create social gatherings and follow their lead. Turning strangers into neighbours has a huge impact on your social health. [Community](/notes/community.md)
+The key is to find the "third places" that serve as a natural gathering place, such as a library, a coffee shop, a park, and be there [Third places anchor community connection](/notes/third-places-anchor-community-connection.md). Find your local community leaders who create social gatherings and follow their lead. Turning strangers into neighbours has a huge impact on your social health. [Community](/notes/community.md)
 
 #### Nurture Connections at Work and Online
 
@@ -307,7 +307,7 @@ It's important to remember that much of the work culture is dictated from above,
 
 You should decide whether this work culture is best for your social health.
 
-The rise of the internet and social media created many opportunities for Stretching and meeting new people, but we must be careful to not treat these friendships as real or as deep as real face to face friendships [Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md). Digital tools are great for creating the spark, but you must put the effort to keep it alive.
+The rise of the internet and social media created many opportunities for Stretching and meeting new people, but we must be careful to not treat these friendships as real or as deep as real face to face friendships [Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md). Digital tools are great for creating the spark, but you must put the effort to keep it alive [Digital tools ignite connection, effort sustains it](/notes/digital-tools-ignite-connection-effort-sustains-it.md).
 
 :::note[Nurture Connections at Work and Online]
 

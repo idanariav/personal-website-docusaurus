@@ -1,7 +1,7 @@
 ---
 UUID: 20260216214908
 Created: '2026-02-16 21:49'
-Modified: '2026-04-13 06:18'
+Modified: '2026-08-14 06:35'
 tags: []
 FullTitle: Success Is a Numbers Game - Achieve Bigger Goals by Changing the Odds
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 8
 Pages: 240
 Reread: 0
 Rate: 3
@@ -42,9 +42,11 @@ draft: false
 SiteProcssed: true
 ---
 
-# ✒️ Note-Making
+# Success is a numbers game
 
-## Clarify
+## Note-Making
+
+### Clarify
 🔈 *Summary of main ideas*
 1. **It's all about the odds** - each goal has a success rate. Your task is to increase it as much as possible
 2. **Don't believe base rates** - general statistics are too broad and abstract, they're not tailored for you
@@ -53,11 +55,11 @@ SiteProcssed: true
 5. **You can't guarantee success** - there's always a chance that something will go wrong. You have to accept that you might fail. All you can do is make it less likely.
 6. **Don't forget the basics** - sleep, nutrition, decision fatigue are all potential risks for bad decision making. Inversely - experimenting, starting small, and relying on others can boost your success rates.
 
-## Relate
+### Relate
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 More likely of achieving the goals we're pursuing
 
-## Act
+### Act
 📋*What should I do to achieve the goals set out by this book?*
 1. **Identify and address your weakest link** – determine which step in your process has the lowest likelihood of success and improve it first to increase overall odds.
 2. **Execute the most difficult step first** – front-load the milestone most likely to fail to "fail fast," which reduces the cost of errors and accelerates learning.
@@ -70,9 +72,19 @@ More likely of achieving the goals we're pursuing
 9. **Assess decision reversibility** – prioritize paths and decisions that are easy to correct or reverse over those that are permanent.
 10. **Start with small, manageable goals** – break down a large objective into smaller milestones to reduce resistance and build momentum through visible progress.
 
-## Critique
+### Critique
 
 🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Probability Multiplication Rule** – Mathematical principle stating that the overall success probability is the product of each required milestone. Supports: Accurately calculating success rates rather than estimating based on disconnected base rates.
+2. **The Weakest Link Principle** – Theoretical constraint asserting that max success probability is anchored to the most improbable prerequisite step. Supports: Prioritizing the most significant bottleneck before beginning a plan.
+3. **The 100% Probability Axiom** – Logical framework declaring that for any event, the sum of all possible success and failure outcomes equals 100%. Supports: The strategy that reducing the likelihood of failure automatically increases the likelihood of success.
+4. **The Inevitability Principle** – Statistical concept suggesting that given a sufficiently high number of attempts, even unlikely outcomes become nearly certain. Supports: Validating "playing the numbers" as a legitimate and effective strategy for success.
+5. **The Pre-Mortem Technique** – Thought experiment involving the systematic envisioning of every "Potential Bad Outcome" (PBO) before starting. Supports: Proactively identifying failure modes to minimize risk.
+6. **Biological Decision Pitfalls** – Physiological observations that internal states—specifically hunger, sleep deprivation, and decision fatigue—impair cognitive judgment. Supports: The necessity of managing physical health to prevent systematic, "stupid" errors.
+7. **The Failing Fast Strategy** – Logical method of reordering project steps to address the least likely or most difficult tasks first. Supports: Minimizing the sunk costs of failure and increasing learning speed.
+8. **Failure Repurposing Model** – Strategic framework that treats a failed attempt as data to be integrated into the next, superior iteration. Supports: Converting the loss of a round into an improved competitive position.
+9. **Reverse Probability Hacking** – Strategic concept centered on identifying and increasing the likelihood of failure for an opponent. Supports: The argument that creating "unfair" advantages is a valid and necessary part of success.
+10. **The Compounding Effect** – Principle observing that success creates returns that grow exponentially over time. Supports: The imperative to start, earn wins, and move toward goals as early as possible.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -84,7 +96,7 @@ These do not conflict with his theory, they might be described as an implementat
 
 The section about probability hacking at the percentages level is an exaggeration and unrealistic section of the book. It's very hard to accurately measure your chances, we are very bad at making predictions.
 
-## Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
@@ -92,19 +104,19 @@ This book takes a mathematical approach for achieving your goals, in a way that'
 
 It's borderline "too simplistic", but it's a useful tool in the toolbox to have.
 
-## Outline
+### Outline
 
 ![Success Is a Numbers Game (book)](/books/success-is-a-numbers-game-book.webp)
 
-# 📒 Notes
+## Notes
 
-## Introduction
+### Introduction
 
 In every aspect of our lives, there's a hidden [probability](/notes/probability.md) that affects our success rate.
 
 We don't have to settle for the chances we have, rather we can hack them in our favor [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md).
 
-## The Four Paths to Success
+### The Four Paths to Success
 
 The are four ways of being more successful:
 1. Increase of chance of winning
@@ -136,21 +148,21 @@ The better path - *probability hacking*. It is a manipulation of your success ra
 :::
 
 
-## Understanding Your Odds
+### Understanding Your Odds
 
 Even though estimating your own odds is prone to [biases](/notes/blindspots.md) such as [Conformation Bias](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md) and [Over confidence](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md), it is still better than looking at [base rates](/notes/base-rates.md), because these rates:
 
 1. **Might be biased too** - most sources of information contain distorted rates such as "one in a million"
 2. **Represent the average** - your chances to be in the NBA might be slim if you're an average height, but if you're very tall then it's very likely. Meaning these rates lack [Context](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md) [Regression towards the mean](/notes/regression-towards-the-mean.md)
-3. **They're strategy agnostic** - raw numbers often ignore "dumb" or inefficient choices people make that lower their chances
+3. **They're strategy agnostic** - raw numbers often ignore "dumb" or inefficient choices people make that lower their chances [Aggregated statistics hide individual variance](/notes/aggregated-statistics-hide-individual-variance.md)
 4. **They don't into account repeated attempts** - you might have low rates on your first try, but if you try again your rates go up
 
 When calculating your actual success rate, take into consideration:
 1. **Multiplication of all milestone probabilities** - if you need to things to happen to succeed, and each is 50% likely, your overall success rate is 25%
-2. **You're only as strong as your weakest chance** - your chances are by definition equal or lower to the step with the lowest likelihood. You'll want to improve this step first. Instead of working chronologically, try fulfilling this step first, this will allow you to "fail fast", reducing costs of errors and learning faster.
+2. **You're only as strong as your weakest chance** - your chances are by definition equal or lower to the step with the lowest likelihood. You'll want to improve this step first. Instead of working chronologically, try fulfilling this step first, this will allow you to "fail fast", reducing costs of errors and learning faster. [theory of constraints](/notes/theory-of-constraints.md)
 3. **More steps = lower chance** - every added step only lowers the overall odds. Pursue a path with less step.
 4. **Every completed step is a win** - every successful step improved your overall odds.
-5. **Small advantage goes a long way** - changing the lowest chance upwards can have drastic effects on your overall odds. If it's an area you have an advantage, you will be ahead.
+5. **Small advantage goes a long way** - changing the lowest chance upwards can have drastic effects on your overall odds. If it's an area you have an advantage, you will be ahead. [bottleneck](/notes/bottleneck.md)
 
 :::note[UNDERSTANDING YOUR ODDS]
 
@@ -167,7 +179,7 @@ When calculating your actual success rate, take into consideration:
 :::
 
 
-## How to Create a Success Diagram
+### How to Create a Success Diagram
 
 Success is "simple" - reduce the chance of a negative outcome. In probability, it always sum to 100%. If we reduce chance of failure, we increase chance of success. Change from someone who *can* succeed to someone who *should* succeed.
 
@@ -178,7 +190,7 @@ Success is "simple" - reduce the chance of a negative outcome. In probability, i
 
 Always look for a better way of doing things, like applying through a referral instead of blind applications. Also search for solutions that solve several issues at once.
 
-Having a good success diagram makes communication easier, whether you're asking for help or synchronizing your team. It also makes [Post-mortem](/notes/analyze-both-results-and-methods-to-improve.md) easier since you can pinpoint to the exact risk that failed you [Failure](/notes/failure-is-a-necessary-part-of-learning-and-growth.md)
+Having a good success diagram makes communication easier, whether you're asking for help or synchronizing your team [Clear plans make communication and coordination easier](/notes/clear-plans-make-communication-and-coordination-easier.md). It also makes [Post-mortem](/notes/analyze-both-results-and-methods-to-improve.md) easier since you can pinpoint to the exact risk that failed you [Failure](/notes/failure-is-a-necessary-part-of-learning-and-growth.md)
 
 :::note[HOW TO CREATE A SUCCESS DIAGRAM]
 
@@ -189,7 +201,7 @@ Having a good success diagram makes communication easier, whether you're asking 
 :::
 
 
-## Probability Hacking
+### Probability Hacking
 
 Same as the previous section, but now you try to estimate the probability of success for each critical point, which is the reminder of the total probability of *any* of the bad outcomes occuring [probabilistic thinking](/notes/probabilistic-thinking.md). For example if two bad outcomes are possible, one with 25% probability and the other with 40%, then the success rate of that step is 35%.
 
@@ -204,7 +216,7 @@ Also remember to update your prediction as reality changes around you. New input
 :::
 
 
-## Making Smarter Decisions
+### Making Smarter Decisions
 
 There are some conditions that push us towards "stupid mistakes", which can derail our entire process. These are:
 1. Being [hungry](/notes/hunger.md) - making decisions on an empty stomach makes you more [Present Bias](/notes/we-prefer-immediate-benefits-over-delayed-ones.md)
@@ -217,15 +229,15 @@ How to avoid these pitfalls:
 2. **Measure vs your goal** - For the top ranking options, measure how they affect your success diagram. What makes an option better is whether it brings you closer to fulfilling your goal
 3. **Choose the better path** - To do so, consider:
 	1. *The alternative* - [Every choice costs the alternatives you gave up](/notes/every-choice-costs-the-alternatives-you-gave-up.md), what are you losing by choosing each option
-	2. *The status quo* - is either option better than continuing with things as they are
-	3. *Going back* - are some decisions irreversible? Decisions that are easier to correct are better than irreversible ones.
+	2. *The status quo* - is either option better than continuing with things as they are [We prefer existing situations over alternatives despite better options](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md)
+	3. *Going back* - are some decisions irreversible? Decisions that are easier to correct are better than irreversible ones. [Decision weight depends on magnitude and reversibility](/notes/decision-weight-depends-on-magnitude-and-reversibility.md)
 	4. *The risk* - What are the risks you're imposing by choosing this option
 
 To make sure you've escaped your blindspots, be sure to [Zoom out](/notes/zooming-out-gains-perspective-through-mental-distance.md) and [Inverse](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md) your thinking, try to see what you normally miss.
 
-And remember that even good decisions can fail, that's how probability works. It doesn't make it a worse decision.
+And remember that even good decisions can fail, that's how probability works. It doesn't make it a worse decision. [Judge the process not the outcome](/notes/judge-the-process-not-the-outcome.md)
 
-## Quit only when it Makes Sense
+### Quit only when it Makes Sense
 
 We have a tendency to [quit](/notes/knowing-when-to-stop-prevents-wasted-persistence-on-misaligned-goals.md) after a failure, but it can actually be repurposed for increased chances of success. We can take what we've learned from the previous round to improve our chances in the next one.
 
@@ -248,7 +260,7 @@ Whatever you do, don't [burn the boats](/notes/by-burning-the-boats-you-leave-no
 :::
 
 
-## Unfair Advantages
+### Unfair Advantages
 
 There's no such thing as an unfair advantages. Within the realms of legal and moral restrictions, everything is legitimate to get to your success. Every tool, talent and wisdom at your disposal is something you can and should use to your advantage.
 
@@ -261,7 +273,7 @@ To maximize your [Competitive Advantage](/notes/finding-your-unique-strength-cre
 :::
 
 
-## Conclusion
+### Conclusion
 
 Success is not a matter of luck, trying again blindly, manifesting, wishful thinking and even not grit. It's all about hacking your success rate.
 

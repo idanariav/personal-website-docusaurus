@@ -1,12 +1,12 @@
 ---
 UUID: 20240115182435
 Created: '2024-01-15 18:24'
-Modified: '2026-06-10 07:20'
+Modified: '2026-08-10 11:58'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Instrumental value treats things as means rather than ends.png]]'
 ImageText: A dollar bill and a cardboard box
 Description: >-
@@ -46,7 +46,7 @@ This also implies that things without intrinsic value can have value in the eyes
 
 ### Examples
 
-For example, I can learn a degree not because I like the subject, but rather because I want to impress employers. So the "enjoyment of learning" is an [Content/Notes/intrinsic](/notes/content/notes/intrinsic.md) cause for desire, while "getting a job" is an instrumental one.
+For example, I can learn a degree not because I like the subject, but rather because I want to impress employers. So the "enjoyment of learning" is an [intrinsic](/notes/some-things-matter-for-what-they-are-not-what-they-do.md) cause for desire, while "getting a job" is an instrumental one.
 
 A person who just wants to get hired, would not have gone to learn a degree if he was offered a job instead, while for the person who loves to study this subject, there is no replacement.
 

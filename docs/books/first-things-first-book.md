@@ -1,7 +1,7 @@
 ---
 UUID: 20220704074258
 Created: '2022-07-04 07:42'
-Modified: '2026-04-13 06:13'
+Modified: '2026-08-10 22:17'
 tags: []
 Author:
   - '[[Stephen Covey]]'
@@ -19,7 +19,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 9
 Pages: 384
 Rate: 3
 PublishDate: 1995-01-01T00:00:00.000Z
@@ -56,7 +56,7 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen?*
 
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
@@ -73,7 +73,17 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Clock vs. Compass** – Metaphor. The clock tracks tasks and schedules, while the compass represents vision, principles, and internal direction. Supports: Leadership must precede management; one must prioritize asking "Am I doing the right things?" over "Am I doing things right?"
+2. **The "Big Rocks" Experiment** – Thought experiment. If you fill a container with sand and gravel (urgent, trivial tasks) first, the "big rocks" (important Quadrant II goals) will not fit. Supports: Essential priorities must be scheduled first to avoid chronic Quadrant I reactionary "firefighting."
+3. **Prevention vs. Treatment** – Analogy. Solving chronic issues requires a shift in thinking from "treatment" (fixing mistakes after they occur) to "prevention" (proactive planning). Supports: Moving time from Quadrant III/IV to Quadrant II reduces the necessity of reactive, urgent problem-solving.
+4. **Vision without Values** – Counter-example. Vision devoid of principled values can lead to negative, destructive outcomes, citing the example of Hitler. Supports: An empowering mission statement must integrate both principles of contribution (vision) and character (values).
+5. **The Splendid Torch** – Metaphor. Life is described as a torch meant to burn brightly before being handed to future generations. Supports: The spiritual need to leave a legacy is a fundamental human capacity that transforms needs into acts of contribution.
+6. **Growth vs. Installation** – Metaphor. High-quality organizational traits, like total quality or empowerment, cannot be "installed" as tools; they must be "grown" naturally from the basic paradigms of the individuals involved. Supports: Real change requires changing foundational paradigms, not just adopting new management techniques.
+7. **Viktor Frankl on Mission** – Expert anecdote/quoting. The idea that we do not invent our mission, but rather detect it. Supports: Our purpose is an inherent, unique capacity waiting to be realized, not something arbitrated by external expectations.
+8. **Nature’s Equilibrium** – Philosophical observation. The law of Cause and Effect is inexorable; we cannot escape the consequence of what we sow in our lives. Supports: Quality of life is achieved by aligning our behavior with universal "true north" principles rather than trying to circumvent reality.
+9. **The Stimulus-Response Gap** – Concept. Between the stimulus of an event and our response, there exists a space to exercise human agency and choice. Supports: We must proactively pause and choose responses based on internal principles rather than reacting mechanically to external pressures.
+10. **Sharpening the Saw** – Metaphor. An hour a day spent renewing oneself creates the "private victory" necessary to perform well. Supports: The P/PC (Production/Production Capability) balance is required to increase one's capacity to be effective over time.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -106,7 +116,7 @@ Sometimes the order of the chapters doesn't makes sense, like a collection of po
 
 1. **Wishlist** - a simple list of things I would like to do, no integrated process or full commitment. What I haven't finished today I'll do tomorrow. It gives flexibility on one hand but there are a lot of errors on the other hand. our "first thing" is simply what lies ahead of us in that moment
 2. **Calendar** - Filling up our calendar with tasks. We have improved efficiency and order but we have no sense of directions. The goal is to "tick" to tasks, productivity for the sake of task completion, without an end goal.
-3. **Prioritizing tasks** - our tasks are not only scheduled by also prioritized. Less urgent tasks are ignored or pushed back. There is not enough emphasis on choosing the right goals, on viewing people are people and not just machines, on developing the right virtues. Quality time over spending time. Trying to control the world by controlling their productivity.
+3. **Prioritizing tasks** - our tasks are not only scheduled by also prioritized. Less urgent tasks are ignored or pushed back. There is not enough emphasis on choosing the right goals, on viewing people are people and not just machines, on developing the right virtues. Quality time over spending time [Slowing down prioritizes quality over speed and enables reflection](/notes/slowing-down-prioritizes-quality-over-speed-and-enables-reflection.md). Trying to control the world by controlling their productivity.
 
 :::note[The Clock And The Compass]
 
@@ -158,14 +168,14 @@ Sometimes the order of the chapters doesn't makes sense, like a collection of po
 Our problem with time management is an issue of choosing the right paradigm. Naturally, paradigms are a way in which we view the world [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md). This dictates our approach towards time management and accordingly our actions.
 Therefore **a true change will not come from embracing a new method or tool, it must be a paradigm shift** [change starts from the inside out](/notes/change-starts-from-the-inside-out.md), especially **not looking at time and life as something we can completely control** [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md).
 
-The third paradigm is tempting, it promises success to those who fall in line, but in the end it creates disappointment since it doesn't match the true paradigms of reality.
+The third paradigm is tempting, it promises success to those who fall in line, but in the end it creates disappointment since it doesn't match the true paradigms of reality. [Disappointment is the gap between expectations and reality](/notes/disappointment-is-the-gap-between-expectations-and-reality.md)
 ### Important Vs Urgent
 
 we are addicted to the urgent, it gives us a false sense of meaning. [Eisenhower matrix](/notes/eisenhower-matrix.md)
 
 Usually our attention is drawn to 1 and 3, the urgent quadrants, and 4 (not important and not urgent) is our guilty pleasure, like watching TV, snacking, etc...
 instead **we should move time from 3 to 2. 2 is the long-term projects that will eventually improve our lives**, like goal planning, healthy lifestyle, financial habits, etc..
-Spending more time in 2 should have reduce the size of 1 as well, since less things would be urgent. Like taking preventive measures instead of facing the results after the fact.
+Spending more time in 2 should have reduce the size of 1 as well, since less things would be urgent. Like taking preventive measures instead of facing the results after the fact. [Handle problems while they are still small](/notes/handle-problems-while-they-are-still-small.md)
 
 ### Living according to Principles, not Methods
 
@@ -247,7 +257,7 @@ the goal of working in quadrant 2 is not so that you plan your time better, but 
 
 ### Your Personal Mission
 
-**Your vision should come from true things, not illusions, not others' expectations on want you can/should or shouldn't do. Find something that brings you true satisfaction in life.**
+**Your vision should come from true things, not illusions, not others' expectations on want you can/should or shouldn't do. Find something that brings you true satisfaction in life.** [Acting in alignment with your values is authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.md)
 
 A powerful personal goal is: [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md)
 1. representing the best and deepest part of my identify, a stable connection with my inner self
@@ -261,7 +271,7 @@ Goal settings has advantages as well as disadvantages.
 Disadvantages:
 1. it makes us abandoned the other parts of our life
 2. It causes despair if we don't succeed
-3. it causes a sense of emptiness if we do.
+3. it causes a sense of emptiness if we do. [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md)
 Advantages:
 1. goals give us motivation to improve and do more. [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md)
 
@@ -287,9 +297,9 @@ Our freedom of choice is between the stimulus and the response [Freedom of respo
 
 We have to take a pause and listen to our inner voice, see which decision matches our personal mission and values. Like virtue theory, the more we act with self awareness, the more we will have better habits for making better decisions, which will make the next good decision easier to make.
 
-What is true for the self is true for the way we interact with others. If we treat others as either an object, a distraction, or something to be used, we will miss the good in others. We should treat others as people since they are also moved and act by the same principles as us [Immanuel Kant](/notes/immanuel-kant-philosopher.md). **People are the source, the path, and the goal for fulfilling our inner mission so any role we will take will probably include others in it.** We owe others the quality of our live, since we benefit from their labor, creative thinking, and worldview that has brought change and welfare into our lives. [Human is a social being](/notes/human-is-a-social-being.md)
+What is true for the self is true for the way we interact with others. If we treat others as either an object, a distraction, or something to be used, we will miss the good in others. [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md) We should treat others as people since they are also moved and act by the same principles as us [Immanuel Kant](/notes/immanuel-kant-philosopher.md). **People are the source, the path, and the goal for fulfilling our inner mission so any role we will take will probably include others in it.** We owe others the quality of our live, since we benefit from their labor, creative thinking, and worldview that has brought change and welfare into our lives. [Human is a social being](/notes/human-is-a-social-being.md)
 
 to have better relations with others:
 1. look for the [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md), look for the synergy
-2. for try to understand, and only then to be understood
+2. for try to understand, and only then to be understood [Seek to understand before seeking to be understood](/notes/seek-to-understand-before-seeking-to-be-understood.md)
 

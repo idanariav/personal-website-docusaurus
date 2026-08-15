@@ -1,7 +1,7 @@
 ---
 UUID: 20250221172532
 Created: '2025-02-21 17:25'
-Modified: '2026-04-13 06:19'
+Modified: '2026-08-14 19:16'
 tags: []
 FullTitle: >-
   The Now Habit - A Strategic Program for Overcoming Procrastination and
@@ -28,7 +28,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 8
 Pages: 226
 Reread: 0
 Rate: 3
@@ -47,7 +47,7 @@ SiteProcssed: true
 
 # The Now Habit
 
-## ✒️ Note-Making
+## Note-Making
 
 ### Clarify
 🔈 *Summary of main ideas*
@@ -68,8 +68,16 @@ We will no longer procrastinate, and start make small yet meaningful progress at
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
-1. Walking on a high ledge - we procrastinate because it feels like walking on a high ledge, where fear makes us freeze. However, if we will have a safe net to fall on, mixed with the feeling that where we are is burning so we can't stay still, we will find the strength to move.
-2. Push and pull motivation - instead of using methods that "push" you towards doing something, find the reasons that will "pull" you towards it instead
+1. **Reverse Calendar** – Strategy: Mapping project deadlines backward to the present day to break tasks into tiny, manageable steps. Supports: Dismantling the fear of being overwhelmed by large, undefined projects.
+2. **Push vs. Pull Motivation** – Analogy: Contrasting "push" methods (using punishment to force compliance) with "pull" methods (triggering curiosity and intrinsic interest). Supports: The argument that external pressure is unsustainable and causes resistance, whereas intrinsic drivers foster better long-term engagement.
+3. **Linguistic Reframing ("I Choose")** – Psychological technique: Voluntarily replacing authoritative language like "I should" or "I must" with "I choose to." Supports: The claim that self-imposed authoritative commands create internal conflict and paralysis, whereas agency-focused language restores motivation.
+4. **10-Minute Urge Wait-Out** – Experimental technique: Sitting with an urge for distraction for ten minutes without acting on it. Supports: The observation that strong impulses are short-lived and usually subside if given small amounts of time to pass.
+5. **Weekly Time Log** – Data collection: A tracking method recording task, priority, time-taken, and emotional state. Supports: The need for empirical data to identify specific triggers, focus shifts, and environments that lead to procrastination.
+6. **Worry-to-Work Process** – Analytical tool: A series of diagnostic questions (e.g., "What is the worst that could happen?") used when feeling stressed. Supports: The argument that we can channel the energy of stress into actionable preparation rather than letting it manifest as paralysis.
+7. **Pre-mortem Planning** – Thought experiment: A proactive simulation used to anticipate future setbacks and failure points before they occur. Supports: The idea that anticipating problems reduces the fear of failure and allows for smoother progress.
+8. **The "Unschedule" Technique** – Structural method: Scheduling non-work commitments (sleep, meals, family, play) first to create fixed 30-minute work windows. Supports: The theory that guilt-free rest and play act as fuel for high-quality, focused work sessions.
+9. **Energy Split Metaphor** – Analogy: Visualizing the self-critical mind as an internal tug-of-war where one portion of the mind commands while the other resists. Supports: The claim that authoritative self-talk wastes cognitive resources by forcing the mind to focus on two conflicting problems simultaneously.
+10. **The Resilience Comparison** – Anecdote/Observation: Contrasting "The Failure," who lets one error define their worth, with successful individuals who fail repeatedly but bounce back. Supports: The argument that resilience—not perfection—is the critical differentiator in long-term productivity and growth.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 If we don't schedule work in advance, how are we sure that we will find time to do so? People can fill their schedule with "necessities" and leisure from morning to night. In the end, as he suggests that leisure should be a prize for working, we must schedule some work time
@@ -100,7 +108,7 @@ Common reasons could be:
 To reduce procrastination, we can use the "now habit", that will help us:
 1. create [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md)
 2. turn criticism into [Healthy self-talk prevents spiraling and builds resilience](/notes/healthy-self-talk-prevents-spiraling-and-builds-resilience.md)
-3. use old habits as triggers for new habits
+3. use old habits as triggers for new habits [Linking habits in sequence amplifies behavior adoption through habit stacking](/notes/linking-habits-in-sequence-amplifies-behavior-adoption-through-habit-stacking.md)
 4. schedule time for [Play](/notes/play.md) throughout your day
 5. effective use of [Time Blocking](/notes/time-blocking.md)
 6. think ahead of potential distractions and how to deal with them [Pre-mortem anticipates failure modes to enable preparation](/notes/pre-mortem-anticipates-failure-modes-to-enable-preparation.md)
@@ -128,11 +136,11 @@ six warnings sign that we procrastinate
 
 Procrastination is essentially a form of [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) from [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md). We try to forget, even for a brief time, that we have a tendency for [Actions and physical states unconsciously shape our beliefs](/notes/actions-and-physical-states-unconsciously-shape-our-beliefs.md), to associate our identity with our work, with what we do. We set unreasonable [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) from ourselves, which only leads to [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md) and self hate when we fail these impossible standards. We fear our own [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) and others, so we try to avoid it.
 
-All the "just do it" advices turn you into the problem, instead of looking at procrastination as a symptom of a more serious problem. If we believe that what we do is who we are, and criticism on our work is the same as criticism on our identity, then no wonders we turn to procrastination, [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md) and self criticism. It's a [Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) that feeds itself. We feel bad when we procrastinate, so we get more self criticism, which increases the urge to procrastinate.
+All the "just do it" advices turn you into the problem, instead of looking at procrastination as a symptom of a more serious problem [Treating symptoms and not root causes misses the point](/notes/treating-symptoms-and-not-root-causes-misses-the-point.md). If we believe that what we do is who we are, and criticism on our work is the same as criticism on our identity [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md), then no wonders we turn to procrastination, [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md) and self criticism. It's a [Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) that feeds itself. We feel bad when we procrastinate, so we get more self criticism, which increases the urge to procrastinate.
 
 Procrastination "helps" us by being:
 1. A way to indirectly resist pressure from authorities [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md)
-2. Lessens fear of failure by providing an excuse for disappointment
+2. Lessens fear of failure by providing an excuse for disappointment [Self-handicapping softens the blow of failure](/notes/self-handicapping-softens-the-blow-of-failure.md)
 3. Defense against the fear of success
 
 :::note[WHY WE PROCRASTINATE]
@@ -203,7 +211,7 @@ Having guilt free play should be part of our routine.
 
 There are two ways of motivating ourselves to do something, *push* and *pull*. Most of us use "push" methods, where we use [Punishment backfires by triggering resistance and perpetuating harm](/notes/punishment-backfires-by-triggering-resistance-and-perpetuating-harm.md) to force us to do something, which like [External motivation crowds out intrinsic drive and sustainability](/notes/external-motivation-crowds-out-intrinsic-drive-and-sustainability.md) fails to motivate us and usually backfires.
 
-However, "pull" methods spark our [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md), they trigger our [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) by creating a connection to the task, and not an external threat that forces us to do so. However, since most tasks are inherently boring, they can't compete with temptations, nor they could be a source for curiosity either. That's why we need to use [Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.md). By making room first for guilt free play, we trigger our creative thinking, and spark energy within us to do the boring task as well. Note that in contrast to common temptation bundling, the temptation comes first. It frees us from the desire to do something else during the boring task because we have already satiated our curiosity. We have played without guilt, without painting this creative flow either as a reward, or as a sin while working [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md)
+However, "pull" methods spark our [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md), they trigger our [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) by creating a connection to the task, and not an external threat that forces us to do so. However, since most tasks are inherently boring, they can't compete with temptations, nor they could be a source for curiosity either. That's why we need to use [Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.md). By making room first for guilt free play, we trigger our creative thinking, and spark energy within us to do the boring task as well. Note that in contrast to common temptation bundling, the temptation comes first. It frees us from the desire to do something else during the boring task because we have already satiated our curiosity [Satisfying temptation before a task frees focus for it](/notes/satisfying-temptation-before-a-task-frees-focus-for-it.md). We have played without guilt, without painting this creative flow either as a reward, or as a sin while working [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md)
 
 :::note[GUILT-FREE PLAY, QUALITY WORK]
 
@@ -220,7 +228,7 @@ Three main blocks to action:
 3. Fear of not finishing
 
 Each block has its own cure
-1. **The reverse calendar** - instead of looking at a project as a single huge task, break it down to manageable pieces. Start from the deadline, and then work back each tiny step and it's deadline until you reach the present
+1. **The reverse calendar** - instead of looking at a project as a single huge task, break it down to manageable pieces. Start from the deadline, and then work back each tiny step and it's deadline until you reach the present [Backward planning increases clarity](/notes/backward-planning-increases-clarity.md)
 2. **From worry to work** - to use the boost stress gives us to your advantage, whenever you feel stressed, ask yourself:
 	1. What is the worst that could happen
 	2. What will you do in that case?
@@ -228,7 +236,7 @@ Each block has its own cure
 	4. Which alternatives do I have?
 	5. Is there a way to avoid it?
 	6. Can I increase my chances of achieving my goal?
-3. **Persistent starting** - remind yourself that over preparation is a form of procrastination, that at first the progression rate is slower, and that we have to work with the time available to us, which means submitting before it's "perfect".
+3. **Persistent starting** - remind yourself that over preparation is a form of procrastination [Planning is anticipating the future and preparing action accordingly](/notes/planning-is-anticipating-the-future-and-preparing-action-accordingly.md), that at first the progression rate is slower, and that we have to work with the time available to us, which means submitting before it's "perfect".
 
 Be with [Confidence](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md) knowing that you thought about potential pitfalls, you kept yourself focused and motivated, certain you will try your best, yet won't fall into perfectionism.
 

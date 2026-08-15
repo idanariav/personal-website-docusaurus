@@ -1,7 +1,7 @@
 ---
 UUID: 20250428074432
 Created: '2025-04-28 07:44'
-Modified: '2026-04-13 06:19'
+Modified: '2026-08-14 17:13'
 tags: []
 FullTitle: 'The Great Mental Models, Volume 1 - General Thinking Concepts'
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 4
 Pages: 209
 Reread: 0
 Rate: 3
@@ -88,7 +88,7 @@ Since we can't know everything, and we won't have time to know everything, it is
 
 The more mental models in your toolkit, the more [Flexible](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md) you are, capable of adapting and combining multiple ways of looking and understanding reality, which makes you a better decision maker. You might even reach [Seeing reality without subjective bias reduces distortion](/notes/seeing-reality-without-subjective-bias-reduces-distortion.md), of seeing reality "as it is".
 
-Mental models are not true for every situation, nor are they permanent. They can and should be updated based on [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md). However, sometimes we are [too close](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) or our ego is too involved in something for us to see that it no longer works or needs updating. Instead of admitting our [mistakes](/notes/failure-is-a-necessary-part-of-learning-and-growth.md), we double down, try to prove the world we are right, only digging ourselves deeper, or are tempted by [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md). That's why [Self Reflection](/notes/introspection-develops-self-knowledge-through-internal-examination.md) is a critical part of the learning process.
+Mental models are not true for every situation, nor are they permanent [Mental models require constant updating](/notes/mental-models-require-constant-updating.md). They can and should be updated based on [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md). However, sometimes we are [too close](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) or our ego is too involved in something for us to see that it no longer works or needs updating. Instead of admitting our [mistakes](/notes/failure-is-a-necessary-part-of-learning-and-growth.md), we double down, try to prove the world we are right, only digging ourselves deeper, or are tempted by [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md). That's why [Self Reflection](/notes/introspection-develops-self-knowledge-through-internal-examination.md) is a critical part of the learning process.
 
 Sometimes we lack the [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md) necessary to do so, especially if we are distanced from the results of our decisions.
 
@@ -200,7 +200,7 @@ Other problems with thinking about probabilities are:
 
 Simplicity is a tie-breaker in explanations, and the simpler answer is more likely to be true because it has fewer assumptions and conditions that might be false, or difficult to achieve. [occam's razor](/notes/occams-razor.md)
 
-This is a tendency, not a rule, and it is useful only in areas where the issue can be simplified. Complex systems won't have a simple solution, or it will not work.
+This is a tendency, not a rule, and it is useful only in areas where the issue can be simplified. Complex systems won't have a simple solution, or it will not work [Problems differ in complexity and repeatability of solution](/notes/problems-differ-in-complexity-and-repeatability-of-solution.md).
 
 ### Hanlon's Razor
 

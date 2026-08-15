@@ -1,8 +1,8 @@
 ---
 UUID: 20221014115702
 Created: '2022-10-14 11:57'
-Modified: '2026-04-11 22:28'
-Version: 2
+Modified: '2026-08-10 11:52'
+Version: 3
 tags: []
 aliases:
   - Overfitting
@@ -48,7 +48,7 @@ Second of all, we need to notice the trend, and give weights to the history, and
 
 ### Examples
 
-Overfitting is not limited to machine learning but also in real life. For example the [Goodhart's Law](/notes/goodharts-law.md) could be a result of overfitting. When we focus on the measure we fail to succeed in implementing our knowledge. For example, when we study for a test by repeating previous test questions, while failing when we would encounter new sets of questions.
+Overfitting is not limited to machine learning but also in real life. For example the [Goodhart's Law](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md) could be a result of overfitting. When we focus on the measure we fail to succeed in implementing our knowledge. For example, when we study for a test by repeating previous test questions, while failing when we would encounter new sets of questions.
 
 ### Supporters
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20230228064606
 Created: '2023-02-28 06:46'
-Modified: '2026-04-13 06:16'
+Modified: '2026-08-13 06:33'
 tags: []
 FullTitle: Quiet - The Power of Introverts in a World That Can't Stop Talking
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 5
 Pages: 333
 Reread: 0
 Rate: 3
@@ -55,7 +55,8 @@ SiteProcssed: true
 3. **Slow and steady wins the race** - While they are not the most persuasive or fast, introverts tend to make better leaders and decision makers because they listen more, and reflect more on the decisions they make, and less prone to distractions, gratification, and biases.
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen?*
+It is heartwarming to find a definition that I am really comfortable with, and to understand that its not that introverts are apathic, but rather the opposite! they are more sensitive to the environment which causes them to avoid over stimulations.
 
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
@@ -72,8 +73,17 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-It is heartwarming to find a definition that I am really comfortable with, and to understand that its not that introverts are apathic, but rather the opposite! they are more sensitive to the environment which causes them to avoid over stimulations.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Multitasking Cost** – Statistic. Multitasking reduces productivity and increases mistakes by up to 50% because the brain is incapable of paying attention to two things at once. Supports: The necessity of focused, uninterrupted individual work over group multitasking.
+2. **The Failure of Brainstorming** – Analytical Theory. Group brainstorming fails due to social loafing, production blocking, and evaluation apprehension. Supports: The argument that forced collaboration can hinder rather than help creativity.
+3. **The Orchid Hypothesis** – Scientific Hypothesis. Highly reactive children are disproportionately sensitive to their upbringing, producing either exceptionally positive or negative outcomes based on parental support. Supports: The concept that introversion is a manifestation of high temperament, which is shaped significantly by nurture.
+4. **Workplace Sovereignty** – Research Finding. Top performers are overwhelmingly found in companies that provide employees with the most privacy, personal space, and control over their environment. Supports: The idea that minimizing distraction is essential for peak performance.
+5. **The Salesman Shift** – Historical Example. The Industrial Revolution prompted a societal pivot from valuing "Character" (craftsmanship) to "Personality" (the "mighty likeable fellow" salesman). Supports: The argument that the "Extrovert Ideal" is a cultural construct rather than an objective necessity.
+6. **Reward Sensitivity** – Comparative Analysis. Extroverts are highly reward-sensitive, while introverts are better at attending to warning signals and regulating excitement, which helps avoid impulsive risks. Supports: The idea that introverts make sounder long-term decisions by delaying gratification.
+7. **Cultural Variance** – Observational Study. Western cultures value boldness and verbal skill, while Asian cultures prioritize quiet, humility, and group cohesion. Supports: The argument that personality traits are perceived differently based on societal values.
+8. **Leadership Performance** – Research Finding. Introverted leaders are uniquely skilled at managing initiative-takers, often outperforming "charismatic" leaders in institutional growth. Supports: The claim that introverted leadership styles are often more effective than the "strong" extrovert archetype.
+9. **Situational "Free Traits"** – Behavioral Principle. Introverts are capable of acting extroverted when performing work they consider important or acting for people they love. Supports: The flexibility of personality and the efficacy of "acting" in specific contexts.
+10. **Child-Rearing Tactics** – Actionable Examples. Teaching children to smile, stand straight, and make eye contact can help them navigate social discomfort. Supports: The method of gradual exposure as a way to cultivate, rather than "cure," an introverted child.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 what I don't like about this book is that its "hard to read", the topic and content of each chapter is unclear. There are more examples than actual content, and its unclear what is the purpose of those examples, just showing that there are sensitive introverts in the world? in the end you get almost nothing, mostly the bottom lines that you already heard in the intro, covered by a lot of personal or anecdotical stories about famous people that are supposed to convince you.
@@ -143,9 +153,9 @@ cooperation can be harmful in several ways:
 
 ### IS TEMPERAMENT DESTINY? Nature, Nurture, and the Orchid Hypothesis
 
-research suggests that **introverts are actually children who had high-temprament, meaning reacted more strongly to external stimulation and social situations**. Since they bear a higher cost in those situations, they tend to shy away from those when they grow up. Meaning **it's not that they care less, its the opposite, its just that its very difficult for them to mitigate their internal emotional state in those occasions.** [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md)
+research suggests that **introverts are actually children who had high-temprament, meaning reacted more strongly to external stimulation and social situations**. [Introversion stems from heightened sensitivity to stimulation](/notes/introversion-stems-from-heightened-sensitivity-to-stimulation.md) Since they bear a higher cost in those situations, they tend to shy away from those when they grow up. Meaning **it's not that they care less, its the opposite, its just that its very difficult for them to mitigate their internal emotional state in those occasions.** [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md)
 
-Therefore, since introverts are more likely to be high-temprament, it also means that they are more sensitive to effects of education. Its true for all children, but for introverts more so, the effects of good, supporting parenthood vs abusive ones create more extreme results for the children - "when its good its great, when its bad its awful".
+Therefore, since introverts are more likely to be high-temprament, it also means that they are more sensitive to effects of education. Its true for all children, but for introverts more so, the effects of good, supporting parenthood vs abusive ones create more extreme results for the children - "when its good its great, when its bad its awful". [Sensitive people are shaped more strongly by their environment](/notes/sensitive-people-are-shaped-more-strongly-by-their-environment.md)
 
 :::note[IS TEMPERAMENT DESTINY? Nature, Nurture, and the Orchid Hypothesis]
 
@@ -178,7 +188,7 @@ introverts, since they are more sensitive, tend to have a richer inner world, th
 ### WHY DID WALL STREET CRASH AND WARREN BUFFETT PROSPER? How Introverts and Extroverts Think (and Process Dopamine) Differently
 
 **Introverts tend to be less reward seeking than extroverts**, meaning they are less distracted by the potential reward, less implosive and more able to [Delay Gratification](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md) In general, they tend to think more before acting, less prone to [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md), and compare the information to their initial beliefs.
-**While they may not be the fastest to act, its not the fastest who wins the race**. By exploring more options, analyzing before acting, and staying focused on the goal rather than distractions or rewards, they usually have better achievements.
+**While they may not be the fastest to act, its not the fastest who wins the race**. By exploring more options, analyzing before acting, and staying focused on the goal rather than distractions or rewards, they usually have better achievements. [Generating multiple alternatives simultaneously improves outcomes](/notes/generating-multiple-alternatives-simultaneously-improves-outcomes.md)
 
 :::note[WHY DID WALL STREET CRASH AND WARREN BUFFETT PROSPER? How Introverts and Extroverts Think (and Process Dopamine) Differently]
 

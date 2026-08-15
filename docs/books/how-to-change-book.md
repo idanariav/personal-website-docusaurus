@@ -1,7 +1,7 @@
 ---
 UUID: 20231113101149
 Created: '2023-11-13 10:11'
-Modified: '2026-04-13 06:14'
+Modified: '2026-08-11 14:02'
 tags: []
 Author:
   - '[[Katy Milkman]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 5
 Pages: 272
 Rate: 3
 PublishDate: 2021-05-04T00:00:00.000Z
@@ -59,8 +59,10 @@ SiteProcssed: true
 7. **Imitation** - find a group of similar minded people to support you on your journey, learn and imitate their behavior.
 ### Relate
 
-⛓ *Life lessons, action items*
-1. **Tailored solutions** - to make change stick, I need to be aware of *my* specific barriers for success, and not just imitate what others are doing. I need to create solutions that are best fitted for me, my skills and my problems, so that I could solve them efficiently.
+⛓  *by following this method, what will happen?*
+It will be easier to change and make good habits stick by creating the best solution based on the problem at hand that prevents me from succeeding
+
+**Tailored solutions** - to make change stick, I need to be aware of *my* specific barriers for success, and not just imitate what others are doing. I need to create solutions that are best fitted for me, my skills and my problems, so that I could solve them efficiently.
 
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
@@ -77,8 +79,17 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-It will be easier to change and make good habits stick by creating the best solution based on the problem at hand that prevents me from succeeding
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Housekeeping Experiment** – _Scientific finding_ Study of housekeepers who, upon being told their labor was actually exercise, showed improved health vitals. Supports: Belief alone can produce real physiological and behavioral effects.
+2. **Advice-Giving Research** – _Research finding_ Prompting goal-seekers to offer advice to others increases their motivation more than receiving advice themselves. Supports: Giving advice builds confidence through clarity, self-worth, and internal cognitive alignment.
+3. **Temptation Bundling** – _Practical strategy_ Combining an enjoyable, restricted activity (like watching a favorite show) exclusively with a boring or difficult one (like working out). Supports: Instant gratification can replace the ineffective, exhausting reliance on brute willpower.
+4. **Cue-Based Planning** – _Practical example_ Translating vague goals into specific "when-then" plans, such as "after brushing my teeth, I will floss." Supports: Detailed, location-specific cues prevent flaking out by triggering automatic behavioral responses.
+5. **Commitment Devices** – _Conceptual taxonomy_ Utilizing "hard" or "soft" penalties (e.g., public pledges vs. losing money) and restrictions (e.g., blocking apps) to enforce behavior. Supports: Pre-committing actions while clearheaded prevents "present bias" and impulsive decision-making.
+6. **"Clean Slate" Parenting** – _Observational example_ Education programs are most effective for new parents because they lack pre-existing, entrenched bad parenting habits. Supports: Change is significantly easier when the individual is starting from a blank slate.
+7. **Default Architecture** – _Practical example_ Implementing automatic savings transfers or organizing the fridge to keep only healthy food. Supports: Laziness can be leveraged by engineering environments to make good decisions the "path of least resistance."
+8. **The "Copy and Paste" Method** – _Social observation_ Actively observing and mimicking the specific behaviors of peers in similar situations rather than listening to general advice. Supports: Observation is a more effective teacher than advice, as social environments act as a primary driver for behavioral norms.
+9. **Gamification Strategy** – _Conceptual framework_ Injecting game-like elements—such as leaderboards and badges—into monotonous tasks. Supports: Low-engagement activities can be converted into motivating goals, provided the individual voluntarily participates.
+10. **The "Mulligan" Approach** – _Strategy/Example_ Incorporating deliberate "cheat days" or buffers into a goal-setting routine. Supports: Building flexibility into a system prevents "all-or-nothing" failures and helps maintain long-term habit adherence.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -126,7 +137,7 @@ Fresh start instance can be:
 3. **Arbitrary** - birthdays, holidays, switching from "student" to "grownup"...
 
 The most famous example are new year's resolution. While we don't always succeed at maintaining these habits, we at least try. You can't succeed if you never try.
-**The disadvantage of a fresh start effect is that it also resets any good behavior done previously**, like keeping a streak that resets each day, or eating healthy when going to the parents for a holiday.
+**The disadvantage of a fresh start effect is that it also resets any good behavior done previously**, like keeping a streak that resets each day, or eating healthy when going to the parents for a holiday. [Fresh starts reset good behavior along with bad](/notes/fresh-starts-reset-good-behavior-along-with-bad.md)
 
 :::note[Quotes]
 
@@ -221,7 +232,7 @@ Advantages:
 Laziness is an asset as well as a disadvantage. Our tendency to stick to [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) can be positive or negative, depends on the defaults. **Positive defaults can help us maintenance a streak of good behavior without exercising our willpower**. It will make the good behavior the "path of least resistance". [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md)
 To build good defaults:
 1. **Nudge** - make the better decision your default. Have only healthy food in the fridge, have an automated transfer of money to a savings account, etc. The less friction you have with making a good decision, the better.
-2. **Habits** - after good habits are formed, they tend to stick. It will take repetition and reward, but afterwards it will become a habit. Note that the best habits are flexible, so that you can continue to do them in some shape or form even if circumstances change. [Robustness](/notes/some-systems-grow-stronger-through-disorder.md)
+2. **Habits** - after good habits are formed, they tend to stick. It will take repetition and reward, but afterwards it will become a habit. [Repeated actions become automatic through habit formation](/notes/repeated-actions-become-automatic-through-habit-formation.md) Note that the best habits are flexible, so that you can continue to do them in some shape or form even if circumstances change. [Robustness](/notes/some-systems-grow-stronger-through-disorder.md)
 
 :::note[Quotes]
 
@@ -295,7 +306,7 @@ To reduce negative effects, we can focus on [Signaling is displaying qualities t
 
 ### Changing for Good
 
-**To make change stick, we need [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md)**. The obstacles mentioned previously are more like symptoms of a chronic illness. A one-time effort isn't enough, we have to continue with these methods in the long run. However, we should be aware that obstacles change over time, so our strategy should be adapted accordingly, preferably matching our strengths and weaknesses
+**To make change stick, we need [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md)**. The obstacles mentioned previously are more like symptoms of a chronic illness. A one-time effort isn't enough, we have to continue with these methods in the long run. However, we should be aware that obstacles change over time, so our strategy should be adapted accordingly, preferably matching our strengths and weaknesses [Our beliefs must adapt as context and goals change](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md)
 
 :::note[Quotes]
 

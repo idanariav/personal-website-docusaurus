@@ -1,7 +1,7 @@
 ---
 UUID: 20230917161304
 Created: '2023-09-17 16:13'
-Modified: '2026-04-13 06:15'
+Modified: '2026-08-11 14:33'
 tags: []
 Author:
   - '[[Max Tegmark]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 4
 Pages: 384
 Rate: 3
 PublishDate: 2017-08-29T00:00:00.000Z
@@ -56,12 +56,22 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓*by following this method, what will happen?*
+You will be more aware for the possible benefits and dangers from the upcoming AI, i.e superintelligence, that will pose a threat but also the biggest breakthroughs for humanity.
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-You will be more aware for the possible benefits and dangers from the upcoming AI, i.e superintelligence, that will pose a threat but also the biggest breakthroughs for humanity.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Life stages theory** – Metaphorical framework categorizing life into 1.0 (evolved hardware/software), 2.0 (evolved hardware/designed software), and 3.0 (designed hardware/software). Supports: The conceptual progression of life’s capability to transcend evolutionary shackles.
+2. **DNA storage limits** – Biological observation noting that human DNA lacks the capacity to preload all necessary life information. Supports: Humans are "Life 2.0" because we rely on "designed" software (learning) to process environmental information.
+3. **Calculator "2+2=5"** – Thought experiment/example of a fundamental computational logic error. Supports: The critical necessity of AI "verification" to ensure software produces results consistent with its internal requirements.
+4. **Mars gravity error** – Operational example of a system performing correct internal calculations based on erroneous external assumptions. Supports: The necessity of AI "validation" as distinct from verification, to ensure internal logic matches the reality of the outside world.
+5. **Killer drones** – Speculative scenario of new-era warfare. Supports: AI weapons differ from traditional WMDs because they allow for highly precise, selective targeting of specific demographics rather than indiscriminate destruction.
+6. **Thirteen-watt brain energy** – Scientific comparison regarding biological energy consumption. Supports: Superintelligent systems reaching physical limits of efficiency could theoretically perform enormous computational tasks using only a trivial amount of matter (half a milligram).
+7. **CEO of the mind** – Metaphor describing the functional role of consciousness. Supports: Conscious deliberation acts as a high-level executive function reserved for complex analysis, distinct from faster, unconscious instinctual reactions.
+8. **Window of control** – Conceptual timeline for AI alignment. Supports: Preventing AI from becoming uncontrollable is difficult because the window for training is limited to the period after it is smart enough to "get" our goals but before it is too smart to ignore us.
+9. **Speed of global thought** – Physical limitation concerning information propagation in large-scale systems. Supports: Scaling intelligence to a cosmic level forces an inherent trade-off between the capacity for complex globally-integrated thoughts and the speed of signal transmission across the system.
+10. **Visual illusions** – Psychological phenomenon highlighting the mind’s failure to accurately perceive reality. Supports: Consciousness is a substrate-independent information-processing phenomenon, which explains why it feels abstract and "non-physical" despite being physically produced.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 There is little added value from reading this book. Not having action items is one thing, but barely even general information and conclusions other than "philosophy is important" (which I support) and "we must talk about AI". This book is a collection of "what ifs", and not of a detailed analysis. Each chapter described a topic within a few pages, not allowing for a deep understanding of it.
@@ -141,7 +151,7 @@ Our main focus with AI is about aligning our goal with theirs.
 
 #### Chapter 1 - what is Intelligence?
 
-**Intelligence can be broadly defined as the capability to complete a complex goal**. Narrow intelligence means that it is only true to a narrow group of goals, while general intelligence has the flexibility to improve and accomplish goals from various fields.
+**Intelligence can be broadly defined as the capability to complete a complex goal**. [Intelligence is the capability to accomplish goals](/notes/intelligence-is-the-capability-to-accomplish-goals.md) Narrow intelligence means that it is only true to a narrow group of goals, while general intelligence has the flexibility to improve and accomplish goals from various fields.
 
 :::note[Quotes]
 
@@ -524,7 +534,7 @@ It is unclear how a group of particles form a consciousness, but allegedly someh
 
 #### Chapter 5 - Experimental Clues about Consciousness
 
-Conscious is one potential state of our mind, when others, like instincts preform unconsciously since it is faster and require less resources.
+Conscious is one potential state of our mind, when others, like instincts preform unconsciously since it is faster and require less resources. [Unconscious processing is faster and requires fewer resources](/notes/unconscious-processing-is-faster-and-requires-fewer-resources.md)
 :::note[Quote]
 
 - conscious information processing should be thought of as the CEO of our mind, dealing with only the most important decisions requiring complex analysis of data from all over the brain. ([Location 5139](https://readwise.io/to_kindle?action=open&asin=B06WGNPM7V&location=5139))

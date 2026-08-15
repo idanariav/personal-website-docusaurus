@@ -1,13 +1,13 @@
 ---
 UUID: 20231002194458
 Created: '2023-10-02 19:44'
-Modified: '2026-04-11 22:18'
+Modified: '2026-08-10 11:53'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Being emerges from action not belief.png]]'
 ImageText: A hot air ballon with fire in it
 Description: >-
@@ -36,7 +36,7 @@ SiteProcssed: true
 
 ### Claim
 
-This concept says it is the other way around [inverse](/notes/inverse.md). Being is by doing, not by theorizing [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md). It is not a single step of transition, but rather an almost endless [series](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md) of small steps [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md).
+This concept says it is the other way around [inverse](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md). Being is by doing, not by theorizing [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md). It is not a single step of transition, but rather an almost endless [series](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md) of small steps [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md).
 
 ### Explanation
 

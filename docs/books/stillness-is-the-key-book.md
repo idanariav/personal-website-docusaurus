@@ -1,7 +1,7 @@
 ---
 UUID: 20240227083409
 Created: '2024-02-27 08:34'
-Modified: '2026-04-13 06:17'
+Modified: '2026-08-14 06:22'
 tags: []
 FullTitle: Stillness Is the Key
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 8
 Pages: 288
 Reread: 0
 Rate: 3
@@ -56,7 +56,8 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓  *by following this method, what will happen?*
+Balanced good life - to live a good life we must stay strong against the forces that try to overwhelm us, by practicing stillness we could focus on what matters, act in accordance with our values, and keep ourselves active in the long term
 
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
@@ -73,8 +74,19 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-Balanced good life - to live a good life we must stay strong against the forces that try to overwhelm us, by practicing stillness we could focus on what matters, act in accordance with our values, and keep ourselves active in the long term
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+Based on the analyzed notes, here are the top 10 pieces of supporting evidence:
+
+1. **The Archer’s Arrow** – Metaphor – Stillness acts like the steadiness required for an archer to aim accurately, allowing them to hit their target. Supports: Stillness is essential for effectiveness and precision.
+2. **The Hydra of Desire** – Analogy – Unchecked desire functions like a hydra; satisfying one "head" (achieving one goal) only causes two more to grow in its place. Supports: The pursuit of "more" is an endless, self-defeating loop without a conscious decision to stop.
+3. **The Train Analogy** – Metaphor – Life’s constant agitation is likened to being stuck on a train; true satisfaction comes from choosing to step off. Supports: Contentment is an internal choice to stop chasing external accomplishments and appreciate what one already has.
+4. **The "Sleep When I'm Dead" Fallacy** – Anecdote/Observation – Many trade their health for more working hours, effectively hastening the very end they claim won't arrive for a long time. Supports: Sacrificing sleep for productivity is counterproductive and damages long-term capacity.
+5. **The Magnifying Glass of Reflection** – Concept/Mental Model – Keeping a journal allows an individual to "probe" themselves with tough, specific questions like "Where am I standing in my own way?" or "Why am I so worked up?". Supports: Journaling is a critical tool for introspection, self-knowledge, and overcoming internal obstacles.
+6. **The "GIGO" (Garbage In, Garbage Out) Principle** – Metaphor – Failing to filter incoming information inevitably leads to poor decision-making quality. Supports: Limiting and distilling inputs is necessary for high-quality thinking and effective decision-making.
+7. **The Physics of Energy Management** – Scientific Principle – We are physical beings governed by finite energy; overextending ourselves leads to burnout and blocks all other efforts. Supports: Physical energy management is a foundational requirement for mental and spiritual success.
+8. **The "Inner Child" Emotional Baggage** – Psychological concept – Past childhood wounds often influence adult emotional reactions and sabotage personal agency. Supports: Healing requires patience, self-love, and addressing old emotional patterns rather than ignoring them.
+9. **The "Poet's Eye"** – Concept/Practice – Cultivating the ability to see beauty even in the banal or terrible prevents dependency on grandiose experiences. Supports: Stillness is fostered by finding and appreciating beauty in ordinary, daily life.
+10. **The Cost of Saying "Yes"** – Economic Analogy – Saying "yes" to everything is equivalent to saying "no" to what truly matters because it dilutes focus and time. Supports: Prioritization through negation ("saying no") is essential to protect time for higher-value activities.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -140,7 +152,7 @@ We first have to stop, try to understand the other side [Listening well requires
 
 #### Become Present
 
-In our minds we often wander, either regrets about the past, or thoughts about the future. When we are not present, we miss out on the opportunities of life. Love, success, happiness, all exist only in the present, and we get lost in our minds we will never experience it. It's hard to [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md) on the now, [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) are often very tempting, but it is key for taking control over our lives.
+In our minds we often wander, either regrets about the past, or thoughts about the future. When we are not present, we miss out on the opportunities of life. Love, success, happiness, all exist only in the present, and we get lost in our minds we will never experience it [The present moment holds life's real value](/notes/the-present-moment-holds-lifes-real-value.md). It's hard to [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md) on the now, [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) are often very tempting, but it is key for taking control over our lives.
 
 :::note[BECOME PRESENT]
 
@@ -170,7 +182,7 @@ When our brain is overwhelmed with thoughts, there are no resources left for it 
 
 #### Slow Down, Think Deeply
 
-Our most creative thoughts, the most valuable information is often hidden, especially from quick shallow thinking. Otherwise everyone would have noticed it by now. Don't fall into the temptation of the [Focusing on easy metrics blinds us to what matters](/notes/focusing-on-easy-metrics-blinds-us-to-what-matters.md), stop and slowly and carefully analyze the situation, the hidden components waiting to be found.
+Our most creative thoughts, the most valuable information is often hidden, especially from quick shallow thinking [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md). Otherwise everyone would have noticed it by now. Don't fall into the temptation of the [Focusing on easy metrics blinds us to what matters](/notes/focusing-on-easy-metrics-blinds-us-to-what-matters.md), stop and slowly and carefully analyze the situation, the hidden components waiting to be found.
 
 :::note[SLOW DOWN, THINK DEEPLY]
 
@@ -241,7 +253,7 @@ Living virtuously is the same as having a good life. To be virtuous - kind, mode
 
 #### Heal the Inner Child
 
-Many of our emotional baggage comes from our childhood, our inner child that still hurts, still takes control of our emotions. By embracing our feelings, by filling ourselves with self love [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md) we might be able to heal.
+Many of our emotional baggage comes from our childhood, our inner child that still hurts, still takes control of our emotions [Childhood wounds shape adult emotional reactions](/notes/childhood-wounds-shape-adult-emotional-reactions.md). By embracing our feelings, by filling ourselves with self love [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md) we might be able to heal.
 
 :::note[HEAL THE INNER CHILD]
 
@@ -275,7 +287,7 @@ If you believe in the "I'll be happy when" then you are going to be disappointed
 
 #### Bath in Beauty
 
-There is beauty all around us, we just need to notice it, to let it cleanse us. It doesn't have to be something as grandiose as going on a hike, sometimes even just watching a person sitting on a bench is awe inspiring enough.
+There is beauty all around us, we just need to notice it, to let it cleanse us. It doesn't have to be something as grandiose as going on a hike, sometimes even just watching a person sitting on a bench is [awe](/notes/awe.md) inspiring enough.
 
 :::note[BATHE IN BEAUTY]
 
@@ -286,7 +298,7 @@ There is beauty all around us, we just need to notice it, to let it cleanse us. 
 
 #### Accept a Higher Power
 
-Faith has a strong effect on our wellbeing. By acknowledging a higher power it is easier for us to [accept](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) that not everything is in our control, that we are not alone and are a part of something bigger. This [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md) is not necessarily believing in god, it could even be believing in the "logos" or nature that connects us all.
+Faith has a strong effect on our wellbeing [Connecting to a larger goal brings meaning](/notes/connecting-to-a-larger-goal-brings-meaning.md). By acknowledging a higher power it is easier for us to [accept](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) that not everything is in our control, that we are not alone and are a part of something bigger. This [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md) is not necessarily believing in god, it could even be believing in the "logos" or nature that connects us all.
 
 #### Enter Relationships
 
@@ -337,7 +349,7 @@ We are not thoughts floating through the air, we are psychical beings, and this 
 
 #### Say no
 
-Society glorifies action, but it is inaction that can be just as efficient if not more. If we say yes to everything, we miss focusing and dedicating the necessary time for each one because [Multitasking is sequential task switching with cognitive switching costs](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md), saying yes to everything is like saying no to what matters because we lack prioritizing. [Saying no protects time and energy for what matters most](/notes/saying-no-protects-time-and-energy-for-what-matters-most.md) allows us to save pieces of our life, our attention, ourselves for what truly matters.
+Society glorifies action, but it is [inaction](/notes/achieve-more-by-not-resisting.md) that can be just as efficient if not more. If we say yes to everything, we miss focusing and dedicating the necessary time for each one because [Multitasking is sequential task switching with cognitive switching costs](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md), saying yes to everything is like saying no to what matters because we lack prioritizing. [Saying no protects time and energy for what matters most](/notes/saying-no-protects-time-and-energy-for-what-matters-most.md) allows us to save pieces of our life, our attention, ourselves for what truly matters.
 
 Also by saying yes to everything might rush things before their time, not letting our effort bear fruits but rather decay too early [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md).
 
@@ -391,7 +403,7 @@ If we try to have it all, in the best case scenario we will experience burnout. 
 
 #### Find a Hobby
 
-A hobby refreshes the soul and body. It is something we do out of passion, not out of necessity. It's not work, it's not pay, it's not a habit, it's fun. It's something we can have a sense of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md) in it. It can be literally anything.
+A hobby refreshes the soul and body. It is something we do out of [passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md), not out of necessity. It's not work, it's not pay, it's not a habit, it's fun. It's something we can have a sense of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md) in it. It can be literally anything.
 
 #### Beware Escapism
 
@@ -408,7 +420,7 @@ Not only that we can't outrun despair, just the attempt is counterproductive. [E
 
 #### Act Bravely
 
-To be well requires us to do well. We won't feel good about ourselves unless we are true to our virtues [To be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md). It takes courage to follow our beliefs, but otherwise we will be miserable and full of regret. Death comes to us all, we should worry less on when it will come and focus more on being satisfied with the life we've lived by then.
+To be well requires us to do well. We won't feel good about ourselves unless we are true to our virtues [To be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md). It takes courage to follow our beliefs, but otherwise we will be miserable and full of regret. Death comes to us all, we should worry less on when it will come and focus more on being satisfied with the life we've lived by then [Mortality shapes meaning and motivates acceptance](/notes/mortality-shapes-meaning-and-motivates-acceptance.md).
 
 :::note[ACT BRAVELY]
 

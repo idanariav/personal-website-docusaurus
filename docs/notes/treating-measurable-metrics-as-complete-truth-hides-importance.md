@@ -1,13 +1,13 @@
 ---
 UUID: 20220716082406
 Created: '2022-07-16 08:24'
-Modified: '2026-04-11 22:28'
+Modified: '2026-08-10 11:52'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 5
+Version: 6
 aliases:
   - McNamara Fallacy
   - what can't be measured isn't important
@@ -37,7 +37,7 @@ SiteProcssed: true
 
 Usually it's not that we actively and consciously dismiss all other metrics as not important, rather that we subconsciously treat only what's already measured as important. It is similar to [Availability bias inflates perceived likelihood of easily recalled events](/notes/availability-bias-inflates-perceived-likelihood-of-easily-recalled-events.md), what is already measured is easier to recall which gives it a false pretense of importance. Additionally, we detest [Ambiguity is the absence of clarity in values or facts](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.md), so anything that can't be [simplified](/notes/distilling-to-essentials-creates-clarity-and-actionability.md) is too cognitive taxing, so we prefer to treat it as not important.
 
-This can also easily lead to [Goodhart's Law](/notes/goodharts-law.md) because laziness can push us towards finding an easy proxy to an abstract (yet important) goal, which we will treat as the goal itself, thus missing the actual target and perhaps even causing unwanted consequences [Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md). This essentially means that we also fall into the [Focusing on easy metrics blinds us to what matters](/notes/focusing-on-easy-metrics-blinds-us-to-what-matters.md), where we cling to what's easy to measure versus what is actually important.
+This can also easily lead to [Goodhart's Law](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md) because laziness can push us towards finding an easy proxy to an abstract (yet important) goal, which we will treat as the goal itself, thus missing the actual target and perhaps even causing unwanted consequences [Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md). This essentially means that we also fall into the [Focusing on easy metrics blinds us to what matters](/notes/focusing-on-easy-metrics-blinds-us-to-what-matters.md), where we cling to what's easy to measure versus what is actually important.
 
 Sometimes we notice that we fall for this fallacy when it's clear that the [We draw conclusions only from what survived](/notes/we-draw-conclusions-only-from-what-survived.md) is also relevant. When the metrics we use don't explain much in terms of success rates, i.e those who "score high" fail and those who "score low" succeed.
 

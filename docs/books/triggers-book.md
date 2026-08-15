@@ -1,7 +1,7 @@
 ---
 UUID: 20240415191120
 Created: '2024-04-15 19:11'
-Modified: '2026-04-13 06:21'
+Modified: '2026-08-10 11:53'
 tags: []
 FullTitle: Triggers - Creating Behavior That Lasts--Becoming the Person You Want to Be
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 274
 Reread: 0
 Rate: 2
@@ -56,11 +56,21 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓  *by following this method, what will happen?*
 I should judge myself not by factual status, but rather by did I do my best. For example, not the objective nutrition quality of what I ate, but rather did I eat the healthiest food I could find (like trying to eat vegetables in the army)
 ### Critique
 
-✅ *by following this method, what will happen?*
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Four-Box Method** – **Model/Analytical Tool.** Classifies human activities by "want/need" status: things we want and need (temptation bundling), want but don't need (distractions), don't want but need (regulations/rules), and those we don't want or need (toxic environments). Supports: The need to analyze environmental triggers to align behavior with goals.
+2. **The Feedback Loop** – **Model.** Defines behavioral structure as a progression of Evidence (what happened) → Relevance (why it matters) → Consequences (future outcomes) → Action (readjusting behavior). Supports: The process required to change behavior within a fluctuating environment.
+3. **Situational Leadership for the Self** – **Metaphor.** Adapts management styles to self-regulation, using four strategies: Directing (telling yourself what to do), Coaching (getting input/feedback), Supporting (discussing the "how"), and Delegating (trusting yourself to execute). Supports: The need to manage one's own behavior rather than assuming we can always "delegate" tasks to ourselves.
+4. **The Wheel of Change** – **Model.** A theoretical framework used to understand the mechanics and types of behavioral change. Supports: The necessity of establishing a foundational understanding before attempting behavioral modification.
+5. **Active vs. Passive Questions** – **Comparative Example.** Contrasts passive questions ("How was your day?") with active, accountable questions ("Did I do my best to...?"). Supports: That engagement and personal responsibility are critical to bridge the intention-action gap.
+6. **The Planner versus the Doer** – **Thought Experiment.** Highlights the internal tension between our "planner" (who sets goals in high-energy states) and our "doer" (who executes in low-energy states). Supports: The need to structure our environment because willpower is limited and forecasting is often overly optimistic.
+7. **The "Did I Do My Best" Standard** – **Conceptual Framework.** A goal-setting method that shifts the focus from the outcome (which might be impacted by external factors) to the degree of effort exerted. Supports: Promoting accountability while mitigating the urge to self-blame when external environments prevent perfect outcomes.
+8. **"AIWATT" (Am I Willing to Allocate the Time and effort)** – **Heuristic/Guiding Question.** A reflective tool used to question intent and commitment to a goal. Supports: Focusing on what is within our control to improve oneself regardless of external variables.
+9. **The Three-Stage Forecasting Model** – **Process.** A strategy for navigating new environments consisting of: Anticipation (evaluating the structure), Avoidance (dodging negative environments), and Adjustment (preparing to withstand inevitable triggers). Supports: The claim that if we do not control the environment, it will control us.
+10. **The Virtuous Circle of Engagement** – **Metaphor.** Describes a phenomenon where changing one's own behavior triggers different, more positive responses in others, which in turn reinforces our own better behavior. Supports: The idea that personal behavior change creates a ripple effect that reshapes the social environment.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -210,7 +220,7 @@ The advantages of daily questions:
 
 1. Create [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) 
 2. A form of [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md)
-3. Increase [self discipline](/notes/self-discipline.md) 
+3. Increase [self discipline](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) 
 4. Makes us focus on the process, not the goal [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
 
 #### Planner, Doer and Coach

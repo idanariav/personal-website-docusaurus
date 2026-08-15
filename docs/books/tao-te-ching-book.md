@@ -1,7 +1,7 @@
 ---
 UUID: 20250121163116
 Created: '2025-01-21 16:31'
-Modified: '2026-04-13 06:18'
+Modified: '2026-08-14 07:37'
 tags: []
 FullTitle: Tao Te Ching
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 104
 Reread: 0
 Rate: 3
@@ -77,7 +77,7 @@ Several ideas that resonate from all these poems:
 1. **To try is to push away** - same idea as [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md). Much of what we try to achieve gets farther away from us simply by trying. For example, those who care about money and want more of it, will never be rich. While it's those who are content with what they have that are rich. When we actively try to do something, when we have a goal we pursue, we only get farther away from it, suffering along the way [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md).
 2. **The goal is flow** - The only state of peace, of mastery, of strength and harmony comes when we [live as flow](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md). When we become one with nature, when we only listen to the natural rhythms of the world, when we don't fight it, we [resonate](/notes/resonance-is-being-in-sync-with-reality-and-others.md) with it, when there is no separation between us and nature, no "self" and "it", just "us". Every human action, whichever goal we pursue, whatever we try to do in the world, only detaches us from the natural harmony of the world, which will only bring suffering and weakness [The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md)
 3. **The best action, is no action** - When we are one with nature, when we live the "Tao", we don't "do" anything, yet with this "non action" we achieve much. It's like a state of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md), or [Achieve more by not resisting](/notes/achieve-more-by-not-resisting.md). A rock doesn't "want" to fall, yet it does. A river doesn't try to carve the rock, and yet it does. When we free ourselves completely from our human desires and actions, we prosper. Like an artist that by not focusing has the best ideas, or how aikido manages to defeat their enemies by using their momentum against them. The less they do (or the more they do nothing), the better off they are.
-4. **Thinking damages experience** - The "Tao", like nature, is something that can't be taught, nor can it be described. When we name it, we don't understand it. To be is a matter of immersion, of [Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md). We can't reason our way to it. Thinking, as is reason, are methods by which we try to detach ourselves from nature, to grasp in our limited mind an endless reality, we can't handle that complexity. It can only be lived, be experienced, but never "thought of".
+4. **Thinking damages experience** - The "Tao", like nature, is something that can't be taught, nor can it be described. When we name it, we don't understand it [Naming a thing categorizes it, obscuring true understanding](/notes/naming-a-thing-categorizes-it-obscuring-true-understanding.md). To be is a matter of immersion, of [Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md). We can't reason our way to it. Thinking, as is reason, are methods by which we try to detach ourselves from nature, to grasp in our limited mind an endless reality, we can't handle that complexity [Reason cannot grasp reality's full complexity](/notes/reason-cannot-grasp-realitys-full-complexity.md). It can only be lived, be experienced, but never "thought of".
 
 :::note[Highlights]
 

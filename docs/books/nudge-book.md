@@ -1,7 +1,7 @@
 ---
 UUID: 20231222095341
 Created: '2023-12-22 09:53'
-Modified: '2026-04-13 06:16'
+Modified: '2026-08-12 07:41'
 tags: []
 FullTitle: Nudge
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 5
 Pages: 350
 Reread: 0
 Rate: 3
@@ -56,11 +56,21 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓  *by following this method, what will happen?*
 
 ### Critique
 
-✅ *by following this method, what will happen?*
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Cafeteria food arrangement** – Case study of environmental design. Simply rearranging the placement of food items in a cafeteria can significantly shift consumption patterns toward healthier options without banning junk food. Supports: The claim that there is no such thing as a "neutral" choice architecture; every design choice influences behavior.
+2. **Anchoring and adjustment** – Psychological finding. Individuals rely on initial, often arbitrary numbers as a starting point and perform insufficient adjustments, even when the anchor is demonstrably irrelevant to the decision. Supports: The claim that heuristics, while simplifying decisions, make human behavior prone to systematic biased judgments.
+3. **Loss aversion ratio** – Statistical data point. People feel roughly twice as miserable about a prospective loss as they feel happy about an equivalent gain, driving a strong preference for the status quo. Supports: The claim that humans are loss-averse, which explains our inertia and tendency to stick with defaults.
+4. **Mental accounting** – Behavioral observation. Households often designate money for specific purposes (e.g., retirement, rainy day, vacation) into separate mental or physical accounts, treating the money as non-fungible. Supports: The claim that people use mental structures to regulate spending and self-control.
+5. **Save More Tomorrow** – Policy intervention example. Implementing a system where employees commit to increasing savings rates automatically only after future pay raises helps employees overcome the immediate pain of reduced take-home pay. Supports: The claim that choice architecture can effectively manage self-control issues related to delayed gratification.
+6. **Stimulus-response compatibility** – Design principle. Well-designed systems align signals with desired actions (e.g., a green "go" sign and a red "stop" sign) to ensure the environment is intuitive. Supports: The claim that choice architecture should minimize friction and error by ensuring design systems align with human psychology.
+7. **Organ donation consent models** – Comparative analysis. Examining explicit, presumed, and mandatory choice models reveals that defaults alone are not a panacea, as families are often consulted regardless of the citizen's registration status. Supports: The claim that defaults do not always capture a person's true preference and are not the answer to every problem.
+8. **Musical stairs** – Anecdotal example of "fun" nudging. Turning stairs into a musical instrument creates immediate gratification and dopamine hits, encouraging more people to choose physical exertion over elevators. Supports: The claim that creating "fun" is an effective strategy for nudging people toward preferred behaviors.
+9. **High-deductible insurance strategy** – Financial logic example. Accepting a $1,000 deductible significantly lowers premiums compared to a $500 deductible, proving more economical over time since successful claims are rare. Supports: The claim that people struggle with probabilities and often pay unnecessary costs by avoiding small risks.
+10. **Conditional cooperation** – Behavioral findings. In public goods scenarios (like climate action), individuals are more likely to contribute if they perceive others are cooperating; this effect is amplified by discussion. Supports: The claim that the "herd mentality" can be leveraged to create positive social norms through social nudges.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -111,7 +121,7 @@ Life is [complicated](/notes/complexity.md) and full of [Decision points force r
 One problem is that some heuristics are prone to biases. They are:
 1. **Anchoring** - when we are affected by an initial arbitrary number. [The first number sets the frame for all that follow](/notes/the-first-number-sets-the-frame-for-all-that-follow.md). This does have a limit though. When we feel that the anchor is exaggerated, [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) happens, which means we do the opposite of the desired anchor as a "pay back" .
 2. **Availability** - when the salience of an event causes us to wrongly estimate it's probability, only because it's easier to remember or recent than other events. [Availability bias inflates perceived likelihood of easily recalled events](/notes/availability-bias-inflates-perceived-likelihood-of-easily-recalled-events.md)
-3. **Representativeness** - aka stereotypes, we tend to perceive things according to what we believe they are, rather than what they truly are.
+3. **Representativeness** - aka stereotypes, we tend to perceive things according to what we believe they are, rather than what they truly are. [Stereotypes apply mental shortcuts by inferring group traits onto individuals](/notes/stereotypes-apply-mental-shortcuts-by-inferring-group-traits-onto-individuals.md)
 4. **Overconfidence** - when it comes to ourselves, we are very likely to underestimate negative events and overestimate positive events. Meaning that "I will beat the odds" no matter what. [Overestimating abilities blinds us to genuine risks](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md)
 5. **Loss aversion** - we are willing to go to greater lengths to avoid a loss, even by missing statistically beneficial decisions [We prefer avoiding losses over gaining equivalent value](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md)
 6. **Status quo bias** - we tend to stick to the defaults, even when they are not beneficial, either due to lack of awareness or [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) [We prefer existing situations over alternatives despite better options](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md)
@@ -138,7 +148,7 @@ System 1 (automatic) vs system 2 (reflective) [thinking fast and slow (book)](/n
 
 #### Resisting Temptations
 
-**We often fall into temptations despite our best wishes to act otherwise**. This is another example of the system 1/2 case, or "hot-cold" thinking. [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md) could offer a solution, however w**e are underestimating which cases would cause a "self control" issue, therefore we fail to put such devices in place**, since we believe we won't be tempted at all, or not be affected by it.
+**We often fall into temptations despite our best wishes to act otherwise** [Knowing the right thing doesn't mean we do it](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md). This is another example of the system 1/2 case, or "hot-cold" thinking. [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md) could offer a solution, however w**e are underestimating which cases would cause a "self control" issue, therefore we fail to put such devices in place**, since we believe we won't be tempted at all, or not be affected by it.
 
 While private commitment devices are common, it is worth noting that the private sector is not run by benevolent incentives, but rather monetary ones. Meaning that in some cases, it would be wise for the public sector to add nudges of its own.
 
@@ -161,7 +171,7 @@ We humans tend to follow others [Herd Mentality](/notes/social-environment-shape
 1. **Information** - we believe the actions of others convey information on best practices
 2. **Social pressure** - we want to be "part of the group" and avoid scrutiny [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 
-Either way, we tend to [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md). **When norms are not yet placed, small nudges, or confident people can shift the norm to a certain direction, which explains why similar groups can have very different norms in the end**. [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md) [Randomness](/notes/randomness.md) [Luck is external randomness affecting outcomes beyond control](/notes/luck-is-external-randomness-affecting-outcomes-beyond-control.md). Similarly, social trends have a strong effect on opinions, a kind of self fulfilling prophecy. If we think everyone is doing something, we will do it as well.
+Either way, we tend to [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md). **When norms are not yet placed, small nudges, or confident people can shift the norm to a certain direction, which explains why similar groups can have very different norms in the end**. [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md) [Randomness](/notes/randomness.md) [Luck is external randomness affecting outcomes beyond control](/notes/luck-is-external-randomness-affecting-outcomes-beyond-control.md). Similarly, social trends have a strong effect on opinions, a kind of self fulfilling prophecy. If we think everyone is doing something, we will do it as well. [Shared beliefs make constructs real and true](/notes/shared-beliefs-make-constructs-real-and-true.md)
 To increase the chances of a successful nudge, consider:
 1. **Identity** - the more people relate with the identity of the people who lead the trend, or that the behavior is related to their beliefs and identities, the more powerful it gets [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md)
 2. **Viability** - the more [visible](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md) the trend, the easier it is to follow

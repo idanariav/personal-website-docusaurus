@@ -1,7 +1,7 @@
 ---
 UUID: 20241120102405
 Created: '2024-11-20 10:24'
-Modified: '2026-04-13 06:14'
+Modified: '2026-08-10 11:53'
 tags: []
 Author:
   - '[[Paul Millerd]]'
@@ -10,7 +10,7 @@ Stored: Kindle
 ReadingStatus: Done
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 224
 Rate: 2
 PublishDate: 2024-09-16T00:00:00.000Z
@@ -68,6 +68,16 @@ SiteProcssed: true
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
+1. **"Coming alive over getting ahead"** – Principle/Mantra; A personal guiding compass to prioritize internal resonance over external advancement. Supports: The claim that intrinsic motivation should drive career choices over monetary gain.
+2. **The Freelancing Trap** – Empirical observation; Starting as a freelancer often leads one to eventually create a job that includes all the undesirable tasks one originally sought to escape. Supports: The argument that freelancing is a temporary solution rather than a long-term cure for misalignment.
+3. **Sabbaticals as "Empty Space"** – Metaphor/Thought experiment; Creating a vacuum in one's schedule allows one to detach from linear success metrics and see the trajectory of their life more clearly. Supports: The necessity of slowing down and resting to facilitate self-reflection and identify "good work."
+4. **The "Film Script" Metaphor** – Analogy; Comparing traditional career paths to a script everyone feels forced to perform, versus viewing life as an improvisation. Supports: The argument that societal norms and job scripts are constructs that can be authored/rewritten.
+5. **Person-Interest Fit vs. Skill-Market Fit** – Conceptual framework; Shifting focus from what the market rewards (skills) to what the individual naturally is drawn toward (interests). Supports: The claim that searching for a job based on market demand is inferior to searching based on inherent alignment.
+6. **The "Positive Edge" of Care** – Concept/Principle; Treating deep personal caring for one's output as the only truly sustainable competitive advantage. Supports: The idea that genuine interest constitutes a unique edge that external motivators cannot replicate.
+7. **"Suffering is not a badge of honor"** – Rhetorical challenge; A refutation of the concept that hardship equates to virtue. Supports: The argument that burnout and exhaustion should not be worn as status symbols or signs of "hard work."
+8. **"Ambition as a Fire"** – Metaphor; Defining ambition not as a quest for titles or salary, but as an internal desire for a "bigger life." Supports: The call to reclaim the definition of ambition to center on personal fulfillment rather than corporate hierarchy.
+9. **The "Only True and Worthwhile Edge"** – Assertion; Identifying that the only meaningful distinction one can have in their professional life is how much they care about the work. Supports: The move toward authentic work that aligns with internal values rather than external pressures.
+10. **The Uniqueness of the Individual Path** – Logical observation; Because "good work" is merged with identity, no two paths will look the same, making traditional comparison strategies obsolete. Supports: The argument that one must accept the uncertainty of their unique, untrodden path.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -134,7 +144,7 @@ Other's might judge you for it, but it is one of the best things you can do for 
 
 #### Have Faith in Good Work
 
-Going on this path will be hard, it will take time, but you need to [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md). Most importantly, it takes [confidence](/notes/confidence.md). We can be our own worse critics [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md), so we need someone who we could lean on when we lack the power to support ourselves.
+Going on this path will be hard, it will take time, but you need to [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md). Most importantly, it takes [confidence](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md). We can be our own worse critics [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md), so we need someone who we could lean on when we lack the power to support ourselves.
 
 ### Rewrite Your Work Story
 

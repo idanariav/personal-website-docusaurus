@@ -1,7 +1,7 @@
 ---
 UUID: 20220704183904
 Created: '2022-07-04 18:39'
-Modified: '2026-04-13 06:18'
+Modified: '2026-08-14 06:57'
 tags: []
 FullTitle: Switch - How to Change Things When Change Is Hard
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 6
 Pages: 305
 Reread: 0
 Rate: 3
@@ -72,8 +72,17 @@ The only thing I took is "**Focus on what works**". When you try and make a chan
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-The simplistic theory rings true about how changes and habits form.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Rider and the Elephant** – Metaphor representing the two sides of the brain, where the Rider is rational and the Elephant is emotional. Supports: The claim that successful change requires aligning rational planning with emotional energy.
+2. **Cookies and radishes study** – Scientific finding demonstrating that self-control is an exhaustible resource. Supports: The argument that deep behavioral change requires careful management of self-control to prevent exhaustion.
+3. **Shrinking movie popcorn buckets** – Experimental observation regarding the influence of environmental design on consumption habits. Supports: The claim that one should "Shape the Path" by tweaking surroundings to make desired behaviors easier.
+4. **Bright spots** – Methodology asking "What’s working and how can we do more of it?" instead of focusing on fixing problems. Supports: The strategy of giving the Rider clear, proven direction to avoid analysis paralysis.
+5. **Fundamental Attribution Error** – Psychological concept describing our tendency to blame character rather than the environment for behavior. Supports: The claim that what appears to be a "people problem" is often a "situation problem."
+6. **Decision paralysis** – Observation that excessive choices deplete the Rider and lead to inertia. Supports: The argument that ambiguity is the enemy and goals must be translated into specific, concrete behaviors.
+7. **The "Herd" effect** – Behavioral observation that people instinctively mirror others, especially in unfamiliar or ambiguous situations. Supports: The claim that social signals are critical for driving and sustaining group change.
+8. **Small wins** – Strategy of engineering frequent, meaningful, and achievable milestones. Supports: The need to generate "Elephant fuel" (motivation) to create a positive chain reaction throughout a long journey.
+9. **Growth mindset** – Framework for reframing failure as a natural part of the learning process rather than a final defeat. Supports: The argument that sustainable change requires an identity shift and the mental resilience to persist through setbacks.
+10. **1% milk** – Example of a specific, tangible directive. Supports: The claim that the Rider requires "crystal-clear direction" to move forward, rather than broad, abstract goals.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -94,7 +103,7 @@ The theme of this book is a million examples analyzed through the terminology of
 We all have two main parts in our brain. The emotional and rational side, or system 1 and two. And in this book its the Rider and the Elephant. **We succeed when they are in sync, and fail otherwise.** [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md) [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md)
 Change can only be maintained when:
 1. **Direct the rider** - you define a clear goal for the change, for example: "workout 40 minutes twice a week". [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md)
-2. **Motivate the elephant** - approach the emotional side as well. Feel the possible outcomes or the negativity in the status quo.
+2. **Motivate the elephant** - approach the emotional side as well. Feel the possible outcomes or the negativity in the status quo. [Adding stakes forces honest belief evaluation](/notes/adding-stakes-forces-honest-belief-evaluation.md)
 3. **Design the path** - create systems and environments that would make maintaining the change easier. [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
 
 :::note[Three Surprises About Change]
@@ -116,7 +125,7 @@ Change can only be maintained when:
 
 #### Focus on the Positive
 
-**Instead of focusing on what's broken and looking for a solution, take what's already working and try to expand/imitate that** [Imitation internalizes others' behaviors and mental models at varying depths](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md), The advantages are that its something proven, possible, and easy to reengineer, than trying to come up with a possible solutions out of infinite possibilities.
+**Instead of focusing on what's broken and looking for a solution, take what's already working and try to expand/imitate that** [Imitation internalizes others' behaviors and mental models at varying depths](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md), The advantages are that its something proven, possible, and easy to reengineer, than trying to come up with a possible solutions out of infinite possibilities. [Seeking existing solutions before reinventing saves effort and reduces error](/notes/seeking-existing-solutions-before-reinventing-saves-effort-and-reduces-error.md)
 On a large scale - you want to change the way a village runs - how about consulting with the locals?
 On a personal scale - focus on the positive things in life. For example when a child acts out, don't focus on his tantrum, rather focus on the times he acts well and try to increase that.
 Mainly - don't try to reinvent the wheel.
@@ -159,7 +168,7 @@ Make clear, tangible goals and have default rules (when y happens, do x). Otherw
 
 #### Change Starts from the Inside.
 
-change comes from our identity, not from new knowledge. Small changes might work using "think-analyze-change", but **deep changes come from "See-Feel-Change". People have to feel the desire to change, a connection with the identity the want to adapt**. [change starts from the inside out](/notes/change-starts-from-the-inside-out.md). Most cases it requires seeing the situation in a different light, through empathy or someone else's viewpoint [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md). Positive emotions will encourage creativity - "when if we could...", while negative emotions hurt creativity [One activity displaces another when pursued excessively](/notes/one-activity-displaces-another-when-pursued-excessively.md), even if they are good motivators - "if we don't do x, a disaster will happen". We get focused on the negative result, rather than finding a solution.
+change comes from our identity, not from new knowledge. Small changes might work using "think-analyze-change", but **deep changes come from "See-Feel-Change". People have to feel the desire to change, a connection with the identity the want to adapt**. [change starts from the inside out](/notes/change-starts-from-the-inside-out.md). Most cases it requires seeing the situation in a different light, through empathy or someone else's viewpoint [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md). Positive emotions will encourage creativity - "when if we could...", while negative emotions hurt creativity [One activity displaces another when pursued excessively](/notes/one-activity-displaces-another-when-pursued-excessively.md), even if they are good motivators - "if we don't do x, a disaster will happen". We get focused on the negative result, rather than finding a solution. [Fear-based motivation fixates on the threat, not the solution](/notes/fear-based-motivation-fixates-on-the-threat-not-the-solution.md)
 **When adding information doesn't lead to change, that means that the change is not blocked by information, rather an identity - which means its an elephant problem**, not a rider.
 
 :::note[Find the Feeling]
@@ -206,9 +215,9 @@ A change that is counter to an identity will eventually fail. You must develop t
 
 ### Design the Path
 
-Behavioral problems usually originate from the environment, which means its usually not a misunderstanding (rider), or lack of motivation (elephant), but rather the cause of the way the environment affects us. **Always test what the environment pushes you do do, and check if it corresponds with your goals**.
+Behavioral problems usually originate from the environment, which means its usually not a misunderstanding (rider), or lack of motivation (elephant), but rather the cause of the way the environment affects us. [Behavioral problems often originate from environment, not motivation](/notes/behavioral-problems-often-originate-from-environment-not-motivation.md) **Always test what the environment pushes you do do, and check if it corresponds with your goals**.
 
-Create good habits, especially think about your triggers: "when x happens, I will do Y".
+Create good habits, especially think about your triggers: "when x happens, I will do Y". [Linking habits in sequence amplifies behavior adoption through habit stacking](/notes/linking-habits-in-sequence-amplifies-behavior-adoption-through-habit-stacking.md)
 Its especially helpful to create a "herd", as social creatures we tend to adopt the perceptions of those around us, so find or create the group where what's socially acceptable or desired is the change you want to bring. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
 
 :::note[Tweak the Environment]

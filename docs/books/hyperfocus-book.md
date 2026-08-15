@@ -1,7 +1,7 @@
 ---
 UUID: 20240619175158
 Created: '2024-06-19 17:51'
-Modified: '2026-04-13 06:14'
+Modified: '2026-08-11 14:23'
 tags: []
 Author:
   - '[[Chris Bailey]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 7
 Pages: 272
 Rate: 3
 PublishDate: 2018-09-06T00:00:00.000Z
@@ -60,7 +60,8 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓  *by following this method, what will happen?*
+We will be more productive, creative and as result more happy in our lives. We would be more aware during the day, feeling more alive and aware. We would find meaning in what we do, and less
 
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
@@ -77,8 +78,17 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-We will be more productive, creative and as result more happy in our lives. We would be more aware during the day, feeling more alive and aware. We would find meaning in what we do, and less
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Multitasking Myth** – Scientific finding. Multitasking is actually sequential task switching, which incurs significant cognitive costs that reduce overall productivity. Supports: The claim that multitasking is harmful rather than beneficial.
+2. **The 40-Second Attention Span** – Data point. On average, our focus lasts only 40 seconds, and it takes several minutes to refocus after each interruption. Supports: The claim that small distractions lead to substantial time loss.
+3. **The Task Matrix** – Conceptual framework. All tasks can be categorized into four quadrants—unnecessary, distracting, necessary, and purposeful—based on their importance and attractiveness. Supports: The necessity of identifying exactly what tasks are worth focusing on.
+4. **Strategic Habit Coupling** – Strategy. Combining high-effort productive tasks with low-effort habits (e.g., washing dishes while listening to a podcast) effectively utilizes residual bandwidth without cognitive strain. Supports: The idea that we can manage our limited attentional resources more efficiently.
+5. **Environmental Choice Architecture** – Strategy. Using physical or digital barriers (e.g., airplane mode, removing apps, noise-canceling headphones) to block distractions before they arise. Supports: The argument that willpower is insufficient to combat external distractions.
+6. **The 5-Minute Rule** – Guideline. Committing to just five minutes of a task lowers the barrier to entry and allows individuals to overcome initial resistance. Supports: The claim that starting small reduces resistance and builds momentum.
+7. **90-15 Energy Cycle** – Guideline. Maintaining optimal energy output requires taking a 15-minute break for every 90 minutes of work. Supports: The claim that rest is a multiplier for sustainable productivity.
+8. **Scatterfocus Triggers** – Observation. Creative "Eureka" moments frequently occur during low-intensity, mundane activities like walking or showering because they engage the brain's "Scatterfocus" mode. Supports: The need to allow the mind to wander to boost creativity.
+9. **Knowledge Chunking** – Cognitive principle. It is easier to retain information in larger, interconnected units (like words and sentences) rather than isolated parts (letters or syllables). Supports: The importance of making connections between dots to improve memory and output.
+10. **Specific Intentions** – Statistic. The act of explicitly setting specific goals in advance can double or triple the likelihood of achieving success. Supports: The claim that focus requires deliberate, pre-emptive planning to avoid being derailed.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -142,7 +152,7 @@ We want to focus on necessary and purposeful work, but our attention is usually 
 
 There's a capacity to our [Full working memory reduces focus and task performance](/notes/full-working-memory-reduces-focus-and-task-performance.md), and most of the things we are doing like driving, reading, talking with someone takes up all of our mental bandwidth. That's why multitasking doesn't exist. The brain needs bandwidth to both process information and convert it to long term memory.
 
-However, it is possible to combine habits with other tasks. For example, you can wash the dishes and listen to a podcast at the same time, because habits by definition require very little cognitive effort.
+However, it is possible to combine habits with other tasks. For example, you can wash the dishes and listen to a podcast at the same time, because habits by definition require very little cognitive effort [Repeated actions become automatic through habit formation](/notes/repeated-actions-become-automatic-through-habit-formation.md).
 
 That doesn't mean you can't reach a point of [Taking on too much overwhelms capacity and causes depletion](/notes/taking-on-too-much-overwhelms-capacity-and-causes-depletion.md). By having too many tasks, we are getting overwhelmed and start to forget what we are doing, or lose focus quickly. The answer is to limit your inputs [less is more](/notes/improvement-often-comes-from-removing-rather-than-adding.md). By reducing our cognitive load, we can focus more on what's left.
 
@@ -167,10 +177,10 @@ Hyperfocus is synonymous with [Flow is deep immersion where performance peaks an
 3. Remove distractions (it's easier to do in advance)
 4. Refocus when we get distracted
 
-Hyperfocus is what causes is to be more productive and less busy, we finish a session more refreshed despite doing more.
+Hyperfocus is what causes is to be more productive and less busy, we finish a session more refreshed despite doing more [Focused uninterrupted work produces the best results](/notes/focused-uninterrupted-work-produces-the-best-results.md).
 
 On choosing what to focus on:
-Attention is nothing without [Good action requires intention aligned with values](/notes/good-action-requires-intention-aligned-with-values.md), we need to choose what to focus on, which requires [Prioritization](/notes/triage-prioritizes-limited-resources-by-allocating-attention-wisely.md). Think which actions are beneficial while considering also the long term [Domino Effect](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md). Decide in advance what are you going to focus on today so that you'll be less distracted by new information later on. Check yourself once in a while that you are focusing on what you set out to do.
+Attention is nothing without [Good action requires intention aligned with values](/notes/good-action-requires-intention-aligned-with-values.md), we need to choose what to focus on, which requires [Prioritization](/notes/triage-prioritizes-limited-resources-by-allocating-attention-wisely.md). Think which actions are beneficial while considering also the long term [Domino Effect](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md). Decide in advance what are you going to focus on today so that you'll be less distracted by new information later on [Planning is anticipating the future and preparing action accordingly](/notes/planning-is-anticipating-the-future-and-preparing-action-accordingly.md). Check yourself once in a while that you are focusing on what you set out to do.
 
 Also, remember to be [clear](/notes/clarity-is-achieved-through-definition-and-presentation.md) with your intentions, the more specific the better. Don't overcommit, [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md) and try 15 minute blocks with breaks in between [pomoduro technique](/notes/pomoduro-technique.md)
 
@@ -283,7 +293,7 @@ Evaluate the content before and during consuming it [reading methods](/notes/rea
 
 Hyperfocus and scatterfocus complement each other, one is productivity, other is creativity. One demands high energy, one demands low. We need them both to thrive.
 
-Both also contribute and are contributed from happiness. We are more productive when we are happy and vice versa. Being happy is a matter of action, not daydreaming.
+Both also contribute and are contributed from happiness. We are more productive when we are happy and vice versa [Happiness and productivity reinforce each other](/notes/happiness-and-productivity-reinforce-each-other.md). Being happy is a matter of action, not daydreaming [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md).
 
 :::note[WORKING TOGETHER]
 

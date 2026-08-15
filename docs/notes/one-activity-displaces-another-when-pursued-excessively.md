@@ -1,13 +1,13 @@
 ---
 UUID: 20240101081952
 Created: '2024-01-01 08:19'
-Modified: '2026-04-11 22:24'
+Modified: '2026-08-10 11:53'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[One activity displaces another when pursued excessively.png]]'
 ImageText: >-
   A balance scale showing green circles for internal motivation tipping one way
@@ -22,7 +22,7 @@ aliases:
   - Mutually Exclusive
 new_schema: true
 Topic:
-  - '[[Environment and Behavior]]'
+  - '[[Content/Concepts/Environment and Behavior]]'
   - '[[Self-Regulation and Change]]'
 Origin: null
 URL: null
@@ -43,7 +43,7 @@ Crowding out is when the increase of one activity causes a decrease in another, 
 How to identify such cases?
 1. **Diminishing/negative returns** - we have reached a point where additional investment has little to no (or even negative) [effect](/notes/each-additional-unit-provides-progressively-less-value.md)
 2. **It becomes harder** - we sense more [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) in what we're trying to do when previously is was easy
-3. **Shallow replacement** - we have the same (or more) quantity, but the quality has diminished [Goodhart's Law](/notes/goodharts-law.md)
+3. **Shallow replacement** - we have the same (or more) quantity, but the quality has diminished [Goodhart's Law](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md)
 
 ### Why it matters
 

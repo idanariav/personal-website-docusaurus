@@ -1,12 +1,12 @@
 ---
 UUID: 20240101064724
 Created: '2024-01-01 06:47'
-Modified: '2026-05-04 07:52'
+Modified: '2026-08-10 11:52'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Generating multiple alternatives simultaneously improves outcomes.png]]'
 ImageText: 'Several planted seeds turning into a withering plant, a rose and a tulip'
 Description: >-
@@ -36,7 +36,7 @@ Multitrack is when we decide to spend more time on a task because we want to bra
 
 ### Why it Matters
 
-This idea supports the notion of [Practice beats perfection](/notes/practice-beats-perfection.md), that it is hardly likely that we would be able to find the best solution on the first try/idea we have, so generating multiple options gives us higher certainty for success. This is also related to the idea of [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md), in many cases finding a single metric that covers all options/potential uses is very difficult if not impossible, one reason could be [Goodhart's Law](/notes/goodharts-law.md). Using multiple options increases the [richness](/notes/complexity.md) of our method, which enables us to create a better proxy, while avoiding more of the disadvantages.
+This idea supports the notion of [Practice beats perfection](/notes/practice-beats-perfection.md), that it is hardly likely that we would be able to find the best solution on the first try/idea we have, so generating multiple options gives us higher certainty for success. This is also related to the idea of [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md), in many cases finding a single metric that covers all options/potential uses is very difficult if not impossible, one reason could be [Goodhart's Law](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md). Using multiple options increases the [richness](/notes/complexity.md) of our method, which enables us to create a better proxy, while avoiding more of the disadvantages.
 
 ### Examples
 

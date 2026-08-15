@@ -1,7 +1,7 @@
 ---
 UUID: 20260122121002
 Created: '2026-01-22 12:10'
-Modified: '2026-04-13 06:16'
+Modified: '2026-08-12 10:27'
 tags: []
 FullTitle: Positivity -
 Description: >-
@@ -32,7 +32,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 8
 Pages: 288
 Reread: 0
 Rate: 3
@@ -47,10 +47,10 @@ Origin: null
 draft: false
 SiteProcssed: true
 ---
+# Positivity
+## Note-Making
 
-# ✒️ Note-Making
-
-## Clarify
+### Clarify
 🔈 *Summary of main ideas*
 1. **Positivity isn't naive** - To be a positive person doesn't mean to ignore the bad things. Negativity is a useful information, but your goal is to keep it as such. Not to dwell in it or let it take over your world. Also, nothing last forever, so we can't make positivity permanent, we can only generate more positive experiences than negatives.
 2. **Positivity is a multiplier** - It improves our physical health, our creativity, our social connections, our sense of purpose, our emotional resilience. It broadens our mind and enriches our life.
@@ -58,11 +58,11 @@ SiteProcssed: true
 4. **Stay above the line** - A heuristic for flourishing is having more than 3:1 positive to negative thoughts/experiences. By cultivating gratitude, mindfulness and a positive take on experiences we can thrive mentally, socially, physically. Being under this line is a warning sign for depression
 5. **Fill your life with every kind of good** - There are ten types of positive emotions, and to have a rich life we should cultivate each kind. This will also keep us from becoming numb to certain experiences, we can always switch the type of emotion we focus on.
 
-## Relate
+### Relate
 ⛓ *by following this method, what will happen? What is the goal of this book?*
 I will become happier, smarter, and have a flourishing life
 
-## Act
+### Act
 📋*What should I do to achieve the goals set out by this book?*
 1. **Track your positivity ratio** – take a positivity survey daily to measure your specific ratio of positive to negative emotions, aiming for a 3:1 trend over time.
 2. **Practice mindful meditation** – commit to twenty minutes of daily meditation focusing on your breath to reduce stress, improve mindfulness, and break negative thought cycles.
@@ -75,12 +75,19 @@ I will become happier, smarter, and have a flourishing life
 9. **Apply your strengths** – identify what you are naturally good at and find ways to use those strengths in your daily activities.
 10. **Reflect on positive questions** – ask yourself specific questions like "what works for me right now?" or "what’s something good that happened today?" to spark positive emotions.
 
-## Critique
+### Critique
 
 🧩 *relevant research, metaphors or examples that helps to convey the argument*
-Emotions like a flowing river, hard to control yet possible to divert.
-
-The book is a treasures trove of research about positivity
+1. **The Positivity Ratio (3:1)** – Quantitative statistic showing that individuals, marriages, and business teams flourish only when positive experiences outnumber negative ones by at least a 3-to-1 ratio. Supports: The threshold for flourishing versus languishing.
+2. **The "Water Lilies and the Sun" Metaphor** – Analogy comparing the mind under positivity to water lilies opening in sunlight, illustrating that states of mind are reactive to environmental conditions. Supports: Positivity broadens the mind, enabling better thinking and wider perspectives.
+3. **Ten Forms of Positivity** – Classification framework categorizing positive emotions (Joy, Gratitude, Serenity, Interest, Hope, Pride, Amusement, Inspiration, Awe, Love) each with distinct opposites and psychological roles. Supports: Positivity is a multifaceted experience with specific, actionable triggers.
+4. **Resilience Growth Study** – Observation that the more positive emotions people experienced over the course of a month, the more their resilience levels grew. Supports: Resilience is a renewable resource built through the accumulation of positive emotional experiences.
+5. **Analytical Inhibition of Happiness** – Scientific assertion that analyzing positive events until they are fully understood zaps the positivity, whereas unexplained positivity lasts longer. Supports: Positivity is a subjective, felt experience rather than an intellectual construct to be decoded.
+6. **The "River" Analogy** – Metaphor comparing the effort required to change emotional habits to diverting a river, noting that the process is gradual and requires redirection over time. Supports: Capabilities regarding emotional regulation are malleable through sustained effort.
+7. **Meditation as a Baseline Shifter** – Evidence that consistent mindfulness practice elevates happiness baselines throughout the day, even during non-practice periods. Supports: Small habits have the power to shift long-term emotional baselines despite adaptation.
+8. **"What’s going right?" Inquiry** – Thought experiment or heuristic task of asking oneself "What is going right for me right now?" to immediately break negative thought spirals. Supports: We have conscious control over the trajectory of our emotional state through introspection.
+9. **The "Non-Linear Trajectory" of Positivity** – Concept derived from tipping points, where small amounts of positivity have negligible effects, but crossing a specific threshold creates a cascading, life-changing impact. Supports: Progress and change follow non-linear trajectories with critical thresholds.
+10. **The "Portfolio" Method** – Practical toolkit strategy of curating specific sensory reminders (photos, objects, memories) to act as an emotional anchor during difficult times. Supports: We can proactively cultivate resources to facilitate resilience and bounce back from hardship.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -89,7 +96,7 @@ Aside from following her website, most descriptions are too short in order to be
 
 It's the old equivalent of what an AI would generate in a single paragraph, aka the obvious.
 
-## Review
+### Review
 
 💭 *my opinions on the book, the writers style...*
 
@@ -97,15 +104,15 @@ This book is too long for what it tries to do, and it shows that it was created 
 
 There were also parts that made me cringe. Even though she tried to address it and say that it can't be "all good" and that negativity is essential, she still portrayed some life events through rose colored glasses.
 
-## Outline
+### Outline
 
 ![Positivity (book)](/books/positivity-book.webp)
 
-# 📒 Notes
+## Notes
 
-## The Good News about Positivity
+### The Good News about Positivity
 
-### Waking up to Positivity
+#### Waking up to Positivity
 
 Positivity is not about ignoring the issues in life, but it does matter how we see them. Not all issues are objective problems, some are self created only because we chose to look at them from a [negative](/notes/pessimism-is-focusing-attention-on-negative-outcomes-and-threats.md) viewpoint
 
@@ -113,7 +120,7 @@ Positivity:
 1. **Feels good** - it makes us happier [Happiness is contentment](/notes/happiness-is-contentment.md)
 2. **Changes your mind** - it doesn't just replace negative thoughts with positive ones, it changes how we view the world [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md)
 3. **Transforms your future** - positivity gives us a wider view on the world, we can see more opportunities because our focus is outwards instead of inwards [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md)
-4. **Puts the break on negativity** - It calms you down and clean your body and mind from negativity.
+4. **Puts the break on negativity** - It calms you down and clean your body and mind from negativity [Positivity calms the mind and clears negativity](/notes/positivity-calms-the-mind-and-clears-negativity.md).
 5. **Positivity obeys a tipping point** - It follows a [Progress and change follow non-linear trajectories with thresholds](/notes/progress-and-change-follow-non-linear-trajectories-with-thresholds.md) trajectory. Small amounts of positivity are not enough. However, with enough positivity, the effects cascade.
 6. **You can increase your positivity** - It's within your power to become more positive [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md).
 
@@ -126,11 +133,11 @@ Positivity:
 :::
 
 
-### Positivity: Means, not Ends
+#### Positivity: Means, not Ends
 
 Positivity can't last forever, every emotion is [fleeting](/notes/experiences-are-unique-because-they-are-fleeting-and-irreplaceable.md). The goal than is the *ratio* between your positive and negative moments. Above the threshold - we are [Bursting with life](/notes/bursting-with-life.md), below it - we face a [Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) of unhappiness. It's the cause of those things, not a symptom.
 
-People with a positive ratio are not just happier, they have a stronger sense of purpose, they are a more engaged with the people around them, they help others and do good in this world.
+People with a positive ratio are not just happier, they have a stronger sense of purpose, they are a more engaged with the people around them, they help others and do good in this world [Positivity increases purpose and prosocial behavior](/notes/positivity-increases-purpose-and-prosocial-behavior.md).
 
 Negative emotions such as fear are easy to explain, they were necessary for survival, but what about positive emotions?
 
@@ -155,7 +162,7 @@ Positivity requires us to be [genuine](/notes/speaking-truth-about-yourself-and-
 :::
 
 
-### What is Positivity
+#### What is Positivity
 
 The ten forms of positivity:
 1. **Joy** - when life just clicks, everything goes your way, good things happen all the time (the opposite of helplessness) [appreciation](/notes/appreciation.md)
@@ -169,7 +176,7 @@ The ten forms of positivity:
 9. **Awe** - To be overwhelmed by something truly great, that humbles us [awe](/notes/awe.md). (The opposite is [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md))
 10. **Love** - The combination of all of the above. Each previously mental emotion is also a byproduct of love. [love](/notes/love.md)
 
-We have more control over our emotions than we think. It starts with the kind of questions at ask ourselves [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md). For example, asking "what works for me right now?" "What's something good that happened today" will spark positive emotions while asking "what's one thing that went wrong today" Will bring negativity
+We have more control over our emotions than we think [We control our response to emotions, not their arrival](/notes/we-control-our-response-to-emotions-not-their-arrival.md). It starts with the kind of questions at ask ourselves [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md). For example, asking "what works for me right now?" "What's something good that happened today" will spark positive emotions while asking "what's one thing that went wrong today" Will bring negativity
 
 :::note[What Is Positivity?]
 
@@ -181,7 +188,7 @@ We have more control over our emotions than we think. It starts with the kind of
 :::
 
 
-### Broaden Your Mind
+#### Broaden Your Mind
 
 The mind and positivity is like water lilies and the sun. Positivity opens us up, it broadens our mind. We literally [see](/notes/notice.md) more and think better under positivity [broadening](/notes/broadening.md).
 
@@ -197,13 +204,13 @@ It opens us up not just mentally, but also emotionally. Positivity makes us feel
 :::
 
 
-### Build Your Best Future
+#### Build Your Best Future
 
-Small habits can change our minds and lives completely. While we all experience the [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) that happiness tends to return to a baseline no matter what we do, it's only partially true. The baseline can shift with time. For example, [Meditation strengthens focus and mindfulness through intentional presence](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md) can increase your overall happiness not just when you practice, but throughout the day, and even on days you haven't practiced, as long as it is a habit you maintain.
+Small habits can change our minds and lives completely [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md). While we all experience the [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) that happiness tends to return to a baseline no matter what we do, it's only partially true. The baseline can shift with time. For example, [Meditation strengthens focus and mindfulness through intentional presence](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md) can increase your overall happiness not just when you practice, but throughout the day, and even on days you haven't practiced, as long as it is a habit you maintain.
 
 Positivity is the key for many positive benefits, such as health, relationships, emotional resilience , creativity, and more. It will change your life.
 
-### Bounce back from Life's Challenges
+#### Bounce back from Life's Challenges
 
 Positivity is what enables [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md). It's not that being positive blinds us to the truth, it's not a form of [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) or [Denial is choosing a false view to avoid painful truths](/notes/denial-is-choosing-a-false-view-to-avoid-painful-truths.md). We feel just as bad as everyone else, feeling angry, afraid, frustrated after falling down. It is a [Coping trades short-term relief for long-term cost](/notes/coping-trades-short-term-relief-for-long-term-cost.md) mechanism that pushes us to do something about it, to believe it can and will be better.
 
@@ -220,11 +227,11 @@ It takes strong positivity to build resilience, but it is possible. It is a rene
 :::
 
 
-### The Positivity Ratio
+#### The Positivity Ratio
 
 The positivity ratio of 3:1 [losada line](/notes/losada-line.md) is the tipping point from languishing to flourishing, both on the individual level and on the intrapersonal level. It's literally everywhere - in marriage, in business, in mental health.
 
-It doesn't have to be 3:1 every day, but as an overall trend. Be above it. You still need negativity in your life, it's inseparable. It's like trying to sail a boat with only sail. You also need the ship itself. The force that drives you when all else fails.
+It doesn't have to be 3:1 every day, but as an overall trend. Be above it. You still need negativity in your life, it's inseparable [Negativity is an inseparable part of life](/notes/negativity-is-an-inseparable-part-of-life.md). It's like trying to sail a boat with only sail. You also need the ship itself. The force that drives you when all else fails.
 
 :::note[The Positivity Ratio]
 
@@ -234,9 +241,9 @@ It doesn't have to be 3:1 every day, but as an overall trend. Be above it. You s
 :::
 
 
-## Raise Your Ratio
+### Raise Your Ratio
 
-### Where Are You now
+#### Where Are You now
 
 Take the positivity survey, see where you measure on the ratio on the daily level. Track it over time.
 
@@ -252,7 +259,7 @@ You'll probably see that you're below the 3-1 ratio, that's okay! It takes time 
 :::
 
 
-### Decrease Negativity
+#### Decrease Negativity
 
 Negativity is awful because it's so easy to spiral downwards. You feel bad, so you don't have the motivation to do anything, so you feel even worse...
 
@@ -264,9 +271,9 @@ Some "annoying" things are unavoidable, such as chores and commute, but we can s
 
 More specifically, some things we should just avoid, like media [Detoxing](/notes/overcoming-addiction-requires-removing-all-traces-of-it.md).
 
-We also have to focus on the positive related to other. We shouldn't gossip behind their back, and also assume good intentions and show interest in them during conversation. Even if someone annoys you, see it as a chance to practice calmness.
+We also have to focus on the positive related to other. We shouldn't gossip behind their back, and also assume good intentions and show interest in them during conversation [Assuming good intentions in others improves relationships](/notes/assuming-good-intentions-in-others-improves-relationships.md). Even if someone annoys you, see it as a chance to practice calmness.
 
-### Increase Positivity
+#### Increase Positivity
 
 The key to increase positivity:
 1. Find meaning in your daily activities - turn meh into great
@@ -281,7 +288,7 @@ The key to increase positivity:
 10. Open your mind - openness and positivity go hand in hand
 11. Open your heart - do meditation
 
-### A New Toolkit
+#### A New Toolkit
 
 1. **Be open** - get rid of expectations and judgment. Be curious and mindful of the present moment.
 2. **Create high quality connections** - Be attentive, helpful, trusting and playful.
@@ -298,7 +305,7 @@ The key to increase positivity:
 
 Create a portfolio per an emotion of positivity, to carry with you and boost you in difficult times. Collect memories, photos, sentimental objects that remind you of the best moments of your life, the big and the small. Update it from time to time to make sure it stays relevant and impactful
 
-### Future Forecast - Flourishing
+#### Future Forecast - Flourishing
 
 Scientific facts about positivity:
 1. It makes us feel good (higher wellbeing)

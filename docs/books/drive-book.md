@@ -1,7 +1,7 @@
 ---
 UUID: 20221208221323
 Created: '2022-12-08 22:13'
-Modified: '2026-04-13 06:12'
+Modified: '2026-08-08 11:15'
 tags: []
 Author:
   - '[[Daniel H. Pink]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 6
 Pages: 242
 Rate: 3
 PublishDate: 2011-04-05T00:00:00.000Z
@@ -51,7 +51,7 @@ SiteProcssed: true
 2. **Autonomy mastery and purpose** - To support intrinsic motivation, people need a sense of autonomy, i.e freedom of choice over their strategy and decisions, a challenging goal that will bring flow, and a sense of purpose to drive them to action.
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓  *by following this method, what will happen?
 
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
@@ -68,8 +68,17 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-the book is short, to the point, the structure is clear and I really liked that all the tips were concentrated at the end, along with summaries of different length (a sentence, a page, and by chapter). This can be really be helpful as a manual Post reading. Also, no promises on changing the world or groundbreaking truth, simply an acknowledgement of what's best to do now days
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Case Study** – Google’s "20% free time" policy, which allows employees to work on self-directed side projects, consistently generates creative breakthroughs and useful improvements. Supports: Providing autonomy over tasks increases organizational innovation and individual performance.
+2. **Thought Experiment** – Treating social situations as economic transactions by introducing a penalty (e.g., a fine for being late) can increase the behavior it intends to stop by turning a "vice" into a purchasable option. Supports: External incentives can crowd out intrinsic motivation and ethical behavior by commodifying non-economic actions.
+3. **Historical Example** – The use of oaths, such as the Hippocratic Oath for doctors, provides a structure to remind individuals of their ethical commitment and purpose. Supports: Focusing on a larger purpose, rather than just profit or strict compliance, results in better behavior and higher levels of satisfaction.
+4. **Historical Context** – The "Motivation 2.0" system (external rewards and punishments) emerged alongside the Industrial Revolution to manage routine tasks. Supports: External motivation is a legacy system suited for simple, routine work, and is increasingly incompatible with, or antagonistic to, modern, non-routine, creative work.
+5. **Metaphor** – To trigger "flow," tasks must be designed as a "Goldilocks challenge"—an optimal level of difficulty where the task is neither too easy nor too impossible for the individual’s skill level. Supports: Mastery requires engagement, which is only sustained when tasks provide the appropriate level of challenge.
+6. **Scientific Framework** – Maslow’s hierarchy of needs illustrates that human requirements extend beyond basic biological survival into higher goals like self-actualization. Supports: Monetary rewards are limited because humans have more complex needs than simple, robotic wealth-maximization.
+7. **Compilation of Findings** – The "Seven Reasons" list documents that external rewards have systemic negative effects, such as extinguishing intrinsic motivation, diminishing creativity, and fostering short-term thinking. Supports: Carrots and sticks are ineffective for non-routine, complex tasks and often produce unintended, harmful consequences.
+8. **Best Practice** – In educational contexts, praising a child's effort rather than their innate intelligence is a key driver for internal engagement. Supports: Creating a mindset where capabilities are seen as malleable through effort, fostering the drive for mastery.
+9. **Theoretical Model** – The distinction between Type I (intrinsic) and Type X (extrinsic) motivation categorizes the difference between self-directed and reward-directed behavior. Supports: Type I behavior—fueled by autonomy, mastery, and purpose—is a self-renewing, more valuable organizational resource.
+10. **Reflective Strategy** – The concept of defining "your sentence" (a personal mission statement or legacy) serves as a tool for individuals. Supports: Connecting daily activities to a larger, personal purpose increases resilience and motivation.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 The content of this book is a three in terms of novelty, but in any other case it's at least of four. The idea is very basic and simple to understand.
@@ -79,6 +88,7 @@ the focus on this book is changing business norms, so its less relevant to indiv
 ### Review
 
 💭 *my opinions on the book, the writers style...*
+the book is short, to the point, the structure is clear and I really liked that all the tips were concentrated at the end, along with summaries of different length (a sentence, a page, and by chapter). This can be really be helpful as a manual Post reading. Also, no promises on changing the world or groundbreaking truth, simply an acknowledgement of what's best to do now days
 
 ### Outline
 
@@ -126,7 +136,7 @@ external motivation is problematic because:
 
 #### Seven Reasons Carrot and Sticks Often Don't Work
 1. **it makes us focus on the reward instead** of the work we do [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md), reducing productivity
-2. **It crowds out internal motivation**. so perhaps we will be more motivated in the short term, but lose interest in the long term. It makes us believe that what we do is "work", and cannot be "fun" or "interesting" (why do it for myself when I can do it for money)
+2. **It crowds out internal motivation**. so perhaps we will be more motivated in the short term, but lose interest in the long term. It makes us believe that what we do is "work", and cannot be "fun" or "interesting" (why do it for myself when I can do it for money) [Framing an activity as a reward removes its sense of play](/notes/framing-an-activity-as-a-reward-removes-its-sense-of-play.md)
 3. **It damages creativity**, since usually the external rewards are time based, and in situations of pressure of deadline, we tend to take fewer risks or experiment, so we go for more basic and straightforward solutions. [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md)
 4. **it encourages cheating and unethical behavior** (either by "the end justifies the means"), or by "economizing" social situations (if being late is punishable by a fine, that means that its an option, rather than a "vice"). [Commodification turns non-tradable values into economic transactions](/notes/commodification-turns-non-tradable-values-into-economic-transactions.md)
 5. **it makes us focus on the short term** rather than the long term [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md)
@@ -148,7 +158,7 @@ external motivation is problematic because:
 #### And the Special Circumstances when the Do
 
 to give better external motivation:
-1. **As a bonus** - give it undependably after the job has been completed (don't turn this into a habit since it will because a known external motivation)
+1. **As a bonus** - give it undependably after the job has been completed (don't turn this into a habit since it will because a known external motivation) [Unpredictable rewards sustain motivation better than expected ones](/notes/unpredictable-rewards-sustain-motivation-better-than-expected-ones.md)
 2. **Not money** - give cash alternatives (throw a party, give praises and acknowledgments).
 3. **Simple tasks** - save this for only routine tasks
 
@@ -212,7 +222,7 @@ to grow type i workers (internal motivation), they need [Autonomy](/notes/agency
 
 #### Purpose
 
-**what fuels type I workers is purpose, and not only monetary gains** (although these are important as well). Modern business have to take that into account, their companies can no longer be just profit maximizers, they have to also come with a purpose, a way to demonstrate that they increase people's welfare or bring social change. This can also be done using words. Oaths have a strong effect on our sense of purpose, like the hypocritic oath of doctors. [Finding meaning in work increases fulfillment and resilience](/notes/finding-meaning-in-work-increases-fulfillment-and-resilience.md)
+**what fuels type I workers is purpose, and not only monetary gains** (although these are important as well). Modern business have to take that into account, their companies can no longer be just profit maximizers, they have to also come with a purpose, a way to demonstrate that they increase people's welfare or bring social change. This can also be done using words. Oaths have a strong effect on our sense of purpose, like the hypocritic oath of doctors. [Public oaths strengthen commitment to purpose](/notes/public-oaths-strengthen-commitment-to-purpose.md) [Finding meaning in work increases fulfillment and resilience](/notes/finding-meaning-in-work-increases-fulfillment-and-resilience.md)
 
 :::note[Purpose]
 

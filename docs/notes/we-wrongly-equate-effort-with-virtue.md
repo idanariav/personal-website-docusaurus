@@ -1,13 +1,13 @@
 ---
 UUID: 20250823203132
 Created: '2025-08-23 20:31'
-Modified: '2026-04-11 22:29'
+Modified: '2026-08-10 11:52'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - No pain no gain
 Description: >-
@@ -44,7 +44,7 @@ If I could have the same level of outputs with less inputs, less struggle and en
 
 ### Opposers
 
-The problem is that it often leads us to [Goodhart's Law](/notes/goodharts-law.md), where we focus on the effort as the metric for success, instead of our progress/outcome. We suffer for the sake of suffering, regardless of the output. We think that by suffering more, we will achieve more success, as if it is a direct link.
+The problem is that it often leads us to [Goodhart's Law](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md), where we focus on the effort as the metric for success, instead of our progress/outcome. We suffer for the sake of suffering, regardless of the output. We think that by suffering more, we will achieve more success, as if it is a direct link.
 
 ### Open questions
 

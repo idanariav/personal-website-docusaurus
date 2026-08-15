@@ -1,7 +1,7 @@
 ---
 UUID: 20240123055852
 Created: '2024-01-23 05:58'
-Modified: '2026-04-13 06:19'
+Modified: '2026-08-14 17:30'
 tags: []
 FullTitle: >-
   The Most Good You Can Do - How Effective Altruism Is Changing Ideas About
@@ -28,7 +28,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 5
 Pages: 228
 Reread: 0
 Rate: 3
@@ -179,7 +179,7 @@ Depending on your skills and talents, it might be worth while for you to pursue 
 
 #### Is Love All We Need
 
-What motivates effective altruists? It's not a sense of connection to humankind, nor is it empathy, because both are mostly based on our close community, those we share a strong connection with, and not random strangers. **The goal therefore is not to increase our empathy, but rather acknowledge that human lives have equal importance regardless of our relations to them.**
+What motivates effective altruists? It's not a sense of connection to humankind, nor is it empathy, because both are mostly based on our close community, those we share a strong connection with, and not random strangers. **The goal therefore is not to increase our empathy, but rather acknowledge that human lives have equal importance regardless of our relations to them.** [Moral impartiality values all lives equally](/notes/moral-impartiality-values-all-lives-equally.md)
 
 This rule of rationality is hard to implement, since our emotions are always involved in our actions, but it is still a goal worth pursuing.
 
@@ -241,7 +241,7 @@ ask yourself not which goal is the most important or urgent, but rather where yo
 
 #### Difficult Comparisons
 
-It is hard to measure improvement of human lives. While methods such as QALY attempt to quantify improvements in the medical field, how do you compare curing blindness and education?
+It is hard to measure improvement of human lives. While methods such as QALY attempt to quantify improvements in the medical field, how do you compare curing blindness and education? [Treating measurable metrics as complete truth hides importance](/notes/treating-measurable-metrics-as-complete-truth-hides-importance.md)
 
 #### Protecting Animals and Nature
 
@@ -259,7 +259,7 @@ This is regardless of the fact that the animal industry is one of the biggest co
 #### Choosing the Best Organization
 
 A common method of testing an organization efficiency is to use random control trails [Experimentation is the only reliable way to improve and discover truth](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md), which compare an exposed group to a control group with similar attributes except for the intervention.
-It is better to use external estimators since they are less susceptible to corruption and bias
+It is better to use external estimators since they are less susceptible to corruption and bias [External evaluation reduces bias in assessment](/notes/external-evaluation-reduces-bias-in-assessment.md)
 
 #### Preventing Human Extinction
 

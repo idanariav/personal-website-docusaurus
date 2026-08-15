@@ -1,7 +1,7 @@
 ---
 UUID: 20240119063316
 Created: '2024-01-19 06:33'
-Modified: '2026-04-13 06:18'
+Modified: '2026-08-14 07:32'
 tags: []
 FullTitle: >-
   Talent is Overrated - What Really Separates World-Class Performers from
@@ -28,7 +28,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 7
 Pages: 244
 Reread: 0
 Rate: 3
@@ -56,11 +56,21 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen?*
 
 ### Critique
 
-✅ *by following this method, what will happen?*
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Bowling through a curtain** – Metaphor describing the futility of practicing without immediate, clear feedback, illustrating why practicing blindly leads to stagnation. Supports: Feedback is a non-negotiable component of deliberate practice.
+2. **Google’s 10% free time** – Case study of organizational structure that allocates specific time for exploration. Supports: Organizational innovation is the direct result of company culture and management, not spontaneous genius.
+3. **Chess board perception study** – Scientific observation revealing that experts only outperform novices when chess pieces are arranged in logical, game-relevant structures. Supports: Expertise relies on highly developed mental models and pattern recognition rather than brute memory.
+4. **Brain plasticity in aging** – Scientific evidence that the brain is capable of creating new neurons and developing capabilities well into old age. Supports: The development of expertise is not restricted by age or biological decline.
+5. **The "Multiplier" of passion** – The observed phenomenon where a small early advantage leads to recognition, which fuels increased practice and further success. Supports: Passion is not an innate trait but a byproduct of engagement and success in a field.
+6. **The 10-year rule** – Data-backed observation of the long-term investment required to reach peak performance. Supports: Expertise is a result of a long, cultivation-based process rather than sudden "eureka" moments.
+7. **Expert vs. Novice vision experiments** – Scientific findings showing that experts do not physically see better, but they perceive information differently—seeing further ahead and spotting smaller, more relevant details. Supports: Expertise involves physically and mentally different ways of processing information.
+8. **Talent Myth biographies** – Anecdotal examples of figures like Mozart, Tiger Woods, and Bill Gates, identifying their early training environments as the catalyst for success. Supports: Exceptional performance is driven by rigorous, early intervention rather than innate natural talent.
+9. **IQ vs. Performance correlation** – Statistical observation noting that general intelligence does not correlate with top-level performance in a specific field. Supports: High intelligence is not a prerequisite for extraordinary achievement.
+10. **Comfort, Learning, and Panic zones** – Conceptual model that distinguishes between "automatic" activity and "difficult" growth-oriented work. Supports: Deliberate practice requires constant, effortful challenge, which makes automaticity impossible.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -101,7 +111,7 @@ The answer is [Deliberate Practice is the best way to develop skills](/notes/del
 
 **Natural [Competence is developed through practice not innate talent](/notes/competence-is-developed-through-practice-not-innate-talent.md) doesn't exist**. Top performance has to include many hours spent training. Innate talent might give you a head start, but you will be left behind if you don't combine it with rigorous training.
 
-Talent is more like a myth we use to explain things we don't understand how they came about. But research shows that talent, at least in young age, has no correlation with peak performance later in life, and even in the best case, it serves as a "self fulfilling prophecy" for the parents that decide to dedicate time and money in developing the kids potential, which brings the actual improvements in skills. [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md)
+Talent is more like a myth we use to explain things we don't understand how they came about. But research shows that talent, at least in young age, has no correlation with peak performance later in life, and even in the best case, it serves as a "self fulfilling prophecy" for the parents that decide to dedicate time and money in developing the kids potential, which brings the actual improvements in skills. [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md) [Expectations of others become self-fulfilling through behavior shaping](/notes/expectations-of-others-become-self-fulfilling-through-behavior-shaping.md)
 
 Even exceptional cases like tiger woods, Mozart and Bill Gates are actually an example of early age training rather than innate talent
 
@@ -114,7 +124,7 @@ Even exceptional cases like tiger woods, Mozart and Bill Gates are actually an e
 
 ### How Smart Do You Have to Be?
 
-**There is also no correlation between general intelligence, aka IQ and performance.** Putting aside that question of the varsity of types of intelligence and ways to measure it. Whether it is memory, personality traits, or specific skills, it can be taught, we can develop and change ourselves [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md). Experts rely more on "mental images" [We store knowledge as visual mental models](/notes/we-store-knowledge-as-visual-mental-models.md) rather than brute memory.
+**There is also no correlation between general intelligence, aka IQ and performance.** [Intelligence has no correlation with performance](/notes/intelligence-has-no-correlation-with-performance.md) Putting aside that question of the varsity of types of intelligence and ways to measure it. Whether it is memory, personality traits, or specific skills, it can be taught, we can develop and change ourselves [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md). Experts rely more on "mental images" [We store knowledge as visual mental models](/notes/we-store-knowledge-as-visual-mental-models.md) rather than brute memory.
 
 So it seems that just experience, innate talent, or general intelligence are not the factors that explain performance, so what is?
 
@@ -156,7 +166,7 @@ However, deliberate practice is not that determines performance, we should still
 3. **Motivation** - aka [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) and [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md), which determines our ability to stick to training
 4. **Genetics** - while it is a [Nature vs nurture](/notes/nature-vs-nurture.md) discussion, genes might still play a role as to your level of passion towards a field, but not your limit in it
 
-We should remember that deliberate practice forces us to be [mindful](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) of our actions, since we are constantly trying to improve, **we can't allow ourselves to stop when it has become automated, because this is only the "good enough" level, but not excellent**.
+We should remember that deliberate practice forces us to be [mindful](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) of our actions, since we are constantly trying to improve, **we can't allow ourselves to stop when it has become automated, because this is only the "good enough" level, but not excellent**. [Automation of skill makes weaknesses permanent](/notes/automation-of-skill-makes-weaknesses-permanent.md)
 
 :::note[What Deliberate Practice Is and Isn’t]
 
@@ -232,7 +242,7 @@ The ways to improve workers are:
 **Nowadays, employee's development is essential to success, no longer a luxury**. Similarly, it is essential to focus not just on individuals but on teams as well.
 Team building is a skill that can make or break a team.
 
-The main points to focus on are unified goal, [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md), and [Transparency requires actively revealing truth to others](/notes/transparency-requires-actively-revealing-truth-to-others.md). Make sure hierarchy and ego are not in the teams culture. **Usually smaller teams that don't replace members often have easier time develop these traits**
+The main points to focus on are unified goal, [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md), and [Transparency requires actively revealing truth to others](/notes/transparency-requires-actively-revealing-truth-to-others.md). Make sure hierarchy and ego are not in the teams culture. **Usually smaller teams that don't replace members often have easier time develop these traits** [Smaller social circles build trust faster](/notes/smaller-social-circles-build-trust-faster.md)
 
 :::note[Applying the Principles in Our Organizations]
 
@@ -290,7 +300,7 @@ It is noticeable that high achievers continue to do rigid practices because they
 But where does it come from?
 Their answer is a little push or advantage that sets a [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) effect in action. This advantage means that the person is slightly better than others (of their age) in the field, and it is noticeable and praised by their environment (could be parents, school, community). T**his sparks motivation for further practice, which improves the skill, which increases the gap, and so forth**. By the time they meet their equals, they have already developed the internal motivation for this field.
 
-This advantage can be the result of a biological trait, but also the way parents treat the child and help them explore their interest and develop their skills. All it takes is the first investment of practices and the immediate worthwhile results, and the rest would come. This means that development is an issue of belief, do you believe in a growth mindset or a fixed mindset?
+This advantage can be the result of a biological trait, but also the way parents treat the child and help them explore their interest and develop their skills. All it takes is the first investment of practices and the immediate worthwhile results, and the rest would come. This means that development is an issue of belief, do you believe in a growth mindset or a fixed mindset? [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md)
 
 :::note[Where Does the Passion Come From?]
 

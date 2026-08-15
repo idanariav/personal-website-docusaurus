@@ -1,7 +1,7 @@
 ---
 UUID: 20231113093558
 Created: '2023-11-13 09:35'
-Modified: '2026-04-13 06:15'
+Modified: '2026-08-11 20:25'
 tags: []
 Author:
   - '[[Lori Gottlieb]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 13
 Pages: 413
 Rate: 3
 PublishDate: 2019-01-01T00:00:00.000Z
@@ -55,12 +55,22 @@ SiteProcssed: true
 4. Change is both loss and a gain
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen?*
+1. If you believed it is true late for you to change, that you are incapable of change or undeserving a better life, have hope, it is never too late, and therapy can be the key
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-1. If you believed it is true late for you to change, that you are incapable of change or undeserving a better life, have hope, it is never too late, and therapy can be the key
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Weather System Metaphor** – Metaphor Comparing emotions to weather patterns that "blow in and blow out" to illustrate the impermanence of feelings. Supports: The claim that agony and difficult emotions are not permanent states but passing phenomena.
+2. **The "Flight to Health" Phenomenon** – Concept/Case study A specific behavior where patients convince themselves they are “cured” as a defense mechanism to avoid the anxiety of working through deeper issues. Supports: The claim that some apparent improvements are actually avoidance tactics rather than genuine progress.
+3. **The Five Stages of Change** – Framework The model of change involving Pre-contemplation, Contemplation, Preparation, Action, and Maintenance. Supports: The argument that change is a structured, intentional process rather than a spontaneous event.
+4. **"Idiot Compassion" vs. "Wise Compassion"** – Conceptual dichotomy The distinction between avoiding conflict to spare feelings (which can be harmful) and delivering a "loving truth bomb" when necessary. Supports: The argument that honesty and directness are essential to effective, compassionate care.
+5. **The "Snapshot" Concept** – Analogy Using photographs to describe how people hold specific, disjointed images of themselves, which therapists help piece together. Supports: The claim that achieving inner peace requires integrating all parts of one’s identity rather than viewing life as a series of disconnected events.
+6. **Anger as an Iceberg** – Metaphor The description of anger as the tip of an iceberg, masking deeper feelings like fear, loneliness, or insecurity. Supports: The claim that addressing surface-level irritability requires looking beneath it to the underlying, suppressed emotions.
+7. **The Silence as Trash Removal** – Analogy Describing silence in therapy as "emptying the trash"—stopping the flow of trivial words to allow significant truths to surface. Supports: The claim that deliberate silence allows for deeper emotional mining than constant chatter.
+8. **"There’s No Hierarchy of Pain"** – Principle The assertion that suffering is not a contest to be measured or ranked between people. Supports: The claim that one should stop avoiding pain by minimizing it and instead figure out how to live with it.
+9. **The "Deathbed Conversation" Myth** – Observation A realization that dying moments are often consumed by drugs and confusion, rendering them ineffective for profound life-changes. Supports: The claim that people must become the person they want to be _now_, rather than counting on a future turning point.
+10. **Displacement** – Psychological mechanism Describing the act of venting feelings onto an unrelated target (e.g., yelling at a pet when the boss creates the stress). Supports: The claim that unresolved emotions will always find harmful outlets if not addressed at the source.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -98,7 +108,7 @@ This is related to the topic of agency. We have to understand our part in the ci
 
 #### If the Queen Had Balls
 
-We can't live in a "what if" mentality, or "it will be better when...", **the perfect is the enemy of the good**. We have to recognize and be grateful for what we have and stop projecting fantasies on our live, only to live in illusion which will end up in depression once the bubble bursts. [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md)
+We can't live in a "what if" mentality, or "it will be better when...", **the perfect is the enemy of the good**. [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md) We have to recognize and be grateful for what we have and stop projecting fantasies on our live, only to live in illusion which will end up in depression once the bubble bursts. [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md)
 
 :::note[Quotes]
 
@@ -108,7 +118,7 @@ We can't live in a "what if" mentality, or "it will be better when...", **the pe
 
 #### In the Space of a step
 
-**Change doesn't happen in one day, one moment or one action, it is a series of small steps**, each one we make is only to reach the next one, we don't even have to visualize the end goal, the progress is what matters.
+**Change doesn't happen in one day, one moment or one action, it is a series of small steps**, each one we make is only to reach the next one, we don't even have to visualize the end goal, the progress is what matters. [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
 
 :::note[Quotes]
 
@@ -119,7 +129,7 @@ We can't live in a "what if" mentality, or "it will be better when...", **the pe
 
 #### The Smart One or the Hot One
 
-If there is nothing that's keeping you going other than escapism, like watching tv, then you are depressed, and should dig for the reason for that.
+If there is nothing that's keeping you going other than escapism, like watching tv, then you are depressed, and should dig for the reason for that. [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md)
 
 :::note[Quotes]
 
@@ -152,7 +162,7 @@ Patients often have conflicting incentives, they want the therapist to know thei
 
 #### Rosie
 
-**We often mistake feeling numb with feeling nothing**. More often we are just overwhelmed with too many emotions of different, conflicting Kinds, that the only solution is to block everything out.
+**We often mistake feeling numb with feeling nothing**. [Suppressing emotions is an all or nothing deal](/notes/suppressing-emotions-is-an-all-or-nothing-deal.md) More often we are just overwhelmed with too many emotions of different, conflicting Kinds, that the only solution is to block everything out.
 
 :::note[Quotes]
 
@@ -194,7 +204,7 @@ In that sense, suffering happens because it is helpful for us in some sense, per
 
 #### Welcome to Holland
 
-Life is filled with uncertainty, and many things we can't control. **Instead of focusing on the misfortunes we have, we need to focus on what to do with them**. To change from victim to fighter. Even when death looks us in the eye, to have the courage to look back. Instead of "planning for the future", do now. Be the person you want to be, do the things you've always dreamed of.
+Life is filled with uncertainty, and many things we can't control. **Instead of focusing on the misfortunes we have, we need to focus on what to do with them**. [Focus on what you can do next not what went wrong](/notes/focus-on-what-you-can-do-next-not-what-went-wrong.md) To change from victim to fighter. Even when death looks us in the eye, to have the courage to look back. Instead of "planning for the future", do now. Be the person you want to be, do the things you've always dreamed of.
 
 :::note[Quotes]
 
@@ -211,7 +221,7 @@ Life is filled with uncertainty, and many things we can't control. **Instead of 
 Therapy is not a "one size fits all", it requires flexibility, to set unique boundaries with each patient, all in the purpose of allowing them to feel comfortable and at peace.
 #### The Whole Package
 
-The answer to an unanswered question is always no. **Don't be afraid from rejection, you might be surprised how much people are inclined to say yes** and help people
+The answer to an unanswered question is always no. **Don't be afraid from rejection, you might be surprised how much people are inclined to say yes** and help people [Rejection is rarer than we fear](/notes/rejection-is-rarer-than-we-fear.md)
 #### Without Memory or Desire
 
 The goal is therapy is to allow the patient to create a more healthy narrative of their life, or the traumatic event. The main way is to allow them to grieve, in a self compassionate way.
@@ -248,7 +258,7 @@ Dreams are often an indication about our fears. The dream itself is often a meta
 
 #### The First Confession
 
-**When we ignore certain parts of ourselves, they find other, more harmful ways, of being heard**. We suddenly feel depressed, unmotivated, have bad habits, or unexplained fits of rage.
+**When we ignore certain parts of ourselves, they find other, more harmful ways, of being heard**. [Suppressing emotions causes them to resurface as outbursts](/notes/suppressing-emotions-causes-them-to-resurface-as-outbursts.md) We suddenly feel depressed, unmotivated, have bad habits, or unexplained fits of rage.
 
 :::note[Quotes]
 
@@ -284,7 +294,7 @@ Dreams are often an indication about our fears. The dream itself is often a meta
 Our life's purpose doesn't have to be a grandiose one, as long as it makes us fill fulfilled, even being a cashier that helps people be more joyful is a worthy cause.
 #### Rita
 
-**The opposite to depression is vitality, to do something, to feel alive**. First start doing, going out, be in places, interact with others. Happiness will follow.
+**The opposite to depression is vitality, to do something, to feel alive**. [Happiness comes from active engagement not passive consumption](/notes/happiness-comes-from-active-engagement-not-passive-consumption.md) First start doing, going out, be in places, interact with others. Happiness will follow.
 
 #### The UPS Guy
 
@@ -307,7 +317,7 @@ Silence is when truth is revealed. At first, our words convey the narrative we w
 **People tend to project their feelings onto others In order to get rid of them**. for example, if you're angry, you might feel that your partner is angry too. [We attribute our emotions to others and misread theirs](/notes/we-attribute-our-emotions-to-others-and-misread-theirs.md)
 #### On the Clock
 
-**You can't help others if you are unauthentic**, if you don't believe what you say, or try to present a false image of yourself.
+**You can't help others if you are unauthentic**, if you don't believe what you say, or try to present a false image of yourself. [Acting in alignment with your values is authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.md)
 
 :::note[Quotes]
 
@@ -320,7 +330,7 @@ Silence is when truth is revealed. At first, our words convey the narrative we w
 
 #### My Wandering Uterus
 
-Untreated anxiety can manifest as an actual physical illness
+Untreated anxiety can manifest as an actual physical illness [The body is affected by mental states](/notes/the-body-is-affected-by-mental-states.md)
 
 #### Emergency Session
 
@@ -376,7 +386,7 @@ We desire quick solutions, we have short attention span, and zero patience. All 
 
 #### Legoland
 
-**Repressing emotions causes harm not only to yourself but also to others**. Your partner for example might feel the need to fill the void, feeling for both of you, or replace the void with anger and frustration. **To have intense emotions is not to break down it's to break open**
+**Repressing emotions causes harm not only to yourself but also to others**. Your partner for example might feel the need to fill the void, feeling for both of you, or replace the void with anger and frustration. **To have intense emotions is not to break down it's to break open** [Regulation means withstanding emotions, not suppressing them](/notes/regulation-means-withstanding-emotions-not-suppressing-them.md)
 
 :::note[Quotes]
 

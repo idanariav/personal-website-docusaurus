@@ -1,13 +1,13 @@
 ---
 UUID: 20230329074501
 Created: '2023-03-29 07:45'
-Modified: '2026-04-11 22:21'
+Modified: '2026-08-10 11:53'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 6
 Image: >-
   [[Focus is concentrated cognitive effort that maximizes performance on a
   single task.png]]
@@ -32,7 +32,7 @@ SiteProcssed: true
 
 ### Claim
 
-Focus stems from the [Executive Attention Network](/notes/executive-attention-network.md), and it is our ability to concentrate on a single task or main idea. To harness our mental capacity for solving [Problems](/notes/problems.md), [Critical Thinking](/notes/critical-thinking.md) and productivity.
+Focus stems from the [Executive Attention Network](/notes/executive-attention-network.md), and it is our ability to concentrate on a single task or main idea. To harness our mental capacity for solving [Problems](/notes/problems.md), [Critical Thinking](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md) and productivity.
 
 ### Explanation
 
@@ -41,7 +41,7 @@ Focus stems from the [Executive Attention Network](/notes/executive-attention-ne
 It is important to avoid trying to be "focused" all the time, as with any system, overusing or abusing will cause it to crash.
 
 To make effective use of our ability to focus, we should:
-1. **Task batching** - when we [Batch](/notes/task-batching.md) tasks of similar nature together, we reduce the amount of switching done, which increases uninterrupted periods of focus.
+1. **Task batching** - when we [Batch](/notes/group-similar-tasks-to-reduce-switching-costs.md) tasks of similar nature together, we reduce the amount of switching done, which increases uninterrupted periods of focus.
 2. **Time blocking** - Similarly, setting aside [time](/notes/time-blocking.md) for specific tasks can help us clear our mind and focus only on what we are supposed to do in that time.
 3. **Clearing our mind** - The more we try to think about things simultaneously, the less we are able to focus. That is why we should treat our mind as a [processor](/notes/our-mind-is-a-processor-and-not-a-warehouse.md) and not a warehouse.
 

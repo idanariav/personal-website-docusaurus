@@ -1,7 +1,7 @@
 ---
 UUID: 20250210203639
 Created: '2025-02-10 20:36'
-Modified: '2026-04-13 06:16'
+Modified: '2026-08-12 10:16'
 tags: []
 FullTitle: >-
   Peak Performance - Elevate Your Game, Avoid Burnout, and Thrive with the New
@@ -30,7 +30,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 6
 Pages: 205
 Reread: 0
 Rate: 3
@@ -66,6 +66,17 @@ You will find a way to improve in a sustainable, healthy manner
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
+1. **Biological Analogous Growth** – Metaphor comparing the systematic process of intellectual and creative development to physical athletic training. Supports: That meaningful growth necessitates a repeating cycle of challenge (stress) and recovery (rest).
+2. **The "Sweet Spot" Threshold** – Conceptual framework describing tasks or challenges situated at the outer edge of an individual's current skill level. Supports: Managing stress levels in moderation to avoid both burnout and stagnation.
+3. **Deliberate Practice Metric** – Performance finding stating that skill acquisition is driven by precise, intense effort rather than total years of experience. Supports: That peak performance is a result of specific training methodologies.
+4. **The 90-Minute Cycle** – Productivity method consisting of 75 minutes of concentrated, uninterrupted work followed by 15 minutes of rest. Supports: Maintaining peak cognitive focus and avoiding the detrimental effects of multitasking.
+5. **Stress-Response Reframing** – Psychological technique of verbally labeling physiological arousal as "excitement" rather than "stress." Supports: Converting negative emotional states into actionable fuel for high-pressure situations.
+6. **Sleep as Cognitive Maintenance** – Scientific observation linking adequate sleep (and REM-rich cycles) to emotion processing, physical repair, and clarity. Supports: That rest is not an absence of work, but a productive necessity for sustained performance.
+7. **Smartphone Displacement** – Behavioral strategy involving the physical separation of devices from the working environment to mitigate dopamine spikes. Supports: Eliminating specific environmental triggers to protect deep focus.
+8. **Subconscious Creative Processing** – Rationale based on internal mental functioning where complex insights only surface when the conscious mind enters a restful state. Supports: The necessity of relaxation for solving difficult creative or intellectual problems.
+9. **Environmental Priming** – Case example of utilizing specific tools (like a "writing-only" computer) to trigger automatic behavioral responses. Supports: Using environmental design to minimize decision fatigue and maximize routine consistency.
+10. **Transcendent Motivation** – Psychological finding demonstrating that performance increases and perceived effort decreases when an individual acts for a purpose beyond themselves. Supports: Overcoming mental barriers and burnout through a shift in perspective.
+
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -130,7 +141,7 @@ The only way to grow is through experiencing difficulties [Adversarial Growth](/
 
 Peak performance is based on [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md), it is not a matter of how much experience you have, rather how you train. The key aspect is [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md), avoiding all [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) and most of all avoiding [multitasking](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md). While it feels more productive, it's actually harmful for our productivity due to [Task switching incurs cognitive costs that reduce productivity](/notes/task-switching-incurs-cognitive-costs-that-reduce-productivity.md) and [Unfinished tasks linger in the mind and reduce focus](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md).
 
-Avoiding distractions is hard, especially due to the [dopamine](/notes/dopamine.md) spike our smartphones generate. That's why *out of sight out of mind* is the best policy. Keep it off, and in another room when you need to concentrate [What matters most is often less visible than what is salient](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md).
+Avoiding distractions is hard, especially due to the [dopamine](/notes/dopamine.md) spike our smartphones generate. That's why *out of sight out of mind* is the best policy [Removing objects from sight reduces temptation](/notes/removing-objects-from-sight-reduces-temptation.md). Keep it off, and in another room when you need to concentrate [What matters most is often less visible than what is salient](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md).
 
 Concentrating for a long period is hard. Peak performance is working around a [Pomodoro technique](/notes/pomodoro-technique.md) schedule, working in 90 minute cycles with 75 concentrated [Focused uninterrupted work produces the best results](/notes/focused-uninterrupted-work-produces-the-best-results.md) and 15 minutes of rest.
 
@@ -148,9 +159,9 @@ When you're feeling stress, don't try to shut down the feeling. View it as a cha
 
 There are two ways of resting, one more conscious, the other subconscious.
 
-To rest "consciously", we can practice [Meditation strengthens focus and mindfulness through intentional presence](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md), which increases our [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) skill. The largest benefit is that mindfulness gives us the power of [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md). For example, when we experience stress, experts have a shorter and smaller crisis because they notice their pain as an observer, and maintain calmness despite the pressure. Novices on the other hand, experience [Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md), they are consumed by their stress, surrendering to the pain, unable to function.
+To rest "consciously", we can practice [Meditation strengthens focus and mindfulness through intentional presence](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md), which increases our [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) skill. The largest benefit is that mindfulness gives us the power of [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md). For example, when we experience stress, experts have a shorter and smaller crisis because they notice their pain as an observer, and maintain calmness despite the pressure [cognitive distancing reduces emotional load](/notes/cognitive-distancing-reduces-emotional-load.md). Novices on the other hand, experience [Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md), they are consumed by their stress, surrendering to the pain, unable to function.
 
-The other form of resting is by activating our [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md), which is essential for [creativity](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md). In general, the bigger the problem we face, the longer we should rest in order to let our minds subconsciously process it.
+The other form of resting is by activating our [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md), which is essential for [creativity](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md). In general, the bigger the problem we face, the longer we should rest in order to let our minds subconsciously process it [Bigger problems need more incubation time](/notes/bigger-problems-need-more-incubation-time.md).
 
 :::note[THE PARADOX OF REST]
 
@@ -217,7 +228,7 @@ When we focus on just ourselves, our capabilities are limited. Our ego will usua
 
 Purpose, specifically through [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md) gives us the [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) and [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) to push beyond our limits
 
-Fatigue and burnout is at least partially mental. That is why a sense of purpose can allow us to overcome it.
+Fatigue and burnout is at least partially mental. That is why a sense of purpose can allow us to overcome it [Purpose helps overcome mental fatigue](/notes/purpose-helps-overcome-mental-fatigue.md).
 
 :::note[TRANSCEND YOUR“SELF”]
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20220703190222
 Created: '2022-07-03 19:02'
-Modified: '2026-04-13 06:13'
+Modified: '2026-08-10 22:27'
 tags: []
 Author:
   - '[[David Allen]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 267
 Rate: 3
 PublishDate: 2015-03-25T00:00:00.000Z
@@ -329,7 +329,7 @@ A project is everything continues up to a year that takes more than one action. 
 
 ### The Power of the Key Principles
 
-The filing system should be easy to use, accessible and at hand. You should keep the internal logic intact, things should be labeled. Once a year you should do a "house cleaning", deleting what's irrelevant. The cleaner and smaller the system, the easier it will be to use.
+The filing system should be easy to use, accessible and at hand. You should keep the internal logic intact, things should be labeled. Once a year you should do a "house cleaning", deleting what's irrelevant. The cleaner and smaller the system, the easier it will be to use. [Distilling to essentials creates clarity and actionability](/notes/distilling-to-essentials-creates-clarity-and-actionability.md)
 
 Everything should be included in the system. Have an inbox where you go over everything you need to sort and organize. If it wont include everything, that you wont be able to trust your system, and therefore your mind wont really be empty since it will try and think of what are you still missing.
 

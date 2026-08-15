@@ -1,7 +1,7 @@
 ---
 UUID: 20231226182753
 Created: '2023-12-26 18:27'
-Modified: '2026-04-13 06:13'
+Modified: '2026-08-09 07:03'
 tags: []
 Author:
   - '[[Greg Mckeown]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 8
 Pages: 260
 Rate: 3
 PublishDate: 2014-04-17T00:00:00.000Z
@@ -59,6 +59,7 @@ SiteProcssed: true
 
 ⛓ *Life lessons, action items*
 1. **Define my essential intent** - I need to thing of the "one thing" that drives me, and work towards that. Perhaps philosophy, writing, educating, the combination of the three.
+2. You will have a more relaxed and enjoyable life since you will work only towards the essential aspects of it, and clear your mind and your resources from all other non-essential things.
 
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
@@ -75,8 +76,17 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-1. You will have a more relaxed and enjoyable life since you will work only towards the essential aspects of it, and clear your mind and your resources from all other non-essential things.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Metaphor (The Messy Closet)** – Life is an increasingly cluttered space where, much like a closet, unused "clothes" (commitments) accumulate unless purged regularly. Supports: The necessity of systematic elimination of non-essential activities.
+2. **Metaphor (The Slowest Hiker/Theory of Constraints)** – Similar to the bottleneck in a pipe or the slowest hiker in a group, peak efficiency is restricted by the single most narrow obstacle. Supports: The argument that execution should focus on removing constraints rather than adding resources.
+3. **Metaphor (The Film Editor)** – A master editor adds value by using deliberate subtraction to leave only the elements that contribute directly to the story. Supports: The argument that improvement often stems from removing the unnecessary rather than adding more.
+4. **Psychological Principles (Sunk-Cost & Endowment Effect)** – These biases cause us to overvalue things we already own or keep investing in endeavors simply because of past costs. Supports: The necessity of objective "uncommitting" to stop wasting resources on losing propositions.
+5. **Principle (The Vital Few)** – A small proportion of inputs (the 20%) generates the majority of meaningful results. Supports: The strategy of distinguishing the "vital few" from the "trivial many" to optimize contribution.
+6. **Decision Framework (The "Hell Yeah" Criteria)** – If an opportunity does not trigger a "hell yeah" response, it should be treated as a "no." Supports: The use of explicit, extreme criteria to filter out mediocre opportunities.
+7. **Scientific Finding (Play and Plasticity)** – Research indicates that play stimulates brain plasticity, adaptability, and creativity, rather than just serving as a stress reliever. Supports: The assertion that play is a functional, essential part of high-level performance.
+8. **Analytical Model (The Clarity-Inspiration Matrix)** – A framework categorizing intentions by their clarity and potential to inspire, identifying "essential intent" as the specific intersection that drives focus. Supports: The argument that a clear, inspirational goal serves as a "first decision" that filters thousands of future choices.
+9. **Observation on Performance (Sleep Research)** – Elite performers view sleep as a resource for regeneration that allows for higher-quality practice. Supports: The argument that investing in personal well-being is vital for maintaining the "asset" of one’s own performance.
+10. **Behavioral Insight (Small Wins)** – Pursuing small, simple goals provides momentum and generates a positive feedback loop. Supports: The idea that progress is better sustained through incremental wins rather than attempting to tackle large, overwhelming objectives at once.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -97,7 +107,7 @@ SiteProcssed: true
 
 ### The Essentialist
 
-Essentialism is to make the best use of our time, energy and motivation. That means we need to know "how to say no" [Saying no protects time and energy for what matters most](/notes/saying-no-protects-time-and-energy-for-what-matters-most.md), and to believe that "less is more" [Improvement often comes from removing rather than adding](/notes/improvement-often-comes-from-removing-rather-than-adding.md). When we narrow down our focus, we would be able to progress much more, but more critically, we would enjoy the process much more, and not just chase an endless destination while feeling stuck in place and stretched too thin.
+Essentialism is to make the best use of our time, energy and motivation. That means we need to know "how to say no" [Saying no protects time and energy for what matters most](/notes/saying-no-protects-time-and-energy-for-what-matters-most.md), and to believe that "less is more" [Improvement often comes from removing rather than adding](/notes/improvement-often-comes-from-removing-rather-than-adding.md). When we narrow down our focus, we would be able to progress much more, but more critically, we would enjoy the process much more, and not just chase an endless destination while feeling stuck in place and stretched too thin. [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
 
 Non essentialism is here because:
 1. **Explosion of choices** - we have so much more to choose from, it is unavoidable that it will be harder for us to focus on just one thing [Complexity](/notes/complexity.md)
@@ -151,7 +161,7 @@ The enemy of the essentialist (and it's conversion)
 
 **We don't always have control on which options are available to us, but we are always free to choose among them**. [Freedom of response](/notes/agency-is-the-ability-to-connect-desires-and-actions.md)
 
-To deny our ability to choose is to give others the power and permission to choose for ourselves.
+To deny our ability to choose is to give others the power and permission to choose for ourselves. [Refusing to choose surrenders that power to others](/notes/refusing-to-choose-surrenders-that-power-to-others.md)
 Also, when we deny this ability, we become helpless. We either surrender to nothingness [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md), we simply give up and do nothing, or we become hyper and try to do everything, and say yes to everything.
 
 :::note[CHOOSE The Invincible Power of Choice]
@@ -178,7 +188,7 @@ Effort is not directly linked to results, we can work harder with barely achievi
 
 [Multitasking is sequential task switching with cognitive switching costs](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md). We need to choose a strategy and stick to it [Test assumptions with small experiments first](/notes/test-assumptions-with-small-experiments-first.md) [Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md). **Only by truly dedicating ourselves into just one thing we can be truly successful** .
 
-Life is about trade-offs, we can't do it all, and we must focus on the one thing that we truly want. **Saying yes to many things will hurt our progress in all of them**.
+Life is about trade-offs, we can't do it all, and we must focus on the one thing that we truly want. **Saying yes to many things will hurt our progress in all of them**. [Taking on too much overwhelms capacity and causes depletion](/notes/taking-on-too-much-overwhelms-capacity-and-causes-depletion.md)
 
 :::note[TRADE-OFF Which Problem Do I Want?]
 
@@ -276,7 +286,7 @@ We learned how to filter the best from the good, now it is time to learn how to 
 
 #### CLARIFY One Decision That Makes a Thousand
 
-Without a clear goal, we have no [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md), and any step we do is only semi beneficial at best because we're not even sure if it's in the right direction. Furthermore, it can cause us to focus on the non essentials, specifically our image, favoring that over true essence of progress. [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md)
+Without a clear goal, we have no [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md), and any step we do is only semi beneficial at best because we're not even sure if it's in the right direction. Furthermore, it can cause us to focus on the non essentials, specifically our image, favoring that over true essence of progress. [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md) [Distinguishing appearance from authentic substance reveals hidden conflicts](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md)
 
 What we need is a **essential intent**, which is both clear and inspirational.
 The result of the clarity-inspiration matrix is:
@@ -287,7 +297,7 @@ Inspiring:
 1. Unclear - mission statements (such as: will be the most innovative company in the us)
 2. Clear - essential intent (I will become a doctor in the next five years)
 
-The goal of the essential intent is to make a decision now that will filter our a thousand later on. **Each decision can be compared to our intent and ask "does is advance us towards our goal?" If not, discard it**. The essential intent must be phrased such that it could answer "how will we know when we have succeeded?"
+The goal of the essential intent is to make a decision now that will filter our a thousand later on. [A single clear decision filters a thousand future decisions](/notes/a-single-clear-decision-filters-a-thousand-future-decisions.md) **Each decision can be compared to our intent and ask "does is advance us towards our goal?" If not, discard it**. The essential intent must be phrased such that it could answer "how will we know when we have succeeded?"
 
 :::note[CLARIFY One Decision That Makes a Thousand]
 
@@ -405,7 +415,7 @@ We can either have huge goals and nothing to show for, or we can [Starting small
 #### FLOW The Genius of Routine
 
 Make an initial effort [Initial effort investments create friction preventing optimal behavior change](/notes/initial-effort-investments-create-friction-preventing-optimal-behavior-change.md) to create positive habits. You can either change the behavior based on an existing [Cue](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md), or create new cues for better habits.
-**Once you have good habits, good results will become effortless and automatic.**
+**Once you have good habits, good results will become effortless and automatic.** [Repeated actions become automatic through habit formation](/notes/repeated-actions-become-automatic-through-habit-formation.md)
 
 :::note[FLOW The Genius of Routine]
 

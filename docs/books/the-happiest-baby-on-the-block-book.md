@@ -1,7 +1,7 @@
 ---
 UUID: 20240703070056
 Created: '2024-07-03 07:00'
-Modified: '2026-04-13 06:19'
+Modified: '2026-08-14 17:18'
 tags: []
 FullTitle: >-
   The Happiest Baby on the Block - The New Way to Calm Crying and Help Your
@@ -28,7 +28,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 6
 Pages: 260
 Reread: 0
 Rate: 3
@@ -174,7 +174,7 @@ Coffee gets to the breast about 4-6 hours after consumption
 
 Avoid giving medication to your baby without consulting a doctor first.
 
-It's not their personality or our anxiety that triggers these cases, although we should be sensitive to their needs, and know that they could be under or over stimulated, both can cause irritating behavior
+It's not their personality or our anxiety that triggers these cases, although we should be sensitive to their needs, and know that they could be under or over stimulated, both can cause irritating behavior [Overstimulation or understimulation causes distress](/notes/overstimulation-or-understimulation-causes-distress.md)
 
 :::note[The Top Five Colic Theories, and Why They’re (Mostly) Wrong]
 
@@ -230,7 +230,7 @@ Important notes for swaddling:
 3. Keep the blanket away from the face, it could trigger a false hunger sensation
 4. Swaddling shouldn't be a whole day thing. Only for sleeping and crying (12 hours max)
 
-Swaddling increases focus and learning because in those early months the hands are mostly a distraction.
+Swaddling increases focus and learning because in those early months the hands are mostly a distraction. [Removing physical distractions increases focus](/notes/removing-physical-distractions-increases-focus.md)
 
 [link](https://www.youtube.com/watch?v=ioISOf-EDpc&pp=ygUWc3dhZGRsZSBhIG5ld2Jvcm4gYmFieQ%3D%3D)
 #### Side Stomach
@@ -239,7 +239,7 @@ It reduces their Moro reflex, and calms them down. You can hold them on their si
 
 #### Shushing
 
-This sound of "shush" triggers us to calm down like an angry librarian. It is similar to the mix of sounds we hear in the womb. When the baby cries, go for a strong shush right next to their ear. Then as they calm down switch to a more gentler one. As opposed to what we are used to as adults, infants are used to noise and sleep much better with it. The advantage of white noise in general is that we can use it to piggyback on the calming reflex and turn it into a sleeping habit. For example, playing white noises during the first few months will lock those noises as sleep inducing which you could use to help them sleep better throughout the first year. You should use those noises every night for the whole night. Keep sound at 60-65 decibel max (measure with phone app)max (measure with phone app)
+This sound of "shush" triggers us to calm down like an angry librarian. It is similar to the mix of sounds we hear in the womb. When the baby cries, go for a strong shush right next to their ear. Then as they calm down switch to a more gentler one. As opposed to what we are used to as adults, infants are used to noise and sleep much better with it. The advantage of white noise in general is that we can use it to piggyback on the calming reflex and turn it into a sleeping habit. [Repeated actions become automatic through habit formation](/notes/repeated-actions-become-automatic-through-habit-formation.md) For example, playing white noises during the first few months will lock those noises as sleep inducing which you could use to help them sleep better throughout the first year. You should use those noises every night for the whole night. Keep sound at 60-65 decibel max (measure with phone app)max (measure with phone app)
 
 #### Swinging
 
@@ -272,5 +272,5 @@ Even then, babies sleep at 2-3 hours cycle at first, and can ramp up to 4-5 hour
 
 We can help babies sleep more by using sleep cues, and the best we have are the 5 S's. Swaddling and white noise especially, can add 45-60 minutes of sleep during the night, which could be life saving for the parents.
 
-To help them learn to self sooth. Once they are fed and happy, even if they fall asleep in your lap, wake them gently when putting them in the crib so that they will learn how to fall asleep in the crib.
+To help them learn to self sooth. Once they are fed and happy, even if they fall asleep in your lap, wake them gently when putting them in the crib so that they will learn how to fall asleep in the crib. [Direct practice transfers skills better than indirect study](/notes/direct-practice-transfers-skills-better-than-indirect-study.md)
 
