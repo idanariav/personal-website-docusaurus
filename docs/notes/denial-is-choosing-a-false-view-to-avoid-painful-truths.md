@@ -1,13 +1,13 @@
 ---
 UUID: 20250226170310
 Created: '2025-02-26 17:03'
-Modified: '2026-04-11 22:20'
+Modified: '2026-08-18 14:05'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Denial is choosing a false view to avoid painful truths.png]]'
 ImageText: >-
   Rose-tinted glasses showing healthy plants while a wilting plant sits below in
@@ -18,7 +18,7 @@ Description: >-
   exhaustion and suffering.
 aliases:
   - Denial
-new_schema: true
+  - Motivated reasoning
 Topic:
   - '[[Avoidance and Defense Mechanisms]]'
 Origin: null
@@ -32,25 +32,22 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 Denial is a form of [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) of [Truth](/notes/truth.md). There is some truth that we don't want to accept, probably because it is too harmful, so we choose a different view.
 
 ### Explanation
-
 Perhaps unconsciously, our strategy is to try and [manifest](/notes/manifesting-imposes-beliefs-onto-reality-rather-than-accepting-it.md) a different reality, one where this truth is false. We do the opposite of [accepting](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) it.
 
 ### Why it matters
-
 To live in a constant state of denial is the be out of [tune](/notes/resonance-is-being-in-sync-with-reality-and-others.md) with the world. Lying constantly to ourselves and others is very [exhausting](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md), and it is a great source of [suffering](/notes/life-is-pain.md). While admitting the truth is the best course of action in the long run, it's likely the short term costs are too high [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md).
 
 ### Examples
 
 ### Supporters
+Denial fits a broader pattern: [Coping trades short-term relief for long-term cost](/notes/coping-trades-short-term-relief-for-long-term-cost.md) — the comfortable lie buys a moment of peace, but the underlying wound goes unaddressed.
 
 ### Opposers
 
 ### Open questions
-
 ## Visual
 
 ![Denial is choosing a false view to avoid painful truths](/notes/denial-is-choosing-a-false-view-to-avoid-painful-truths.webp)

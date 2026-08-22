@@ -1,12 +1,12 @@
 ---
 UUID: 20230903175402
 Created: '2023-09-03 17:54'
-Modified: '2026-04-11 22:19'
+Modified: '2026-08-17 16:47'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Confusing current reality with how things should be blocks change.png]]'
 ImageText: Water in a rectangle container vs triangle or circular ones
 Description: >-
@@ -15,7 +15,6 @@ Description: >-
   limited critical thinking.
 aliases:
   - Is vs ought
-new_schema: true
 Topic:
   - '[[Status Quo and Inertia]]'
   - '[[Avoidance and Defense Mechanisms]]'
@@ -30,11 +29,9 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 Is vs ought is a cognitive bias in which we treat the existing situation as a justification for it's existence.
 
 ### Explanation
-
 This leads to several problems:
 1. **Circular reasoning** - a thing should exist because it already exists
 2. **Mixing facts and values** - often when we talk about reasons for existing, the answers are imbued with certain values, a subjective answer, on our [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md), rather than a factual one. This means that the phenomenon gets an ideological reasoning simply by existing ("it should because it is").
@@ -43,16 +40,16 @@ This leads to several problems:
 
 Both because it is hard to think about the [Imagining alternatives sharpens our judgment](/notes/imagining-alternatives-sharpens-our-judgment.md) (what if...) and because we give credit to things that have [lasted](/notes/institutions-preserve-the-problems-they-exist-to-solve.md) long, or at least during our life-time, we fall often to this trap. The reality as it is now is so [familiar](/notes/we-prefer-what-is-familiar-over-what-is-better.md) that we are too [attached](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) to imagine anything else. The reality forms a [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md) for our thoughts and beliefs.
 
-### Why it Matters
+### Why it matters
 
 ### Examples
 
 ### Supporters
+This is closely related to [status-quo bias](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md) — both treat "what already is" as a reason to keep it that way, rather than evaluating it on its own merits.
 
 ### Opposers
 
-### Open Questions
-
+### Open questions
 ## Visual
 
 ![Confusing current reality with how things should be blocks change](/notes/confusing-current-reality-with-how-things-should-be-blocks-change.webp)

@@ -1,7 +1,7 @@
 ---
 UUID: 20241001160941
 Created: '2024-10-01 16:09'
-Modified: '2026-04-13 06:20'
+Modified: '2026-08-15 06:40'
 tags: []
 FullTitle: >-
   The Power of Full Engagement - Managing Energy, Not Time, is the Key to High
@@ -30,7 +30,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 8
 Pages: 256
 Reread: 0
 Rate: 3
@@ -71,7 +71,16 @@ SiteProcssed: true
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
-1. **Sprint and rest vs constant marathon** - to be better at something, we can't spend energy in a linear way. This leads to burnout and no improvement. Rather, we should do short sprints where we stretch the levels of maximum energy, while also giving us time to rest and replenish it
+1. **Weightlifting Analogy** – Metaphor. Spending without rest leads to burnout and exhaustion, while rest without spending leads to weakness; both extremes mimic the risks of ignoring the necessary balance between exertion and recovery. Supports: The necessity of alternating between stress and recovery.
+2. **Weightlifting/Training Model** – Metaphor. Comparing mental capacity growth to the progression of physical muscle training, where building strength, endurance, flexibility, and resilience requires pushing beyond current limits. Supports: Building mental and emotional capacity requires deliberate practice and challenge.
+3. **"Marathon vs. Sprints"** – Metaphor. Life is mischaracterized as one long, linear marathon when it is actually a series of short sprints requiring rest in between. Supports: The necessity of recovering energy rather than continuous, linear effort.
+4. **Roger B. Case Study** – Anecdote. A profile of a person struggling with poor diet, stressful work, and no rejuvenating activities, illustrating how failure in one area results in holistic decline. Supports: The interdependency of physical, emotional, and mental energy.
+5. **Quadrants of Energy** – Logical Framework/Scientific categorization. A double-axis grid (Quantity: Proactive/Passive; Quality: Negative/Positive) used to map states like "Positive-Proactive" (joyful) versus "Negative-Passive" (burnout). Supports: The need to manage both the quantity and quality of energy.
+6. **The "Truth" Balancing Act** – Thought Experiment/Framework. Using "realistic optimism" to bridge the gap between acknowledging painful, objective truth and maintaining the hope necessary for action. Supports: Defining the mindset required for growth and avoiding despair.
+7. **Forms of Denial** – Taxonomy. Categorizing barriers to energy into specific behaviors like image protection, rationalization, and equating subjective perception with objective reality. Supports: The claim that self-protection and denial drain energy that could be used for growth.
+8. **"Being by Doing"** – Concept/Principle. The idea that we change by bridging the gap between who we are and who we want to be through action, rather than belief. Supports: The idea that values only have meaning when enacted through behavior.
+9. **Energy Rituals** – Scientific finding/Behavioral principle. Rituals automate behaviors (even simple ones like 90 seconds of breathing), saving precious conscious energy for creative and strategic work. Supports: The efficiency of habits over relying on limited willpower.
+10. **The Criteria for Purpose** – Logical Framework. A definition of "good purpose" requiring three pillars: fostering positive creation, fueling intrinsic motivation, and being outward-facing (improving others' lives). Supports: The claim that purpose acts as the essential fuel for sustaining energy.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -103,7 +112,7 @@ There are four principles for effective energy management and living an engaged 
 1. Drawing energy from four separate yet related sources - physical, emotional, mental and spiritual
 2. Energy capacity diminishes with over and under use, so we must balance it with energy renewal
 3. Increasing energy capacity comes from deliberate practice
-4. Renewal of energy comes from positive energy rituals
+4. Renewal of energy comes from positive energy rituals [Positive rituals renew energy](/notes/positive-rituals-renew-energy.md)
 
 Energy can be categorized on a double axis ranging from proactive to passive (the *quantity* pf energy), and negative to positive (the *quality* of energy) [Eisenhower matrix](/notes/eisenhower-matrix.md). Examples:
 
@@ -114,7 +123,7 @@ Energy can be categorized on a double axis ranging from proactive to passive (th
 
 We prefer to be in quadrant 1 at all times.
 
-As with physical training, mental training requires strength, endurance, flexibility and resilience.
+As with physical training, mental training requires strength, endurance, flexibility and resilience. [Mental capacity develops like physical training](/notes/mental-capacity-develops-like-physical-training.md)
 Examples:
 1. **Strength** - Commitment to one's values
 2. **Endurance** - to sustain focus over time
@@ -167,7 +176,7 @@ The example shows that a path to recovery is done [holistically](/notes/achievin
 
 #### The Pulse of High Performance: Balancing Stress and Recovery
 
-The basics of all human activity are cycles of expending energy and renewing it, it is all about managing our [Reserves build capacity to absorb unpredictability and disruption](/notes/reserves-build-capacity-to-absorb-unpredictability-and-disruption.md). Unfortunately, most of us treat life as a long marathon. The rhythm of spending and renewing energy seems linear, we only spend, hoping that we don't spend too much so that we will be able to make it through the day, forgetting that we also need to rest. Life is not one long marathon, but rather a series of short sprints with rest in between [Progress and change follow non-linear trajectories with thresholds](/notes/progress-and-change-follow-non-linear-trajectories-with-thresholds.md). **Spending without rest would lead to burnout, exhaustion and tear from overuse, like constantly lifting weights, while rest without spending would lead to weakness, like an unused muscle**. We must have them both, rest and spend. [pomoduro technique](/notes/pomoduro-technique.md)
+The basics of all human activity are cycles of expending energy and renewing it, it is all about managing our [Reserves build capacity to absorb unpredictability and disruption](/notes/reserves-build-capacity-to-absorb-unpredictability-and-disruption.md). Unfortunately, most of us treat life as a long marathon. The rhythm of spending and renewing energy seems linear, we only spend, hoping that we don't spend too much so that we will be able to make it through the day, forgetting that we also need to rest. Life is not one long marathon, but rather a series of short sprints with rest in between [Progress and change follow non-linear trajectories with thresholds](/notes/progress-and-change-follow-non-linear-trajectories-with-thresholds.md). **Spending without rest would lead to burnout, exhaustion and tear from overuse, like constantly lifting weights, while rest without spending would lead to weakness, like an unused muscle** [Overuse and underuse both deplete capacity](/notes/overuse-and-underuse-both-deplete-capacity.md). We must have them both, rest and spend. [pomoduro technique](/notes/pomoduro-technique.md)
 
 While rest and spend cycles assure us that we will be able to work with maximum engagement and energy in the moments that matter, it is also critical to continue and face challenges that will increase our maximum capacity, otherwise even in our best day it might not be enough to face moments of high demand.
 
@@ -238,7 +247,7 @@ Finding our purpose in life is what fuels us from within, enriching us with a wi
 A good purpose is:
 1. **Positive** - we focus on the good we can do, on creation, in contrast with negativity - the desire to destroy something
 2. **Inner motivation** - a good purpose fuels our intrinsic motivation, we want to do it because it matters to us, regardless of incentives or external influence
-3. **Outward facing** - a good purpose is aimed at improving or changing the lives of others, not just ourselves
+3. **Outward facing** - a good purpose is aimed at improving or changing the lives of others, not just ourselves [Purpose should extend beyond yourself](/notes/purpose-should-extend-beyond-yourself.md)
 
 Our purpose is usually based on our core values, which means that these values only have meaning if we act upon them [To be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md).
 
@@ -274,7 +283,7 @@ Accepting the truth requires also taking responsibility on how we can do better,
 
 #### Taking Action: the Power of Positive Rituals
 
-Habits are useful because they reduce the amount of [Decision points force re-evaluation or action by creating deliberate triggers](/notes/decision-points-force-re-evaluation-or-action-by-creating-deliberate-triggers.md) we need to make while fulfilling our values, thus avoiding using our willpower which is very limited to begin with. Habits are what we fall to when times get tough, which means they are even more important to maintain in these moments, and that the most important habits are those that help restore our energy. Even a 60-90 seconds of breaths, walking, meditating, talking with a friend, or listening to a favorite song can have huge effects on our energy.
+Habits are useful because they reduce the amount of [Decision points force re-evaluation or action by creating deliberate triggers](/notes/decision-points-force-re-evaluation-or-action-by-creating-deliberate-triggers.md) we need to make while fulfilling our values, thus avoiding using our willpower which is very limited to begin with. Habits are what we fall to when times get tough, which means they are even more important to maintain in these moments, and that the most important habits are those that help restore our energy [Under stress we default to habits](/notes/under-stress-we-default-to-habits.md). Even a 60-90 seconds of breaths, walking, meditating, talking with a friend, or listening to a favorite song can have huge effects on our energy.
 
 To form good habits:
 1. **Start small** - Don't plan more than you can accomplish. The important thing about habits is their repetitiveness, not the amount of time dedicated to it. [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md) to gain [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md).

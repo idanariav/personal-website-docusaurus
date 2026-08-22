@@ -1,13 +1,13 @@
 ---
 UUID: 20240104080422
 Created: '2024-01-04 08:04'
-Modified: '2026-04-11 22:26'
+Modified: '2026-08-18 12:14'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Limits
 Description: >-
@@ -40,13 +40,15 @@ Limits are in essence an embodiment of [Improvement often comes from removing ra
 
 ### Why it matters
 
-Although they have a tendency to lead to [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md), limits are often positive in our lives. Instead of pushing towards lower [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md), or trying to solve [relaxation](/notes/simplify-the-problem-before-trying-to-solve-it.md) problem, actually adding [Complexity](/notes/complexity.md) is better for us. We need [Boundaries](/notes/boundaries.md) so that we could be completely free within them [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md)
+Although they have a tendency to lead to [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md), limits are often positive in our lives. Instead of pushing towards lower [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md), or trying to solve [relaxation](/notes/simplify-the-problem-before-trying-to-solve-it.md) problem, actually adding [Complexity makes ideas harder to understand and implement](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md) is better for us. We need [Boundaries reduce ambiguity by clarifying mutual expectations](/notes/boundaries-reduce-ambiguity-by-clarifying-mutual-expectations.md) so that we could be completely free within them [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md)
 
 ### Examples
 
 ### Supporters
 
 ### Opposers
+
+Not everyone would agree the trade is worth it, though — the whole idea of negative freedom is about tearing shackles down, not building new ones, even self-chosen ones [Freedom from external constraints](/notes/freedom-from-external-constraints.md). Somewhere between the two views is probably the honest answer: which limits set us free depends on whether we picked them ourselves.
 
 ### Open questions
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20220703185406
 Created: '2022-07-03 18:54'
-Modified: '2026-05-14 19:34'
+Modified: '2026-08-18 12:12'
 tags: []
 FullTitle: The Checklist Manifesto - How to Get Things Right
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 6
+Version: 7
 Pages: 208
 Reread: 0
 Rate: 4
@@ -59,6 +59,16 @@ You will be better equipped with managing complex actions through the use of che
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
+1. **Ineptitude vs. Ignorance** – Taxonomy. Ignorance is the failure of science to provide answers; ineptitude is the failure to apply existing knowledge correctly. Supports: The argument that the modern problem is not a lack of knowledge, but a failure of execution.
+2. **All-or-none processes** – Examples (baking, flying, medical evaluations). In these tasks, missing one key step renders the entire effort void. Supports: The claim that checklists are essential protection against failures of memory and distraction in critical, linear processes.
+3. **Classification of problems** – Taxonomy (Simple, Hard, Complicated). Challenges range from predictable recipes to unpredictable scenarios requiring unique human adaptation. Supports: The argument that different tasks require distinct management strategies rather than a one-size-fits-all approach.
+4. **The Cognitive Net** – Metaphor. Checklists function as a protective web that catches the mental flaws of memory, attention, and thoroughness inherent in all people. Supports: The idea that checklists empower, rather than replace, expert ability.
+5. **Decision-making at the periphery** – Management strategy. Under true complexity, dictating every step from the center fails; success comes from giving people room to adapt while expecting mutual coordination. Supports: The claim that complex systems require a mix of freedom and structured expectation.
+6. **"That’s not my problem" mentality** – Observations of disengagement. Specialized technicians sticking narrowly to their own domains leads to silent, dangerous failures. Supports: The argument that coordination and communication are vital to preventing errors in complex environments.
+7. **Read-Do vs. Do-Confirm** – Operational methodology. Read-Do provides step-by-step guidance for high-risk linear tasks, while Do-Confirm allows experts to rely on experience before verifying completion. Supports: The argument that checklist design must be tailored to the specific nature of the task.
+8. **5-9 Item rule** – Cognitive constraint. Checklists effectively leverage human working memory by limiting length, as excessive complexity inhibits usability. Supports: The argument that checklists must be short, precise, and practical to be effective under stress.
+9. **Checklists as an "embarrassment"** – Psychological barrier. The resistance to using checklists often stems from the ego-based belief that they are beneath an expert, rather than understanding them as an expression of mastery. Supports: The argument that pride is a primary barrier to adopting better systems for error reduction.
+10. **Practical vs. "Desk Jockey" checklists** – Contrast. Ineffective checklists are vague, lengthy, and try to force "mindless automation," whereas good checklists are efficient tools that support rather than replace human judgment. Supports: The assertion that the method of checklist construction determines its ultimate efficacy.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -73,9 +83,11 @@ This book is nice, and almost as short as it needs to be. Some examples are over
 
 ![The Checklist Manifesto (book)](/books/the-checklist-manifesto-book.webp)
 
+## Notes
+
 ### Introduction
 
-In a world with increasing [Complexity](/notes/complexity.md), it's more likely that:
+In a world with increasing [Complexity makes ideas harder to understand and implement](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md), it's more likely that:
 1. You wont be able to perform tasks by yourself
 2. Higher complexity leads to more serious errors
 
@@ -112,7 +124,7 @@ A list is a minimal collection of the necessary steps to succeed in the mission.
 
 Once we have a list, we can be more [focused](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md) and relax because we know we are safe from errors if we only [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
 
-We can define three sets of problems [Problems](/notes/problems.md):
+We can define three sets of problems [Problems](/notes/problems.md) [Problems differ in complexity and repeatability of solution](/notes/problems-differ-in-complexity-and-repeatability-of-solution.md):
 1. **Simple** - usually comes with basic instructions, that after several times you have enough experience to do them easily and automatically, like baking a cake.
 2. **Hard** - like flying a missile to space, it requires a lot of knowledge, cooperation and timing from many people, but usually once you crack the task, its easier to implement the next time.
 3. **Complicated** - similar to hard, but succeeding once doesn't make it (completely) easier the next time, like raising a child. Surely there are some best practices, but you can't replicate the process and get the same result.
@@ -136,7 +148,7 @@ We can define three sets of problems [Problems](/notes/problems.md):
 
 ### The Idea
 
-The list not only helps us remember the [small](/notes/understanding-requires-breaking-things-to-their-smallest-parts.md) forgettable tasks, and clears our mental capabilities to the more complex issues, it also helps us to coordinate [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md), organize, and turn cooperation into a habit between groups.
+The list not only helps us remember the [small](/notes/understanding-requires-breaking-things-to-their-smallest-parts.md) forgettable tasks, and clears our mental capabilities to the more complex issues, it also helps us to coordinate [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md), organize, and turn cooperation into a habit between groups [Clear plans make communication and coordination easier](/notes/clear-plans-make-communication-and-coordination-easier.md).
 This way, the check-list not only solves simple problems, but also lays the foundation for solutions for complex problems.
 Coordination should be both recurring ("before each x stage we meet"), and both in ad-hok cases ("if y happens we stop and meet"). Cooperation between different units enables the usage of various fields of knowledge, otherwise inaccessible to us since we can't be super-experts in everything, and having all the necessary knowledge for complex problems ourselves. [No individual can master all knowledge complexity requires](/notes/no-individual-can-master-all-knowledge-complexity-requires.md)
 The goal of the meetings is to discuss problems that might occur, coordinate expectations, and promote healthy communication.
@@ -156,6 +168,7 @@ The goal of the meetings is to discuss problems that might occur, coordinate exp
 - Giving people a chance to say something at the start seemed to activate their sense of participation and responsibility and their willingness to speak up.
 
 :::
+
 
 ### How to Create an effective Check-list
 

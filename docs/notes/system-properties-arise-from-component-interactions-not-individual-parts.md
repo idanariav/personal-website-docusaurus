@@ -1,13 +1,13 @@
 ---
 UUID: 20221201211327
 Created: '2022-12-01 21:13'
-Modified: '2026-04-11 22:27'
+Modified: '2026-08-18 12:05'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 7
+Version: 8
 Image: >-
   [[System properties arise from component interactions not individual
   parts.png]]
@@ -33,7 +33,7 @@ SiteProcssed: true
 
 ### Claim
 
-Emergence is **when the whole is larger than the sum of its parts**. It is when the whole has different features that don't exists in the individual units [Complex things are best understood by their core parts](/notes/complex-things-are-best-understood-by-their-core-parts.md), meaning that you can't find it if you look too [close](/notes/understanding-requires-breaking-things-to-their-smallest-parts.md), you have to [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md). Those features are created from the synergy and interaction between the different components. A level of [Complexity](/notes/complexity.md) is added from combining them together, in terms of not only complex structure, but also complex outputs or capabilities.
+Emergence is **when the whole is larger than the sum of its parts** [The whole is greater than its parts](/notes/the-whole-is-greater-than-its-parts.md). It is when the whole has different features that don't exists in the individual units [Complex things are best understood by their core parts](/notes/complex-things-are-best-understood-by-their-core-parts.md), meaning that you can't find it if you look too [close](/notes/understanding-requires-breaking-things-to-their-smallest-parts.md), you have to [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md). Those features are created from the synergy and interaction between the different components. A level of [Complexity makes ideas harder to understand and implement](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md) is added from combining them together, in terms of not only complex structure, but also complex outputs or capabilities.
 
 ### Explanation
 

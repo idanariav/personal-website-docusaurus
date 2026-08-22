@@ -1,13 +1,13 @@
 ---
 UUID: 20231113163444
 Created: '2023-11-13 16:34'
-Modified: '2026-04-11 22:19'
+Modified: '2026-08-17 17:12'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 7
 Image: '[[Communication is in our nature.png]]'
 ImageText: Two babies with speech bubbles communicating with each other
 Description: >-
@@ -15,7 +15,6 @@ Description: >-
   to positive experiences and connections, despite fears of rejection or
   solitude.
 aliases: []
-new_schema: true
 Topic:
   - '[[Social Nature]]'
 Origin: '[[Hidden Brain]]'
@@ -28,26 +27,22 @@ SiteProcssed: true
 
 ## Notes
 
-
 ### Claim
-
 People enjoy social interaction - "nobody waves, but everyone waves back". Against our expectations, talking with others, even complete strangers is a very positive experience, more than [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md). That's true even for [introvert](/notes/introvert.md). [Human is a social being](/notes/human-is-a-social-being.md)
 
 ### Explanation
 
 ### Why it matters
-
 We shouldn't fear [Fear of rejection stems from perceived threat to self-worth and identity](/notes/fear-of-rejection-stems-from-perceived-threat-to-self-worth-and-identity.md), it is both rare, but also not something devastating because people are not trying to be mean.
 
 ### Examples
 
 ### Supporters
+This tracks with the broader idea that [Humans are good as default](/notes/humans-are-good-as-default.md) — kindness, empathy and connection are our baseline, not something we have to learn against our nature.
 
 ### Opposers
 
 ### Open questions
-
-
 ## Visual
 
 ![Communication is in our nature](/notes/communication-is-in-our-nature.webp)

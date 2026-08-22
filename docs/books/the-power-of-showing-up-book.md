@@ -1,7 +1,7 @@
 ---
 UUID: 20240812221941
 Created: '2024-08-12 22:19'
-Modified: '2026-04-13 06:20'
+Modified: '2026-08-15 10:11'
 tags: []
 FullTitle: >-
   The Power of Showing Up - How Parental Presence Shapes Who Our Kids Become and
@@ -30,7 +30,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 9
 Pages: 244
 Reread: 0
 Rate: 3
@@ -68,10 +68,16 @@ SiteProcssed: true
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
-1. **The four s's**:
-	1. Safe - protected from harm and challenges too true
-	2. Seen - we "get" them, see the world through their eyes
-	3. Soothed - we help them find balance with emotions are overwhelming
+1. **"Where attention goes, neurons fire"** – Scientific principle: Describes neuroplasticity as a physical process where focused interaction creates new neural connections. Supports: The claim that consistent parenting interactions physically shape a child’s developing brain.
+2. **The Four S’s Framework** – Taxonomy: Categorizes essential aspects of "showing up" as Safe, Seen, Soothed, and Secure. Supports: The argument that specific, predictable caregiver behaviors are necessary to foster secure attachment.
+3. **"History is not destiny"** – Concept/Argument: Asserts that while we cannot change how we were raised, we are responsible for consciously choosing how we parent now. Supports: The claim that parents can break harmful generational patterns through self-reflection and "making sense" of their own childhood.
+4. **"Repair, repair, repair"** – Practical strategy/Analogy: Encourages consistent efforts to mend the relationship after inevitable mistakes rather than striving for non-existent flawlessness. Supports: The argument that perfection is unattainable and the quality of connection relies on fixing ruptures.
+5. **"The Nest" Metaphor** – Metaphor: Compares the caregiver to a protective home base that is always present during moments of danger or fear. Supports: The argument that the primary role of a parent is providing safety so children can explore the world.
+6. **The PEACE Method** – Heuristic/Process: A 5-step approach (Presence, Engagement, Affection, Calm, Empathy) for responding to a child’s emotional crises. Supports: The argument that specific, actionable steps can help parents soothe children effectively.
+7. **"Banking" Analogy** – Analogy: Comparing the parent-child relationship to a bank account where supportive interactions are "deposits" and neglect or belittling are "withdrawals." Supports: The importance of maintaining a positive balance through consistent care to build secure attachment.
+8. **"Yes-Brain" Mentality** – Behavioral standard: Describes a state of emotional balance, resilience, and curiosity enabled by secure attachment. Supports: The argument that a secure base allows children to approach life's challenges with confidence rather than fear.
+9. **The "Rescue" Distinction** – Observation/Case study insight: Noticing that stepping in to solve every challenge for a child (rescuing) denies them the chance to develop their own skills. Supports: The argument that safe and healthy development requires allowing children to face setbacks on their own.
+10. **"Feelings as Waves"** – Metaphor: Likening emotions to waves that hit us but eventually fade, emphasizing that they are transient and do not define the self. Supports: The argument that teaching "mindsight" helps children gain emotional regulation and perspective.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -92,7 +98,7 @@ However, as usual writing is engaging, clear and encouraging
 
 ### What it means to Show up
 
-We will make mistakes, everybody does, and nobody is a perfect parent [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md). Instead of worrying whether we are doing a good job, all that we need to do is to *show up*, to be present with them mentally, physically, and emotionally.
+We will make mistakes, everybody does, and nobody is a perfect parent [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md). Instead of worrying whether we are doing a good job, all that we need to do is to *show up*, to be present with them mentally, physically, and emotionally [Practice beats perfection](/notes/practice-beats-perfection.md).
 
 To be present means to help kids feel the four s's:
 1. **Safe** - protected from harm. To know that even when we mess up, we care about them, and we will try to repair it.
@@ -125,7 +131,7 @@ The (parenting) goal is a *secure attachment* which will be their [Safe Base pro
 
 ### Why Do Some Parents Show up while Others Don't?
 
-Parents who show up are parents who have made sense of their own history as children to parents, and have decided which parents they want to be and how to parent their own children [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md). Note that **history is not destiny, we can choose to parent differently than how we were raised**. We are not to blame on how we were raised, but we are responsible for what kind of parent we are going to be.
+Parents who show up are parents who have made sense of their own history as children to parents, and have decided which parents they want to be and how to parent their own children [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md). Note that **history is not destiny, we can choose to parent differently than how we were raised** [History is not destiny](/notes/history-is-not-destiny.md). We are not to blame on how we were raised, but we are responsible for what kind of parent we are going to be.
 
 By "made sense" we mean that we have dived deep into analyzing our childhood, how we were treated and how we felt about it. Only by dealing with trauma we will be able to heal from it, not through ignoring it [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md). Having a unified [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md) of who we are, the journey we went through, and the path we want to march on is key to develop our [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md), for healthy interactions with our children, and to help them develop themselves too.
 
@@ -185,7 +191,7 @@ Feeling seen is when the child believes we "get them", **we are able to empathiz
 2. **Make sense** - To try and figure out what "logic" they were following, what happened that has caused this behavior, how do they see the situation?
 3. **Respond** - To act kindly, respectfully and empathically. Instead of bombarding them with logical lecturing, we can react to the situation through their eyes.
 
-We fail to make them feel seen when we are quick to label them, like "lazy" or "you are just like your father", or when we assume we share the same preferences or see the world the same way. It's even worse if we [Shame](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) them for feeling this way. Remember that in the end there's a distinction between if they *won't* act the way you want to or *can't*.
+We fail to make them feel seen when we are quick to label them, like "lazy" or "you are just like your father", or when we assume we share the same preferences or see the world the same way [Naming a thing categorizes it, obscuring true understanding](/notes/naming-a-thing-categorizes-it-obscuring-true-understanding.md). It's even worse if we [Shame](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) them for feeling this way. Remember that in the end there's a distinction between if they *won't* act the way you want to or *can't*.
 
 One way of being more mindful of their point of view is to approach their behavior with [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md).
 
@@ -205,7 +211,7 @@ Another is to create opportunities to get to know them. For example before bedti
 
 When our children are being overwhelmed with emotions, it's important for us to sooth them. With time, the more we help them get back to a calm state, they will learn to sooth themselves, i.e they will develop their ability to self regulate, and maintaining calm when faced with challenges and hardships. Self regulate is also a key skill for many other skills such as empathy, morality and decision making. [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md)
 
-**Soothing is when we acknowledge what they are feeling, and create a sense of "we" vs a shared issue instead of "me" against "you"**. Remember the *connect and redirect* and *green zone* methods of previous books. The goal is not to lecture, but to provide understanding and be a safe place for them to unload. Note that this doesn't mean giving up on your limits, the children need it, it's just accepting that their reactions to those limits might not be positive. Don't forget to use calming [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md), talking at eye level, using a soft voice, a touch or a hug can do magics.
+**Soothing is when we acknowledge what they are feeling, and create a sense of "we" vs a shared issue instead of "me" against "you"** [People are not the problem](/notes/people-are-not-the-problem.md). Remember the *connect and redirect* and *green zone* methods of previous books. The goal is not to lecture, but to provide understanding and be a safe place for them to unload. Note that this doesn't mean giving up on your limits, the children need it, it's just accepting that their reactions to those limits might not be positive. Don't forget to use calming [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md), talking at eye level, using a soft voice, a touch or a hug can do magics.
 
 When they have a hard time, you can try to:
 1. Be with them in their "safe space" - perhaps a tent in the living room, a place special for them, filled with whatever makes them calm
@@ -233,11 +239,11 @@ How to respond to situations (the PEACE method):
 
 When we combine the three s's, when they feel safe, seen and soothed, then we have secure attachment, which empowers them to become resilient, independent, mindful and moral adults.
 
-They become independent because through our interactions they have developed a sense of [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md), they believe in their capacity to handle challenges, knowing that they can always go back to us if it's too much. This makes stress something positive, something that causes them to rise up to the challenge, instead of crumbling down.
+They become independent because through our interactions they have developed a sense of [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md), they believe in their capacity to handle challenges, knowing that they can always go back to us if it's too much. This makes stress something positive, something that causes them to rise up to the challenge, instead of crumbling down [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md).
 
-Note that caring for your child's emotional needs is never coddling or spoiling them, but rather help them develop. This doesn't mean we have to answer to their every whim, only to what they truly need, and it's our job to identity which is which, and to repair if we treated their need as a simple want. Think of your relationship as an investment, each time we show up for them we make a deposit, and each time we neglect, shout or belittle we make a withdraw. We want to keep the balance positive.
+Note that caring for your child's emotional needs is never coddling or spoiling them, but rather help them develop. This doesn't mean we have to answer to their every whim, only to what they truly need, and it's our job to identity which is which, and to repair if we treated their need as a simple want [Spoiling comes from meeting wants instantly, not meeting needs](/notes/spoiling-comes-from-meeting-wants-instantly-not-meeting-needs.md). Think of your relationship as an investment, each time we show up for them we make a deposit, and each time we neglect, shout or belittle we make a withdraw. We want to keep the balance positive [Relationships function like an emotional bank account](/notes/relationships-function-like-an-emotional-bank-account.md).
 
-Also, remember to teach them mindsight skills, as they will help them notice that feelings are strong yet fleeting, they don't define us, and like waves they hit us, but we can dive deep and keep calm no matter what's going on on the surface.
+Also, remember to teach them mindsight skills, as they will help them notice that feelings are strong yet fleeting, they don't define us, and like waves they hit us, but we can dive deep and keep calm no matter what's going on on the surface [Strong urges are short-lived if you wait them out](/notes/strong-urges-are-short-lived-if-you-wait-them-out.md).
 
 :::note[Putting All the S’s Together]
 

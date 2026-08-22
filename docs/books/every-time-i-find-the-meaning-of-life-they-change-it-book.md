@@ -1,7 +1,7 @@
 ---
 UUID: 20240319083324
 Created: '2024-03-19 08:33'
-Modified: '2026-04-13 06:13'
+Modified: '2026-08-18 14:02'
 tags: []
 Author:
   - '[[Daniel Klein]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 210
 Rate: 3
 PublishDate: 2015-01-01T00:00:00.000Z
@@ -55,11 +55,21 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen?*
 
 ### Critique
 
-✅ *by following this method, what will happen?*
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Experience Machine** – A thought experiment illustrating the limitations of hedonism by suggesting that drugs or technology used to artificially create happiness lead to boredom, emptiness, and a lack of active engagement. Supports: Happiness cannot be achieved purely through the consumption of pleasure.
+2. **The Adaptation Principle** – The observation that individuals constantly revert to a baseline state of happiness regardless of life changes or external stimuli. Supports: Why constant hedonistic pursuit fails to yield lasting happiness and leads to diminishing returns.
+3. **"My first act of free will is to believe in free will" (William James)** – A philosophical assertion that consciously choosing to believe in agency is the foundational step for exercising actual free will. Supports: Humans have the power to create agency even within a world of prior causes.
+4. **"Existence precedes essence" (Jean-Paul Sartre)** – The concept that humans construct their own meaning rather than having a predefined purpose. Supports: Meaning is crafted, and individuals bear full responsibility for their life choices.
+5. **"Life is as relevant to the world as an oyster" (David Hume)** – An observation highlighting the potential insignificance of human life in the grand scale of the universe. Supports: The existential challenge of finding or creating meaning in a reality where none is pre-ordained.
+6. **Psychological Continuity (Derek Parfait)** – The argument that personal identity is defined by the enduring connection to one's past self, thoughts, and beliefs rather than physical embodiment. Supports: Identity is a continuum that evolves over time rather than a static, binary state.
+7. **"Turtles all the way down"** – A metaphor referencing the idea of an infinite regress, used here to describe the act of choosing a meaning even when acknowledging that existence may lack deeper or divine validation. Supports: The courage required to commit to created meaning despite existential uncertainty.
+8. **"Easy happiness leads to boredom" (Arthur Schopenhauer)** – The observation that removing all pain and struggle leaves an individual empty and devoid of substance. Supports: The necessity of active struggle and the danger of solely pursuing pleasure.
+9. **Philosophical Inquiry as Virtuous (Bertrand Russell/Socrates)** – The idea that the act of asking profound, even unanswerable, questions is intrinsically good and pleasurable. Supports: Self-reflection and questioning are valuable activities independent of whether they yield concrete answers.
+10. **The "Coward's Compromise" (Nietzsche)** – The critique of yielding to social norms and "Herd Mentality" instead of pursuing one's authentic will to transcend oneself. Supports: Authentic identity requires the courage to resist external influence and societal opinion.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -78,11 +88,11 @@ While I do like the reflection that comes after every quote, sometimes it fails 
 
 ### Happiness
 
-What is the nature of happiness? What would bring us joy? According to [Epicurus (philosopher)](/notes/epicurus-philosopher.md), we should pursue that which gives us joy, and that is to let go of any [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) and the chase after what we don't have. When **we are dependent on the future to be happy (once I'll have this I be happy) we are setting ourselves up for desperation and failure,** because the only thing it can bring once we have it is the desire for something else new, while we completely ignore what we already have. Aka "the [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md)". We should practice [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md) and focus on the present, on "internal happiness" [Happiness is an internal state](/notes/happiness-is-an-internal-state.md). This is the true and deep sense of [Pleasure and pain are the only measures of good](/notes/pleasure-and-pain-are-the-only-measures-of-good.md), not to focus on sensual experiences, but on what makes us truly happy.
+What is the nature of happiness? What would bring us joy? According to [Epicurus (philosopher)](/notes/epicurus-philosopher.md), we should pursue that which gives us joy, and that is to let go of any [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) and the chase after what we don't have. When **we are dependent on the future to be happy (once I'll have this I be happy) we are setting ourselves up for desperation and failure,** because the only thing it can bring once we have it is the desire for something else new, while we completely ignore what we already have. [Desire perpetuates endless wanting over satisfaction](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md) [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md) Aka "the [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md)". We should practice [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md) and focus on the present, on "internal happiness" [Happiness is an internal state](/notes/happiness-is-an-internal-state.md). This is the true and deep sense of [Pleasure and pain are the only measures of good](/notes/pleasure-and-pain-are-the-only-measures-of-good.md), not to focus on sensual experiences, but on what makes us truly happy.
 
-However, why life can't be truly hedonistic in the pleasure sense of the world. If we could use drugs and technology to get rid of pain, as anesthesia does, and keep ourselves constantly happy, why not? This is [David Peirce](/notes/david-peirce.md)'s argument. However it becomes problematic once you consider the [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) and the [experience machine](/notes/experience-machine.md). We constantly revert back to a base level happiness, so drugs will be less and less effective and we would just overdose. Also there's something empty in achieving happiness this way, we believe that happiness comes from being active, not from consuming drugs. "Easy" happiness would just lead to boredom and emptiness, as [Schopenhauer](/notes/arthur-schopenhauer-philosopher.md) says.
+However, why life can't be truly hedonistic in the pleasure sense of the world. If we could use drugs and technology to get rid of pain, as anesthesia does, and keep ourselves constantly happy, why not? This is [David Peirce](/notes/david-peirce.md)'s argument. However it becomes problematic once you consider the [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) and the [experience machine](/notes/experience-machine.md). We constantly revert back to a base level happiness, so drugs will be less and less effective and we would just overdose. Also there's something empty in achieving happiness this way, we believe that happiness comes from being active, not from consuming drugs. [Happiness comes from active engagement not passive consumption](/notes/happiness-comes-from-active-engagement-not-passive-consumption.md) "Easy" happiness would just lead to boredom and emptiness [Effortless happiness breeds boredom and emptiness](/notes/effortless-happiness-breeds-boredom-and-emptiness.md), as [Schopenhauer](/notes/arthur-schopenhauer-philosopher.md) says.
 
-And while Schopenhauer agrees with Epicurus premise that expectations are dictating our happiness, in his eyes there's nothing left once we detach. Without expectations, we are just empty beings floating in space.
+And while Schopenhauer agrees with Epicurus premise that expectations are dictating our happiness, in his eyes there's nothing left once we detach. Without expectations, we are just empty beings floating in space. [detachment is suffering disgusted as freedom](/notes/detachment-is-suffering-disgusted-as-freedom.md)
 
 ### Existentialism
 
@@ -94,23 +104,23 @@ But to truly be free is more than just a simple choice, says [Nietzsche](/notes/
 
 This process of [Self Reflection](/notes/introspection-develops-self-knowledge-through-internal-examination.md) is valuable on its own, as [Bertrand Russell](/notes/bertrand-russell.md) supports. That asking ourselves philosophical questions, even if, and perhaps especially those who are left unanswered are not only the most pleasurable of them all, they are the most "good" of them all. That **philosophical inquiry is virtuous intrinsically**. [Socrates](/notes/socrates-philosopher.md) I think would agree.
 
-But what if no answer is found? What if the abyss just stairs back? Then we feel the [Life has no predefined meaning we can discover](/notes/life-has-no-predefined-meaning-we-can-discover.md), perhaps succumb to [Morality is a construct without real meaning](/notes/morality-is-a-construct-without-real-meaning.md), and feel void of meaning. Even [David Hume](/notes/david-hume-philosopher.md) mentioned that our life is as relevant to the world as an oyster. **It is in those cases that we are tested. Do we choose to laugh despite everything, stick to hedonism or choose a meaning even if we know it is turtles all the way down**.
+But what if no answer is found? What if the abyss just stairs back? Then we feel the [Life has no predefined meaning we can discover](/notes/life-has-no-predefined-meaning-we-can-discover.md), perhaps succumb to [Morality is a construct without real meaning](/notes/morality-is-a-construct-without-real-meaning.md), and feel void of meaning. Even [David Hume](/notes/david-hume-philosopher.md) mentioned that our life is as relevant to the world as an oyster. [Human life is cosmically insignificant](/notes/human-life-is-cosmically-insignificant.md) **It is in those cases that we are tested. Do we choose to laugh despite everything, stick to hedonism or choose a meaning even if we know it is turtles all the way down**.
 
 ### Relationships
 
-While some think that relationships are essential to our lives, [Henry David Thoreau](/notes/henry-david-thoreau.md) believes in the power of [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md). Both relationships and time alone can be pleasurable or suffering. It depends on [Boundaries](/notes/boundaries.md) we set with others, our level of caring and love for them, and also how we choose to spend our time alone.
+While some think that relationships are essential to our lives, [Henry David Thoreau](/notes/henry-david-thoreau.md) believes in the power of [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md). Both relationships and time alone can be pleasurable or suffering. It depends on [Boundaries reduce ambiguity by clarifying mutual expectations](/notes/boundaries-reduce-ambiguity-by-clarifying-mutual-expectations.md) we set with others, our level of caring and love for them, and also how we choose to spend our time alone.
 
 ### Metaethics
 
 Maybe pleasure and virtue are not mutually exclusive. [John Stuart Mill](/notes/john-stuart-mill-philosopher.md) [Maximizing pleasure and minimizing suffering defines moral action](/notes/maximizing-pleasure-and-minimizing-suffering-defines-moral-action.md) is just that, supporting the [Treat others the way you want to be treated](/notes/treat-others-the-way-you-want-to-be-treated.md), that by doing good to others, we will most likely create a society where we get good acts in return. That along with utilitarianism which tries to maximize pleasure and reduce pain. Sounds good, no?
 
-It connects to the Socrates that knowing the good and doing good are one and the same, which explains why it is better to suffer pain than inflict it. Because doing bad things is bad for society and for the soul.
+It connects to the Socrates that knowing the good and doing good are one and the same, which explains why it is better to suffer pain than inflict it. [Knowing the good and doing good are inseparable](/notes/knowing-the-good-and-doing-good-are-inseparable.md) Because doing bad things is bad for society and for the soul.
 
-But where does the will to do good comes from? Is it "in our nature" to be altruistic to our close community, or are we only doing good because we choose to do so? And what about doing the things we believe are good, even if we don't feel the urge to do them, like Peter Singer's argument for global altruism. **Is it thoughts or feelings that guide our moral behavior?** [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md)
+But where does the will to do good comes from? Is it "in our nature" to be altruistic to our close community, or are we only doing good because we choose to do so? And what about doing the things we believe are good, even if we don't feel the urge to do them, like Peter Singer's argument for global altruism. [Moral duty can extend beyond what we feel or who we know](/notes/moral-duty-can-extend-beyond-what-we-feel-or-who-we-know.md) **Is it thoughts or feelings that guide our moral behavior?** [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md)
 
 ### Identity
 
-What are we? Are we just a collection of random atoms? Are we divine beings with an immoral soul? It seems that even our identity is questionable, like [Derek Parfait](/notes/derek-parfait.md)'s argument about [psychological continuity](/notes/identity-persists-across-time-through-psychological-continuity.md). **It's not our physical body that determines who we are, but rather the connection we feel towards our past selves**. Our beliefs, hopes, thoughts, that what makes you you. Which means that both your clone or AI replica of you can also count as "you". Suddenly your personal identity isn't so "personal" anymore, while also supporting the idea that "you" change over time. Who you were as a kid might really be just 10% of who you are now. While you have the same body (sorta), you are really not the same person. **Identity is not binary, it's a continuum.**
+What are we? Are we just a collection of random atoms? Are we divine beings with an immoral soul? It seems that even our identity is questionable, like [Derek Parfait](/notes/derek-parfait.md)'s argument about [psychological continuity](/notes/identity-persists-across-time-through-psychological-continuity.md). **It's not our physical body that determines who we are, but rather the connection we feel towards our past selves**. Our beliefs, hopes, thoughts, that what makes you you. Which means that both your clone or AI replica of you can also count as "you". Suddenly your personal identity isn't so "personal" anymore, while also supporting the idea that "you" change over time. Who you were as a kid might really be just 10% of who you are now. While you have the same body (sorta), you are really not the same person. **Identity is not binary, it's a continuum.** [Identity exists on a continuum, not as a binary](/notes/identity-exists-on-a-continuum-not-as-a-binary.md)
 
 ## Highlights
 

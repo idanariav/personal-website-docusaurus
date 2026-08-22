@@ -1,7 +1,7 @@
 ---
 UUID: 20220703184228
 Created: '2022-07-03 18:42'
-Modified: '2026-04-14 18:00'
+Modified: '2026-08-19 12:04'
 tags: []
 FullTitle: Atomic Habits - An Easy & Proven Way to Build Good Habits & Break Bad Ones
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 10
+Version: 11
 Pages: 319
 Reread: 1
 Rate: 5
@@ -50,7 +50,7 @@ SiteProcssed: true
 🔈 *Summary of main ideas*
 1. **Compounding is the strongest force we can muster** - The most life changing thing we can do is to create systems that use compounding for our benefit. We use time and inter connectivity in our favor, turning small steps into huge wins.
 2. **Focus on identity, not goals** - Goals are not a good tool for motivation, there are limited and technical. However, when we focus on the person we want to become, it is easier to make the change happen, we internalize it, we become it, and it sustains itself. Similarly, we should focus on the systems that represent and support that identity. Usually this means to shape your environment in your favor, rather than relying on willpower.
-3. **Habits are learned, automated solutions to problems** - habits are neither good or bad, they serve as a learned, automated response to problems we have faced in the past. It is a connection between a cue, the craving it generates, and the action it promotes.
+3. **Habits are learned, automated solutions to problems** - habits are neither good or bad, they serve as a learned, automated response to problems we have faced in the past. It is a connection between a [cue](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md), the craving it generates, and the action it promotes.
 4. **maximize your habits** - To make good habits easier to implement, and bad habits harder to perform, follow these four rules (do the reverse for bad habits):
 	1. make them obvious - have the cue as visible as possible, for example if you want to eat healthy, put vegetables at the most accessible and visible place in your fridge
 	2. make them attractive - do habit stacking, combine the good habit with an activity you like to do, like watching tv while doing exercise
@@ -81,8 +81,16 @@ SiteProcssed: true
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
-1. The "point-and-say" method to add mindfulness to daily actions to reduce errors
-2. Implementation intention - I will do x at time y in location z. It is stronger with habit stacking, when you try to chain habits together
+1. **Mathematical Calculation** – Improving 1% daily results in being 37x better by the end of one year; conversely, a 1% decline leads to a 37x reduction. Supports: Small daily habits compound into massive long-term results.
+2. **Metaphor** – A bamboo tree spends years developing its root system before bursting into the sky in a short period. Supports: Progress often follows non-linear, delayed trajectories that cross a "plateau of latent potential."
+3. **Psychological Strategy** – "Voting" for a new identity, where every action taken acts as a ballot for the type of person you wish to be. Supports: Habits shape identity, and identifying as the person you want to be sustains habit adherence.
+4. **Conceptual Model** – The four-part habit loop consisting of cue, craving, response, and reward. Supports: Habits are learned behaviors used to solve problems and thrive in our environment.
+5. **Strategy** – "Implementation intentions," such as replacing "I will exercise more" with "I will do ten pushups at seven in my kitchen." Supports: Specific plans for time and location significantly increase the likelihood of following through.
+6. **Observation** – Vision is the strongest sense, making visual cues the greatest catalyst for behavior change. Supports: Environmental design shapes behavior, and small changes in what you see can lead to big shifts in what you do.
+7. **Heuristic** – "Temptation bundling," where an action one needs to do is linked with an action one wants to do. Supports: Connecting necessary tasks with enjoyable activities increases the motivation to perform them.
+8. **Strategy** – The "Two-Minute Rule," which involves mastering the first two minutes of the smallest version of an activity. Supports: Focusing on the "gateway habit" builds the necessary momentum to overcome procrastination and start.
+9. **Method** – Habit tracking (marking an "x" on a calendar), which provides visual progress, satisfaction, and accountability. Supports: Tracking creates a visual cue, encourages consistency, and keeps you focused on the process.
+10. **Behavioral Constraint** – Accountability contracts, such as agreeing to pay money or risk humiliation if a habit goal is not met. Supports: People are highly responsive to loss aversion, and immediate consequences are effective at enforcing behavior.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 The later section about the importance of genes in picking the right habits sounds too much like a fixed mindset, as if we are highly limited by our genes. While it might be true physically for sports and such, it is hardly the case for other (and most common) types of activities.
@@ -173,7 +181,7 @@ Most of us try to change by focusing on the outcomes - "I want to lose five poun
 
 Striving for a new identity is the best way to generate [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md), we do these habits not because we want an external outcome, rather it is an alignment to who we believe ourselves to be.
 
-However, embracing a new identity requires [Forgetting](/notes/forgetfulness.md) or [We rewrite our memories every time we access them](/notes/we-rewrite-our-memories-every-time-we-access-them.md) our existing identity.
+However, embracing a new identity requires [Forgetting](/notes/forgetting-enables-growth-by-clearing-space-for-change.md) or [We rewrite our memories every time we access them](/notes/we-rewrite-our-memories-every-time-we-access-them.md) our existing identity.
 
 Our identity isn't born out of nothing, it is the result of our actions. We are [being by doing](/notes/being-emerges-from-action-not-belief.md). By taking the actions that our desires identity would do, we become that identity. When we write, we are embodying a writer, when we play, we become a musician.
 
@@ -235,7 +243,7 @@ Following [Habits operate through a four-part loop](/notes/habits-operate-throug
 
 The first step is to actually notice the cues, instead of letting them affect us without us noticing. It requires [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) and [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md), to truly pay attention to our environment.
 
-Vocalizing our actions, like - "I'm about to eat this cookie despite it being unhealthy" or "tomorrow I'm going to wake up at seven to workout "adds [What matters most is often less visible than what is salient](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md), self awareness, and even have a coercive power due to [Actions and physical states unconsciously shape our beliefs](/notes/actions-and-physical-states-unconsciously-shape-our-beliefs.md), because it's harder for us to "betray" what we already physically said we will do/avoid doing.
+Vocalizing our actions, like - "I'm about to eat this cookie despite it being unhealthy" or "tomorrow I'm going to wake up at seven to workout "adds [What matters most is often less visible than what is salient](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md), self awareness, and even have a coercive power due to [Merging actions with identity blocks growth](/notes/merging-actions-with-identity-blocks-growth.md), because it's harder for us to "betray" what we already physically said we will do/avoid doing.
 
 Awareness is the first step.
 
@@ -310,7 +318,7 @@ This is especially true when we recall that habits can be overcome, but not forg
 
 #### Good to Make a Habit Irresistible
 
-What makes us take action is dopamine which controls the reward center of the brain. It leads to the craving, the motivation that pushes us to act. Without it we will be [indifferent](/notes/indifference.md).
+What makes us take action is dopamine which controls the reward center of the brain. It leads to the craving, the motivation that pushes us to act. Without it we will be [indifferent](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md).
 
 At first, it's the reward itself that spikes our dopamine, but once a habit sets in, it's the craving that triggers it, while the reward itself does nothing. It's the [anticipation](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md)of reward that brings the most joy.
 

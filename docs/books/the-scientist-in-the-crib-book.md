@@ -1,7 +1,7 @@
 ---
 UUID: 20240501122646
 Created: '2024-05-01 12:26'
-Modified: '2026-04-13 06:20'
+Modified: '2026-08-15 10:18'
 tags: []
 FullTitle: The Scientist in the Crib - What Early Learning Tells Us About the Mind
 Description: >-
@@ -29,7 +29,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 308
 Reread: 0
 Rate: 3
@@ -86,7 +86,7 @@ However, most of the book is stuff that's interesting to read at the moment like
 
 How do we know what we know? As people, senses were our only method of studying for a long time, and as we know senses can be misleading [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md). Yet somehow babies are able to translate random sounds and sights into meaningful language and people in their lives.
 
-This debate has a long history, from [Socrates](/notes/socrates-philosopher.md) argument in Meno that people are born with innate knowledge and all that we do is just to uncover it. In contrast with [John Locke](/notes/john-locke-philosopher.md) that said that people are born "tabula rasa", a [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md) to which we can imprint whatever we desire. In this debate of [Nature vs nurture](/notes/nature-vs-nurture.md), while both have an influence on our behavior, it seems nurture has won. [Knowledge comes from empirical testing not innate reason](/notes/knowledge-comes-from-empirical-testing-not-innate-reason.md)
+This debate has a long history, from [Socrates](/notes/socrates-philosopher.md) argument in Meno that people are born with innate knowledge and all that we do is just to uncover it. In contrast with [John Locke](/notes/john-locke-philosopher.md) that said that people are born "tabula rasa", a [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md) to which we can imprint whatever we desire. In this debate of [Nature vs nurture](/notes/nature-vs-nurture.md), while both have an influence on our behavior, it seems nurture has won. [Competence is developed through practice not innate talent](/notes/competence-is-developed-through-practice-not-innate-talent.md) [Knowledge comes from empirical testing not innate reason](/notes/knowledge-comes-from-empirical-testing-not-innate-reason.md)
 
 We are born with the genetic ability to learn from others [Imitation internalizes others' behaviors and mental models at varying depths](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md), and this learning capabilities is what allows us to surpass hard-coded systems in our brain and adapt to our current environment's specific needs and conditions. We can't program endless situations in our brain, but we can learn quickly to adapt ourselves to each situation [Our beliefs must adapt as context and goals change](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md).
 

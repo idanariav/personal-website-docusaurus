@@ -1,7 +1,7 @@
 ---
 UUID: 20241230232036
 Created: '2024-12-30 23:20'
-Modified: '2026-04-13 06:21'
+Modified: '2026-08-17 06:05'
 tags: []
 FullTitle: >-
   Unconditional Parenting - Moving from Rewards and Punishments to Love and
@@ -29,7 +29,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 10
 Pages: 274
 Reread: 0
 Rate: 3
@@ -93,7 +93,7 @@ The last few chapters are repetitive and feels "pasted" compare to the rest of t
 
 Parenting is challenging, creating a tension between our long-term goals for our children - developing their independence, creative thinking, and potential - and the daily routine of bedtime, homework, and chores.
 
-It's no surprise that our default strategy is to have obedient children, equating a "good child" with a "submissive" one. Through punishments or rewards, we often promote compliance rather than nurturing well-rounded individuals.
+It's no surprise that our default strategy is to have obedient children, equating a "good child" with a "submissive" one. Through punishments or rewards, we often promote compliance rather than nurturing well-rounded individuals. [Mistaking obedience for goodness promotes compliance over growth](/notes/mistaking-obedience-for-goodness-promotes-compliance-over-growth.md)
 
 We need to change our perception for the betterment of their future.
 
@@ -118,7 +118,7 @@ We need to change our perception for the betterment of their future.
 
 Not all types of love are equal. There's:
 1. **Conditional love** - depends on actions
-2. **Unconditional love** - depends on identity
+2. **Unconditional love** - depends on identity [unconditional love](/notes/unconditional-love.md)
 
 Loving your child unconditionally gives them the assurance that you are their [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md), confident and calm that your love is constant, without needing to earn it or fear its loss.
 
@@ -138,13 +138,13 @@ Whether conditional parenting exists in your home depends more on how your kids 
 
 A common practice among parents is "time out," a method borrowed from animal handling. However, when we send kids to time out, we address their behavior, not them as individuals, and we also withhold our love and presence.
 
-This instills a fear of [abandonment](/notes/abandonment.md). They grow up needing constant approval, becoming highly [dependent](/notes/dependency.md).
+This instills a fear of [abandonment](/notes/abandonment.md). They grow up needing constant approval, becoming highly [dependent](/notes/dependency-trades-autonomy-for-connection.md).
 
 Similarly, positive reinforcement like rewards is problematic. It turns us into [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md), teaching us to view the world through "what do I get out of it." As with [External motivation crowds out intrinsic drive and sustainability](/notes/external-motivation-crowds-out-intrinsic-drive-and-sustainability.md), it [crowds out](/notes/one-activity-displaces-another-when-pursued-excessively.md) [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md), leaving no motivation to continue good behavior once rewards cease.
 
 Even verbal reinforcement like "good job" is a type of reward [Praise effort not ability](/notes/praise-effort-not-ability.md). When we praise them for actions, they tie their worth to those actions, assuming they are not worthy without them.
 
-When self-esteem depends on success, it fluctuates with life's events, harming development. Self-esteem should be stable across good and bad times to help bounce back from failure.
+When self-esteem depends on success, it fluctuates with life's events, harming development. Self-esteem should be stable across good and bad times to help bounce back from failure. [Stable self-esteem helps bounce back from failure](/notes/stable-self-esteem-helps-bounce-back-from-failure.md)
 
 :::note[GIVING AND WITHHOLDING LOVE]
 
@@ -160,7 +160,7 @@ When self-esteem depends on success, it fluctuates with life's events, harming d
 
 Sometimes we control kids for control's sake, driven by [Ego](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md), rather than to help or protect them.
 
-Over-controlling creates either [helpless](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md) and submissive children or [rebellious](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) ones who lash out. They become [disengaged](/notes/indifference.md) from the world, less interested in self-expression or independence.
+Over-controlling creates either [helpless](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md) and submissive children or [rebellious](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) ones who lash out. They become [disengaged](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md) from the world, less interested in self-expression or independence.
 
 :::note[TOO MUCH CONTROL]
 
@@ -174,9 +174,9 @@ Over-controlling creates either [helpless](/notes/helplessness-is-perceiving-no-
 
 [Punishments](/notes/punishment-backfires-by-triggering-resistance-and-perpetuating-harm.md) are generally ineffective in parenting. Even non-physical punishments that cause discomfort or mental pain are counterproductive.
 
-They create backlash rather than educate, making children see you as an enemy. Over time, they grow indifferent to punishments [Each additional unit provides progressively less value](/notes/each-additional-unit-provides-progressively-less-value.md), resorting to lying, hiding, and cheating.
+They create backlash rather than educate, making children see you as an enemy. Over time, they grow indifferent to punishments [Each additional unit provides progressively less value](/notes/each-additional-unit-provides-progressively-less-value.md), resorting to lying, hiding, and cheating. [Punishment teaches concealment rather than change](/notes/punishment-teaches-concealment-rather-than-change.md)
 
-Threats or "logical consequences," like letting a child freeze for refusing a coat, are still punishments that should be minimized.
+Threats or "logical consequences," like letting a child freeze for refusing a coat, are still punishments that should be minimized. [Natural consequences teach without punishment](/notes/natural-consequences-teach-without-punishment.md)
 
 :::note[PUNITIVE DAMAGES]
 
@@ -190,7 +190,7 @@ Threats or "logical consequences," like letting a child freeze for refusing a co
 
 Parents often push children to succeed, adding [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) that harms mental health, performance, and love of learning.
 
-Children internalize parental [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md), obsessing over achievements at the expense of others. Achievements often become a [Zero sum](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) game. They may self-sabotage if they doubt success, preferring doubt over facing inadequacy.
+Children internalize parental [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md), obsessing over achievements at the expense of others. Achievements often become a [Zero sum](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) game. They may self-sabotage if they doubt success, preferring doubt over facing inadequacy. [Self-handicapping softens the blow of failure](/notes/self-handicapping-softens-the-blow-of-failure.md)
 
 Fear of failure motivates staying in comfort zones more than the desire to achieve [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md). Knowing they are loved even if they fail gives them confidence to take risks and persist until success [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md).
 
@@ -207,7 +207,7 @@ Fear of failure motivates staying in comfort zones more than the desire to achie
 ### What Holds Us Back
 
 Our tendency for controlling parenting stems from:
-1. **How we were parented** - we mimic harmful methods
+1. **How we were parented** - we mimic harmful methods [People replicate the parenting methods they experienced](/notes/people-replicate-the-parenting-methods-they-experienced.md)
 2. **Older generations and outdated "tough" culture** - we receive advice on "raising kids tight" [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 3. **Control feels right** - we think if we're not controlling, we're permissive, leading to lazy, entitled children
 4. **Fear of judgment, incompetence, or powerlessness** - control gives an illusion of confidence and power, combating fears of being a bad parent. We fear they won't grow strong or fast without our "help."
@@ -281,7 +281,7 @@ They learn to make good decisions through practice [Active engagement with mater
 
 They cooperate more when they feel [included](/notes/inclusion-means-proactively-welcoming-and-believing-in-others.md), rather than resisting decisions made for them. Replace a *doing to* mindset with *working with*. [People are not the problem](/notes/people-are-not-the-problem.md)
 
-Consistently offering real choices (not just "now or in five minutes?") reduces pushback when choices aren't possible, like wearing a seatbelt, especially if we're honest about the situation and explain our reasons.
+Consistently offering real choices (not just "now or in five minutes?") reduces pushback when choices aren't possible, like wearing a seatbelt, especially if we're honest about the situation and explain our reasons. [Offering a choice reduces resistance to an outright no](/notes/offering-a-choice-reduces-resistance-to-an-outright-no.md)
 
 ### The Child's Perspective
 
@@ -301,5 +301,3 @@ Similarly, learn to take their perspective. It's not easy being a kid, especiall
 
 :::
 
-
-==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'

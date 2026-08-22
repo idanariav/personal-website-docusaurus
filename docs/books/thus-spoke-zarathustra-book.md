@@ -1,7 +1,7 @@
 ---
 UUID: 20231024055519
 Created: '2023-10-24 05:55'
-Modified: '2026-04-13 06:21'
+Modified: '2026-08-17 05:52'
 tags: []
 FullTitle: Thus Spoke Zarathustra
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 5
 Pages: 327
 Reread: 0
 Rate: 3
@@ -143,10 +143,10 @@ Virtue arises from passions, and is a kind of passion itself. But it is not a un
 The state is the new idol. Loyalty to a democratic state has overtaken belief in God as the chief idol of society. Zarathustra tells his disciples that people are the true noble creatures, not states. People serve life, he says, but a state only serves death by sending men to war and by lusting after "a hundred appetites."
 ##### On the Friend
 
-friendship should inspire envy between friends, each friend urging the other through jealously to ascend to a higher level of enlightenment
+friendship should inspire envy between friends, each friend urging the other through jealously to ascend to a higher level of enlightenment [Envy can drive people to strive and ascend](/notes/envy-can-drive-people-to-strive-and-ascend.md)
 ##### On the Thousand Goals and One
 
-all great meaning is created by humans. Humanity creates laws and ideas to overcome the difficulties it faces in society. **A person is first a creator who assigns value to things**. Only second is the person an individual. People, Zarathustra teaches, value the community over the ego, which proves that humanity has not reached its highest goal
+all great meaning is created by humans. Humanity creates laws and ideas to overcome the difficulties it faces in society. **A person is first a creator who assigns value to things** [Meaning is Crafted](/notes/meaning-is-crafted.md). Only second is the person an individual. People, Zarathustra teaches, value the community over the ego, which proves that humanity has not reached its highest goal
 
 :::note[Quotes]
 
@@ -195,7 +195,7 @@ Zarathustra offers his views on humanity: the weak serve the strong, and the wea
 
 #### On the Immaculate Perception
 
-Pure objectivity is an illusion because, no matter what, each person will bring a particular perspective to what he sees. The goal is to believe in the individual
+Pure objectivity is an illusion because, no matter what, each person will bring a particular perspective to what he sees [Subjective perspective can't be surpassed](/notes/subjective-perspective-cant-be-surpassed.md). The goal is to believe in the individual
 
 :::note[Quotes]
 

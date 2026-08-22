@@ -1,12 +1,9 @@
 ---
 UUID: 20240529075703
 Created: '2024-05-29 07:57'
-Modified: '2026-06-16 22:58'
+Modified: '2026-08-18 06:50'
 tags: []
-sketch-editor-plugin: parsed
-Version: 4
-Image: '[[Judgment adds subjective value to objective events.png]]'
-ImageText: A gray circle that turns into happy or unhappy face
+Version: 6
 Description: >-
   The process of labeling events as "good" or "bad" based on personal context
   and internal perceptions, influencing our understanding and relationships with
@@ -18,6 +15,8 @@ URL: null
 aliases:
   - Judgment
 new_schema: true
+Drawings:
+  - '[[Judgment adds subjective value to objective events (sketch)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -38,11 +37,11 @@ We are either approaching a situation with a question mark [Curiosity is the joy
 
 ### Why it Matters
 
-Judgment creates a tether between us and the event, sometimes preventing us from viewing it differently or noticing important information since it creates [Actions and physical states unconsciously shape our beliefs](/notes/actions-and-physical-states-unconsciously-shape-our-beliefs.md). If something bad happened to us, the default response is to see ourselves as [victims](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md) and the event as inevitable, while something good is necessarily the result of our hard work [We attribute bad outcomes to luck but others' misfortunes to their faults](/notes/we-attribute-bad-outcomes-to-luck-but-others-misfortunes-to-their-faults.md). Only by [distancing](/notes/separating-actions-from-identity-allows-growth.md) ourselves and suspending judgement we have a chance for clarity and seeing things how they are.
+Judgment creates a tether between us and the event, sometimes preventing us from viewing it differently or noticing important information since it creates [Merging actions with identity blocks growth](/notes/merging-actions-with-identity-blocks-growth.md). If something bad happened to us, the default response is to see ourselves as [victims](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md) and the event as inevitable, while something good is necessarily the result of our hard work [We attribute bad outcomes to luck but others' misfortunes to their faults](/notes/we-attribute-bad-outcomes-to-luck-but-others-misfortunes-to-their-faults.md). Only by [distancing](/notes/separating-actions-from-identity-allows-growth.md) ourselves and suspending judgement we have a chance for clarity and seeing things how they are.
 
 Similarly, judgment can create distance between us and other people. If we are quick to label someone as "bad", we are much less likely to gain [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md), and will likely cause the other to distance and protect themselves from us, limiting our chances for [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md).
 
-Remember that you never know all the facts, you never know what happens inside someone's mind, and that you are always capable of mistakes (and do so often), so be less judgmental, and more attentive.
+Remember that you never know all the facts, you never know what happens inside someone's mind [Avoid attributing malice when ignorance or circumstance explains action](/notes/avoid-attributing-malice-when-ignorance-or-circumstance-explains-action.md), and that you are always capable of mistakes (and do so often), so be less judgmental, and more attentive.
 
 ### Examples
 
@@ -56,4 +55,4 @@ Like missing the bus only to find later that the same bus had an accident. At fi
 
 ## Visual
 
-![Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.webp)
+![Judgment adds subjective value to objective events (sketch)](/sketches/judgment-adds-subjective-value-to-objective-events-sketch.webp)

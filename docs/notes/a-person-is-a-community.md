@@ -1,14 +1,13 @@
 ---
 UUID: 20221101075539
 Created: '2022-11-01 07:55'
-Modified: '2026-04-12 07:23'
+Modified: '2026-08-17 10:03'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-new_schema: true
-Version: 9
+Version: 11
 Image: '[[A person is a community.png]]'
 ImageText: Person with people arguing within his head
 Description: >-
@@ -40,7 +39,7 @@ Our multitude can be roles we have in life: parent, teacher, friend, i.e differe
 
 ### Why it matters
 As in any community, in order to avoid these conflicts, we need to find balance by converging these entities together into a unified voice [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md).
-The process of unification or rather [Deliberation is a discussion that bridges different perspectives](/notes/deliberation-is-a-discussion-that-bridges-different-perspectives.md) is not easy, but so is living with conflicts. Neglecting can be harmful to our well-being.
+The process of unification or rather [Deliberation is a discussion that bridges different perspectives](/notes/deliberation-is-a-discussion-that-bridges-different-perspectives.md) is not easy, but so is living with conflicts. Neglecting can be harmful to our well-being [Neglecting intrapersonal conflict harms wellbeing](/notes/neglecting-intrapersonal-conflict-harms-wellbeing.md).
 
 ### Examples
 
@@ -51,8 +50,10 @@ In some sense, this also means that [What we do is not who we are](/notes/separa
 
 ### Opposers
 [Behavior reveals true preferences](/notes/behavior-reveals-true-preferences.md).
+[Multidimensional identity collapses into single fixed characteristic](/notes/multidimensional-identity-collapses-into-single-fixed-characteristic.md).
 
 ### Open questions
+
 ## Visual
 
 ![A person is a community](/notes/a-person-is-a-community.webp)

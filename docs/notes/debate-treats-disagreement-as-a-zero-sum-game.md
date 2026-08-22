@@ -1,13 +1,13 @@
 ---
 UUID: 20240427145440
 Created: '2024-04-27 14:54'
-Modified: '2026-04-11 22:19'
+Modified: '2026-08-18 12:48'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 5
 Image: '[[Debate treats disagreement as a zero-sum game.png]]'
 ImageText: >-
   Two opposing sides labeled "Me" and "You" with arrows pushing against each
@@ -18,7 +18,6 @@ Description: >-
   truth.
 aliases:
   - Debate
-new_schema: true
 Topic:
   - '[[Deliberation is a discussion that bridges different perspectives]]'
 Origin: '[[Think Again (book)]]'
@@ -32,11 +31,9 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 Debate is a confrontational form of deliberation. Instead of trying to find together a shared solution, we see the world as a [Zero sum](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) game and believe that only one view is correct and possible.
 
 ### Explanation
-
 Like most competitions, we can treat the debate as an honorable way of figuring out the [Truth](/notes/truth.md), or we can do our best to make the other side look weak, unreliable, and break apart their arguments without truly addressing them.
 
 However, for the sake of the truth and logic, a better rebuttal is one the addresses only the core message of the opponent's argument, without attacking their identity, using a straw man, or any other form of manipulation.
@@ -44,7 +41,6 @@ However, for the sake of the truth and logic, a better rebuttal is one the addre
 ### Why it matters
 
 ### Examples
-
 The order of the strengh of your argument is (from low to high):
 1. Name calling
 2. ad hominem (attacking their character)
@@ -55,11 +51,12 @@ The order of the strengh of your argument is (from low to high):
 7. Refuting their central argument
 
 ### Supporters
+This tracks with [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md) — once we split into an us and a them, the exchange stops being a search for a shared answer and becomes an extension of that hostility.
 
 ### Opposers
+The constructive counterpart is [Deliberation is a discussion that bridges different perspectives](/notes/deliberation-is-a-discussion-that-bridges-different-perspectives.md), treating the other side as a partner in finding a shared answer rather than an opponent to be beaten.
 
 ### Open questions
-
 ## Visual
 
 ![Debate treats disagreement as a zero-sum game](/notes/debate-treats-disagreement-as-a-zero-sum-game.webp)

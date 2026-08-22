@@ -1,7 +1,7 @@
 ---
 UUID: 20230512070955
 Created: '2023-05-12 07:09'
-Modified: '2026-04-13 06:21'
+Modified: '2026-08-16 22:24'
 tags: []
 FullTitle: The Extended Mind - The Power of Thinking Outside the Brain
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 9
 Pages: 352
 Reread: 0
 Rate: 3
@@ -58,16 +58,26 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
-
-### Critique
-
-✅ *by following this method, what will happen?*
+⛓ *by following this method, what will happen?*
 
 by moving some of our thinking process from our heads to the environment, our body, or someone else, we can greatly benefit from:
 1. **Reduced cognitive load**
 2. **Improved critical thinking and creativity**
 3. **Improved memory and learning**
+
+### Critique
+
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Magpie Analogy** – Metaphor. The brain functions like a magpie building a nest from various scavenged external materials rather than operating as a standalone computer. Supports: The idea that thought is a continuous act of assembling resources outside the skull.
+2. **Stress Response Patterns** – Comparison. Untrained individuals exhibit peak stress _during_ a struggle, whereas trained individuals spike in stress _before_ the challenge and remain calm during it. Supports: The body manages energy allocation better than the conscious brain can alone.
+3. **Gesture-Speech Sequencing** – Scientific finding. We communicate ideas through gestures before we verbalize them, and listeners identify the sentiment immediately upon seeing the gesture. Supports: Gestures are a primary language of thought, not merely an accompaniment to speech.
+4. **Gesture-Driven Experimentation** – Finding. Motion facilitates the testing of new concepts, allowing us to "try out" ideas physically before committing to the constraints of speech. Supports: Movement reduces cognitive load and promotes creative exploration.
+5. **Stereotype Triggering** – Case example. Reminding individuals of specific identity traits (e.g., Asians categorized as "good at math") can enhance performance. Supports: Physical and social environments contain cues that trigger specific behavioral and identity-based shifts.
+6. **Peripheral Spatial Processing** – Mechanism. Utilizing peripheral vision and large physical spaces allows for capturing more contextual information than narrow, focused computer-like thinking. Supports: Spatial thinking acts as a force multiplier for mental capacity.
+7. **Novice-to-Expert Emulation** – Strategy. Following someone who recently traversed the same path provides a filter for irrelevant data and prevents pitfalls. Supports: Imitation is an effective shortcut for acquiring complex, tacit expert knowledge.
+8. **Tactile Learning Integration** – Example. Actively using physical objects related to a concept (e.g., using farm toys to learn about farming) yields higher retention than sedentary reading. Supports: Connecting movement to specific tasks enhances memory and efficiency.
+9. **Peer vs. Authority Learning** – Observation. Humans prioritize peer actions over teacher instructions because imitating peers helps define social status and group belonging. Supports: Social presence and peer interaction are critical context-drivers for thought.
+10. **Open Office Limitations** – Environment Analysis. Open-plan settings hinder creativity through excessive distraction and the lack of privacy, which suppresses risk-taking and discovery. Supports: The physical environment heavily dictates our ability to engage in deep or creative thought.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 The part that says to trust your body or your instincts doesn't include enough considerations for bad intuitions, or biases that can cause us to make bad decisions.
@@ -88,7 +98,7 @@ The writer was clearly affected by a certain philosopher and wanted to carry on 
 
 ### Prolog
 
-believing that our thinking starts and ends with our brain is mistaken. Extended thinking, that can increase our [creativity](/notes/creativity-is-combining-existing-ideas-in-new-ways.md). richness and overall quality of our thoughts can be done using 3 things:
+believing that our thinking starts and ends with our brain is mistaken. [Thinking extends beyond the brain to environment and society](/notes/thinking-extends-beyond-the-brain-to-environment-and-society.md) Extended thinking, that can increase our [creativity](/notes/creativity-is-combining-existing-ideas-in-new-ways.md). richness and overall quality of our thoughts can be done using 3 things:
 1. **Bodily thinking** - for example, using your hands while thinking or talking increases memory
 2. **Situational thinking** - using cues from the environment can spark new ideas [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
 3. **Disturbed thinking** - discussions with others can also stir up new thoughts and increase their quality. [discussions as tools for thinking](/notes/discussions-as-tools-for-thinking.md)
@@ -146,7 +156,7 @@ Whereas trained people tend to have a spike of stress right before the challenge
 
 #### Where Emotions come from
 
-We think that emotions are originated from the brain. When we see a bear, our mind tells our body to prepare to run and our heart to spike, but this too is reversed. We feel stressed when our heart spikes. Only after our body has already reacted to the bear, our mind interprets our bodily status as something stressful.
+We think that emotions are originated from the brain. When we see a bear, our mind tells our body to prepare to run and our heart to spike, but this too is reversed. We feel stressed when our heart spikes. Only after our body has already reacted to the bear, our mind interprets our bodily status as something stressful. [Bodily reactions precede and shape the feeling of emotion](/notes/bodily-reactions-precede-and-shape-the-feeling-of-emotion.md)
 
 :::note[Thinking with sensations]
 
@@ -161,9 +171,9 @@ moving one’s focus back and forth between what is transpiring internally and w
 
 ### Chapter 2 - Thinking with Movement
 
-movement has a strong effect on our mental capabilities. **By having a low-moderate exercise, we prime our body for enhanced efficiently,** putting ourselves in an alert state, improving blood circulation and energy consumption. In contrast with sitting down, which "turns off" our body.
+movement has a strong effect on our mental capabilities. **By having a low-moderate exercise, we prime our body for enhanced efficiently,** putting ourselves in an alert state, improving blood circulation and energy consumption. In contrast with sitting down, which "turns off" our body. [Light movement primes the body for mental performance](/notes/light-movement-primes-the-body-for-mental-performance.md)
 
-**Incorporating movement into our learning and thinking process is key for improvement of memory and creativity**. The more connected the movement to the actual task, such as using farm toys when reading a book about a farm, or throwing things to learn about gravity, the more benefits we get from it. [visual representations](/notes/visual-representations.md)
+**Incorporating movement into our learning and thinking process is key for improvement of memory and creativity**. [Movement integrated into learning improves memory and creativity](/notes/movement-integrated-into-learning-improves-memory-and-creativity.md) The more connected the movement to the actual task, such as using farm toys when reading a book about a farm, or throwing things to learn about gravity, the more benefits we get from it. [visual representations](/notes/visual-representations.md)
 
 :::note[thinking with movement]
 
@@ -177,7 +187,7 @@ movement has a strong effect on our mental capabilities. **By having a low-moder
 
 Talking with gestures is helpful for
 1. **Communication** - making the message more understandable and memorable
-2. **memorization** - we tend to remember more ideas when we use our hands to talk about them
+2. **memorization** - we tend to remember more ideas when we use our hands to talk about them [Hand gestures while speaking improve memory retention](/notes/hand-gestures-while-speaking-improve-memory-retention.md)
 3. **understanding concepts** - especially in spatial, visual ideas, hands are a key component of understanding
 4. **creativity** - we tend to explore ideas more when we can use hand gestures to think about them
 
@@ -224,7 +234,7 @@ The spaces we work in have a great effect on our creativity and productivity. Th
 
 ### Chapter 6 - Thinking with Space.
 
-Spatial thinking is a great multiplier to our mental capabilities. Like the technology in "minority report", or modern day mind maps (or canvases), when we can touch, play, and view ideas from different angles, there's much more chances of having a great idea.
+Spatial thinking is a great multiplier to our mental capabilities. Like the technology in "minority report", or modern day mind maps (or canvases), when we can touch, play, and view ideas from different angles, there's much more chances of having a great idea. [Manipulating ideas spatially increases the chance of insight](/notes/manipulating-ideas-spatially-increases-the-chance-of-insight.md)
 
 Therefore, at the least, you should:
 1. **size does matter** - Use a big monitor (more "space" for thought)
@@ -288,14 +298,14 @@ The best ways to develop ideas with your colleagues is:
 
 ### Chapter 9 - Group Thinking
 
-Group thinking can be a powerful source of [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) and a sense of belonging. **By becoming one with the group, we internalize the group goals as our own, and we share an identity with others, which makes the connection strong.**
+Group thinking can be a powerful source of [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) and a sense of belonging. **By becoming one with the group, we internalize the group goals as our own, and we share an identity with others, which makes the connection strong.** [Shared identity strengthens solidarity](/notes/shared-identity-strengthens-solidarity.md)
 
 In order to develop a shared identity, we need to:
 1. **learn** together
 2. **Train** together
 3. **Feel** together
 
-basically, the more we share emotional situations together, the stronger the bond will be. For example, arranging shared meals, activities, movements or singing is a good option.
+basically, the more we share emotional situations together, the stronger the bond will be. [Shared challenges and growth deepen relationships](/notes/shared-challenges-and-growth-deepen-relationships.md) For example, arranging shared meals, activities, movements or singing is a good option.
 
 :::note[group thinking]
 

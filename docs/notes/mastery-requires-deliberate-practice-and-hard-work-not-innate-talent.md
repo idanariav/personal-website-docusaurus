@@ -1,12 +1,9 @@
 ---
 UUID: 20230710192932
 Created: '2023-07-10 19:29'
-Modified: '2026-07-04 15:56'
+Modified: '2026-08-18 12:06'
 tags: []
-sketch-editor-plugin: parsed
-Version: 5
-Image: '[[Mastery requires deliberate practice and hard work, not innate talent.png]]'
-ImageText: 'A small mountain, zoomed out to an even bigger chain of mountains'
+Version: 6
 Description: >-
   The state of being highly skilled in a specific field, characterized by a
   complex process involving imitation, filtering, remixing, and refining
@@ -19,6 +16,10 @@ aliases:
   - Mastery
   - expertise
 new_schema: true
+Drawings:
+  - >-
+    [[Mastery requires deliberate practice and hard work, not innate talent
+    (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -29,7 +30,7 @@ SiteProcssed: true
 
 ### Claim
 
-Mastery is achieved when we are really good at a certain field. It is often not clear when we achieve mastery, since not all fields are easily ranked such as chess or sports, and most fields have both verity (each person is working on different topics) and a level of personal judgment such that true ranking is not possible. For example, we can't really say who is the best artist, not on today's standards, and many cases have shown that our opinions of art change with time [Complexity](/notes/complexity.md).
+Mastery is achieved when we are really good at a certain field. It is often not clear when we achieve mastery, since not all fields are easily ranked such as chess or sports, and most fields have both verity (each person is working on different topics) and a level of personal judgment such that true ranking is not possible. For example, we can't really say who is the best artist, not on today's standards, and many cases have shown that our opinions of art change with time [Complexity makes ideas harder to understand and implement](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md).
 
 ### Explanation
 
@@ -49,10 +50,12 @@ While some think that mastery is a matter of [talent](/notes/competence-is-devel
 
 ### Opposers
 
+But grinding out the same repetition isn't automatically enough — once a skill becomes automatic, we stop paying it much mind, and whatever weaknesses came along for the ride get locked in right alongside it [Automation of skill makes weaknesses permanent](/notes/automation-of-skill-makes-weaknesses-permanent.md). Mastery needs the practice to stay deliberate, not just repeated.
+
 ### Open Questions
 
 Often, there is a question whether in order to master we have to solely dedicate ourselves to the one field [Specialization develops deep expertise by focusing narrowly on a domain](/notes/specialization-develops-deep-expertise-by-focusing-narrowly-on-a-domain.md), or whether mastery in modern times require much more branching out and mixing different fields of knowledge. [Breath beats depth](/notes/breath-beats-depth.md).
 
 ## Visual
 
-![Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.webp)
+![Mastery requires deliberate practice and hard work, not innate talent (sketch)](/sketches/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent-sketch.webp)

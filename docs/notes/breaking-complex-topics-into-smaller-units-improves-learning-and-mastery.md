@@ -1,13 +1,13 @@
 ---
 UUID: 20230708065032
 Created: '2023-07-08 06:50'
-Modified: '2026-04-11 22:18'
+Modified: '2026-08-18 11:32'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: >-
   [[Breaking complex topics into smaller units improves learning and
   mastery.png]]
@@ -20,7 +20,6 @@ Description: >-
   mastery while potentially overlooking emergent properties.
 aliases:
   - Chunking
-new_schema: true
 Topic:
   - '[[Knowledge Structure and Transfer]]'
 Origin: '[[Ultralearning (book)]]'
@@ -33,21 +32,18 @@ SiteProcssed: true
 
 ## Notes
 
-
 ### Claim
-
-A method for learning or processing information, to break a topic down to it's more basic and [smallest](/notes/understanding-requires-breaking-things-to-their-smallest-parts.md) components [Distilling separates essence from noise to simplify understanding](/notes/distilling-separates-essence-from-noise-to-simplify-understanding.md), understanding and practicing each one separately until we reach [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md). This helps us turn [Complexity](/notes/complexity.md) into [Distilling to essentials creates clarity and actionability](/notes/distilling-to-essentials-creates-clarity-and-actionability.md) and [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md).
+A method for learning or processing information, to break a topic down to it's more basic and [smallest](/notes/understanding-requires-breaking-things-to-their-smallest-parts.md) components [Distilling separates essence from noise to simplify understanding](/notes/distilling-separates-essence-from-noise-to-simplify-understanding.md), understanding and practicing each one separately until we reach [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md). This helps us turn [Complexity makes ideas harder to understand and implement](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md) into [Distilling to essentials creates clarity and actionability](/notes/distilling-to-essentials-creates-clarity-and-actionability.md) and [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md).
 
 ### Explanation
-
 It is much easier to understand one [small](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md) thing than trying to do all at once. The smaller the chunk, the easier it is to get relevant [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md) and improve on that specific task.
 
 Chunking also imitates how we naturally learn in many situations. It's a form of [Learning adds new knowledge layers instead of replacing old understanding](/notes/learning-adds-new-knowledge-layers-instead-of-replacing-old-understanding.md), where each component is built on the previous one. Like how you first learn addition before you advance to multiplication.
 
 ### Why it matters
+Part of why this works comes down to memory, not just motivation: [Full working memory reduces focus and task performance](/notes/full-working-memory-reduces-focus-and-task-performance.md) — working memory isn't limited by how much you're ultimately trying to hold, but by how hard each piece is to hold onto. Break the material into small enough chunks and each one becomes light enough to actually fit.
 
 ### Examples
-
 If we take learning a new language as an example, we can break down the process to:
 1. singular vs plural
 2. feminine vs masculine (if relevant)
@@ -59,12 +55,9 @@ Each one is learned separately, and together these become the building blocks th
 ### Supporters
 
 ### Opposers
-
 The disadvantage with chunking is that it's hard to learn or sense [emergent](/notes/system-properties-arise-from-component-interactions-not-individual-parts.md) properties. Because we focus on each component individually, we sometimes miss the "bigger picture", of how these components interact with each other. For example, [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md) are a different form of practice, one that attempts to recreate the experience in it's entirety, instead of breaking it down to smaller pieces.
 
 ### Open questions
-
-
 ## Visual
 
 ![Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.webp)

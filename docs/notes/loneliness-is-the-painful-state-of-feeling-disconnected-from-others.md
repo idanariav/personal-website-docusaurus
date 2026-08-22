@@ -1,12 +1,9 @@
 ---
 UUID: 20240409080645
 Created: '2024-04-09 08:06'
-Modified: '2026-06-29 09:10'
+Modified: '2026-08-18 14:05'
 tags: []
-sketch-editor-plugin: parsed
-Version: 4
-Image: '[[Loneliness is the painful state of feeling disconnected from others.png]]'
-ImageText: A wanderer alone in the outdoors
+Version: 5
 Description: >-
   A painful state of emotional detachment from others, contrasting with
   solitude, arising from the inherent human need for social connection and often
@@ -18,6 +15,10 @@ URL: null
 aliases:
   - Loneliness
 new_schema: true
+Drawings:
+  - >-
+    [[Loneliness is the painful state of feeling disconnected from others
+    (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -34,7 +35,7 @@ Loneliness is opposed to [Solitude enables introspection and deep cognitive work
 
 Note that loneliness is not necessarily physical. One can be alone while being surrounded by people, or having a community without meeting people face to face, although it does have it's limits.
 
-Loneliness can be created when we try to free ourselves from others. Becoming completely "free" without [depending](/notes/dependency.md) on others might sound liberating, but like the tree example, when we escape the ground we are free to go anywhere, yet our freedom is theoretical and not practical because we lack the resources, the motivation, the sense of meaning to actualize it.
+Loneliness can be created when we try to free ourselves from others. Becoming completely "free" without [depending](/notes/dependency-trades-autonomy-for-connection.md) on others might sound liberating [Freedom from external constraints](/notes/freedom-from-external-constraints.md), but like the tree example, when we escape the ground we are free to go anywhere, yet our freedom is theoretical and not practical because we lack the resources, the motivation, the sense of meaning to actualize it [Freedom means having the ability to pursue your goals](/notes/freedom-means-having-the-ability-to-pursue-your-goals.md).
 
 ### Why it Matters
 
@@ -54,4 +55,4 @@ One requires [Self-awareness reveals mental and emotional states enabling intent
 
 ## Visual
 
-![Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.webp)
+![Loneliness is the painful state of feeling disconnected from others (sketch)](/sketches/loneliness-is-the-painful-state-of-feeling-disconnected-from-others-sketch.webp)
