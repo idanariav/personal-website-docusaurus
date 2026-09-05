@@ -1,12 +1,12 @@
 ---
 UUID: 20221019213242
 Created: '2022-10-19 21:32'
-Modified: '2026-05-11 16:42'
+Modified: '2026-09-02 15:41'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Habits operate through a four-part loop.png]]'
 ImageText: >-
   A cue (bell) leads to craving (magnet) leads to action (button) leads to
@@ -22,7 +22,6 @@ Origin: '[[Atomic Habits (book)]]'
 URL: 'https://www.youtube.com/watch?v=G_WDLZ8pYrQ&t=992s'
 aliases:
   - The habit loop
-new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -32,11 +31,9 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 A simplistic model of how our brain triggers, reinforces and operates habits consists of 4 components.
 
 ### Explanation
-
 The habit loop consists of:
 
 1. [Cue](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) - An external stimulus (conscious or subconscious) that the brain has attached an emotional/physical response to. This is usually some type of dopamine expectation for a reward. For example, seeing a box of chocolates on the table.
@@ -44,12 +41,10 @@ The habit loop consists of:
 3. **Habit** - The act itself, when you go with your craving—i.e., you eat the chocolate.
 4. **Reward** - The happiness received from performing the action.
 
-### Why it Matters
-
-We can use this knowledge to our advantage. Instead of using brute willpower [Willpower is Limited](/notes/willpower-is-limited.md), we can structure our environment and approach to support habit formation.
+### Why it matters
+We can use this knowledge to our advantage. Instead of using brute willpower [Willpower is Limited](/notes/willpower-is-limited.md), we can structure our environment and approach to support habit formation [Repeated actions become automatic through habit formation](/notes/repeated-actions-become-automatic-through-habit-formation.md).
 
 ### Examples
-
 We can apply this knowledge by:
 
 1. **Make it clear** - Have an easy to measure goal so you could know when and how to reach it. For example, the difference between "I will read more" and "I will read 25 pages every day". [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md)
@@ -61,8 +56,7 @@ We can apply this knowledge by:
 
 ### Opposers
 
-### Open Questions
-
+### Open questions
 ## Visual
 
 ![Habits operate through a four-part loop](/notes/habits-operate-through-a-four-part-loop.webp)

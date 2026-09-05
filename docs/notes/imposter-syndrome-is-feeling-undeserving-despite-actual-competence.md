@@ -1,12 +1,12 @@
 ---
 UUID: 20230328065311
 Created: '2023-03-28 06:53'
-Modified: '2026-06-02 08:01'
+Modified: '2026-09-02 16:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 6
+Version: 7
 Image: '[[Imposter syndrome is feeling undeserving despite actual competence.png]]'
 ImageText: A superman symbol vs a kryptonite
 Description: >-
@@ -19,7 +19,6 @@ Origin: null
 URL: null
 aliases:
   - Imposter Syndrome
-new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -29,15 +28,12 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 Imposter syndrome is when we feel that we are not entitled to our position in our current job, or status in life. We feel that we have cheated or imitated our way into success when we don't deserve it [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md). Usually it is when we believe that our knowledge is not sufficient to be an expert in this field, no matter how much we study [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md). We become our own worse [critic](/notes/self-criticism-is-being-your-own-harsh-judge.md)
 
 ### Explanation
-
 Perhaps we have over doubted ourselves in order to avoid [Overestimating abilities blinds us to genuine risks](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md), only to end up on the other side of the spectrum. With imposter syndrome - [Moderation](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md) is the only path forward. To recognize our flaws and failures, yet not let them paralyze us, believing that we have worth as we are today, and also that we can improve.
 
-### Why it Matters
-
+### Why it matters
 How to avoid imposter syndrome:
 1. **Be open for compliments** - Don't just listen to the negative things others say, also listen to the good things. Sometimes others have better grasp of our situation and skills. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
 2. **"Just" decide to believe** - Sometimes the only way out is through. Take a [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md), believing that you are capable "despite all evidence to the contrary"
@@ -49,9 +45,9 @@ How to avoid imposter syndrome:
 ### Supporters
 
 ### Opposers
+The mirror image of this miscalibration is the Dunning-Kruger effect - the less someone actually knows about a field, the more confident they tend to feel in it [The less you know the more confident you are](/notes/the-less-you-know-the-more-confident-you-are.md). Imposter syndrome sits at the opposite end of that same curve: real competence paired with too little confidence in it.
 
-### Open Questions
-
+### Open questions
 ## Visual
 
 ![Imposter syndrome is feeling undeserving despite actual competence](/notes/imposter-syndrome-is-feeling-undeserving-despite-actual-competence.webp)

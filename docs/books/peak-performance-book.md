@@ -1,7 +1,7 @@
 ---
 UUID: 20250210203639
 Created: '2025-02-10 20:36'
-Modified: '2026-08-12 10:16'
+Modified: '2026-09-02 11:27'
 tags: []
 FullTitle: >-
   Peak Performance - Elevate Your Game, Avoid Burnout, and Thrive with the New
@@ -30,7 +30,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 6
+Version: 7
 Pages: 205
 Reread: 0
 Rate: 3
@@ -228,7 +228,7 @@ When we focus on just ourselves, our capabilities are limited. Our ego will usua
 
 Purpose, specifically through [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md) gives us the [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) and [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) to push beyond our limits
 
-Fatigue and burnout is at least partially mental. That is why a sense of purpose can allow us to overcome it [Purpose helps overcome mental fatigue](/notes/purpose-helps-overcome-mental-fatigue.md).
+Fatigue and burnout is at least partially mental. That is why a sense of purpose can allow us to overcome it [Purpose helps overcome mental fatigue](/notes/purpose-helps-overcome-mental-fatigue.md) [Finding meaning in work increases fulfillment and resilience](/notes/finding-meaning-in-work-increases-fulfillment-and-resilience.md).
 
 :::note[TRANSCEND YOUR“SELF”]
 

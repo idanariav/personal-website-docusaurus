@@ -1,13 +1,13 @@
 ---
 UUID: 20230327065634
 Created: '2023-03-27 06:56'
-Modified: '2026-04-11 22:21'
+Modified: '2026-09-02 12:00'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: >-
   [[Flow is deep immersion where performance peaks and self-awareness
   disappears.png]]
@@ -19,7 +19,6 @@ Description: >-
 aliases:
   - Flow
   - Immersion
-new_schema: true
 Topic:
   - '[[Peak States and Optimal Experience]]'
 Origin: '[[Flow (book)]]'
@@ -32,13 +31,10 @@ SiteProcssed: true
 
 ## Notes
 
-
 ### Claim
-
 Flow is described as the situation of a perfect immersed experienced, in which we forget ourselves and [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md) solely on the task at hand, performing at [peak](/notes/optimization-finds-the-efficient-point-balancing-outputs-and-inputs.md) efficiency, and experiencing great joy from it [Unity is the felt sense of connection with others and the world](/notes/unity-is-the-felt-sense-of-connection-with-others-and-the-world.md).
 
 ### Explanation
-
 We feel connected to it, as if it is part of who we are [Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.md). Our mind [quiets](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) down and the task consumes the entirety of our thoughts (or we have no thoughts at all)
 
 the flow experience is achieved when:
@@ -51,12 +47,15 @@ the flow experience is achieved when:
 
 ### Examples
 
+A concrete case is the pre-performance ritual - athletes and performers use fixed warmup routines to bypass overthinking and slide straight into [Rituals bypass overthinking by replacing decisions with steps](/notes/rituals-bypass-overthinking-by-replacing-decisions-with-steps.md) the zone before the task even starts.
+
 ### Supporters
+
+This connects to a broader pattern: [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md) trying too hard to force the outcome, to watch yourself perform well, is exactly what breaks the immersion. Flow only shows up once you stop being your own audience.
 
 ### Opposers
 
 ### Open questions
-
 
 ## Visual
 

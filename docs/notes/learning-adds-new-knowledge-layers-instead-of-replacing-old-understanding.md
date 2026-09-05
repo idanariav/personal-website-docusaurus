@@ -1,14 +1,9 @@
 ---
 UUID: 20221104144114
 Created: '2022-11-04 14:41'
-Modified: '2026-06-21 06:32'
+Modified: '2026-09-02 12:00'
 tags: []
-sketch-editor-plugin: parsed
-Version: 5
-Image: >-
-  [[Learning adds new knowledge layers instead of replacing old
-  understanding.png]]
-ImageText: An expanding tree ring
+Version: 6
 Description: >-
   The process of enhancing one's knowledge or identity by adding new layers
   rather than erasing previous understandings, reflecting the complexity and
@@ -21,6 +16,10 @@ aliases:
   - Layering
   - Apperception
 new_schema: true
+Drawings:
+  - >-
+    [[Learning adds new knowledge layers instead of replacing old understanding
+    (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -31,7 +30,7 @@ SiteProcssed: true
 
 ### Claim
 
-To learn or re-learn something is not to [forget](/notes/forgetfulness.md)/delete what we once thought about this subject, but rather add a new layer of knowledge.
+To learn or re-learn something is not to [forget](/notes/forgetting-enables-growth-by-clearing-space-for-change.md)/delete what we once thought about this subject, but rather add a new layer of knowledge.
 
 ### Explanation
 
@@ -41,7 +40,7 @@ This also suggests that our [multitude](/notes/a-person-is-a-community.md) is no
 
 ### Why it Matters
 
-This also means that change is perhaps not similar to [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md), but rather simply adding new layers of personality of who we are. We might feel different but in the end we are still the same person deep down.
+This also means that change is perhaps not similar to [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md), but rather simply adding new layers of personality of who we are. We might feel different but in the end we are still the same person deep down [Identity persists across time through psychological continuity](/notes/identity-persists-across-time-through-psychological-continuity.md).
 
 ### Examples
 
@@ -51,10 +50,12 @@ This perhaps supports our [Objectivity is loss of agency to external control and
 
 ### Opposers
 
+Though maybe that "deep down" isn't as solid as it feels. It's also possible there's no fixed layer underneath at all — that what we take for a stable core is [We rewrite our memories every time we access them](/notes/we-rewrite-our-memories-every-time-we-access-them.md) rewritten each time we access it, not preserved beneath the new layers.
+
 ### Open Questions
 
 Whether it is due to our genes or our environment [Nature vs nurture](/notes/nature-vs-nurture.md), our ability to change and grow is [limited](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md).
 
 ## Visual
 
-![Learning adds new knowledge layers instead of replacing old understanding](/notes/learning-adds-new-knowledge-layers-instead-of-replacing-old-understanding.webp)
+![Learning adds new knowledge layers instead of replacing old understanding (sketch)](/sketches/learning-adds-new-knowledge-layers-instead-of-replacing-old-understanding-sketch.webp)

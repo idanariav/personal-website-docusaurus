@@ -1,12 +1,12 @@
 ---
 UUID: 20231230184156
 Created: '2023-12-30 18:41'
-Modified: '2026-05-03 12:04'
+Modified: '2026-09-02 15:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Gamification increases motivation by making activities enjoyable.png]]'
 ImageText: >-
   A phone with a game that gives points for completing a task of taking out the
@@ -24,7 +24,6 @@ aliases:
   - Gamification
   - Instant Gratification
   - Gaming
-new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -34,32 +33,26 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 Gamification is when we do an activity mainly because it is fun and gratifying.
 
 ### Explanation
+It usually involves a challenge, perhaps uncertainty, and progression (like video games). This can be either activities that we created for play, or "[boring](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md)" activities that we convert to "fun" activities. The logic behind gamifying is the same as behind [Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.md) - to add fun to our tasks to make them more approachable.
 
-It usually involves a (Jump:: challenge, perhaps uncertainty, and progression (like video games). This can be either activities that we created for play, or "[boring](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md)" activities that we convert to "fun" activities. The logic behind gamifying is the same as behind [Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.md) - to add fun to our tasks to make them more approachable.
-
-### Why it Matters
+### Why it matters
 
 ### Examples
-
 Tips for gamifying boring activities:
 1. **Make it challenging** - Try to add [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md) to the task which will turn it into an interesting [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md). For example, try to clean the dishes with as little water as possible, or folding a laundry with only one hand.
 2. **Keep it fresh** - do things differently from time to time [Flexability](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md). Have a more [curious](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md) mindset, try to find new ways of doing the same thing. Approach the task with a [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md)
 3. **Improve your score** - Whichever task you do, try to do it better - perhaps faster, more automated, less resourced used, etc [Optimization finds the efficient point balancing outputs and inputs](/notes/optimization-finds-the-efficient-point-balancing-outputs-and-inputs.md).
 
 ### Supporters
-
 Usually games gives us a sense of [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md), of being completely invested in what we do while our mind remains clear.
 
 ### Opposers
-
 While perhaps not a true solution to the problem, it can put [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md) at bay.
 
-### Open Questions
-
+### Open questions
 ## Visual
 
 ![Gamification increases motivation by making activities enjoyable](/notes/gamification-increases-motivation-by-making-activities-enjoyable.webp)

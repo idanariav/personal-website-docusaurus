@@ -1,13 +1,13 @@
 ---
 UUID: 20231223071614
 Created: '2023-12-23 07:16'
-Modified: '2026-04-11 22:28'
+Modified: '2026-09-02 16:54'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Truth depends on context and the observer''s perspective.png]]'
 ImageText: >-
   Three people of different heights, with the smallest saying "I'm tall" and the
@@ -57,9 +57,11 @@ If contextualism is true, than it supports [Cultivating virtues creates a good m
 
 In some sense, it opposes [realism](/notes/realism.md), because we can see that the claim that moral truths exist beyond human perception is difficult to match with the claim that truths are dependent on the context and specifically the speaker.
 
+It also opposes [Knowledge comes from empirical testing not innate reason](/notes/knowledge-comes-from-empirical-testing-not-innate-reason.md), because empiricism assumes truth is an objective property to be measured the same way regardless of who's looking, while contextualism says the measuring itself depends on who's doing it.
+
 ### Open questions
 
-Is truth devoid of all meaning? If a short person says they are tall, are they correct? If they say something like "well compared to an ant I am tall", we can't say anything to refute it. Every sentence can be made true with enough manipulation. No wonders we have become [indifferent](/notes/indifference.md) to the concept of truth, because it lacks the meaning it used to have.
+Is truth devoid of all meaning? If a short person says they are tall, are they correct? If they say something like "well compared to an ant I am tall", we can't say anything to refute it. Every sentence can be made true with enough manipulation. No wonders we have become [indifferent](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md) to the concept of truth, because it lacks the meaning it used to have.
 
 ## Visual
 

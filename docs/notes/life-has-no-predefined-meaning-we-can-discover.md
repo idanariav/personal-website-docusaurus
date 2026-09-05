@@ -1,13 +1,13 @@
 ---
 UUID: 20231224063300
 Created: '2023-12-24 06:33'
-Modified: '2026-04-11 22:23'
+Modified: '2026-09-02 16:40'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Life has no predefined meaning we can discover.png]]'
 ImageText: A flow chart that leads to a tombstone
 Description: >-
@@ -40,7 +40,7 @@ Since we are [Humans compulsively seek patterns and meaning even in chaos](/note
 
 To escape this despair, we can cancel either side of the equation of us vs the universe. Option one is to give up on the rational quest for understanding, on "us", and surrender to the mystical [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md). To let go of the search itself, to [live as flow](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md), to believe that the [self is a construct](/notes/self-is-a-construct.md), and that we are just a cell in the giant organism which is nature/universe.
 
-Option two is to deny the universe. That nothing else exists but consciousness [solipcism](/notes/solipcism.md), that the universe is devoid of answers because it doesn't matter, that all we know, and all we should care about is us [Indifference](/notes/indifference.md). [Morality is a construct without real meaning](/notes/morality-is-a-construct-without-real-meaning.md).
+Option two is to deny the universe. That nothing else exists but consciousness [solipcism](/notes/solipcism.md), that the universe is devoid of answers because it doesn't matter, that all we know, and all we should care about is us [Indifference can be protective or harmful depending on its source](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md). [Morality is a construct without real meaning](/notes/morality-is-a-construct-without-real-meaning.md).
 
 Both are forms of philosophical suicide and both don't solve but rather deny the problem of absurdity of life.
 
@@ -61,6 +61,7 @@ For example imagine Sisyphus. His greatest challenge is not pushing that rock up
 Sisyphus's actions are useless, but in the end we must imagine him happy, i.e believing that there's a solution to the absurd.
 
 ### Supporters
+[Meaning requires both action and self-reflection working together](/notes/meaning-requires-both-action-and-self-reflection-working-together.md) — neither pure contemplation nor pure doing gets you there alone; meaning is built where the two meet.
 
 ### Opposers
 

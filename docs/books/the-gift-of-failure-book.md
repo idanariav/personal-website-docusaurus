@@ -1,7 +1,7 @@
 ---
 UUID: 20240803155109
 Created: '2024-08-03 15:51'
-Modified: '2026-04-13 06:19'
+Modified: '2026-09-02 10:50'
 tags: []
 FullTitle: >-
   The Gift of Failure - How the Best Parents Learn to Let Go So Their Children
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 4
 Pages: 304
 Reread: 0
 Rate: 2
@@ -54,12 +54,22 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen?*
+More independent children, by letting them fail, and when we let go, we allow them to develop.
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-More independent children, by letting them fail, and when we let go, we allow them to develop.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Rewards vs. Creativity** – Scientific observation. Rewards function well for repetitive, uncomplicated tasks but act as "lousy motivators" that impede focus and creativity when applied to nuance. Supports: The argument that extrinsic rewards crowd out intrinsic motivation.
+2. **Effort vs. Achievement Praise** – Research finding. Praising effort fosters a "growth mindset" and the understanding that capability is malleable, whereas praising achievements leads to performance anxiety. Supports: The concept that parents should prioritize the process of learning over results.
+3. **Empathy in Social Conflict** – Developmental observation. Children build empathy only by seeing and hearing the reactions of others during arguments; preventing these experiences denies them the lesson. Supports: The claim that parents should avoid resolving minor social conflicts for their children.
+4. **Historical Context of Child Labor** – Historical example. Prior to modern child protection laws and the industrial revolution, children were active, necessary participants in household well-being, which inherently exposed them to failure. Supports: The explanation of why contemporary parents, disconnected from that model, feel a loss of confidence.
+5. **The "Message of Incompetence"** – Psychological insight. Every time a parent "hovers" or rescues a child from a challenge, it reinforces the implicit belief that the child is incapable and unworthy of trust. Supports: The argument that overparenting fundamentally damages a child’s self-reliance.
+6. **Laundry as a Competency Tool** – Practical example. Allowing children to complete chores without a parent "correcting" or redoing their work provides a necessary process for learning through trial and error. Supports: The idea that family contribution is essential for developing genuine competence.
+7. **Executive Function Systems** – Developmental strategy. Using calendars, timers, and Pomodoro techniques allows children to bridge the gap between their limited mental capacity and the rising expectations of middle school. Supports: The claim that parents should provide support for the system of working, rather than the work itself.
+8. **Grades as Destructive Metrics** – Analytical observation. Grades act as an external, inaccurate measure that obscures important metrics and discourages long-term drive. Supports: The argument that parents should de-emphasize grades to preserve the child's interest in learning.
+9. **Playground Squabbles** – Case study/Observation. Minor social disagreements are essential lessons in negotiation, conflict resolution, and resilience against "bully culture." Supports: The recommendation that parents must remain on the sidelines of social interaction unless there is immediate danger.
+10. **The "Trial and Error" Cycle** – Developmental argument. Every mistake, fail, or miscalculation that a parent allows a child to experience—and subsequently navigate—contributes to their resourcefulness and resilience. Supports: The core argument that failures are the primary teachers of essential life skills.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -112,7 +122,7 @@ The simple answer that followed was "do what feels good". Parents indulged their
 #### Why Parenting for Dependence Doesn't Work
 **The power of intrinsic motivation**
 
-When we impose our will and our viewpoint on the children, when we use external rewards as motivation, we [crowed out](/notes/one-activity-displaces-another-when-pursued-excessively.md) their [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) for external one. However the external motivation is short lasting, it harms their [creativity](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md) and focus because they focus on the reward and not the activity. It often creates backlash if they feel they are being controlled. It is only useful for basic, repetitive boring tasks.
+When we impose our will and our viewpoint on the children, when we use [external rewards as motivation](/notes/external-motivation-crowds-out-intrinsic-drive-and-sustainability.md), we [crowed out](/notes/one-activity-displaces-another-when-pursued-excessively.md) their [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) for external one. However the external motivation is short lasting, it harms their [creativity](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md) and focus because they focus on the reward and not the activity. It often creates backlash if they feel they are being controlled. It is only useful for basic, repetitive boring tasks.
 
 So how do we maintain the intrinsic motivation and their sense of [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md)? We need to back off [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md). We need to let go of our attempts to control them, to give them a sense of [Autonomy](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) over their lives, and let them explore however they like, as long as it's within safe accepted limits. [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md).
 

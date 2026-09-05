@@ -1,7 +1,7 @@
 ---
 UUID: 20230213065555
 Created: '2023-02-13 06:55'
-Modified: '2026-08-06 06:22'
+Modified: '2026-09-02 16:00'
 tags: []
 Author:
   - '[[Ethan Kross]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 6
+Version: '7'
 Pages: 272
 Rate: 3
 PublishDate: 2021-01-26T00:00:00.000Z
@@ -173,7 +173,7 @@ However , [Separating actions from identity allows growth](/notes/separating-act
 However, there is a simple and easy tool that mimics cognitive distancing without costing much.
 **Address yourself by your name.**
 Instead of "why did I do it", ask "what did John did it".
-It will force your mind to look at yourself as a third person, thus creating distance. [talking in third person creates distance and improves compassion](/notes/talking-in-third-person-creates-distance-and-improves-compassion.md)
+It will force your mind to look at yourself as a third person, thus creating distance. [talking in third person creates distance and improves compassion](/notes/healthy-self-talk-prevents-spiraling-and-builds-resilience.md)
 
 :::note[When I Become You]
 

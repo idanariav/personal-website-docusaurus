@@ -1,12 +1,12 @@
 ---
 UUID: 20230404161856
 Created: '2023-04-04 16:18'
-Modified: '2026-05-09 08:13'
+Modified: '2026-09-02 15:55'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 3
+Version: '4'
 Image: '[[Group similar tasks to reduce switching costs.png]]'
 ImageText: An agenda split into many different tasks vs an agenda with bigger blocks
 Description: >-
@@ -20,7 +20,6 @@ URL: 'https://www.youtube.com/watch?v=c92hhEFCcGw'
 aliases:
   - Task Batching
   - Batching
-new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -30,11 +29,9 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 Task Batching is the idea that similar tasks should be done one after the other to avoid the price of [Context Switching](/notes/task-switching-incurs-cognitive-costs-that-reduce-productivity.md). By priming our mind to deal with a certain kind of task, it would be easier for us to be [focused](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md) and productive on that task, instead of spreading it around our schedule, which will cause a lot of unnecessary switching.
 
 ### Explanation
-
 Some tasks are more easy to batch together. this keeps the mental content and effort the same, and reduces chances of distractions or lack of resources for the task.
 
 the usual groups are:
@@ -44,16 +41,19 @@ the usual groups are:
 4. *tools* - does it require internet? workout gear? my computer?
 5. *Social interaction* - does this task can be done solely by me? am i reliant on others?
 
-### Why it Matters
+### Why it matters
+
+It matters because batching is what actually gets you into [deep, uninterrupted work](/notes/focused-uninterrupted-work-produces-the-best-results.md) — you can't reach that state if you're re-setting up for a different kind of task every twenty minutes.
 
 ### Examples
 
 ### Supporters
 
+[Batching by energy](/notes/aligning-tasks-to-energy-levels-improves-performance-and-reduces-resistance.md) is the same principle on a different axis — instead of grouping by task type, you group by how much energy each task demands, so low-energy tasks don't have to compete with high-energy ones for the same slot.
+
 ### Opposers
 
-### Open Questions
-
+### Open questions
 ## Visual
 
 ![Group similar tasks to reduce switching costs](/notes/group-similar-tasks-to-reduce-switching-costs.webp)

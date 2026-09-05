@@ -1,7 +1,7 @@
 ---
 UUID: 20221223110004
 Created: '2022-12-23 11:00'
-Modified: '2026-05-14 22:38'
+Modified: '2026-09-02 16:00'
 tags: []
 FullTitle: The Righteous Mind - Why Good People are Divided by Politics and Religion
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 5
+Version: '6'
 Pages: 419
 Reread: 0
 Rate: 4
@@ -54,13 +54,23 @@ SiteProcssed: true
 3. **Morality makes us group-oriented** - Since morality is based on our intuitions, it can quickly turn us into group-oriented people, especially in highly emotional settings. Powers of us-vs-them is the easiest to use, but even as simple as shared experiences are enough to trigger our group mode
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen?*
+The book is good, the theory of moral foundations is really interesting and eye-opening.
+It even got me opened up to conservatives, and I will now better understand their viewpoint, even if not accept it.
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-The book is good, the theory of moral foundations is really interesting and eye-opening.
-It even got me opened up to conservatives, and I will now better understand their viewpoint, even if not accept it.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Philosophy professor research** – Scientific finding indicating that philosophy professors are not more ethical than other people. Supports: The claim that moral reasoning (rationalism) is not the driver of ethical behavior, but rather an _ex post facto_ justification of intuitive moral judgments.
+2. **Victimless taboos** – Example referring to hypothetical acts like eating a dead dog or using a flag as a mop. Supports: The argument that we do not use rationalization to reach beliefs, but rather use it post-hoc to justify existing emotional reactions.
+3. **Accountability conditions** – Research data showing that accountability only promotes open-minded thought if the decision-maker learns about a topic before forming an opinion, remains anonymous, and perceives the audience as well-informed. Supports: The assertion that human moral thinking functions primarily like a politician seeking votes, not a scientist seeking neutral truth.
+4. **Physical cleanliness studies** – Experimental findings that committing immoral acts creates physical sensations of "dirtiness," and cleansing leads to a heightened focus on moral purity. Supports: The argument that physical states and actions unconsciously influence and shape our moral beliefs and behaviors.
+5. **Kohlberg’s moral test** – Longitudinal research on levels of moral development. Supports: The critique that rationalist research is often inherently biased, specifically favoring secular, individualistic, liberal worldviews over traditional or socio-centric ones, which emphasize authority and tradition.
+6. **The Elephant and the Rider** – Metaphor contrasting the Elephant (automatic, emotional processes) with the Rider (rational, logical processes). Supports: The model that emotions and intuitions drive human judgment, while reasoning acts merely as a "tail" to justify these judgments to others.
+7. **Transactional vs. Transformational leadership** – Comparison of management approaches where transactional leadership appeals to self-interest, while transformational leadership builds shared, "hive-like" identity. Supports: The claim that organizations can actively suppress individual self-interest to boost cooperation and loyalty through group-oriented triggers.
+8. **Moral Foundations Theory** – Theoretical classification identifying six moral "tastes" (Care, Fairness, Loyalty, Authority, Sanctity, Liberty). Supports: The rejection of moral monism, proving that there is no single "correct" morality, but rather a diverse, cultural palette of conflicting yet coherent moral considerations.
+9. **Religion as a moral exoskeleton** – Functional analogy describing religion as a system of institutions and norms that regulates individual behavior. Supports: The claim that religious communities serve as evolutionary adaptations that create essential cohesion and trust, effectively replacing individual "rationality" with group-level cooperation.
+10. **The Chimp and Bee metaphor** – Evolutionary metaphor stating humans are 90 percent chimp (self-interested) and 10 percent bee (group-oriented). Supports: The argument that human beings have a dual nature, possessing the innate capacity to transcend individual self-interest and become part of something larger.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 The ending of the book really supports conservatives as those who care about all the six moral foundations. This allegedly shows that numerically conservatives are better since six is better than two.
@@ -308,14 +318,16 @@ In businesses, we can see two different approaches:
 
 In the political sense, a a nation of multiple hives is more stable than that of a single hive or no hives at all, since it can have the benefits of altruism on the one hand, but avoid tyranny on the other hand.
 
+Haidt pushes this all the way to happiness itself: it isn't a property of the isolated self, it comes from between — from the fit between yourself and others, your work, and something larger than yourself [Happiness is shared](/notes/happiness-is-shared.md).
+
 :::note[The Hive Switch]
 
 - human beings are conditional hive creatures. We have the ability (under special conditions) to transcend self-interest and lose ourselves (temporarily and ecstatically) in something larger than ourselves.
 - Awe acts like a kind of reset button: it makes people forget themselves and their petty concerns. Awe opens people to new possibilities, values, and directions in life.
-- People feel each other’s pain and joy to a much greater degree than do any other primates. Just seeing someone else smile activates some of the same neurons as when you smile.
+- People feel each other's pain and joy to a much greater degree than do any other primates. Just seeing someone else smile activates some of the same neurons as when you smile.
 - We are conditional hive creatures. We are more likely to mirror and then empathize with others when they have conformed to our moral matrix than when they have violated
 - Self-interested employees are Glauconians, far more interested in looking good and getting promoted than in helping the company.43 In contrast, an organization that takes advantage of our hivish nature can activate pride, loyalty, and enthusiasm among its employees and then monitor them less closely.
-- Transactional leadership appeals to followers’ self-interest, but transformational leadership changes the way followers see themselves—from isolated individuals to members of a larger group.
+- Transactional leadership appeals to followers' self-interest, but transformational leadership changes the way followers see themselves—from isolated individuals to members of a larger group.
 - Happiness comes from between. It comes from getting the right relationships between yourself and others, yourself and your work, and yourself and something larger than yourself.
 
 :::

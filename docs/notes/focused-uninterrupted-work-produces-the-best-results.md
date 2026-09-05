@@ -1,13 +1,13 @@
 ---
 UUID: 20250428071052
 Created: '2025-04-28 07:10'
-Modified: '2026-04-11 22:21'
+Modified: '2026-09-02 12:01'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 6
 Image: '[[Focused uninterrupted work produces the best results.png]]'
 ImageText: >-
   A magnifying glass focusing on a person working at a desk, blocking out
@@ -19,7 +19,6 @@ Description: >-
 aliases:
   - Focus
   - Deep Work
-new_schema: true
 Topic:
   - '[[Peak States and Optimal Experience]]'
 Origin: '[[Deep Work (book)]]'
@@ -33,26 +32,25 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 Deep work is the concept that by having [focused](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md), uninterrupted sessions of work, we can be much more efficient in what we do. It is the exact opposite of the belief of [multitasking](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md).
 
 ### Explanation
-
 By trying to do many things at the same time we fail to do any of it well because of our limited [Full working memory reduces focus and task performance](/notes/full-working-memory-reduces-focus-and-task-performance.md) and [Unfinished tasks linger in the mind and reduce focus](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md).
 
 Similarly, shallow work filled with [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) is also harmful for our productivity,
 
 ### Why it matters
-
 Today, it is more essential than ever to be able to produce quality work, because all other types of work could be easily automated or outsourced. The only way to shine is through excellence [Finding your unique strength creates sustainable advantage](/notes/finding-your-unique-strength-creates-sustainable-advantage.md)
 
 ### Examples
 
 ### Supporters
+Sustained, uninterrupted focus is often what gets us into [flow](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md) — the deep immersion where performance peaks and self-consciousness disappears.
 
 ### Opposers
 
 ### Open questions
+This assumes one long uninterrupted block is always best — but [Distributed practice outperforms massed practice](/notes/distributed-practice-outperforms-massed-practice.md) suggests that when the goal is building a skill rather than producing output, spacing sessions out can work better than massing them into one sitting. Is deep work really about the type of task, not just its length?
 
 ## Visual
 

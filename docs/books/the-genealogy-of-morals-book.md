@@ -1,7 +1,7 @@
 ---
 UUID: 20231220115735
 Created: '2023-12-20 11:57'
-Modified: '2026-05-14 19:48'
+Modified: '2026-09-02 15:38'
 tags: []
 FullTitle: The Genealogy of Morals
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 102
 Reread: 0
 Rate: 4
@@ -54,13 +54,23 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen?*
+1. **Free from bounds of slave morality** - you will no longer bow down to ideologies that tries to hold you back and punish you endlessly for your sins
+2. **reevaluate good and bad** - things that are considered "bad" can also be useful tools for your transcendence, your fulfillment of your will to power. You will outgrow these problematic binary concepts of good and bad and will become something bigger than that.
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-1. **Free from bounds of slave morality** - you will no longer bow down to ideologies that tries to hold you back and punish you endlessly for your sins
-2. **reevaluate good and bad** - things that are considered "bad" can also be useful tools for your transcendence, your fulfillment of your will to power. You will outgrow these problematic binary concepts of good and bad and will become something bigger than that.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Origins of "Good"** – Historical deduction that "good" was initially defined by the aristocratic class for themselves and their own traits, rather than existing as an intrinsic moral quality. Supports: The claim that moral values are social constructs created by power dynamics.
+2. **The "Pathos of Distance"** – Metaphorical concept describing the fundamental instinct of a ruling race to differentiate themselves from a "meaner" or "under" race. Supports: The idea that the antithesis of "good and bad" emerged from socio-political superiority rather than moral truth.
+3. **Language as Power** – Linguistic observation that rulers "seal" objects and events with names, effectively taking possession of them. Supports: The argument that morality and terminology are tools of power used to control reality.
+4. **Slave Morality vs. Affirmation** – Comparative analysis showing that while aristocratic morality is a "triumphant affirmation" of self, slave morality is defined by a reactive "no" to the outside world. Supports: The claim that resentment-based morality creates a "negative identity" rather than a resilient, strong personality.
+5. **The Capacity for Forgetfulness** – Psychological observation that "forgetfulness" is an active, necessary function for health and progress, allowing for shedding the old to make room for the new. Supports: The argument that the ability to transcend one's past is a mark of the strong and a requirement for growth.
+6. **The Evolution of Punishment** – Historical observation that punishment was originally an expression of personal anger (like parents punishing children) before being codified into a legal system of "responsibility." Supports: The claim that justice systems have detached from natural human dynamics to become abstract, commodified constructs.
+7. **The Commodification of Human Relations** – Economic analogy describing how human interaction has been reinterpreted as a system of "creditors and debtors" where every action requires repayment. Supports: The argument that perceiving life through "utility" creates a false sense of equality and limits human potential.
+8. **"Bad Conscience" as Self-Abuse** – Psychological insight suggesting that inner guilt is a result of man’s animal instincts being trapped by social custom, leading him to turn his aggressive "will to power" against himself. Supports: The claim that internal morality and sin are the results of coerced taming by the state and religion.
+9. **Punishment as Taming** – Behavioral observation that punishment increases fear and cunning but fails to make an individual "better" in character. Supports: The conclusion that social justice systems function to control and standardize behavior rather than improving the individual's soul or strength.
+10. **The "Tame Man" Critique** – Cultural critique noting that civilization currently prizes the "tame" and mediocre as pinnacles of humanity, leading to the erosion of the individual. Supports: The argument that contemporary morality is a symptom of degeneration and a threat to future human greatness.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -118,7 +128,7 @@ Our downfall was when we called this movement of resisting the strong as "tools 
 
 ### Essay 2 - Guilt and Bad Conscience
 
-Only the strong can make promises, because only the strong has the will to do as he promised despite all difficulties that might arise, to be confident in his future self to uphold his word. [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md). That's why the strong man should be wary to make promises, because they limit himself and his ability to change and grow should he desire to do so. In this context, **we should value "forgetfulness", which is our ability to discard the old to make room for the new, the better**. [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md) [Forgetfulness](/notes/forgetfulness.md)
+Only the strong can make promises, because only the strong has the will to do as he promised despite all difficulties that might arise, to be confident in his future self to uphold his word. [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md). That's why the strong man should be wary to make promises, because they limit himself and his ability to change and grow should he desire to do so. In this context, **we should value "forgetfulness", which is our ability to discard the old to make room for the new, the better**. [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md) [Forgetting enables growth by clearing space for change](/notes/forgetting-enables-growth-by-clearing-space-for-change.md)
 
 The concept of punishment was never about responsibility of the wrong doer, but rather just the desire for revenge by the hurt party. [Punishment is about revenge](/notes/punishment-is-about-revenge.md) It is the law system which combined together in an unnatural way the concepts of "evil" or "crime" to responsibility and morality.
 
@@ -135,7 +145,7 @@ Punishment has so many different purposes, this is a social construct which cont
 
 This process of taming is the cause of the "bad conscience", aka the slave morality. **It is through the brutal actions of large organizations like state and religion that man is no longer free, his animal nature subdued, and it has been tamed for the "betterment" of the state, but not of himself. He lost his freedom and his will to power**. Only through taming values such as altruism can be coerced to be perceived as "good". [Consent to the social contract is coerced, not chosen](/notes/consent-to-the-social-contract-is-coerced-not-chosen.md)
 
-**In this process of taming, the individual has "learned" to view himself, and all his natural instincts as bad, as sinful, and that he deserves punishment**. [Guilt results from social conditioning](/notes/guilt-results-from-social-conditioning.md) While the one who needs to punish him, god, has risen to the level of purity, of transcendence, of the ultimate good, which means that the person would never be free of his debt, forever will he have to punish himself, to continue to limit and surrender himself to god, to turn him into an object, a simple low-life tool. [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md)
+**In this process of taming, the individual has "learned" to view himself, and all his natural instincts as bad, as sinful, and that he deserves punishment**. [Guilt results from social conditioning](/notes/guilt-results-from-social-conditioning.md) [Guilt signals when we fail to act on what we control](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) While the one who needs to punish him, god, has risen to the level of purity, of transcendence, of the ultimate good, which means that the person would never be free of his debt, forever will he have to punish himself, to continue to limit and surrender himself to god, to turn him into an object, a simple low-life tool. [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md)
 
 :::note[“GUILT,” “BAD CONSCIENCE,” AND THE LIKE]
 

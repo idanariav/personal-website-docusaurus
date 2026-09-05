@@ -1,7 +1,7 @@
 ---
 UUID: 20240422165610
 Created: '2024-04-22 16:56'
-Modified: '2026-04-22 09:47'
+Modified: '2026-09-02 16:06'
 tags: []
 FullTitle: >-
   The Power of Language - How the Codes We Use to Think, Speak, and Live
@@ -28,7 +28,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 289
 Reread: 0
 Rate: 3
@@ -76,6 +76,16 @@ I will improve my cognitive abilities
 ### Critique
 
 🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Moon gender variations** – Cultural example where masculine-gendered moons are described as "strong and big," while feminine-gendered moons are described as "beautiful and magnificent." Supports: Language shapes our internal reality and perception, rather than just describing an objective truth.
+2. **Political labeling impact** – Societal example regarding the difference between labels like "slaves" versus "enslaved people" or "illegal" versus "undocumented" immigrants. Supports: The specific labels and language we choose immediately alter how we mentally represent the people or subjects being discussed.
+3. **Non-native language logic** – Scientific finding that bilingual individuals are more likely to think in a logical, rational way when using a non-native language compared to their native tongue. Supports: Language usage influences the emotionality and rationality of decision-making.
+4. **The "ripple effect" of word processing** – Cognitive metaphor describing how hearing a single word (e.g., "flag") simultaneously triggers semantically or grammatically related words (e.g., "state" or "flask") across all languages a person knows. Supports: We process language in parallel, using a wide-ranging neural network rather than a linear, word-by-word sequence.
+5. **Linguistic framing of "attention"** – Cultural analogy comparing how different languages phrase "pay attention" (Spanish "lend," French "made," English "pay," German "gift"). Supports: Language dictates the mode of thinking and informs how we interact with concepts.
+6. **Neuroplasticity and gray matter** – Scientific finding that language learning increases gray matter density in the brain and helps retain it during aging. Supports: Language acquisition is a physical process that biologically alters and strengthens brain structure.
+7. **Multilingualism and dementia** – Scientific finding showing that being multilingual is associated with better brain health, specifically delaying or reducing the likelihood of Alzheimer’s disease. Supports: The cognitive exercise inherent in multilingualism provides protective benefits for the aging brain.
+8. **Future tense and hyperbolic discounting** – Behavioral study showing that speakers of languages that do not distinguish between the present and future in their grammar are less likely to fall victim to hyperbolic discounting. Supports: The grammatical structure of a language influences values and long-term behavioral choices.
+9. **Language as a memory trigger** – Psychological observation that memory and language are coiled together, with specific languages acting as distinct cues for accessing certain memories. Supports: Because memories are embedded in language, switching languages can physically and culturally reshape one's identity and recalled history.
+10. **The "Wizardry" of onomatopoeia** – Linguistic example of words like a clock’s "tick" that exist as exact auditory representations of their concepts. Supports: Language is not always arbitrary; some words possess an inherent, sonic connection to the meaning they represent.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -222,7 +232,7 @@ Language and memory are also deeply tied together. As the language we hear deter
 
 #### The Ultimate Influencer
 
-Language is a powerful [Soft power](/notes/normalizing-power-shapes-compliance-through-internalized-social-norms.md). The words politicians, influencers, and news outlet use shape political reality. The way events are framed, or how people are described affects how they are perceived. For example if we define immigrants as "illegal" or "undocumented". Politicians are masters of that craft, adjusting their speech, their language, and descriptions to create the picture of reality they wish their audience will embrace. Like 1984, words can be tools of oppression, because they shape the boundaries of your thoughts.
+Language is a powerful [Soft power](/notes/normalizing-power-shapes-compliance-through-internalized-social-norms.md). The words politicians, influencers, and news outlet use shape political reality. [The way events are framed, or how people are described, affects how they are perceived](/notes/how-we-describe-something-shapes-how-it-is-perceived.md). For example if we define immigrants as "illegal" or "undocumented". Politicians are masters of that craft, adjusting their speech, their language, and descriptions to create the picture of reality they wish their audience will embrace. Like 1984, words can be tools of oppression, because they shape the boundaries of your thoughts.
 
 Aspects of language such as dialects and slang are tools for either bridging between people or creating a divide. When we speak in the specific dialect someone else uses, we make connecting more likely and easier [Mirroring](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md). For example, speaking in "fancy" high language when addressing royalty or talking more plainly and "down to earth" when talking with blue collar workers.
 

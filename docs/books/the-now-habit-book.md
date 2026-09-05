@@ -1,7 +1,7 @@
 ---
 UUID: 20250221172532
 Created: '2025-02-21 17:25'
-Modified: '2026-08-14 19:16'
+Modified: '2026-09-02 15:41'
 tags: []
 FullTitle: >-
   The Now Habit - A Strategic Program for Overcoming Procrastination and
@@ -28,7 +28,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 9
 Pages: 226
 Reread: 0
 Rate: 3
@@ -108,7 +108,7 @@ Common reasons could be:
 To reduce procrastination, we can use the "now habit", that will help us:
 1. create [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md)
 2. turn criticism into [Healthy self-talk prevents spiraling and builds resilience](/notes/healthy-self-talk-prevents-spiraling-and-builds-resilience.md)
-3. use old habits as triggers for new habits [Linking habits in sequence amplifies behavior adoption through habit stacking](/notes/linking-habits-in-sequence-amplifies-behavior-adoption-through-habit-stacking.md)
+3. use old habits as triggers for new habits [Linking habits in sequence amplifies behavior adoption through habit stacking](/notes/linking-habits-in-sequence-amplifies-behavior-adoption-through-habit-stacking.md) [Habits operate through a four-part loop](/notes/habits-operate-through-a-four-part-loop.md)
 4. schedule time for [Play](/notes/play.md) throughout your day
 5. effective use of [Time Blocking](/notes/time-blocking.md)
 6. think ahead of potential distractions and how to deal with them [Pre-mortem anticipates failure modes to enable preparation](/notes/pre-mortem-anticipates-failure-modes-to-enable-preparation.md)
@@ -134,7 +134,7 @@ six warnings sign that we procrastinate
 5. **indecisiveness** - afraid of taking responsibility, being a perfectionist, thinking you're above mistakes or endless worry about them
 6. **low self esteem** - blame others for your faults, fear of criticism
 
-Procrastination is essentially a form of [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) from [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md). We try to forget, even for a brief time, that we have a tendency for [Actions and physical states unconsciously shape our beliefs](/notes/actions-and-physical-states-unconsciously-shape-our-beliefs.md), to associate our identity with our work, with what we do. We set unreasonable [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) from ourselves, which only leads to [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md) and self hate when we fail these impossible standards. We fear our own [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) and others, so we try to avoid it.
+Procrastination is essentially a form of [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) from [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md). We try to forget, even for a brief time, that we have a tendency for [Merging actions with identity blocks growth](/notes/merging-actions-with-identity-blocks-growth.md), to associate our identity with our work, with what we do. We set unreasonable [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) from ourselves, which only leads to [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md) and self hate when we fail these impossible standards. We fear our own [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) and others, so we try to avoid it.
 
 All the "just do it" advices turn you into the problem, instead of looking at procrastination as a symptom of a more serious problem [Treating symptoms and not root causes misses the point](/notes/treating-symptoms-and-not-root-causes-misses-the-point.md). If we believe that what we do is who we are, and criticism on our work is the same as criticism on our identity [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md), then no wonders we turn to procrastination, [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md) and self criticism. It's a [Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) that feeds itself. We feel bad when we procrastinate, so we get more self criticism, which increases the urge to procrastinate.
 

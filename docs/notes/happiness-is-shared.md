@@ -1,12 +1,12 @@
 ---
 UUID: 20240614111000
 Created: '2024-06-14 11:10'
-Modified: '2026-05-15 08:31'
+Modified: '2026-09-02 16:00'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 5
+Version: '6'
 Image: '[[Happiness is shared.png]]'
 ImageText: A smiling emoji split in half
 Description: >-
@@ -18,7 +18,6 @@ Topic:
 Origin: null
 URL: null
 aliases: []
-new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -28,31 +27,26 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 Can we happy by ourselves? it seems like [Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md) is one of the worst things that can happen to us. We know that [Human is a social being](/notes/human-is-a-social-being.md), we are born to connect with others, to share, our identity is highly influenced by others, if not completely determined by them [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md).
 
 ### Explanation
-
 Therefore, it would come as no surprise that to be happy means that we are in the presence of others, whether from a shared activity, or even sharing a personal experience with others [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md).
 
-This connects deeply to who we are. It is a dependency as much as it is a source of strength. Since we are social creatures, sometimes the community is the smallest unit which makes sense to examine. We are not alone in this world, and much of our desires and lifestyle are the result of our interaction with others.
+This connects deeply to who we are. It is a dependency as much as it is a source of strength. Since we are social creatures, sometimes the community is the smallest unit which makes sense to examine [The individual is the smallest unit of moral worth](/notes/the-individual-is-the-smallest-unit-of-moral-worth.md). We are not alone in this world, and much of our desires and lifestyle are the result of our interaction with others [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md).
 
-### Why it Matters
+### Why it matters
 
 ### Examples
 
 ### Supporters
-
 The happiness we get from our interaction with others is perhaps the deepest sense of happiness, it is a feeling of [Belonging](/notes/inclusion-means-proactively-welcoming-and-believing-in-others.md) in this world, of having a [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md) in our [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md).
 
 We connect our happiness with others, since in the most fundamental aspect, we by default [empathize](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md) with others, as we share their pain, we also share their happiness.
 
 ### Opposers
+There's something troubling about saying that our happiness [depends](/notes/dependency-trades-autonomy-for-connection.md) on others. We want to believe that [Happiness is an internal state](/notes/happiness-is-an-internal-state.md), that it is something within our control (to an extent), yet to claim that we can only be happy with others seems to remove some of our power.
 
-There's something troubling about saying that our happiness [depends](/notes/dependency.md) on others. We want to believe that [Happiness is an internal state](/notes/happiness-is-an-internal-state.md), that it is something within our control (to an extent), yet to claim that we can only be happy with others seems to remove some of our power.
-
-### Open Questions
-
+### Open questions
 ## Visual
 
 ![Happiness is shared](/notes/happiness-is-shared.webp)

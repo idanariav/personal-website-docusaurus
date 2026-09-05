@@ -1,12 +1,12 @@
 ---
 UUID: 20240626054741
 Created: '2024-06-26 05:47'
-Modified: '2026-06-06 10:39'
+Modified: '2026-09-02 16:53'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 5
+Version: 7
 Image: '[[Inclusion means proactively welcoming and believing in others.png]]'
 ImageText: >-
   A group of people wearing a blue hat, welcoming a new member that also has a
@@ -22,7 +22,6 @@ URL: null
 aliases:
   - Inclusion
   - Belonging
-new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -32,25 +31,23 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 To be inclusive is more than just to allow someone to take part in you are doing, but rather being [proactive](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md) about it. It is to believe in others and in their capabilities to be a contributing member of your, "i.e" our group.
 
 ### Explanation
-
 This essentially is an empowering move. By [trusting](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) others we allow them to fulfill their potential, both giving them a sense of accomplishment [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md), but also helping yourself along the way [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md). It requires [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md) to accept that you don't always know best, or that you might need the help of others. By letting them take part, we help ourselves.
 
-### Why it Matters
+### Why it matters
+It changes how we approach problems too - treating someone as a capable partner rather than an obstacle is what lets you work through things together instead of against each other [People are not the problem](/notes/people-are-not-the-problem.md).
 
 ### Examples
-
 For example, for parent's inclusion could be the change in perspective from "I have to do every for our child" or "I have to keep them busy while I do things" to "how can I help them help me". This can even be something as small as asking the kid to raise their hips while you are replacing a dipper, or teaching them how to cook and clean while you do those chores. They want to help you [People are inherently good](/notes/humans-are-good-as-default.md), they just don't know how. By slowly developing their skills and letting them be a part of it, they could become much more independent and yet helpful people. They will have a much stronger sense of [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md)
 
 ### Supporters
 
 ### Opposers
+Its absence looks like [Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.md) - when we don't feel welcomed or believed in, we disengage instead of contributing.
 
-### Open Questions
-
+### Open questions
 ## Visual
 
 ![Inclusion means proactively welcoming and believing in others](/notes/inclusion-means-proactively-welcoming-and-believing-in-others.webp)

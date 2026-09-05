@@ -1,7 +1,7 @@
 ---
 UUID: 20240213213303
 Created: '2024-02-13 21:33'
-Modified: '2026-04-13 06:19'
+Modified: '2026-09-02 12:03'
 tags: []
 FullTitle: The Homework Myth - Why Our Kids Get Too Much of a Bad Thing
 Description: >-
@@ -24,7 +24,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 255
 Reread: 0
 Rate: 2
@@ -107,7 +107,7 @@ When you dive into the literature, you can see that the evidence that homework i
 It is full of methodological errors such as:
 1. **Causation and correlation** - students who succeed do homework, but there are other explaining factors [Correlation is not causation](/notes/correlation-is-not-causation.md)
 2. **GIGO** - research that was based on children's report on how much they do homework, which can be dishonest. Also teachers who both give the homework and grade the student could cause a false positive. [GIGO](/notes/output-quality-depends-on-input-quality.md)
-3. **Wrong target value** - we focus on tests as a proxy for academic achievement, but it is not necessarily correlated with actual learning [Treating measurable metrics as complete truth hides importance](/notes/treating-measurable-metrics-as-complete-truth-hides-importance.md)
+3. **Wrong target value** - we focus on tests as a proxy for academic achievement, but it is not necessarily correlated with actual learning [Treating measurable metrics as complete truth hides importance](/notes/treating-measurable-metrics-as-complete-truth-hides-importance.md) [Focusing on easy metrics blinds us to what matters](/notes/focusing-on-easy-metrics-blinds-us-to-what-matters.md)
 
 :::note[Does Homework Improve Learning?]
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20221208221323
 Created: '2022-12-08 22:13'
-Modified: '2026-08-08 11:15'
+Modified: '2026-09-02 15:41'
 tags: []
 Author:
   - '[[Daniel H. Pink]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 6
+Version: 7
 Pages: 242
 Rate: 3
 PublishDate: 2011-04-05T00:00:00.000Z
@@ -120,7 +120,7 @@ however, **nowadays we need a new kind of motivation. Because external motivatio
 
 external motivation is problematic because:
 1. **it assumes we are rational agents**, but as we see in recent developments in behavioral economics, we are very irrational in some cases [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md).
-2. **its useful when the job/behavior's rules are simple**, but when you introduce [Complexity](/notes/complexity.md), such in our high-skilled work nowadays, its a more challenging and problematic system to implement.
+2. **its useful when the job/behavior's rules are simple**, but when you introduce [Complexity makes ideas harder to understand and implement](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md), such in our high-skilled work nowadays, its a more challenging and problematic system to implement.
 3. **We have greater needs than monetary goals**, as seen in [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md). so external motivation can only get you so far
 
 :::note[The Rise and Fall of Motivation 2.0]
@@ -158,7 +158,7 @@ external motivation is problematic because:
 #### And the Special Circumstances when the Do
 
 to give better external motivation:
-1. **As a bonus** - give it undependably after the job has been completed (don't turn this into a habit since it will because a known external motivation) [Unpredictable rewards sustain motivation better than expected ones](/notes/unpredictable-rewards-sustain-motivation-better-than-expected-ones.md)
+1. **As a bonus** - give it undependably after the job has been completed (don't turn this into a habit since it will because a known external motivation) [Unpredictable rewards sustain motivation better than expected ones](/notes/unpredictable-rewards-sustain-motivation-better-than-expected-ones.md) [Habits operate through a four-part loop](/notes/habits-operate-through-a-four-part-loop.md)
 2. **Not money** - give cash alternatives (throw a party, give praises and acknowledgments).
 3. **Simple tasks** - save this for only routine tasks
 

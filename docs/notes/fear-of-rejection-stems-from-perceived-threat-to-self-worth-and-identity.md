@@ -1,12 +1,12 @@
 ---
 UUID: 20220715053818
 Created: '2022-07-15 05:38'
-Modified: '2026-04-22 06:37'
+Modified: '2026-09-02 11:00'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 5
+Version: '6'
 Image: >-
   [[Fear of rejection stems from perceived threat to self-worth and
   identity.png]]
@@ -21,7 +21,6 @@ Origin: '[[Einzelganger]]'
 URL: 'https://youtu.be/AVDTQ_MsUfY'
 aliases:
   - Rejection
-new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -31,15 +30,12 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 Rejection is a very common phenomenon and one of our greatest [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md).
 
 ### Explanation
-
 We try to avoid it because we think it would damage our [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md).
 
-### Why it Matters
-
+### Why it matters
 As with any other emotion, philosophy has several answers to handling rejection:
 
 1. **Errors** - people could be wrong (so don't give too much credit to their rejection). This idea comes from [Schopenhauer](/notes/arthur-schopenhauer-philosopher.md). For example if you got turned down at an interview, it's not necessarily that you are incapable, but rather the person has misjudged your competence.
@@ -52,8 +48,9 @@ As with any other emotion, philosophy has several answers to handling rejection:
 ### Supporters
 
 ### Opposers
+That threat is often overstated — in practice [Rejection is rarer than we fear](/notes/rejection-is-rarer-than-we-fear.md), most requests land a yes more often than the fear predicts.
 
-### Open Questions
+### Open questions
 
 ## Visual
 

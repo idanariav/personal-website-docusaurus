@@ -1,13 +1,13 @@
 ---
 UUID: 20230929062918
 Created: '2023-09-29 06:29'
-Modified: '2026-04-11 22:18'
+Modified: '2026-09-02 16:33'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 6
 Image: >-
   [[Boredom signals under-stimulation and disconnection from intrinsic
   motivation.png]]
@@ -19,7 +19,6 @@ Description: >-
 aliases:
   - Boredom
   - Boreout
-new_schema: true
 Topic:
   - '[[Avoidance and Defense Mechanisms]]'
 Origin: '[[Anne-Laure Le Cunff]]'
@@ -32,19 +31,15 @@ SiteProcssed: true
 
 ## Notes
 
-
 ### Claim
-
-Boredom is when you feel under stimulated, we lack [Passion is deep desire that sustains intrinsic motivation through difficulty](/notes/passion-is-deep-desire-that-sustains-intrinsic-motivation-through-difficulty.md), when it's too [easy](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md). You become distant from what you do [Indifference](/notes/indifference.md), paying little attention and focus more on the feeling itself. In that sense, it's similar to [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md). Both indicate a general lack of [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) and [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md).
+Boredom is when you feel under stimulated, we lack [Passion is deep desire that sustains intrinsic motivation through difficulty](/notes/passion-is-deep-desire-that-sustains-intrinsic-motivation-through-difficulty.md), when it's too [easy](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md). You become distant from what you do [Indifference can be protective or harmful depending on its source](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md), paying little attention and focus more on the feeling itself. In that sense, it's similar to [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md). Both indicate a general lack of [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) and [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md).
 
 ### Explanation
-
 Common signs:
 1. **Weariness.** You feel emotionally exhausted, and you lack sufficient emotional energy to cope with it
-2. **Withdrawal.** You feel like you have lost your sense of purpose, which manifests into feelings of detachment and indifference
+2. **Withdrawal.** You feel like you have lost your sense of purpose, which manifests into feelings of [detachment](/notes/alienation-means-feeling-detached-from-life-and-others.md) and indifference
 
 ### Why it matters
-
 Boredom is not an enemy we should exterminate. It can help us in several way:
 1. It can remind us that the good things in life is not the endless pursuit of pleasures, but rather the simple, small things [Happiness is contentment](/notes/happiness-is-contentment.md)
 2. It can allow us time to think, clear our mind and focus on what we really want to instead of being drowned in constant noise. [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md)
@@ -57,12 +52,11 @@ Depending on why something is boring, we can find ways to mitigate it. For examp
 ### Examples
 
 ### Supporters
+This is close to [Effortless happiness breeds boredom and emptiness](/notes/effortless-happiness-breeds-boredom-and-emptiness.md) — happiness with nothing left to want can curdle into the same flatness, since ease alone rarely sustains engagement.
 
 ### Opposers
 
 ### Open questions
-
-
 ## Visual
 
 ![Boredom signals under-stimulation and disconnection from intrinsic motivation](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.webp)

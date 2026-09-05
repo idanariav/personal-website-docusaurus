@@ -1,12 +1,12 @@
 ---
 UUID: 20240101070402
 Created: '2024-01-01 07:04'
-Modified: '2026-05-21 14:05'
+Modified: '2026-09-02 16:05'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
+Version: '5'
 Image: '[[Heuristics are mental shortcuts enabling fast automatic decisions.png]]'
 ImageText: A person at a crossroads that turns right
 Description: >-
@@ -21,7 +21,6 @@ aliases:
   - Heuristics
   - Instincts
   - Gut Feeling
-new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -31,19 +30,15 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 Heuristics are a type of simple rules for decision making that enable us to make quick decisions with our [Automatic thinking processes drive fast emotional responses](/notes/automatic-thinking-processes-drive-fast-emotional-responses.md) brain without a lot of effort. Most often these rules exist unconsciously within us, and not specifically selected.
 
 ### Explanation
-
 We are not always aware of the "rules" that guides our behavior, so the heuristics are expressed as instincts, as "gut feelings" that drives us towards a behavior or thought. It is when our instincts are honed to monitored that we can transform those to [Intuition is trained expertise converted to automatic response](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md)
 
-### Why it Matters
-
+### Why it matters
 Nowadays, heuristics results often in biases and stereotypes.
 
 ### Examples
-
 1. **The Feynman Razor** - Complexity and jargon are used to mask a lack of deep understanding. If you can't explain it to a 5-year-old, you don't really understand it. If someone uses a lot of complexity and jargon to explain something, they probably don't understand it. [Explaining ideas simply exposes gaps in understanding](/notes/explaining-ideas-simply-exposes-gaps-in-understanding.md)
 2. **The Luck Razor** - When choosing between two paths, choose the path that has a larger luck surface area. Much of what we call [Luck is external randomness affecting outcomes beyond control](/notes/luck-is-external-randomness-affecting-outcomes-beyond-control.md) is actually the macro result of 1,000s of micro actions. Your daily habits put you in a position where "luck" is more likely to strike. It's hard to get lucky watching TV at home—it's easy to get lucky when you're engaging and learning, physically or digitally. Spend more time on things that increase your luck surface area.
 3. **The Arena Razor** - When faced with two paths, choose the path that puts you in the arena. It's easy to throw rocks from the sidelines. It's scary and lonely in the arena—but it's where growth happens. Once you're in the arena, never take advice from people on the sidelines.
@@ -69,9 +64,10 @@ Nowadays, heuristics results often in biases and stereotypes.
 ### Supporters
 
 ### Opposers
+[System 2](/notes/system-2-enables-deliberate-analytical-thinking-for-complex-problems.md) is the deliberate, effortful counterweight to this — it's what we switch to when a situation is too complex or too costly to hand off to an automated response.
 
-### Open Questions
-
+### Open questions
+Most of the razors listed above under Examples are deliberately chosen decision rules, not the unconscious "gut feeling" heuristics described in the Claim and Explanation — is this one claim covering both senses of "heuristic," or two ideas (automatic instinct vs. adopted decision rule) sharing a note?
 ## Visual
 
 ![Heuristics are mental shortcuts enabling fast automatic decisions](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.webp)

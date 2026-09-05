@@ -1,7 +1,7 @@
 ---
 UUID: 20220704183441
 Created: '2022-07-04 18:34'
-Modified: '2026-04-13 06:13'
+Modified: '2026-09-02 10:32'
 tags: []
 Author:
   - '[[Greg Mckeown]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 272
 Rate: 3
 PublishDate: 2021-04-27T00:00:00.000Z
@@ -55,7 +55,7 @@ SiteProcssed: true
 2. **Effortless is mindset, action and results** - We got used to thinking that success is directly linked to effort, such that the more effort you give, the more success you will have, and that effort has become a badge of honor. The effortless method challenges that and sets a better path for more satisfying life. Find ways to make the tasks easy, fun, automated, leverage others abilities and knowledge, take care of your body, and remember that baby steps are better than burnout.
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓  *by following this method, what will happen?*
 
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
@@ -72,7 +72,17 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **"Mistakes are dominoes" Metaphor** – Viewing errors as a cascading chain reaction where one unchecked mistake inevitably topples the next. Supports: Solving problems before they happen to prevent long-term aggravation.
+2. **90-Minute Work Cycles** – Breaking essential projects into focused sessions of no more than 90 minutes, followed by a 10-15 minute rest. Supports: Maintaining peak cognitive function and the Effortless State.
+3. **Upper Bounds and "Slow is Smooth"** – Implementing a policy of not doing more today than you can recover from tomorrow (e.g., limiting study to 15 minutes), even when capable of doing more. Supports: Maintaining a steady, consistent pace that prevents burnout.
+4. **Residual Results Concept** – Contrasting "linear results" (which stop when effort stops) with "residual results," where effort is exerted once and pays dividends repeatedly. Supports: Focusing effort on high-leverage activities.
+5. **"What if this could be easy?" Inversion** – Actively questioning the assumption that a difficult task must be hard, which often reveals simpler, alternative solutions. Supports: Overcoming the conditioning that overachievement requires overdoing.
+6. **"Courage to be Rubbish"** – Embracing the necessity of producing imperfect work in the early stages as a mechanism for faster learning. Supports: Overcoming perfectionism to ensure essential projects are started and finished.
+7. **Checklists as Automation** – Using checklists to handle the "thinking" beforehand, effectively reducing cognitive load and the chance of error. Supports: Automating mundane tasks to ensure they are done correctly with minimal recurring effort.
+8. **Task Bundling** – Combining inherently enjoyable activities (e.g., listening to music) with mundane tasks (e.g., washing dishes). Supports: Increasing motivation and making essential work more fun.
+9. **"I Trust Your Judgment" Strategy** – Using these four specific words to empower individuals, which lowers the effort required to manage relationships. Supports: Establishing trust as the primary engine of high-leverage teams.
+10. **The "Container" Metaphor** – If you prioritize essential tasks first, there is space left for everything else; if you prioritize trivia first, you run out of space for what matters. Supports: The need to clear mental and functional clutter to preserve capacity for essentials.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -91,9 +101,10 @@ I finished the book without any take-aways, this is unfortunate, this is why I g
 
 ## Notes
 
+
 ### Part 1: Effortless State
 
-First we need a new mindset, one that doesn't connect between [Struggle is an inevitable and necessary part of any meaningful growth or achievement](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) and success [We wrongly equate effort with virtue](/notes/we-wrongly-equate-effort-with-virtue.md). Its okay to be lazy and get good results, and its even the smarter one instead of "pushing through" or banging your head through the wall.
+First we need a new mindset, one that doesn't connect between [Struggle is an inevitable and necessary part of any meaningful growth or achievement](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) and success [We wrongly equate effort with virtue](/notes/we-wrongly-equate-effort-with-virtue.md) [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md). Its okay to be lazy and get good results, and its even the smarter one instead of "pushing through" or banging your head through the wall.
 
 :::note[NOT EVERYTHING HAS TO BE SO HARD]
 
@@ -175,7 +186,7 @@ First we need a new mindset, one that doesn't connect between [Struggle is an in
 ### Part 2 - Effortless Action
 
 #### Define - What "done" Looks like
-*define a goal* - the more you define a clear, simple, measurable goal, the easier it will be to start and finish it. Don't overdue tasks, it not only requires more effort but also will damage the final result. [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md)
+*define a goal* - the more you define a clear, simple, measurable goal, the easier it will be to start and finish it. Don't overdue tasks, it not only requires more effort but also will damage the final result. [Quality of work does not scale with time invested](/notes/quality-of-work-does-not-scale-with-time-invested.md) [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md)
 
 :::note[DEFINE What “Done” Looks Like]
 
@@ -186,7 +197,7 @@ First we need a new mindset, one that doesn't connect between [Struggle is an in
 
 
 #### Start - The First Obvious Action
-*the first action* - similar to the next action from [Getting Things Done (book)](/books/getting-things-done-book.md), it requires to understand what is the smallest step needed to start your project.
+*the first action* - similar to the next action from [Getting Things Done (book)](/books/getting-things-done-book.md), it requires to understand what is the smallest step needed to start your project. [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md)
 
 :::note[START The First Obvious Action]
 
@@ -240,7 +251,7 @@ First we need a new mindset, one that doesn't connect between [Struggle is an in
 Effortless results come from cumulative processes [Repeated actions yield exponentially increasing returns over time](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md).
 
 #### Learn - Leverage the Best of what Others Know
-*knowledge* - knowledge is the "gift that keeps on giving". First gather knowledge from others, than find your area and dive into it. [Learning must continue constantly throughout life](/notes/learning-must-continue-constantly-throughout-life.md)
+*knowledge* - knowledge is the "gift that keeps on giving". First gather knowledge from others, than find your area and dive into it. [Breath beats depth](/notes/breath-beats-depth.md) [Learning must continue constantly throughout life](/notes/learning-must-continue-constantly-throughout-life.md)
 
 :::note[LEARN Leverage the Best of What Others Know]
 

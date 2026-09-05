@@ -1,13 +1,13 @@
 ---
 UUID: 20221021141609
 Created: '2022-10-21 14:16'
-Modified: '2026-05-22 15:09'
+Modified: '2026-09-02 16:08'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 4
-Image: '[[Human is a social being]]'
+Version: 5
+Image: '[[Human is a social being.png]]'
 ImageText: 'A neuron alone is grayed out, and neurons together fire and pass information'
 Description: >-
   A concept emphasizing that humans inherently require social interactions for
@@ -18,7 +18,6 @@ Topic:
 Origin: null
 URL: null
 aliases: []
-new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -28,17 +27,14 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 In general, humans are social creatures with social needs. Even if we could have all our physical needs met, we would not be happy if we were in complete isolation. [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md)
 
 ### Explanation
-
 More than our basic needs, our own identity is often influenced by others [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md). Our values, our perception of reality, and often the goal of our desires is shaped by [others](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md). We won't be who we are without the influence of others. Although, we should be careful not to let others dictate who we are without having a say in it [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md).
 
 Therefore we are not only a social being in an instrumental meaning, i.e for our betterment we need others, but rather in a deep essential meaning. Like being an arm of a bigger body, there is no meaning to be detached from it. To detach is to wither and die [Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md) [Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md).
 
-### Why it Matters
-
+### Why it matters
 Many of today's activities are a cheap, shallow substitutions of that, giving us the short-term sensation of meeting our social needs, while leaving us empty and unsatisfied in the long run.
 As a general rule, we see that:
 1. physical interactions triumphs virtual interaction
@@ -48,13 +44,12 @@ As a general rule, we see that:
 ### Examples
 
 ### Supporters
-
-Alternatively, we come alive when we interact with others, when we [give](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md), we are happier, as if others' happiness and ours is connected [Happiness is shared](/notes/happiness-is-shared.md), similarly a shared goal gives us purpose. We think through conversing and exchanging ideas with others [Thinking extends beyond the brain to environment and society](/notes/thinking-extends-beyond-the-brain-to-environment-and-society.md) [Communication is in our nature](/notes/communication-is-in-our-nature.md). We are [dependent](/notes/dependency.md) on one another, for better or for worse.
+Alternatively, we come alive when we interact with others, when we [give](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md), we are happier, as if others' happiness and ours is connected [Happiness is shared](/notes/happiness-is-shared.md), similarly a shared goal gives us purpose. We think through conversing and exchanging ideas with others [Thinking extends beyond the brain to environment and society](/notes/thinking-extends-beyond-the-brain-to-environment-and-society.md) [Communication is in our nature](/notes/communication-is-in-our-nature.md). We are [dependent](/notes/dependency-trades-autonomy-for-connection.md) on one another, for better or for worse.
 
 ### Opposers
+[Individualism](/notes/the-individual-is-the-smallest-unit-of-moral-worth.md) takes the opposite view — that there's an independent core to each of us, separate from the community it happens to sit in. It's a fair philosophical position, but it doesn't explain why complete isolation still hurts so much.
 
-### Open Questions
-
+### Open questions
 ## Visual
 
 ![Human is a social being](/notes/human-is-a-social-being.webp)

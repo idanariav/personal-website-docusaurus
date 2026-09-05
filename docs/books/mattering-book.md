@@ -1,7 +1,7 @@
 ---
 UUID: 20260802083427
 Created: '2026-08-02 08:34'
-Modified: '2026-08-23 09:44'
+Modified: '2026-09-02 11:27'
 tags: []
 FullTitle: Mattering - The Secret to a Life of Deep Connection and Purpose
 Description: >-
@@ -27,7 +27,7 @@ ReadingStatus: Done
 ASIN: 593850599
 Purchased: true
 Fiction: false
-Version: 8
+Version: 9
 Pages: 288
 Reread: 0
 Rate: 3
@@ -164,7 +164,7 @@ It's even more powerful when you praise the person and not just the deed. "You'r
 
  All it takes are small gestures of [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md), like giving thank you notes, or saying "if it weren't for you...". [micro gestures have a huge impact on wellbeing](/notes/micro-gestures-have-a-huge-impact-on-wellbeing.md)
 
-You can also "encourage" yourself by connecting to a larger goal, seeing how your task is part of a grather whole [connecting to a larger goal brings meaning](/notes/connecting-to-a-larger-goal-brings-meaning.md), like the NASA janitor that said "I'm helping put a man on the moon"
+You can also "encourage" yourself by connecting to a larger goal, seeing how your task is part of a grather whole [connecting to a larger goal brings meaning](/notes/connecting-to-a-larger-goal-brings-meaning.md) [Finding meaning in work increases fulfillment and resilience](/notes/finding-meaning-in-work-increases-fulfillment-and-resilience.md), like the NASA janitor that said "I'm helping put a man on the moon"
 
 Those small acts [Ripple](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md) to much wider circles. The person you are kind to becomes kinder to others [Kindness](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md)
 

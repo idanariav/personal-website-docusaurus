@@ -1,7 +1,7 @@
 ---
 UUID: 20240302181438
 Created: '2024-03-02 18:14'
-Modified: '2026-04-16 06:18'
+Modified: '2026-09-02 16:00'
 tags: []
 Author:
   - '[[Oliver Burkeman]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 6
+Version: '7'
 Pages: 273
 Rate: 5
 PublishDate: 2021-07-13T00:00:00.000Z
@@ -55,7 +55,8 @@ SiteProcssed: true
 5. **Scarcity is good** - The fact that we have limited time, limited control over our lives is what gives it meaning. It gives every second value because it is finite. Similarly, having problems in our lives is not something that we wish to get rid of, because dealing with those problems gives us a room for growth, for giving our all, for being us.
 ### Relate
 
-⛓ *Life lessons, action items
+⛓  *by following this method, what will happen?*
+You will feel less stressed about "using your time well", about living an impossible standard of productivity, of chasing a future that will never arrive and having your happiness dependent on the future, while we completely miss out the present. You will work from a "less is more" attitude, focusing on the now, on what matters to you now, on what you are able to do now while embracing the challenges and uncertainties of live.
 
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
@@ -72,8 +73,17 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-You will feel less stressed about "using your time well", about living an impossible standard of productivity, of chasing a future that will never arrive and having your happiness dependent on the future, while we completely miss out the present. You will work from a "less is more" attitude, focusing on the now, on what matters to you now, on what you are able to do now while embracing the challenges and uncertainties of live.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Conveyor Belt** – Metaphor. Comparing life to a conveyor belt where increased productivity only speeds up the arrival of new tasks. Supports: The claim that productivity strategies often paradoxically increase the feeling of busyness and stress, rather than clearing the deck.
+2. **The Efficiency Trap (Supply and Demand)** – Economic concept. The observation that when we make tasks more efficient, the demands upon us increase to fill that time. Supports: The idea that "getting on top of everything" is impossible because the "everything" expands in response to increased efficiency.
+3. **Medieval Stonemasons** – Analogy. Comparing our actions to workers building a cathedral they know they will never see completed. Supports: The argument that we should commit to meaningful work even without the certainty of seeing final results or total control.
+4. **Task Orientation vs. Time Measurement** – Historical observation. Pre-Industrial Revolution societies measured life by the duration of tasks rather than abstract clock time. Supports: The claim that slavery to the clock is a historical construct that fundamentally changed our perception of time as a commodity to be "spent" or "saved."
+5. **The Birthday Gift** – Example. Comparing sending an automated birthday message (efficient) to crafting a gift by hand (inefficient). Supports: The argument that "friction" creates the value in our experiences and connections; efficiency can destroy meaning.
+6. **The Definition of "Decide"** – Etymology. Noting that the word "decide" historically means "to cut off." Supports: The claim that every choice is inherently a loss of other possibilities, and thus prioritization is fundamentally about choosing what _not_ to do.
+7. **The "Burning Bridges" Strategy** – Thought experiment/Method. Creating situations where there is no turning back from a decision. Supports: The idea that limiting future options reduces the anxiety of choice and forces action forward.
+8. **"Me Time" vs. Collective Syncing** – Social observation. Noting that high personal temporal freedom makes it harder to coordinate schedules with friends and family. Supports: The counter-intuitive argument that excessive individual control over time leads to loneliness and disconnect.
+9. **Boredom as Emotional Avoidance** – Psychological observation. Boredom is not a lack of interest, but an intense reaction to confronting our limited control. Supports: The theory that our constant distractions (phones, tasks) are actually attempts to flee from the discomfort of finitude.
+10. **The Impatience Spiral** – Behavioral pattern. As we use technology to move faster, we don't feel more satisfied; we become more agitated, fueling a cycle of addiction to speed. Supports: The argument that the frantic pursuit of speed is a destructive, counterproductive coping mechanism for our lack of control.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -304,7 +314,7 @@ However it has not always been the case. Before [Capitalism](/notes/capitalism.m
 
 Despite new inventions that let us move and operate faster and faster, it seems that our impatience is just growing more and more.
 
-Our impatience operates as a negative spiral. It emanates from a will to avoid facing negative emotional states, i.e serve as a tool for emotional avoidance. **We use our productivity, our work, as distractions from the problems in our lives**. However it gets worse when this [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) just aggravates the problem. Like an [Addiction is escapism that destroys self-control](/notes/addiction-is-escapism-that-destroys-self-control.md), the more we dedicate to it, the more problems we have, the more we need a fix, the more we get addicted, and on and on.
+Our impatience operates as a negative spiral. It emanates from a will to avoid facing negative emotional states, i.e serve as a tool for emotional avoidance. **We use our productivity, our work, as distractions from the problems in our lives**. However it gets worse when this [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) just aggravates the problem. Like an [Addiction is escapism that destroys self-control](/notes/addiction-is-escapism-that-destroys-self-control.md), the more we dedicate to it, the more problems we have, the more we need a fix, the more we get addicted, and on and on [Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md).
 
 Instead of living life of flow, of letting things take their time. We have caught within the negative spiral of "speeding up life" [Slowing down prioritizes quality over speed and enables reflection](/notes/slowing-down-prioritizes-quality-over-speed-and-enables-reflection.md).
 

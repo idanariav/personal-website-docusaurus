@@ -1,7 +1,7 @@
 ---
 UUID: 20250629053426
 Created: '2025-06-29 05:34'
-Modified: '2026-08-11 20:51'
+Modified: '2026-09-02 11:25'
 tags: []
 Author:
   - '[[Oliver Burkeman]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 9
+Version: 10
 Pages: 162
 Rate: 3
 PublishDate: 2024-10-08T00:00:00.000Z
@@ -107,7 +107,7 @@ I love the author and his arguments, but this book is a meh for me. Probably bec
 
 In our modern times, many of us are walking [Busy](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md) [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) disorders, searching for meaning in the world. We believe there is an answer "out there," and until we find it, we won't feel satisfied [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md).
 
-We are [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md), trying every trick we hear about in hopes of finding meaning. We jump from one [shiny](/notes/distraction-by-novelty-undermines-commitment-and-depth.md) new promise to another, only to be quickly disappointed when we still feel [empty](/notes/indifference.md) inside after trying them.
+We are [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md), trying every trick we hear about in hopes of finding meaning. We jump from one [shiny](/notes/distraction-by-novelty-undermines-commitment-and-depth.md) new promise to another, only to be quickly disappointed when we still feel [empty](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md) inside after trying them.
 
 Productivity is the greatest trap of all because it promises to help us fulfill our goals, regardless of what they may be [Productivity is a trap disguised as fulfillment](/notes/productivity-is-a-trap-disguised-as-fulfillment.md). We fixate on the tools instead of the purpose [Distinguishing appearance from authentic substance reveals hidden conflicts](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md).
 
@@ -141,7 +141,7 @@ There's freedom in limitations, in being [free to choose](/notes/agency-is-the-a
 
 We face a *productivity debt*, feeling we must justify our [existence](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md) by completing a certain number of tasks or achieving a specific social status. This creates a bar that generates debt for tomorrow. We are *insecure overachievers* who accomplish much yet always feel it's not enough. The only way to escape this cycle is to shift from a [debt](/notes/lacking.md) mindset to [positive thinking](/notes/empowering-language-builds-confidence-and-agency.md) by celebrating our accomplishments instead of fixating on our endless to-do list.
 
-We also experience *information overload*, with far more content than we can handle. That's why we should lower the bar. Treat your "to-read" list as a river, not a bucket [Treat inputs as a flowing river, not an accumulating bucket](/notes/treat-inputs-as-a-flowing-river-not-an-accumulating-bucket.md). Allow things to come and go without feeling guilty for not reading them. Choose only what you want to read right now, without the added pressure of consuming only "what's useful" or forcing yourself to take notes for your future self. The benefits of reading lie not in the knowledge gained but in the process and the way it transforms you.
+We also experience *information overload*, with far more content than we can handle. That's why we should lower the bar [Filtering is choosing what to consume before distilling it](/notes/filtering-is-choosing-what-to-consume-before-distilling-it.md). Treat your "to-read" list as a river, not a bucket [Treat inputs as a flowing river, not an accumulating bucket](/notes/treat-inputs-as-a-flowing-river-not-an-accumulating-bucket.md). Allow things to come and go without feeling guilty for not reading them. Choose only what you want to read right now, without the added pressure of consuming only "what's useful" or forcing yourself to take notes for your future self. The benefits of reading lie not in the knowledge gained but in the process and the way it transforms you.
 
 Similarly, be selective about where you place your attention. You can't care about every single problem in the world or bear the responsibility for all of humanity's suffering. Choose your battles and focus solely on them.
 

@@ -1,12 +1,12 @@
 ---
 UUID: 20231002192928
 Created: '2023-10-02 19:29'
-Modified: '2026-05-18 20:23'
+Modified: '2026-09-02 16:00'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 5
+Version: '6'
 Image: '[[Healthy self-talk prevents spiraling and builds resilience.png]]'
 ImageText: Two people sitting together on a bench
 Description: >-
@@ -19,7 +19,6 @@ Origin: '[[Chatter (book)]]'
 URL: null
 aliases:
   - self talk
-new_schema: true
 draft: false
 SiteProcssed: true
 ---
@@ -29,15 +28,12 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-
 Usually, when we are spiraling, or unable to process the situation, it is when we either are not talking to ourselves at all, or we are too close to the situation. We say things like "why am I so stupid? Why did I do that?" [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md)
 
 ### Explanation
-
 In order to break the chatter and have a better [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md), we can implement [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md), by looking at the situation from the outside, like a third person view, and actually talk to ourselves in third person, like to a friend [Empowering language builds confidence and agency](/notes/empowering-language-builds-confidence-and-agency.md). Similarly, we can use temporal distancing, meaning looking at the situation from a "future me" point of view: what meaning or effects would these events have on my five years later? [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md)
 
-### Why it Matters
-
+### Why it matters
 This can give us four benefits:
 
 1. **Perspective** - We can judge better the [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md) and implications of the situation, gather new viewpoint on the situation that might be healthier and more helpful.
@@ -48,12 +44,15 @@ This can give us four benefits:
 These aspects combined allow us to undergo a moment of [Critical moments force examination of identity and belief](/notes/critical-moments-force-examination-of-identity-and-belief.md) in a healthy way without spiraling into an existential or identity crisis.
 
 ### Examples
+A minimal version of the technique is simply swapping your own name in for "I" — instead of "why did I do that?", ask "why did John do that?" Using your name does the same work as the outside-view framing above, forcing a third-person distance, without needing the full future-self reframe.
 
 ### Supporters
+A narrower, related technique is [Positive self-talk builds resilience and compassion](/notes/positive-self-talk-builds-resilience-and-compassion.md) — keeping a page of meaningful quotes to draw on in the moment. It asks less of you than full perspective-taking, but it leans on the same idea: addressing yourself the way you'd address someone you care about.
 
 ### Opposers
+The clearest opposite is [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md) in its fullest form: staying in the first person, staying too close, and treating every mistake as evidence about who you are rather than what happened. That's the exact posture this note is trying to talk you out of.
 
-### Open Questions
+### Open questions
 
 ## Visual
 

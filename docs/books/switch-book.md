@@ -1,7 +1,7 @@
 ---
 UUID: 20220704183904
 Created: '2022-07-04 18:39'
-Modified: '2026-08-14 06:57'
+Modified: '2026-09-02 15:41'
 tags: []
 FullTitle: Switch - How to Change Things When Change Is Hard
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 6
+Version: 7
 Pages: 305
 Reread: 0
 Rate: 3
@@ -217,7 +217,7 @@ A change that is counter to an identity will eventually fail. You must develop t
 
 Behavioral problems usually originate from the environment, which means its usually not a misunderstanding (rider), or lack of motivation (elephant), but rather the cause of the way the environment affects us. [Behavioral problems often originate from environment, not motivation](/notes/behavioral-problems-often-originate-from-environment-not-motivation.md) **Always test what the environment pushes you do do, and check if it corresponds with your goals**.
 
-Create good habits, especially think about your triggers: "when x happens, I will do Y". [Linking habits in sequence amplifies behavior adoption through habit stacking](/notes/linking-habits-in-sequence-amplifies-behavior-adoption-through-habit-stacking.md)
+Create good habits, especially think about your triggers: "when x happens, I will do Y". [Linking habits in sequence amplifies behavior adoption through habit stacking](/notes/linking-habits-in-sequence-amplifies-behavior-adoption-through-habit-stacking.md) [Habits operate through a four-part loop](/notes/habits-operate-through-a-four-part-loop.md)
 Its especially helpful to create a "herd", as social creatures we tend to adopt the perceptions of those around us, so find or create the group where what's socially acceptable or desired is the change you want to bring. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
 
 :::note[Tweak the Environment]
