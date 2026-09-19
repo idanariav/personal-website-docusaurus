@@ -1,9 +1,9 @@
 ---
 UUID: 20230710192932
 Created: '2023-07-10 19:29'
-Modified: '2026-08-18 12:06'
+Modified: '2026-09-10 14:55'
 tags: []
-Version: 6
+Version: '7'
 Description: >-
   The state of being highly skilled in a specific field, characterized by a
   complex process involving imitation, filtering, remixing, and refining
@@ -15,7 +15,6 @@ URL: null
 aliases:
   - Mastery
   - expertise
-new_schema: true
 Drawings:
   - >-
     [[Mastery requires deliberate practice and hard work, not innate talent

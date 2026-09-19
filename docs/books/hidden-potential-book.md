@@ -1,8 +1,8 @@
 ---
 UUID: 20240516185115
 Created: '2024-05-16 18:51'
-Modified: '2026-04-13 06:14'
-Version: 1
+Modified: '2026-09-19 07:27'
+Version: 2
 tags: []
 PublishDate: 2023-10-26T00:00:00.000Z
 Pages: 218
@@ -49,7 +49,8 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓*by following this method, what will happen?*
+1. **Better growth** - when you develop character skills, have the right scaffolding and use opportunities, you can get much farther than previously believed.
 
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
@@ -66,8 +67,18 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-1. **Better growth** - when you develop character skills, have the right scaffolding and use opportunities, you can get much farther than previously believed.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Sponge Metaphor** – Metaphor. Living sponges are sophisticated filtering machines—they control exactly what goes in and out—rather than passive absorbers. Supports: The idea that learning requires active, selective filtering of information rather than passively consuming everything.
+2. **Finnish Education Model** – Case study. Instead of selecting a "genius few," the system focuses on "not wasting a brain," providing personalized support and frequent breaks to ensure everyone can grow. Supports: The argument that good systems are necessary to provide opportunities for those who might otherwise be left behind.
+3. **Procrastination Redefined** – Analytical insight. Procrastination is an emotion management problem, not a time management issue; it occurs when one avoids the unpleasant feelings associated with a task. Supports: The idea that character skills, specifically managing discomfort, are the primary drivers of overcoming unproductive behavior.
+4. **Feedback vs. Advice** – Definitional distinction. Feedback typically focuses on past performance ("how did I do?"), whereas advice shifts the focus to future improvement ("what can I do better?"). Supports: The claim that constructive growth requires changing how we solicit input from mentors and peers.
+5. **The Curse of Expertise** – Observation. As an individual progresses toward mastery, their knowledge becomes tacit, making it difficult for them to remember the fundamentals or explain them to beginners. Supports: The argument that one should not rely on a single, highly specialized expert for guidance; instead, one should collect directions from multiple sources.
+6. **Personality vs. Character** – Definition. If personality determines how you respond on a typical day, character is how you show up on the hard days when the deck is stacked against you. Supports: The argument that character is a "multiplier" that allows us to act in alignment with values despite internal or external pressure.
+7. **The Perfectionist Trap** – Behavioral observation. Perfectionism creates a "tunnel vision" that traps individuals in a cycle of error avoidance and obsession with narrow, unimportant details. Supports: The claim that embracing "good enough" and focusing on deep, meaningful change is necessary for continuous growth.
+8. **Individual-First Brainstorming** – Methodology. To avoid the traps of groupthink and silencing voices, teams should develop ideas independently before coming together to present them. Supports: The argument that collective intelligence is best unearthed when individual contributions precede collaborative discussion.
+9. **Teaching as Learning** – Pedagogical principle. The act of explaining an idea to others forces the recall and clarification of that information, which cements understanding. Supports: The claim that teaching others is one of the most effective strategies for internalizing one's own learning.
+10. **Imposter vs. Growth Mindset** – Reframe. Imposter syndrome states "I don't know what I'm doing"; the addition of the word "yet" transforms the sentiment into a growth mindset ("I don't know what I'm doing yet"). Supports: The argument that self-doubt is often a signal of unfulfilled potential rather than a lack of ability.
+
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -268,7 +279,7 @@ The Finnish has amazing education system, one that has allowed them to travel a 
 #### Mining for Gold
 **Unearthing collective intelligence in teams**
 
-Leading a team and have good collective decisions is not a matter of finding a genius and it's definitely not just go along with the boss's idea. Team efficiency is a matter of creating an environment of cooperation, of [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md), to help one another for the betterment of the common cause. This requires firstly that the leader would be a good listener. Leading is about maximizing potential and allowing voices to be heard, not to micromanage your workers. Second, we have to combat [Group Thinking](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md). **In order to maintain the benefits of brainstorming without causing voices to be shut down, we first need that everyone would brainstorm on their own, developing their ideas by themselves and only then regroup to discuss those ideas**. [Brainstorming should be anonymous to increase idea diversity](/notes/brainstorming-should-be-anonymous-to-increase-idea-diversity.md) To make sure fairness and psychological safety is kept, those ideas have to be submitted anonymously and each one reviews them first before discussing together.
+Leading a team and have good collective decisions is not a matter of finding a genius and it's definitely not just go along with the boss's idea. Team efficiency is a matter of creating an environment of cooperation, of [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md), to help one another for the betterment of the common cause. This requires firstly that the leader would be a good listener. Leading is about maximizing potential and allowing voices to be heard, not to micromanage your workers. Second, we have to combat [Group Thinking](/notes/groups-suppress-dissent-as-members-go-along-with-the-majority.md). **In order to maintain the benefits of brainstorming without causing voices to be shut down, we first need that everyone would brainstorm on their own, developing their ideas by themselves and only then regroup to discuss those ideas**. [Brainstorming should be anonymous to increase idea diversity](/notes/brainstorming-should-be-anonymous-to-increase-idea-diversity.md) To make sure fairness and psychological safety is kept, those ideas have to be submitted anonymously and each one reviews them first before discussing together.
 
 Developing [creativity](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md) is also a matter of giving free time for exploration, letting workers work on personal projects or ideas that they are interested in. While those are risky bets, they are also a way to have great payoffs, especially if the workers are motivated to work on it.
 

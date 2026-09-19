@@ -1,7 +1,7 @@
 ---
 UUID: 20240319083324
 Created: '2024-03-19 08:33'
-Modified: '2026-08-18 14:02'
+Modified: '2026-09-19 07:27'
 tags: []
 Author:
   - '[[Daniel Klein]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 4
 Pages: 210
 Rate: 3
 PublishDate: 2015-01-01T00:00:00.000Z
@@ -100,7 +100,7 @@ And this debate is emphasized in [Albert Camus](/notes/albert-camus-philosopher.
 
 This is also similar to "existence precedes essence" from [Sartre](/notes/jean-paul-sartre-philosopher.md). That we are the makers of the meaning of our lives, **we bare the responsibility of our life choices.** That despite all tendency to [Everything is a result of prior causes](/notes/everything-is-a-result-of-prior-causes.md), **it is we who choose to be free**, as William James says "my first act of free will is to believe in free will" [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md)
 
-But to truly be free is more than just a simple choice, says [Nietzsche](/notes/friedrich-nietzsche-philosopher.md). Often we are too afraid to really be who we are, we surrender to [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md) without even knowing, thinking that our transcendence just "happens to coincide" with what society wants me to be, without having the courage to face the abyss within me until the true answer surfaces. **We need to be who we are, to pursue it relentlessly, to fulfill our [The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md) without considering anybody else's opinions but our own**. Anything else is a coward's compromise. A [Herd Mentality](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md).
+But to truly be free is more than just a simple choice, says [Nietzsche](/notes/friedrich-nietzsche-philosopher.md). Often we are too afraid to really be who we are, we surrender to [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md) without even knowing, thinking that our transcendence just "happens to coincide" with what society wants me to be, without having the courage to face the abyss within me until the true answer surfaces. **We need to be who we are, to pursue it relentlessly, to fulfill our [The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md) without considering anybody else's opinions but our own**. Anything else is a coward's compromise. A [Herd Mentality](/notes/independent-thinking-requires-resisting-conformity.md).
 
 This process of [Self Reflection](/notes/introspection-develops-self-knowledge-through-internal-examination.md) is valuable on its own, as [Bertrand Russell](/notes/bertrand-russell.md) supports. That asking ourselves philosophical questions, even if, and perhaps especially those who are left unanswered are not only the most pleasurable of them all, they are the most "good" of them all. That **philosophical inquiry is virtuous intrinsically**. [Socrates](/notes/socrates-philosopher.md) I think would agree.
 

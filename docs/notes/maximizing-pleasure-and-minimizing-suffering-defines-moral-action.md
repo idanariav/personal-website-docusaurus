@@ -1,13 +1,13 @@
 ---
 UUID: 20230406090453
 Created: '2023-04-06 09:04'
-Modified: '2026-04-11 22:24'
+Modified: '2026-09-10 15:10'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: '5'
 Image: '[[Maximizing pleasure and minimizing suffering defines moral action.png]]'
 ImageText: Calculator
 Description: >-
@@ -17,7 +17,6 @@ Description: >-
 aliases:
   - Utilitarianism
   - Utilitarianism
-new_schema: true
 Topic:
   - '[[Ethical Frameworks (Metaethics)]]'
 Origin: null
@@ -40,9 +39,9 @@ Utilitarianism usually involves a mathematical representation of the expected [U
 
 The two main disadvantages of Utilitarianism are:
 
-1. **Pleasure monsters** - Imagine a person that derives endless pleasure from stealing and killing, more than the victims suffer from his actions. Should we allow him to act that way simply because the total pleasure is higher? [Love what is good](/notes/love-what-is-good.md)
+1. **Pleasure monsters** - Imagine a person that derives endless pleasure from stealing and killing, more than the victims suffer from his actions. Should we allow him to act that way simply because the total pleasure is higher? [Love what is good](/notes/love-what-is-good.md) [Pleasure monsters undermine utilitarian calculus](/notes/pleasure-monsters-undermine-utilitarian-calculus.md)
 
-2. **Ignorance on who gets hurt** - What if there was the option to sacrifice a person for the benefit of all? Should we do it? How about killing people at the hospital so that we could save 5 people with their organs per person? Utilitarianism is ignorant on who gets hurt from these actions. It could be people from a certain group that will always be the one to suffer because they are the minority (creating a majority tyranny), or sacrificing innocent people for the "benefit of the group". [Indifference](/notes/indifference.md)
+2. **Ignorance on who gets hurt** - What if there was the option to sacrifice a person for the benefit of all? Should we do it? How about killing people at the hospital so that we could save 5 people with their organs per person? Utilitarianism is ignorant on who gets hurt from these actions. It could be people from a certain group that will always be the one to suffer because they are the minority (creating a majority tyranny), or sacrificing innocent people for the "benefit of the group". [Indifference can be protective or harmful depending on its source](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md) [Utilitarianism can justify majority tyranny](/notes/utilitarianism-can-justify-majority-tyranny.md)
 
 ### Why it matters
 

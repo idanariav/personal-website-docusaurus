@@ -1,7 +1,7 @@
 ---
 UUID: 20241230232036
 Created: '2024-12-30 23:20'
-Modified: '2026-08-17 06:05'
+Modified: '2026-09-19 08:31'
 tags: []
 FullTitle: >-
   Unconditional Parenting - Moving from Rewards and Punishments to Love and
@@ -29,7 +29,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 10
+Version: 11
 Pages: 274
 Reread: 0
 Rate: 3
@@ -128,7 +128,7 @@ Viewing parenting as a "tit for tat" relationship, where love is given only if d
 
 Unconditional parenting, on the other hand, treats the child [holistically](/notes/the-whole-is-greater-than-its-parts.md). Their circumstances are crucial in determining our response. It assumes children are capable of both good and bad, and it's our role to guide them toward positive tendencies. [People are inherently good](/notes/humans-are-good-as-default.md).
 
-When children are loved based on behavior, they experience [intrapersonal conflict](/notes/a-person-is-a-community.md). They may come to dislike parts of themselves their parents don't appreciate [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md).
+When children are loved based on behavior, they experience [intrapersonal conflict](/notes/neglecting-intrapersonal-conflict-harms-wellbeing.md). They may come to dislike parts of themselves their parents don't appreciate [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md).
 
 This approach can perpetuate a [Vicious cycle](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) through generations.
 
@@ -188,7 +188,7 @@ Threats or "logical consequences," like letting a child freeze for refusing a co
 
 ### Pushed to Succeed
 
-Parents often push children to succeed, adding [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) that harms mental health, performance, and love of learning.
+Parents often push children to succeed, adding [Chronic stress is harmful](/notes/chronic-stress-is-harmful.md) that harms mental health, performance, and love of learning.
 
 Children internalize parental [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md), obsessing over achievements at the expense of others. Achievements often become a [Zero sum](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) game. They may self-sabotage if they doubt success, preferring doubt over facing inadequacy. [Self-handicapping softens the blow of failure](/notes/self-handicapping-softens-the-blow-of-failure.md)
 

@@ -1,24 +1,23 @@
 ---
 UUID: 20230911071047
 Created: '2023-09-11 07:10'
-Modified: '2026-04-11 22:24'
+Modified: '2026-09-14 13:53'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - One-dimensional being
 Description: >-
   A concept describing an individual who perceives themselves as a fixed entity,
   limited in identity and capabilities, often feeling alienated from their
   multifaceted nature and lacking a harmonious self.
-new_schema: true
 Topic:
   - '[[Identity Structure]]'
 Origin: null
 URL: null
+Drawings:
+  - >-
+    [[Multidimensional identity collapses into single fixed characteristic
+    (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -34,7 +33,7 @@ To be a one-dimensional being, is to oppose our [multitude](/notes/a-person-is-a
 
 ### Explanation
 
-Usually, a one-dimensional being also believes that we are only capable of one thing. To be one thing, for example a specific professional career, a certain skill we can master, or even negative things such as the inability to deny certain addictions or faults since it is imbued within ourselves. We [infuse](/notes/actions-and-physical-states-unconsciously-shape-our-beliefs.md) our identity with our actions and what happens to us. If we fail, then we are a failure, if we did something wrong, we are sinful. Our actions not only speak for our character, they are our identity.
+Usually, a one-dimensional being also believes that we are only capable of one thing. To be one thing, for example a specific professional career, a certain skill we can master, or even negative things such as the inability to deny certain addictions or faults since it is imbued within ourselves. We [infuse](/notes/merging-actions-with-identity-blocks-growth.md) our identity with our actions and what happens to us. If we fail, then we are a failure, if we did something wrong, we are sinful. Our actions not only speak for our character, they are our identity.
 
 According to this perception, free will is dominance, it is to have [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md), overpower the other forces within you with sheer willpower and determination.
 
@@ -54,8 +53,10 @@ We might even feel [alienated](/notes/alienation-means-feeling-detached-from-lif
 
 ### Opposers
 
+This gets challenged by the idea that [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md) — that we're always more than what an outside observer can see in our actions, so why let those actions be the whole measure of who we are?
+
 ### Open questions
 
 ## Visual
 
-![one-dimentional being](/notes/one-dimentional-being.webp)
+![Multidimensional identity collapses into single fixed characteristic (sketch)](/sketches/multidimensional-identity-collapses-into-single-fixed-characteristic-sketch.webp)

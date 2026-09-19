@@ -1,13 +1,13 @@
 ---
 UUID: 20220529145502
 Created: '2022-05-29 14:55'
-Modified: '2026-04-11 22:24'
+Modified: '2026-09-19 07:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Morality is a free rider problem.png]]'
 ImageText: Two bar charts of expected behavior of myself vs society
 Description: >-
@@ -18,7 +18,6 @@ aliases:
   - Agent vs society moralism
   - Me vs them
   - Double standard
-new_schema: true
 Topic:
   - '[[Social and Group Ethics]]'
   - >-
@@ -46,7 +45,7 @@ Therefore, it isn't strange to see differences between how we wish a society to 
 
 ### Why it matters
 
-If this is how humanity is described, which suggests that it might not be that [Humans are good as default](/notes/humans-are-good-as-default.md), than perhaps the only way to align between morality on the social level back to the individual is to "erase" the personal identity, to merge their identity with that of the group, to create [Herd Mentality](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md) which is a scary suggestion.
+If this is how humanity is described, which suggests that it might not be that [Humans are good as default](/notes/humans-are-good-as-default.md), than perhaps the only way to align between morality on the social level back to the individual is to "erase" the personal identity, to merge their identity with that of the group, to create [Herd Mentality](/notes/surrendering-agency-to-external-forces-destroys-individual-identity.md) which is a scary suggestion.
 
 ### Examples
 
@@ -56,6 +55,8 @@ If this is how humanity is described, which suggests that it might not be that [
 
 ### Open questions
 
+
+This note's "double standard" and "me vs them" aliases get borrowed elsewhere for other kinds of self-vs-other bias — confirmation bias, reactance, identity politics — that aren't really about exploiting collective altruism. Is that a fair stretch of the same idea, or does it mean two separate concepts are sharing one note? The content here doesn't yet read as two claims, so it's staying as an open question rather than a split.
 
 ## Visual
 

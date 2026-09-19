@@ -1,24 +1,21 @@
 ---
 UUID: 20240219082927
 Created: '2024-02-19 08:29'
-Modified: '2026-04-11 22:24'
-Version: 3
+Modified: '2026-09-14 15:42'
+Version: 4
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
 aliases:
   - Idealism
-excalidraw-open-md: true
 Description: >-
   A philosophical concept asserting that objects and ideas have perfect versions
   they imitate, often obscured from awareness, requiring time and training to
   identify within the "world of ideals."
-new_schema: true
 Topic:
   - '[[Ontological Theories]]'
 Origin: '[[Plato (philosopher)]]'
 URL: null
+Drawings:
+  - '[[Objects imitate a perfect version of themselves (sketch)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -45,6 +42,8 @@ For example, when we talk about justice, then there is a perfect definition of j
 
 ### Supporters
 
+[Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md)
+
 ### Opposers
 
 [Knowledge comes from empirical testing not innate reason](/notes/knowledge-comes-from-empirical-testing-not-innate-reason.md)
@@ -53,4 +52,4 @@ For example, when we talk about justice, then there is a perfect definition of j
 
 ## Visual
 
-![Idealism](/notes/idealism.webp)
+![Objects imitate a perfect version of themselves (sketch)](/sketches/objects-imitate-a-perfect-version-of-themselves-sketch.webp)

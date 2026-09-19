@@ -1,20 +1,19 @@
 ---
 UUID: 20240502101612
 Created: '2024-05-02 10:16'
-Modified: '2026-04-11 22:29'
+Modified: '2026-09-17 14:02'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 5
+Version: 6
 aliases:
   - Status-quo bias
 Description: >-
   A cognitive tendency to prefer the current state of affairs over change, even
   when better alternatives exist, often driven by fear of uncertainty and loss
   aversion.
-new_schema: true
 Topic:
   - '[[Status Quo and Inertia]]'
   - '[[Avoidance and Defense Mechanisms]]'
@@ -38,6 +37,8 @@ Perhaps it also includes a fear of [Uncertainty creates anxiety when knowledge a
 
 ### Why it matters
 
+Staying put isn't a neutral choice — it's still a choice, and it carries the same [alternative cost](/notes/every-choice-costs-the-alternatives-you-gave-up.md) as any other: the better option we didn't take.
+
 ### Examples
 
 ### Supporters
@@ -46,7 +47,11 @@ Those who prefer the status quo probably have a [Fixed mindset assumes capabilit
 
 We are highly affected by both [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md) that pushes us to stay in our course, and high [Initial effort investments create friction preventing optimal behavior change](/notes/initial-effort-investments-create-friction-preventing-optimal-behavior-change.md) that makes the first step, which is the most important one, the hardest to make.
 
+There's also a subtler version of this: treating the mere fact that something exists as evidence that it should [is-vs-ought reasoning](/notes/confusing-current-reality-with-how-things-should-be-blocks-change.md). We don't just prefer the status quo — we quietly justify it.
+
 ### Opposers
+
+Choosing voice or exit over neglect or persistence is a direct rejection of this bias [We respond to unsafe environments in four ways](/notes/we-respond-to-unsafe-environments-in-four-ways.md) — it means we're willing to bet that change could make things better, instead of assuming the current situation is the safest one just because it's familiar.
 
 ### Open questions
 

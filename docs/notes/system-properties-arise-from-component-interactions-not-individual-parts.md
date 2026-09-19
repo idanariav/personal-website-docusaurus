@@ -1,13 +1,13 @@
 ---
 UUID: 20221201211327
 Created: '2022-12-01 21:13'
-Modified: '2026-08-18 12:05'
+Modified: '2026-09-16 19:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 8
+Version: 9
 Image: >-
   [[System properties arise from component interactions not individual
   parts.png]]
@@ -18,7 +18,6 @@ Description: >-
   synergy, thus transcending simple reductionist analysis.
 aliases:
   - Emergence
-new_schema: true
 Topic:
   - '[[Systems and Structural Thinking]]'
 Origin: '[[Kurzgesagt]]'
@@ -47,13 +46,15 @@ Although it is based on connections, emergent properties are based not only on t
 
 ### Examples
 
-Another example is our consciousness. When we look at each individual neuron, we see only a biological robot operating based on chemistry and electrical signals, without free will. However as a whole we often do tend to claim that we have free will, so where does it come from?
+Another example is our consciousness. When we look at each individual neuron, we see only a biological robot operating based on chemistry and electrical signals, without free will [Everything is a result of prior causes](/notes/everything-is-a-result-of-prior-causes.md). However as a whole we often do tend to claim that we have free will, so where does it come from?
 
 Similarly, the advantages of a good knowledge system stem not from the quality of each individual note (although that helps), but on the [connections](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.md) between them. It's hard to design such systems in advance, because at first the emerging property will not exist, it can't be created beforehand, it is the result of a good, interconnected system.
 
 ### Supporters
 
 ### Opposers
+
+Though not everywhere — panpsychism pushes back on consciousness specifically, treating it as fundamental rather than something that emerges from neurons at all [Consciousness is a fundamental property of nature](/notes/consciousness-is-a-fundamental-property-of-nature.md).
 
 ### Open questions
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20220628200434
 Created: '2022-06-28 20:04'
-Modified: '2026-04-11 22:28'
+Modified: '2026-09-16 19:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[The less you know the more confident you are.png]]'
 ImageText: >-
   A curve showing confidence peaking early with little knowledge, then dipping
@@ -19,7 +19,6 @@ Description: >-
 aliases:
   - Dunning-kruger effect
   - Confidence Gap
-new_schema: true
 Topic:
   - '[[Overconfidence and Self-Assessment]]'
 Origin: null
@@ -49,6 +48,8 @@ Only by forcing us to [confront](/notes/we-understand-less-than-we-think.md) wit
 ### Examples
 
 ### Supporters
+
+[Humility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md) is what stage three actually looks like from the outside — once our confidence catches up to our knowledge, we're finally honest enough to admit how much we still don't know.
 
 ### Opposers
 

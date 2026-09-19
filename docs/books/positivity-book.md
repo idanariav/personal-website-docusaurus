@@ -1,7 +1,7 @@
 ---
 UUID: 20260122121002
 Created: '2026-01-22 12:10'
-Modified: '2026-08-12 10:27'
+Modified: '2026-09-10 15:05'
 tags: []
 FullTitle: Positivity -
 Description: >-
@@ -32,7 +32,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 9
 Pages: 288
 Reread: 0
 Rate: 3
@@ -168,7 +168,7 @@ The ten forms of positivity:
 1. **Joy** - when life just clicks, everything goes your way, good things happen all the time (the opposite of helplessness) [appreciation](/notes/appreciation.md)
 2. **Gratitude** - when we notice the good on our lives, when others are kind to us. An urge to return the kindness. (The opposite of [indebtedness](/notes/indebtedness.md)) [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md)
 3. **Serenity** - A feeling on contentment, of calmness, of rest, leisure and safety (the opposite of [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md))
-4. **Interest** - a strong "pull", being filled with curiosity. When something fascinates you. To grow, learn and develop. (The opposite of [Indifference](/notes/indifference.md))
+4. **Interest** - a strong "pull", being filled with curiosity. When something fascinates you. To grow, learn and develop. (The opposite of [Indifference can be protective or harmful depending on its source](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md))
 5. **Hope** - when things are looking back but despite of it all we believe it can be better, a safeguard from despair [hope](/notes/hope.md) (the opposite of [Despair](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md))
 6. **Pride** - we are happy after achieving something meaningful. It boosts our confidence [pride](/notes/pride.md). (The opposite is [Shame](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md))
 7. **Amusement** - when something makes us laugh. To share happiness with others. (The opposite is insulting)
@@ -206,7 +206,7 @@ It opens us up not just mentally, but also emotionally. Positivity makes us feel
 
 #### Build Your Best Future
 
-Small habits can change our minds and lives completely [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md). While we all experience the [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) that happiness tends to return to a baseline no matter what we do, it's only partially true. The baseline can shift with time. For example, [Meditation strengthens focus and mindfulness through intentional presence](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md) can increase your overall happiness not just when you practice, but throughout the day, and even on days you haven't practiced, as long as it is a habit you maintain.
+Small habits can change our minds and lives completely [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md). While we all experience the [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) that happiness tends to return to a baseline no matter what we do, it's only partially true. The baseline can shift with time. For example, [Meditation](/notes/repeated-positive-practices-raise-the-happiness-baseline-over-time.md) can increase your overall happiness not just when you practice, but throughout the day, and even on days you haven't practiced, as long as it is a habit you maintain.
 
 Positivity is the key for many positive benefits, such as health, relationships, emotional resilience , creativity, and more. It will change your life.
 
@@ -265,7 +265,7 @@ Negativity is awful because it's so easy to spiral downwards. You feel bad, so y
 
 We need to cut negativity before it spirals. The worst kind is [rumination](/notes/rumination.md), where we repeatedly relive our doubts, fears and worst thoughts.
 
-Instead we need a *healthy distraction*, something that will take off the negative lenses and help us see more clearly. Meditation is one of the best methods that exists for less stress, better mindfulness, and better focus.
+Instead we need a *healthy distraction*, something that will take off the negative lenses and help us see more clearly. [Meditation](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md) is one of the best methods that exists for less stress, better mindfulness, and better focus.
 
 Some "annoying" things are unavoidable, such as chores and commute, but we can still remove the negativity by seeing it differently. Perhaps focus on why we do it, perhaps we have time to do something fun in the meantime, or remember how it helps you [How we describe something shapes how it is perceived](/notes/how-we-describe-something-shapes-how-it-is-perceived.md)
 

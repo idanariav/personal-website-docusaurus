@@ -1,13 +1,13 @@
 ---
 UUID: 20230325085434
 Created: '2023-03-25 08:54'
-Modified: '2026-08-18 12:12'
+Modified: '2026-09-11 06:05'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Conformation bias makes us accept confirming evidence without scrutiny.png]]'
 ImageText: >-
   A magnifying glass focused on text saying "What we like" while faded text
@@ -32,7 +32,7 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-Conformation bias is when we implement a [double standard](/notes/morality-is-a-free-rider-problem.md) between two bits of information depending on whether the information matches our existing beliefs or not.
+Conformation bias is when we implement a double standard between two bits of information depending on whether the information matches our existing beliefs or not.
 If it does, we tend to accept it without any criticism or verification [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md), while information that goes against our beliefs is held to a more robust method of examination, or even ignoring immediately.
 
 ### Explanation

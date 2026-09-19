@@ -1,20 +1,19 @@
 ---
 UUID: 20230311062804
 Created: '2023-03-11 06:28'
-Modified: '2026-04-11 22:28'
+Modified: '2026-09-16 20:00'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Lindy Effect
 Description: >-
   A principle suggesting that the expected lifespan of an entity is proportional
   to its current age, but may lead to biased conclusions due to rapid societal
   changes.
-new_schema: true
 Topic:
   - '[[Simplification and Categorization]]'
 Origin: null
@@ -47,6 +46,8 @@ For example: "books have been around for hundreds of year, so I expect them to b
 It can easily make hugely biased assessments. Due to rapid changes in our modern times, things that existed for a long time might soon disappear, and new things are always coming up, that's why the lindy effect predict that they won't live long, but the answer is that its likely that most things, old and new, won't live long.
 
 Also, the lindy effect confuses [Confusing current reality with how things should be blocks change](/notes/confusing-current-reality-with-how-things-should-be-blocks-change.md) when it's taken into morality considerations, for example "husbands have beaten their wives for thousands of year, so we should continue to do that for thousands of years more", the [appeal to tradition fallacy](/notes/appeal-to-tradition-fallacy.md)
+
+There's also a [survivorship](/notes/we-draw-conclusions-only-from-what-survived.md) problem baked in — we only ever see the things that made it this far, never the equally-old things that quietly died out, so the sample itself is skewed toward "things that last."
 
 ### Open questions
 

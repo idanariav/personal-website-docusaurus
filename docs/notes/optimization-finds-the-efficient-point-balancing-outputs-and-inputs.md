@@ -1,24 +1,23 @@
 ---
 UUID: 20241130074121
 Created: '2024-11-30 07:41'
-Modified: '2026-04-11 22:25'
+Modified: '2026-09-14 17:34'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Optimization
 Description: >-
   A process of finding the best possible outcome by maximizing outputs and
   minimizing inputs, considering opportunity costs, while balancing systematic
   thinking and inherent fragility.
-new_schema: true
 Topic:
   - '[[Prioritization and Leverage]]'
 Origin: null
 URL: null
+Drawings:
+  - >-
+    [[Optimization finds the efficient point balancing outputs and inputs
+    (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -38,6 +37,8 @@ It's not about achieving the best possible score, but rather the best score we c
 
 ### Why it matters
 
+Most of what we invest in follows [diminishing returns](/notes/each-additional-unit-provides-progressively-less-value.md) — past a certain point, one more unit of input barely moves the output. Knowing roughly where that point sits is what lets us stop investing before the returns go flat, or worse, negative.
+
 ### Examples
 
 ### Supporters
@@ -52,4 +53,4 @@ However, optimization often comes at the price of [fragility](/notes/some-system
 
 ## Visual
 
-![Optimization](/notes/optimization.webp)
+![Optimization finds the efficient point balancing outputs and inputs (sketch)](/sketches/optimization-finds-the-efficient-point-balancing-outputs-and-inputs-sketch.webp)

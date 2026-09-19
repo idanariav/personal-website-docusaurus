@@ -1,7 +1,7 @@
 ---
 UUID: 20240415113109
 Created: '2024-04-15 11:31'
-Modified: '2026-05-14 22:24'
+Modified: '2026-09-19 08:25'
 tags: []
 FullTitle: >-
   The Four Tendencies - The Indispensable Personality Profiles That Reveal How
@@ -29,7 +29,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 6
+Version: 7
 Pages: 272
 Reread: 0
 Rate: 4
@@ -62,13 +62,22 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
-I'm an Upholder, and Yasmin is an Obliger.
+⛓  *by following this method, what will happen?*
+A person who not only understand himself better and what drives them to action, but also others, thus improving your relationships with people from other tendencies.
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-A person who not only understand himself better and what drives them to action, but also others, thus improving your relationships with people from other tendencies.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Commitment devices for Obligers** – Practical tool: Using accountability partners, social groups, or apps to enforce deadlines or goals. Supports: The claim that Obligers require external rather than internal accountability to perform tasks effectively.
+2. **The "Invite a friend to clean" strategy** – Anecdote/Example: Inviting guests over to create a real sense of shame/social pressure to clean a house. Supports: The idea that accountability must involve real stakes and perceived consequences to be effective for Obligers.
+3. **Information-Consequences-Choice sequence** – Framework/Method: Communicating with Rebels by providing necessary data, explaining the outcomes, and leaving the final decision to them. Supports: The claim that Rebels respond best to autonomy and will resist direct orders via "reactance."
+4. **"Challenge" framing for Rebels** – Method: Using prompts like "I bet you can't get this done by tomorrow" to trigger action. Supports: The idea that Rebels prioritize freedom and often resist direct expectations, but can be motivated through reframing tasks as personal tests of capability.
+5. **Focusing on tradeoffs for Upholders** – Communication strategy: Addressing conflict with Upholders by discussing the clash between two expectations (e.g., vacation vs. habit) rather than the arbitrary nature of the rules. Supports: The claim that Upholders prioritize structure and logic, making them resistant to aimless flexibility.
+6. **Reactance theory** – Psychological concept: The experience of feeling like a threat to freedom or choice when being ordered. Supports: The claim that individuals across all tendencies share a fundamental desire for autonomy and resist perceived control.
+7. **"Discipline is my freedom"** – Metaphor: How Upholders perceive structure as a liberating state rather than a constraint. Supports: The argument that internal alignment and adherence to rules minimizes intrapersonal conflict for Upholders.
+8. **Questioner's "Devil's Advocate" behavior** – Behavioral observation: The tendency of Questioners to challenge norms and collect data before accepting specific actions. Supports: The claim that Questioners must be provided with logic and source-based justifications to effectively cooperate.
+9. **The "Rebellion is not freedom" distinction** – Logical observation: The finding that Rebels often sabotaging themselves just to prove they aren't controlled. Supports: The claim that resisting all expectations (even beneficial ones) can ironically lead to less personal freedom and self-harm.
+10. **The "System Optimization" strength** – Professional example: Questioners using their tendency to research and improve inefficient systems. Supports: The idea that identifying a person's tendency allows you to harness their specific strengths, such as the Questioner's ability to challenge unthinking acceptance of rules.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 I wonder whether it is harmful to say that one can't change their tendency, is is a sign of realism or a fixed mindset? It is also evident that many people would have liked to change their tendency, as shown by her. So it is more harmful or beneficial to say to them "learn to live with who you are"?
@@ -118,12 +127,12 @@ Similarly, when you communicate with someone, it's essential to know what their 
 ### Upholders
 *"Discipline is my freedom"*
 
-Upholders are those who meet internal and external expectations. They love structure and [Self Dicipline](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md), and they **don't have any difficulty following up with their plans, they just "do it", even if it's something they don't enjoy doing, simply because it's needed/recommended** [Discipline acts regardless of mood or preference](/notes/discipline-acts-regardless-of-mood-or-preference.md). In that sense, they are self [ motivated](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md). The don't need reminders or commitment devices to stay on track.
+Upholders are those who meet internal and external expectations. They love structure and [Self Dicipline](/notes/discipline-acts-regardless-of-mood-or-preference.md), and they **don't have any difficulty following up with their plans, they just "do it", even if it's something they don't enjoy doing, simply because it's needed/recommended** [Discipline acts regardless of mood or preference](/notes/discipline-acts-regardless-of-mood-or-preference.md). In that sense, they are self [ motivated](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md). The don't need reminders or commitment devices to stay on track.
 
 This makes them [trsutworthy](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) and reliable, both to themselves and to others, and might even make them a person who others want to follow.
 They don't want to fail anyone, either themselves or others, and like it when expectations are clearly [communicated](/notes/explicit.md) to avoid misinterpretation.
 
-While to others they might seem as rigid, they see themselves as free. Knowing they can act according to whatever plan they have without [intrapersonal conflict](/notes/a-person-is-a-community.md) is a liberating experience. 
+While to others they might seem as rigid, they see themselves as free. Knowing they can act according to whatever plan they have without [intrapersonal conflict](/notes/neglecting-intrapersonal-conflict-harms-wellbeing.md) is a liberating experience. 
 
 Their weaknesses are:
 1. **Following unnecessary rules** - since they meet all expectations and love rules and discipline, they might follow rules even if they are irrelevant, or can be ignored.
@@ -157,7 +166,7 @@ Their weakness:
 1. **Not a team player** - it takes time to turn a questioner into a cooperative person, since it's not something automatic for them. Also, cooperating on point A doesn't promise cooperation on point B. [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md)
 2. **Analysis paralysis** - it might take them a long time to reach a decision because they have to carefully weight all options and conduct an extensive research, which makes them terrible at making quick decisions, even on trivial things [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md)
 3. **Arrogant** - since they enjoy exploring reasons and evidence, they usually are very good debaters, which causes them to feel as if they are the [smartest](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md) in the room, more than experts, and even mock those who question them because they just don't know how much time and effort was invested to reach this level of knowledge.
-4. **Inefficiency** - questioners can easily fall to [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md), either doing something the best way possible, or not at all. If something seems to them as inefficient or a waste of time, it will be very hard for them to do it, even if the end goal is worth while.
+4. **Inefficiency** - questioners can easily fall to [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md), either doing something the best way possible, or not at all [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md). If something seems to them as inefficient or a waste of time, it will be very hard for them to do it, even if the end goal is worth while.
 
 To best communicate with a questioner, remember to include the reasons for your request, and be inquisitive rather than blaming towards the other's lack of cooperative behavior.
 

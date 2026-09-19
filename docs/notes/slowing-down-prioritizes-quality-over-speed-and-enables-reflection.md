@@ -1,20 +1,19 @@
 ---
 UUID: 20230314192647
 Created: '2023-03-14 19:26'
-Modified: '2026-04-11 22:27'
+Modified: '2026-09-16 15:41'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 5
+Version: 7
 aliases:
   - Slowing down
 Description: >-
   The practice of prioritizing present experiences and well-being over
   relentless goal pursuit, promoting mindfulness and acceptance to enhance
   life's quality rather than its quantity.
-new_schema: true
 Topic:
   - '[[Acceptance and Effortless Action]]'
 Origin: null
@@ -43,9 +42,11 @@ While the [Hustle culture equates busyness with progress and causes burnout](/no
 
 ### Supporters
 
-We have to [accept](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) that we will never reach our goal, or rather never be satisfied by it, because we would never be [done](/notes/to-be-is-to-be-incomplete.md), our life will end before we would check every task on our todo list. That productivity is a losing battle. To shift our focus on the present, to live life in a way that supports our wellbeing, we need to slow down. we need to do [less](/notes/improvement-often-comes-from-removing-rather-than-adding.md), to have [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md), and to take [Breaks](/notes/rest-enables-recovery-and-sustained-performance.md).
+We have to [accept](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) that we will never reach our goal, or rather never be satisfied by it, because we would never be [done](/notes/to-be-is-to-be-incomplete.md), our life will end before we would check every task on our todo list. That productivity is a losing battle. To shift our focus on the present, to live life in a way that supports our wellbeing, we need to slow down [slow is smooth and smooth is fast](/notes/slow-is-smooth-and-smooth-is-fast.md). we need to do [less](/notes/improvement-often-comes-from-removing-rather-than-adding.md), to have [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md), and to take [Breaks](/notes/rest-enables-recovery-and-sustained-performance.md).
 
 ### Opposers
+
+Slowing down isn't a guarantee though - [Quality of work does not scale with time invested](/notes/quality-of-work-does-not-scale-with-time-invested.md) points out that quality doesn't rise just because we give something more time; past a certain point, more time is just more time, not more care.
 
 ### Open questions
 

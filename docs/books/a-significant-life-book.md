@@ -1,7 +1,7 @@
 ---
 UUID: 20241015110817
 Created: '2024-10-15 11:08'
-Modified: '2026-05-15 13:44'
+Modified: '2026-09-11 06:03'
 tags: []
 Author:
   - '[[Todd May]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 5
+Version: 6
 Pages: 210
 Rate: 3
 PublishDate: 2015-04-02T00:00:00.000Z
@@ -75,6 +75,16 @@ We might not have the answer to the meaning of life, but we will be able to have
 ### Critique
 
 🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Definition** – The “absurd” is characterized as the precise confrontation between the human need for meaning and the universe's unwillingness to provide it. Supports: The claim that searching for meaning is inherently human and that dogma (or "philosophical suicide") is merely an evasion of this condition.
+2. **Philosophical Argument** – Aristotle describes the "good life" as an active process of exercising virtue, rather than a destination or state to be achieved. Supports: The argument that meaning is derived from the ongoing, consistent expression of our capacities rather than from outcomes.
+3. **Thought Experiment** – The "experience machine" scenario highlights that a life of pure, simulated happiness is unappealing to most. Supports: The contention that happiness alone is an insufficient metric for a good life, as human existence requires connection to reality, overcoming challenges, and external engagement.
+4. **Conceptual Distinction** – John Stuart Mill distinguishes between "higher" pleasures (e.g., philosophy) and "lower" pleasures (e.g., watching TV). Supports: The critique that maximizing simple utility or pleasure is an inadequate pursuit, as pleasures have qualitative differences.
+5. **Conceptual Framework** – Haybron divides happiness into three layers: Attunement (safety), Engagement (flow), and Endorsement (contentment). Supports: The argument that happiness is a deep emotional relationship to the trajectory of one's life rather than a passing feeling or experience.
+6. **Counter-Example** – Caring for a goldfish is cited as an activity that lacks the "objective attractiveness" required for a meaningful life. Supports: The claim that meaning requires projects that are both personally immersive and have significance that extends outside the individual.
+7. **Conceptual Analogy** – The comparison between "diachronic" (a single, continuous identity) and "episodic" (disconnected identities) life structures. Supports: The claim that narratives do not merely reflect our lives but actively construct who we are.
+8. **Thought Experiment** – The example of a world-record-breaking athlete who is nonetheless cruel in personal dealings. Supports: The argument that meaningfulness and morality are distinct realms of value that do not perfectly overlap in every life.
+9. **Philosophical Principle** – Pragmatism justifies values (e.g., honesty, compassion) based on whether they make a society or practice function better. Supports: The argument that values can be objectively "good" within a framework without needing a foundational, absolute, or cosmic truth.
+10. **Philosophical Observation** – Friendship is defined as the "progeny of strength" rather than a byproduct of need. Supports: The claim that deep, meaningful relationships arise when individuals focus on offering value rather than extracting it.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -122,13 +132,13 @@ We will discuss (or have discussed) three options:
 
 This is not something we achieve, but rather something we are. It is a matter of process, not destination [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md). **By developing and expressing our virtues, we are living a good life. Virtues therefore are the expression and the tool for meaning simultaneously** [Virtues are both path and expression of the good life](/notes/virtues-are-both-path-and-expression-of-the-good-life.md), and are usually involve [Optimal outcomes emerge from balance between extremes not absolutes](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md), using the powers of reason to balance virtues and their extremes based on the situation.
 
-If we develop our virtues in the right way, being moral becomes not only our default, but even something enjoyable [Love what is good](/notes/love-what-is-good.md). We would have no [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) while being moral, it will be easy to act morally.
+If we develop our virtues in the right way, being moral becomes not only our default, but even something enjoyable [Love what is good](/notes/love-what-is-good.md). We would have no [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) while being moral, it will be easy to act morally [To be moral is to act moral](/notes/to-be-moral-is-to-act-moral.md).
 
 Being moral also connects us to others. Having true [friendships](/notes/deep-relationships-require-trust-listening-and-empathy.md) will be a connects of mutual [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md), which we strengthen each other, rather than trying to get from the other as much as we can [Human is a social being](/notes/human-is-a-social-being.md).
 
 And what about religious belief? On the one hand, it seems tempting to accept the rulings of a wise, good, omnipotent being. However, even if we assume the existence of god, we still have many unresolved questions. First of all, which god and which teachings? Whether between religions or even within religions, knowing which teachings to follow is a choice, and we can get [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md). We would never know which one is correct, which turns it into the same problem as trying to pry the meaning of life from a silent universe. *however what about* - [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md), *some decisions are beyond rational debate*
 
-But even if we did know which god, there is something problematic about god's teaching and it's relations to the *good*. Does god simply points at the good - in that way god is more of a map than an all powerful being, and we could get to the good without him. However, if good decides what is good, it can sometimes clash with our [Morality is a shared palette mixed in different proportions](/notes/morality-is-a-shared-palette-mixed-in-different-proportions.md), like saying rape and murder is okay, which proves that there is a sense of good inside us, and we can't just override it with god's teachings.
+But even if we did know which god, there is something problematic about god's teaching and it's relations to the *good*. Does god simply points at the good - in that way god is more of a map than an all powerful being, and we could get to the good without him. However, if good decides what is good, it can sometimes clash with our [Moral sense is innate but must be cultivated](/notes/moral-sense-is-innate-but-must-be-cultivated.md), like saying rape and murder is okay, which proves that there is a sense of good inside us, and we can't just override it with god's teachings.
 
 :::note[A Meaningful Life?]
 

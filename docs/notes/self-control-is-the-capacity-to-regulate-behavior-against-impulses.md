@@ -1,13 +1,13 @@
 ---
 UUID: 20230721181416
 Created: '2023-07-21 18:14'
-Modified: '2026-04-11 22:26'
+Modified: '2026-09-16 11:44'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Self-control
   - Self discipline
@@ -15,7 +15,6 @@ Description: >-
   The ability to manage internal desires, emotions, and thoughts to align
   actions with one's true preferences, often involving the balance between
   rationality and emotional responses.
-new_schema: true
 Topic:
   - '[[Self-Regulation and Change]]'
 Origin: null
@@ -44,11 +43,15 @@ Perhaps self control is too simplistic a way of looking and analyzing our behavi
 
 ### Examples
 
+For example, [grit](/notes/grit-enables-persisting-through-struggle-and-challenge.md) is really just self control stretched over a longer timeline - pushing through a hard task despite the pull to quit.
+
 ### Supporters
+
+Self control also depends on noticing the impulse itself before you can override it, which is why [self-awareness](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md) usually comes first.
 
 ### Opposers
 
-Paradoxically, self control can also be a sign of [intrapersonal conflict](/notes/a-person-is-a-community.md), if you feel that "yourself" is something that you have to control, that there is a "controlling" side and a "controlled" side. This means that you perhaps lack clarity about who you are, or that you fail to listen to the different parts of yourself and achieve [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md).
+Paradoxically, self control can also be a sign of [intrapersonal conflict](/notes/neglecting-intrapersonal-conflict-harms-wellbeing.md), if you feel that "yourself" is something that you have to control, that there is a "controlling" side and a "controlled" side. This means that you perhaps lack clarity about who you are, or that you fail to listen to the different parts of yourself and achieve [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md).
 
 ### Open questions
 

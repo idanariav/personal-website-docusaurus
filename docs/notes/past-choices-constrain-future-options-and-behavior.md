@@ -1,24 +1,21 @@
 ---
 UUID: 20230403065733
 Created: '2023-04-03 06:57'
-Modified: '2026-04-11 22:25'
+Modified: '2026-09-14 22:57'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Path Dependence
 Description: >-
   A concept describing how past choices limit current options and actions, often
   resulting in entrenched systems that resist change despite potentially better
   alternatives.
-new_schema: true
 Topic:
   - '[[Self-Regulation and Change]]'
 Origin: null
 URL: null
+Drawings:
+  - '[[Past choices constrain future options and behavior (sketch)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -29,11 +26,13 @@ SiteProcssed: true
 
 ### Claim
 
-Path Dependence is the idea that we are highly [limited](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md) by the choices we made in the past, whether they did or did not create systems that now [forces](/notes/dependency.md) us to act in a certain way.
+Path Dependence is the idea that we are highly [limited](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md) by the choices we made in the past, whether they did or did not create systems that now [forces](/notes/dependency-trades-autonomy-for-connection.md) us to act in a certain way.
 
 ### Explanation
 
 A single choice when repeated slowly turns into [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md), and with time it roots so deep that any [change](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md) will involve much [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md).
+
+Part of that friction is opportunity cost [Every choice costs the alternatives you gave up](/notes/every-choice-costs-the-alternatives-you-gave-up.md) - abandoning an entrenched path also means giving up everything already invested in it, not just the decision to change.
 
 ### Why it matters
 
@@ -59,8 +58,10 @@ We simply "got used" [Repeated actions become automatic through habit formation]
 
 ### Opposers
 
+In contrast, [Knowing when to stop prevents wasted persistence on misaligned goals](/notes/knowing-when-to-stop-prevents-wasted-persistence-on-misaligned-goals.md) pushes back on the idea that path dependence is a fixed sentence - no matter how deep a path has been walked, it can still be abandoned once it stops matching what we actually want.
+
 ### Open questions
 
 ## Visual
 
-![Path Dependence](/notes/path-dependence.webp)
+![Past choices constrain future options and behavior (sketch)](/sketches/past-choices-constrain-future-options-and-behavior-sketch.webp)

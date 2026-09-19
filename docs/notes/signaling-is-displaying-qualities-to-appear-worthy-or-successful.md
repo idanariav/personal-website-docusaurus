@@ -1,20 +1,19 @@
 ---
 UUID: 20230616125532
 Created: '2023-06-16 12:55'
-Modified: '2026-04-11 22:27'
+Modified: '2026-09-10 14:52'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: '5'
 aliases:
   - Signaling
 Description: >-
   The act of presenting a quality or attribute to others, regardless of its
   authenticity, often serving as a means to convey social status or
   desirability.
-new_schema: true
 Topic:
   - '[[Persuasion and Influence]]'
 Origin: null
@@ -33,7 +32,7 @@ SiteProcssed: true
 
 ### Explanation
 
-It serves as a convenient [shortcut](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md) - people don't have to spend a lot of time getting to know us in order to know which qualities/values we have, it makes it easier for people to understand who we are.
+It serves as a convenient [shortcut](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.md) - people don't have to spend a lot of time getting to know us in order to know which qualities/values we have, it makes it easier for people to understand who we are.
 
 Signaling can also be deceiving, if for example we use all of our money to buy expensive clothing such that it would look as if we are rich, when in fact we are deeply poor.
 In that case, there is a difference between who we truly are, and who we present ourselves as [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md).

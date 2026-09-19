@@ -1,13 +1,13 @@
 ---
 UUID: 20240106082823
 Created: '2024-01-06 08:28'
-Modified: '2026-04-11 22:28'
+Modified: '2026-09-19 07:27'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 4
 aliases:
   - Will to Power
   - Life Embracing
@@ -15,9 +15,7 @@ Description: >-
   A fundamental inner drive that compels individuals to transcend basic
   instincts, embrace life actively, and pursue self-improvement and higher goals
   beyond mere survival.
-new_schema: true
-Topic:
-  - '[[Transcendence is the act of continuously becoming a better self]]'
+Topic: '[[Growth Through Adversity]]'
 Origin: '[[Friedrich Nietzsche (philosopher)]]'
 URL: 'https://www.podcastrepublic.net/episode/12786611'
 draft: false
@@ -40,19 +38,17 @@ It also means to be "life embracing", to have a [proactive](/notes/taking-active
 
 ### Why it matters
 
-To follow your will to power means to embrace [Challenges](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md), to have a [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md) and seek improvement through difficulties in life. To overcome yourself, rather than giving yourself up to [Herd Mentality](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
+To follow your will to power means to embrace [Challenges](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) — what de Beauvoir calls [freedom itself](/notes/freedom-is-a-perpetual-struggle-between-failure-and-transcendence.md) — to have a [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md) and seek improvement through difficulties in life. To overcome yourself, rather than giving yourself up to [Herd Mentality](/notes/independent-thinking-requires-resisting-conformity.md)
 
 ### Examples
 
 ### Supporters
 
+[Mastering and unifying one's inner drives makes one the ideal person](/notes/mastering-and-unifying-ones-inner-drives-makes-one-the-ideal-person.md) Nietzsche's ideal person isn't free of inner conflict — they've organized it, made the commanding voice among their competing drives.
+
 ### Opposers
 
 ### Open questions
-
-
-### Claims
-
 
 ## Visual
 

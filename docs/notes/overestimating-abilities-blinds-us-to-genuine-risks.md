@@ -1,24 +1,21 @@
 ---
 UUID: 20231228174240
 Created: '2023-12-28 17:42'
-Modified: '2026-04-11 22:25'
+Modified: '2026-09-14 22:44'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Over confidence
 Description: >-
   A cognitive bias where individuals overestimate their abilities and
   underestimate challenges, often leading to a false sense of certainty and
   resistance to re-evaluation of beliefs.
-new_schema: true
 Topic:
   - '[[Overconfidence and Self-Assessment]]'
 Origin: null
 URL: null
+Drawings:
+  - '[[Overestimating abilities blinds us to genuine risks (sketch)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -53,6 +50,8 @@ Unfortunately, those with over confidence tend to do the opposite, they double d
 The opposite of over confidence is [Imposter syndrome is feeling undeserving despite actual competence](/notes/imposter-syndrome-is-feeling-undeserving-despite-actual-competence.md), where we devalue our [Competence is developed through practice not innate talent](/notes/competence-is-developed-through-practice-not-innate-talent.md).
 
 In contrast, a bit more [Skepticism](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md), would remove the [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) between our confidence and our ego, allowing us to operate like a scientist who runs [experiments](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md), changing and adapting their hypothesis about the world as they discover new information, instead of being stuck in the same outdated belief.
+
+Similarly, [Humility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md) works directly against it, since admitting how much we don't know is the opposite move to insisting we already know enough.
 
 ### Open questions
 

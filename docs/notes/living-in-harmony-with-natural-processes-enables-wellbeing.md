@@ -1,12 +1,9 @@
 ---
 UUID: 20230413065052
 Created: '2023-04-13 06:50'
-Modified: '2026-06-28 20:24'
+Modified: '2026-09-18 12:14'
 tags: []
-sketch-editor-plugin: parsed
-Version: 4
-Image: '[[Living in harmony with natural processes enables wellbeing.png]]'
-ImageText: 'A sun, a small flower hiding behind a rock, vs a sunflower'
+Version: 6
 Description: >-
   A philosophical concept advocating that individuals should align their lives
   with nature, embracing uncertainty and change rather than attempting to
@@ -18,7 +15,8 @@ URL: null
 aliases:
   - Life as Flow
   - Harmony with nature
-new_schema: true
+Drawings:
+  - '[[Living in harmony with natural processes enables wellbeing (sketch)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -33,7 +31,7 @@ Many philosophers argue that one's life should be in accordance with nature.
 
 ### Explanation
 
-To live according to nature usually refers to how we deal with [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md) and [Randomness](/notes/randomness.md). As humans we have a tendency to want to [control](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md) our environment, to adjust it according to our needs and desires.
+To live according to nature usually refers to how we deal with [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md) and [Randomness](/notes/randomness.md). As humans we have a tendency to want to [control](/notes/agency-is-the-ability-to-connect-desires-and-actions.md) our environment, to adjust it according to our needs and desires.
 
 ### Why it Matters
 
@@ -45,12 +43,16 @@ By giving those up, we supposably will have better balance in life. When we are 
 
 ### Supporters
 
-These philosophers claim that against nature we would always lose. Either because the outside world is much more complex and strong than we are, or that by fighting nature we fight against ourselves, which is a sure way of loosing. [intrapersonal conflict](/notes/a-person-is-a-community.md).
+These philosophers claim that against nature we would always lose. Either because the outside world is much more complex and strong than we are, or that by fighting nature we fight against ourselves, which is a sure way of loosing. [intrapersonal conflict](/notes/neglecting-intrapersonal-conflict-harms-wellbeing.md).
+
+[Wu wei](/notes/achieve-more-by-not-resisting.md) makes the same case from the Taoist tradition - that we achieve more by responding to the world than by forcing it into shape.
 
 ### Opposers
+
+[The will to power is the inner drive to transcend oneself and become something greater](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md) argues the reverse - that life isn't about conforming to nature, but about rising above it: using it, improving it, growing beyond what's given rather than yielding to it.
 
 ### Open Questions
 
 ## Visual
 
-![Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.webp)
+![Living in harmony with natural processes enables wellbeing (sketch)](/sketches/living-in-harmony-with-natural-processes-enables-wellbeing-sketch.webp)

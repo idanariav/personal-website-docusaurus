@@ -1,23 +1,20 @@
 ---
 UUID: 20230404063545
 Created: '2023-04-04 06:35'
-Modified: '2026-04-11 22:24'
+Modified: '2026-09-14 14:46'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases: []
 Description: >-
   A collaborative process of communication aimed at reaching an agreement,
   emphasizing empathy, honesty, and vulnerability while acknowledging the human
   emotions and preferences involved.
-new_schema: true
 Topic:
   - '[[Collaborative Communication]]'
 Origin: null
 URL: null
+Drawings:
+  - '[[Negotiation is an act of connection (sketch)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -41,6 +38,8 @@ Only by realizing this holistic picture of negotiations, could we be able to fin
 
 ### Examples
 
+A concrete version of this is the [Expose your flaws before others discover them](/notes/expose-your-flaws-before-others-discover-them.md) technique — naming the weak points in your position before the other side does. It feels counterintuitive, but that's the same exposure that turns a negotiation into a conversation instead of a standoff.
+
 ### Supporters
 
 ### Opposers
@@ -50,4 +49,4 @@ Only by realizing this holistic picture of negotiations, could we be able to fin
 
 ## Visual
 
-![Negotiation is an act of connection](/notes/negotiation-is-an-act-of-connection.webp)
+![Negotiation is an act of connection (sketch)](/sketches/negotiation-is-an-act-of-connection-sketch.webp)

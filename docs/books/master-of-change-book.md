@@ -1,7 +1,7 @@
 ---
 UUID: 20240702060644
 Created: '2024-07-02 06:06'
-Modified: '2026-04-16 07:20'
+Modified: '2026-09-19 08:25'
 tags: []
 Author:
   - '[[Brad Stulberg]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 9
 Pages: 233
 Rate: 5
 PublishDate: 2023-09-05T00:00:00.000Z
@@ -111,7 +111,7 @@ Sure, the examples are sometimes just okay, and the metaphors are not always on 
 
 Change in itself is neither positive nor negative, it is up to our [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) to choose how to react and work with it, that will enable us to convert these moments into periods of growth. It requires us to be [adaptable](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md).
 
-We are too fixated by the notion of [Homeostasis](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md), that we can always return or maintain the same state of something no matter what happens. That's why change often causes us to experience [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md), we either ignore it or actively fight against it, trying to keep things how they were.
+We are too fixated by the notion of [Homeostasis](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md), that we can always return or maintain the same state of something no matter what happens. That's why change often causes us to experience [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md), we either ignore it or actively fight against it, trying to keep things how they were.
 
 In reality, systems work in a process called [We grow stronger by adapting to stress](/notes/we-grow-stronger-by-adapting-to-stress.md), which means they create a new normal, one that is best suited to the situation. Like [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md), the body adapts to the new situation by changing itself such that it's functioning would remain optimal. Like growing new muscles after a workout.
 
@@ -257,7 +257,7 @@ Common methods of converting trauma into growth
 2. **Ask for help** - United we stand, alone we fall. We need to express our [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md), to connect to others, to find those who experienced similar things and managed to climb out of the hole we are in, to make us feel heard, seen, understood [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
 3. **Routines** - Find the small things that keep you in line, and even give you meaning and happiness. This could be work, training, reading, taking a walk, whatever it is that gives you structure. [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
 4. **Real vs fake tired** - try to notice whether the exhaustion your feel is physical or emotional. Try to do less and sleep more at the beginning, but if it doesn't go away, that means you are "stuck in a runt" and need to push yourself into doing, and further rest will only bring you down
-5. **Control and compassion** - we need both [Self Dicipline](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) to push ourselves out of a crisis, but also self compassion to support ourselves through these hard times. [Recovering from hardship requires both self-discipline and self-compassion](/notes/recovering-from-hardship-requires-both-self-discipline-and-self-compassion.md)
+5. **Control and compassion** - we need both [Self Dicipline](/notes/discipline-acts-regardless-of-mood-or-preference.md) to push ourselves out of a crisis, but also self compassion to support ourselves through these hard times. [Recovering from hardship requires both self-discipline and self-compassion](/notes/recovering-from-hardship-requires-both-self-discipline-and-self-compassion.md)
 
 Suffering is never fun, but that's the price we pay for expressing our humanity, for loving, caring, daring and doing. There can be no one without the other. [Life is pain](/notes/life-is-pain.md) And the bright side is that it gets a bit easier with time, the more we learn to deal with changes.
 

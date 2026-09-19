@@ -1,7 +1,7 @@
 ---
 UUID: 20240101072107
 Created: '2024-01-01 07:21'
-Modified: '2026-04-17 06:38'
+Modified: '2026-09-19 08:31'
 tags: []
 FullTitle: The Happiness Advantage - How a Positive Brain Fuels Success in Work and Life
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 258
 Reread: 0
 Rate: 5
@@ -61,12 +61,22 @@ SiteProcssed: true
 	7. *Social investment* - invest more in the greatest predictors of happiness, emotional resilience and success, our social support network. You are not alone. It is precisely in the difficult moments that you should strive to get closer to others, not isolate yourself.
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓*by following this method, what will happen?*
+Not just a more successful person, but a happier one. And once you make the change, the effect will ripple to your surroundings.
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-Not just a more successful person, but a happier one. And once you make the change, the effect will ripple to your surroundings.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Losada Line** – Statistical finding. Supports: The principle that happiness and productivity require specific ratios of interaction. The research indicates that a company must maintain a 3:1 positive-to-negative interaction ratio to be successful.
+2. **The 10% Rule** – Scientific finding. Supports: The idea that happiness is largely internal rather than circumstantial. Data shows that external circumstances predict only about 10% of our total happiness, suggesting the rest is under our control.
+3. **The "Tetris Effect"** – Case study/Psychological phenomenon. Supports: The concept that what we repeatedly focus on shapes our reality. Research observing people who played Tetris consistently shows their brains began seeing real-world objects as puzzle pieces, demonstrating that our focus creates neural pathways that filter how we perceive the world.
+4. **The "Copernicus Reversal"** – Analogy. Supports: The claim that happiness precedes success, not the other way around. This metaphor reframes the traditional, incorrect belief that hard work leads to success which then leads to happiness; instead, it posits that happiness is the center around which success revolves.
+5. **The Zorro Circle** – Anecdote/Metaphor. Supports: The strategy of building momentum through manageable, small-scale control. Like Zorro focusing his efforts on a small, manageable circle to regain confidence and avoid being overwhelmed, individuals can overcome emotional hijacking by focusing on small, controllable goals before expanding them.
+6. **The 20-Second Rule** – Behavioral framework. Supports: The necessity of reducing activation energy to build habits. By adding 20 seconds of resistance to bad habits or removing 20 seconds of friction from good ones, we can bypass the limited nature of willpower and change defaults.
+7. **The "Heartless Grit" observation** – Analytical insight. Supports: The warning against sacrificing well-being for success. Evidence suggests that grit detached from social relationships and positivity leads to burnout, disconnection, and higher vulnerability to anxiety and depression.
+8. **Predictive Encoding** – Psychological mechanism. Supports: The power of optimism in spotting opportunities. By priming the brain to expect favorable outcomes, we encode it to recognize those outcomes when they actually arise, whereas negative biases cause "unintentional blindness" to opportunities.
+9. **Mirror Neurons** – Scientific mechanism. Supports: The idea that individual changes have a "ripple effect" on others. Our biological tendency to imitate the physical and emotional states of others means that personal positive behavioral changes unconsciously influence the people around us.
+10. **The "Path Up" concept** – Psychological reframing strategy. Supports: The ability to utilize failure for growth. Rather than sinking into helplessness or frustration when failing, resilient individuals choose to conceive of failures as stepping stones, a process that can lead to positive change even after traumatic events.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 Some of the principles are quite similar to one another, but perhaps the overlap is a feature, not a bug.
@@ -103,7 +113,7 @@ Psychology used to be trapped in the "cult of the average", to seek only what is
 
 We have found out that **our perception of reality has a great influence on reality itself**. [Perception](/notes/subjective-perception-filters-how-we-see-external-reality.md). It is those who think positively and are grateful for what they have that are able to [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) through the difficulties in life, and can detect the opportunities for success and achieve it. **The world belongs to the optimists** [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md).
 
-Those who think that happiness should be sacrificed in order to achieve success not only fail to achieve it, but are also much more likely to experience [Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md), anxiety, [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) and [isolation](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md). While it is the opposite, **keeping our brain positive and maintaining social relations is the key not only to happiness but also success**. Heartless grit will only get you down.
+Those who think that happiness should be sacrificed in order to achieve success not only fail to achieve it, but are also much more likely to experience [Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md), anxiety, [Chronic stress is harmful](/notes/chronic-stress-is-harmful.md) and [isolation](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md). While it is the opposite, **keeping our brain positive and maintaining social relations is the key not only to happiness but also success**. Heartless grit will only get you down.
 
 The seven principles of positive psychology
 1. **The happiness advantage** - a positive mind has an advantage over a neutral or negative one.

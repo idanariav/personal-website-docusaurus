@@ -1,20 +1,19 @@
 ---
 UUID: 20241102213256
 Created: '2024-11-02 21:32'
-Modified: '2026-04-11 22:25'
+Modified: '2026-09-15 10:15'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Hedonism
 Description: >-
   A philosophical concept emphasizing that actions should be guided by desire,
   evaluating morality based on the pleasure or pain derived from experiences,
   often blurring the distinction between types of pleasures.
-new_schema: true
 Topic:
   - '[[Moral Epistemology]]'
 Origin: null
@@ -36,6 +35,8 @@ Hedonism is about letting [Desire perpetuates endless wanting over satisfaction]
 The appeal of hedonism is that it is really easy to [Love what is good](/notes/love-what-is-good.md), because what is good is what we love, thus reversing the question on its head, instead of us trying to enjoy doing the right thing, we assign "goodness" to what we feel is fun [Flipping assumptions reveals hidden possibilities and better solutions](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md).
 
 ### Why it matters
+
+Hedonism isn't just a personal ethic — it's also the basis for [Maximizing pleasure and minimizing suffering defines moral action](/notes/maximizing-pleasure-and-minimizing-suffering-defines-moral-action.md), which tries to scale the same pleasure-pain logic into a rule for how everyone should act. That's also where it runs into trouble: reducing morality to a single measurable quantity feels too shallow to capture what actually makes a life good.
 
 ### Examples
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20260602055107
 Created: '2026-06-02 05:51'
-Modified: '2026-07-31 11:13'
+Modified: '2026-09-18 12:14'
 tags: []
 FullTitle: Grit - The Power of Passion and Perseverance
 Description: >-
@@ -21,12 +21,14 @@ Genre:
   - Businessד
   - Personal Development
   - Leadership
-Stored: Kindle
+Stored:
+  - Kindle
+  - Epub
 ReadingStatus: Done
 ASIN: '1443442313'
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 368
 Reread: 0
 Rate: 3
@@ -264,9 +266,9 @@ Purpose is strongest when it's combined with interest, when what we love to do m
 
 #### Hope
 
-"Whether you think you can or think you can't, you are right". Being an [optimist](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) is life saving, in terms of happiness and success. Because being an optimist gives us [flexability](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md) of thought, and turns us into Future oriented thinkers. We believe we can do something about it, so we're much more likely to do it and improve the situation [Self fulfilling prophecy](/notes/being-emerges-from-action-not-belief.md). As opposed to [pessimists](/notes/pessimism-is-focusing-attention-on-negative-outcomes-and-threats.md) that are much more likely to suffer from depression and become [Helpless](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md).
+"Whether you think you can or think you can't, you are right". Being an [optimist](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) is life saving, in terms of happiness and success. Because being an optimist gives us [flexability](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md) of thought, and turns us into Future oriented thinkers. We believe we can do something about it, so we're much more likely to do it and improve the situation [Self fulfilling prophecy](/notes/belief-alone-can-produce-real-effects.md). As opposed to [pessimists](/notes/pessimism-is-focusing-attention-on-negative-outcomes-and-threats.md) that are much more likely to suffer from depression and become [Helpless](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md).
 
-It's all about having a growth mindset over a fixed mindset. The main reason why we probably develop one mindset over the other is whether we felt that we have a degree of [control](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md) what happened to us, whether we felt that we could overcome. If we felt helpless, we stayed helpless. If there was a way out, we got back up.
+It's all about having a growth mindset over a fixed mindset. The main reason why we probably develop one mindset over the other is whether we felt that we have a degree of [control](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md) what happened to us, whether we felt that we could overcome. If we felt helpless, we stayed helpless. If there was a way out, we got back up.
 
 Also, you don't have to get back up alone. Consolers, friends, mentors, they are all there to give us clarity and direction when we need to.
 

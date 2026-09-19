@@ -1,7 +1,7 @@
 ---
 UUID: 20260802083427
 Created: '2026-08-02 08:34'
-Modified: '2026-09-02 11:27'
+Modified: '2026-09-15 06:39'
 tags: []
 FullTitle: Mattering - The Secret to a Life of Deep Connection and Purpose
 Description: >-
@@ -27,7 +27,7 @@ ReadingStatus: Done
 ASIN: 593850599
 Purchased: true
 Fiction: false
-Version: 9
+Version: 10
 Pages: 288
 Reread: 0
 Rate: 3
@@ -312,7 +312,7 @@ It's not enough to use clean fuel, we also have to get rid of the bad one [Crowd
 
 Show people that they matter, that what they do contribute. Small yet specific gestures (don't just say "thank you", say how their contribution helped)
 
-Another way of empowering your workers is to [Trust](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) them, it does mean to give up control, but you gain much more in return. Give your workers advancement opportunities, support them in all aspects of life. Believe in them. Like how people quit bad managers, they stay for good leaders [People quit managers, not jobs](/notes/people-quit-managers-not-jobs.md).
+Another way of empowering your workers is to [Trust](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) them, it does mean to give up control, but you gain much more in return. Give your workers advancement opportunities, support them in all aspects of life. Believe in them. Like how people quit bad managers, they stay for good leaders [People are the most valuable organizational resource](/notes/people-are-the-most-valuable-organizational-resource.md).
 
 :::note[How We Spend Our Days: Mattering at Work ^ref-33494]
 
@@ -347,6 +347,4 @@ Since we're all co-dependent, the best way to strengthen our sense of mattering 
 - No matter what kind of upheaval we’re facing, be it job loss, retirement, empty nesting, a shifting world, or some other destabilizing event, the surest way to sustain our own sense of mattering is to focus on making others feel like they matter. The shift from “I matter” to “we matter” gives us both the long-term resilience and legacy we crave. ([Location 2899](kindle://book?action=open&asin=B0FFZY9V8V&location=2899)) ^ref-37895
 
 :::
-
-
 

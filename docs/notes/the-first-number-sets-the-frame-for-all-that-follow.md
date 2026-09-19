@@ -1,13 +1,13 @@
 ---
 UUID: 20230323064659
 Created: '2023-03-23 06:46'
-Modified: '2026-04-11 22:28'
+Modified: '2026-09-16 19:56'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[The first number sets the frame for all that follow.png]]'
 ImageText: Scissors cutting a line
 Description: >-
@@ -16,7 +16,6 @@ Description: >-
   reality.
 aliases:
   - Anchoring
-new_schema: true
 Topic:
   - '[[How we describe something shapes how it is perceived]]'
 Origin: null
@@ -47,6 +46,8 @@ For example, asking you whether Uganda has a population of higher or lower than 
 ### Supporters
 
 ### Opposers
+
+[Econs](/notes/econs-are-purely-rational-agents-who-maximize-utility.md) wouldn't fall for this — by definition they're immune to anchoring, weighing only the actual expected utility, never the arbitrary number that got mentioned first.
 
 ### Open questions
 

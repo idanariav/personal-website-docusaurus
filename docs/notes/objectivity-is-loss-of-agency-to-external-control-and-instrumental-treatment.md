@@ -1,24 +1,23 @@
 ---
 UUID: 20230721174813
 Created: '2023-07-21 17:48'
-Modified: '2026-04-11 22:24'
+Modified: '2026-09-19 07:26'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
+Version: 5
 aliases:
   - Objectivity
 Description: >-
   A state of being perceived solely as an object, characterized by the loss of
   intrinsic value, focusing on quantifiable traits while neglecting qualitative
   aspects of existence, often linked to dehumanization.
-new_schema: true
 Topic:
   - '[[Freedom and Agency]]'
 Origin: '[[Ethics of ambiguity (book)]]'
 URL: null
+Drawings:
+  - >-
+    [[Objectivity is loss of agency to external control and instrumental
+    treatment (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -40,6 +39,8 @@ Therefore, an object, is also something that is fixed, unchanging, again like a 
 
 ### Why it matters
 
+This matters because once someone is framed as an object, moral responsibility toward them changes too — it's the same logic that lets [Punishment treats wrongdoers as objects rather than agents](/notes/punishment-treats-wrongdoers-as-objects-rather-than-agents.md) reduce a person to their worst action, denying that they could ever be anything else. The less agency we grant someone, the easier it becomes to justify treating them instrumentally.
+
 ### Examples
 
 For example, to focus on a person's indisputable, often quantitative aspects such as their age, height, sex, ethnicity, IQ, etc, as opposed to looking at the qualitative, relative aspects of his life such as dreams, values, etc...
@@ -48,7 +49,7 @@ This can also be self inflicted. Often people with [Fixed mindset assumes capabi
 
 ### Supporters
 
-Often it is connected with the process of [Commodification turns non-tradable values into economic transactions](/notes/commodification-turns-non-tradable-values-into-economic-transactions.md), that we are seen as products or tools to be used, rather than as people. Similarly, when we [dedicate](/notes/surrendering-agency-to-external-forces-destroys-individual-identity.md) ourselves completely for a cause, "forgetting ourselves", or becoming a member of a [herd](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md), we become an object to be used for a "greater process", at the potential cost of self destruction.
+Often it is connected with the process of [Commodification turns non-tradable values into economic transactions](/notes/commodification-turns-non-tradable-values-into-economic-transactions.md), that we are seen as products or tools to be used, rather than as people. Similarly, when we [dedicate](/notes/surrendering-agency-to-external-forces-destroys-individual-identity.md) ourselves completely for a cause, "forgetting ourselves", or becoming a member of a [herd](/notes/surrendering-agency-to-external-forces-destroys-individual-identity.md), we become an object to be used for a "greater process", at the potential cost of self destruction.
 
 It is to turn ourselves into [Multidimensional identity collapses into single fixed characteristic](/notes/multidimensional-identity-collapses-into-single-fixed-characteristic.md), to see ourselves as just one thing, permanent and [unchanging](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md).
 
@@ -58,4 +59,4 @@ It is to turn ourselves into [Multidimensional identity collapses into single fi
 
 ## Visual
 
-![Objectivity](/notes/objectivity.webp)
+![Objectivity is loss of agency to external control and instrumental treatment (sketch)](/sketches/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment-sketch.webp)

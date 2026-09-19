@@ -1,9 +1,9 @@
 ---
 UUID: 20250226141228
 Created: '2025-02-26 14:12'
-Modified: '2026-09-03 19:26'
+Modified: '2026-09-19 07:27'
 tags: []
-Version: '7'
+Version: 8
 Description: >-
   The process of generating something entirely new through creative thinking,
   requiring critical thinking, cooperation, and curiosity, while navigating
@@ -29,7 +29,7 @@ SiteProcssed: true
 Innovation is perhaps the highest standard of creative thinking. It is to truly generate something new, something that has not existed before. As humanity progresses, being innovative has become more [complex](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md) because all the low hanging fruits have already been taken.
 
 ### Explanation
-We would have to use our [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md) to rise above the obvious and mediocre, to think differently from others [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md), and search for the [Imagining alternatives sharpens our judgment](/notes/imagining-alternatives-sharpens-our-judgment.md), the idea that waits for us in the void, that doesn't exist yet, or that is around us yet haven't been combined into something coherent.
+We would have to use our [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md) to rise above the obvious and mediocre, to think differently from others [Conformism](/notes/independent-thinking-requires-resisting-conformity.md), and search for the [Imagining alternatives sharpens our judgment](/notes/imagining-alternatives-sharpens-our-judgment.md), the idea that waits for us in the void, that doesn't exist yet, or that is around us yet haven't been combined into something coherent.
 
 Perhaps it's no longer possible to be a sole innovator, one person can't hold all the necessary information to be truly innovative [No individual can master all knowledge complexity requires](/notes/no-individual-can-master-all-knowledge-complexity-requires.md). More than being a genius, innovating is the product of good [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md).
 

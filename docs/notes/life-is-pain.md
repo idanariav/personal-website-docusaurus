@@ -1,21 +1,20 @@
 ---
 UUID: 20250305131056
 Created: '2025-03-05 13:10'
-Modified: '2026-06-27 18:35'
+Modified: '2026-09-09 16:25'
 tags: []
-sketch-editor-plugin: parsed
-Version: 3
-Image: '[[Life is pain.png]]'
-ImageText: A sun on a rose vs a cloud with rain and lightning
+Version: 4
 Description: >-
   The concept that suffering is an inherent part of existence, influenced by
   external circumstances and personal choices, emphasizing the inevitability of
   pain in life.
-Topic: []
+Topic:
+  - '[[Innate Human Disposition]]'
 Origin: null
 URL: null
 aliases: []
-new_schema: true
+Drawings:
+  - '[[Life is pain (sketch)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -30,7 +29,7 @@ Pain in life is unavoidable.
 
 ### Explanation
 
-There is endless [Randomness](/notes/randomness.md) that can affect our life, people who do bad things (from various reasons), and things outside of our control. If we [expect](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) a life without pain, it would be our biggest mistake. Even those who believe that the world is governed by a benevolent god have to accept that evil exists in the world.
+There is endless [Randomness](/notes/randomness.md) that can affect our life, people who do bad things (from various reasons), and things outside of our control. Even our own [wanting](/notes/the-will-to-live-is-a-blind-biological-drive-that-causes-suffering-through-endless-desire.md) is a source of pain — it never fully lets up, so there's always another itch to scratch. If we [expect](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) a life without pain, it would be our biggest mistake. Even those who believe that the world is governed by a benevolent god have to accept that evil exists in the world.
 
 To try and control every aspect in life to avoid suffering is [wishful](/notes/manifesting-imposes-beliefs-onto-reality-rather-than-accepting-it.md) thinking. [Rejecting](/notes/denial-is-choosing-a-false-view-to-avoid-painful-truths.md) life as they are would only bring more pain.
 
@@ -50,4 +49,4 @@ For example, we don't control (to an extent) whether we are hurt in an accident,
 
 ## Visual
 
-![Life is pain](/notes/life-is-pain.webp)
+![Life is pain (sketch)](/sketches/life-is-pain-sketch.webp)

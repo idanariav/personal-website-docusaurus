@@ -1,7 +1,7 @@
 ---
 UUID: 20220704183441
 Created: '2022-07-04 18:34'
-Modified: '2026-09-02 10:32'
+Modified: '2026-09-14 15:56'
 tags: []
 Author:
   - '[[Greg Mckeown]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 4
 Pages: 272
 Rate: 3
 PublishDate: 2021-04-27T00:00:00.000Z
@@ -272,7 +272,7 @@ Effortless results come from cumulative processes [Repeated actions yield expone
 
 
 #### Automate - Do it once and Never Again
-*Automation* - designed to reduce time and/or effort [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md). It can be like scheduling recurring events in your calendar, templates for various lists so you wont need to write everything from scratch each time, and also to reduce that chance of error.
+*Automation* - designed to reduce time and/or effort [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md), a form of [effort storing](/notes/one-time-effort-investment-yields-future-benefits.md) done once and reaped continuously. It can be like scheduling recurring events in your calendar, templates for various lists so you wont need to write everything from scratch each time, and also to reduce that chance of error.
 
 :::note[AUTOMATE Do It Once and Never Again]
 

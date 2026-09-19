@@ -1,12 +1,9 @@
 ---
 UUID: 20230404191941
 Created: '2023-04-04 19:19'
-Modified: '2026-07-19 20:54'
+Modified: '2026-09-10 14:50'
 tags: []
-sketch-editor-plugin: parsed
-Version: 5
-Image: '[[Maslow''s hierarchy orders needs from basic to self-actualization.png]]'
-ImageText: A lightbulb vs a z-z-z sign for sleeping
+Version: 6
 Description: >-
   A hierarchical model of human aspirations, illustrating that basic physical
   needs must be met before pursuing higher goals like self-actualization and
@@ -17,7 +14,10 @@ Origin: null
 URL: null
 aliases:
   - Maslows pyramid
-new_schema: true
+Drawings:
+  - >-
+    [[Maslow's hierarchy orders needs from basic to self-actualization
+    (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -52,4 +52,4 @@ However, while it is not impossible to achieve a higher level before completing 
 
 ## Visual
 
-![Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.webp)
+![Maslow's hierarchy orders needs from basic to self-actualization (sketch)](/sketches/maslows-hierarchy-orders-needs-from-basic-to-self-actualization-sketch.webp)

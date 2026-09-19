@@ -3,18 +3,17 @@ excalidraw-plugin: parsed
 tags: []
 UUID: 20240702071530
 Created: '2024-07-02 07:15'
-Modified: '2026-04-11 22:27'
+Modified: '2026-09-16 11:58'
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 6
 aliases:
   - Invisible hand
 Description: >-
   A concept by Adam Smith asserting that individual self-interest in a
   competitive market leads to overall prosperity and abundance, rather than
   altruism.
-new_schema: true
 Topic:
   - '[[Market Dynamics and Competition]]'
 Origin: '[[Adam Smith (philosopher)]]'
@@ -42,9 +41,15 @@ For example, the bread maker wants to sell more bread, so they are incentivized 
 
 ### Supporters
 
+This tracks with a broader pattern too - [Appealing to self-interest triggers stronger emotional investment](/notes/appealing-to-self-interest-triggers-stronger-emotional-investment.md) tends to work better than appeals to generosity, which is exactly why the mechanism holds even when people aren't especially altruistic.
+
 ### Opposers
 
 For example, if the bread maker can become a monopoly and eliminate their competition they could produce a low amount of bread in high prices that would benefit their pocket but not the general welfare.
+
+It's also not the only route to collective benefit - [cooperative](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md) arrangements can reach similar win-win outcomes without relying on competition or self-interest at all.
+
+There's a more corrosive cost too - leaning on self-interest as the default mechanism can [displace](/notes/one-activity-displaces-another-when-pursued-excessively.md) [kindness](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md) itself, replacing it with cold calculation even in places it wasn't needed.
 
 ### Open questions
 

@@ -1,13 +1,13 @@
 ---
 UUID: 20221016092539
 Created: '2022-10-16 09:25'
-Modified: '2026-04-11 22:27'
+Modified: '2026-09-16 16:47'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Some systems grow stronger through disorder.png]]'
 ImageText: Coal turning into a diamond
 Description: >-
@@ -16,7 +16,6 @@ Description: >-
 aliases:
   - Anti-Fragility
   - Robustness
-new_schema: true
 Topic:
   - '[[Systems thinking reveals mechanisms enabling effective change]]'
 Origin: '[[Antifragile (book)]]'
@@ -45,7 +44,7 @@ Through [hardships](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-m
 ### Why it matters
 
 Keynotes:
-1. the bigger you are, usually you're more fragile
+1. the bigger you are, usually you're more fragile [Bigger systems are more fragile](/notes/bigger-systems-are-more-fragile.md)
 2. anti-fragility is not only the key to stability, but also to sustained growth
 3. anti-fragility of the whole is usually built on the fragility of the parts [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
 

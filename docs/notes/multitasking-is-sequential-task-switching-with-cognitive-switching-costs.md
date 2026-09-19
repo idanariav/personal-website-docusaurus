@@ -1,23 +1,23 @@
 ---
 UUID: 20230628215041
 Created: '2023-06-28 21:50'
-Modified: '2026-04-11 22:24'
+Modified: '2026-09-14 13:59'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
 Image: null
-excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Multitasking doesnt exist
 Description: >-
   The concept that involves attempting to perform multiple tasks simultaneously,
   which is a myth, as true focus can only be maintained on one task at a time.
-new_schema: true
 Topic:
   - '[[Working Memory and Cognitive Limits]]'
 Origin: null
 URL: null
+Drawings:
+  - >-
+    [[Multitasking is sequential task switching with cognitive switching costs
+    (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -45,7 +45,11 @@ The key is [less is more](/notes/improvement-often-comes-from-removing-rather-th
 
 ### Supporters
 
+[Task batching](/notes/group-similar-tasks-to-reduce-switching-costs.md) takes this cost seriously enough to build a whole practice around avoiding it — group similar tasks together so you're not paying it over and over.
+
 ### Opposers
+
+[Deep work](/notes/focused-uninterrupted-work-produces-the-best-results.md) takes the opposite stance — that staying with one task, uninterrupted, is what actually produces the best results, not splitting attention across several.
 
 ### Open questions
 

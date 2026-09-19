@@ -1,20 +1,19 @@
 ---
 UUID: 20221005131630
 Created: '2022-10-05 13:16'
-Modified: '2026-04-11 22:29'
+Modified: '2026-09-17 14:10'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Regret
 Description: >-
   A complex emotion centered on the realization of missed opportunities, often
   leading to self-blame, which can be transformed into motivation for future
   improvement through acceptance and responsibility.
-new_schema: true
 Topic:
   - '[[Status Quo and Inertia]]'
 Origin: '[[Hidden Brain]]'
@@ -50,6 +49,8 @@ Regret is a powerful tool. It is a mix of creative skills, the ability to imagin
 ### Opposers
 
 ### Open questions
+
+Several backlinks into this note actually describe regretting the opposite — things we *did* do in the heat of the moment, not what we left undone. Is the asymmetry here really about time horizon (fresh regret skews toward action, hindsight regret skews toward inaction), or is "regret" just loose enough a word that both get pointed at the same note?
 
 ## Visual
 

@@ -1,8 +1,8 @@
 ---
 UUID: 20230602190125
 Created: '2023-06-02 19:01'
-Modified: '2026-04-11 22:27'
-Version: 3
+Modified: '2026-09-16 18:59'
+Version: 4
 tags: []
 aliases:
   - The hard problem of consciousness
@@ -13,7 +13,6 @@ excalidraw-open-md: true
 Description: >-
   The challenge of explaining subjective experiences and the nature of
   consciousness, distinguishing it from observable brain activity and reflexes.
-new_schema: true
 Topic:
   - '[[Nature and Limits of Knowledge]]'
 Origin: '[[David Chalmers]]'
@@ -40,9 +39,15 @@ This is linked to the qualia—knowing red and seeing red is different.
 
 ### Examples
 
+Mary's Room makes it concrete: a scientist who has mastered every physical fact about color vision, but has only ever seen black and white, seems to learn something new the moment she steps outside and sees red for the first time [Mary's Room](/notes/some-knowledge-requires-experience.md).
+
 ### Supporters
 
+Panpsychism is one attempt to dissolve this gap by making consciousness fundamental to nature instead of something that emerges from matter [Consciousness is a fundamental property of nature](/notes/consciousness-is-a-fundamental-property-of-nature.md). The same asymmetry shows up elsewhere too—some knowledge seems reachable only by having the experience, never by being told about it [Some knowledge requires direct experience to fully understand](/notes/some-knowledge-requires-direct-experience-to-fully-understand.md).
+
 ### Opposers
+
+Attempts to quantify subjective states—asking someone to rate their happiness from 1 to 10—quietly assume experience is comparable and measurable, sidestepping the exact gap this claim points at [Utility quantifies measurable benefits and guides rational decisions](/notes/utility-quantifies-measurable-benefits-and-guides-rational-decisions.md).
 
 ### Open questions
 

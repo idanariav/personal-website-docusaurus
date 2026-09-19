@@ -1,7 +1,7 @@
 ---
 UUID: 20240119063316
 Created: '2024-01-19 06:33'
-Modified: '2026-08-14 07:32'
+Modified: '2026-09-15 10:22'
 tags: []
 FullTitle: >-
   Talent is Overrated - What Really Separates World-Class Performers from
@@ -28,7 +28,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 9
 Pages: 244
 Reread: 0
 Rate: 3
@@ -92,7 +92,7 @@ The book gives a good intro to the concept of deliberate practice, perhaps I wou
 
 How do you reach peak performance? **Experience, i.e time invested training is not enough. It will get you to "okay", but not to extraordinary**. This leads us to believe that peak training is an issue of innate talent, which is simply wrong.
 
-The answer is [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md). Nowadays, it is more crucial than before to understand how to achieve greatness. Due to [Globalization intensifies competition and forces specialization](/notes/globalization-intensifies-competition-and-forces-specialization.md) and [Complexity](/notes/complexity.md), the average workers are either replaced by cheaper ones, or simply don't shine enough to succeed/being hired. **Today the scarce resource is not money but human capital**.
+The answer is [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md). Nowadays, it is more crucial than before to understand how to achieve greatness. Due to [Globalization intensifies competition and forces specialization](/notes/globalization-intensifies-competition-and-forces-specialization.md) and [Complexity makes ideas harder to understand and implement](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md), the average workers are either replaced by cheaper ones, or simply don't shine enough to succeed/being hired. **Today the scarce resource is not money but human capital**.
 
 **The rise of talented people in the modern era is a result of a change in how we train, not our genetics**.
 
@@ -109,7 +109,7 @@ The answer is [Deliberate Practice is the best way to develop skills](/notes/del
 
 ### Talent is Overrated
 
-**Natural [Competence is developed through practice not innate talent](/notes/competence-is-developed-through-practice-not-innate-talent.md) doesn't exist**. Top performance has to include many hours spent training. Innate talent might give you a head start, but you will be left behind if you don't combine it with rigorous training.
+**Natural [Competence is developed through practice not innate talent](/notes/competence-is-developed-through-practice-not-innate-talent.md) doesn't exist**. Top performance has to include many hours spent training [Practice beats talent](/notes/practice-beats-talent.md). Innate talent might give you a head start, but you will be left behind if you don't combine it with rigorous training.
 
 Talent is more like a myth we use to explain things we don't understand how they came about. But research shows that talent, at least in young age, has no correlation with peak performance later in life, and even in the best case, it serves as a "self fulfilling prophecy" for the parents that decide to dedicate time and money in developing the kids potential, which brings the actual improvements in skills. [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md) [Expectations of others become self-fulfilling through behavior shaping](/notes/expectations-of-others-become-self-fulfilling-through-behavior-shaping.md)
 
@@ -155,7 +155,7 @@ Those who get better are those who are willing to face the challenges of getting
 The components of deliberate practice:
 1. **Mentor** - having an expert as an external viewer to see things that you can't see [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md)
 2. **Chunking** - the goal of the training would be to improve at a specific part of the overall skill until it has reached a sufficient level of mastery [Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.md)
-3. **Challenging** - the practice should always be hard enough to help us grow. We can imagine this as stepping out of the innermost circle, aka the "comfort zone", into the middle circle, aka the "learning zone", but not too far into the outermost layer, aka the "panic zone", where it is too difficult to operate [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md)
+3. **Challenging** - the practice should always be hard enough to help us grow. We can imagine this as stepping out of the innermost circle, aka the "comfort zone", into the middle circle, aka the "learning zone", but not too far into the outermost layer, aka the "panic zone", where it is too difficult to operate [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) [Learning should be hard](/notes/learning-should-be-hard.md)
 4. **Adaptive** - we shouldn't just do what we have done in the past. The practice should evolve with time, both to take advantage of new knowledge that has been gathered in the field, and to keep the practice useful [Our beliefs must adapt as context and goals change](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md)
 5. **Feedback** - feedback on our performance should be constant, clear and immediate. without feedback we won't improve and lack motivation [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md)
 6. **Repetition** - practice is a process, and results take time [gradual process](/notes/gradual-process.md)

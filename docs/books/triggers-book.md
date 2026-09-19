@@ -1,7 +1,7 @@
 ---
 UUID: 20240415191120
 Created: '2024-04-15 19:11'
-Modified: '2026-08-10 11:53'
+Modified: '2026-09-19 08:25'
 tags: []
 FullTitle: Triggers - Creating Behavior That Lasts--Becoming the Person You Want to Be
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 4
 Pages: 274
 Reread: 0
 Rate: 2
@@ -220,7 +220,7 @@ The advantages of daily questions:
 
 1. Create [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) 
 2. A form of [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md)
-3. Increase [self discipline](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) 
+3. Increase [self discipline](/notes/discipline-acts-regardless-of-mood-or-preference.md) 
 4. Makes us focus on the process, not the goal [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
 
 #### Planner, Doer and Coach

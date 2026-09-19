@@ -1,7 +1,7 @@
 ---
 UUID: 20250525191158
 Created: '2025-05-25 19:11'
-Modified: '2026-04-13 06:15'
+Modified: '2026-09-18 12:14'
 tags: []
 Author:
   - '[[George Leonard]]'
@@ -11,7 +11,7 @@ ReadingStatus: Done
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 193
 Rate: 2
 PublishDate: 1991-02-01T00:00:00.000Z
@@ -65,6 +65,16 @@ We would not quit while experiencing a plateau because we know it is part of the
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Dabbler, Obsessive, and Hacker** – **Archetypal learner models.** Defines three specific personality types (those easily distracted by novelty, those obsessed with short-term results, and those afraid to leave their comfort zone) as the primary obstacles to maintaining the path of mastery. Supports: The claim that there are specific psychological barriers one must overcome to achieve mastery.
+2. **The "Plateau" Concept** – **Metaphor.** Describes the inevitable, long-term state of existence between milestones as a "plateau" where progress seems stagnant, contrasting this with the misconception that mastery is linear. Supports: The idea that progress follows non-linear trajectories and mastery requires enduring patience.
+3. **Homeostasis of Behavior** – **Scientific analogy.** Compares biological temperature regulation to behavioral resistance, noting that human habits resist change to maintain the status quo when trying to start something new. Supports: The argument that maintaining consistency is difficult because our natural systems default to previous behaviors.
+4. **"The Eternal Now"** – **Philosophical perspective/Thought experiment.** Recommends treating practice as an immersive, present-moment experience where one finds value in the act itself, rather than in external products or future achievements. Supports: The argument that one must "love the plateau" to sustain long-term commitment.
+5. **Mentorship as a Critical Feedback Loop** – **Conceptual evidence.** Identifies a mentor as the most essential tool for learning because they provide accurate, detailed feedback that a student cannot provide themselves. Supports: The claim that instruction is the first master key and essential for avoiding wasted effort.
+6. **Mindful Repetition** – **Behavioral concept.** Describes satisfying mastery as the ability to find endless richness in subtle, repeated variations of familiar tasks. Supports: The idea that surrender to the process and avoiding expert bias are necessary to yield deep growth.
+7. **Visual Mental Models** – **Cognitive scientific concept.** Indicates that storing knowledge as visual mental models prepares the physical body for upcoming activity and improves performance. Supports: The argument that intentionality is a critical master key.
+8. **"Awake" Chore Performance** – **Case study/Practical application.** Suggests treating mundane tasks like washing dishes as art, requiring "awake" and intentional focus rather than viewing them as "in-between" time. Supports: The concept of "Mastering the Commonplace."
+9. **Energy as Momentum** – **Conceptual Framework.** Argues that energy for mastery is not a fixed quantity but something generated through momentum: the act of doing makes it easier to continue doing. Supports: The claim that consistent behavior is self-fueling.
+10. **Reframing Negative Emotions** – **Mental Strategy.** Proposes converting frustration and negative feelings arising from challenges into fuel for the journey. Supports: The claim that one can actively manage their energy levels to remain committed to the path.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -174,7 +184,7 @@ Don't stay in your comfort zone, push beyond your limits.
 
 #### Why Resolutions Fail and what to Do about I
 
-[Homeostasis](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md) is not just for our temperature, it's for our behavior as well. As we try something new, it will resist back, trying to maintain the status quo. It will be a step forward step backward kind of thing when we try to get back up on the path to mastery. But, with time our "benchmark" will change to this new way of living, making the master's path the default.
+[Homeostasis](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md) is not just for our temperature, it's for our behavior as well. As we try something new, it will resist back, trying to maintain the status quo. It will be a step forward step backward kind of thing when we try to get back up on the path to mastery. But, with time our "benchmark" will change to this new way of living, making the master's path the default.
 
 #### Getting Energy for Mastery
 

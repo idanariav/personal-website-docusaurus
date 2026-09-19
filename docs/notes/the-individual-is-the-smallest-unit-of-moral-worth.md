@@ -1,20 +1,19 @@
 ---
 UUID: 20250304193927
 Created: '2025-03-04 19:39'
-Modified: '2026-04-11 22:28'
+Modified: '2026-09-16 19:57'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Individualism
 Description: >-
   A philosophical stance emphasizing the individual as the fundamental unit of
   moral worth and thought, often contrasting with communal perspectives and
   advocating for personal independence and self-interest.
-new_schema: true
 Topic:
   - '[[Rights, Justice and Equality]]'
 Origin: null
@@ -46,6 +45,8 @@ Individualism somewhat rejects the notion of [Identity is shaped by and shapes o
 It separates us both technically and psychologically from others [Unity is the felt sense of connection with others and the world](/notes/unity-is-the-felt-sense-of-connection-with-others-and-the-world.md)
 
 Individualism doesn't support [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md), or at least only partially overlaps because by giving others we leave less for ourselves, and since our wellbeing is measured by how much utility we provide us and not others, then by giving we reduce our potential of overall wellbeing.
+
+[our social nature](/notes/human-is-a-social-being.md) tells a different story — we're not really separable from each other to begin with, so treating the individual as the basic unit already assumes something that isn't quite true.
 
 ### Open questions
 

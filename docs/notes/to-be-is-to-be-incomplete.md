@@ -1,19 +1,18 @@
 ---
 UUID: 20240709080217
 Created: '2024-07-09 08:02'
-Modified: '2026-04-11 22:28'
+Modified: '2026-09-17 11:06'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases: []
 Description: >-
   A philosophical concept emphasizing that individuals are perpetually evolving
   and never fully complete, highlighting the importance of embracing the journey
   and accepting inherent limitations.
-new_schema: true
 Topic:
   - '[[Growth Through Adversity]]'
 Origin: null
@@ -38,13 +37,15 @@ Hoping to be complete is as useless as trying to stop a river—by stopping it w
 
 ### Why it matters
 
-Therefore we should [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md), knowing that it's the journey, not the destination that matters. But most of all it requires [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) of our limitations, of who we are, and that we are beings limited by time and mental capacity, that live in an ever-changing environment.
+Therefore we should [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md), knowing that it's the journey, not the destination that matters [Freedom is a perpetual struggle between failure and transcendence](/notes/freedom-is-a-perpetual-struggle-between-failure-and-transcendence.md). But most of all it requires [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) of our limitations, of who we are, and that we are beings limited by time and mental capacity, that live in an ever-changing environment.
 
 ### Examples
 
 ### Supporters
 
 ### Opposers
+
+Some would say we're not moving at all—[fixed mindset](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md) treats our capabilities as set from birth, with nothing left to become.
 
 ### Open questions
 

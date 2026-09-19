@@ -1,13 +1,13 @@
 ---
 UUID: 20240106080055
 Created: '2024-01-06 08:00'
-Modified: '2026-04-11 22:24'
+Modified: '2026-09-09 18:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Love your fate as if you chose it.png]]'
 ImageText: A person happily pushing a boulder up a hill
 Description: >-
@@ -16,7 +16,6 @@ Description: >-
   discomfort as essential to existence.
 aliases:
   - Amor Fati
-new_schema: true
 Topic:
   - '[[Acceptance and Effortless Action]]'
 Origin: '[[Friedrich Nietzsche (philosopher)]]'
@@ -47,7 +46,11 @@ It is to embrace discomfort and transform it into a necessary component of exist
 
 ### Supporters
 
+[Life is pain](/notes/life-is-pain.md) is why this stance is even needed — if pain is unavoidable, the only real choice you have is whether to resent it or embrace it. [Struggle is an inevitable and necessary part of any meaningful growth or achievement](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) makes the same case from the growth side: the hardship you'd rather skip is often the same hardship doing the work.
+
 ### Opposers
+
+[Denial is choosing a false view to avoid painful truths](/notes/denial-is-choosing-a-false-view-to-avoid-painful-truths.md), reaching for a comfortable lie instead of accepting the fate you were actually given.
 
 ### Open questions
 

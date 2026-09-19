@@ -1,7 +1,7 @@
 ---
 UUID: 20251106105649
 Created: '2025-11-06 10:56'
-Modified: '2026-04-16 09:34'
+Modified: '2026-09-19 07:27'
 tags: []
 FullTitle: Rebel Ideas - The Power of Diverse Thinking
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 277
 Reread: 0
 Rate: 5
@@ -78,8 +78,17 @@ You will realize the importance of diversity, from the personal level, to the or
 
 🧩 *relevant research, metaphors or examples that helps to convey the argument*
 1. **incremental vs combinatory innovation** - incremental improvements are slow, small improvements from within, a slightly better version of the same thing. A combinatory improvement is when knowledge from different fields are merged together to a completely new solution, that's way ahead of current solutions.
-2. **perspective blindness** - we don't see our own blindspots
-3. **horizontal vs vertical networks** - horizontal is when information moves across similar people within different contexts (imagine a hackathon), while vertical is when information moves between different people within the same organization.
+2. **horizontal vs vertical networks** - horizontal is when information moves across similar people within different contexts (imagine a hackathon), while vertical is when information moves between different people within the same organization.
+3. **The CIA and 9/11** – Case study: The agency’s demographic homogeneity ("white, male, and western") caused them to misinterpret the threat of Al Qaeda as "primitive" rather than revolutionary. Supports: Homogenous groups suffer from shared blindspots which prevent them from understanding complex, multi-dimensional problems.
+4. **The "Average" Cockpit** – Historical example: Military flight cockpits designed based on "average" physical measurements fit no individual pilot correctly, leading to operational failures. Supports: Standardization and "one size fits all" policies fail because the "average" person is a statistical construct that does not exist in reality.
+5. **Inverting Taxi Assumptions** – Thought experiment: Taking the foundational belief of an industry ("a taxi service owns cars") and flipping it to create something new ("a carless taxi service"). Supports: Innovation is often achieved by "outsiders" who critically challenge and reverse established industry assumptions.
+6. **The Enigma Code Team** – Case study: The successful decryption effort required a specific blend of diverse expertise, such as psychologists and mathematicians. Supports: Diversity is only effective when it is relevant; collaboration is most synergistic when perspectives are germane to the problem at hand.
+7. **Leader Speaks Last** – Tactical device: A decision-making protocol where the highest-ranking individual reserves their opinion until the end. Supports: Mitigating the "silencing effect" of hierarchy to ensure diverse, true opinions are aired rather than suppressed.
+8. **Blind Testing** – Scientific method: Evaluating candidates or ideas behind a screen to remove identifying factors. Supports: Reducing unconscious bias allows for the selection of superior candidates and prevents the error of relying on similarity-based choices.
+9. **Shadow Boards** – Business practice: Organizations establishing a formal, consultative board of prominent, younger workers to advise leadership. Supports: Bridging gaps in collective intelligence by ensuring leaders remain connected to the perspectives of different generations.
+10. **Luggage on Wheels** – Product anecdote: A highly useful innovation that met initial cultural resistance because it was unfamiliar to the public. Supports: Innovation is not solely about creativity; it requires social adoption and must overcome the human preference for the familiar.
+11. **Neurons and the Brain** – Metaphor: Comparing individual humans to neurons within a larger, interconnected system. Supports: Collective intelligence is an emergent property of social interaction and shared ideas, rather than individual "hardware."
+12. **The Puzzle Perspective** – Metaphor: Viewing cultural and cognitive diversity as different pieces of a single puzzle. Supports: Seeing the "full picture" of reality is impossible from an individual vantage point; it requires the aggregation of different frames of reference.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -98,11 +107,11 @@ I was completely surprised by this book. I wasn't expecting anything special, an
 
 ### Collective Blindness
 
-The modern world is filled with [complex](/notes/complexity.md) [Problems](/notes/problems.md), ones that are too much to handle for any individual. The only way to solve them is through shared, collective work. Intelligence that matters is an [emergent](/notes/system-properties-arise-from-component-interactions-not-individual-parts.md) property, it can only be understood when we [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md) and look how humans interact and specifically share ideas, not just how one person operates.
+The modern world is filled with [complex](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md) [Problems](/notes/problems.md), ones that are too much to handle for any individual. The only way to solve them is through shared, collective work. Intelligence that matters is an [emergent](/notes/system-properties-arise-from-component-interactions-not-individual-parts.md) property, it can only be understood when we [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md) and look how humans interact and specifically share ideas, not just how one person operates.
 
 The future is a future of teams [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md).
 
-Complex problems require creative solutions, which are built on diversity. We need people who think differently, having more of the same (homogeneity) isn't helpful. Same people who have the same viewpoint will also have the same blindspots [Group Thinking](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md).
+Complex problems require creative solutions, which are built on diversity. We need people who think differently, having more of the same (homogeneity) isn't helpful. Same people who have the same viewpoint will also have the same blindspots [Group Thinking](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md).
 
 Moreover, we are not even aware of our own [blindspots](/notes/blindspots.md), so we don't know what we're missing until someone points it out to us [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md). This is called *perspective blindness*.
 

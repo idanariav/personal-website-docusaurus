@@ -1,7 +1,7 @@
 ---
 UUID: 20241230164412
 Created: '2024-12-30 16:44'
-Modified: '2026-08-11 08:55'
+Modified: '2026-09-11 06:05'
 tags: []
 Author:
   - '[[Jamil Zaki]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 9
 Pages: 252
 Rate: 3
 PublishDate: 2024-09-03T00:00:00.000Z
@@ -204,7 +204,7 @@ To build a society of trust:
 
 #### Hell Isn't other People
 
-Our desire to filter our free riders and cheaters from our society is a strong and deep defense mechanism meant to enable a society where cooperation is possible with people taking advantage of it (which would lead to the collapse of the cooperation and society as a whole).
+Our desire to filter our [free riders and cheaters](/notes/morality-is-a-free-rider-problem.md) from our society is a strong and deep defense mechanism meant to enable a society where cooperation is possible with people taking advantage of it (which would lead to the collapse of the cooperation and society as a whole).
 
 We do it through gossiping and tuning to news about immoral behavior. Nowadays, the media companies have used this tendency to generate views, presenting bad news as much more frequently than they truly are, causing an [Availability bias inflates perceived likelihood of easily recalled events](/notes/availability-bias-inflates-perceived-likelihood-of-easily-recalled-events.md) which makes us thing that people are worse than they actually are.
 
@@ -219,7 +219,7 @@ We are hungry for positive news. We just need to tune ourselves to them. Instead
 
 #### Escaping the Cynicism Trap
 
-When we see people as free riders, it's not surprising that they start to act that way. [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) have a [Self fulfilling prophecy](/notes/being-emerges-from-action-not-belief.md) kind of effect on people. They react and adjust to our expectations. Therefore, it's not that people try to abuse the system, but more often a form of [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) towards an abusive system.
+When we see people as free riders, it's not surprising that they start to act that way. [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) have a [Self fulfilling prophecy](/notes/expectations-of-others-become-self-fulfilling-through-behavior-shaping.md) kind of effect on people. They react and adjust to our expectations. Therefore, it's not that people try to abuse the system, but more often a form of [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) towards an abusive system.
 
 However, this effect works both ways. If we treat others with kindness, they are more likely to reciprocate kindness back to us [Treat others the way you want to be treated](/notes/treat-others-the-way-you-want-to-be-treated.md). We can enter a [positive feedback loop](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md), where an act of trust breeds more trust. It doesn't mean to ignore cares of cheating, but to be aware that our behavior and expectations shape how others behave as well [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md).
 

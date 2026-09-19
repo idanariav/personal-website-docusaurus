@@ -1,14 +1,9 @@
 ---
 UUID: 20220729135355
 Created: '2022-07-29 13:53'
-Modified: '2026-06-20 20:15'
+Modified: '2026-09-09 15:59'
 tags: []
-sketch-editor-plugin: parsed
-Version: 4
-Image: >-
-  [[Knowledge organization requires choosing structural and navigational
-  approaches.png]]
-ImageText: Different methods of connecting dots to one another
+Version: 5
 Description: >-
   Various organizational strategies for managing information, including random
   mess, daily notes, atomic notes, topic-focused pages, and action/context-based
@@ -20,7 +15,10 @@ URL: 'https://www.youtube.com/watch?v=AtdAAD47aQY'
 aliases:
   - Methods of knowledge management
   - how to organize notes
-new_schema: true
+Drawings:
+  - >-
+    [[Knowledge organization requires choosing structural and navigational
+    approaches (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -37,7 +35,7 @@ There are different methods to organize and manage knowledge, each with its own 
 
 1. **Random mess** - no order or structure, no system of connection. for example - a heap of post-it notes, emails, pages in a notebook, etc... you hope that by search you can find what you need
 2. **Daily notes first** - everything is recording in the daily note. for example - what i read/heard/learned that day, could include some branching out.
-3. **Content first** (atomic notes) - a new page for each new topic/idea/content. the key way of navigating in your vault is through the connection between the dots.
+3. **Content first** [atomic notes](/notes/understanding-requires-breaking-things-to-their-smallest-parts.md) - a new page for each new topic/idea/content. the key way of navigating in your vault is through the connection between the dots.
 4. **Topic first** - a separate page/MOC/Log for projects in your self, such as a project page, research topics, areas, hobbies... [Zettelkasten 2bc](/notes/zettelkasten-2bc.md) is an example for such a system.
 5. **Action/Context first** - the structure is based on the [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md), i.e the primary use of each type of note. an example is the [P.A.R.A](null) method, which divides content into projects, actions, resources or archives.
 
@@ -55,6 +53,4 @@ Whichever structure we choose, it must "make sense", i.e that it will be easy fo
 
 ## Visual
 
-![Knowledge organization requires choosing structural and navigational approaches](/notes/knowledge-organization-requires-choosing-structural-and-navigational-approaches.webp)
-
-# Sketch Editor Data
+![Knowledge organization requires choosing structural and navigational approaches (sketch)](/sketches/knowledge-organization-requires-choosing-structural-and-navigational-approaches-sketch.webp)

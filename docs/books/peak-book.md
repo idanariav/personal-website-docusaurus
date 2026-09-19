@@ -1,7 +1,7 @@
 ---
 UUID: 20230121063333
 Created: '2023-01-21 06:33'
-Modified: '2026-04-13 06:16'
+Modified: '2026-09-09 16:14'
 tags: []
 FullTitle: >-
   Peak - Unleashing Your Inner Champion Through Revolutionary Methods for Skill
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 336
 Reread: 0
 Rate: 2
@@ -54,15 +54,25 @@ Don't try harder, try smarter. Look for the experts, be an active learner, and
 search for feedback.  By understanding the importance of mental representations, feedback, engagement, and having a personal coach, you can achieve mastery
 ### Relate
 
-⛓ *Life lessons, action items*
-
-### Critique
-
-✅ *by following this method, what will happen?*
+⛓ *by following this method, what will happen?*
 Mental representations as the basis of learning is an interesting idea that
 is worth considering when thinking about how to learn a new subject.
 It is nice being reassured that innate talent is not as important and might be even
 harmful to your progress, and it is better to focus on a solid method of learning.
+
+### Critique
+
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Perfect pitch development** – Scientific evidence. Training induces the brain to create specific skills—such as perfect pitch—that did not exist prior to training. Supports: The argument that innate ability is not predefined.
+2. **Chess layout mental representations** – Analogy. Experts categorize complex board layouts and potential moves into organized structures, which reduces cognitive load. Supports: The claim that superior expert performance is driven by the quality and structure of mental representations.
+3. **Chess Study on IQ and practice** – Research study. Individuals with higher IQs may have a learning edge initially, but this advantage shrinks over time as the volume and quality of practice become the primary determinants of skill. Supports: The argument that practice effectively overrides initial innate advantages.
+4. **The reality of Savant abilities** – Case analysis. Savants do not possess miraculous innate gifts; they acquire their specialized abilities through the same rigorous work as any other expert. Supports: The claim that extraordinary, seemingly "natural" talent is actually the result of persistent practice.
+5. **Simulations as learning environments** – Strategic model. Creating environments where one can test skills, receive feedback, and fail with "low cost" allows for the repetitive correction necessary for improvement. Supports: The idea that effective training should prioritize doing over knowing.
+6. **The "Three Fs" (Focus, Feedback, Fix-it)** – Framework. A methodology for self-directed improvement by breaking skills down, analyzing performance, and iterating on weaknesses. Supports: The procedural argument for how to maintain deliberate practice without a coach.
+7. **Naive vs. Deliberate practice definitions** – Categorical classification. "Naive" practice (a "just do it" mindset) hits a performance ceiling, while "purposeful" practice requires active awareness and method adjustment. Supports: The explanation for why experience alone does not always lead to improvement.
+8. **Neuroplasticity in adulthood** – Scientific finding. The human brain remains adaptable throughout adulthood, with the capacity to form new neuronal connections and strengthen existing ones through the right training triggers. Supports: The claim that peak achievement and new capabilities are accessible to adults.
+9. **The "Natural Talent" self-fulfilling prophecy** – Observation. The belief in innate talent causes society to invest in "talented" individuals while discouraging others, effectively manufacturing the differences in long-term achievement. Supports: The critique that believing in innate talent is detrimental to personal development.
+10. **Motivation management strategies** – Behavioral strategy. Sustaining improvement requires a systematic approach to motivation, including limiting practice sessions to one hour and establishing clear arguments for why one must keep going. Supports: The claim that keeping up effort is a manageable process rather than a character trait.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 This is a lesser form of [Ultralearning (book)](/books/ultralearning-book.md), most of the ideas
@@ -114,7 +124,7 @@ There are two types of practices, the first is the naïve type, a "*just do it*"
 
 ### Chapter 2 - brain adaptability  
   
-The body and mind are always adapting to the challenges they're facing. **Change can only come when's it's beyond your current capabilities**, but not by too much.  [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) 
+The body and mind are always adapting to the challenges they're facing. **Change can only come when's it's beyond your current capabilities**, but not by too much.  [Challenge](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) [Learning should be hard](/notes/learning-should-be-hard.md)
   
 :::note[Harnessing Adaptability]
 

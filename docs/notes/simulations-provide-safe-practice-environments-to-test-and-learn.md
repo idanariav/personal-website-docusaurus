@@ -1,20 +1,19 @@
 ---
 UUID: 20230830152101
 Created: '2023-08-30 15:21'
-Modified: '2026-04-11 22:27'
+Modified: '2026-09-16 15:35'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Simulations
 Description: >-
   Environments designed to replicate real-life scenarios for safe
   experimentation and experiential learning, allowing users to gain knowledge
   and skills without the risks associated with actual situations.
-new_schema: true
 Topic:
   - '[[Learning Through Experience]]'
 Origin: null
@@ -51,6 +50,8 @@ For example a pilot who learns to fly through a simulation instead of flying a r
 Simulations are often used in [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md), for example Olympic swimmers who not only practice in pools of the same size as an Olympic pool, but also test different problems that can arise, like what if your goggles fall down.
 
 ### Opposers
+
+However good the simulation, it's still one step removed from the real thing - and [Direct practice transfers skills better than indirect study](/notes/direct-practice-transfers-skills-better-than-indirect-study.md) holds that skills transfer best when practiced under the exact conditions they'll be used in, not a stand-in for them.
 
 ### Open questions
 

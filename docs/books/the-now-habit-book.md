@@ -1,7 +1,7 @@
 ---
 UUID: 20250221172532
 Created: '2025-02-21 17:25'
-Modified: '2026-09-02 15:41'
+Modified: '2026-09-19 08:31'
 tags: []
 FullTitle: >-
   The Now Habit - A Strategic Program for Overcoming Procrastination and
@@ -28,7 +28,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 9
+Version: 11
 Pages: 226
 Reread: 0
 Rate: 3
@@ -96,7 +96,7 @@ The book starts strong, giving a fresh view to why we procrastinate, yet the fol
 
 ### Introduction
 
-We want to refresh how we view procrastination, there's a negativity to it, as if those who procrastinate are lazy. That life is hard work and no fun, which is why to succeed you need [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) and [Self discipline](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md).
+We want to refresh how we view procrastination, there's a negativity to it, as if those who procrastinate are lazy. That life is hard work and no fun, which is why to succeed you need [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) and [Self discipline](/notes/discipline-acts-regardless-of-mood-or-preference.md).
 
 However, the author claims that procrastination is something else. We procrastinate not because we are lazy, but because we [need](/notes/coping-trades-short-term-relief-for-long-term-cost.md) to, because it makes sense to us.
 Common reasons could be:
@@ -134,7 +134,7 @@ six warnings sign that we procrastinate
 5. **indecisiveness** - afraid of taking responsibility, being a perfectionist, thinking you're above mistakes or endless worry about them
 6. **low self esteem** - blame others for your faults, fear of criticism
 
-Procrastination is essentially a form of [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) from [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md). We try to forget, even for a brief time, that we have a tendency for [Merging actions with identity blocks growth](/notes/merging-actions-with-identity-blocks-growth.md), to associate our identity with our work, with what we do. We set unreasonable [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) from ourselves, which only leads to [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md) and self hate when we fail these impossible standards. We fear our own [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) and others, so we try to avoid it.
+Procrastination is essentially a form of [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) from [Under stress we default to habits](/notes/under-stress-we-default-to-habits.md). We try to forget, even for a brief time, that we have a tendency for [Merging actions with identity blocks growth](/notes/merging-actions-with-identity-blocks-growth.md), to associate our identity with our work, with what we do. We set unreasonable [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) from ourselves, which only leads to [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md) and self hate when we fail these impossible standards. We fear our own [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) and others, so we try to avoid it.
 
 All the "just do it" advices turn you into the problem, instead of looking at procrastination as a symptom of a more serious problem [Treating symptoms and not root causes misses the point](/notes/treating-symptoms-and-not-root-causes-misses-the-point.md). If we believe that what we do is who we are, and criticism on our work is the same as criticism on our identity [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md), then no wonders we turn to procrastination, [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md) and self criticism. It's a [Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) that feeds itself. We feel bad when we procrastinate, so we get more self criticism, which increases the urge to procrastinate.
 
@@ -178,7 +178,7 @@ The difference between successful people and the rest is not that they don't fai
 
 #### How to Talk to Yourself
 
-When we use authoritative language towards ourselves, like "I have to do it", or "just do it you lazy bum", we create an [intrapersonal conflict](/notes/a-person-is-a-community.md) and promote [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md). We are both the one who commands and the one who resists, therefore our energy is similarly split into two, into resisting and cooperating, instead of channeling it all into one place [Multitasking is sequential task switching with cognitive switching costs](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md).
+When we use authoritative language towards ourselves, like "I have to do it", or "just do it you lazy bum", we create an [intrapersonal conflict](/notes/neglecting-intrapersonal-conflict-harms-wellbeing.md) and promote [Helplessness is perceiving no control over circumstances and outcomes](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md). We are both the one who commands and the one who resists, therefore our energy is similarly split into two, into resisting and cooperating, instead of channeling it all into one place [Multitasking is sequential task switching with cognitive switching costs](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md).
 
 To align our two sides requires using [Empowering language builds confidence and agency](/notes/empowering-language-builds-confidence-and-agency.md), to [reframe](/notes/how-we-describe-something-shapes-how-it-is-perceived.md) it as something we choose, to focus on our [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md), like "I choose to work on..." Focusing on how, when and why you will do this.
 

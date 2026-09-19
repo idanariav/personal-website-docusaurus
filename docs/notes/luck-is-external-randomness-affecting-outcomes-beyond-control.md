@@ -1,12 +1,9 @@
 ---
 UUID: 20231230072933
 Created: '2023-12-30 07:29'
-Modified: '2026-06-30 08:26'
+Modified: '2026-09-10 14:33'
 tags: []
-sketch-editor-plugin: parsed
-Version: 4
-Image: '[[Luck is external randomness affecting outcomes beyond control.png]]'
-ImageText: 'A single d20 with 1, vs a few d20 rolls which one scored 20'
+Version: 5
 Description: >-
   A multifaceted concept encompassing various types, including blind luck, which
   is beyond control, and other forms that can be influenced by personal actions
@@ -18,7 +15,8 @@ Origin: '[[The Curiosity Chronicle by Sahil Bloom]]'
 URL: null
 aliases:
   - Luck
-new_schema: true
+Drawings:
+  - '[[Luck is external randomness affecting outcomes beyond control (sketch)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -54,8 +52,10 @@ Luck can also have a moral importance. For example the difference of killing and
 
 ### Opposers
 
+[Randomness may be an illusion created by incomplete knowledge](/notes/randomness-may-be-an-illusion-created-by-incomplete-knowledge.md) — if what looks random is really just a gap in what we know, then Blind Luck isn't as "truly random" as it feels. It might just be information we don't have yet, which reframes luck as a knowledge problem rather than a fact about the universe.
+
 ### Open Questions
 
 ## Visual
 
-![Luck is external randomness affecting outcomes beyond control](/notes/luck-is-external-randomness-affecting-outcomes-beyond-control.webp)
+![Luck is external randomness affecting outcomes beyond control (sketch)](/sketches/luck-is-external-randomness-affecting-outcomes-beyond-control-sketch.webp)

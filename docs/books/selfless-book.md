@@ -1,7 +1,7 @@
 ---
 UUID: 20240702060545
 Created: '2024-07-02 06:05'
-Modified: '2026-04-16 10:01'
+Modified: '2026-09-11 06:04'
 tags: []
 FullTitle: Selfless - The social Creation of "You"
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 1.01
+Version: '1.02'
 Pages: 272
 Reread: 0
 Rate: 5
@@ -60,6 +60,16 @@ SiteProcssed: true
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Writer and Audience Metaphor** – Analogy. A writer edits their manuscript based on an imagined future reader, just as an audience is shaped by the words of a distant past writer. Supports: _The claim that identity persists across time and is shaped by relationships with others, living or dead._
+2. **The "Hall of Mirrors" Metaphor** – Metaphor. The self is depicted as existing in a hall reflecting and refracting in the multitude of people surrounding us. Supports: _The argument that the self cannot exist in a vacuum and is constructed entirely through reflection in social interactions._
+3. **Traffic Rules Example** – Case study/Thought experiment. If traffic rules suddenly ceased to be obeyed by others, an individual's driving behavior would instantly change, even if their personal "values" remained the same. Supports: _The claim that the self is an external, context-dependent social construction, not an internal fixed essence._
+4. **The "Rebel" Paradox** – Anecdote/Observation. A person who defines themselves solely by opposing what others tell them is still inherently constrained by those others. Supports: _The argument that independence is often just a negative reaction to external influence, rather than true individual autonomy._
+5. **The Medieval vs. Modern Self** – Historical example. Contrast between the medieval, role-based identity (e.g., King, Farmer) and the modern myth of the entirely self-made individual. Supports: _The claim that the definition of "self" is not a static truth to be discovered, but a changing construct tied to economic and cultural history._
+6. **Objects as Self-Extension** – Observation. People extending their sense of self to include intimate, inanimate objects like journals. Supports: _The claim that our identity is not merely contained within our physical bodies but encompasses our environment and possessions._
+7. **The "Fine-Tuning" of Relationships** – Metaphor. Comparing relationships to "smoothing a stone," where participants adapt behaviors and beliefs to match one another. Supports: _The claim that social interaction involves a mutual, subconscious negotiation that shapes who we become._
+8. **Same-Sex Marriage Resistance** – Case study. Arguments against same-sex marriage often arise because opponents feel their own identity—the institutional definition of marriage—is being altered. Supports: _The claim that personal identity is political because identities belong to communities, and challenging an identity feels like a personal attack on the group._
+9. **Algorithm-Driven Memory** – Scientific/Sociological observation. We rewrite our memories every time we access them, and modern algorithms curate our past feeds, effectively shaping our future possibilities. Supports: _The claim that our continuity of self is a constructed illusion vulnerable to external manipulation._
+10. **The "Legacy" Urge** – Observation. The human drive to leave something behind that outlasts our physical body. Supports: _The argument that our desire for meaning is actually a desire to extend our social self across time and death._
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -129,7 +139,7 @@ Our sense of self is affected by our:
 
 We see life through subjective lenses. Truth is based on the watcher [Truth depends on context and the observer's perspective](/notes/truth-depends-on-context-and-the-observers-perspective.md).
 
-We are [Humans compulsively seek patterns and meaning even in chaos](/notes/humans-compulsively-seek-patterns-and-meaning-even-in-chaos.md), we need structure to not be overwhelmed by the world and to interact with people without exhausting ourselves. Since [We can't read minds](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md), we have to use some [Mental shortcuts enable faster learning through analogies and simplification](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md), such as:
+We are [Humans compulsively seek patterns and meaning even in chaos](/notes/humans-compulsively-seek-patterns-and-meaning-even-in-chaos.md), we need structure to not be overwhelmed by the world and to interact with people without exhausting ourselves. Since [We can't read minds](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md), we have to use some [Heuristics are mental shortcuts enabling fast automatic decisions](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.md), such as:
 1. **Stereotypes** - we use [Stereotypes apply mental shortcuts by inferring group traits onto individuals](/notes/stereotypes-apply-mental-shortcuts-by-inferring-group-traits-onto-individuals.md) to group together people based on external or easy-to-measure attributes so that it would be easy to categorize and assume their behavior
 2. **Similarly** - for simplicity, we assume that others think the way we do unless we receive a strong message to the contrary
 3. **Stories** - we tell ourselves stories that provide explanations for what happened to make sense of it or follow the common belief about a topic
@@ -255,7 +265,7 @@ Just as the membership of a social group is dependent on others, so does it's at
 
 Social identities can change over time, and be fluid enough to encompass several sub communities within them, as long as there's little friction between the groups, and the changes are small and gradual. When a person wishes to redefine a social identity, this can cause [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) by the other members who now feel that their identity, their self is under attack. For example, if an artist now wishes to claim that only finger painting is true art and the rest is garbage, all those who paint differently now feel that their identity as an artist is under attack. A sub community might form, or the aggressor would be excluded [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md). The intent doesn't have to be confrontational. For example, arguments for same sex marriage might encounter resistance because in the others eyes that counts as changing the nature of the institution of marriage, changing what it means for heteronormative couples as well, despite the fact that same sex couples have no Ill intent.
 
-This is why personal identity is also a political matter, because the self is a social construct, made of social identities, which are a matter of public and political discourse. [Me vs them](/notes/morality-is-a-free-rider-problem.md)
+This is why personal identity is also a political matter, because the self is a social construct, made of social identities, which are a matter of public and political discourse. [Me vs them](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md)
 
 :::note[In or Out]
 

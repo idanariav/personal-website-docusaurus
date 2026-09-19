@@ -1,7 +1,7 @@
 ---
 UUID: 20230228064606
 Created: '2023-02-28 06:46'
-Modified: '2026-08-13 06:33'
+Modified: '2026-09-19 07:27'
 tags: []
 FullTitle: Quiet - The Power of Introverts in a World That Can't Stop Talking
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 5
+Version: 6
 Pages: 333
 Reread: 0
 Rate: 3
@@ -147,7 +147,7 @@ nowadays, we tend to think of good leaders as strong, extrovert, charismatic lea
 ### Cooperation Vs Creativity
 
 cooperation can be harmful in several ways:
-1. **Group thinking** - in a group settings, people might "go with the group" and avoid voicing different opinions due to social pressure, and the desire to be part of the group. This can even cause people to believe that their ideas are actually wrong, and not just hide them. [Group Thinking](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
+1. **Group thinking** - in a group settings, people might "go with the group" and avoid voicing different opinions due to social pressure, and the desire to be part of the group. This can even cause people to believe that their ideas are actually wrong, and not just hide them. [Group Thinking](/notes/groups-suppress-dissent-as-members-go-along-with-the-majority.md)
 2. **Lack of deliberate practice** - When we work as a team, we often don't get the chance to do [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md), i.e to tackle a challenge head on and try out different methods to solve it, let the challenge force you to become better [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md). Instead we rely too much on the group to save us [Some exploit the altruism of others](/notes/some-exploit-the-altruism-of-others.md)
 3. **Lack of control on our environment** - workplaces like open space are harmful to productivity, since they are filled with [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) and interruptions, preventing us from doing [Focused uninterrupted work produces the best results](/notes/focused-uninterrupted-work-produces-the-best-results.md). [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
 

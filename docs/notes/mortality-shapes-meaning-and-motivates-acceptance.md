@@ -1,13 +1,13 @@
 ---
 UUID: 20240218073946
 Created: '2024-02-18 07:39'
-Modified: '2026-04-11 22:24'
+Modified: '2026-09-11 05:59'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Mortality shapes meaning and motivates acceptance.png]]'
 ImageText: A person standing by a building thinking of a gravestone in a thought bubble
 Description: >-
@@ -16,7 +16,6 @@ Description: >-
   fleeting existence.
 aliases:
   - Death
-new_schema: true
 Topic:
   - '[[Value and Meaning]]'
 Origin: null
@@ -45,9 +44,11 @@ Death is also perhaps the great motivator. It is a constant reminder of the [Exp
 
 ### Supporters
 
-In general, the [Stoicism teaches detachment from external events to maintain inner freedom](/notes/stoicism-teaches-detachment-from-external-events-to-maintain-inner-freedom.md) tried to combat death through [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) of it. Seeing is as a part of nature, a part of life [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md). Also, because we will never encounter death, because to experience something requires consciousness, which is exactly what we will not have, makes the concept of death less scary, because we are either alive, or have already encountered it and feel nothing. Both "us" and death can't exist in the same time.
+In general, the [Stoicism teaches detachment from external events to maintain inner freedom](/notes/stoicism-teaches-detachment-from-external-events-to-maintain-inner-freedom.md) tried to combat death through [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) of it. Seeing is as a part of nature, a part of life [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md). Also, because we will never encounter death, because to experience something requires consciousness, which is exactly what we will not have, makes the concept of death less scary, because we are either alive, or have already encountered it and feel nothing. Both "us" and death can't exist in the same time [Death and consciousness never coexist](/notes/death-and-consciousness-never-coexist.md).
 
 ### Opposers
+
+For some, though, the same certainty tips the other way: if everything ends regardless, why bother at all, and that spiral sits closer to [Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md) than to motivation.
 
 ### Open questions
 

@@ -1,20 +1,19 @@
 ---
 UUID: 20240219085113
 Created: '2024-02-19 08:51'
-Modified: '2026-04-11 22:25'
+Modified: '2026-09-15 10:02'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
   - Mind-body connection
 Description: >-
   The mind-body connection refers to the interrelationship where bodily
   behaviors influence mental states and vice versa, impacting emotions,
   thoughts, and overall well-being.
-new_schema: true
 Topic:
   - '[[Thinking extends beyond the brain to environment and society]]'
 Origin: '[[The extended mind (book)]]'
@@ -46,14 +45,17 @@ This means that initiatives on one end of the spectrum can lead to a change in t
 
 For example, when we smile we become happier, and not only we smile because we are happy. Similarly, being clean makes us less likely to think "dirty thoughts", drinking hot drinks makes us more prone to "hot emotions", etc.
 
-For example, trying to write one good thing a day will actually make us see more positive things around us.
+For example, trying to write one good thing a day will actually make us [see more positive things](/notes/gratitude-journaling-increases-noticing-of-positive-experiences.md) around us.
+
+Similarly, feeling your heart race before you consciously register fear is a case of [bodily reactions shaping emotion](/notes/bodily-reactions-precede-and-shape-the-feeling-of-emotion.md), not the other way around.
 
 ### Supporters
+
+Meditation makes deliberate use of this — focusing on breath and physical stillness is a way to [put the mind-body connection into practice](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md).
 
 ### Opposers
 
 ### Open questions
-
 
 ## Visual
 

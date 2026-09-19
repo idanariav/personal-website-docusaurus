@@ -1,8 +1,8 @@
 ---
 UUID: 20230413174313
 Created: '2023-04-13 17:43'
-Modified: '2026-04-11 22:29'
-Version: 3
+Modified: '2026-09-17 13:51'
+Version: 4
 tags: []
 aliases:
   - The Spotlight Effect
@@ -10,7 +10,6 @@ Description: >-
   A psychological phenomenon where individuals overestimate how much others
   notice their actions and appearance, leading to unnecessary concern about
   their image and social judgment.
-new_schema: true
 Topic:
   - '[[Overconfidence and Self-Assessment]]'
 Origin: '[[The Curiosity Chronicle by Sahil Bloom]]'
@@ -41,6 +40,8 @@ Our [Social environment shapes behavior and identity through norms and conformit
 ### Supporters
 
 ### Opposers
+
+This puts a ceiling on [Actions spread effects across people and time beyond initial cause](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md) too — if people barely notice what we do in the first place, and forget it fast when they do, the ripple can't travel as far as it feels like it should from the inside.
 
 ### Open questions
 

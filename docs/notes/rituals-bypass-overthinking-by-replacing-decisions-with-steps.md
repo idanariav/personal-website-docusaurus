@@ -1,20 +1,19 @@
 ---
 UUID: 20250428071940
 Created: '2025-04-28 07:19'
-Modified: '2026-04-11 22:26'
+Modified: '2026-09-16 06:54'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Rituals
 Description: >-
   A structured series of predetermined actions that help individuals bypass
   self-criticism and decision points, enabling a focused mental state conducive
   to flow and performance.
-new_schema: true
 Topic:
   - '[[Habit Mechanics]]'
 Origin: null
@@ -29,7 +28,7 @@ SiteProcssed: true
 
 ### Claim
 
-Rituals are a way where we bypass [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md) and get into the [zone](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md) by overriding our thoughts with a series of predetermined steps. By reducing [Decision points force re-evaluation or action by creating deliberate triggers](/notes/decision-points-force-re-evaluation-or-action-by-creating-deliberate-triggers.md), we keep our focus and our mental energy towards what's really important.
+Rituals are a way where we bypass [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md) and get into the [zone](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md) by overriding our thoughts with a series of [predetermined steps](/notes/repeated-actions-become-automatic-through-habit-formation.md). By reducing [Decision points force re-evaluation or action by creating deliberate triggers](/notes/decision-points-force-re-evaluation-or-action-by-creating-deliberate-triggers.md), we keep our focus and our mental energy towards what's really important.
 
 ### Explanation
 

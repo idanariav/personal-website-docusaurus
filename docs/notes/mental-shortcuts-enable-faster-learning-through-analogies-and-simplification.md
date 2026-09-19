@@ -1,12 +1,9 @@
 ---
 UUID: 20230418184517
 Created: '2023-04-18 18:45'
-Modified: '2026-07-13 08:44'
+Modified: '2026-09-10 14:53'
 tags: []
-sketch-editor-plugin: parsed
-Version: 4
-Image: null
-ImageText: ''
+Version: 5
 Description: >-
   Techniques that facilitate quicker understanding and learning by leveraging
   existing knowledge through analogies, thereby reducing cognitive load and
@@ -20,7 +17,10 @@ aliases:
   - Mental Shortcuts
   - Analogies
   - Metaphors
-new_schema: true
+Drawings:
+  - >-
+    [[Mental shortcuts enable faster learning through analogies and
+    simplification (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -38,6 +38,8 @@ Mental shortcuts are ways for us to remember, learn and understand ideas quicker
 Usually, this refers to analogies, that allows us to use what we've already learned to learn a new thing, to [transfer it](/notes/knowledge-applied-across-contexts-enables-learning-generalization.md) from one field to another, and thus reduce [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) while learning. [We store knowledge as visual mental models](/notes/we-store-knowledge-as-visual-mental-models.md)
 
 Analogies relay somewhat on a type of [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md). We expose the similarities between two supposably unrelated fields by uncovering the similar mechanisms that drives them.
+
+It's a shortcut for understanding, not for deciding - [Heuristics are mental shortcuts enabling fast automatic decisions](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.md) trade the same effort for speed, just aimed at a fast decision instead of a transferred insight.
 
 ### Why it Matters
 
@@ -57,4 +59,4 @@ The more we expose ourselves to a [Range](/notes/breath-beats-depth.md) of diffe
 
 ## Visual
 
-![Mental shortcuts enable faster learning through analogies and simplification](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.webp)
+![Mental shortcuts enable faster learning through analogies and simplification (sketch)](/sketches/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification-sketch.webp)

@@ -1,7 +1,7 @@
 ---
 UUID: 20250210203639
 Created: '2025-02-10 20:36'
-Modified: '2026-09-02 11:27'
+Modified: '2026-09-19 08:31'
 tags: []
 FullTitle: >-
   Peak Performance - Elevate Your Game, Avoid Burnout, and Thrive with the New
@@ -30,7 +30,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 205
 Reread: 0
 Rate: 3
@@ -94,7 +94,7 @@ The section about the ritual and the purpose, while related to performance, feel
 ## Notes
 
 ### Introduction
-Due to [Globalization intensifies competition and forces specialization](/notes/globalization-intensifies-competition-and-forces-specialization.md) and [AI](/notes/artificial-intelligence.md), we are always under threat of competition. While it pushes us to do better, it has become so cut-throat that people are filled with [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) and [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md).
+Due to [Globalization intensifies competition and forces specialization](/notes/globalization-intensifies-competition-and-forces-specialization.md) and [AI](/notes/artificial-intelligence.md), we are always under threat of competition. While it pushes us to do better, it has become so cut-throat that people are filled with [Chronic stress is harmful](/notes/chronic-stress-is-harmful.md) and [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md).
 
 We exhaust ourselves to the point of depression, using drugs, insomnia, bad health and so much more, just to [level](/notes/sometimes-you-must-keep-adapting-just-to-stay-in-place.md) with others, we burn bright and fast. From teenagers to professionals, we all hurt ourselves in the hopes of outperforming others, or at least not being the worst.
 
@@ -141,7 +141,7 @@ The only way to grow is through experiencing difficulties [Adversarial Growth](/
 
 Peak performance is based on [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md), it is not a matter of how much experience you have, rather how you train. The key aspect is [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md), avoiding all [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) and most of all avoiding [multitasking](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md). While it feels more productive, it's actually harmful for our productivity due to [Task switching incurs cognitive costs that reduce productivity](/notes/task-switching-incurs-cognitive-costs-that-reduce-productivity.md) and [Unfinished tasks linger in the mind and reduce focus](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md).
 
-Avoiding distractions is hard, especially due to the [dopamine](/notes/dopamine.md) spike our smartphones generate. That's why *out of sight out of mind* is the best policy [Removing objects from sight reduces temptation](/notes/removing-objects-from-sight-reduces-temptation.md). Keep it off, and in another room when you need to concentrate [What matters most is often less visible than what is salient](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md).
+Avoiding distractions is hard, especially due to the [dopamine](/notes/dopamine.md) spike our smartphones generate. That's why *out of sight out of mind* is the best policy [Removing objects from sight reduces temptation](/notes/overcoming-addiction-requires-removing-all-traces-of-it.md). Keep it off, and in another room when you need to concentrate [What matters most is often less visible than what is salient](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md).
 
 Concentrating for a long period is hard. Peak performance is working around a [Pomodoro technique](/notes/pomodoro-technique.md) schedule, working in 90 minute cycles with 75 concentrated [Focused uninterrupted work produces the best results](/notes/focused-uninterrupted-work-produces-the-best-results.md) and 15 minutes of rest.
 

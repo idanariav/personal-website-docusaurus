@@ -1,14 +1,9 @@
 ---
 UUID: 20230626191735
 Created: '2023-06-26 19:17'
-Modified: '2026-07-27 08:55'
+Modified: '2026-09-11 05:59'
 tags: []
-sketch-editor-plugin: parsed
 Version: 4
-Image: >-
-  [[Mirroring copies others emotional states and body language to build
-  empathy.png]]
-ImageText: Two people standing in front of each other doing the exact same poses
 Description: >-
   A social phenomenon involving the activation of mirror neurons, enabling
   individuals to imitate and empathize with others' emotional states, fostering
@@ -20,7 +15,10 @@ URL: null
 aliases:
   - Mirroring
   - Mirror neurons
-new_schema: true
+Drawings:
+  - >-
+    [[Mirroring copies others emotional states and body language to build
+    empathy (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -31,13 +29,17 @@ SiteProcssed: true
 
 ### Claim
 
-Mirroring is a social phenomenon that is triggered by mirror neurons that fire when we observe and [imitate](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md) another's emotional state. This is the biological reason for [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md), because, through the mirror neurons, we can sense the other's feelings. For example, when we see someone eat, we get hungry. Perhaps this is also the reason why [Human is a social being](/notes/human-is-a-social-being.md), because caring and looking at how others behave is embedded within us.
+Mirroring is a social phenomenon that is triggered by mirror neurons that fire when we observe and [imitate](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md) another's emotional state.
 
 ### Explanation
+
+This is the biological reason for [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md), because, through the mirror neurons, we can sense the other's feelings. Perhaps this is also the reason why [Human is a social being](/notes/human-is-a-social-being.md), because caring and looking at how others behave is embedded within us.
 
 ### Why it Matters
 
 ### Examples
+
+For example, when we see someone eat, we get hungry.
 
 ### Supporters
 
@@ -57,4 +59,4 @@ Since mirroring is mostly an automatic process (although we can also try to spar
 
 ## Visual
 
-![Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.webp)
+![Mirroring copies others emotional states and body language to build empathy (sketch)](/sketches/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy-sketch.webp)

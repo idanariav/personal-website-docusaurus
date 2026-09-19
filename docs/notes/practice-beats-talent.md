@@ -1,19 +1,18 @@
 ---
 UUID: 20230916080346
 Created: '2023-09-16 08:03'
-Modified: '2026-04-11 22:25'
+Modified: '2026-09-15 10:23'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases: []
 Description: >-
   A concept emphasizing that consistent and deliberate practice, rather than
   innate talent, is essential for achieving mastery and long-term success in any
   field.
-new_schema: true
 Topic:
   - '[[Deliberate Practice and Skill Acquisition]]'
 Origin: '[[Peak (book)]]'
@@ -46,7 +45,7 @@ Furthermore, the idea of innate talent can be harmful in several ways:
 
 1. **Those with innate talent become complicit** - ignoring practice and therefore lose their edge [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md) [Overestimating abilities blinds us to genuine risks](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md)
 
-2. **Too much praise from the environment** - The environment, like teachers and parents tend to focus on those who show promise first, which might be due to completely random causes, and create a [Self fulfilling prophecy](/notes/being-emerges-from-action-not-belief.md) of who might succeed in this area and who doesn't. (Believing that you can succeed will increase your chances of doing so, and vice versa).
+2. **Too much praise from the environment** - The environment, like teachers and parents tend to focus on those who show promise first, which might be due to completely random causes, and create a [Self fulfilling prophecy](/notes/expectations-of-others-become-self-fulfilling-through-behavior-shaping.md) of who might succeed in this area and who doesn't [Expectations of others become self-fulfilling through behavior shaping](/notes/expectations-of-others-become-self-fulfilling-through-behavior-shaping.md). (Believing that you can succeed will increase your chances of doing so, and vice versa).
 
 3. **It is hard to predict who will succeed** - we currently have not yet figured out how to accuracy [predict](/notes/prediction.md) those who would become great, so the promise of innate talent is more like a mirage.
 

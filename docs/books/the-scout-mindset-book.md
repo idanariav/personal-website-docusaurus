@@ -1,7 +1,7 @@
 ---
 UUID: 20250814140256
 Created: '2025-08-14 14:02'
-Modified: '2026-05-15 06:20'
+Modified: '2026-09-19 07:27'
 tags: []
 FullTitle: The Scout Mindset - Why Some People See Things Clearly and Others Don't
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 5
+Version: 8
 Pages: 266
 Reread: 0
 Rate: 4
@@ -67,9 +67,16 @@ SiteProcssed: true
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
-1. **Scout mindset** - To see the world clearly, to question your assumptions, to make truth seeking our main goal, and constantly update our beliefs according to facts
-2. **Soldier mindset** - To be protective of our beliefs, to attach our identity to what we believe in. To be critical of any opposing beliefs, and seek only evidence that supports our stance.
-3. **Motivated reasoning** - to set a different standard for evidence based on whether it supports or opposes your beliefs. You ask "can I believe it" (low bar) for supporting evidence, and "must I believe it" (high bar) for contradicting evidence.
+1. **Scout vs. Soldier Metaphor** – Metaphor. The scout seeks to see the world as it is, while the soldier treats beliefs like a fortress to be defended. Supports: The necessity of shifting from defensive reasoning to accuracy-motivated inquiry.
+2. **"Can I?" vs. "Must I?" vs. "Is it True?"** – Analytical Framework. Distinguishes between biased reasoning (evaluating if we _can_ believe evidence for our side or if we _must_ believe evidence against it) versus the Scout’s objective evaluation (_Is it true?_). Supports: The core mechanism of the scout mindset.
+3. **"Map vs. Territory"** – Metaphor. Acknowledges that our knowledge is only a partial, limited representation of reality, not reality itself. Supports: The importance of remaining open to updating our "map" as we learn.
+4. **Sour Grapes and Sweet Lemons** – Psychological strategy. We reframe failed goals as undesirable and crises as opportunities to maintain comfort and self-esteem. Supports: The emotional drivers that trick us into adopting a soldier mindset.
+5. **Wagering on Confidence** – Thought Experiment. Betting money on the probability of being right forces a more honest, precise assessment of our uncertainty compared to binary "certain vs. uncertain" thinking. Supports: Methods to avoid dangerous overconfidence and think in nuanced ranges.
+6. **The Outsider Test** – Thought Experiment. Imagining how an objective outsider would advise you to act in your specific scenario to gain psychological distance. Supports: Effectively identifying and overcoming personal bias through perspective-taking.
+7. **Identity as Clothing** – Metaphor. Viewing identity as a "piece of clothing" that can be replaced rather than an intrinsic, fixed trait like skin color. Supports: How to detach ego from specific beliefs to enable flexibility and clarity.
+8. **Double Standard Test** – Thought Experiment. Applying your personal logic to yourself versus an "opponent" or different role to check for inconsistencies. Supports: Identifying motivated reasoning and hypocrisy.
+9. **Status Quo Bias Test** – Thought Experiment. Imagining what you would choose if the current status quo were not already the default option. Supports: Recognizing our tendency to prioritize existing situations regardless of their actual merits.
+10. **Social vs. Epistemic Confidence** – Conceptual distinction. Differentiates between how we are perceived by others (social confidence) and our internal degree of certainty regarding information (epistemic confidence). Supports: The argument that we can acknowledge uncertainty without being perceived as incompetent.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -108,7 +115,7 @@ The belief that we must deceive ourselves to be happy and successful—such as [
 
 #### Two Types of Thinking
 
-We often believe we are clear-headed, yet we fall prey to *motivated reasoning*, a combination of [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md) and [Truth is discoverable through reason and logic alone](/notes/truth-is-discoverable-through-reason-and-logic-alone.md). When we encounter evidence that supports our beliefs, we ask, *Can I believe this?* (the answer is usually "yes"). In contrast, when faced with contradictory evidence, we ask, *Must I believe this?* (the answer is usually "no"). We may not even realize we are engaging in self [deception](/notes/deception.md).
+We often believe we are clear-headed, yet we fall prey to *motivated reasoning*, a combination of [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md) and [We justify our conclusions after acting, not before](/notes/we-justify-our-conclusions-after-acting-not-before.md). When we encounter evidence that supports our beliefs, we ask, *Can I believe this?* (the answer is usually "yes"). In contrast, when faced with contradictory evidence, we ask, *Must I believe this?* (the answer is usually "no"). We may not even realize we are engaging in self [deception](/notes/deception.md).
 
 A scout, on the other hand, asks, *Is it true?* [Truth](/notes/truth.md). They seek to understand what is truly "out there" instead of what they hope to see. They recognize that any knowledge we have of the world, any "map of reality," is merely a [Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md) of true reality ("the map is not the territory"). Scouts do not need to defend their beliefs; they approach them with [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md), understanding that improving the map is more important than avoiding being [wrong](/notes/failure-is-a-necessary-part-of-learning-and-growth.md).
 
@@ -196,7 +203,7 @@ Motivated reasoning seems logical because we lack access to the [Imagining alter
 However, there are [thought experiment](/notes/thought-experiment.md) that allow us to glimpse into a counterfactual world:
 1. **Double Standard Test** - Twist the scenario (or your role in it). If it had happened to you or a close person, would you still think or act the same?
 2. **Outsider Test** - Imagine an outsider facing the same choice. What would they do? [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md).
-3. **Conformity Test** - Imagine your colleagues saying the opposite of what they currently say. Would you still feel the same? [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md).
+3. **Conformity Test** - Imagine your colleagues saying the opposite of what they currently say. Would you still feel the same? [Conformism](/notes/independent-thinking-requires-resisting-conformity.md).
 4. **Selective Skeptic Test** - Imagine the evidence is reversed, supporting the opposite conclusion. Would you still find it credible?
 5. **Status Quo Bias Test** - What if the status quo were different? Instead of debating B when A, you would be debating A when B. How would that affect your decision? [We prefer existing situations over alternatives despite better options](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md).
 
@@ -265,7 +272,7 @@ Having a better grasp of reality means we cannot ignore our mistakes. The scout 
 1. Reviewing your mistakes more often.
 2. Treating mistakes as opportunities for learning.
 
-There is nothing wrong with being wrong. It is possible that you made the best choice you could at that time. Failures are not marks of shame; they are simply signs that you need to update your beliefs based on the facts [Bayes probability](/notes/conditional-probability.md).
+There is nothing wrong with being wrong. It is possible that you made the best choice you could at that time. Failures are not marks of shame; they are simply signs that you need to [update your beliefs](/notes/rethinking-means-updating-beliefs-by-reconsidering-what-you-thought-you-knew.md) based on the facts [Bayes probability](/notes/conditional-probability.md).
 
 :::note[How to Be Wrong]
 

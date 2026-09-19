@@ -1,13 +1,13 @@
 ---
 UUID: 20240101083028
 Created: '2024-01-01 08:30'
-Modified: '2026-04-11 22:26'
+Modified: '2026-09-16 11:54'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 6
+Version: 7
 aliases:
   - self worth
   - Confidence
@@ -16,7 +16,6 @@ Description: >-
   The recognition of one's capabilities and intrinsic value, balanced between
   overconfidence and imposter syndrome, influencing identity, belonging, and
   overall emotional resilience.
-new_schema: true
 Topic:
   - '[[Inner Critic and Self-Perception]]'
 Origin: null
@@ -51,7 +50,11 @@ Additionally, to discredit ourselves can often lead to [cynicism](/notes/cynicis
 
 ### Supporters
 
+The words we use with ourselves matter too - [empowering language](/notes/empowering-language-builds-confidence-and-agency.md) reinforces an accurate, generous read of your own capabilities instead of a harsh one.
+
 ### Opposers
+
+[Fear of rejection](/notes/fear-of-rejection-stems-from-perceived-threat-to-self-worth-and-identity.md) works against it directly - the more we brace for others' judgment, the harder it gets to hold a steady, accurate view of our own worth.
 
 ### Open questions
 

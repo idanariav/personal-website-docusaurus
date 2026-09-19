@@ -1,7 +1,7 @@
 ---
 UUID: 20220903063010
 Created: '2022-09-03 06:30'
-Modified: '2026-04-11 22:24'
+Modified: '2026-09-11 06:00'
 tags: []
 aliases:
   - Ethics of care
@@ -9,8 +9,7 @@ Description: >-
   A moral framework emphasizing relationships and social obligations,
   contrasting with traditional reasoning by highlighting the emotional and
   communal aspects of moral decision-making.
-new_schema: true
-Version: 3
+Version: 4
 Topic:
   - '[[Ethical Frameworks (Metaethics)]]'
 Origin: '[[Philosophize This!]]'
@@ -65,6 +64,12 @@ Women however gave answers like:
 
 ### Opposers
 
+[Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md) warns that empathy alone is an unreliable guide — it reacts to whoever's suffering is most visible, not necessarily whoever needs the help most, which can pull us away from the very relationships and context we're trying to honor.
+
+Effective altruists push this further. [Moral impartiality values all lives equally](/notes/moral-impartiality-values-all-lives-equally.md) argues a stranger's life counts exactly as much as a loved one's, so building morality around our web of relationships just rationalizes favoring the people we happen to know. [Moral duty can extend beyond what we feel or who we know](/notes/moral-duty-can-extend-beyond-what-we-feel-or-who-we-know.md) makes the same point from Peter Singer's angle: we're on the hook to help people we'll never meet and feel nothing for, something a relationship-first ethic struggles to account for.
+
 ### Open questions
+
+If morality is rooted in relationships, does that justify giving less weight to strangers we have no connection to — and if so, how is that different from plain favoritism?
 
 ## Overview

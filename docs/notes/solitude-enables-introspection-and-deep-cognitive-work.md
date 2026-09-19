@@ -1,20 +1,19 @@
 ---
 UUID: 20240103081854
 Created: '2024-01-03 08:18'
-Modified: '2026-04-11 22:27'
+Modified: '2026-09-16 15:45'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - solitude
 Description: >-
   A beneficial state of isolation that fosters introspection, clarity, and
   self-development by eliminating external distractions, thereby enhancing
   mental clarity and creativity.
-new_schema: true
 Topic:
   - '[[Peak States and Optimal Experience]]'
 Origin: '[[Anne-Laure Le Cunff]]'
@@ -47,7 +46,11 @@ Common methods for solitude can be [Meditation strengthens focus and mindfulness
 
 ### Supporters
 
+This lines up with why solitude appeals more to some than others - [Introversion stems from heightened sensitivity to stimulation](/notes/introversion-stems-from-heightened-sensitivity-to-stimulation.md) suggests introverts seek it out because social stimulation costs them more to begin with.
+
 ### Opposers
+
+Solitude has its limits though - [Human is a social being](/notes/human-is-a-social-being.md) argues that even with every physical need met, complete isolation still leaves us unhappy; we need others, not just time away from them.
 
 ### Open questions
 

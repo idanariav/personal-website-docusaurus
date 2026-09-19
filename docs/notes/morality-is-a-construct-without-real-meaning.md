@@ -1,9 +1,9 @@
 ---
 UUID: 20230903180427
 Created: '2023-09-03 18:04'
-Modified: '2026-09-02 16:51'
+Modified: '2026-09-11 05:59'
 tags: []
-Version: 5
+Version: 6
 Description: >-
   A moral view asserting that morality does not exist, emphasizing that
   perceptions of good and bad are misleading and that life lacks intrinsic
@@ -14,7 +14,6 @@ Origin: null
 URL: null
 aliases:
   - Nihilism
-new_schema: true
 Drawings:
   - '[[Morality is a construct without real meaning (sketch)]]'
 draft: false
@@ -43,6 +42,8 @@ Nihilism is problematic due to:
 ### Examples
 
 ### Supporters
+
+[Everything in the world is a natural phenomenon](/notes/everything-in-the-world-is-a-natural-phenomenon.md) - if nothing exists beyond natural, physical processes, morality can't be built into the fabric of reality either, it's chemistry and instinct dressed up as "right" and "wrong."
 
 ### Opposers
 

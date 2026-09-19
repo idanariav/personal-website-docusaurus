@@ -1,7 +1,7 @@
 ---
 UUID: 20250629053426
 Created: '2025-06-29 05:34'
-Modified: '2026-09-02 11:25'
+Modified: '2026-09-18 12:14'
 tags: []
 Author:
   - '[[Oliver Burkeman]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 10
+Version: 11
 Pages: 162
 Rate: 3
 PublishDate: 2024-10-08T00:00:00.000Z
@@ -111,7 +111,7 @@ We are [Facing unlimited options paralyzes decision and breeds helplessness](/no
 
 Productivity is the greatest trap of all because it promises to help us fulfill our goals, regardless of what they may be [Productivity is a trap disguised as fulfillment](/notes/productivity-is-a-trap-disguised-as-fulfillment.md). We fixate on the tools instead of the purpose [Distinguishing appearance from authentic substance reveals hidden conflicts](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md).
 
-We perceive life as a matter of [control](/notes/the-will-to-power-is-the-inner-drive-to-transcend-oneself-and-become-something-greater.md), believing that [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md) is our enemy and the source of our [Existential dread](/notes/life-has-no-predefined-meaning-we-can-discover.md). By bringing order to life and taming it, we think we can find peace. We strive to be the best at everything, create systems that bring structure to our lives, and plan every step. However, life is anything but [stable](/notes/life-is-change.md), so our attempts are destined for failure [fatalism](/notes/fatalism.md).
+We perceive life as a matter of [control](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md), believing that [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md) is our enemy and the source of our [Existential dread](/notes/life-has-no-predefined-meaning-we-can-discover.md). By bringing order to life and taming it, we think we can find peace. We strive to be the best at everything, create systems that bring structure to our lives, and plan every step. However, life is anything but [stable](/notes/life-is-change.md), so our attempts are destined for failure [fatalism](/notes/fatalism.md).
 
 Instead, we should find a way to [connect](/notes/resonance-is-being-in-sync-with-reality-and-others.md) with life rather than tame it. Happiness and creativity both arise from the unexpected.
 

@@ -1,16 +1,15 @@
 ---
 UUID: 20240217074048
 Created: '2024-02-17 07:40'
-Modified: '2026-07-21 09:00'
+Modified: '2026-09-10 14:53'
 tags: []
-Version: 4
+Version: 5
 Topic:
   - '[[Deliberate Practice and Skill Acquisition]]'
 Origin: null
 URL: null
 aliases:
   - Mentor
-new_schema: true
 Drawings:
   - >-
     [[Mentors provide expert guidance and feedback for skill development

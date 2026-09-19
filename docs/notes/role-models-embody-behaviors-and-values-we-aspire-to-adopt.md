@@ -1,20 +1,19 @@
 ---
 UUID: 20240101081347
 Created: '2024-01-01 08:13'
-Modified: '2026-04-11 22:26'
+Modified: '2026-09-16 06:58'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 5
+Version: 7
 aliases:
   - Role Models
 Description: >-
   Individuals who exemplify aspirational qualities and behaviors, influencing
   others' motivation and direction through their actions, often without direct
   personal connection.
-new_schema: true
 Topic:
   - '[[Identity Formation]]'
 Origin: null
@@ -33,7 +32,7 @@ Role models are those who set us an [example](/notes/being-emerges-from-action-n
 
 ### Explanation
 
-They might not even know us, but they are still important to us and very impactful on our behavior. When you lack motivation or direction for a new habit, try to find good role models, they will keep you on the right path.
+They might not even know us, but they are still important to us and very [impactful](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md) on our behavior. When you lack motivation or direction for a new habit, try to find good role models, they will keep you on the right path.
 
 Due to the power of [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md), having a good role model can often help us set good [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) and escape bad ones. The change we can't make on our own, for ourselves, can often be triggered with the help of another. For kids it's even more critical, since they don't have defaults in their early years, and even the ones they have are not yet deeply entrenched, they will be more attuned to us, and we have the opportunity to set good defaults that will carry them through adulthood.
 
@@ -50,6 +49,8 @@ Being a good role requires:
 ### Supporters
 
 ### Opposers
+
+But idealizing a role model too much can backfire — the more perfect we imagine them to be, the more the real person is bound to disappoint us [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md).
 
 ### Open questions
 

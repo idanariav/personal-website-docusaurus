@@ -1,20 +1,19 @@
 ---
 UUID: 20250304214431
 Created: '2025-03-04 21:44'
-Modified: '2026-04-11 22:27'
+Modified: '2026-09-10 14:52'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: '5'
 aliases:
   - Stereotypes
 Description: >-
   Mental shortcuts that allow individuals to infer characteristics of a person
   based on perceived group qualities, often leading to negative assumptions and
   dehumanization of others.
-new_schema: true
 Topic:
   - '[[Simplification and Categorization]]'
 Origin: null
@@ -29,7 +28,7 @@ SiteProcssed: true
 
 ### Claim
 
-Stereotypes are when we try to use [Mental shortcuts enable faster learning through analogies and simplification](/notes/mental-shortcuts-enable-faster-learning-through-analogies-and-simplification.md) to gain information about a person without having to invest time and energy in getting to know them.
+Stereotypes are when we try to use [Heuristics are mental shortcuts enabling fast automatic decisions](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.md) to gain information about a person without having to invest time and energy in getting to know them.
 
 ### Explanation
 
@@ -47,13 +46,13 @@ For example, if girls believe that they are bad at math, then they will actually
 
 ### Supporters
 
+[The halo effect](/notes/one-good-trait-makes-us-assume-others-are-good-too.md) is the same shortcut running at the individual level — one good trait gets generalized into an overall impression, the same way one group trait gets generalized onto everyone in it.
+
 ### Opposers
 
+[Real listening](/notes/listening-well-requires-active-effort-to-understand.md) means dropping this shortcut entirely — forgetting what you think you know about someone's group and focusing on the person actually in front of you.
+
 ### Open questions
-
-
-### Claims
-
 
 ## Visual
 

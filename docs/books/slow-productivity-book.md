@@ -1,7 +1,7 @@
 ---
 UUID: 20250323181640
 Created: '2025-03-23 18:16'
-Modified: '2026-08-13 14:48'
+Modified: '2026-09-10 14:49'
 tags: []
 FullTitle: Slow Productivity - The Lost Art of Accomplishment Without Burnout
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 4
+Version: 5
 Pages: 257
 Reread: 0
 Rate: 3
@@ -198,7 +198,7 @@ How to Reduce Task Overload:
 
 #### Work at a Natural pace
 
-Good work takes time. When we try to [rush](/notes/manifesting-imposes-beliefs-onto-reality-rather-than-accepting-it.md) things, we only hurt our productivity. We can achieve more by slowing down and combining work with relaxation while keeping our eyes on our long-term goals.
+Good work takes time. When we try to [rush](/notes/achieve-more-by-not-resisting.md) things, we only hurt our productivity. We can achieve more by slowing down and combining work with relaxation while keeping our eyes on our long-term goals.
 
 Since we are prone to [We underestimate task duration through overconfident predictions](/notes/we-underestimate-task-duration-through-overconfident-predictions.md), we should double our time estimates to avoid feeling rushed before our work is ready. What about [A task takes as much time as you give it](/notes/a-task-takes-as-much-time-as-you-give-it.md)?
 

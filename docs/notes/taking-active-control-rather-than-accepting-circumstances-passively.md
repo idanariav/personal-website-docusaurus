@@ -1,20 +1,19 @@
 ---
 UUID: 20231226062850
 Created: '2023-12-26 06:28'
-Modified: '2026-04-11 22:27'
+Modified: '2026-09-16 19:28'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Proactiveness
 Description: >-
   The trait of taking initiative to effect change, characterized by agency,
   self-awareness, and intrinsic motivation, while rejecting victimhood and
   emotional hijacking.
-new_schema: true
 Topic:
   - '[[Proactive Agency and Accountability]]'
 Origin: '[[Creativity Inc (book)]]'
@@ -45,6 +44,8 @@ Proactiveness can sometimes be a form of [Handle problems while they are still s
 
 ### Examples
 
+Skilled poker players are a good illustration — they can't control which cards they're dealt, only how they play them, yet that partial control is enough to keep them in the game, adjusting and improving hand after hand. Proactiveness doesn't require dominion over every variable, just enough leverage to keep steering.
+
 ### Supporters
 
 ### Opposers
@@ -52,6 +53,8 @@ Proactiveness can sometimes be a form of [Handle problems while they are still s
 Proactiveness is the opposite of [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md), we don't react to a situation, we respond to it. We don't let ourselves be [hijacked](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md) by emotions, rather we use them as information, as tools [Turn negative emotions into fuel for growth and action](/notes/turn-negative-emotions-into-fuel-for-growth-and-action.md) to strengthen our actions, rather than altering them.
 
 ### Open questions
+
+Is what actually keeps us proactive our real leverage over outcomes, or just the felt sense that we have some [Feeling in control is more important than being in control](/notes/feeling-in-control-is-more-important-than-being-in-control.md)? A belief that we're steering might do most of the motivational work, even before results catch up — which would mean proactiveness rests on perception as much as on power.
 
 ## Visual
 

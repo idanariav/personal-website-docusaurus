@@ -1,8 +1,8 @@
 ---
 UUID: 20240217074958
 Created: '2024-02-17 07:49'
-Modified: '2026-04-11 22:28'
-Version: 3
+Modified: '2026-09-16 19:54'
+Version: 4
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
@@ -14,7 +14,6 @@ Description: >-
   The brain's capacity to adapt and reorganize itself based on experiences and
   learning, strengthening connections in frequently used areas, thereby enabling
   growth and change in cognitive abilities.
-new_schema: true
 Topic:
   - '[[Human Brain]]'
 Origin: null
@@ -47,6 +46,8 @@ The most important take from neuroplasticity is that we are not [fixed](/notes/f
 For example, taxi drivers have a developed sense of spatial awareness, to have "maps" embedded in their brain, and to constantly know where they are.
 
 ### Supporters
+
+[Mastery](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md) is really this process playing out over years — each stage of getting better is the brain reorganizing itself around what we keep doing.
 
 ### Opposers
 

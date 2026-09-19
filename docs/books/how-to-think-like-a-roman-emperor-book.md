@@ -1,7 +1,7 @@
 ---
 UUID: 20221002151457
 Created: '2022-10-02 15:14'
-Modified: '2026-04-22 06:03'
+Modified: '2026-09-10 14:53'
 tags: []
 Author:
   - '[[Donald J. Robertson]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 304
 Rate: 4
 PublishDate: 2019-04-02T00:00:00.000Z
@@ -60,12 +60,22 @@ SiteProcssed: true
 8. **be a student** - every situation, especially the bad ones, are an opportunity to grow, either by learning something new, or a chance to practice your virtues
 ### Relate
 
-⛓ *Life lessons, action items*
+✅ *by following this method, what will happen?*
+the book was a good combination between philosophy and practical guide for stoicism and improving mental health in general, while including a nice section about the history of the roman emperor as we go along with him to see the challenges he faced and the way he chose to address them.
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-the book was a good combination between philosophy and practical guide for stoicism and improving mental health in general, while including a nice section about the history of the roman emperor as we go along with him to see the challenges he faced and the way he chose to address them.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Colored Glasses** – Metaphor explaining that when we view the world, our beliefs act as subjective filters often mistaken for objective facts. Supports: Subjective perception filters how we see external reality.
+2. **Stress Inoculation** – Scientific practice of voluntarily exposing oneself to small, controlled doses of stress or pain to build resistance. Supports: We grow stronger by adapting to stress and managing hardship.
+3. **Panel of Mentors** – Thought experiment where one imagines important life decisions being discussed by a panel of respected, virtuous role models. Supports: Active behavior modification and consistent value alignment.
+4. **The "So What?" Method** – Thought experiment that questions the true impact of a negative event immediately after it occurs. Supports: Stripping subjective "good" or "bad" values from reality and reducing anxiety.
+5. **The Reserve Clause** – Mental framework involving pursuing goals with the explicit recognition that specific outcomes are not entirely within one’s control. Supports: Focusing on what we can do next rather than fixating on outcomes.
+6. **Synthetic Food Reframing** – Cognitive strategy of describing a tempting object (e.g., chocolate) in unappealing, raw terms to neutralize its power. Supports: Breaking habits by separating actions from subjective identity and desire.
+7. **The Flowing Stream** – Metaphor illustrating that we cannot hold onto life any more than we can grasp the waters of a rushing river. Supports: The necessity of letting go because external, temporal things change.
+8. **Wise Man vs. Fool** – Philosophical comparison distinguishing between those who need many things (fools) versus those who use what they have well (wise). Supports: Wisdom enables contentment and independence from external things.
+9. **Death as Lack of Experience** – Logical argument positing that death cannot be a negative experience because death, by definition, is a state of no experience. Supports: Mortality should not be feared because it is an inevitable, non-harmful part of nature.
+10. **Walking on Stones** – Analogy comparing the practice of mindfulness to walking barefoot on sharp stones. Supports: The need for conscious, intentional presence in order to live by one's values.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 the book was a bit repetitive, the same methods introduced in the first few chapters were used throughout the rest of the books, just in different cases, which didn't add a lot of value to the last third of the book.
@@ -160,7 +170,7 @@ in order to live by your values, to be true to yourself and not a slave to your 
 be always open for [Feedback is information that enables behavioral improvement](/notes/feedback-is-information-that-enables-behavioral-improvement.md), but give different weights to those opinions based on the character and the evidence based history of that person.
 
 #### Actively:
-search for [Mentors provide expert guidance and feedback for skill development](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md), real or imaginary, that embodies the values and attitudes you want to develop in yourself. ask yourself "what would x do/say" in this situation, imagine that important decisions are being discussed in a panel of all your mentors.
+search for [mentors](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md), real or imaginary, that embodies the values and attitudes you want to develop in yourself. ask yourself "what would x do/say" in this situation, imagine that important decisions are being discussed in a panel of all your mentors.
 
 #### Periodically
 (Linked: [Regular review cycles enable progress tracking and alignment](/notes/regular-review-cycles-enable-progress-tracking-and-alignment.md)):
@@ -251,8 +261,8 @@ to avoid anger, we should follow these tips:
 2. **Connect with others** - according to stoicism, the live in accordance with logic and nature is to be a social creature. it is a deep part of us to create connections and engage with others. even if they anger us, we should see it as an opportunity to grow and practice virtues rather than cause harm or disconnect. [Human is a social being](/notes/human-is-a-social-being.md)
 3. **remember that people are not just their action, they are a whole** - meaning that they could be doing this "bad" thing because they believe it is good, or perhaps they are making a mistake, or being influenced by their circumstances or upbringings. assuming good intentions instead of mal intentions will often lead to more conflict resolutions and better results (and feelings) overall, and mostly, it will probably be more accurate. [We attribute bad outcomes to luck but others' misfortunes to their faults](/notes/we-attribute-bad-outcomes-to-luck-but-others-misfortunes-to-their-faults.md)
 4. **You might be wrong** - in accordance with previous point, you might also be wrong, doing something that seems right to you but wrong to others. [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md)
-5. **Think long term** - is this worth being angry for? [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md)
-6. **remember that anger harms you most** - since it turns you into a different person, one that is not acting according to virtues. [Acting from strong emotion undermines your character](/notes/acting-from-strong-emotion-undermines-your-character.md)
+5. **Think long term** - is this worth being angry for? [Healthy self-talk prevents spiraling and builds resilience](/notes/healthy-self-talk-prevents-spiraling-and-builds-resilience.md)
+6. **remember that anger harms you most** - since it turns you into a different person, one that is not acting according to virtues. [Acting from strong emotion undermines your character](/notes/acting-from-strong-emotion-undermines-your-character.md) [Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md)
 7. **Nobody is perfect** - it is only rational to expect that someone someday will cause as anger, so we shouldn't be as surprised or rattled when that happens.
 
 :::note[TEMPORARY MADNESS]

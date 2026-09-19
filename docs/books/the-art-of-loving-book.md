@@ -1,7 +1,7 @@
 ---
 UUID: 20240401054715
 Created: '2024-04-01 05:47'
-Modified: '2026-05-14 19:20'
+Modified: '2026-09-19 08:25'
 tags: []
 FullTitle: The Art of Loving
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 5
+Version: 7
 Pages: 157
 Reread: 1
 Rate: 4
@@ -98,7 +98,7 @@ The tale of human existence is one of tension between helplessness and understan
 
 There are three main paths chosen for escaping it:
 1. *Sensual climaxing* - Alcohol, drugs, and erotic's are all such forms. There are meant as a numbing of our pain and fear by overloading our senses with something else, more powerful. This is a problem of addiction, which only grows worse with time as the doses rise and the payoff diminishes. [Addiction is escapism that destroys self-control](/notes/addiction-is-escapism-that-destroys-self-control.md)
-2. *Conformity* - we resolve the anxiety by becoming one with society, a member of the herd, we lose ourselves in the process, we embrace the world's expectation on work, on habits, even on leisure. We lie even to ourselves, believing that society's thoughts are our own. [Conformism](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
+2. *Conformity* - we resolve the anxiety by becoming one with society, a member of the herd, we lose ourselves in the process, we embrace the world's expectation on work, on habits, even on leisure. We lie even to ourselves, believing that society's thoughts are our own. [Conformism](/notes/surrendering-agency-to-external-forces-destroys-individual-identity.md)
 3. *Legacy* - through creative work we strive to leave a mark, to be remembered, to last even after our death.
 
 The problem with these methods is that they are all either partial or destined to fail. Sensual is temporary, conformity is sacrificing the self, and legacy is devoid of reciprocity, we throw our words into the void, without a true connection to others, without conversation. This is why **love is the only healthy viable way. It is a connection so deep that two people become one, yet they are still two authentic beings**. [Love unites without erasing individual identity](/notes/love-unites-without-erasing-individual-identity.md)
@@ -186,7 +186,7 @@ Economics is just one example of a contributor to "pseudo love" [Shallow copies 
 ### The Practice of Love
 
 To be good at something usually requires a variety of skills, some unrelated to the main art. For example, to be a good archer, one must learn to breath. Art requires the totality of ourselves, our complete dedication. Therefore, to be good at any art, requires a set of key virtues, these are:
-1. [Self Dicipline](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md)
+1. [Self Dicipline](/notes/discipline-acts-regardless-of-mood-or-preference.md)
 2. [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md)
 3. [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md)
 4. [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md)

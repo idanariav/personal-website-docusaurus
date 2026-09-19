@@ -1,9 +1,9 @@
 ---
 UUID: 20240409080645
 Created: '2024-04-09 08:06'
-Modified: '2026-08-18 14:05'
+Modified: '2026-09-09 18:17'
 tags: []
-Version: 5
+Version: 6
 Description: >-
   A painful state of emotional detachment from others, contrasting with
   solitude, arising from the inherent human need for social connection and often
@@ -14,7 +14,6 @@ Origin: null
 URL: null
 aliases:
   - Loneliness
-new_schema: true
 Drawings:
   - >-
     [[Loneliness is the painful state of feeling disconnected from others
@@ -33,7 +32,7 @@ Loneliness is opposed to [Solitude enables introspection and deep cognitive work
 
 ### Explanation
 
-Note that loneliness is not necessarily physical. One can be alone while being surrounded by people, or having a community without meeting people face to face, although it does have it's limits.
+Note that loneliness is not necessarily physical. One can be alone while being surrounded by people [Physical presence without emotional presence is worthless](/notes/physical-presence-without-emotional-presence-is-worthless.md), or having a community without meeting people face to face, although it does have it's limits.
 
 Loneliness can be created when we try to free ourselves from others. Becoming completely "free" without [depending](/notes/dependency-trades-autonomy-for-connection.md) on others might sound liberating [Freedom from external constraints](/notes/freedom-from-external-constraints.md), but like the tree example, when we escape the ground we are free to go anywhere, yet our freedom is theoretical and not practical because we lack the resources, the motivation, the sense of meaning to actualize it [Freedom means having the ability to pursue your goals](/notes/freedom-means-having-the-ability-to-pursue-your-goals.md).
 

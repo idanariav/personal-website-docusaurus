@@ -1,20 +1,19 @@
 ---
 UUID: 20240104080422
 Created: '2024-01-04 08:04'
-Modified: '2026-08-18 12:14'
+Modified: '2026-09-16 11:48'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 5
 aliases:
   - Limits
 Description: >-
   A concept that suggests imposing restrictions on oneself can enhance one's
   ability to act, psychological freedom, and creativity by fostering new
   perspectives and insights.
-new_schema: true
 Topic:
   - '[[Agency is the ability to connect desires and actions]]'
 Origin: null
@@ -44,13 +43,19 @@ Although they have a tendency to lead to [Resistance emerges when people feel co
 
 ### Examples
 
+Turning a chore into a made-up challenge works the same way - [trying to wash the dishes using as little water as possible](/notes/gamification-increases-motivation-by-making-activities-enjoyable.md) is a self-imposed limit that turns a dull task into an interesting one.
+
 ### Supporters
+
+The same logic runs in reverse too - [choosing your own limits](/notes/freedom-means-having-the-ability-to-pursue-your-goals.md) is often what actually frees up the ability to act on what matters, rather than getting in its way.
 
 ### Opposers
 
 Not everyone would agree the trade is worth it, though — the whole idea of negative freedom is about tearing shackles down, not building new ones, even self-chosen ones [Freedom from external constraints](/notes/freedom-from-external-constraints.md). Somewhere between the two views is probably the honest answer: which limits set us free depends on whether we picked them ourselves.
 
 ### Open questions
+
+Is there a point where a limit stops liberating and starts [Creativity can't be forced](/notes/creativity-cant-be-forced.md) - where the "constraint sparks creativity" logic breaks down and the imposed structure just gets in the way instead?
 
 
 ## Visual

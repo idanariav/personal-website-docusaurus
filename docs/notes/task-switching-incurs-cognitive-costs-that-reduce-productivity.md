@@ -1,8 +1,8 @@
 ---
 UUID: 20230404161438
 Created: '2023-04-04 16:14'
-Modified: '2026-04-11 22:28'
-Version: 3
+Modified: '2026-09-16 19:49'
+Version: 4
 tags: []
 aliases:
   - Task Switching
@@ -14,7 +14,6 @@ excalidraw-open-md: true
 Description: >-
   The phenomenon where shifting focus between tasks reduces productivity due to
   the time and mental energy required to re-engage with each task.
-new_schema: true
 Topic:
   - '[[Working Memory and Cognitive Limits]]'
 Origin: null
@@ -33,13 +32,17 @@ Task Switching is the idea that by switching our [Focus is concentrated cognitiv
 
 ### Explanation
 
-This cost occurs also when our attention fades due to [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md), which makes the cost of distractions not only the minutes we spend looking at those, but also all the time it takes to "reload" the task
+This cost occurs also when our attention fades due to [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md), which makes the cost of distractions not only the minutes we spend looking at those, but also all the time it takes to "reload" the task — made worse by the fact that [unfinished tasks tend to linger](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md) in our minds long after we've switched away.
 
 ### Why it matters
+
+This is exactly why [task batching](/notes/group-similar-tasks-to-reduce-switching-costs.md) works — group similar tasks together and we pay the setup cost once, instead of over and over.
 
 ### Examples
 
 ### Supporters
+
+[Deep work](/notes/focused-uninterrupted-work-produces-the-best-results.md) makes the same case from the other direction — staying on one task without interruption is what actually produces the best results.
 
 ### Opposers
 

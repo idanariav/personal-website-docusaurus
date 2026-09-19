@@ -1,7 +1,7 @@
 ---
 UUID: 20241120102405
 Created: '2024-11-20 10:24'
-Modified: '2026-08-10 11:53'
+Modified: '2026-09-19 07:27'
 tags: []
 Author:
   - '[[Paul Millerd]]'
@@ -10,7 +10,7 @@ Stored: Kindle
 ReadingStatus: Done
 Purchased: true
 Fiction: false
-Version: 3
+Version: 4
 Pages: 224
 Rate: 2
 PublishDate: 2024-09-16T00:00:00.000Z
@@ -112,7 +112,7 @@ When you feel passionless, [Burnout is chronic exhaustion from overwhelming dema
 
 #### Embrace the Unknown
 
-Embarking on the *pathless path* that needs to be taken to find your good work, requires a [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md). It is one of the most scariest things to [quit](/notes/knowing-when-to-stop-prevents-wasted-persistence-on-misaligned-goals.md) everything and pursue your passions, but it is a leap we must make. You must rid yourself of all ties to the [Conventional](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md) life in order to start a new [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md).
+Embarking on the *pathless path* that needs to be taken to find your good work, requires a [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md). It is one of the most scariest things to [quit](/notes/knowing-when-to-stop-prevents-wasted-persistence-on-misaligned-goals.md) everything and pursue your passions, but it is a leap we must make. You must rid yourself of all ties to the [Conventional](/notes/independent-thinking-requires-resisting-conformity.md) life in order to start a new [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md).
 
 At first you won't make any money, it is part of the journey, but you need to be ready for it.
 

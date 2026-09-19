@@ -1,15 +1,9 @@
 ---
 UUID: 20240106215414
 Created: '2024-01-06 21:54'
-Modified: '2026-08-18 12:09'
+Modified: '2026-09-14 17:30'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-excalidraw-export-dark: false
-excalidraw-open-md: true
-Version: 5
-Image: '[[Optimal outcomes emerge from balance between extremes not absolutes.png]]'
-ImageText: 'hydrated plant in the middle, and dehydrated plants at the edges'
+Version: 6
 Description: >-
   A concept emphasizing the importance of finding equilibrium between two
   extremes or creating a new, holistic option, highlighting moderation as
@@ -18,11 +12,14 @@ aliases:
   - balance extremes
   - Homeostasis
   - Moderation
-new_schema: true
 Topic:
   - '[[Virtuous Disposition]]'
 Origin: null
 URL: null
+Drawings:
+  - >-
+    [[Optimal outcomes emerge from balance between extremes not absolutes
+    (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -53,6 +50,10 @@ Take rigid personal rules, for instance — "I never watch TV" is easier to main
 
 ### Supporters
 
+Morality shows the same pattern: people rarely sit at the extreme end of any single moral axis, they're usually a [mix](/notes/morality-is-a-shared-palette-mixed-in-different-proportions.md) that shifts by context.
+
+The same logic applies to conviction itself — push an ideology too far and it turns [Excessive striving produces the opposite of intended outcomes](/notes/excessive-striving-produces-the-opposite-of-intended-outcomes.md) on itself, undermining the very cause it meant to serve.
+
 ### Opposers
 
 ### Open questions
@@ -60,4 +61,4 @@ Take rigid personal rules, for instance — "I never watch TV" is easier to main
 
 ## Visual
 
-![Optimal outcomes emerge from balance between extremes not absolutes](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.webp)
+![Optimal outcomes emerge from balance between extremes not absolutes (sketch)](/sketches/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes-sketch.webp)

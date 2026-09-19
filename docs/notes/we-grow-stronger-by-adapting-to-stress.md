@@ -1,13 +1,13 @@
 ---
 UUID: 20250226205700
 Created: '2025-02-26 20:57'
-Modified: '2026-04-11 22:29'
+Modified: '2026-09-18 12:14'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[We grow stronger by adapting to stress.png]]'
 ImageText: >-
   A balancing scale, with muscles on one side with a pump and weights on the
@@ -18,7 +18,6 @@ Description: >-
   homeostasis.
 aliases:
   - Allostasis
-new_schema: true
 Topic:
   - '[[Growth Through Adversity]]'
 Origin: null
@@ -52,7 +51,7 @@ Allostasis is the embodiment of [Our beliefs must adapt as context and goals cha
 
 ### Opposers
 
-This is contrary to [Homeostasis](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md) that tries to maintain an equal, identical level no matter what. Like body temperature that tries to remain stable no matter the degrees outside.
+This is contrary to [Homeostasis](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) that tries to maintain an equal, identical level no matter what. Like body temperature that tries to remain stable no matter the degrees outside.
 
 ### Open questions
 

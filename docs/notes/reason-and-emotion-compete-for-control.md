@@ -1,13 +1,13 @@
 ---
 UUID: 20240216064451
 Created: '2024-02-16 06:44'
-Modified: '2026-04-11 22:26'
+Modified: '2026-09-15 15:14'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 4
+Version: 5
 Image: '[[Reason and emotion compete for control.png]]'
 ImageText: 'Elephant looking at a banana, person pointing towards a sign'
 Description: >-
@@ -16,7 +16,6 @@ Description: >-
   motivation and willpower.
 aliases:
   - Elephant and the Rider
-new_schema: true
 Topic:
   - '[[Dual Process]]'
 Origin: null
@@ -41,9 +40,13 @@ One can envision our behavior as being made of two parts:
 
 ### Examples
 
+[Moral judgment](/notes/morality-is-both-rational-and-emotional.md) is a clean case: patients who lose the brain's emotional channel can still reason their way to the "right" answer but never act on it, while patients who lose the rational channel show the opposite - good instincts, no explanation. Neither the Rider nor the Elephant alone is enough.
+
 ### Supporters
 
 ### Opposers
+
+Treating this as reason simply defeating emotion is too neat. [Self-control](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) complicates the picture - the Elephant isn't dead weight to overpower, and the Rider is just as capable of leading us astray.
 
 ### Open questions
 

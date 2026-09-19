@@ -1,20 +1,19 @@
 ---
 UUID: 20240621110500
 Created: '2024-06-21 11:05'
-Modified: '2026-04-11 22:29'
+Modified: '2026-09-17 13:45'
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Nostalgia
 Description: >-
   A sentiment reflecting a longing for the past, often arising from a perceived
   loss of unity and purpose in the present, leading to self-centeredness and a
   focus on imitation rather than innovation.
-new_schema: true
 Topic:
   - '[[Status Quo and Inertia]]'
 Origin: '[[Mark Fisher]]'
@@ -46,7 +45,11 @@ We become [narcistics](/notes/preferring-personal-benefits-blinds-us-to-others-p
 
 ### Supporters
 
+Uncertainty pushes this further: [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md) shows that when the future is genuinely unknowable, we abandon anything future-dependent and retreat to what's immediate — the same instinct that pulls us backward to the past.
+
 ### Opposers
+
+But the past we retreat to isn't fixed either — [We rewrite our memories every time we access them](/notes/we-rewrite-our-memories-every-time-we-access-them.md) argues that memory isn't a stable anchor at all, it's rewritten every time we access it, so looking backward for certainty may be chasing a moving target.
 
 ### Open questions
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20221025182532
 Created: '2022-10-25 18:25'
-Modified: '2026-04-11 22:27'
+Modified: '2026-09-16 14:17'
 tags: []
 Description: >-
   A strategy for addressing complex challenges by simplifying them, focusing on
@@ -10,11 +10,10 @@ excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Solve the easier problem
   - relaxation
-new_schema: true
 Topic:
   - '[[Intentional Decision-Making]]'
   - '[[Momentum is movement that builds self-reinforcing forward action]]'
@@ -42,7 +41,7 @@ Ask yourself two questions:
 1. what works currently? and how can I use it for my benefit?
 2. what if my main challenge was gone, and only the minor ones left?
 
-In practical terms, this can be deconstructing either the input or the output, for example: what if instead of doing 5 workouts a week, I will try to do just one? [5 minute rule](/notes/5-minute-rule.md) or instead of trying to do the most demanding chore at night when I'm tired, I'll try to do it in the morning when I'm fresh?
+In practical terms, this can be deconstructing either the input or the output, for example: what if instead of doing 5 workouts a week, I will try to do just one [just one](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md)? [5 minute rule](/notes/5-minute-rule.md) or instead of trying to do the most demanding chore at night when I'm tired, I'll try to do it in the morning when I'm fresh?
 
 In the world of decision making, it often means to reduce the problem to a few quantifiable metrics. For example, instead of asking yourself what career to pursue, you ask yourself which job pays more.
 

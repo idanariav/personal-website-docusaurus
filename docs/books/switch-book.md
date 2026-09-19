@@ -1,7 +1,7 @@
 ---
 UUID: 20220704183904
 Created: '2022-07-04 18:39'
-Modified: '2026-09-02 15:41'
+Modified: '2026-09-15 15:14'
 tags: []
 FullTitle: Switch - How to Change Things When Change Is Hard
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 305
 Reread: 0
 Rate: 3
@@ -100,7 +100,7 @@ The theme of this book is a million examples analyzed through the terminology of
 
 ### Intro
 
-We all have two main parts in our brain. The emotional and rational side, or system 1 and two. And in this book its the Rider and the Elephant. **We succeed when they are in sync, and fail otherwise.** [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md) [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md)
+We all have two main parts in our brain. The emotional and rational side, or system 1 and two. And in this book its the Rider and the Elephant. [Reason and emotion compete for control](/notes/reason-and-emotion-compete-for-control.md) **We succeed when they are in sync, and fail otherwise.** [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md) [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md)
 Change can only be maintained when:
 1. **Direct the rider** - you define a clear goal for the change, for example: "workout 40 minutes twice a week". [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md)
 2. **Motivate the elephant** - approach the emotional side as well. Feel the possible outcomes or the negativity in the status quo. [Adding stakes forces honest belief evaluation](/notes/adding-stakes-forces-honest-belief-evaluation.md)
@@ -218,7 +218,7 @@ A change that is counter to an identity will eventually fail. You must develop t
 Behavioral problems usually originate from the environment, which means its usually not a misunderstanding (rider), or lack of motivation (elephant), but rather the cause of the way the environment affects us. [Behavioral problems often originate from environment, not motivation](/notes/behavioral-problems-often-originate-from-environment-not-motivation.md) **Always test what the environment pushes you do do, and check if it corresponds with your goals**.
 
 Create good habits, especially think about your triggers: "when x happens, I will do Y". [Linking habits in sequence amplifies behavior adoption through habit stacking](/notes/linking-habits-in-sequence-amplifies-behavior-adoption-through-habit-stacking.md) [Habits operate through a four-part loop](/notes/habits-operate-through-a-four-part-loop.md)
-Its especially helpful to create a "herd", as social creatures we tend to adopt the perceptions of those around us, so find or create the group where what's socially acceptable or desired is the change you want to bring. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
+Its especially helpful to create a "herd", as social creatures we tend to adopt the perceptions of those around us, so find or create the group where what's socially acceptable or desired is the change you want to bring. [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 
 :::note[Tweak the Environment]
 

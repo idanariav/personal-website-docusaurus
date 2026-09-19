@@ -1,20 +1,19 @@
 ---
 UUID: 20221112071520
 Created: '2022-11-12 07:15'
-Modified: '2026-04-11 22:27'
+Modified: '2026-09-10 14:53'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Stoicism
 Description: >-
   An ancient Greek philosophy focused on developing emotional resilience and
   virtue through understanding perception, self-awareness, agency, and
   interconnectedness, particularly in the face of hardship and uncertainty.
-new_schema: true
 Topic:
   - '[[Acceptance and Effortless Action]]'
 Origin: '[[How to think like a roman emperor (book)]]'
@@ -41,7 +40,7 @@ The main tenants of stoicism:
 
 2. **Holistically** - People are more than their actions, and so are you. Consider the [circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md) in which people operate. Remember that others (or you) might be wrong, acting on good intentions or succumbed to emotions or weaknesses, so don't be quick to assign [malice](/notes/avoid-attributing-malice-when-ignorance-or-circumstance-explains-action.md) to their behavior. Have [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md) in the way you think of others, you never know the full picture, and best to assume that [People are inherently good](/notes/humans-are-good-as-default.md)
 
-3. **Guidance** - Seek the council of those who can help you fulfill your potential. What would your [mentors](/notes/mentors-provide-expert-guidance-and-feedback-for-skill-development.md) say/do in this situation. Have mentors real or imaginary in your life, act with thoughtfulness and intention.
+3. **Guidance** - Seek the council of those who can help you fulfill your potential. What would your [mentors](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md) say/do in this situation. Have mentors real or imaginary in your life, act with thoughtfulness and intention.
 
 4. **Stress inculcation** - Prepare for the worst, and think of solutions. Treat challenges as a way to [strengthen](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md) your mental durability. Try to look at things in perspective by asking yourself "so what?". Usually the actual outcome would be far from the worst case scenario.
 
@@ -61,7 +60,11 @@ Stress inculcation would remove much of your [Stress can be adaptive or harmful 
 
 ### Supporters
 
+[Stoic indifference](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md) toward what you can't control was considered the ancients' greatest feat — it buys authenticity, emotional resilience, better performance, and contentment with the simple things.
+
 ### Opposers
+
+[Nietzsche](/books/beyond-good-and-evil-book.md) pushes back hard on this — to live is to desire, prefer, and grow, not to detach and submit to nature as it is; claiming indifference toward outcomes misrepresents what it actually means to be alive. Pushed too far, this same detachment can also curdle into [alienation](/notes/alienation-means-feeling-detached-from-life-and-others.md) — the distance that protects you from suffering can just as easily cut you off from the connection and meaning that make anything worth caring about.
 
 ### Open questions
 

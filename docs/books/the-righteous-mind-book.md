@@ -1,7 +1,7 @@
 ---
 UUID: 20221223110004
 Created: '2022-12-23 11:00'
-Modified: '2026-09-02 16:00'
+Modified: '2026-09-11 06:03'
 tags: []
 FullTitle: The Righteous Mind - Why Good People are Divided by Politics and Religion
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: '6'
+Version: 7
 Pages: 419
 Reread: 0
 Rate: 4
@@ -132,7 +132,7 @@ In the author's opinion, **our moral theories are both born and taught. We are b
 
 #### The Intuitive Dog and It's Rational Tail
 
-Emotions are the basis of our moral reasoning, without emotions we would have misguided judgements that we even won't be able to go through [Morality is both rational and emotional](/notes/morality-is-both-rational-and-emotional.md). **Emotions come first, rational thinking is done after the fact.**
+Emotions are the basis of our moral reasoning, without emotions we would have misguided judgements that we even won't be able to go through [Moral intuition precedes rational justification](/notes/moral-intuition-precedes-rational-justification.md). **Emotions come first, rational thinking is done after the fact.**
 
 So in each of us there's the rider and the elephant. The elephant is our automatic processes, which solicits the reaction of "seeing that", which means that this system prompts our intuitions, our "gut reactions" to moral questions in a way that is above emotions.
 After that, our rider activates the "reason why" reaction, which tries to make sense of our moral preferences, but not for ourselves, but rather to convince others to come up with the same moral judgment as we did. [Reason and emotion compete for control](/notes/reason-and-emotion-compete-for-control.md)
@@ -182,7 +182,7 @@ However, its important to note that its still a two-way street. The intuitions c
 #### Vote for Me (Here's Why)
 
 Our quest for truth is more like a politician trying to get more votes, than a scientist who is looking for the objective truth. [Empirical testing not reason alone discovers truth](/notes/empirical-testing-not-reason-alone-discovers-truth.md)
-The only way to force us to solve the [intrapersonal conflict](/notes/a-person-is-a-community.md) between our moral intuitions and our desire to be accepted by others is to have [You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md). **Once we are accountable for our opinions, we tend to hold them in a much more rigid set of testing**. To promote such accountability, we must:
+The only way to force us to solve the [intrapersonal conflict](/notes/neglecting-intrapersonal-conflict-harms-wellbeing.md) between our moral intuitions and our desire to be accepted by others is to have [You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md). **Once we are accountable for our opinions, we tend to hold them in a much more rigid set of testing**. To promote such accountability, we must:
 1. **Knowledge** - have a chance to learn about the topic before presenting it
 2. **Anonymous** - We are not aware of the public's opinions (or which way they prefer)
 3. **Can't be conned** - we believe that the public is also well-informed about the subject
@@ -372,4 +372,5 @@ Three things affect your political beliefs:
 - We may spend most of our waking hours advancing our own interests, but we all have the capacity to transcend self-interest and become simply a part of a whole. It’s not just a capacity; it’s the portal to many of life’s most cherished experiences.
 
 :::
+
 

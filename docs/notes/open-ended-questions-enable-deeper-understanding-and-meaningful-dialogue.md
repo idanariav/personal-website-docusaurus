@@ -1,24 +1,23 @@
 ---
 UUID: 20240831105436
 Created: '2024-08-31 10:54'
-Modified: '2026-04-11 22:25'
+Modified: '2026-09-14 17:23'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 4
+Version: 6
 aliases:
   - Open ended questions
 Description: >-
   Questions designed to elicit meaningful, interpretive responses, encouraging
   critical thinking and self-reflection, while fostering deliberation and
   opposing binary thinking and micro-management.
-new_schema: true
 Topic:
   - '[[Active Listening and Empathy]]'
 Origin: null
 URL: null
+Drawings:
+  - >-
+    [[Open-ended questions enable deeper understanding and meaningful dialogue
+    (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -38,13 +37,15 @@ These are not a simple "yes or no" question but rather questions that allow spac
 
 ### Why it matters
 
-We don't treat them as objects to be manipulated, rather as capable people who can come up with solutions on their own.
+We don't treat them as objects to be manipulated [objects](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md), rather as capable people who can come up with solutions on their own.
 
 ### Examples
 
 ### Supporters
 
 This also opens up a channel for [Deliberation is a discussion that bridges different perspectives](/notes/deliberation-is-a-discussion-that-bridges-different-perspectives.md) by giving them a place to express their opinions rather than limit themselves to simplistic answers.
+
+It also depends on actually [listening](/notes/listening-well-requires-active-effort-to-understand.md) to what comes back — ask an open question and then talk over the answer, and you've gained nothing.
 
 ### Opposers
 
@@ -56,4 +57,4 @@ To ask open ended questions is the opposite of trying to [micro-manage](/notes/m
 
 ## Visual
 
-![Open ended questions](/notes/open-ended-questions.webp)
+![Open-ended questions enable deeper understanding and meaningful dialogue (sketch)](/sketches/open-ended-questions-enable-deeper-understanding-and-meaningful-dialogue-sketch.webp)

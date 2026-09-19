@@ -1,13 +1,13 @@
 ---
 UUID: 20231226190220
 Created: '2023-12-26 19:02'
-Modified: '2026-04-11 22:26'
+Modified: '2026-09-15 15:07'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Giving
   - Altruism
@@ -17,7 +17,6 @@ Description: >-
   A mindset of providing value selflessly, driven by the desire to help others,
   often exemplified through altruistic acts that enhance both individual and
   societal well-being.
-new_schema: true
 Topic:
   - '[[Virtuous Disposition]]'
   - '[[Social Connection and Belonging]]'
@@ -58,7 +57,7 @@ Giving usually have a [Actions spread effects across people and time beyond init
 
 ### Opposers
 
-There are those who claim that true altruism doesn't exist because if it is a choice you made then that means you got something out of it, for example you enjoy the thought that you saved someone's life, or enjoy being a volunteer, but this is ridiculing ethics, in my opinion, since a person who jumps on a grenade to save his friends didn't do this out of enjoyment. Altruism is more a question of obligation than satisfaction [Deontology treats morality as duties and rights that transcend consequences](/notes/deontology-treats-morality-as-duties-and-rights-that-transcend-consequences.md).
+There are those who claim that [true altruism doesn't exist](/notes/psychological-egoism-reduces-all-altruism-to-self-interest.md) because if it is a choice you made then that means you got something out of it, for example you enjoy the thought that you saved someone's life, or enjoy being a volunteer, but this is ridiculing ethics, in my opinion, since a person who jumps on a grenade to save his friends didn't do this out of enjoyment. Altruism is more a question of obligation than satisfaction [Deontology treats morality as duties and rights that transcend consequences](/notes/deontology-treats-morality-as-duties-and-rights-that-transcend-consequences.md).
 
 When we give, we fight the forces of [Econs are purely rational agents who maximize utility](/notes/econs-are-purely-rational-agents-who-maximize-utility.md) and [Commodification turns non-tradable values into economic transactions](/notes/commodification-turns-non-tradable-values-into-economic-transactions.md). We show ourselves and others that monetary value is not the only thing in life, and especially not the most important one.
 

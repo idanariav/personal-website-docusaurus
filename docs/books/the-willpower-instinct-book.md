@@ -1,7 +1,7 @@
 ---
 UUID: 20230110065132
 Created: '2023-01-10 06:51'
-Modified: '2026-05-15 06:38'
+Modified: '2026-09-19 08:31'
 tags: []
 FullTitle: >-
   The Willpower Instinct - How Self-Control Works, Why It Matters, and What You
@@ -28,7 +28,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 9
 Pages: 275
 Reread: 0
 Rate: 4
@@ -56,12 +56,22 @@ SiteProcssed: true
 4. **Make it easy** - There are ways to make decisions easier. Either through gamification, commitment devices, thinking about future self, or using others as a way to be more accountable.
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓*by following this method, what will happen?*
+The book is filled with examples and opportunities to implement the content of each chapter in our daily lives. The chapters are organized nicely and its easy to follow along.
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-The book is filled with examples and opportunities to implement the content of each chapter in our daily lives. The chapters are organized nicely and its easy to follow along.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Exercise as "Wonder Drug"** – Scientific finding: Exercise is identified as the closest intervention scientists have found to boost self-control. Supports: Regular physical activity strengthens willpower capacity.
+2. **Sleep and Prefrontal Function** – Scientific findings: Brain scans show that individuals experiencing sleep deprivation exhibit prefrontal cortex impairment, which reverses once adequate sleep is restored. Supports: Biological rest is essential for maintaining willpower and cognitive function.
+3. **Small Consistency Exercises** – Examples: Practicing simple consistent acts, such as improving posture, squeezing a handgrip, or tracking spending, are cited as mechanisms for progress. Supports: Willpower acts like a muscle that grows through regular training.
+4. **The "Fat-Free" Cookie** – Metaphor: The labeling of snacks as "fat-free" leads people to consume them in excess because the virtuous signal permits indulgence. Supports: Moral licensing—the tendency for doing good to give us permission to do bad.
+5. **The "What-the-Hell" Effect** – Behavioral observation: Once an individual breaks a minor limit, they feel entitled to abandon the rule entirely, leading to greater failure. Supports: Guilt after a lapse is counterproductive and increases the likelihood of repeated harmful behavior.
+6. **The Dopamine Pursuit** – Biological mechanism: Dopamine drives the motivation to pursue rewards, but does not provide actual happiness or satisfaction upon acquisition. Supports: Humans persistently mistake the urge to "want" for the promise of well-being.
+7. **The 10-Minute Rule** – Strategic intervention: A rule requiring one to wait 10 minutes before indulging in a temptation to evaluate if the action is truly desired. Supports: Combating the preference for immediate gratification by delaying impulses.
+8. **Failure of Thought Suppression** – Psychological outcome: Attempting to deliberately push a worry or desire out of the mind makes the brain more compelled to think about it. Supports: Suppressing "I won't" urges causes the opposite effect of the intended restraint.
+9. **Pause-and-Plan Response** – Physiological model: A response that intentionally slows down the body rather than triggering the high-energy "fight-or-flight" state. Supports: Entering a biological state conducive to self-control rather than self-defense improves willpower.
+10. **Brain Remodeling** – Scientific observation: Neuroscience shows that the brain physically remodels itself based on what it is asked to do, such as concentrating. Supports: Willpower can be objectively improved by intentional training.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 At some point it feels like the author is trying too hard the make the language simple and approachable, like she's talking to a child, with unnecessary examples like fighting a tiger, etc...
@@ -92,7 +102,7 @@ At some point it feels like the author is trying too hard the make the language 
 
 ### I Will, I Won't, I Want: What Willpower Is, and Why It Matters
 
-Willpower is our way to act according to "I will, I wont, I want".
+Willpower is our way to act according to "I will, I wont, I want" — the same capacity [self-control](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) is built on.
 Willpower is the result of our primal survival mechanisms, which can sometimes work against us, but to succeed, we must work "with" it, not against it. [Living in harmony with natural processes enables wellbeing](/notes/living-in-harmony-with-natural-processes-enables-wellbeing.md)
 The brain has the remarkable capability of adjusting based on what it does, like a muscle, so **by training our willpower we will become better at it.** [We grow stronger by adapting to stress](/notes/we-grow-stronger-by-adapting-to-stress.md)
 the first step in improving our willpower is to have [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md), understand when it fails and when we use it.
@@ -200,9 +210,9 @@ Unfortunately, we can't just shut off dopamine for "negative" things such as foo
 
 ### What the Hell, How Feeling Bad Leads to Giving In
 
-[Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) usually has the opposite result of what we expected, stress can often lead us to do more of the bad behavior, because in times of stress, our mind will direct us to what it expects to bring us calm and happiness, usually things like food, shopping, drugs, any type of instate gratification [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md).
+[Under stress we default to habits](/notes/under-stress-we-default-to-habits.md) usually has the opposite result of what we expected, stress can often lead us to do more of the bad behavior, because in times of stress, our mind will direct us to what it expects to bring us calm and happiness, usually things like food, shopping, drugs, any type of instate gratification [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md).
 
-Similarly, **feeling [Guilt signals when we fail to act on what we control](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) after a bad behavior usually only makes us more likely to repeat it**. We have the "what-the-hell" effect, knowing that we have already crossed our line, it doesn't matter by how much.
+Similarly, **feeling [Guilt signals when we fail to act on what we control](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) after a bad behavior usually only makes us more likely to repeat it**. We have the "what-the-hell" effect, knowing that we have already crossed our line, it doesn't matter by how much [Breaking a streak kills all motivation](/notes/breaking-a-streak-kills-all-motivation.md).
 
 A third tactic is to have a [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md), promising ourselves that "next time we will do better". **This is also a trap since usually we do these promises to solve our pain or disappointment, not to fix our behavior**. So the expected result is failing at that new promise, which will lead again to stress and guilt.
 

@@ -1,20 +1,19 @@
 ---
 UUID: 20240220083759
 Created: '2024-02-20 08:37'
-Modified: '2026-04-11 22:28'
+Modified: '2026-09-17 13:18'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Utility
 Description: >-
   A concept originating from utilitarianism that quantifies pleasure and pain,
   suggesting actions with zero utility are indifferent, while highlighting
   challenges in measuring subjective happiness across individuals.
-new_schema: true
 Topic:
   - '[[Value and Meaning]]'
 Origin: null
@@ -29,7 +28,7 @@ SiteProcssed: true
 
 ### Claim
 
-The concept of utility was born together with the view of [Maximizing pleasure and minimizing suffering defines moral action](/notes/maximizing-pleasure-and-minimizing-suffering-defines-moral-action.md), which means that the amount of pleasure and pain that we are feeling can be quantified and measured. When an action has no utility or a utility of 0, either the pain and pleasure cancel each other out or that it contributes none to it, then we can say we are [indifferent](/notes/indifference.md) to it.
+The concept of utility was born together with the view of [Maximizing pleasure and minimizing suffering defines moral action](/notes/maximizing-pleasure-and-minimizing-suffering-defines-moral-action.md), which means that the amount of pleasure and pain that we are feeling can be quantified and measured. When an action has no utility or a utility of 0, either the pain and pleasure cancel each other out or that it contributes none to it, then we can say we are [indifferent](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md) to it.
 
 ### Explanation
 
@@ -46,6 +45,8 @@ A [hedonistic](/notes/pleasure-and-pain-are-the-only-measures-of-good.md) flair 
 ### Supporters
 
 ### Opposers
+
+The math breaks down with a [Pleasure monsters undermine utilitarian calculus](/notes/pleasure-monsters-undermine-utilitarian-calculus.md) — imagine someone who extracts more pleasure from an action than everyone else combined loses from it. If we're only summing and maximizing a quantity, nothing in that arithmetic stops one person's gain from justifying real harm to others.
 
 ### Open questions
 

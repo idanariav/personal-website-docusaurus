@@ -1,24 +1,21 @@
 ---
 UUID: 20240217075258
 Created: '2024-02-17 07:52'
-Modified: '2026-04-11 22:25'
-Version: 3
+Modified: '2026-09-15 06:39'
+Version: 4
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
 aliases:
   - People First
-excalidraw-open-md: true
 Description: >-
   A principle emphasizing that employees are the most valuable asset of a
   company, advocating for their well-being and development to enhance
   organizational growth and productivity.
-new_schema: true
 Topic:
   - '[[Psychological Safety and Team Conditions]]'
 Origin: null
 URL: null
+Drawings:
+  - '[[People are the most valuable organizational resource (sketch)]]'
 draft: false
 SiteProcssed: true
 ---
@@ -44,6 +41,8 @@ To acknowledge that by having an organizational [Capabilities are malleable thro
 ### Opposers
 
 ### Open questions
+
+The gig economy complicates this — Uber treats drivers as interchangeable contractors rather than people worth investing in. Does that mean the claim only holds inside traditional employment, or is Uber just making a bad long-term bet by not applying it?
 
 ## Visual
 

@@ -1,16 +1,9 @@
 ---
 UUID: 20241011102101
 Created: '2024-10-11 10:21'
-Modified: '2026-07-07 09:24'
+Modified: '2026-09-10 14:50'
 tags: []
-sketch-editor-plugin: parsed
-Version: 5
-Image: >-
-  [[Meditation strengthens focus and mindfulness through intentional
-  presence.png]]
-ImageText: >-
-  A person holding a lantern and getting blinded by it seeing a blurry heart, vs
-  a turned off lantern that makes the heart easier to see
+Version: 6
 Description: >-
   A practice aimed at enhancing the mind-body connection through intentional
   mindfulness, promoting solitude, self-compassion, and mental clarity while
@@ -21,7 +14,10 @@ Origin: null
 URL: null
 aliases:
   - Meditation
-new_schema: true
+Drawings:
+  - >-
+    [[Meditation strengthens focus and mindfulness through intentional presence
+    (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -42,7 +38,7 @@ A session of [Solitude enables introspection and deep cognitive work](/notes/sol
 
 This helps silence the [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md), and cultivate [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md).
 
-It is a method of [Rest enables recovery and sustained performance](/notes/rest-enables-recovery-and-sustained-performance.md), of [Slowing down prioritizes quality over speed and enables reflection](/notes/slowing-down-prioritizes-quality-over-speed-and-enables-reflection.md), of recharging our mental and physical energy. A way to [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md) and look at our thoughts and feelings as an external observer, like a mental [detoxing](/notes/overcoming-addiction-requires-removing-all-traces-of-it.md), we break free from limiting perceptions, entering a state of calmness and [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md).
+It is a method of [Rest enables recovery and sustained performance](/notes/rest-enables-recovery-and-sustained-performance.md), of [Slowing down prioritizes quality over speed and enables reflection](/notes/slowing-down-prioritizes-quality-over-speed-and-enables-reflection.md), of recharging our mental and physical energy. A way to [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md) and look at our thoughts and feelings as an [external observer](/notes/journaling-enables-reflection-and-self-understanding-through-written-documentation.md), like a mental [detoxing](/notes/overcoming-addiction-requires-removing-all-traces-of-it.md), we break free from limiting perceptions, entering a state of calmness and [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md).
 
 ### Examples
 
@@ -54,4 +50,4 @@ It is a method of [Rest enables recovery and sustained performance](/notes/rest-
 
 ## Visual
 
-![Meditation strengthens focus and mindfulness through intentional presence](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.webp)
+![Meditation strengthens focus and mindfulness through intentional presence (sketch)](/sketches/meditation-strengthens-focus-and-mindfulness-through-intentional-presence-sketch.webp)

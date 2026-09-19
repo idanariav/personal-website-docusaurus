@@ -1,7 +1,7 @@
 ---
 UUID: 20250824174128
 Created: '2025-08-24 17:41'
-Modified: '2026-04-11 22:28'
+Modified: '2026-09-19 08:25'
 tags: []
 Description: >-
   A principle advocating for treating others as one wishes to be treated,
@@ -11,10 +11,9 @@ excalidraw-plugin: null
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Golden rule
-new_schema: true
 Topic:
   - '[[Social and Group Ethics]]'
 Origin: null
@@ -38,7 +37,7 @@ It reminds of the [Act only by rules that could apply universally](/notes/act-on
 
 ### Why it matters
 
-It is meant to encourage [Reciprocity](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md) and [Kindness](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md). To not look at life as a [Zero sum](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) game, but rather as a chance to pay it forward, with the hope that people will respond in kindness as well.
+It is meant to encourage [Reciprocity](/notes/reciprocity-obliges-people-to-return-what-they-receive.md) and [Kindness](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md). To not look at life as a [Zero sum](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) game, but rather as a [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md) chance to pay it forward, with the hope that people will respond in kindness as well.
 
 The absurdity is that we often treat others better than we treat ourselves. We are our worst [critic](/notes/self-criticism-is-being-your-own-harsh-judge.md), we talk negatively about ourselves in ways we would never talk to a friend. In these cases, it's actually the reverse golden rule that should be applied, that we will treat ourselves with [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md), the way others treat us.
 
@@ -46,7 +45,11 @@ The absurdity is that we often treat others better than we treat ourselves. We a
 
 ### Supporters
 
+It also leans on the finding that [Humans are good as default](/notes/humans-are-good-as-default.md) kindness and trust are our default setting and hostility is mostly learned — which is what makes "assume they'd want what you'd want" a reasonable starting point rather than a naive one.
+
 ### Opposers
+
+The [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md) empathy-based alternative pushes back on this: treating others through your own preferences still centers you, and to be genuinely empathic means seeing the world through their eyes and their own definition of good, not yours.
 
 ### Open questions
 

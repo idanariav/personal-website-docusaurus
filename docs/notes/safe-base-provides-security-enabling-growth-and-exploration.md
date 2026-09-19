@@ -1,20 +1,19 @@
 ---
 UUID: 20241005100316
 Created: '2024-10-05 10:03'
-Modified: '2026-04-11 22:26'
+Modified: '2026-09-16 07:01'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 6
 aliases:
   - Safe Base
 Description: >-
   A supportive environment or relationship where individuals feel a sense of
   belonging, validation, and authenticity, allowing them to recharge and manage
   life's stresses.
-new_schema: true
 Topic:
   - '[[Peak States and Optimal Experience]]'
 Origin: '[[The Yes Brain (book)]]'
@@ -33,6 +32,8 @@ SiteProcssed: true
 
 ### Explanation
 
+Maslow put it plainly: you can't reach for growth before the ground beneath you is secure, his [hierarchy](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md) puts safety and belonging below self-actualization for a reason. A safe base isn't the destination, it's the floor that makes reaching for anything else possible.
+
 ### Why it matters
 
 ### Examples
@@ -44,6 +45,8 @@ A safe place is where we feel [validated](/notes/accepting-others-feelings-and-p
 Having a safe base allows us to [venture](/notes/standing-up-for-yourself-is-courageous-authenticity-against-social-pressure.md) out into the world, knowing we always have a place to go to if things get worse.
 
 ### Opposers
+
+Without it, we're left with [loneliness](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md) — no one to fall back on, nowhere safe to return to when things go wrong.
 
 ### Open questions
 

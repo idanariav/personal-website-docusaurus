@@ -1,13 +1,11 @@
 ---
 UUID: 20240106083134
 Created: '2024-01-06 08:31'
-Modified: '2026-04-11 22:24'
+Modified: '2026-09-11 05:59'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 3
+Drawings:
+  - '[[Most benefits come from a small proportion of inputs (sketch)]]'
+Version: 4
 aliases:
   - Pareto Principle
   - the 80-20 rule
@@ -15,7 +13,6 @@ Description: >-
   A concept stating that a small percentage of inputs (20%) often leads to the
   majority of outputs (80%), highlighting the importance of focusing on the most
   impactful activities.
-new_schema: true
 Topic:
   - '[[Prioritization and Leverage]]'
 Origin: null
@@ -46,6 +43,8 @@ It's important not to fall for the [Treating measurable metrics as complete trut
 For example, 80% of a companies profits come from 20% of the projects/workers. Or that 80% of our wellbeing comes from only 20% of our activities.
 
 ### Supporters
+
+Triage takes this principle to its starkest form: when resources are scarce, deliberately directing effort toward the cases that matter most [Triage prioritizes limited resources by allocating attention wisely](/notes/triage-prioritizes-limited-resources-by-allocating-attention-wisely.md) is what makes any benefit possible in the first place, rather than spreading attention evenly across everything in front of you.
 
 ### Opposers
 

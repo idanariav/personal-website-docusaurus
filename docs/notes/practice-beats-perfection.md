@@ -1,19 +1,18 @@
 ---
 UUID: 20230808165832
 Created: '2023-08-08 16:58'
-Modified: '2026-04-11 22:25'
+Modified: '2026-09-15 10:21'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases: null
 Description: >-
   A concept emphasizing that improvement arises from consistent practice and
   experience rather than the pursuit of perfection, fostering learning through
   trial and feedback.
-new_schema: true
 Topic:
   - '[[Deliberate Practice and Skill Acquisition]]'
 Origin: null
@@ -48,7 +47,11 @@ Research shows that only [Consistency compounds results through reliable repeate
 
 ### Opposers
 
+There's a real limit to this, though: [Automation of skill makes weaknesses permanent](/notes/automation-of-skill-makes-weaknesses-permanent.md) — racking up reps without paying attention can lock bad habits in just as easily as it builds good ones, so the quantity only helps when it comes with some awareness of what you're doing.
+
 ### Open questions
+
+How much conscious attention does practice actually need to avoid entrenching the wrong habits — is any repetition enough, or only certain kinds?
 
 ## Visual
 

@@ -1,8 +1,8 @@
 ---
 UUID: 20250929092704
 Created: '2025-09-29 09:27'
-Modified: '2026-04-11 22:28'
-Version: 3
+Modified: '2026-09-16 20:03'
+Version: 4
 tags: []
 excalidraw-plugin: null
 excalidraw-autoexport: png
@@ -15,7 +15,6 @@ Description: >-
   interactions, rather than focusing solely on individual components,
   acknowledging the complexity and interrelatedness of elements within a
   context.
-new_schema: true
 Topic:
   - '[[Systems and Structural Thinking]]'
 Origin: null
@@ -44,6 +43,8 @@ For example, the "cure" for headaches can vary greatly depending on what we are 
 ### Supporters
 
 ### Opposers
+
+[Atomism](/notes/understanding-requires-breaking-things-to-their-smallest-parts.md) takes the opposite bet — that decomposing something down to its smallest components is what actually reveals how it works, not obscures it.
 
 ### Open questions
 

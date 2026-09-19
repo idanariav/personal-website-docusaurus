@@ -1,13 +1,13 @@
 ---
 UUID: 20231230184923
 Created: '2023-12-30 18:49'
-Modified: '2026-04-11 22:27'
+Modified: '2026-09-16 15:44'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Social Environment
   - Peer Pressure
@@ -20,7 +20,6 @@ Description: >-
   The social environment refers to the collective norms and behaviors shaped by
   human interactions, influencing individual identity and beliefs, often leading
   to conformity and herd mentality.
-new_schema: true
 Topic:
   - '[[Social Nature]]'
 Origin: null
@@ -43,17 +42,21 @@ The problem arises when we become [passive](/notes/helplessness-is-perceiving-no
 
 ### Why it matters
 
-### Examples
-
-### Supporters
-
-### Opposers
-
 On a large scale, this leads to herd Mentality. when we are perhaps too influenced by [external forces](/notes/external-influence-constrains-authentic-identity-and-agency.md) such that we are not capable of independent thought. We have embraced completely our [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md) and became a pawn in someone or something else's world view.
 Usually this is accompanied by being a member of an organization, religion, political movement etc.
 
 Collective or group thinking is when we prioritize getting to a consensus on a given topic rather than exploring different viewpoints or ways of thinking [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md). This doesn't have to be conscious, members of a group can feel pressure, real or imaginary, to have the same opinion as the group, in a self-inflicted way. [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md) This not only changes their expressed opinion, but also their actual beliefs [Normalizing power shapes compliance through internalized social norms](/notes/normalizing-power-shapes-compliance-through-internalized-social-norms.md).
 Usually social hierarchy determines which opinion becomes the accepted one.
+
+### Examples
+
+### Supporters
+
+This doesn't even require direct interaction - [Social influence can spread without words, through ambient environment alone](/notes/social-influence-can-spread-without-words-through-ambient-environment-alone.md) suggests just being immersed in an environment is enough to shape us, no explicit norm or conversation needed.
+
+### Opposers
+
+Not everyone goes along, though - [Standing up for yourself is courageous authenticity against social pressure](/notes/standing-up-for-yourself-is-courageous-authenticity-against-social-pressure.md) shows that some choose their own values over the pull of the group, even when it costs them socially.
 
 ### Open questions
 
