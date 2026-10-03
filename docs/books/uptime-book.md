@@ -1,7 +1,7 @@
 ---
 UUID: 20241006233117
 Created: '2024-10-06 23:31'
-Modified: '2026-04-13 06:21'
+Modified: '2026-09-19 17:58'
 tags: []
 FullTitle: Uptime - A Practical Guide to Personal Productivity and Wellbeing
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 5
 Pages: 233
 Reread: 0
 Rate: 3
@@ -103,7 +103,7 @@ In Summary, it's a good starting book for the basics of productivity, but each o
 
 ### Introduction
 
-Productivity is not just a matter of outputs, it's has to be related to the inputs, our goals and intentions, otherwise it will lead to [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md). If we act according to our goals, then we are productive, no matter what those goals are, even if it's just watching TV. Productivity therefore is a A combination of *vision* and *execution*.
+Productivity is not just a matter of outputs, it's has to be related to the inputs, our goals and intentions, otherwise it will lead to [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md). If we act according to our goals, then we are productive, no matter what those goals are, even if it's just watching TV. [Productivity is acting in alignment with your goals](/notes/productivity-is-acting-in-alignment-with-your-goals.md) Productivity therefore is a A combination of *vision* and *execution*.
 
 A feeling of "in the zone", when we do the right thing at the right time in a productive and energetic way is called *uptime*, which is the equivalent of a [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md) experience. [Aligning tasks to energy levels improves performance and reduces resistance](/notes/aligning-tasks-to-energy-levels-improves-performance-and-reduces-resistance.md)
 
@@ -118,7 +118,7 @@ This cycle is also called a *loop*, which has the following stages:
 
 We should resist the (Goes against:: [Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md)) it's not about being busy, it's about focusing on what's important to you. Treat your time and energy as your bank account, don't just give it away to anyone who's asking. Think about the [Every choice costs the alternatives you gave up](/notes/every-choice-costs-the-alternatives-you-gave-up.md), what are you saying no to by saying yes to this.
 
-To avoid over committing, ask yourself what would your future you want you to do right now? [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md).
+To avoid over committing, ask yourself what would your future you want you to do right now? [Healthy self-talk prevents spiraling and builds resilience](/notes/healthy-self-talk-prevents-spiraling-and-builds-resilience.md).
 
 Time management is just the beginning, the true importance lies in energy management. A 30 minute block in your peak hours is not like 30 minutes in your afternoon slump. It's *flow + focus* which defines success.
 
@@ -142,7 +142,7 @@ Ask yourself "what are the 3 top priorities in your life", since there is only 1
 
 Once you have your priorities, you need to break it down to clear, actionable tasks [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md). Try having 3 tasks per priority. Additionally, it is recommended to use [Pre-mortem anticipates failure modes to enable preparation](/notes/pre-mortem-anticipates-failure-modes-to-enable-preparation.md) to plan ahead and see which obstacles you might face and how will you deal with it. If you see yourself spending too much of your time on non-prioritized tasks, do a [Analyze both results and methods to improve](/notes/analyze-both-results-and-methods-to-improve.md). Communicate these priorities to everyone around you so that you will be aligned, and use [Time Blocking](/notes/time-blocking.md) to make sure you allocate enough time for it.
 
-To ensure you don't focus just on unplanned urgent things that keeps on popping up, use the [Eisenhower matrix](/notes/eisenhower-matrix.md), and try to separate the urgent from the important. If the same type of things come up as urgent, that is a sign of a failure in the system, and not something that should be fixed ad-hoc each time.
+To ensure you don't focus just on unplanned urgent things that keeps on popping up, use the [Eisenhower matrix](/notes/eisenhower-matrix.md), and try to separate the urgent from the important. If the same type of things come up as urgent, that is a sign of a failure in the system, and not something that should be fixed ad-hoc each time. [Recurring urgency signals a systemic failure](/notes/recurring-urgency-signals-a-systemic-failure.md)
 
 :::note[Top Three Priorities]
 
@@ -170,7 +170,7 @@ To organize all our todos, we should use the list funnel:
 3. Daily list
 4. Hour by hour list
 
-The main list includes everything, all our todos in a single place. The more we clear our heads, the easier it will be for us, knowing that the main list remembers everything for us. The tasks in the main list should be divided by [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md), like things that can be done at home, work related, etc.
+The main list includes everything, all our todos in a single place. The more we clear our heads, the easier it will be for us, knowing that the main list remembers everything for us. [Our mind is a processor and not a warehouse](/notes/our-mind-is-a-processor-and-not-a-warehouse.md) The tasks in the main list should be divided by [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md), like things that can be done at home, work related, etc.
 
 To make it concrete, we decide what should be worked on this week, this helps us bring our priorities into life. Be realistic about what you can accomplish this week considering your commitments and limitations.
 
@@ -193,7 +193,7 @@ Not all time slots are created equal. We all have hours when we are more product
 
 #### Zero Based Calendaring
 
-To avoid the [Ownership Bias](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md), we need to think about our calendar from scratch, as if we had nothing on our schedule [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md). From there, we want to start blocking our power hours, the non negotiable, the daily themes, etc.
+To avoid the [Ownership Bias](/notes/ownership-inflates-entitlement-and-distorts-judgment.md), we need to think about our calendar from scratch, as if we had nothing on our schedule [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md). From there, we want to start blocking our power hours, the non negotiable, the daily themes, etc.
 
 #### Time Review
 
@@ -236,7 +236,7 @@ Thinking is easier once we are consistent, especially when we tie it to a locati
 
 #### The Balance of Boundaries
 
-It's important to have clear and explicit [boundaries](/notes/boundaries.md), and to communicate them to others. Try to use a [Empowering language builds confidence and agency](/notes/empowering-language-builds-confidence-and-agency.md) instead of a negative one, for example saying "I'm available between 2-5" instead of "don't book meetings after 5". This reduces the cognitive effort needed to interpret your boundaries, while also facilitating [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md) because you signal that you wish to find a common ground.
+It's important to have clear and explicit [Boundaries reduce ambiguity by clarifying mutual expectations](/notes/boundaries-reduce-ambiguity-by-clarifying-mutual-expectations.md), and to communicate them to others. Try to use a [Empowering language builds confidence and agency](/notes/empowering-language-builds-confidence-and-agency.md) instead of a negative one, for example saying "I'm available between 2-5" instead of "don't book meetings after 5". This reduces the cognitive effort needed to interpret your boundaries, while also facilitating [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md) because you signal that you wish to find a common ground.
 
 #### A Plan to Plan
 
@@ -254,14 +254,14 @@ Meetings can have a negative roi, as they say "this could have been an email". T
 
 #### Turn Your Tools into Power Tools
 
-Don't stick with the [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) settings, [personalize](/notes/ownership-means-taking-active-responsibility-and-control-of-your-environment.md) it, go over the settings, explore the features your tool offer, choose what is visible, how it is defined such that it matches your needs. Use keyboard shortcuts for increased efficiency.
+Don't stick with the [Intentionality is conscious presence that replaces automatic default behavior](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) settings, [personalize](/notes/ownership-means-taking-active-responsibility-and-control-of-your-environment.md) it, go over the settings, explore the features your tool offer, choose what is visible, how it is defined such that it matches your needs. Use keyboard shortcuts for increased efficiency.
 
 #### Get ahead of Distractions
 
-use [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md) in your favor. Avoid distractions by making them less likely in the first place, and increase [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) for getting distracted, like turning off your phone. Remember that [Multitasking is sequential task switching with cognitive switching costs](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md)
+use [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md) in your favor. Avoid distractions by making them less likely in the first place, and increase [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) for getting distracted, like turning off your phone. Remember that [Multitasking is sequential task switching with cognitive switching costs](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md)
 #### Mastering Email the Laundry Method
 
-Email can be a black hole for productivity, sucking us in for hours on end. The problem is that the inbox serves as a mirror image of our memory capacity. The more emails in the inbox, the less free memory we have.
+Email can be a black hole for productivity, sucking us in for hours on end. The problem is that the inbox serves as a mirror image of our memory capacity. The more emails in the inbox, the less free memory we have. [Unfinished tasks linger in the mind and reduce focus](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md)
 
 The solution is [Inbox Zero](/notes/inbox-zero.md). To use filters to delete or remove as many emails in advance from your inbox, and manually delete the rest. If you can create filters to highlight important emails (for example from your ceo) even better. Then, we sort through the remaining emails, dividing them into a *read*, *revisit* and *respond* piles. After taking the relevant action with an email, we archive it such that it won't appear in our inbox. That way we know exactly which emails remained unsolved and which we still need to go through.
 
@@ -269,10 +269,10 @@ The solution is [Inbox Zero](/notes/inbox-zero.md). To use filters to delete or 
 
 #### When-then Routines
 
-To create strong and useful routines, we can use the *when-then* method. We think of when we want to trigger a habit, for example "every Tuesday when I finish dinner and sit at the desk", and combine it with the habit itself "then I would read a book for 10 minutes". This gives clarity and consistency, which is exactly what's needed for forming a habit.
+To create strong and useful routines, we can use the *when-then* method. We think of when we want to trigger a habit, for example "every Tuesday when I finish dinner and sit at the desk", and combine it with the habit itself "then I would read a book for 10 minutes". This gives clarity and consistency, which is exactly what's needed for forming a habit. [When-then plans build habits through clarity](/notes/when-then-plans-build-habits-through-clarity.md)
 #### No Tech Tuesday
 
-We need to [Overcoming addiction requires removing all traces of it](/notes/overcoming-addiction-requires-removing-all-traces-of-it.md) ourselves from the [Fear of missing out fuels anxiety about opportunities we cannot take](/notes/fear-of-missing-out-fuels-anxiety-about-opportunities-we-cannot-take.md) effects of technology and especially the [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md), we can do this by choosing one night a week where we don't use our phones between dinner and bedtime.
+We need to [Overcoming addiction requires removing all traces of it](/notes/overcoming-addiction-requires-removing-all-traces-of-it.md) ourselves from the [Fear of missing out fuels anxiety about opportunities we cannot take](/notes/fear-of-missing-out-fuels-anxiety-about-opportunities-we-cannot-take.md) effects of technology and especially the [Attention-economy platforms are engineered to exploit psychological vulnerabilities](/notes/attention-economy-platforms-are-engineered-to-exploit-psychological-vulnerabilities.md), we can do this by choosing one night a week where we don't use our phones between dinner and bedtime.
 
 This freed up time is usually spent at being more with others, practicing a hobby, enjoying nature, or having a much needed rest.
 
@@ -290,7 +290,7 @@ This time in the morning ensures you are more than just a worker or a caretaker,
 
 #### Achieving Uptime
 
-Direction is more important than speed. Even implementing only some of the tips will already help you significantly in the long run [Repeated actions yield exponentially increasing returns over time](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md)
+Direction is more important than speed. [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md) Even implementing only some of the tips will already help you significantly in the long run [Repeated actions yield exponentially increasing returns over time](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md)
 
 :::note[Achieving Uptime]
 

@@ -1,13 +1,9 @@
 ---
 UUID: 20240511080713
 Created: '2024-05-11 08:07'
-Modified: '2026-04-11 22:25'
+Modified: '2026-09-19 15:44'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
-Image: null
-excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Ownership
   - Personalization
@@ -15,11 +11,14 @@ Description: >-
   The active engagement in taking responsibility and agency for one's
   environment or tasks, fostering empowerment and connection, particularly in a
   workplace context.
-new_schema: true
 Topic:
   - '[[Proactive Agency and Accountability]]'
 Origin: null
 URL: null
+Drawings:
+  - >-
+    [[Ownership means taking active responsibility and control of your
+    environment (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -43,13 +42,13 @@ Ownership is usually referred in workplace context, which means taking ownership
 
 ### Examples
 
-A common example is to design your workplace as you see fit, perhaps adding photos, bringing plants, moving furniture, etc. [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
+A common example is to design your workplace as you see fit, perhaps adding photos, bringing plants, moving furniture, etc. [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md)
 
 ### Supporters
 
 Taking ownership is a [proactive](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md) approach.
 
-To have ownership over something creates [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md), for better or for worse. We feel connected to it, as it is no longer [external](/notes/alienation-means-feeling-detached-from-life-and-others.md) to us. We are not just responsible over it, it is ours, we take pride in it's success, in it's beauty, and also in it's faults [You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md).
+To have ownership over something creates [Ownership inflates entitlement and distorts judgment](/notes/ownership-inflates-entitlement-and-distorts-judgment.md), for better or for worse. We feel connected to it, as it is no longer [external](/notes/alienation-means-feeling-detached-from-life-and-others.md) to us. We are not just responsible over it, it is ours, we take pride in it's success, in it's beauty, and also in it's faults [You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md).
 
 ### Opposers
 
@@ -59,4 +58,4 @@ Ownership can only be given in cases without [Micro-management restricts autonom
 
 ## Visual
 
-![Ownership](/notes/ownership.webp)
+![Ownership means taking active responsibility and control of your environment (sketch)](/sketches/ownership-means-taking-active-responsibility-and-control-of-your-environment-sketch.webp)

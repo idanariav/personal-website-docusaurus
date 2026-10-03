@@ -1,13 +1,13 @@
 ---
 UUID: 20231113163444
 Created: '2023-11-13 16:34'
-Modified: '2026-08-17 17:12'
+Modified: '2026-09-26 09:08'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 7
+Version: 8
 Image: '[[Communication is in our nature.png]]'
 ImageText: Two babies with speech bubbles communicating with each other
 Description: >-
@@ -28,7 +28,7 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-People enjoy social interaction - "nobody waves, but everyone waves back". Against our expectations, talking with others, even complete strangers is a very positive experience, more than [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md). That's true even for [introvert](/notes/introvert.md). [Human is a social being](/notes/human-is-a-social-being.md)
+People enjoy social interaction - "nobody waves, but everyone waves back". Against our expectations, talking with others, even complete strangers is a very positive experience, more than [Solitude enables introspection and deep cognitive work](/notes/solitude-enables-introspection-and-deep-cognitive-work.md). That's true even for [introvert](/notes/introverts-recharge-through-solitude-rather-than-social-stimulation.md). [Human is a social being](/notes/human-is-a-social-being.md)
 
 ### Explanation
 

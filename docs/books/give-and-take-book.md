@@ -1,7 +1,7 @@
 ---
 UUID: 20220705224352
 Created: '2022-07-05 22:43'
-Modified: '2026-04-19 20:14'
+Modified: '2026-09-20 08:09'
 tags: []
 Author:
   - '[[Adam Grant]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 320
 Rate: 4
 PublishDate: 2013-04-09T00:00:00.000Z
@@ -59,7 +59,8 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen?*
+It's nice to read a book that presents "givers" not only as good people but also as those who are most likely to success, and I agree with the saying that in the end reputation is something important, and that it is gained by connecting and helping others in a caring way.
 
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
@@ -76,8 +77,17 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-It's nice to read a book that presents "givers" not only as good people but also as those who are most likely to success, and I agree with the saying that in the end reputation is something important, and that it is gained by connecting and helping others in a caring way.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Giver Performance Distribution** – Statistical observation. Research shows that both the worst and best performers are givers, while takers and matchers tend to land in the middle. Supports: The claim that giving style is a critical predictor of extreme success or failure.
+2. **100-Hour Rule** – Data point. Volunteering 100 hours per year serves as the optimal range where giving is maximally energizing and minimally draining. Supports: The idea that "otherish" givers must manage the volume of their help to prevent burnout.
+3. **Teachers’ Self-Fulfilling Prophecies** – Research study. Students labeled as potential "bloomers" received more supportive behaviors from teachers, which subsequently boosted their actual performance and development. Supports: The idea that believing in the potential of others creates a self-fulfilling prophecy of success.
+4. **Weak Tie Bridges** – Social network concept. Strong ties typically share the same social circles and opportunities, whereas weak ties provide access to entirely different networks and original leads. Supports: The idea that diverse networks are built most efficiently by connecting with people outside one's immediate circle.
+5. **Responsibility Bias Correction** – Behavioral methodology. Listing a partner’s contributions _before_ estimating one’s own output corrects for the natural tendency to overestimate personal input. Supports: The idea that professional collaborations often fail due to ego-driven bias and that objective assessment is the cure.
+6. **Powerless Communication** – Communication strategy. Utilizing tentative speech, asking questions, and seeking advice allows people who lack formal authority to exert influence. Supports: The idea that vulnerability and modesty can build more influence and prestige than assertions of dominance.
+7. **Pronoun Tracking** – Observational heuristic. Observing whether individuals use first-person singular pronouns ("I," "me") versus collective pronouns ("us," "we") reveals self-centered versus group-centered motives. Supports: The idea that taker behavior is discernible through linguistic markers and attentiveness to others.
+8. **Generous Tit-for-Tat** – Game theory application. Successful givers start by trusting others, but remain prepared to shift to a more measured, protective strategy if they identify a taker. Supports: The idea that one can be an "otherish" giver while avoiding the negative consequences of being a "doormat."
+9. **The Reciprocity Ring** – Organizational mechanism. Structuring an environment where contributions are visible creates a norm where taking turns and helping becomes contagious. Supports: The idea that giving behaviors are socially contagious and can be encouraged through environmental design.
+10. **Expedition Behavior** – Code of conduct. A standard that prioritizes the group's goals, mission, and the well-being of others over personal gain. Supports: The idea that team success relies on interdependence and prioritizing collective missions over individual ego.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 The simplification of "givers, takers, and matchers" falls short near the end, because most things that make's givers not successful is because they don't have qualities easily found in takers, although the author tries to say that its not the same thing.
@@ -149,7 +159,7 @@ Giving makes our network grow because we are willing to give to those that we do
 
 ### The Ripple Effect Collaboration and the Dynamics of Giving and Taking Credit
 
-**The strength of a team comes not from the genius of a single member, rather from the level of their** cooperation [collective intelligence](/notes/collective-intelligence.md). They realize that [Dependency](/notes/dependency.md) is a strength, not a weakness. They create a feeling of [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md) because they are [authentic](/notes/acting-in-alignment-with-your-values-is-authenticity.md) in their desire to help the common cause.
+**The strength of a team comes not from the genius of a single member, rather from the level of their** cooperation [Intelligence is an emergent property of knowledge networks](/notes/intelligence-is-an-emergent-property-of-knowledge-networks.md). They realize that [Dependency trades autonomy for connection](/notes/dependency-trades-autonomy-for-connection.md) is a strength, not a weakness. They create a feeling of [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md) because they are [authentic](/notes/acting-in-alignment-with-your-values-is-authenticity.md) in their desire to help the common cause.
 
 Givers don't take the credit for themselves, but rather give credit to others [Ego](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md). We are inclined to think that we do more than others simply because we are more aware of our own actions than others. [We overestimate our contribution](/notes/we-overestimate-our-contribution.md)
 When givers are in a team, they are more free to do bold actions, because the team knows they do it for the right reasons, for the benefit of all, and not personal gain.
@@ -170,7 +180,7 @@ When givers are in a team, they are more free to do bold actions, because the te
 ### Finding the Diamond in the Rough The Fact and Fiction of Recognizing Potential
 
 Givers create good teams because they help others fulfil their potential, and promote information exchange, cooperation and trust. Givers are not necessarily geniuses, but they are "geniuses makers", they create the environment necessary for a genius to truly shine. [developing capabilities](/notes/developing-capabilities.md) They are a [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) to the team's success.
-Their team is more capable in the long run because believing in them and dedicating attention to their development is a [Self fulfilling prophecy](/notes/being-emerges-from-action-not-belief.md). [People are the most valuable organizational resource](/notes/people-are-the-most-valuable-organizational-resource.md)
+Their team is more capable in the long run because believing in them and dedicating attention to their development is a [Self fulfilling prophecy](/notes/expectations-of-others-become-self-fulfilling-through-behavior-shaping.md). [People are the most valuable organizational resource](/notes/people-are-the-most-valuable-organizational-resource.md)
 
 How do givers create better teams:
 1. They give more emphasis on [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) and motivation rather than natural talent [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md)
@@ -279,7 +289,7 @@ A sense of community increases our desire to help and give our community members
 **The stronger the shared identity with others, the more we want to help**. [Shared identity strengthens solidarity](/notes/shared-identity-strengthens-solidarity.md)
 The feeling of shared identity is actually stronger in smaller groups, because it combines the sense of [Belonging](/notes/inclusion-means-proactively-welcoming-and-believing-in-others.md) with the sense of being unique.
 When you create a community where giving is the norm, it creates a behavioral change in the members. Givers will reveal themselves since currently they tend to hide in communities where taking is the norm.
-Having more givers "out in the open" will encourage others to do the same [Role models embody behaviors and values we aspire to adopt](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md). [Signaling is displaying qualities to appear worthy or successful](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md)
+Having more givers "out in the open" will encourage others to do the same [Role models embody behaviors and values we aspire to adopt](/notes/role-models-embody-behaviors-and-values-we-aspire-to-adopt.md). [Visible behavior spreads through imitation](/notes/visible-behavior-spreads-through-imitation.md)
 
 :::note[The Scrooge Shift Why a Soccer Team, a Fingerprint, and a Name Can Tilt Us in the Other Direction]
 

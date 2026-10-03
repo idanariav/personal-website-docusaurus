@@ -1,13 +1,13 @@
 ---
 UUID: 20231228170954
 Created: '2023-12-28 17:09'
-Modified: '2026-04-11 22:32'
+Modified: '2026-09-22 20:24'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases: []
 Description: >-
   The perception of unpredictability in events, which raises questions about
@@ -39,7 +39,7 @@ Humans are pattern-recognition engines, and randomness is cognitively intolerabl
 
 ### Randomness as a Creative Force
 
-The same unpredictability that confounds prediction can be deliberately harnessed. [Deliberate exposure to randomness accelerates ideation and discovery](/notes/deliberate-exposure-to-randomness-accelerates-ideation-and-discovery.md) — when we constrain our inputs to known territory we optimize along known dimensions and miss the adjacent possible. Random exposure breaks local maxima. [Ideation](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md) and [exploration](/notes/exploration.md) benefit from deliberate encounters with the unfamiliar. Even in computation, randomness is a solution: random sampling resolves problems too expensive to solve exhaustively.
+The same unpredictability that confounds prediction can be deliberately harnessed. [Deliberate exposure to randomness accelerates ideation and discovery](/notes/deliberate-exposure-to-randomness-accelerates-ideation-and-discovery.md) — when we constrain our inputs to known territory we optimize along known dimensions and miss the adjacent possible. Random exposure breaks local maxima. [Ideation](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md) and [exploration](/notes/deliberately-encountering-the-unfamiliar-drives-growth.md) benefit from deliberate encounters with the unfamiliar. Even in computation, randomness is a solution: random sampling resolves problems too expensive to solve exhaustively.
 
 ### Building Systems That Survive Randomness
 

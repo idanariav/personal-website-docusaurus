@@ -1,8 +1,8 @@
 ---
 UUID: 20240102063113
 Created: '2024-01-02 06:31'
-Modified: '2026-04-13 06:14'
-Version: 2
+Modified: '2026-09-24 13:27'
+Version: 4
 tags: []
 ReadingStatus: Done
 FinishDate: 2024-02-13T00:00:00.000Z
@@ -46,13 +46,23 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen?*
+We would be able to educate children better, support deep thinking and not just memorization
+
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-We would be able to educate children better, support deep thinking and not just memorization
-
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Childhood curiosity parallel** – The natural inquiry of children is analogous to the scientific mind’s experimental attitude. Supports: The development of scientific thought stems from innate, natural tendencies in humans.
+2. **Idle vs. reflective thinking contrast** – Idle thinking (daydreaming, accepting rumors) is fundamentally distinct from reflective thinking, which demands evidence and suspends judgment. Supports: The necessity of rigorous, sustained training to transition from passive acceptance to active knowledge acquisition.
+3. **Faces in the clouds** – Idle thinking is compared to watching shapes in clouds, representing thoughts that pass through the mind without leaving an impact or enabling learning. Supports: Distinguishing between aimless mental drift and the structural, deliberate ordering of ideas.
+4. **The 5-step complete act of thought** – An analytical framework for thinking involving: (1) identification of the problem, (2) analysis, (3) generating a thesis, (4) weighing consequences, and (5) experimental testing. Supports: The systematic method required to move from perplexity to verified knowledge.
+5. **Intellectual breadth argument** – The assertion that any subject—from Greek to cooking—can be "intellectual" depending on whether it functions to spark inquiry and reflection. Supports: The idea that intellectual capacity is defined by the method of inquiry applied to a subject, rather than the content of the subject itself.
+6. **The hierarchy of language use** – Theory that language evolved primarily to influence others, secondarily for social connection, and only thirdly as a tool for systematic thought. Supports: The inherent difficulty of using language for objective reasoning due to its primary roles in social manipulation and emotion.
+7. **The inductive/deductive cycle** – The movement of thought where induction is used for discovering a binding principle, and deduction is used for testing that principle's validity. Supports: The methodology of systematic inference as a balanced, two-phase process.
+8. **The easy-hard proportionality** – A principle stating that effective learning requires balancing the familiar (easy) with the strange (difficult) to spark imagination without inducing hopelessness. Supports: The optimal conditions for creating an engaging, educational environment.
+9. **Freedom-through-difficulty metaphor** – Freedom is framed not as an absence of obstacles, but as the ability to "conquer" difficulties through personal reflection. Supports: True intellectual freedom is an acquired capacity for judgment rather than a state of unimpeded activity.
+10. **Words as tools** – Language is defined as an "instrument" used to capture and preserve meanings that otherwise escape us. Supports: Meaning-making relies on the ability to embed thoughts into sensible existences (words) to allow for further analysis.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -158,7 +168,7 @@ The teacher is more than the educator of a subject, he is not an invisible mediu
 #### the means and end of mental training, the psychological and the logical  
 Logical thinking is similar to [Systems thinking reveals mechanisms enabling effective change](/notes/systems-thinking-reveals-mechanisms-enabling-effective-change.md), to be able to break down a subject into it's component and understand the relations between them.  
 **This is the end goal of education, not the stating point**.  
-Educators should avoid teaching students through the different components [Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.md), but rather promote [Play](/notes/play.md) and reflective thinking. Only this would bring them to the expertise required to think systematically, otherwise it will only bring memorization, not understanding. 
+Educators should avoid teaching students through the different components [Breaking complex topics into smaller units improves learning and mastery](/notes/breaking-complex-topics-into-smaller-units-improves-learning-and-mastery.md), but rather promote [Play](/notes/unstructured-play-drives-learning-and-creativity.md) and reflective thinking. Only this would bring them to the [expertise](/notes/extracting-lessons-from-experience-is-what-builds-expertise.md) required to think systematically, otherwise it will only bring memorization, not understanding. 
   
 Also, it will bring discipline and freedom to the mind [Optimal outcomes emerge from balance between extremes not absolutes](/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes.md). **A free mind is one who is capable of assessing statements and follow their logical conclusion and act accordingly**, in contrast with those who are slave to external pressure and beliefs who take statements without judgment. Similarly, a disciplined mind has the power to control it's focus.  
   

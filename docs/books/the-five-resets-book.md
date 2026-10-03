@@ -1,7 +1,7 @@
 ---
 UUID: 20250817081037
 Created: '2025-08-17 08:10'
-Modified: '2026-04-13 06:19'
+Modified: '2026-10-02 13:41'
 tags: []
 FullTitle: The 5 Resets - Rewire Your Brain and Body for Less Stress and More Resilience
 Description: >-
@@ -24,7 +24,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 5
 Pages: 283
 Reread: 0
 Rate: 2
@@ -61,6 +61,16 @@ I would better manage my stress, notice when it gets too much and be able to mak
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Tea Kettle** – Metaphor: Stress accumulates like steam pressure in a closed vessel, requiring regular release to prevent an eventual breakdown. Supports: The necessity of active stress release tactics.
+2. **The Dam** – Metaphor: The brain functions like a dam, holding back crisis emotions and acute stress until one feels safe, at which point the restraint breaks and true emotions emerge. Supports: Why stress symptoms often appear only after a stressful event has passed.
+3. **The Canary Cry** – Analogy: Referring to physical symptoms like headaches or fatigue as a “canary cry” warning system. Supports: The practice of noticing physical symptoms early as a precursor to burnout.
+4. **The Rule of Two** – Scientific strategy: Implementing no more than two meaningful lifestyle changes at once to allow the brain to adapt without resisting. Supports: The claim that gradual, small changes are more sustainable than large, rapid ones.
+5. **The Three Zones** – Psychological framework: Descriptions of the "Fear," "Learning," and "Growth" zones individuals traverse during setbacks. Supports: The concept that stress recovery is a progressive journey rather than an immediate cure.
+6. **Hedonic vs. Eudaimonic Happiness** – Conceptual distinction: Hedonic happiness relies on temporary pleasure and dopamine, while Eudaimonic happiness focuses on meaning and purpose. Supports: The argument that we cannot rely on temporary pleasures (like retail therapy or binging) to solve chronic stress.
+7. **"Revenge" Bedtime Procrastination** – Behavioral observation: The tendency to stay up late to reclaim personal time after a demanding day, even at the expense of necessary sleep. Supports: The difficulty of prioritizing sleep in a high-stress lifestyle.
+8. **"Stop-Breath-Be" Technique** – Prescriptive ritual: A specific, actionable method involving consciously saying "stop," breathing, and presence. Supports: The argument that simple, immediate interventions can resynchronize out-of-sync mind and body states.
+9. **The Gut-Brain Connection** – Scientific finding: The gut contains neural receptors second only to the brain, directly influencing mood through the microbiome. Supports: The link between diet and emotional stability.
+10. **The Fake Commute** – Behavioral ritual: Creating a buffer (like a walk or coffee) to transition between work and home contexts. Supports: The idea that rituals help bypass overthinking and improve focus while multitasking creates cognitive cost.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -135,7 +145,7 @@ We sometimes mistakenly believe that stress is a badge of honor, something to be
 key messages on how to view your stress:
 1. **Notice the canary cry** - look for the symptoms of stress, of burnout, physical pain, constant fatigue.
 2. **Release your steam** - Like a tea kettle, stress builds up like pressure until we break. We must use ways to release it before it consumes us [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md)
-3. **You are not alone** - Stress is a common phenomenon. There's no reason to be ashamed for it, chances are everyone around you is experiencing it too. [Shame](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md)
+3. **You are not alone** - Stress is a common phenomenon. There's no reason to be ashamed for it, chances are everyone around you is experiencing it too. [Shame](/notes/shame-signals-that-who-we-are-is-unworthy.md)
 
 :::note[What’s Your Stress Really Telling You?]
 
@@ -178,11 +188,11 @@ It takes time to go through the different zones, but this process can be sped up
 
 Then, after you have your MOST goal, it's time for a *backwards plan*, go back from your goal one step back, planning what needs to be done by then until you reach your current state, that way you have a detailed step by step plan to get from today to your goal.
 
-We often use [hedonic happiness](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md) as a [Coping trades short-term relief for long-term cost](/notes/coping-trades-short-term-relief-for-long-term-cost.md) mechanism for our stress. We buy, we eat, we bing, we drink to forget it, but once the [dopamine](/notes/dopamine.md) hit wears off, the stress returns. This is the [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) in action, we always return back to our steady state. This is a feature, not a big. This also means that we can bounce back from negative experiences.
+We often use [hedonic happiness](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md) as a [Coping trades short-term relief for long-term cost](/notes/coping-trades-short-term-relief-for-long-term-cost.md) mechanism for our stress. We buy, we eat, we bing, we drink to forget it, but once the [dopamine](/notes/dopamine-drives-wanting-not-satisfaction.md) hit wears off, the stress returns. This is the [Adaptation returns happiness to baseline regardless of life changes](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) in action, we always return back to our steady state. This is a feature, not a big. This also means that we can bounce back from negative experiences.
 
 The alternative is [eudaemonic happiness](/notes/happiness-is-contentment.md), a sense of meaning and purpose that fills us with long term happiness.
 
-So find your *hidden treasure*, a joyful activity that makes you feel alive [Bursting with life](/notes/bursting-with-life.md)and try to do it daily for at least ten minutes. It can do wonders for your happiness. You don't need a [life changing](/notes/critical-moments-force-examination-of-identity-and-belief.md) event to shift to focusing on your happiness.
+So find your *hidden treasure*, a joyful activity that makes you feel alive [Bursting with life](/notes/feeling-bursting-with-life-signals-genuine-flourishing.md)and try to do it daily for at least ten minutes. It can do wonders for your happiness. You don't need a [life changing](/notes/critical-moments-force-examination-of-identity-and-belief.md) event to shift to focusing on your happiness.
 
 :::note[The First Reset: Get Clear on What Matters Most]
 
@@ -198,9 +208,9 @@ So find your *hidden treasure*, a joyful activity that makes you feel alive [Bur
 
 ### The Second Reset: Find Quiet in a Noisy World
 
-Our smartphones are causing a *drain brain*. The [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md) takes away our time, energy and mental capacity. It is a hidden stressor, and it's [addicting](/notes/addiction-is-escapism-that-destroys-self-control.md).
+Our smartphones are causing a *drain brain*. The [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md) takes away our time, energy and mental capacity. It is a hidden stressor, and it's [addicting](/notes/attention-economy-platforms-are-engineered-to-exploit-psychological-vulnerabilities.md).
 
-To only way to recover is to [Overcoming addiction requires removing all traces of it](/notes/overcoming-addiction-requires-removing-all-traces-of-it.md), by setting healthy [Boundaries](/notes/boundaries.md), such as:
+To only way to recover is to [Overcoming addiction requires removing all traces of it](/notes/overcoming-addiction-requires-removing-all-traces-of-it.md), by setting healthy [Boundaries reduce ambiguity by clarifying mutual expectations](/notes/boundaries-reduce-ambiguity-by-clarifying-mutual-expectations.md), such as:
 1. **Time limits** - only using your phone for x minutes a day
 2. **Geographical limits** - no phones in the bedroom
 3. **Logistical limits** - make it harder to access like removing apps and notifications
@@ -237,7 +247,7 @@ To make it easier for you to fall asleep:
 
 The mind-body connection is a very powerful mechanism. Our thoughts triggers emotions and vice versa. However, sometimes we get out of sync, and that's when we experience stress and burnout the most, because we ignore the signals our body's trying to tell us.
 
-A good technique for resynchronizing is *stop-breath-be*. No matter what you're doing, say to yourself "stop" out loud, take a moment to breathe [breathing](/notes/breathing.md), and focus on just being present.
+A good technique for resynchronizing is *stop-breath-be*. No matter what you're doing, say to yourself "stop" out loud, take a moment to breathe [breathing](/notes/conscious-breathing-regulates-the-nervous-system.md), and focus on just being present.
 
 Breathing is the only action that is both voluntary and involuntary in our body. It has great relaxing effects.
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20240418204317
 Created: '2024-04-18 20:43'
-Modified: '2026-04-13 06:18'
+Modified: '2026-09-19 16:12'
 tags: []
 FullTitle: The Art of Being
 Description: >-
@@ -24,7 +24,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 222
 Reread: 0
 Rate: 2
@@ -138,7 +138,7 @@ We should also avoid bad company, people who seek friendship only to gain someth
 
 #### No Effort no Pain
 
-We feel as if [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) is a problem, and [Hardship](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) are something that we need to get rid of. As if life is meant to be easy, simple, effortless. However, we have failed to acknowledge that it is through difficulties that we grow, live, rise [Adversarial Growth](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md).
+We feel as if [friction](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) is a problem, and [Hardship](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) are something that we need to get rid of. As if life is meant to be easy, simple, effortless. However, we have failed to acknowledge that it is through difficulties that we grow, live, rise [Adversarial Growth](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md).
 
 #### Anti Authority
 

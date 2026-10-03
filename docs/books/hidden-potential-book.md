@@ -1,8 +1,8 @@
 ---
 UUID: 20240516185115
 Created: '2024-05-16 18:51'
-Modified: '2026-09-19 07:27'
-Version: 2
+Modified: '2026-09-22 06:32'
+Version: 3
 tags: []
 PublishDate: 2023-10-26T00:00:00.000Z
 Pages: 218
@@ -209,7 +209,7 @@ Scaffoldings are temporary structure that allows us to maintain our motivation i
 #### Transforming the Daily Grind
 **Infusing passion into practice**
 
-While [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md) is a famous way of improving at something, it usually caused [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md) and even [Boreout](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md) since it is so repetitive and difficult. To prevent those and maintain our [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) in the long run, we need to add [Play](/notes/play.md) and [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md) to our practice, like trying to do it in a different way, to compete against ourselves in time or other unique challenges. Only if it's enjoyable we would be able to stick with it in the long run.
+While [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md) is a famous way of improving at something, it usually caused [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md) and even [Boreout](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md) since it is so repetitive and difficult. To prevent those and maintain our [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) in the long run, we need to add [Play](/notes/unstructured-play-drives-learning-and-creativity.md) and [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md) to our practice, like trying to do it in a different way, to compete against ourselves in time or other unique challenges. Only if it's enjoyable we would be able to stick with it in the long run.
 
 To make sure play doesn't turn into "work", we need to take breaks [Empty Space](/notes/every-system-needs-empty-space-to-function.md), not only it allows us to recharge, but also the skill is further developed by our [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md) that keeps on processing in the background.
 

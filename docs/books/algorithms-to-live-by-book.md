@@ -1,7 +1,7 @@
 ---
 UUID: 20231231152539
 Created: 2022-03-30T08:05:00.000Z
-Modified: '2026-04-17 16:00'
+Modified: '2026-09-30 12:22'
 tags: []
 Author:
   - '[[Brian Christian]]'
@@ -18,7 +18,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 4
+Version: 5
 Pages: 368
 Rate: 4
 PublishDate: 2016-04-19T00:00:00.000Z
@@ -80,6 +80,16 @@ SiteProcssed: true
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
+1. **37% Rule (Look-Then-Leap Algorithm)** – Withhold judgment for the first 37% of options, then commit to the first candidate that outperforms all those seen during the initial "look" phase. Supports: The optimal stopping strategy for decision-making under uncertainty.
+2. **Dating Timeline Analysis** – Applying the 37% rule to a marriage search window of 18 to 40 suggests the optimal time to settle down is between 26 and 28. Supports: The practical utility of algorithmic thinking in personal life events.
+3. **Multi-level Caching Analogy** – Arranging belongings in hierarchical storage (e.g., desk drawer for high-use vs. warehouse for low-use) balances access speed against limited memory space. Supports: The strategy of organizing items by frequency of use rather than by category.
+4. **Exponential Backoff Protocol** – In network communication, increasing the delay between retries after each failure prevents network congestion. Supports: A model for handling interpersonal conflict or persistence, where repeated offenses require larger thresholds for redemption.
+5. **Sorting Methodologies (e.g., Merge vs. Bubble Sort)** – Comparing the efficiency of specific sorting algorithms demonstrates that "scale hurts," making it often more efficient to leave data unsorted. Supports: The idea that the search-sort tradeoff often favors accepting a disorganized state for smaller datasets.
+6. **Constraint and Continuous Relaxation** – Methods like "Arnold Palmer" blends (a mix of lemonade and iced tea) or loosening deadlines turn intractable problems into solvable approximations. Supports: The necessity of simplifying or bending rules to make progress on highly complex real-world tasks.
+7. **Upper Confidence Bound Algorithm** – This model prioritizes options based on their potential future performance rather than solely on past results, promoting an optimistic outlook. Supports: The argument that sustained exploration and calculated optimism are the best ways to minimize long-term regret.
+8. **Information Cascades** – A phenomenon where individuals witness the actions of others, misinterpret them as fundamental beliefs, and join a consensus, leading to systemic error. Supports: The warning against relying on public consensus over private information when making decisions.
+9. **Ebbinghaus Forgetting Curve** – This psychological data mirrors computer caching principles, suggesting the brain purges information based on the frequency of its need. Supports: The theory that forgetting is an optimized cognitive function, not a failure of storage capacity.
+10. **Simulated Annealing** – Using "randomness" (or "jittering") to force a system out of a local optimum allows it to eventually find the global optimum. Supports: The value of periodically introducing randomness to avoid getting stuck in rigid or suboptimal patterns.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 many of the situations computer face are in controlled settings, where there are limitations on inputs or outputs, such that the computer could understand and find the optimal solution. in human life, things are much more vague, abstract and undefined, so not all algorithms will be easy to implement or even give guidelines to how to start solving a problem.
@@ -323,7 +333,7 @@ When the information flowing into the network is higher than the amount it can p
 
 examples for exponential backoff in real life - instead of giving each person an equal amount of tries and after that there's no going back, we should give them infinite tries but with larger thresholds for success. for example - on your first criminal offense, get only 1 day in jail, the second time, 5 days, etc... [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md)
 if a friend has let you down, don't burn the bridge. give him another chance but he will have to work harder to prove to you that he's worthy of your [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md).
-We sometimes forget to have an "ignore threshold" in our personal lives. For example we let social media interrupted us constantly even when we can no longer take it. We should therefore set a threshold, for example - "from six o'clock I don't receive new messages/emails, any new message would be deleted - and not treated on a later date" [Boundaries](/notes/boundaries.md).
+We sometimes forget to have an "ignore threshold" in our personal lives. For example we let social media interrupted us constantly even when we can no longer take it. We should therefore set a threshold, for example - "from six o'clock I don't receive new messages/emails, any new message would be deleted - and not treated on a later date" [Boundaries reduce ambiguity by clarifying mutual expectations](/notes/boundaries-reduce-ambiguity-by-clarifying-mutual-expectations.md).
 
 :::note[Networking How We Connect]
 
@@ -336,7 +346,7 @@ We sometimes forget to have an "ignore threshold" in our personal lives. For exa
 
 ### Game Theory
 
-Nash equilibrium is not always easy to find, and even if it does exist, its not necessarily good, like the equilibrium in the prisoner's dilemma. One possible answer is to create mechanisms that promote switching to the optimal state, for example forcing cooperation by increasing the penalty for "snitching". Similarly, auctions are planned in a way that will make telling the truth the dominant's strategy. [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
+Nash equilibrium is not always easy to find, and even if it does exist, its not necessarily good, like the equilibrium in the prisoner's dilemma. One possible answer is to create mechanisms that promote switching to the optimal state, for example forcing cooperation by increasing the penalty for "snitching". Similarly, auctions are planned in a way that will make telling the truth the dominant's strategy. [Choice architecture](/notes/choice-architecture-steers-decisions-by-changing-how-options-are-presented.md)
 We can view emotions, especially anger and revenge as social mechanisms that are used to create those balances, and to push us towards "better" or more righteous equilibriums. [Emotions provide decision-relevant information when navigating choices](/notes/emotions-provide-decision-relevant-information-when-navigating-choices.md). Individuals are willing to pay a higher personal cost to reduce crimes, and vices and by that they improve the social optimum.
 Secondly, there are harmful equilibriums that are caused by information gaps, or between "personal" and "public" information. When I deduce wrongful conclusions from someone else's behaviors on his reasons for action we can cause a destructive herd mentality where everyone is supposedly "rational", but the result is catastrophic. [Game Theory](/notes/game-theory.md)
 

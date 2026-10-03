@@ -1,7 +1,7 @@
 ---
 UUID: 20230929062943
 Created: '2023-09-29 06:29'
-Modified: '2026-04-13 06:18'
+Modified: '2026-09-30 15:15'
 tags: []
 FullTitle: The 12 Week Year - Get More Done in 12 Weeks than Others Do in 12 Months
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 209
 Reread: 0
 Rate: 3
@@ -81,6 +81,7 @@ SiteProcssed: true
 
 ## Notes
 
+
 ### Part 1 - Things You Think You Know
 
 #### Chapter 1 - The Challenge
@@ -98,7 +99,7 @@ SiteProcssed: true
 
 #### Chapter 2 - Redefining the Year
 
-**Annual planning is more harmful than good**. It creates [Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md) at the beginning, because we "have a lot of time left", and we make up for it at the end.
+**Annual planning is more harmful than good**. [A task takes as much time as you give it](/notes/a-task-takes-as-much-time-as-you-give-it.md) It creates [Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md) at the beginning, because we "have a lot of time left", and we make up for it at the end.
 
 The "end" of the year is an arbitrary deadline [Deadlines force action by adding consequences](/notes/deadlines-force-action-by-adding-consequences.md) that pushes us towards action. Therefore, **why not create a shorter timeframe, where the deadline is close enough to generate the sense of urgency right from the start**, and avoid procrastination, but far enough to have time to produce meaningful results?
 
@@ -117,7 +118,7 @@ The "end" of the year is an arbitrary deadline [Deadlines force action by adding
 
 **Action doesn't come without motivation, and motivation stems from having a vision**. [change starts from the inside out](/notes/change-starts-from-the-inside-out.md). Without it, it will be much harder to stick to actions that are annoying or painful in the short term, for the benefits in the long term. [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md)
 
-Having a vision has an additional benefit, due to [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md), thinking about fulfilling our potential, about growth, can cause our brain to change such that actions related to growth are seem more positive, with more internal motivation to do them, and less stress. **Thinking about change allows us to want it.** [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md)
+Having a vision has an additional benefit, due to [The brain adapts and strengthens connections through use and experience](/notes/the-brain-adapts-and-strengthens-connections-through-use-and-experience.md), thinking about fulfilling our potential, about growth, can cause our brain to change such that actions related to growth are seem more positive, with more internal motivation to do them, and less stress. [Visualizing growth potential increases intrinsic motivation](/notes/visualizing-growth-potential-increases-intrinsic-motivation.md) **Thinking about change allows us to want it.** [self-fulfilling](/notes/expectations-of-ourselves-become-self-fulfilling-through-behavior-shaping.md)
 
 :::note[Quotes]
 
@@ -162,7 +163,7 @@ Review your weekly plan once a week, and your daily plan at the start of the day
 
 #### Chapter 6 - Confronting the Truth
 
-**To only way to know if you are sticking to your plan is to do score keeping**, both of lag (results) indicators, and lead (inputs) indicators.
+**To only way to know if you are sticking to your plan is to do score keeping**, both of [lag](/notes/lag-measures.md) (results) indicators, and [lead](/notes/lead-measures.md) (inputs) indicators.
 
 These indicators can give a useful feedback on the usefulness of our plan and outcomes. The key is consistency, not perfection. Sometimes we will fail to reach our weekly goal, but we should use that as motivation to improve the week after. [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md)
 
@@ -209,7 +210,7 @@ Have three separate blocks during your week:
 
 #### Chapter 9 - Interest Vs Commitment
 
-Being "interested" is a low stakes, low effort situation. It is an unstable situation where results are not likely to show up.
+Being "interested" is a low stakes, low effort situation. It is an unstable situation where results are not likely to show up. [Interest without commitment rarely produces results](/notes/interest-without-commitment-rarely-produces-results.md)
 However, **to be committed is to promise yourself, to bind yourself**. It requires a strong drive, a sacrifice of time and resources, and doing even when you don't feel like it. (Goes against motivational scheduling)
 
 :::note[Quotes]
@@ -235,7 +236,7 @@ Results are an indication of your success, not the success itself.
 
 #### Chapter 11 - Intentional Imbalance
 
-Life is not a perfect balance between all areas of life. Try and be intentional with your time, focusing each time at a different section of life.
+Life is not a perfect balance between all areas of life. Try and be intentional with your time, focusing each time at a different section of life. [Balance means intentional focus, not equal division](/notes/balance-means-intentional-focus-not-equal-division.md)
 
 ### Part 2 - Putting it All together
 
@@ -292,7 +293,7 @@ When planning, focus on these aspects:
 
 #### Chapter 15 - Installing Process Control
 
-Process control are tools that reduce your need for will power when sticking to the plan, and increase chances of consistency.
+Process control are tools that reduce your need for will power when sticking to the plan, and increase chances of consistency. [Systems reduce reliance on willpower](/notes/systems-reduce-reliance-on-willpower.md)
 
 There are two main components:
 1. **Weekly plan** - based on the 12 week plan, create a weekly plan that takes the necessary tactics and deadlines for that week. Best to plan it at the beginning of the week, and review it each day
@@ -309,7 +310,7 @@ There are two main components:
 
 #### Chapter 16 - Keeping Score
 
-**Without measurement there can be no progress and no improvements**.
+**Without measurement there can be no progress and no improvements**. [Measurement is a prerequisite for progress](/notes/measurement-is-a-prerequisite-for-progress.md)
 Use lag and lead indicators, preferably more frequent ones. For example, a quarterly indicator
 leaves no flexibility and it is hard to learn from it.
 Don't be afraid to give yourself a bad score, and a bad score doesn't mean you should stop your plan.
@@ -326,7 +327,7 @@ Be honest, learn from your indicators what you should improve, and remember that
 
 #### Chapter 17 - Take back Control of Your Day
 
-Focus on your priorities first, don't assume that you can "do it all". If you stick to "urgent" first, you will never get to the important things.
+Focus on your priorities first, don't assume that you can "do it all". If you stick to "urgent" first, you will never get to the important things. [Urgency crowds out importance](/notes/urgency-crowds-out-importance.md)
 
 have 3 blocks:
 1. **Strategic**: a weekly, 3-hour block to deal with deep work and advance towards your goal
@@ -349,7 +350,7 @@ Don't fall for distractions, use your calendar, your plan, and your vision to st
 
 #### Chapter 18 - Taking Ownership
 
-**Instead of making excuses, of blaming everybody else, embrace your mistakes, learn from them, and do better next time**.
+**Instead of making excuses, of blaming everybody else, embrace your mistakes, learn from them, and do better next time**. [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md)
 Accountability is never about the results, but rather the process. Is to stop being a victim and take control of your life, to continue to learn, to advance, to imagine a better future.
 Understand what is in your realm of influence, and work constantly to expand it, while improving everything within it.
 
@@ -365,7 +366,7 @@ Understand what is in your realm of influence, and work constantly to expand it,
 
 #### Chapter 19 - 12 Week Commitment
 
-Commitment is a promise, that if broken it breaks trust in yourself, and your relationships with others. It might be better to say no (never commit) than to commit only to break your promise.
+Commitment is a promise, that if broken it breaks trust in yourself, and your relationships with others. [Broken commitments erode self-trust](/notes/broken-commitments-erode-self-trust.md) It might be better to say no (never commit) than to commit only to break your promise.
 Therefore, once you have committed, you should be all in. Have an account ability buddy, and try to connect your commitment to a deep drive, that will keep you motivated in difficult times.
 
 :::note[Quotes]
@@ -375,5 +376,6 @@ Therefore, once you have committed, you should be all in. Have an account abilit
 - the first key to effective commitments is a strong desire. The commitment mind-set is to choose pleasurable results over pleasurable activity. ([Location 2516](https://readwise.io/to_kindle?action=open&asin=B00CU9P31K&location=2516))
 
 :::
+
 
 

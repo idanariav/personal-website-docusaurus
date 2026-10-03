@@ -1,7 +1,7 @@
 ---
 UUID: 20220822073106
 Created: '2022-08-22 07:31'
-Modified: '2026-04-13 06:15'
+Modified: '2026-09-30 12:22'
 tags: []
 FinishDate: 2022-08-21T00:00:00.000Z
 Author:
@@ -15,7 +15,7 @@ Fiction: false
 URL: >-
   https://www.goodreads.com/book/show/37880811-make-time?from_search=true&from_srp=true&qid=Tv6lw5RhXU&rank=1
 aliases: null
-Version: 2
+Version: 3
 ReadingStatus: Done
 Genre: Business & Economics
 Cover: >-
@@ -80,10 +80,10 @@ some of the tactics are worthwhile, others are very specific
 
 Two powers are always affecting us - the "busy bandwagon" [Hustle culture equates busyness with progress and causes burnout](/notes/hustle-culture-equates-busyness-with-progress-and-causes-burnout.md) which is the expectation to always do more, to be more productive, but the more you do, the more you have to do.  
 The second is the infinity pool [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md), which is the endless distractions from our devices.  
-To make time we have to resist these forces, but not with will power, but with changing the defaults ([Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)), such as deleting the app from your phone. The purpose of make time is to make time to what you want to do (such as family or side projects), like the big stones in the analogy, not to have more time for those forces.  
+To make time we have to resist these forces, but not with will power, but with changing the defaults ([Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md)), such as deleting the app from your phone. The purpose of make time is to make time to what you want to do (such as family or side projects), like the big stones in the analogy, not to have more time for those forces.  
   
 The key ingredients of make time:  
-1. **Daily highlight** [focusing question](/notes/focusing-question.md)
+1. **Daily highlight** [focusing question](/notes/a-single-question-narrows-complexity-to-one-priority.md)
 2. **Laser focus** on the daily highlight  
 3. **Energize** throughout the day  
 4. **Review** - review your progress
@@ -147,7 +147,7 @@ Schedule your highlight in your calendar, it will focus you. Make sure to not le
 
 
 ### Laser focus  
-in order to be focused on your highlight, you need to reduce [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md), don't depend on will power, adjust the environment such that it will have fewer distractions to begin with, and harder for you to reach them [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md) [Minimalism](/notes/improvement-often-comes-from-removing-rather-than-adding.md)  [Task switching incurs cognitive costs that reduce productivity](/notes/task-switching-incurs-cognitive-costs-that-reduce-productivity.md)
+in order to be focused on your highlight, you need to reduce [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md), don't depend on will power, adjust the environment such that it will have fewer distractions to begin with, and harder for you to reach them [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md) [Minimalism](/notes/improvement-often-comes-from-removing-rather-than-adding.md)  [Task switching incurs cognitive costs that reduce productivity](/notes/task-switching-incurs-cognitive-costs-that-reduce-productivity.md)
 do actions such as:  
 1. delete apps from phone and disable notification  
 2. clear your home screen  

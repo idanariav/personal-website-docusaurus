@@ -1,12 +1,12 @@
 ---
 UUID: 20220715053856
 Created: '2022-07-15 05:38'
-Modified: '2026-09-02 15:40'
+Modified: '2026-10-02 13:41'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 8
+Version: 10
 Image: '[[Guilt signals when we fail to act on what we control.png]]'
 ImageText: A red button pushed vs a blue button unpushed
 Description: >-
@@ -20,7 +20,6 @@ URL: >-
   https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/39E17/traffic.megaphone.fm/HSW3326477518.mp3?updated=1643918660 
 aliases:
   - Guilt
-  - Shame
 draft: false
 SiteProcssed: true
 ---
@@ -30,7 +29,7 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-Most often we feel guilt or shame when we are [blamed](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md) (either by others or by ourselves) for something bad that we had done when we could have done differently, indicating our sense of [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md).
+Most often we feel guilt when we are [blamed](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md) (either by others or by ourselves) for something bad that we had done when we could have done differently, indicating our sense of [Agency is the ability to connect desires and actions](/notes/agency-is-the-ability-to-connect-desires-and-actions.md).
 
 ### Explanation
 We should distinguish between guilt that arises from real damage that we have caused in the world, to feeling guilty over things that are either imaginary or not in our control. This second type stems from our [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md), we fail to see reality as it is, so we add to it layers of [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) and interpretation that might even not be positive.
@@ -40,9 +39,8 @@ We are very bad at being [objective](/notes/seeing-reality-without-subjective-bi
 It can also result from unfair [comparisons](/notes/comparing-ourselves-to-others-damages-wellbeing-and-progress.md). For example if in the past you had time to do x, and now you don't, it would be unfair for you to expect yourself to reach the same standard. You always have to set your [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) in accordance with reality [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md).
 
 ### Why it matters
-Shame is a very powerful emotion, perhaps even more than fear because we are [social beings](/notes/human-is-a-social-being.md). We intuitively care about others opinion of us, so we will do almost anything to avoid being shamed, even at the price of self harm like loosing [Acting in alignment with your values is authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.md), or at the price of creating an even bigger lie just to cover up your shameful acts (which will ultimately result in more shame and pain once the truth will come out) [Coping trades short-term relief for long-term cost](/notes/coping-trades-short-term-relief-for-long-term-cost.md).
 
-Additionally, the more we care about our [Ego](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md), the more sensitive we become to shame.
+Guilt is useful when it points at real harm we can repair, but when it is about things imagined or beyond our control it only adds weight. When it spills over from what we did to who we are, it turns into [shame](/notes/shame-signals-that-who-we-are-is-unworthy.md).
 
 ### Examples
 

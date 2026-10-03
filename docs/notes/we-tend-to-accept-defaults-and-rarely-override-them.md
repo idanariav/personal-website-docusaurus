@@ -1,13 +1,13 @@
 ---
 UUID: 20231230191213
 Created: '2023-12-30 19:12'
-Modified: '2026-09-02 16:57'
+Modified: '2026-09-30 12:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[We tend to accept defaults and rarely override them.png]]'
 ImageText: An auto-play button for "Next episode" with an arrow pointing forward
 Description: >-
@@ -16,7 +16,6 @@ Description: >-
   exhaustion, and emotional instability.
 aliases:
   - Defaults
-new_schema: true
 Topic:
   - '[[Decision Traps and Biases]]'
 Origin: null
@@ -44,11 +43,11 @@ This could be due to:
 
 ### Why it matters
 
-Defaults can be good or bad, depending on the default choice. Unfortunately, the [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md) pushes us towards negative defaults such as doom scrolling. However, we can [design](/notes/environmental-design-influences-behavior-through-choice-architecture.md) an environment with good defaults, for example using [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md) that turns the good behavior into the default one, such as using an automated transfer into savings account every month.
+Defaults can be good or bad, depending on the default choice. Unfortunately, the [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md) pushes us towards negative defaults such as doom scrolling. However, we can [design](/notes/choice-architecture-steers-decisions-by-changing-how-options-are-presented.md) an environment with good defaults, for example using [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md) that turns the good behavior into the default one, such as using an automated transfer into savings account every month.
 
 ### Examples
 
-For example, organ donation rates are far higher in countries where donation is the default on the form and opting out takes effort, compared to countries where donating requires actively opting in [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md).
+For example, organ donation rates are far higher in countries where donation is the default on the form and opting out takes effort, compared to countries where donating requires actively opting in [choice architecture](/notes/choice-architecture-steers-decisions-by-changing-how-options-are-presented.md).
 
 ### Supporters
 

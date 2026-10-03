@@ -1,7 +1,7 @@
 ---
 UUID: 20220901091016
 Created: '2022-09-01 09:10'
-Modified: '2026-08-08 06:16'
+Modified: '2026-09-23 06:17'
 tags: []
 Author:
   - '[[Cal Newport]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 4
+Version: 6
 Pages: 302
 Rate: 3
 PublishDate: 2019-02-05T00:00:00.000Z
@@ -143,7 +143,7 @@ digital minimalism principles:
 Deep dive:
 1. **Clutter** - think economically about your life, how you spend your minutes. Would you really want to "pay" 2 hours a day for the gains you get from social media? Are there better alternatives? Be like Henry David Thoreau that calculated what is the minimal amount of money he needed for his basic needs, and rested all the rest, that way he worked only one day a week. [Every choice costs the alternatives you gave up](/notes/every-choice-costs-the-alternatives-you-gave-up.md)
 2. **optimization** - We need to spend more focus on [Optimization finds the efficient point balancing outputs and inputs](/notes/optimization-finds-the-efficient-point-balancing-outputs-and-inputs.md) .currently small improvements to the way we use technology can lead to a drastic change in our wellbeing, because we spend too little on finding the optimal point, instead being sucked in too deep where every minute is more harmful to us than good. i.e we stick to the [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md), and lack [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md)
-3. **use technology with awareness** - like noticing what you eat and be mindful about it. Keep your autonomy by actively choosing which technologies you use and why, and not succumbing to the [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md)
+3. **use technology with awareness** - like noticing what you eat and be mindful about it. Keep your autonomy by actively choosing which technologies you use and why, and not succumbing to the [Attention-economy platforms are engineered to exploit psychological vulnerabilities](/notes/attention-economy-platforms-are-engineered-to-exploit-psychological-vulnerabilities.md)
 
 :::note[Digital Minimalism]
 
@@ -166,7 +166,7 @@ b. have a [Overcoming addiction requires removing all traces of it](/notes/overc
 c. reinsert the technologies back only if:
 * it support one of your [Core values guide authentic identity and moral action](/notes/core-values-guide-authentic-identity-and-moral-action.md).
 * it is the best way to support this value
-* you have defined clear rules and [Boundaries](/notes/boundaries.md) of using this technology
+* you have defined clear rules and [Boundaries reduce ambiguity by clarifying mutual expectations](/notes/boundaries-reduce-ambiguity-by-clarifying-mutual-expectations.md) of using this technology
 
 :::note[The Digital Declutter]
 
@@ -198,7 +198,7 @@ for example, a [Nature restores mental health and renews focus through immersive
 #### Don't Click "Like"
 we are social animals by default [Human is a social being](/notes/human-is-a-social-being.md), when uninterrupted, our brain "fires" regions that are related to social issues. this social need doesn't get fulfilled from social media, we need deep long conversation, that involve facial expressions, not the mere shallowness of text. [Every object is a representation of a flawless essence](/notes/every-object-is-a-representation-of-a-flawless-essence.md)
 thus, social media should be a supporter of real life social events, and not the replacement of communication. so:
-set up events using Facebook = good [social media is beneficial if it promotes face to face interaction](/notes/social-media-is-beneficial-if-it-promotes-face-to-face-interaction.md)
+set up events using Facebook = good [social media is beneficial if it promotes face to face interaction](/notes/social-media-is-beneficial-when-it-facilitates-face-to-face-interaction.md)
 have a chat/hit "like" or "comment" instead of calling/meeting = bad
 
 :::note[Don’t Click “Like”]
@@ -214,7 +214,7 @@ have a chat/hit "like" or "comment" instead of calling/meeting = bad
 
 #### Reclaim Leisure
 the transition (i.e decluttering your life) wont be successful unless you fill the time you previously spend doing digital things with other activities. [Replacing removed habits sustains behavior change](/notes/replacing-removed-habits-sustains-behavior-change.md)
-the book recommends on doing high leisure activities, which are: [leisure](/notes/leisure.md)
+the book recommends on doing high leisure activities, which are: [leisure](/notes/active-leisure-restores-better-than-passive-consumption.md)
 1. something active (do, instead of watch)
 2. something physical (such as a craft or a hobby)
 3. something social (such as sports or board games)
@@ -251,4 +251,5 @@ to make the transition easier, it is suggested to:
 - the key to sustained success with this philosophy is accepting that it’s not really about technology, but is instead more about the quality of your life.
 
 :::
+
 

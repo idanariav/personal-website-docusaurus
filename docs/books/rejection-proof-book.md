@@ -1,7 +1,7 @@
 ---
 UUID: 20251021080451
 Created: '2025-10-21 08:04'
-Modified: '2026-09-02 11:00'
+Modified: '2026-09-19 16:14'
 tags: []
 FullTitle: >-
   Rejection Proof - How I Beat Fear and Became Invincible Through 100 Days of
@@ -26,7 +26,7 @@ ASIN: 080414138X
 sketch-editor-plugin: ''
 Purchased: true
 Fiction: false
-Version: '13'
+Version: 15
 Pages: 241
 Reread: 0
 Rate: 3
@@ -111,7 +111,7 @@ Many of us keep a pile of sacred dreams tucked away, afraid to let them out beca
 
 ### Fighting Rejection
 
-Facing rejection is [terrifying](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md) because it can hurt our [Self esteem](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md) [Fear of rejection stems from perceived threat to self-worth and identity](/notes/fear-of-rejection-stems-from-perceived-threat-to-self-worth-and-identity.md). We imagine the worst-case scenarios: being ridiculed, punished, ignored, or offending someone with our request. Our [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) of what might happen takes over, turning our [Prediction](/notes/prediction.md) into a nightmare.
+Facing rejection is [terrifying](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md) because it can hurt our [Self esteem](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md) [Fear of rejection stems from perceived threat to self-worth and identity](/notes/fear-of-rejection-stems-from-perceived-threat-to-self-worth-and-identity.md). We imagine the worst-case scenarios: being ridiculed, punished, ignored, or offending someone with our request. Our [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md) of what might happen takes over, turning our [Prediction](/notes/prediction.md) into a nightmare.
 
 However, when we muster the courage to ask for what we want, we often find that the harmful responses we visualized don't happen. We might even get a "yes." [People are inherently good](/notes/humans-are-good-as-default.md)
 
@@ -224,7 +224,7 @@ Rejection can cultivate [Empathy means understanding and acting on another's per
 
 ### Finding Freedom
 
-When we no longer fear rejection, we are free to be ourselves. We miss countless opportunities simply because we're afraid of being turned down. Without this fear, we gain the freedom to pursue our goals and be who we wish to be. [Acting in alignment with your values is authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.md)
+When we no longer fear rejection, we are free to be ourselves. We miss countless opportunities simply because we're afraid of being turned down. Without this fear, we gain the freedom to pursue our goals and be who we wish to be. [authenticity](/notes/surrendering-agency-to-external-forces-destroys-individual-identity.md)
 
 :::note[Finding Freedom]
 

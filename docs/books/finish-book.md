@@ -1,7 +1,7 @@
 ---
 UUID: 20250713203230
 Created: '2025-07-13 20:32'
-Modified: '2026-08-10 06:29'
+Modified: '2026-10-02 13:41'
 tags: []
 Author:
   - '[[Jon Acuff]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 10
+Version: 12
 Pages: 210
 Rate: 3
 PublishDate: 2017-09-12T00:00:00.000Z
@@ -156,7 +156,7 @@ Either reduce the required amount or double the planned time.
 
 We can't do it all. Perfectionism may convince us that it's possible, but the truth is that we will likely fail miserably, causing us to abandon even the things that are going well [Taking on too much overwhelms capacity and causes depletion](/notes/taking-on-too-much-overwhelms-capacity-and-causes-depletion.md).
 
-We must decide what not to do [Triage prioritizes limited resources by allocating attention wisely](/notes/triage-prioritizes-limited-resources-by-allocating-attention-wisely.md) and be completely okay with it, without any [Shame](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md).
+We must decide what not to do [Triage prioritizes limited resources by allocating attention wisely](/notes/triage-prioritizes-limited-resources-by-allocating-attention-wisely.md) and be completely okay with it, without any [Shame](/notes/shame-signals-that-who-we-are-is-unworthy.md).
 
 We can either [say no](/notes/saying-no-protects-time-and-energy-for-what-matters-most.md), even if we dislike doing so; it's important to stand our ground. Alternatively, we can [simplify](/notes/distilling-to-essentials-creates-clarity-and-actionability.md) our tasks, opting for easier versions that require less time and effort, like ordering takeout instead of cooking.
 
@@ -174,7 +174,7 @@ We mistakenly believe that achievements are earned through sweat and tears, requ
 
 However, [fun](/notes/gamification-increases-motivation-by-making-activities-enjoyable.md) is not the opposite of achievement; it's a requirement. Without fun, there is no motivation, and without motivation, there is no progress [Motivation is a prerequisite for progress](/notes/motivation-is-a-prerequisite-for-progress.md).
 
-We can be motivated by [pleasure](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md) or [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md). Pleasure pulls us toward our goals, while fear pushes us away from undesirable outcomes [push and pull](/notes/push-and-pull.md). Identify what motivates you more. [Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.md) may work best for someone who is reward-oriented, while [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md) may be more effective for those motivated by fear.
+We can be motivated by [pleasure](/notes/passion-is-deep-desire-that-sustains-intrinsic-motivation-through-difficulty.md) or [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md). Pleasure pulls us toward our goals, while fear pushes us away from undesirable outcomes [push and pull](/notes/push-and-pull.md). Identify what motivates you more. [Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.md) may work best for someone who is reward-oriented, while [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md) may be more effective for those motivated by fear.
 
 :::note[Make It Fun if You Want It Done]
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20240227083409
 Created: '2024-02-27 08:34'
-Modified: '2026-08-14 06:22'
+Modified: '2026-09-23 14:59'
 tags: []
 FullTitle: Stillness Is the Key
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 9
 Pages: 288
 Reread: 0
 Rate: 3
@@ -287,7 +287,7 @@ If you believe in the "I'll be happy when" then you are going to be disappointed
 
 #### Bath in Beauty
 
-There is beauty all around us, we just need to notice it, to let it cleanse us. It doesn't have to be something as grandiose as going on a hike, sometimes even just watching a person sitting on a bench is [awe](/notes/awe.md) inspiring enough.
+There is beauty all around us, we just need to notice it, to let it cleanse us. It doesn't have to be something as grandiose as going on a hike, sometimes even just watching a person sitting on a bench is [awe](/notes/awe-connects-us-to-something-greater-than-ourselves.md) inspiring enough.
 
 :::note[BATHE IN BEAUTY]
 

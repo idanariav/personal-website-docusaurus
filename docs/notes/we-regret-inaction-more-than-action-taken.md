@@ -1,13 +1,13 @@
 ---
 UUID: 20221005131630
 Created: '2022-10-05 13:16'
-Modified: '2026-09-17 14:10'
+Modified: '2026-10-02 13:45'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Regret
 Description: >-
@@ -32,7 +32,7 @@ We often feel regret about the things we didn't do, rather than on the things we
 
 ### Explanation
 
-If not processed well, regret can turn into [Guilt signals when we fail to act on what we control](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md), where we [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md) ourselves of our actions. Although, regret is often tied to cases where we felt a lack of self control, moments when we were [impulsive](/notes/impulsivity-is-acting-without-conscious-deliberation-or-filter.md) or experienced [Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md).
+If not processed well, regret can turn into [guilt](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md), where we [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md) ourselves of our actions. Although, regret is often tied to cases where we felt a lack of self control, moments when we were [impulsive](/notes/impulsivity-is-acting-without-conscious-deliberation-or-filter.md) or experienced [Emotional hijacking is uncontrolled System 1 dominance over reasoning](/notes/emotional-hijacking-is-uncontrolled-system-1-dominance-over-reasoning.md).
 
 ### Why it matters
 

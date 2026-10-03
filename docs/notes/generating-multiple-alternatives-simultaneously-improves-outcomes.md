@@ -1,12 +1,12 @@
 ---
 UUID: 20240101064724
 Created: '2024-01-01 06:47'
-Modified: '2026-09-02 15:33'
+Modified: '2026-09-19 16:10'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 6
+Version: 7
 Image: '[[Generating multiple alternatives simultaneously improves outcomes.png]]'
 ImageText: 'Several planted seeds turning into a withering plant, a rose and a tulip'
 Description: >-
@@ -33,7 +33,7 @@ Multitrack is when we decide to spend more time on a task because we want to bra
 ### Explanation
 
 ### Why it matters
-This idea supports the notion of [Practice beats perfection](/notes/practice-beats-perfection.md), that it is hardly likely that we would be able to find the best solution on the first try/idea we have, so generating multiple options gives us higher certainty for success. This is also related to the idea of [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md), in many cases finding a single metric that covers all options/potential uses is very difficult if not impossible, one reason could be [Goodhart's Law](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md). Using multiple options increases the [richness](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md) of our method, which enables us to create a better proxy, while avoiding more of the disadvantages.
+This idea supports the notion of [Practice beats perfection](/notes/practice-beats-perfection.md), that it is hardly likely that we would be able to find the best solution on the first try/idea we have, so generating multiple options gives us higher certainty for success. This is also related to the idea of [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md), in many cases finding a single metric that covers all options/potential uses is very difficult if not impossible, one reason could be [Goodhart's Law](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md). Using multiple options increases the [richness](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md) of our method, which enables us to create a better proxy, while avoiding more of the disadvantages.
 
 ### Examples
 

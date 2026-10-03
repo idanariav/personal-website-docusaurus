@@ -1,7 +1,7 @@
 ---
 UUID: 20240702060644
 Created: '2024-07-02 06:06'
-Modified: '2026-09-19 08:25'
+Modified: '2026-09-24 09:42'
 tags: []
 Author:
   - '[[Brad Stulberg]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 9
+Version: 10
 Pages: 233
 Rate: 5
 PublishDate: 2023-09-05T00:00:00.000Z
@@ -246,7 +246,7 @@ Lastly we should proceed, which is to follow through with our plan the best way 
 
 #### Making Meaning and Moving forward
 
-**Converting a traumatic event to a moment of growth can't always be forced, and usually takes time**. If we try too hard to "see the bright side", we might be [decepting](/notes/deception.md) ourselves and minimizing our experience.
+**Converting a traumatic event to a moment of growth can't always be forced, and usually takes time**. If we try too hard to "see the bright side", we might be [decepting](/notes/denial-is-choosing-a-false-view-to-avoid-painful-truths.md) ourselves and minimizing our experience.
 
 At first, it is better to practice [Being kind to yourself strengthens resilience and growth](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md) than anything else. To accept that sometimes life just suck, and not everything has clearly visible and convenient meaning. We should [validate](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md) our own emotions instead of trying to suppress them, and remember that like physical healing, mental healing also takes time.
 

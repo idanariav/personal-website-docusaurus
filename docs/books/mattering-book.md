@@ -1,7 +1,7 @@
 ---
 UUID: 20260802083427
 Created: '2026-08-02 08:34'
-Modified: '2026-09-15 06:39'
+Modified: '2026-10-02 13:41'
 tags: []
 FullTitle: Mattering - The Secret to a Life of Deep Connection and Purpose
 Description: >-
@@ -27,7 +27,7 @@ ReadingStatus: Done
 ASIN: 593850599
 Purchased: true
 Fiction: false
-Version: 10
+Version: 12
 Pages: 288
 Reread: 0
 Rate: 3
@@ -118,7 +118,7 @@ Also, majority of each chapter is why we lack mattering, and a story to illustra
 
 To matter means to feel that you are valued, while also actually contributing to something, an objective and subjective aspects [Meaning combines personal connection with objective worth](/notes/meaning-combines-personal-connection-with-objective-worth.md). The need to matter sits at our core, after basic survival needs, comes the need to matter.
 
-Mattering is a double edged sword because when we have it we're [Bursting with life](/notes/bursting-with-life.md), we're at our peak, the most happy.
+Mattering is a double edged sword because when we have it we're [Bursting with life](/notes/feeling-bursting-with-life-signals-genuine-flourishing.md), we're at our peak, the most happy.
 
 When we don't we're at our lowest. Falling to either [Burnout](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md) or [Depression](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md).
 
@@ -249,9 +249,9 @@ If you can, be someone's cornerman, help others the way you want to be helped. S
 
 ### Tuning in
 
-Attunement is when we really "get" someone, we see the world through their eyes, meet them where they are [Resonance](/notes/resonance-is-being-in-sync-with-reality-and-others.md). We all need to be understood, not just to be seen. Over time, to not be seen will cause us to feel not important, that our feelings are too much and we're unworthy of love [Shame](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md).
+Attunement is when we really "get" someone, we see the world through their eyes, meet them where they are [Resonance](/notes/resonance-is-being-in-sync-with-reality-and-others.md). We all need to be understood, not just to be seen. Over time, to not be seen will cause us to feel not important, that our feelings are too much and we're unworthy of love [Shame](/notes/shame-signals-that-who-we-are-is-unworthy.md).
 
-We can also avoid attunement due to the pull of modern technology, specifically the isolating factor of modern comfort. The pull to stay in and binge can be stronger than going out. Also social media can give "empty calories" of connection leaving us starving without knowing why [Shallow copy](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md) [social media is beneficial if it promotes face to face interaction](/notes/social-media-is-beneficial-if-it-promotes-face-to-face-interaction.md).
+We can also avoid attunement due to the pull of modern technology, specifically the isolating factor of modern comfort. The pull to stay in and binge can be stronger than going out. Also social media can give "empty calories" of connection leaving us starving without knowing why [Shallow copy](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md) [social media is beneficial if it promotes face to face interaction](/notes/social-media-is-beneficial-when-it-facilitates-face-to-face-interaction.md).
 
 The more we isolate ourselves, the more the [Inertia](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md) kicks in until our social life erodes completely.
 
@@ -300,7 +300,7 @@ How we spend our days is how we spend our lives, so since work is such a big par
 
 Nowadays the burnout epidemic is on the rise, most people don't feel like they matter because they don't feel appreciated, heard or respected.
 
-Getting discriminated, dismissed or yelled at only causes us to either [Reactance](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) or [ruminate](/notes/rumination.md) over what happened, focusing us on the problem rather than the task at hand, increasing chances of error and lowering productivity.
+Getting discriminated, dismissed or yelled at only causes us to either [Reactance](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) or [ruminate](/notes/rumination-is-repeatedly-replaying-problems-without-resolving-them.md) over what happened, focusing us on the problem rather than the task at hand, increasing chances of error and lowering productivity.
 
 Mattering at work is a good business practice to say the least, because workers who feel like they matter are more motivated and hard working.
 

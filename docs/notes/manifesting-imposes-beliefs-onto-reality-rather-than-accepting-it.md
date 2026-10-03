@@ -1,14 +1,9 @@
 ---
 UUID: 20250227070636
 Created: '2025-02-27 07:06'
-Modified: '2026-06-30 08:52'
+Modified: '2026-09-30 15:15'
 tags: []
-sketch-editor-plugin: parsed
-Version: 4
-Image: '[[Manifesting imposes beliefs onto reality rather than accepting it.png]]'
-ImageText: >-
-  A warning sign, vs a warning sign with a projector shining a smile face onto
-  it
+Version: 6
 Description: >-
   The practice of imposing one's beliefs onto reality, contrasting with
   acceptance, and often leading to naivety and entitlement without proactive
@@ -19,7 +14,11 @@ Origin: null
 URL: null
 aliases:
   - Manifesting
-new_schema: true
+  - WIshful Thinking
+Drawings:
+  - >-
+    [[Manifesting imposes beliefs onto reality rather than accepting it
+    (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -40,16 +39,16 @@ Manifesting is when we try to impose our beliefs onto the world, instead of matc
 
 ### Supporters
 
-On the one hand, it opposes [Confusing current reality with how things should be blocks change](/notes/confusing-current-reality-with-how-things-should-be-blocks-change.md), we don't surrender our thinking to the [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md) of reality, it is not limited by how things are or base our beliefs on false justification just because "that's the way it is" [We prefer existing situations over alternatives despite better options](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md). Additionally, to manifest is like the mental equivalent of [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md), by saying to ourselves "I will have a great day" or "I will get the success I deserve", we set the stage for those things to happen.
+On the one hand, it opposes [Confusing current reality with how things should be blocks change](/notes/confusing-current-reality-with-how-things-should-be-blocks-change.md), we don't surrender our thinking to the [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md) of reality, it is not limited by how things are or base our beliefs on false justification just because "that's the way it is" [We prefer existing situations over alternatives despite better options](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md). Additionally, to manifest is like the mental equivalent of [self-fulfilling prophecy](/notes/expectations-of-ourselves-become-self-fulfilling-through-behavior-shaping.md), by saying to ourselves "I will have a great day" or "I will get the success I deserve", we set the stage for those things to happen.
 
 ### Opposers
 
 However, manifesting is problematic due to several reasons:
 1. **Nativity** - there's often a distinction between thinking and doing, when we focus on manifesting rather than [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md), we naively think that manifesting is enough. Instead of "I will have a great day", we need to ask ourselves "how can I make my day great"
-2. **Entitlement** - sometimes manifesting leads us to think that we already have it in the bag, or that we deserve as a matter of "promised " it [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md). We set our [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) way too high, we become [attached](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) to this reality that doesn't yet exist, which could lead to [Disappointment is the gap between expectations and reality](/notes/disappointment-is-the-gap-between-expectations-and-reality.md) when life doesn't go our way.
+2. **Entitlement** - sometimes manifesting leads us to think that we already have it in the bag, or that we deserve as a matter of "promised " it [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md). We set our [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) way too high, we become [attached](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) to this reality that doesn't yet exist, which could lead to [Disappointment is the gap between expectations and reality](/notes/disappointment-is-the-gap-between-expectations-and-reality.md) when life doesn't go our way.
 
 ### Open Questions
 
 ## Visual
 
-![Manifesting imposes beliefs onto reality rather than accepting it](/notes/manifesting-imposes-beliefs-onto-reality-rather-than-accepting-it.webp)
+![Manifesting imposes beliefs onto reality rather than accepting it (sketch)](/sketches/manifesting-imposes-beliefs-onto-reality-rather-than-accepting-it-sketch.webp)

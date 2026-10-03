@@ -1,7 +1,7 @@
 ---
 UUID: 20221029090201
 Created: '2022-10-29 09:02'
-Modified: '2026-04-15 06:28'
+Modified: '2026-09-25 07:03'
 tags: []
 Author:
   - '[[Robert M. Sapolsky]]'
@@ -16,7 +16,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 9
+Version: 10
 Pages: 790
 Rate: 5
 PublishDate: 2017-05-02T00:00:00.000Z
@@ -55,7 +55,7 @@ there is no single thing that explains behavior, it is a combination of biology,
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen? What is the goal of this book?*
 Biology is not as rigid as I thought, we are capable of change in a much higher rate.
 
 ### Act
@@ -68,12 +68,24 @@ Biology is not as rigid as I thought, we are capable of change in a much higher 
 6. **Signal trustworthiness regularly** - habitually display observable cooperative signals (consistent promises kept, transparent actions) to encourage others to cooperate with you.
 7. **Engage in perspective-taking exercises** - habitually practice individuating others and taking their perspective (name differences, list shared goals) to weaken automatic Us-vs-Them biases and increase empathy for outgroups.
 8. **Strengthen deliberative choice through socially complex challenges** - regularly take on decisions that require balancing social, moral, and practical factors (group projects, negotiated compromises) to train frontal-cortex decision-making.
-9. **Use repetition with emotional tagging to form durable learning** - repeat important lessons or behaviours with an emotional component (salient framing, meaningful consequences) so neurons “wire together” and learning persists.
+9. **Use repetition with emotional tagging to form durable learning** - repeat important lessons or behaviors with an emotional component (salient framing, meaningful consequences) so neurons “wire together” and learning persists.
 10. **Prioritize warm, consistent caregiving signals for children** - provide predictable warmth and emotional affirmation (presence, comfort, positive attention) as a routine to establish secure norms and healthier long-term development.
 
 ### Critique
 
-✅ *by following this method, what will happen?*
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+Based on the provided book notes, here is the supporting evidence that forms the foundation of the core arguments:
+
+1. **Case Study: vmPFC Damage Patients** – Research on patients with prefrontal cortex (vmPFC) damage shows they can verbally identify optimal strategies but cannot execute them because they lack the emotional "gut" feel to register loss or discomfort. Supports: Morality and rational decision-making are intertwined, not separate.
+2. **Game Theory Experiment: Tit-for-Tat** – A game strategy that begins with cooperation and then mimics the opponent's previous move creates the most stable, successful, and enduring cooperation in competitive scenarios. Supports: Cooperation is an evolutionary, logical strategy that survives and prevails over pure selfishness.
+3. **Hormonal Research: Testosterone** – Studies demonstrate that testosterone does not trigger aggression in a vacuum; it merely amplifies preexisting status-seeking or aggressive tendencies based on the specific cultural or social context. Supports: Hormones do not cause behavior; they amplify predispositions and context-dependent tendencies.
+4. **Scientific Finding: Dopamine Anticipation** – Dopamine release peaks during the anticipation of a reward that has a probability of occurring, rather than during the actual reception of the reward. Supports: Motivation is driven by the happiness of pursuit and uncertainty, not by the absolute value or attainment of the reward.
+5. **Biological Mapping: Adolescent Synaptic Pruning** – Research shows that adolescents possess an excess of untrained, extraneous synapses; neural maturation involves "pruning" these connections based on experience to build a more efficient frontal cortex in adulthood. Supports: Adolescent impulsivity and risk-taking are biological consequences of an immature, developing prefrontal brain structure.
+6. **Psychological Experiment: Physical Metaphors** – Studies show that people holding a cold drink judge others to be "colder" (less friendly), and concepts of physical "cleanliness" are neurally associated with moral judgments. Supports: Higher-level moral and social reasoning is rooted in sensory, physical metaphors within the brain.
+7. **Psychological Experiment: Minimal Group Paradigm** – People separated into groups based on arbitrary, meaningless criteria immediately exhibit bias, often preferring to pay their own resources (e.g., ₪1) to ensure an out-group loses (e.g., ₪2). Supports: Tribalistic "Us vs. Them" behavior is an automatic, irrational drive rooted in the amygdala, triggered even by trivial differences.
+8. **Brain Mechanism: Amygdala Shortcuts** – The amygdala possesses rapid-response pathways that process inputs (like a potential threat) and trigger outputs (like jumping away) faster than the "higher-level" cortex can consciously perceive or filter the stimulus. Supports: Automatic, biased behavioral responses occur because the brain prioritizes speed over analytical accuracy.
+9. **Observation: Childhood Stress and Brain Architecture** – Chronic childhood adversity causes structural changes, specifically increasing the size and reactivity of the amygdala while atrophying the prefrontal cortex. Supports: Early environmental context physically "programs" the adult brain’s baseline for impulse control and emotional regulation.
+10. **Behavioral Observation: Mother-Infant Bonding** – Experiments show that infants strongly prioritize physical warmth and emotional contact over food when their needs conflict. Supports: Emotional nurturing is an essential, primary biological requirement for child development, surpassing even basic nutritional needs.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 the book is full of examples, but sometimes at a cost of not really explaining the relevance or giving enough emphasis to the core ideas of each chapter, or just making it unnecessarily long.
@@ -94,7 +106,7 @@ this is one of the more in-depth books I've read, and this could have been an ea
 ## Notes
 ### Intro
 
-**To really understand human behavior, we must go back. its not just our biology, culture or psychology, its a mix**. a complex process for a complex problem. [Complexity](/notes/complexity.md) one aspect we must consider is time. a behavior is caused by a variety of factors, some more immediate than others.
+**To really understand human behavior, we must go back. its not just our biology, culture or psychology, its a mix**. a complex process for a complex problem. [Complexity makes ideas harder to understand and implement](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md) one aspect we must consider is time. a behavior is caused by a variety of factors, some more immediate than others.
 
 ### One Second Before
 
@@ -119,7 +131,7 @@ the **amygdala, which connects between level 2-3 is the center for fear, anger a
 **it has both innate properties (such as the innate fear of cats for rats), but can also "learn" new fears through conditioning**. [Amygdala](/notes/amygdala.md)
 when there are repeated cues and negative outcomes, such as a tune followed by a shock, the amygdala neurons "learn" to associate the two, thus making them more easily triggered when we receive the [Cue](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) (i.e. hear the tune again). [Habits operate through a four-part loop](/notes/habits-operate-through-a-four-part-loop.md)
 
-but as we learn, we can also re-learn. this is not by [Forgetting](/notes/forgetfulness.md) the past - the amygdala neurons are as easily triggered as before, rather the frontal cortex fires its own neurons with a new message of "calm down". so **we don't forget as much as we cover up with new knowledge**. [Learning adds new knowledge layers instead of replacing old understanding](/notes/learning-adds-new-knowledge-layers-instead-of-replacing-old-understanding.md)
+but as we learn, we can also re-learn. this is not by [Forgetting](/notes/forgetting-enables-growth-by-clearing-space-for-change.md) the past - the amygdala neurons are as easily triggered as before, rather the frontal cortex fires its own neurons with a new message of "calm down". so **we don't forget as much as we cover up with new knowledge**. [Learning adds new knowledge layers instead of replacing old understanding](/notes/learning-adds-new-knowledge-layers-instead-of-replacing-old-understanding.md)
 
 studies have shown that **our amygdala supports trust and honesty as default, and all our hostility is learned through negative experience/interactions with others**. [Humans are good as default](/notes/humans-are-good-as-default.md).
 the amygdala has 2 shortcuts, for inputs and outputs. this helps in terms of speed but at the price of accuracy. for example - when you jump when you see a snake, both the input "i think its a snake!" and the output "I should get back!" happen through these shortcuts, instead of running through the level 3 system which "cleans" and filters the inputs/outputs, i.e the things we are "aware" of (both inputs and actions). [Instincts](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.md)
@@ -191,7 +203,7 @@ The stimulus can also be internal such as when we're more angry when we're in pa
 ### Hours to Days before (hormones)
 
 **Hormones Don't cause behavior as much as they increase the chances of behavior for people who are predisposed to that behavior** (i.e testosterone makes violent people more aggressive, but not other people). [Hormones amplify predisposed behaviors rather than cause new ones](/notes/hormones-amplify-predisposed-behaviors-rather-than-cause-new-ones.md)
-Similarity these effects happen if you believe that these hormones should affect you that way (the mind makes it real), for example being drunk will make you more aggressive only If you believe it does. [Self fulfilling prophecy](/notes/being-emerges-from-action-not-belief.md)
+Similarity these effects happen if you believe that these hormones should affect you that way (the mind makes it real), for example being drunk will make you more aggressive only If you believe it does. [Self fulfilling prophecy](/notes/belief-alone-can-produce-real-effects.md) [Belief alone can produce real effects](/notes/belief-alone-can-produce-real-effects.md)
 
 We are affected by our hormones. Usual suspect is testosterone, which is allegedly tied to aggression. But research shows other factors are in play, and especially that aggression is not only produced by hormones, but also the product of learning (so it's semi independent).
 
@@ -312,7 +324,7 @@ prenatal hormones and the environment (such as type of parenting, diet, stimulus
 
 genes are not as important as we thought, because:
 1. **No hard coded rules** - genes are only 5% of our DNA, the rest is instructions to when to activate which genes. usually the more complex the creature, thus the ratio between instructions/genes is higher.
-2. **Environment matters** - this activation manual is affected by the environment (whether internal - hormones, sugar/oxygen level... or external - stimulus...). thus difference in behavior can result from a difference in activation methods, while the gene themselves are identical. [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
+2. **Environment matters** - this activation manual is affected by the environment (whether internal - hormones, sugar/oxygen level... or external - stimulus...). thus difference in behavior can result from a difference in activation methods, while the gene themselves are identical. [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md)
 3. **Habits matter** - some epigenetic properties are possible within humans, i.e activation protocols can change and transfer to the egg/sperm, thus affecting the next generation without a change in the genes themselves [Genetic Switches](/notes/genetic-switches.md)
 4. **Mutations** - the body has a way of mixing up his genes to create new mutations, usually in the immunization system or in the brain, where finding new ways to improve is more important than everything.
 
@@ -400,10 +412,11 @@ Evolution sometimes works in big leaps, but also in gradual steps, it is usually
 
 ### Us Vs Them
 
+
 we tend to create "us" and "them" categories based on arbitrary details, even when we are aware that these are arbitrary. the separation increases cooperation between the us team and vice versa for the "them" team. 
 
 **the us/them behavior is deeply rooted in our amygdala, subconsciously, and not the result of rationalization. accordingly - we can easily manipulate us/them divides.**
-the conflict is more about the tension between the team, rather then the actual content of "them". so its more about hierarchy than ideology. also, we prefer to be at a better state than "them", even if overall we're in a worse state (we would pay 1 to make them have 2 less). [We prioritize relative superiority over absolute wellbeing](/notes/we-prioritize-relative-superiority-over-absolute-wellbeing.md)
+the conflict is more about the tension between the team, rather then the actual content of "them". so its more about hierarchy than ideology. also, we prefer to be at a better state than "them", even if overall we're in a worse state (we would pay 1 to make them have 2 less). [We prioritize relative superiority over absolute wellbeing](/notes/we-prioritize-relative-superiority-over-absolute-wellbeing.md) [Comparing ourselves to others damages wellbeing and progress](/notes/comparing-ourselves-to-others-damages-wellbeing-and-progress.md)
 
 We all have multiple identities simultaneously, which different situations can trigger some and ignore others. [a human is a community](/notes/a-person-is-a-community.md)
 Classification of attitude towards others: a metric of warmth (how much I love them) and competence (how much they are successful)
@@ -427,7 +440,7 @@ Classification of attitude towards others: a metric of warmth (how much I love t
 
 ### Hierarchy and Obedience
 
-Hierarchy is a way to structure social relations and establish rules of dividing material and privileges among the members. [Hierarchy](/notes/hierarchy.md) is not a yes/no question. There are various ranks and multiple rankings depending on the context. Being highest can also have it's drawbacks compare to the second in command, which has almost the same benefits with less stress. Usually being at the bottom is the worst. In humans hierarchy is usually economical.
+Hierarchy is a way to structure social relations and establish rules of dividing material and privileges among the members. [Hierarchy](/notes/hierarchy-silences-dissent-and-free-expression.md) is not a yes/no question. There are various ranks and multiple rankings depending on the context. Being highest can also have it's drawbacks compare to the second in command, which has almost the same benefits with less stress. Usually being at the bottom is the worst. In humans hierarchy is usually economical.
 
 :::note[Hierarchy, Obedience, and Resistance]
 

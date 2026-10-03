@@ -1,7 +1,7 @@
 ---
 UUID: 20240101072326
 Created: '2024-01-01 07:23'
-Modified: '2026-04-17 07:04'
+Modified: '2026-09-22 06:32'
 tags: []
 FullTitle: >-
   The Whole-Brain Child - 12 Revolutionary Strategies to Nurture Your Child's
@@ -29,7 +29,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 9
 Pages: 187
 Reread: 0
 Rate: 5
@@ -165,7 +165,7 @@ The problems with integration for children are:
 2. The amygdala which is in charge of "fight of flight" responses has the ability to override any other process, which blocks the pathway "up"
 
 Accordingly, we can differentiate between two types of tantrums.
-1. **Upstairs tantrum** - when the child *decides* to throw a tantrum because they want to manipulate us. **The answer is to not give in, don't negotiate**. Declare your [Boundaries](/notes/boundaries.md) and the consequences of this unacceptable behavior, and most importantly - follow through on these promises.
+1. **Upstairs tantrum** - when the child *decides* to throw a tantrum because they want to manipulate us. **The answer is to not give in, don't negotiate**. Declare your [Boundaries reduce ambiguity by clarifying mutual expectations](/notes/boundaries-reduce-ambiguity-by-clarifying-mutual-expectations.md) and the consequences of this unacceptable behavior, and most importantly - follow through on these promises.
 2. **Downstairs tantrum** the child is in a fit of rage, unable to control himself. Boundaries won't do any good because the child isn't in a state to listen. Therefore, **the strategy should be similar to connect and redirect**. First sooth his emotions, and only later appeal to the logical side.
 
 Tactics:
@@ -276,7 +276,7 @@ We have the responsibility to serve as [Role models embody behaviors and values 
 It's important to remember that we want to interact with our kids when they are in a receptive state rather than a reactional one. That's means not in the midst of an emotional storm, but before and after. [Receptive states are necessary for learning and meaningful connection](/notes/receptive-states-are-necessary-for-learning-and-meaningful-connection.md)
 Also remember that we don't want to erase their personal identity, the goal is balance, an integration between the "me" and the "we".
 
-*Shared fun* - simply have shared fun with them. Goof around as a family, and between siblings [Play](/notes/play.md). Having fun together is a bonding moment.
+*Shared fun* - simply have shared fun with them. Goof around as a family, and between siblings [Play](/notes/unstructured-play-drives-learning-and-creativity.md). Having fun together is a bonding moment.
 
 In cases of conflicts, emphasize:
 1. **Others perspective** - try to show the situation through the other's eyes. Ask the child "why did he act in such a way?"

@@ -1,7 +1,7 @@
 ---
 UUID: 20220907071038
 Created: '2022-09-07 07:10'
-Modified: '2026-04-26 20:52'
+Modified: '2026-09-30 11:06'
 tags: []
 FullTitle: Originals - How Non-Conformists Move the World
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 9
+Version: 11
 Pages: 326
 Reread: 0
 Rate: 4
@@ -74,6 +74,16 @@ SiteProcssed: true
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
+1. **Entrepreneurs keeping day jobs** – Case study. Describes how successful originals mitigate personal risk by maintaining employment while starting ventures. Supports: The idea that originals are risk mitigators rather than reckless gamblers.
+2. **Volume-quality correlation** – Statistical observation. Notes that the most prolific people produce their highest quality and most original work during periods of high output volume. Supports: The claim that generating a large quantity of alternatives is necessary to filter and find a truly original idea.
+3. **Incomplete task retention** – Cognitive phenomenon. Suggests that unfinished tasks remain active in the mind, keeping them on the "back-burner" to facilitate divergent thinking. Supports: The concept that strategic procrastination can enhance creativity.
+4. **Accentuating idea flaws** – Persuasion strategy. Suggests listing the weaknesses and drawbacks of your own proposal to build trust and lower audience defenses. Supports: The claim that transparent self-awareness boosts perceived intelligence and lowers resistance to new ideas.
+5. **Under-communication bias** – Communication observation. Notes that creators often under-communicate because they assume their audience is as familiar with the idea as they are. Supports: The argument that repeated exposure is required for audiences to comprehend and accept unfamiliar concepts.
+6. **Bridgewater's idea meritocracy** – Organizational case study. Illustrates how a company uses tiered "believability" rankings and radical transparency to solve disagreements. Supports: The theory that diverse opinions paired with a culture of speaking up can prevent groupthink.
+7. **Birth order influence** – Development research. Evidence shows that laterborns are more likely to adopt risky, original strategies because they cannot compete with firstborns on status-quo adherence. Supports: The idea that family systems and roles shape an individual’s propensity for original thought.
+8. **Loss aversion triggers** – Behavioral economics concept. Highlights that people are more willing to risk change when convinced that inaction results in a certain loss. Supports: The strategy of using the "go" system to initiate action by focusing on the danger of maintaining the status quo.
+9. **Tactical alignment** – Sociological observation. Suggests that sharing specific tactics (the "how") is more effective for building coalitions than attempting to enforce shared values (the "why"). Supports: The strategic approach to converting adversaries into allies.
+10. **Reframing venting vs. justice** – Behavioral psychology. Shows that venting anger focuses attention on the perpetrator and prevents resolution, while focusing on victims and justice channels anger into constructive action. Supports: The claim that negative emotions should be harnessed as fuel for the "go" system rather than suppressed or incorrectly discharged.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 i find some of the points confusing, not necessarily contradicting, but confusing, for example:
@@ -101,7 +111,7 @@ originality isn't originality in the sense of a new thought, but rather a mix of
 ### How to Be Original
 1. **be curious** - look at the [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) of each field and question them, understand why they exist and what is their logic/tendencies. [Examining ideas rigorously before accepting them as true](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md) [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md)
 2. **be courageous** - some of the defaults are probably arbitrary, lack logic, or wasteful. have the courage to go against the default. [courage](/notes/standing-up-for-yourself-is-courageous-authenticity-against-social-pressure.md)
-3. **don't be afraid of failures** - if you try to avoid [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md), you will stick to the "tried and true" and wont take the risk of trying something new that might be revolutionary [winner or loser game](/notes/winner-or-loser-game.md)
+3. **don't be afraid of failures** - if you try to avoid [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md), you will stick to the "tried and true" and wont take the risk of trying something new that might be revolutionary [winner game](/notes/winner-take-all-games-reward-standing-out-over-following-best-practices.md) [loser game](/notes/loser-games-are-won-by-avoiding-mistakes-rather-than-outshining-others.md)
 
 therefore, **originality is an act of** [Progress emerges through cycles of destruction and reconstruction](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)
 This is especially true at work, since it requires [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md)
@@ -200,7 +210,7 @@ To change a situation, we can either speak up, or leave [We respond to unsafe en
 
 #### Chapter 4 Timing
 
-[Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md) can be harmful to productivity but useful for [creativity](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md). when we procrastinate, the task lives on in our mind, in the back-burner, which allows us to consider new approaches instead of the default one [Unfinished tasks linger in the mind and reduce focus](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md).
+[Procrastination is delaying intended actions despite preference to act](/notes/procrastination-is-delaying-intended-actions-despite-preference-to-act.md) can be harmful to productivity but useful for [creativity](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md). when we procrastinate, the task lives on in our mind, in the back-burner, which allows us to consider new approaches instead of the default one [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md).
 
 Also, it helps us avoid [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md) by not being limited to our initial plan, but rather keep on experimenting and combining new ideas in a fluid way.
 
@@ -296,7 +306,7 @@ Fear can allow us to understand the weaknesses of ourselves/our actions and prep
 in each of us there is a "go" system and a "stop" system, the fear fuels us for action, the second clears it and presses on the breaks. fear, since it is a strong emotion can be a fueling force for our "go" system, so we should treat it as that, and not try to suppress it and "calm down".
 
 *A second aspect of triggering our go system is our viewpoint*. if doing the action is not risky, we should focus on the benefits from preforming the action. if it is risky, we should focus on the harms we have now, and what we will (continue to) lose if you don't preform the action. it is because we as humans are [loss aversion](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md), so only when the loss seems certain we will be forced to do an action.
-similarly, when we are starting to lose our commitment, we should focus on the progress we already made, see how far we've come, be proud of ourselves. but when we have renewed our commitment, we should focus on the way we still have to go, let the distance fuel our purpose and drive to move ahead as far as possible. [Focusing on progress made strengthens motivation](/notes/focusing-on-progress-made-strengthens-motivation.md)
+similarly, when we are starting to lose our commitment, we should focus on the progress we already made, see how far we've come, be proud of ourselves. but when we have renewed our commitment, we should focus on the way we still have to go, let the distance fuel our purpose and drive to move ahead as far as possible. [Focusing on progress made strengthens motivation](/notes/visible-progress-sustains-motivation.md)
 
 *A third aspect is the society around us*. is it hard to trigger the go system when we are all alone, when it seems that we have no other supporters. that's why we need to make it as easy as possible for others to speak up and show that we are not alone. small actions, and even just one person can reduce [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) and enable us to trigger the go system.
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20250209090447
 Created: '2025-02-09 09:04'
-Modified: '2026-09-19 08:31'
+Modified: '2026-09-25 17:10'
 tags: []
 Author:
   - '[[Frederic Luskin]]'
@@ -10,7 +10,7 @@ Stored: Kindle
 ReadingStatus: Done
 Purchased: true
 Fiction: false
-Version: 3
+Version: 5
 Pages: 242
 Rate: 2
 PublishDate: 2010-08-17T00:00:00.000Z
@@ -105,7 +105,7 @@ The book is 90% stories with little content, or representing content as if we ha
 
 [Blame is attributing fault instead of owning what's in your control](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md) and [Anger is information that something should be different](/notes/anger-is-information-that-something-should-be-different.md) are like [Unfinished tasks linger in the mind and reduce focus](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md), they tend to linger in our hearts and minds, leading to [Chronic stress is harmful](/notes/chronic-stress-is-harmful.md) and [Burnout is chronic exhaustion from overwhelming demands](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md).
 
-When we have been wronged, negative thoughts can create a [Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md), when we are drawn deeper and deeper into self consuming anger. We become a [Multidimensional identity collapses into single fixed characteristic](/notes/multidimensional-identity-collapses-into-single-fixed-characteristic.md), we become our resentment, it becomes our defining [narrative](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md), which is a sure way for [Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md). We let it take hold on us, we become [helpless](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md).
+When we have been wronged, negative thoughts can create a [Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md), when we are drawn deeper and deeper into self consuming anger. We become a [Multidimensional identity collapses into single fixed characteristic](/notes/multidimensional-identity-collapses-into-single-fixed-characteristic.md), we become our resentment, it becomes our defining [narrative](/notes/multidimensional-identity-collapses-into-single-fixed-characteristic.md), which is a sure way for [Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md). We let it take hold on us, we become [helpless](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md).
 
 The solution is [Forgivness](/notes/blame-is-attributing-fault-instead-of-owning-whats-in-your-control.md). It doesn't mean we agree or forget what they've done to us, nor to deny our feelings, we just [accept](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) that we can't change the past, so we let go of it's control on us. We move forward, instead of drowning in the past. It's a step towards [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md).
 
@@ -189,7 +189,7 @@ We choose our own story, we should choose one of gratitude, one that looks at th
 
 #### Rules Rules Rules
 
-[unenforceable rule](/notes/unenforceable-rule.md) are when we expect a certain behavior from someone yet have no control over it.
+[unenforceable rule](/notes/enforcing-unenforceable-rules-is-the-root-of-grievance.md) are when we expect a certain behavior from someone yet have no control over it.
 
 For example, we can set a curfew for our kids, but we can't physically make them come back at that hour.
 

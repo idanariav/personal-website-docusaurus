@@ -1,9 +1,9 @@
 ---
 UUID: 20221104144114
 Created: '2022-11-04 14:41'
-Modified: '2026-09-02 12:00'
+Modified: '2026-09-20 07:00'
 tags: []
-Version: 6
+Version: 7
 Description: >-
   The process of enhancing one's knowledge or identity by adding new layers
   rather than erasing previous understandings, reflecting the complexity and
@@ -15,7 +15,6 @@ URL: null
 aliases:
   - Layering
   - Apperception
-new_schema: true
 Drawings:
   - >-
     [[Learning adds new knowledge layers instead of replacing old understanding
@@ -54,7 +53,7 @@ Though maybe that "deep down" isn't as solid as it feels. It's also possible the
 
 ### Open Questions
 
-Whether it is due to our genes or our environment [Nature vs nurture](/notes/nature-vs-nurture.md), our ability to change and grow is [limited](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md).
+Whether it is due to our genes or our environment [Nature vs nurture](/notes/nature-vs-nurture.md), our ability to change and grow is [limited](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md).
 
 ## Visual
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20260815150715
 Created: '2026-08-15 15:07'
-Modified: '2026-09-15 09:50'
+Modified: '2026-09-25 11:34'
 tags: []
 FullTitle: >-
   The Power of Beliefs - How Strengthening Seven Core Beliefs Predicts Greater
@@ -27,7 +27,7 @@ ReadingStatus: Done
 ASIN: B0FBWLZ56Y
 Purchased: true
 Fiction: false
-Version: 5
+Version: 10
 Pages: 208
 Reread: 0
 Rate: 4
@@ -121,13 +121,13 @@ Even in areas such as health, belief plays a big role. The [Placebo effect](/not
 
 It's not just your own beliefs that affect you, it's also others' beliefs [others' beliefs affect our confidence](/notes/others-beliefs-affect-our-confidence.md). The famous "home field advantage" is not the geography, it's the fans. Seeing people who root for you gives you a boost of confidence.
 
-Beliefs are on the one hand a type of [probabilistic thinking](/notes/probabilistic-thinking.md), because we "believe" we could attend vacation next week, or that we will reach retirement, but it's also a form of [Subjective Reality](/notes/subjective-perception-filters-how-we-see-external-reality.md), because we can believe we're all alone even when surrounded by people, or that we still lack even when we're rich.
+Beliefs are on the one hand a type of [probabilistic thinking](/notes/probabilistic-thinking-replaces-binary-certainty-with-degrees-of-confidence.md), because we "believe" we could attend vacation next week, or that we will reach retirement, but it's also a form of [Subjective Reality](/notes/subjective-perception-filters-how-we-see-external-reality.md), because we can believe we're all alone even when surrounded by people, or that we still lack even when we're rich.
 
 Beliefs also have a social effect. Like money or the value of stock, [Social Constructs](/notes/shared-beliefs-make-constructs-real-and-true.md) are created or broken by belief alone.
 
 Beliefs are potentially a great source of motivator, like how imagining that you're near the finish line, you suddenly get filled with energy, but it's also a great source of depression [Beliefs fuel emotions](/notes/beliefs-fuel-emotions.md).
 
-In recent decades we see it even more as part of *the great drift* [enlightenment](/notes/enlightenment.md). There's a collapse of shared beliefs and community, the rise of [Individualism](/notes/the-individual-is-the-smallest-unit-of-moral-worth.md) , [Nihilism](/notes/morality-is-a-construct-without-real-meaning.md), and the fall of [religion](/notes/religion.md), which means we are less connected [Loneliness](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md), and less happy.
+In recent decades we see it even more as part of *the great drift* [enlightenment](/notes/enlightenment.md). There's a collapse of shared beliefs and community, the rise of [Individualism](/notes/the-individual-is-the-smallest-unit-of-moral-worth.md) , [Nihilism](/notes/morality-is-a-construct-without-real-meaning.md), and the fall of [religion](/notes/religion-provides-community-and-meaning-through-shared-ritual.md), which means we are less connected [Loneliness](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md), and less happy.
 
 There are seven harmful beliefs that are a symptom of the great drift:
 1. My behavior doesn't matter
@@ -165,7 +165,7 @@ The goal is to revive beliefs and flip the script to:
 
 Beliefs change reality. First they affect how we act. All those star athletes that have a [ritual](/notes/positive-rituals-renew-energy.md) before or during a match that puts them in "the zone" for peak performance.
 
-Second, it changes what we see. Our beliefs change our lenses which affects what we [notice](/notes/notice.md). When we think we're unlucky, we won't notice opportunities, when we think the world is a bad place, all we see is bad news.
+Second, it changes what we see. Our beliefs change our lenses which affects what we [notice](/notes/noticing-requires-active-attention-not-passive-presence.md). When we think we're unlucky, we won't notice opportunities, when we think the world is a bad place, all we see is bad news.
 
 Changing the lens makes us feel as though the world is now different, like learning a new word that now appears everywhere [learning something new causes you to see it everywhere](/notes/learning-something-new-causes-you-to-see-it-everywhere.md). It was always there, we just didn't notice.
 
@@ -239,7 +239,7 @@ The seven core beliefs have the power to stabilize and improve our lives, and sa
 
 #### My Behavior Matters
 
-When we don't belief our actions matter, we stop acting. We become [apathic](/notes/alienation-means-feeling-detached-from-life-and-others.md). We don't even try to resolve our problems, we've lost all hope [pessimism is believing problems are fixed and unsolvable](/notes/pessimism-is-focusing-attention-on-negative-outcomes-and-threats.md).
+When we don't belief our actions matter, we stop acting. We become [apathic](/notes/alienation-means-feeling-detached-from-life-and-others.md). We don't even try to resolve our problems, we've lost all hope [pessimism is believing problems are fixed and unsolvable](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md).
 
 On the other hand, a mindset that's powerful, effective and beneficial is the belief that you do have an influence over the world. It doesn't mean to be delusional and think that you're responsible for everything that happens everywhere, or believing that can do anything. It takes a combination of [Acceptance](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) of our locus of control, while also being [Optimistic](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) about your ability to solve your problems.
 
@@ -254,7 +254,7 @@ On the other hand, a mindset that's powerful, effective and beneficial is the be
 
 A surefire way of becoming miserable is to [Compare](/notes/comparing-ourselves-to-others-damages-wellbeing-and-progress.md) ourselves to others. Another is to be ruled by [FOMO](/notes/fear-of-missing-out-fuels-anxiety-about-opportunities-we-cannot-take.md). Both stem from the same notion - the dissatisfaction of where you are, and wanting to be elsewhere. What's worse about fomo is that it falls to the [Halo effect](/notes/one-good-trait-makes-us-assume-others-are-good-too.md). We only see the good aspect of those we envy, without seeing the price they pay, or the bad aspects of there lives. We're comparing our lives to a fake, non realistic perfect version of someone's life.
 
-The answer to those is [Gratitude](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md). Gratitude is not [complicancy](/notes/complicancy.md). You can be ambitious, optimistic and full of gratitude. Gratitude is not accepting bad situations, it's noticing the good that helps you overcome them.
+The answer to those is [Gratitude](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md). Gratitude is not [complicancy](/notes/complacency-is-passive-acceptance-that-prevents-necessary-action.md). You can be ambitious, optimistic and full of gratitude. Gratitude is not accepting bad situations, it's noticing the good that helps you overcome them.
 
 :::note[Core Power Belief #2: “I Am Grateful.” ^ref-8536]
 
@@ -300,7 +300,7 @@ It requires a [Reframing](/notes/how-we-describe-something-shapes-how-it-is-perc
 
 #### I'm not Alone
 
-We're not meant to be alone [Human is a social being](/notes/human-is-a-social-being.md). Without others around us, everything is perceived as more difficult. When we're not alone, we are much more [resilient](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md), braver, happier, healthier and stronger [Happiness is shared](/notes/happiness-is-shared.md) [collective intelligence](/notes/collective-intelligence.md).
+We're not meant to be alone [Human is a social being](/notes/human-is-a-social-being.md). Without others around us, everything is perceived as more difficult. When we're not alone, we are much more [resilient](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md), braver, happier, healthier and stronger [Happiness is shared](/notes/happiness-is-shared.md) [Intelligence is an emergent property of knowledge networks](/notes/intelligence-is-an-emergent-property-of-knowledge-networks.md).
 
 Having someone by your side is not just a "nice to have", it's the key for performance and happiness, both at work, at studies, and in your personal life.
 
@@ -345,7 +345,7 @@ This core belief is the first amongst equals. It fuels and strengthens all other
 
 #### The Disaster Elevator
 
-When we're afraid, when a challenge is coming, we tend to [catastrophize](/notes/rumination.md). We imagine the worst possible outcome as the most likely outcome.
+When we're afraid, when a challenge is coming, we tend to [catastrophize](/notes/rumination-is-repeatedly-replaying-problems-without-resolving-them.md). We imagine the worst possible outcome as the most likely outcome.
 
 The disaster elevator helps us escape rumination and see a broader (and more likely) range of possible outcomes.
 
@@ -364,7 +364,7 @@ Then, we might also extend the elevator to potentially good outcomes.
 
 #### The Memory Delorean
 
-Our [Narrative](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md) is a collection of memories, and memories are not static things that last forever, they are both [edited](/notes/we-rewrite-our-memories-every-time-we-access-them.md) each time we remember them, some of them are pruned, and only those we [reencounter](/notes/repeated-exposure-to-information-strengthens-memory-retention.md) survive. Our long lasting memories are long lasting before we tend to revisit them. We watch videos, photos, we talk about them.
+Our [Narrative](/notes/we-rewrite-our-memories-every-time-we-access-them.md) is a collection of memories, and memories are not static things that last forever, they are both [edited](/notes/we-rewrite-our-memories-every-time-we-access-them.md) each time we remember them, some of them are pruned, and only those we [reencounter](/notes/repeated-exposure-to-information-strengthens-memory-retention.md) survive. Our long lasting memories are long lasting before we tend to revisit them. We watch videos, photos, we talk about them.
 
 That means we can do a sort of "memory hacking" or "trip down memory lane". To create a habit of revisiting positive memories that strengthen our positive core beliefs. Like a momemnt shared with friends so that we won't feel alone, or doing some brave, or meaningful.
 
@@ -438,7 +438,7 @@ When we share a story, we're literally more in [sync](/notes/resonance-is-being-
 
 #### Creating a Shared Neural Tribe
 
-We are the people around us [Social influence](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md). The norms of the place we are in shape our beliefs. Especially, the stronger the message, it's frequency, and immediacy, the more likely we are to be affected and assimilate [Emotional Contagion](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md).
+We are the people around us [Social influence](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md). The norms of the place we are in shape our beliefs. Especially, the stronger the message, it's frequency, and immediacy, the more likely we are to be affected and assimilate [Emotional Contagion](/notes/emotions-spread-between-people-through-contagion.md).
 
 For example workaholism, body image, political extremism, is not a matter of personal beliefs, it's a cultural influence at the level of your *neurological tribe*.
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20230121063333
 Created: '2023-01-21 06:33'
-Modified: '2026-09-09 16:14'
+Modified: '2026-09-22 17:05'
 tags: []
 FullTitle: >-
   Peak - Unleashing Your Inner Champion Through Revolutionary Methods for Skill
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 4
 Pages: 336
 Reread: 0
 Rate: 2
@@ -106,7 +106,7 @@ What we usually thought is the cause of innate [Competence is developed through 
 
 ### Chapter 1 - deliberate practice  
 
-There are two types of practices, the first is the naïve type, a "*just do it*" mindset, which would get you through the basics, but you will hit a ceiling, and further practice (or experience) won't lead to better results. The other type is *deliberate or purposeful practice*.
+There are two types of practices, the first is the naïve type, a "*just do it*" mindset, which would get you through the basics, but you will hit a ceiling, and further practice (or experience) won't lead to better results [Automation of skill makes weaknesses permanent](/notes/automation-of-skill-makes-weaknesses-permanent.md). The other type is *deliberate or purposeful practice*.
   
 :::note[The Power of Purposeful Practice]
 

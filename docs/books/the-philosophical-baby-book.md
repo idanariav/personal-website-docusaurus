@@ -1,7 +1,7 @@
 ---
 UUID: 20250710072633
 Created: '2025-07-10 07:26'
-Modified: '2026-04-13 06:20'
+Modified: '2026-09-24 06:15'
 tags: []
 FullTitle: >-
   The Philosophical Baby - What Children's Minds Tell Us About Truth, Love, and
@@ -25,7 +25,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 5
 Pages: 300
 Reread: 0
 Rate: 2
@@ -86,7 +86,7 @@ But also, learning is how we change the world. All the amazing things around us 
 
 Childhood exists because learning takes time [Patience enables persisting through delayed gratification and growth](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md). We can't be born creative same as a horse knows how to run on their first day. Our capacity for thinking has to be cultivated.
 
-That's why childhood and adulthood are two different types of humans, not just a mere "weaker adults". Children are better at [Ideation generates ideas through exploratory thinking freed from constraints](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md). They are more flexible and faster at generating ideas, and not limited by [We prefer existing situations over alternatives despite better options](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md), [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) or [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md). How the world works is not a limitation. These are the most liberated minds in existence, free to explore in every direction that interests them. It takes time for the [prefrontal cortex](/notes/prefrontal-cortex.md) to develop, usually until the mid twenties. Until then it's a time of [exploration](/notes/exploration.md) and play.
+That's why childhood and adulthood are two different types of humans, not just a mere "weaker adults". Children are better at [Ideation generates ideas through exploratory thinking freed from constraints](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md). They are more flexible and faster at generating ideas, and not limited by [We prefer existing situations over alternatives despite better options](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md), [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) or [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md). How the world works is not a limitation. These are the most liberated minds in existence, free to explore in every direction that interests them. It takes time for the [prefrontal cortex](/notes/prefrontal-cortex.md) to develop, usually until the mid twenties. Until then it's a time of [exploration](/notes/deliberately-encountering-the-unfamiliar-drives-growth.md) and play.
 
 :::note[Introduction]
 
@@ -104,11 +104,11 @@ That's why childhood and adulthood are two different types of humans, not just a
 
 ### Possible Worlds - why Do Children Pretend
 
-Humans have a tendency to think through [counterfactuals](/notes/imagining-alternatives-sharpens-our-judgment.md). We don't only try to see the world [as is](/notes/seeing-reality-without-subjective-bias-reduces-distortion.md), we imagine "what if" scenarios. The past, all the possible futures, all alive within our perspective right now. The advantage in "what if" thinking is it's ability to actually change the future. Through envisioning a different future we can't bring it to life [Believing makes it real](/notes/being-emerges-from-action-not-belief.md). It is also a disadvantage, as we feel responsible for all the possible future that didn't come to life. For example feeling [We regret inaction more than action taken](/notes/we-regret-inaction-more-than-action-taken.md) for what we've done, knowing that we could have acted differently.
+Humans have a tendency to think through [counterfactuals](/notes/imagining-alternatives-sharpens-our-judgment.md). We don't only try to see the world [as is](/notes/seeing-reality-without-subjective-bias-reduces-distortion.md), we imagine "what if" scenarios. The past, all the possible futures, all alive within our perspective right now. The advantage in "what if" thinking is it's ability to actually change the future. Through envisioning a different future we can't bring it to life [Believing makes it real](/notes/belief-alone-can-produce-real-effects.md). It is also a disadvantage, as we feel responsible for all the possible future that didn't come to life. For example feeling [We regret inaction more than action taken](/notes/we-regret-inaction-more-than-action-taken.md) for what we've done, knowing that we could have acted differently.
 
 Not only that children are very capable of thinking about counterfactual, as shown by experiments through their pretend play and reasoning, it is also very clear that they can distinguish between the real and the imaginary. The play with a fake kitchen, but they don't really eat the plastic fruit.
 
-They are also very capable of reasoning and understanding [causality](/notes/causality.md). They understand what leads to what, and can change their perception based on information they get from the world. They create *causal maps* that retain the relationships between objects.
+They are also very capable of reasoning and understanding [causality](/notes/we-infer-causality-rather-than-observe-it-directly.md). They understand what leads to what, and can change their perception based on information they get from the world. They create *causal maps* that retain the relationships between objects.
 
 :::note[Possible Worlds]
 
@@ -180,7 +180,7 @@ However, even if we have such memories, they're not necessarily true. They can b
 
 For children up to the age of four their memory exists yet it is very passive. They have difficulties remember their past mental state, for example if they are not hungry, they believe they never wanted food, even if they ate five minutes ago. They are also highly susceptible, the questions we ask can unintentionally implant false memories. They also require a cue to remember [Cue based memorization](/notes/cue-based-memorization.md). For example asking them "how was your day" will return blank, but asking "did you go to the park today" will result in amazing stories.
 
-Similarly, up to the age of five they have a weak sense of [self](/notes/self.md), even if they recognize themselves in the mirror, they don't connect between past, present and future self as the same person. They don't have an "I", an observer that thinks about their experiences. Even if they think of something, they won't admit of thinking of it, because they are not aware of their "thinking self".
+Similarly, up to the age of five they have a weak sense of [self](/notes/the-self-reshapes-with-relationships-and-circumstances.md), even if they recognize themselves in the mirror, they don't connect between past, present and future self as the same person. They don't have an "I", an observer that thinks about their experiences. Even if they think of something, they won't admit of thinking of it, because they are not aware of their "thinking self".
 
 Consciousness is not a single steady stream. It is messy even for us adults. Same as we can be influenced by biases and have implanted memories, we shouldn't be surprised that it's even messier for children.
 

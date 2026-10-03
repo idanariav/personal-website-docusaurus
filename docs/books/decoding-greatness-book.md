@@ -1,7 +1,7 @@
 ---
 UUID: 20240419072049
 Created: '2024-04-19 07:20'
-Modified: '2026-04-18 06:20'
+Modified: '2026-09-19 16:10'
 tags: []
 Author:
   - '[[Ron Friedman]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 9
+Version: 10
 Pages: 288
 Rate: 4
 PublishDate: 2023-01-24T00:00:00.000Z
@@ -62,12 +62,22 @@ How to decode greatness:
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen?*
+1. Faster, better learner - by decoding greatness and learning from others, which could improve much better and faster that we have ever could on our own
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-1. Faster, better learner - by decoding greatness and learning from others, which could improve much better and faster that we have ever could on our own
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Metaphor of the "Curse of Knowledge"** – Experts often cannot explain their skills because they have internalized the knowledge so deeply they cannot imagine not knowing it and rely on intuition rather than explicit rules. Supports: The idea that experts are often poor teachers for novices.
+2. **Concept of "The Vision-Ability Gap"** – The dissonance between our high standards (vision) and our current, lower-quality output (ability), which often leads to impatience or quitting. Supports: The claim that early attempts are inherently lower quality, and this gap is a natural part of the learning process.
+3. **Pattern Recognition in Entrepreneurship** – Successful entrepreneurs excel at linking past market successes with current, emerging market changes. Supports: The idea that mastery involves identifying systems and structures rather than just surface-level actions.
+4. **"The Scoreboard Principle"** – The practice of measuring and quantifying inputs and outputs to make invisible barriers and poor behaviors impossible to ignore. Supports: The claim that metrics provide necessary accountability and motivation by satisfying the drive for competence.
+5. **"Pre-Mortem" Visualization** – Mentally simulating a task in its entirety to identify potential obstacles, emotions, and logistical failures before they happen. Supports: The argument that preparation and thoughtful anticipation reduce risks and enable better performance.
+6. **The "Mini Experiments" Strategy** – Creating cheap, small-scale versions of products or content to gather feedback and learn before committing significant resources. Supports: The claim that taking the "risk out of risk-taking" is essential for sustainable growth and validation.
+7. **The "Three Sources of Competence" Framework** – Categorizing the development of skill into raw talent, practice, and imitation. Supports: The idea that practice alone is insufficient, and imitation is a legitimate tool for accelerating mastery.
+8. **"Zooming Out" Strategy** – Using quantification or qualitative structural mapping (like outlining someone else's work) to move up the ladder of abstraction and identify commonalities. Supports: The idea that pattern recognition requires isolating the logical structure behind successful work.
+9. **The "Pseudonym" Technique** – Using personas to experiment with new identities and ideas in a "low-stakes" environment, effectively creating a clean slate. Supports: The claim that separating actions from identity allows for freer testing and prevents past behaviors from constraining future options.
+10. **The "Diversity of Feedback" Rule** – The requirement that feedback must be specific, improvement-focused, context-aware, and properly timed to be actionable, rather than just "noise." Supports: The idea that not all feedback is useful and must be filtered to enable actual improvement.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -119,7 +129,7 @@ The most important thing to get from copying the experts is the underling aspect
 
 It's not the copying itself per say that leads to creativity, but what we learn from it. It breaks our default way of thinking, providing a new way of looking at things [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md).
 
-It also makes it easier to get better quickly because we can learn lessons that took much time, effort and resources to learn in a quick way [Initial effort investments create friction preventing optimal behavior change](/notes/initial-effort-investments-create-friction-preventing-optimal-behavior-change.md). Also, looking at other's work is much more likely to promote [creativity](/notes/creativity-is-combining-existing-ideas-in-new-ways.md) and originality because we can hardly do anything original by ourselves. We need [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md) to get better, we need [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md) because today the requirements to be innovative are so high that no one person can do it alone [complexity](/notes/complexity.md)
+It also makes it easier to get better quickly because we can learn lessons that took much time, effort and resources to learn in a quick way [Initial effort investments create friction preventing optimal behavior change](/notes/initial-effort-investments-create-friction-preventing-optimal-behavior-change.md). Also, looking at other's work is much more likely to promote [creativity](/notes/creativity-is-combining-existing-ideas-in-new-ways.md) and originality because we can hardly do anything original by ourselves. We need [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md) to get better, we need [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md) because today the requirements to be innovative are so high that no one person can do it alone [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md)
 
 :::note[The Mastery Detectives]
 

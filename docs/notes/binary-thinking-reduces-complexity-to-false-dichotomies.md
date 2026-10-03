@@ -1,13 +1,13 @@
 ---
 UUID: 20231231070810
 Created: '2023-12-31 07:08'
-Modified: '2026-08-18 11:30'
+Modified: '2026-09-19 16:10'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 6
+Version: 7
 Image: '[[Binary thinking reduces complexity to false dichotomies.png]]'
 ImageText: overlapping circles vs isolated circles
 Description: >-
@@ -37,7 +37,7 @@ SiteProcssed: true
 We sometimes see situations as a black-and-white, meaning that there is only one right move, and a clear distinction between the right side and the wrong side. Into those sides we often place people, using [streotypes](/notes/heuristics-are-mental-shortcuts-enabling-fast-automatic-decisions.md) we classify them into groups of [Group membership biases perception and shapes intergroup hostility](/notes/group-membership-biases-perception-and-shapes-intergroup-hostility.md), but it also could be about certain non-human related decisions. We tend to see the other side as our problem, instead of the actual problem [People are not the problem](/notes/people-are-not-the-problem.md).
 
 ### Explanation
-The problem with binary thinking is that our perception is highly limited and we will most often miss [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md), or ignore the [Complexity makes ideas harder to understand and implement](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md) of the situation, which means our solution will be inadequate, or even harmful. It has a "go big or go home" kind of attitude, which can cause us to dismiss opportunities that might start small yet have a [Repeated actions yield exponentially increasing returns over time](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md) effect with time.
+The problem with binary thinking is that our perception is highly limited and we will most often miss [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md), or ignore the [complexity](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md) of the situation, which means our solution will be inadequate, or even harmful. It has a "go big or go home" kind of attitude, which can cause us to dismiss opportunities that might start small yet have a [Repeated actions yield exponentially increasing returns over time](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md) effect with time.
 
 Similarly, binary thinking is usually connected to having a [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md). Success seems as a True/False condition, rather than a spectrum, or a matter of a personal mindset; you are either competent or not, ignoring the ability to grow and adapt over time, failure is bad, because it pushes you away from reaching your goal, ignoring the important lessons that it carries. You are either a good or bad person, ignoring the variety within ourselves, and the importance of detaching what we do with who we are to let ourselves grow past harmful behavior. Success is a zero sum game, to be successful we have to step on others, ignoring the benefits of cooperation.
 

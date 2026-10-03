@@ -1,7 +1,7 @@
 ---
 UUID: 20241014103753
 Created: '2024-10-14 10:37'
-Modified: '2026-06-03 06:35'
+Modified: '2026-09-25 11:34'
 tags: []
 FullTitle: >-
   The Practice of Groundedness - A Transformative Path to Success That Feeds—Not
@@ -18,15 +18,17 @@ URL: 'https://www.goodreads.com/book/show/56293870-the-practice-of-groundedness'
 Cover: >-
   http://books.google.com/books/content?id=SYw8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 Genre: Business & Economics
-Stored: Kindle
-ReadingStatus: Reading
+Stored:
+  - Kindle
+  - Epub
+ReadingStatus: Done
 ASIN: 0593329899
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 4
+Version: 7
 Pages: 289
 Reread: 0
 Rate: 4
@@ -78,6 +80,16 @@ A more wholesome life, not chasing endless dreams that only leave us feeling emp
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Second Arrow** – Metaphor (Buddhist parable) – Resistance to painful reality acts as a "second arrow" that intensifies and prolongs suffering. Supports: Resisting difficult life events makes them worse.
+2. **The Happiness Equation** – Conceptual framework – Happiness is calculated as reality minus expectations. Supports: Reducing unrealistic expectations is essential to finding contentment in life.
+3. **Self-Determination Theory** – Psychological framework – The theory that humans require three fundamental elements to thrive: Autonomy, Competence, and Relatedness. Supports: Meaningful fulfillment requires both individual control and deep human connection.
+4. **The Hedonic Treadmill** – Scientific concept – The persistent observation that human happiness returns to a baseline level regardless of external life changes or achievements. Supports: Chasing external goals and constant wanting will not lead to lasting life satisfaction.
+5. **Sitting is the New Smoking** – Metaphor – A comparison describing the harmful health impacts of a sedentary lifestyle. Supports: Regular, distributed physical movement is a non-negotiable requirement for mental and physical health.
+6. **The Attention Economy** – Structural observation – Media business models treat user attention as a commodity, using psychology to create "dopamine traps." Supports: Our modern digital environment is intentionally designed to undermine our ability to be present.
+7. **One Rep Short** – Coaching principle – The strategy of intentionally performing slightly less than maximum capacity during a session to ensure enough energy remains for the next day. Supports: Avoiding burnout requires prioritizing long-term sustainability over immediate, excessive output.
+8. **Acceptance and Commitment Therapy (ACT)** – Clinical framework – A method based on three layers: accepting conditions without judgment (cognitive distancing), choosing actions based on values, and taking action. Supports: True progress requires acknowledging current reality rather than escaping it or fighting it.
+9. **The Stone Cracking Analogy** – Metaphor – The observation that small, consistent impacts eventually shatter a stone, symbolizing how patience leads to growth. Supports: Consistent, long-term effort is more effective than rushing or expecting instant results.
+10. **Emotional Contagion** – Psychological mechanism – The process by which emotions, especially negative ones like fear or anger, unconsciously spread between people. Supports: Your choice of social circle directly shapes your internal state, making "who you surround yourself with" a critical factor for wellbeing.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -98,14 +110,14 @@ I like the book's message, especially coming from a person that focuses on high 
 
 #### Grounded to Soar
 
-Many people are affected by *heroic individualism*. They see success as the most important metric, driven solely by your effort in a zero sum game against everyone [Competition](/notes/competitive-mindset-harms-wellbeing-by-focusing-on-opponents.md) , while they are also filled with deep dissatisfaction, a feeling that they are never enough [lacking](/notes/lacking.md), forcing to chase the next big goal as a form of [Escapism](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) [Treating measurable metrics as complete truth hides importance](/notes/treating-measurable-metrics-as-complete-truth-hides-importance.md) [focusing on ego and status leaves you empty](/notes/focusing-on-ego-and-status-leaves-you-empty.md).
+Many people are affected by *heroic individualism*. They see success as the most important metric, driven solely by your effort in a zero sum game against everyone [Competition](/notes/competitive-mindset-harms-wellbeing-by-focusing-on-opponents.md) , while they are also filled with deep dissatisfaction, a feeling that they are never enough [lacking](/notes/a-persistent-feeling-of-lacking-sustains-endless-pursuit.md), forcing to chase the next big goal as a form of [Escapism](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md) [Treating measurable metrics as complete truth hides importance](/notes/treating-measurable-metrics-as-complete-truth-hides-importance.md) [focusing on ego and status leaves you empty](/notes/focusing-on-ego-and-status-leaves-you-empty.md).
 
 this endless [Wanting](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md) is a main source of [Burnout](/notes/burnout-is-chronic-exhaustion-from-overwhelming-demands.md) and [Depression](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md). Because even when we achieve what we want, our happiness doesn't rise due to [Hedonic Treadmill](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md). Therefore happiness is not about constantly wanting more. It is instead to search for [Stillness](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md) or *groundedness*. An internal source of strength that will enrich and empower our wellbeing. It is a boost to our happiness, fulfillment, wellbeing and even peak performance.
 
 The pillars of groundedness are:
 1. **Accept where you are to get where you want to go** - accept who you are and where you are now [Validation](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md)
 2. **Be present so you can own your attention and energy** - focus on the present, be physically and mentally present [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md)
-3. **Be patient and you'll get there faster** - accept that some things take time [rushing](/notes/rushing.md), so we need to give it time to grow, not rushing results or expecting immediate results. Play the long game, be patient.
+3. **Be patient and you'll get there faster** - accept that some things take time [rushing](/notes/rushing-produces-worse-outcomes-than-patience.md), so we need to give it time to grow, not rushing results or expecting immediate results. Play the long game, be patient.
 4. **Embrace vulnerability to develop genuine strength and confidence** - be real, authentic, vulnerable [Vulnerability](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md), [Authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.md)
 5. **build deep community** - prioritize people [People First](/notes/people-are-the-most-valuable-organizational-resource.md), [Happiness is shared](/notes/happiness-is-shared.md)
 6. **Move your body to ground your mind** - moving as a habit connects your body and your mind
@@ -138,7 +150,7 @@ The more curious paradox is that [self acceptance is necessary for growth](/note
 Happiness is *reality minus [Expectations](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md)*. If we expect too much of reality, we will only be miserable.
 
 Since resistance is pain, a popular therapy method rose called *ACT* or Acceptance Commitment Therapy, which has three layers:
-1. **Acceptance** - Accept what's happening without judgment or attaching it to your identity [Cognitive Distancing](/notes/separating-actions-from-identity-allows-growth.md). Try to [Zoom out](/notes/zooming-out-gains-perspective-through-mental-distance.md) and look at the situation as an external observer.
+1. **Acceptance** - Accept what's happening without judgment or attaching it to your identity [Cognitive Distancing](/notes/separating-actions-from-identity-allows-growth.md). Try to [Zoom out](/notes/healthy-self-talk-prevents-spiraling-and-builds-resilience.md) and look at the situation as an external observer.
 2. **Choice** - choose how to move forward in a way that aligns with your values
 3. **Take action** - do so, even if it feels scary or uncomfortable
 
@@ -149,7 +161,7 @@ Accepting the situation is liberating, and allows us to focus on what we can con
 To embody acceptance:
 1. Try to be the external observer, take a [Pause](/notes/rest-enables-recovery-and-sustained-performance.md) and try to extend the space between stimulus and reaction
 2. If things are spiraling, practice [Self-compassion](/notes/being-kind-to-yourself-strengthens-resilience-and-growth.md). Speak to yourself in third person, talk to yourself as you would a friend [self talk](/notes/healthy-self-talk-prevents-spiraling-and-builds-resilience.md) [talking in third person creates distance and improves compassion](/notes/talking-in-third-person-creates-distance-and-improves-compassion.md)
-3. Act in a way that's aligned with your values. Ask yourself what a mentor or person that embody those values would have done [imaginary mentors help alignment with values](/notes/imaginary-mentors-help-alignment-with-values.md)
+3. Act in a way that's aligned with your [values](/notes/living-in-alignment-with-your-values.md). Ask yourself what a mentor or person that embody those values would have done [imaginary mentors help alignment with values](/notes/imaginary-mentors-help-alignment-with-values.md)
 
 Say to yourself - *this is what's happening and I'm doing the best I can*
 
@@ -172,13 +184,13 @@ The expectation to do more, to be everywhere all at once has severely hurt our a
 
 One option is pretending to be productive through [Multitasking](/notes/multitasking-is-sequential-task-switching-with-cognitive-switching-costs.md) which only hurts our productivity because our mental capacity is split between different tasks, even if we don't try to focus on them [Attention Residue](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md).
 
-Another option is more obvious distractions. The [Attention Economy](/notes/our-attention-is-the-product-that-media-companies-sell.md) that uses our biology and psychology against us, creating [dopamine](/notes/dopamine.md) traps that makes us hungry for more, but less satisfied when we get it, like empty carbs.
+Another option is more obvious distractions. The [Attention Economy](/notes/our-attention-is-the-product-that-media-companies-sell.md) that uses our biology and psychology against us, creating [dopamine](/notes/dopamine-drives-wanting-not-satisfaction.md) traps that makes us hungry for more, but less satisfied when we get it, like empty carbs.
 
 The quality of our lives is determined by the quality of our presence. The more we dedicate attention to the present, to what matters, the more rich our lives will be. Presence is what enables [Flow](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md)
 
 That's why it's important to get rid of [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md), such as leaving your phone away at night or doing a day clean of technology [Detox](/notes/overcoming-addiction-requires-removing-all-traces-of-it.md). It will be difficult at first, you'll likely notice signs of withdrawal, but it shall pass if you let it [Surf the Urge](/notes/strong-urges-are-short-lived-if-you-wait-them-out.md), each successful resistance makes the next one easier [Repeated exposure raises threshold](/notes/repeated-exposure-raises-threshold.md).
 
-It's very hard to rely on [willpower](/notes/willpower-is-limited.md) alone when we want to avoid distractions. A much better way is to not meet them in the first place [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md).
+It's very hard to rely on [willpower](/notes/willpower-is-limited.md) alone when we want to avoid distractions. A much better way is to not meet them in the first place [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md).
 
 Presence is mindfulness, a never ending struggle to keep your focus and remove clutter from your mind. It's impossible to be completely without thought. Distracting thoughts will always come, we just need to let them pass without judgment.
 
@@ -207,7 +219,7 @@ The key point is [slow is smooth and smooth is fast](/notes/slow-is-smooth-and-s
 
 To improve our patience:
 1. **Be without your phone** - The phone represents our most instantaneous temptations. Trying to detox will give us the power to [Delay Gratification](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md)
-2. **Breath** - three times a day, take five deep breaths, and follow them from start to finish. To consciously do nothing without immediately switching to action is also a good practice [breathing](/notes/breathing.md)
+2. **Breath** - three times a day, take five deep breaths, and follow them from start to finish. To consciously do nothing without immediately switching to action is also a good practice [breathing](/notes/conscious-breathing-regulates-the-nervous-system.md)
 
 :::note[BE PATIENT AND YOU’LL GET THERE FASTER]
 
@@ -258,7 +270,7 @@ The *self determination theory* claims that a person needs three things:
 
 Loneliness is harmful because we need social connections to feel safe. Otherwise we're constantly scanning for threats, which increases [stress](/notes/chronic-stress-is-harmful.md) and leads to lower productivity and satisfaction. It also creates a vicious cycle because when we see everything as a threat, we're worse at creating new connections which would get us out of this situation.
 
-Social media can be quite harmful as well. Despite having more "friends" than ever, we feel even more alone [Shallow copy](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md). The only way social media can be a net gain if it facilitates interactions instead of replacing them [social media is beneficial if it promotes face to face interaction](/notes/social-media-is-beneficial-if-it-promotes-face-to-face-interaction.md). Meaning that if you use social media to create face to face interactions, than it is more useful than harmful.
+Social media can be quite harmful as well. Despite having more "friends" than ever, we feel even more alone [Shallow copy](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md). The only way social media can be a net gain if it facilitates interactions instead of replacing them [social media is beneficial if it promotes face to face interaction](/notes/social-media-is-beneficial-when-it-facilitates-face-to-face-interaction.md). Meaning that if you use social media to create face to face interactions, than it is more useful than harmful.
 
 Social media is also harmful because it is a breeding ground for *emotional contagion* [Emotions spread between people through contagion](/notes/emotions-spread-between-people-through-contagion.md). Especially for negative emotions like anger and fear. These are not emotions that are beneficial for connections.
 
@@ -267,7 +279,7 @@ You are the image of the people around you [Interpersonal Identity](/notes/ident
 There are several types of communities that could help you have a sense of belonging:
 1. **Volunteering** - we tend to befriend those we help [volunteering connects us to those we give toteering connects us to those we give to](/notes/volunteering-connects-us-to-those-we-give-toteering-connects-us-to-those-we-give-to.md)
 2. **Support group** - they don't only make us more accountable, they also lift us up when we're down [accountability partner](/notes/accountability-partner.md)
-3. **Religion** - it's a group with fixed rituals and a strong sense of meaning, that has the power to bring people together [religion](/notes/religion.md)
+3. **Religion** - it's a group with fixed rituals and a strong sense of meaning, that has the power to bring people together [religion](/notes/religion-provides-community-and-meaning-through-shared-ritual.md)
 
 :::note[BUILD DEEP COMMUNITY]
 
@@ -304,7 +316,7 @@ The golden rule is *train often, sometimes hard, every bit counts*.
 
 Theoretical knowledge doesn't change your life, doing is.
 
-We need to align our identity and our actions [Cognitive Alignment](/notes/actions-and-physical-states-unconsciously-shape-our-beliefs.md). Stop and think about how to implement the pillars of groundedness in your life, try to narrow it to as simple as possible, and start following this list.
+We need to align our identity and our actions [Cognitive Alignment](/notes/merging-actions-with-identity-blocks-growth.md). Stop and think about how to implement the pillars of groundedness in your life, try to narrow it to as simple as possible, and start following this list.
 
 Changing your life is easier said than done. To do so we have to use habits in our favor. To strengthen the good ones and weaken the bad ones. Like most things in life, whatever gets stronger is *the one you feed* [what we pay attention to dictates our perception](/notes/what-we-pay-attention-to-dictates-our-perception.md).
 

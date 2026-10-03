@@ -1,9 +1,9 @@
 ---
 UUID: 20231228174240
 Created: '2023-12-28 17:42'
-Modified: '2026-09-14 22:44'
+Modified: '2026-09-19 15:44'
 tags: []
-Version: 4
+Version: 5
 aliases:
   - Over confidence
 Description: >-
@@ -49,7 +49,7 @@ Unfortunately, those with over confidence tend to do the opposite, they double d
 
 The opposite of over confidence is [Imposter syndrome is feeling undeserving despite actual competence](/notes/imposter-syndrome-is-feeling-undeserving-despite-actual-competence.md), where we devalue our [Competence is developed through practice not innate talent](/notes/competence-is-developed-through-practice-not-innate-talent.md).
 
-In contrast, a bit more [Skepticism](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md), would remove the [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) between our confidence and our ego, allowing us to operate like a scientist who runs [experiments](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md), changing and adapting their hypothesis about the world as they discover new information, instead of being stuck in the same outdated belief.
+In contrast, a bit more [Skepticism](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md), would remove the [Ownership inflates entitlement and distorts judgment](/notes/ownership-inflates-entitlement-and-distorts-judgment.md) between our confidence and our ego, allowing us to operate like a scientist who runs [experiments](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md), changing and adapting their hypothesis about the world as they discover new information, instead of being stuck in the same outdated belief.
 
 Similarly, [Humility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md) works directly against it, since admitting how much we don't know is the opposite move to insisting we already know enough.
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20260122121002
 Created: '2026-01-22 12:10'
-Modified: '2026-09-10 15:05'
+Modified: '2026-10-02 13:41'
 tags: []
 FullTitle: Positivity -
 Description: >-
@@ -32,7 +32,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 9
+Version: 13
 Pages: 288
 Reread: 0
 Rate: 3
@@ -54,7 +54,7 @@ SiteProcssed: true
 🔈 *Summary of main ideas*
 1. **Positivity isn't naive** - To be a positive person doesn't mean to ignore the bad things. Negativity is a useful information, but your goal is to keep it as such. Not to dwell in it or let it take over your world. Also, nothing last forever, so we can't make positivity permanent, we can only generate more positive experiences than negatives.
 2. **Positivity is a multiplier** - It improves our physical health, our creativity, our social connections, our sense of purpose, our emotional resilience. It broadens our mind and enriches our life.
-3. **Negativity and positivity are self reinforcing** - When we look at things negatively, we often create more problems in the first place. What considers a problem is a matter of perspective, and how we deal with something can turn it from a problem to a source of joy. Negativity leads to a downwards spiral, while positivity leads to an upwards spiral.
+3. **Negativity and positivity are self reinforcing** - When we look at things negatively, we often create more problems in the first place. What considers a problem is a matter of perspective, and how we deal with something can turn it from a problem to a source of joy. Negativity leads to a downwards spiral, while positivity leads to an [upwards spiral](/notes/positive-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md).
 4. **Stay above the line** - A heuristic for flourishing is having more than 3:1 positive to negative thoughts/experiences. By cultivating gratitude, mindfulness and a positive take on experiences we can thrive mentally, socially, physically. Being under this line is a warning sign for depression
 5. **Fill your life with every kind of good** - There are ten types of positive emotions, and to have a rich life we should cultivate each kind. This will also keep us from becoming numb to certain experiences, we can always switch the type of emotion we focus on.
 
@@ -135,7 +135,7 @@ Positivity:
 
 #### Positivity: Means, not Ends
 
-Positivity can't last forever, every emotion is [fleeting](/notes/experiences-are-unique-because-they-are-fleeting-and-irreplaceable.md). The goal than is the *ratio* between your positive and negative moments. Above the threshold - we are [Bursting with life](/notes/bursting-with-life.md), below it - we face a [Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) of unhappiness. It's the cause of those things, not a symptom.
+Positivity can't last forever, every emotion is [fleeting](/notes/experiences-are-unique-because-they-are-fleeting-and-irreplaceable.md). The goal than is the *ratio* between your positive and negative moments. Above the threshold - we are [Bursting with life](/notes/feeling-bursting-with-life-signals-genuine-flourishing.md), below it - we face a [Harmful actions reinforce themselves through self-perpetuating feedback loops](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) of unhappiness. It's the cause of those things, not a symptom.
 
 People with a positive ratio are not just happier, they have a stronger sense of purpose, they are a more engaged with the people around them, they help others and do good in this world [Positivity increases purpose and prosocial behavior](/notes/positivity-increases-purpose-and-prosocial-behavior.md).
 
@@ -170,10 +170,10 @@ The ten forms of positivity:
 3. **Serenity** - A feeling on contentment, of calmness, of rest, leisure and safety (the opposite of [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md))
 4. **Interest** - a strong "pull", being filled with curiosity. When something fascinates you. To grow, learn and develop. (The opposite of [Indifference can be protective or harmful depending on its source](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md))
 5. **Hope** - when things are looking back but despite of it all we believe it can be better, a safeguard from despair [hope](/notes/hope.md) (the opposite of [Despair](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md))
-6. **Pride** - we are happy after achieving something meaningful. It boosts our confidence [pride](/notes/pride.md). (The opposite is [Shame](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md))
+6. **Pride** - we are happy after achieving something meaningful. It boosts our confidence [pride](/notes/pride.md). (The opposite is [Shame](/notes/shame-signals-that-who-we-are-is-unworthy.md))
 7. **Amusement** - when something makes us laugh. To share happiness with others. (The opposite is insulting)
 8. **Inspiration** - when you see people go above and beyond, a symbol of values and excellence. It encourages is to be our best as well [Inspiration](/notes/inspiration.md). (The opposite is [Envy](/notes/jealousy-is-focusing-on-what-others-have-that-we-lack.md))
-9. **Awe** - To be overwhelmed by something truly great, that humbles us [awe](/notes/awe.md). (The opposite is [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md))
+9. **Awe** - To be overwhelmed by something truly great, that humbles us [awe](/notes/awe-connects-us-to-something-greater-than-ourselves.md). (The opposite is [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md))
 10. **Love** - The combination of all of the above. Each previously mental emotion is also a byproduct of love. [love](/notes/love.md)
 
 We have more control over our emotions than we think [We control our response to emotions, not their arrival](/notes/we-control-our-response-to-emotions-not-their-arrival.md). It starts with the kind of questions at ask ourselves [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md). For example, asking "what works for me right now?" "What's something good that happened today" will spark positive emotions while asking "what's one thing that went wrong today" Will bring negativity
@@ -190,7 +190,7 @@ We have more control over our emotions than we think [We control our response to
 
 #### Broaden Your Mind
 
-The mind and positivity is like water lilies and the sun. Positivity opens us up, it broadens our mind. We literally [see](/notes/notice.md) more and think better under positivity [broadening](/notes/broadening.md).
+The mind and positivity is like water lilies and the sun. Positivity opens us up, it broadens our mind. We literally [see](/notes/noticing-requires-active-attention-not-passive-presence.md) more and think better under positivity [broadening](/notes/broadening.md).
 
 It especially makes us better at [Ideation generates ideas through exploratory thinking freed from constraints](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md). An open mind sees more connections, and less prone to [We prefer existing situations over alternatives despite better options](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md).
 
@@ -229,7 +229,7 @@ It takes strong positivity to build resilience, but it is possible. It is a rene
 
 #### The Positivity Ratio
 
-The positivity ratio of 3:1 [losada line](/notes/losada-line.md) is the tipping point from languishing to flourishing, both on the individual level and on the intrapersonal level. It's literally everywhere - in marriage, in business, in mental health.
+The positivity ratio of 3:1 [losada line](/notes/positivity-ratios-above-three-to-one-predict-flourishing.md) is the tipping point from languishing to flourishing, both on the individual level and on the intrapersonal level. It's literally everywhere - in marriage, in business, in mental health.
 
 It doesn't have to be 3:1 every day, but as an overall trend. Be above it. You still need negativity in your life, it's inseparable [Negativity is an inseparable part of life](/notes/negativity-is-an-inseparable-part-of-life.md). It's like trying to sail a boat with only sail. You also need the ship itself. The force that drives you when all else fails.
 
@@ -263,7 +263,7 @@ You'll probably see that you're below the 3-1 ratio, that's okay! It takes time 
 
 Negativity is awful because it's so easy to spiral downwards. You feel bad, so you don't have the motivation to do anything, so you feel even worse...
 
-We need to cut negativity before it spirals. The worst kind is [rumination](/notes/rumination.md), where we repeatedly relive our doubts, fears and worst thoughts.
+We need to cut negativity before it spirals. The worst kind is [rumination](/notes/rumination-is-repeatedly-replaying-problems-without-resolving-them.md), where we repeatedly relive our doubts, fears and worst thoughts.
 
 Instead we need a *healthy distraction*, something that will take off the negative lenses and help us see more clearly. [Meditation](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md) is one of the best methods that exists for less stress, better mindfulness, and better focus.
 
@@ -314,3 +314,4 @@ Scientific facts about positivity:
 4. Fuels resilience (pulls you up when it's tough)
 5. Above 3:1 is flourishing
 6. You can raise your ratio
+

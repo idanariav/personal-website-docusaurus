@@ -1,7 +1,7 @@
 ---
 UUID: 20240415113109
 Created: '2024-04-15 11:31'
-Modified: '2026-09-19 08:25'
+Modified: '2026-09-22 07:47'
 tags: []
 FullTitle: >-
   The Four Tendencies - The Indispensable Personality Profiles That Reveal How
@@ -29,7 +29,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 9
 Pages: 272
 Reread: 0
 Rate: 4
@@ -110,7 +110,7 @@ From these two types of expectations, we get 4 archetypes of personality:
 
 While it's true that we sometimes act "across tendencies", in general we all stick with one tendency, no matter who we are with or where we are.
 
-The goal is not to change yourself, there's no "best tendency", the goal is to live in harmony with yourself [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md), to match the environment [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md) to your tendency. Also, she believes that change of such a deep part of yourself is impossible [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md)
+The goal is not to change yourself, there's no "best tendency", the goal is to live in harmony with yourself [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md), to match the environment [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md) to your tendency. Also, she believes that change of such a deep part of yourself is impossible [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md)
 
 Similarly, when you communicate with someone, it's essential to know what their tendency is and match your way of speaking, aka the explanations and justifications that you use for that person, to have a much healthier communication [Resonance is being in sync with reality and others](/notes/resonance-is-being-in-sync-with-reality-and-others.md).
 
@@ -166,7 +166,7 @@ Their weakness:
 1. **Not a team player** - it takes time to turn a questioner into a cooperative person, since it's not something automatic for them. Also, cooperating on point A doesn't promise cooperation on point B. [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md)
 2. **Analysis paralysis** - it might take them a long time to reach a decision because they have to carefully weight all options and conduct an extensive research, which makes them terrible at making quick decisions, even on trivial things [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md)
 3. **Arrogant** - since they enjoy exploring reasons and evidence, they usually are very good debaters, which causes them to feel as if they are the [smartest](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md) in the room, more than experts, and even mock those who question them because they just don't know how much time and effort was invested to reach this level of knowledge.
-4. **Inefficiency** - questioners can easily fall to [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md), either doing something the best way possible, or not at all [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md). If something seems to them as inefficient or a waste of time, it will be very hard for them to do it, even if the end goal is worth while.
+4. **Inefficiency** - questioners can easily fall to [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md), either doing something the best way possible, or not at all [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md). If something seems to them as inefficient or a waste of time, it will be very hard for them to do it, even if the end goal is worth while.
 
 To best communicate with a questioner, remember to include the reasons for your request, and be inquisitive rather than blaming towards the other's lack of cooperative behavior.
 
@@ -183,7 +183,7 @@ To best communicate with a questioner, remember to include the reasons for your 
 
 **Obligers are those who have no problem with "showing up" when expected of them, but fail to do stuff for themselves** [Standing up for yourself is courageous authenticity against social pressure](/notes/standing-up-for-yourself-is-courageous-authenticity-against-social-pressure.md). While we can trust them to get the job done, It doesn't mean that they necessarily enjoy being needed or have a lot of external expectations. Some do this reluctantly and might experience burnout in the end, while others find serving others as a source of meaning and motivation.
 
-To help an obliger, **the best thing would be to create external expectations of their preferred internal expectations, using [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md), systems, groups or people.**
+To help an obliger, **the best thing would be to create external expectations of their preferred internal expectations, using [Commitment devices help enforce behavioral adherence through external constraints](/notes/commitment-devices-help-enforce-behavioral-adherence-through-external-constraints.md), systems, groups or people.** This works because [Expectations of others become self-fulfilling through behavior shaping](/notes/expectations-of-others-become-self-fulfilling-through-behavior-shaping.md) — an obliger tends to actually become what the external expectation asks of them.
 
 These can either be negative or positive, personal or technological:
 - Positive:

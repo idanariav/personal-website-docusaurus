@@ -1,7 +1,7 @@
 ---
 UUID: 20231211084454
 Created: '2023-12-11 08:44'
-Modified: '2026-04-13 06:12'
+Modified: '2026-09-25 07:03'
 tags: []
 Author:
   - '[[Ed Catmull]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 4
 Pages: 368
 Rate: 4
 PublishDate: 2014-04-08T00:00:00.000Z
@@ -60,8 +60,8 @@ SiteProcssed: true
 7. **Creativity is a process** - nothing is perfect from the start, and not even good. It takes many iterations to distill a good idea.
 ### Relate
 
-⛓ *Life lessons, action items*
-
+⛓ *by following this method, what will happen? What is the goal of this book?*
+If done correctly, perhaps you will have the chance of managing people without crushing their innate creativity and will to contribute, and if you're a good manager, you might even succeed at helping them fulfill their potential.
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
 1. **Assume competence** - treat every worker as creative and motivated; give them responsibility and permission to act without asking for approval.
@@ -77,8 +77,17 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-If done correctly, perhaps you will have the chance of managing people without crushing their innate creativity and will to contribute, and if you're a good manager, you might even succeed at helping them fulfill their potential.
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Metaphor** – Problems are like an oak tree; the main issue is the truck, but solving it leaves "saplings" (residual issues/aftermath) that require ongoing attention. Supports: Effective problem solving requires long-term vigilance beyond the initial fix.
+2. **Organizational Structure** – The "Braintrust" format: a small group with no authority figures where the team identifies problems rather than forcing solutions. Supports: Candor, trust, and removing hierarchy are essential for high-quality creative collaboration.
+3. **Concept** – "Ugly Babies": New ideas are inherently imperfect, ungainly, and poorly defined in their early stages. Supports: New creations require protection and time to mature; they should not be judged by the polished standards of finished work.
+4. **Operational Routine** – "Dailies": A recurring session where team members share incomplete, "work-in-progress" projects. Supports: Making work visible and imperfect removes the pressure of perfectionism and increases collective creativity.
+5. **Event Format** – "Notes Day": An event where work stops for company-wide, hierarchy-free sessions dedicated to candid suggestions and debates. Supports: Creating dedicated space for feedback helps employees feel safe to disagree and own the company's future.
+6. **Analogy** – Management as sailing: A leader cannot control environmental storms or outside forces, only navigate the vessel. Supports: Leadership requires accepting that not everything can be controlled and focusing on course correction.
+7. **Environmental Observation** – Seating arrangement at a "long table": When leadership sits in the middle, it unintentionally silences those seated at the edges. Supports: Environmental and spatial design significantly influences behavior and communication flow.
+8. **Reflective Tool** – Postmortems: A structured review using a "start, stop, and continue" framework to analyze project outcomes without assigning blame. Supports: Analyzing lessons learned rather than attributing fault enables organizational growth.
+9. **Concept** – "The Hungry Beast vs. The Ugly Baby": The inherent conflict between the need for efficient production schedules (the beast) and the need for creative cultivation (the baby). Supports: Healthy creative cultures require a balance between efficiency and the protection of nascent ideas.
+10. **Strategy** – "Personal Projects": Allocating time (e.g., two days per month) for employees to explore ideas outside their primary assignments. Supports: Unstructured personal exploration generates unexpected breakthroughs that structured work does not.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -117,7 +126,7 @@ managers should assume that:
 #### Chapter 1 - Animated
 
 Three critical aspects of [creativity](/notes/innovation-is-generating-something-genuinely-new-that-hasnt-existed-before.md):
-1. **No hierarchy** - discussions must be inclusive [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md), ideas flowing freely up, down and across teams. Note that the environment can be influential. For example, a long table where the "important" people sit in the middle can silence those who sit on the edge [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md) [Hierarchy](/notes/hierarchy.md)
+1. **No hierarchy** - discussions must be inclusive [Psychological safety enables risk-taking and vulnerability without fear of retribution](/notes/psychological-safety-enables-risk-taking-and-vulnerability-without-fear-of-retribution.md), ideas flowing freely up, down and across teams. Note that the environment can be influential. For example, a long table where the "important" people sit in the middle can silence those who sit on the edge [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md) [Hierarchy](/notes/hierarchy-silences-dissent-and-free-expression.md)
 2. **Trust** - [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md) hurts creativity and motivation. Workers should feel free to advance, explore and set their plan into motion on their own [Ownership means taking active responsibility and control of your environment](/notes/ownership-means-taking-active-responsibility-and-control-of-your-environment.md).
 3. **Sharing** - the success of one is the success of all, lessons should flow, each person can and should use the best practices from each other [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md)
 
@@ -297,7 +306,7 @@ Change is easier to implement if we frame it as a "what if" when discussing, and
 
 We always have unknown unknowns, even if we have perfect knowledge in every human field, because the main unknown is humans. **especially for managers, people would act, convey knowledge differently around you**, and would avoid contacting you in critical situations out of fear or respect. All these can cause you to believe you know and see everything even when you're far from the truth. [Hierarchy creates fear based informational blindspots](/notes/hierarchy-creates-fear-based-informational-blindspots.md)
 
-More than that, we are all blind to others' perspective and experience. [Understanding others requires attributing mental states like beliefs and intentions to them](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md). We see with our "mind", not our eyes, meaning that our brain "fills the gap" on what we expect to see, not what we actually see (and don't see). Even on hindsight, we are blind, seeing only our [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md), and we are blind to our own blindness. For example: [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md).
+More than that, we are all blind to others' perspective and experience. [Understanding others requires attributing mental states like beliefs and intentions to them](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md). We see with our "mind", not our eyes, meaning that our brain "fills the gap" on what we expect to see, not what we actually see (and don't see). Even on hindsight, we are blind, seeing only our [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md), and [we are blind to our own blindness](/notes/blind-spots-require-external-perspective-to-surface.md). For example: [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md).
 
 Miscommunication, misunderstanding, biases and ignorance can result from these mental models (aka mental glasses). **Honesty, exploration and [Introspection develops self-knowledge through internal examination](/notes/introspection-develops-self-knowledge-through-internal-examination.md) are mechanisms against it**
 

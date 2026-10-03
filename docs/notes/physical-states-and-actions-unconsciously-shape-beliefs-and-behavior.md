@@ -1,13 +1,13 @@
 ---
 UUID: 20240219085113
 Created: '2024-02-19 08:51'
-Modified: '2026-09-15 10:02'
+Modified: '2026-09-30 15:15'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Mind-body connection
 Description: >-
@@ -33,13 +33,13 @@ The Mind-body connection means that the way our body behaves affects our mind an
 
 ### Explanation
 
-If that is the case, than it is likely that doing good can cause us to feel good and voice versa [Love what is good](/notes/love-what-is-good.md). That's why we are more likely to be kind when we are comfortable and happy, and being kind makes us happy [Happiness is to be virtuous](/notes/happiness-is-to-be-virtuous.md). The interaction between our mind and body creates a [Positive feedback loop](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md).
+If that is the case, than it is likely that doing good can cause us to feel good and voice versa [Love what is good](/notes/love-what-is-good.md). That's why we are more likely to be kind when we are comfortable and happy, and being kind makes us happy [Happiness is to be virtuous](/notes/happiness-is-to-be-virtuous.md). The interaction between our mind and body creates a [Positive feedback loop](/notes/positive-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md).
 
 It also suggests that much of what we think as our own independent thought is a result of [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md), for example, we can think of [rational](/notes/we-justify-our-conclusions-after-acting-not-before.md) reasons why we are mad, but the true answer is just that it's hot. Similarly, much of our thinking can happen [outside](/notes/thinking-extends-beyond-the-brain-to-environment-and-society.md) of our brain.
 
 ### Why it matters
 
-This means that initiatives on one end of the spectrum can lead to a change in the other. Even when we "try something out" this could lead to drastic changes in our personality [Self fulfilling prophecy](/notes/being-emerges-from-action-not-belief.md). We can even [trick](/notes/belief-alone-can-produce-real-effects.md) ourselves into changing, as our belief has an [actual](/notes/manifesting-imposes-beliefs-onto-reality-rather-than-accepting-it.md) effect on our bodies. Our mindset is as powerful on our body as nutrition.
+This means that initiatives on one end of the spectrum can lead to a change in the other. Even when we "try something out" this could lead to drastic changes in our personality [being by doing](/notes/being-emerges-from-action-not-belief.md). We can even [trick](/notes/belief-alone-can-produce-real-effects.md) ourselves into changing, as our belief has an [actual](/notes/manifesting-imposes-beliefs-onto-reality-rather-than-accepting-it.md) effect on our bodies. Our mindset is as powerful on our body as nutrition.
 
 ### Examples
 

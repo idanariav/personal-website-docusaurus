@@ -1,20 +1,19 @@
 ---
 UUID: 20240502094323
 Created: '2024-05-02 09:43'
-Modified: '2026-04-11 22:26'
+Modified: '2026-09-19 15:44'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 5
+Version: 6
 aliases:
   - Self Criticism
 Description: >-
   A detrimental internal dialogue where individuals harshly judge themselves,
   undermining self-worth and perpetuating a negative cycle of self-hatred and
   unconstructive beliefs.
-new_schema: true
 Topic:
   - '[[Inner Critic and Self-Perception]]'
 Origin: null
@@ -37,7 +36,11 @@ When we criticize ourselves, we often lack [Being kind to yourself strengthens r
 
 ### Why it matters
 
+It also gets in the way of knowing yourself: when the harsh judge speaks first, [introspection turns into an assumed verdict instead of an honest question](/notes/introspection-develops-self-knowledge-through-internal-examination.md).
+
 ### Examples
+
+[Imposter syndrome](/notes/imposter-syndrome-is-feeling-undeserving-despite-actual-competence.md) is one of its sharper forms — real competence paired with a voice that insists it doesn't count.
 
 ### Supporters
 
@@ -45,7 +48,7 @@ When we criticize ourselves, we often lack [Being kind to yourself strengthens r
 
 When we criticize ourselves, we damage our [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md), and ironically locks us in an [unchanging](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md) state, unable to escape and become someone who doesn't deserve these criticisms.
 
-By saying things like "Why do I always do...", "Why I am so stupid...", or "I don't deserve happiness", we [attach](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) our failures to our identity, unable to gain enough distance to learn and grow from them. We tarnish our identity, rather than our actions, as if we are beings of pure incompetence and worthlessness.
+By saying things like "Why do I always do...", "Why I am so stupid...", or "I don't deserve happiness", we [attach](/notes/separating-actions-from-identity-allows-growth.md) our failures to our identity, unable to gain enough distance to learn and grow from them. We tarnish our identity, rather than our actions, as if we are beings of pure incompetence and worthlessness.
 
 We have no [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md), no where to feel [validated](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md), no where to find the energy to escape our circumstances.
 

@@ -1,9 +1,9 @@
 ---
 UUID: 20230314192648
 Created: '2023-03-14 19:26'
-Modified: '2026-09-14 14:50'
+Modified: '2026-09-19 16:13'
 tags: []
-Version: 4
+Version: 5
 aliases:
   - Soft power
 Description: >-
@@ -38,7 +38,7 @@ There are two types of power by which those in power influence the society:
 
 The culture you are born into is not objective, naïve or innocent. It was made by those we are currently in power, those who form the status quo, to keep the situation as is. Simply by being born into this culture, you might act in a way that reinforces and maintain this culture, even if you are not the one who benefits from it [Herd Mentality](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md). Its not necessarily those who are in positions of power like a prime minister or a judge that really hold the power within a society, but rather those who have the power to shape the mentality, identity, and preferences of the members of the society, such as the media.
 
-One of the ways they shape society's perception about a given topic is by using [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md) and even change the very definition or context of a word to hijack our thoughts [Word meaning varies with history and social context](/notes/word-meaning-varies-with-history-and-social-context.md).
+One of the ways they shape society's perception about a given topic is by using [narratives](/notes/multidimensional-identity-collapses-into-single-fixed-characteristic.md) and even change the very definition or context of a word to hijack our thoughts [Word meaning varies with history and social context](/notes/word-meaning-varies-with-history-and-social-context.md).
 
 ### Why it matters
 

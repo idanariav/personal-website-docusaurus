@@ -1,7 +1,7 @@
 ---
 UUID: 20240812072156
 Created: '2024-08-12 07:21'
-Modified: '2026-05-15 08:23'
+Modified: '2026-09-22 06:32'
 tags: []
 FullTitle: >-
   The Yes Brain -  How to Cultivate Courage, Curiosity, and Resilience in Your
@@ -30,7 +30,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 5
+Version: 6
 Pages: 209
 Reread: 0
 Rate: 4
@@ -138,7 +138,7 @@ If we lecture, blame or gaslight them, this will only either worsen the study's 
 
 The goal therefore is to be both *linked* (to care, show love, acceptance and support) and to *differentiate* (to not impose our worldview on them, not to take control over their lives and allow them to feel and do things their way)
 
-Part of that balance is also balancing their time. Parents tend to over schedule their kid's time and leave no room for [Play](/notes/play.md) and letting them choose what to do [Empty Space](/notes/every-system-needs-empty-space-to-function.md). Even [Boredom signals under-stimulation and disconnection from intrinsic motivation](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md) is something that might be useful because it will push them towards creative pursuits and being active in their lives. Play is essential because it helps them develop many social, cognitive and physical skills
+Part of that balance is also balancing their time. Parents tend to over schedule their kid's time and leave no room for [Play](/notes/unstructured-play-drives-learning-and-creativity.md) and letting them choose what to do [Empty Space](/notes/every-system-needs-empty-space-to-function.md). Even [Boredom signals under-stimulation and disconnection from intrinsic motivation](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md) is something that might be useful because it will push them towards creative pursuits and being active in their lives. Play is essential because it helps them develop many social, cognitive and physical skills
 
 To make sure we are not over scheduling them, see if they have enough time in the day for;
 1. **Focus time** - to get into [Flow is deep immersion where performance peaks and self-awareness disappears](/notes/flow-is-deep-immersion-where-performance-peaks-and-self-awareness-disappears.md) while doing something

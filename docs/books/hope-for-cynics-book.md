@@ -1,7 +1,7 @@
 ---
 UUID: 20241230164412
 Created: '2024-12-30 16:44'
-Modified: '2026-09-11 06:05'
+Modified: '2026-09-20 07:00'
 tags: []
 Author:
   - '[[Jamil Zaki]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 9
+Version: 10
 Pages: 252
 Rate: 3
 PublishDate: 2024-09-03T00:00:00.000Z
@@ -221,7 +221,7 @@ We are hungry for positive news. We just need to tune ourselves to them. Instead
 
 When we see people as free riders, it's not surprising that they start to act that way. [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) have a [Self fulfilling prophecy](/notes/expectations-of-others-become-self-fulfilling-through-behavior-shaping.md) kind of effect on people. They react and adjust to our expectations. Therefore, it's not that people try to abuse the system, but more often a form of [Resistance emerges when people feel controlled or pressured](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) towards an abusive system.
 
-However, this effect works both ways. If we treat others with kindness, they are more likely to reciprocate kindness back to us [Treat others the way you want to be treated](/notes/treat-others-the-way-you-want-to-be-treated.md). We can enter a [positive feedback loop](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md), where an act of trust breeds more trust. It doesn't mean to ignore cares of cheating, but to be aware that our behavior and expectations shape how others behave as well [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md).
+However, this effect works both ways. If we treat others with kindness, they are more likely to reciprocate kindness back to us [Treat others the way you want to be treated](/notes/treat-others-the-way-you-want-to-be-treated.md). We can enter a [positive feedback loop](/notes/positive-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md), where an act of trust breeds more trust. It doesn't mean to ignore cares of cheating, but to be aware that our behavior and expectations shape how others behave as well [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md).
 
 Trust is not easy, it requires a [Acting before understanding requires trusting instinct and resonance](/notes/acting-before-understanding-requires-trusting-instinct-and-resonance.md) to get the first step started, but we can [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md)
 
@@ -241,7 +241,7 @@ Trust is not easy, it requires a [Acting before understanding requires trusting 
 
 [Loneliness is the painful state of feeling disconnected from others](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md) is a terrible curse, it eats us from the inside, manifesting in mental and physical illnesses. What's worse, when we feel isolated, we tend to see others in a more negative light. As if we are more social/kinder than the average person.
 
-We drastically misjudge others and ourselves. We avoid talking with strangers, although in retrospect we enjoy it [Communication is in our nature](/notes/communication-is-in-our-nature.md). Our fear of [Fear of rejection stems from perceived threat to self-worth and identity](/notes/fear-of-rejection-stems-from-perceived-threat-to-self-worth-and-identity.md) pushes us towards isolation. pushes us towards isolation. However, the only way to truly care for ourselves is by caring for others. Giving, and [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md) alleviate our suffering and bring us as much joy as it is to others [Happiness is shared](/notes/happiness-is-shared.md). By opening ourselves out to the world, by conversing, giving and caring for others, we don't just reduce our cynicism, we become better, happier people.
+We drastically misjudge others and ourselves. We avoid talking with strangers, although in retrospect we enjoy it [Communication is in our nature](/notes/communication-is-in-our-nature.md). Our fear of [Fear of rejection stems from perceived threat to self-worth and identity](/notes/fear-of-rejection-stems-from-perceived-threat-to-self-worth-and-identity.md) pushes us towards isolation. pushes us towards isolation. However, the only way to truly care for ourselves is by caring for others. Giving, and [Practicing gratitude shifts perspective toward positive wellbeing](/notes/practicing-gratitude-shifts-perspective-toward-positive-wellbeing.md) alleviate our suffering and bring us as much joy as it is to others [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md). By opening ourselves out to the world, by conversing, giving and caring for others, we don't just reduce our cynicism, we become better, happier people.
 
 :::note[The (Social) Water Is Just Fine]
 

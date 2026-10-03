@@ -1,13 +1,13 @@
 ---
 UUID: 20231230184923
 Created: '2023-12-30 18:49'
-Modified: '2026-09-16 15:44'
+Modified: '2026-09-19 16:14'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 5
 aliases:
   - Social Environment
   - Peer Pressure
@@ -38,7 +38,7 @@ Our social environment dictates our norms and behavior through explicit and impl
 
 ### Explanation
 
-The problem arises when we become [passive](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md) in the process and turn this into a one-sided thing where we fall to conformism without being true to our inner self [Acting in alignment with your values is authenticity](/notes/acting-in-alignment-with-your-values-is-authenticity.md) [Living in alignment with your values](/notes/living-in-alignment-with-your-values.md). We [default](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) to go with the will of the masses without question. Usually because we either fear social exclusion or perhaps that assume that others have vital information that we don't.
+The problem arises when we become [passive](/notes/helplessness-is-perceiving-no-control-over-circumstances-and-outcomes.md) in the process and turn this into a one-sided thing where we fall to conformism without being true to our inner self [authenticity](/notes/surrendering-agency-to-external-forces-destroys-individual-identity.md) [Living in alignment with your values](/notes/living-in-alignment-with-your-values.md). We [default](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) to go with the will of the masses without question. Usually because we either fear social exclusion or perhaps that assume that others have vital information that we don't.
 
 ### Why it matters
 

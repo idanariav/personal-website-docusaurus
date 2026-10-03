@@ -1,7 +1,7 @@
 ---
 UUID: 20240119063316
 Created: '2024-01-19 06:33'
-Modified: '2026-09-15 10:22'
+Modified: '2026-09-30 15:15'
 tags: []
 FullTitle: >-
   Talent is Overrated - What Really Separates World-Class Performers from
@@ -28,7 +28,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 9
+Version: 10
 Pages: 244
 Reread: 0
 Rate: 3
@@ -111,7 +111,7 @@ The answer is [Deliberate Practice is the best way to develop skills](/notes/del
 
 **Natural [Competence is developed through practice not innate talent](/notes/competence-is-developed-through-practice-not-innate-talent.md) doesn't exist**. Top performance has to include many hours spent training [Practice beats talent](/notes/practice-beats-talent.md). Innate talent might give you a head start, but you will be left behind if you don't combine it with rigorous training.
 
-Talent is more like a myth we use to explain things we don't understand how they came about. But research shows that talent, at least in young age, has no correlation with peak performance later in life, and even in the best case, it serves as a "self fulfilling prophecy" for the parents that decide to dedicate time and money in developing the kids potential, which brings the actual improvements in skills. [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md) [Expectations of others become self-fulfilling through behavior shaping](/notes/expectations-of-others-become-self-fulfilling-through-behavior-shaping.md)
+Talent is more like a myth we use to explain things we don't understand how they came about. But research shows that talent, at least in young age, has no correlation with peak performance later in life, and even in the best case, it serves as a "self fulfilling prophecy" for the parents that decide to dedicate time and money in developing the kids potential, which brings the actual improvements in skills. [Expectations of others become self-fulfilling through behavior shaping](/notes/expectations-of-others-become-self-fulfilling-through-behavior-shaping.md)
 
 Even exceptional cases like tiger woods, Mozart and Bill Gates are actually an example of early age training rather than innate talent
 
@@ -162,7 +162,7 @@ The components of deliberate practice:
 
 However, deliberate practice is not that determines performance, we should still account for:
 1. **Luck** - both conditions and opportunities that affect our success [Luck is external randomness affecting outcomes beyond control](/notes/luck-is-external-randomness-affecting-outcomes-beyond-control.md)
-2. **Environment** - the way our environment is shaped that affects our ability to train and improve [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
+2. **Environment** - the way our environment is shaped that affects our ability to train and improve [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md)
 3. **Motivation** - aka [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) and [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md), which determines our ability to stick to training
 4. **Genetics** - while it is a [Nature vs nurture](/notes/nature-vs-nurture.md) discussion, genes might still play a role as to your level of passion towards a field, but not your limit in it
 

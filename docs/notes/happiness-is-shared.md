@@ -1,12 +1,12 @@
 ---
 UUID: 20240614111000
 Created: '2024-06-14 11:10'
-Modified: '2026-09-02 16:00'
+Modified: '2026-09-30 14:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: '6'
+Version: 8
 Image: '[[Happiness is shared.png]]'
 ImageText: A smiling emoji split in half
 Description: >-
@@ -41,7 +41,7 @@ This connects deeply to who we are. It is a dependency as much as it is a source
 ### Supporters
 The happiness we get from our interaction with others is perhaps the deepest sense of happiness, it is a feeling of [Belonging](/notes/inclusion-means-proactively-welcoming-and-believing-in-others.md) in this world, of having a [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md) in our [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md).
 
-We connect our happiness with others, since in the most fundamental aspect, we by default [empathize](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md) with others, as we share their pain, we also share their happiness.
+We connect our happiness with others, since in the most fundamental aspect, we by default [catch feelings](/notes/emotions-spread-between-people-through-contagion.md) from others, as we share their pain, we also share their happiness.
 
 ### Opposers
 There's something troubling about saying that our happiness [depends](/notes/dependency-trades-autonomy-for-connection.md) on others. We want to believe that [Happiness is an internal state](/notes/happiness-is-an-internal-state.md), that it is something within our control (to an extent), yet to claim that we can only be happy with others seems to remove some of our power.

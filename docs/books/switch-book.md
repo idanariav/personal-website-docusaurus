@@ -1,7 +1,7 @@
 ---
 UUID: 20220704183904
 Created: '2022-07-04 18:39'
-Modified: '2026-09-15 15:14'
+Modified: '2026-09-30 12:22'
 tags: []
 FullTitle: Switch - How to Change Things When Change Is Hard
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 9
 Pages: 305
 Reread: 0
 Rate: 3
@@ -104,7 +104,7 @@ We all have two main parts in our brain. The emotional and rational side, or sys
 Change can only be maintained when:
 1. **Direct the rider** - you define a clear goal for the change, for example: "workout 40 minutes twice a week". [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md)
 2. **Motivate the elephant** - approach the emotional side as well. Feel the possible outcomes or the negativity in the status quo. [Adding stakes forces honest belief evaluation](/notes/adding-stakes-forces-honest-belief-evaluation.md)
-3. **Design the path** - create systems and environments that would make maintaining the change easier. [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
+3. **Design the path** - create systems and environments that would make maintaining the change easier. [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md)
 
 :::note[Three Surprises About Change]
 

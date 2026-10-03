@@ -1,7 +1,7 @@
 ---
 UUID: 20250629053426
 Created: '2025-06-29 05:34'
-Modified: '2026-09-18 12:14'
+Modified: '2026-09-24 09:51'
 tags: []
 Author:
   - '[[Oliver Burkeman]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 11
+Version: 12
 Pages: 162
 Rate: 3
 PublishDate: 2024-10-08T00:00:00.000Z
@@ -139,7 +139,7 @@ Remember that you are never [helpless](/notes/helplessness-is-perceiving-no-cont
 
 There's freedom in limitations, in being [free to choose](/notes/agency-is-the-ability-to-connect-desires-and-actions.md), regardless of the situation.
 
-We face a *productivity debt*, feeling we must justify our [existence](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md) by completing a certain number of tasks or achieving a specific social status. This creates a bar that generates debt for tomorrow. We are *insecure overachievers* who accomplish much yet always feel it's not enough. The only way to escape this cycle is to shift from a [debt](/notes/lacking.md) mindset to [positive thinking](/notes/empowering-language-builds-confidence-and-agency.md) by celebrating our accomplishments instead of fixating on our endless to-do list.
+We face a *productivity debt*, feeling we must justify our [existence](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md) by completing a certain number of tasks or achieving a specific social status. This creates a bar that generates debt for tomorrow. We are *insecure overachievers* who accomplish much yet always feel it's not enough. The only way to escape this cycle is to shift from a [debt](/notes/a-persistent-feeling-of-lacking-sustains-endless-pursuit.md) mindset to [positive thinking](/notes/empowering-language-builds-confidence-and-agency.md) by celebrating our accomplishments instead of fixating on our endless to-do list.
 
 We also experience *information overload*, with far more content than we can handle. That's why we should lower the bar [Filtering is choosing what to consume before distilling it](/notes/filtering-is-choosing-what-to-consume-before-distilling-it.md). Treat your "to-read" list as a river, not a bucket [Treat inputs as a flowing river, not an accumulating bucket](/notes/treat-inputs-as-a-flowing-river-not-an-accumulating-bucket.md). Allow things to come and go without feeling guilty for not reading them. Choose only what you want to read right now, without the added pressure of consuming only "what's useful" or forcing yourself to take notes for your future self. The benefits of reading lie not in the knowledge gained but in the process and the way it transforms you.
 
@@ -174,7 +174,7 @@ We are like drivers at night, seeing only a sliver ahead, yet we can still reach
 
 When in doubt, we must ask ourselves what our life's task is. The answer will come from within, not from external sources. Forget what others expect you to do. Ask yourself what makes you come alive, what will enlarge *your* life, and what requires your specific set of skills.
 
-There are tasks we avoid on purpose, much like a person who fears checking their bank account. The information we need most often causes us the most anxiety because it shatters the bubble of our comfort zone [deliberate ignorance](/notes/deliberate-ignorance.md). It's a truth that transforms us. To make it less intimidating, think about the smallest step you could take that doesn't trigger anxiety, and do that.
+There are tasks we avoid on purpose, much like a person who fears checking their bank account. The information we need most often causes us the most anxiety because it shatters the bubble of our comfort zone [deliberate ignorance](/notes/deliberate-ignorance-protects-psychological-comfort.md). It's a truth that transforms us. To make it less intimidating, think about the smallest step you could take that doesn't trigger anxiety, and do that.
 
 We should avoid having [Absolute rules trade flexibility for willpower savings](/notes/absolute-rules-trade-flexibility-for-willpower-savings.md). The purpose of rules is to support the way we want to live, not to make us their slaves. Since life is hard and unpredictable, having a rigid rule like "do this every day" is unforgiving. It focuses too much on not breaking the chain rather than improving in the areas we want to enhance.
 

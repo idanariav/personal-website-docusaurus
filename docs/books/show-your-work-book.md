@@ -1,7 +1,7 @@
 ---
 UUID: 20250501083825
 Created: '2025-05-01 08:38'
-Modified: '2026-04-13 06:17'
+Modified: '2026-10-02 13:41'
 tags: []
 FullTitle: Show Your Work! - 10 Ways to Share Your Creativity and Get Discovered
 Description: >-
@@ -24,7 +24,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 228
 Reread: 0
 Rate: 2
@@ -73,7 +73,7 @@ It's a short book, more inspirational than helpful.
 
 You don't just need to do good work, you also have to be hears. Self promotion is less fake than we realize, it is to put yourself out there, the entirety of you.
 
-It is to learn with others, not showing that you're an expert [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md). Genius is not a lone person, it is created through shared learning [collective intelligence](/notes/collective-intelligence.md).
+It is to learn with others, not showing that you're an expert [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md). Genius is not a lone person, it is created through shared learning [Intelligence is an emergent property of knowledge networks](/notes/intelligence-is-an-emergent-property-of-knowledge-networks.md).
 
 Once you find your voice, keep on expressing it, until people who are looking for you find you.
 
@@ -93,7 +93,7 @@ Social media is nice, but have your own domain online, a place where you can des
 
 ### Open up Your Cabinet of Curiosities
 
-Consume interesting content such that it will feed your creativity, follow your [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md). There's no such thing as [guilty](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) pleasure, don't judge what you consume and why. If you like it, go after it with your whole heart.
+Consume interesting content such that it will feed your creativity, follow your [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md). There's no such thing as [guilty](/notes/shame-signals-that-who-we-are-is-unworthy.md) pleasure, don't judge what you consume and why. If you like it, go after it with your whole heart.
 
 ### Tell Good Stories
 

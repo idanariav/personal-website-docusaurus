@@ -1,7 +1,7 @@
 ---
 UUID: 20240429162903
 Created: '2024-04-29 16:29'
-Modified: '2026-09-19 07:27'
+Modified: '2026-09-19 16:12'
 tags: []
 FullTitle: Wired to Create - Unraveling the Mysteries of the Creative Mind
 Description: >-
@@ -29,7 +29,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 5
+Version: 6
 Pages: 288
 Reread: 0
 Rate: 3
@@ -117,7 +117,7 @@ Creativity is not a linear process, the final result will vary from what you pla
 
 Creativity is hard to capture by it's very nature of uniqueness and difference, but what we can say that it's not simple.
 
-Creativity is often the result of [Complexity makes ideas harder to understand and implement](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md) and [multitude](/notes/a-person-is-a-community.md). Through a messy back and forth [Deliberation is a discussion that bridges different perspectives](/notes/deliberation-is-a-discussion-that-bridges-different-perspectives.md) between all the different parts of ourselves, through self knowledge in a process to create order out of the [Ambiguity is the absence of clarity in values or facts](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.md) we experience, through risk taking and unconventional methods of [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md) and [connection making](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.md) we are able to be creative. [Resonance is being in sync with reality and others](/notes/resonance-is-being-in-sync-with-reality-and-others.md).
+Creativity is often the result of [complexity](/notes/complexity-reveals-depth-and-authenticity-rather-than-being-a-flaw-to-hide.md) and [multitude](/notes/a-person-is-a-community.md). Through a messy back and forth [Deliberation is a discussion that bridges different perspectives](/notes/deliberation-is-a-discussion-that-bridges-different-perspectives.md) between all the different parts of ourselves, through self knowledge in a process to create order out of the [Ambiguity is the absence of clarity in values or facts](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.md) we experience, through risk taking and unconventional methods of [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md) and [connection making](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.md) we are able to be creative. [Resonance is being in sync with reality and others](/notes/resonance-is-being-in-sync-with-reality-and-others.md).
 
 Creativity also requires of us to be [adaptable](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md), to be explorative, willing to see and consider many different viewpoints and ideas [Diversity of perspectives strengthens decision-making and understanding](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md), to be non conformist [Conformism](/notes/independent-thinking-requires-resisting-conformity.md), and to be able to unify those multitude of ideas into a single creation.
 
@@ -139,7 +139,7 @@ Creativity is best fulfilled when it's the result of having fun, of experiencing
 
 ### Imaginative Play
 
-[play](/notes/play.md) is not something we just do for fun, it is a way for us to learn important skills and develop. It is like [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md) where we practice our skills in a enjoyable and safe way, and it is great for [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md). Imagination is key for [creativity](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md), and it mostly the result of unrestricted play.
+[play](/notes/unstructured-play-drives-learning-and-creativity.md) is not something we just do for fun, it is a way for us to learn important skills and develop. It is like [Simulations provide safe practice environments to test and learn](/notes/simulations-provide-safe-practice-environments-to-test-and-learn.md) where we practice our skills in a enjoyable and safe way, and it is great for [Intrinsic motivation drives action through internal alignment and passion](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md). Imagination is key for [creativity](/notes/ideation-generates-ideas-through-exploratory-thinking-freed-from-constraints.md), and it mostly the result of unrestricted play.
 
 At a younger age, it's better to focus on developing free play rather than specific knowledge such as math or reading [Free play builds capabilities better than early instruction](/notes/free-play-builds-capabilities-better-than-early-instruction.md). Let them develop the capabilities and motivation for learning better later on.
 

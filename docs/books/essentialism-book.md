@@ -1,7 +1,7 @@
 ---
 UUID: 20231226182753
 Created: '2023-12-26 18:27'
-Modified: '2026-08-09 07:03'
+Modified: '2026-09-22 06:32'
 tags: []
 Author:
   - '[[Greg Mckeown]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 10
 Pages: 260
 Rate: 3
 PublishDate: 2014-04-17T00:00:00.000Z
@@ -110,7 +110,7 @@ SiteProcssed: true
 Essentialism is to make the best use of our time, energy and motivation. That means we need to know "how to say no" [Saying no protects time and energy for what matters most](/notes/saying-no-protects-time-and-energy-for-what-matters-most.md), and to believe that "less is more" [Improvement often comes from removing rather than adding](/notes/improvement-often-comes-from-removing-rather-than-adding.md). When we narrow down our focus, we would be able to progress much more, but more critically, we would enjoy the process much more, and not just chase an endless destination while feeling stuck in place and stretched too thin. [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md)
 
 Non essentialism is here because:
-1. **Explosion of choices** - we have so much more to choose from, it is unavoidable that it will be harder for us to focus on just one thing [Complexity](/notes/complexity.md)
+1. **Explosion of choices** - we have so much more to choose from, it is unavoidable that it will be harder for us to focus on just one thing [Complexity makes ideas harder to understand and implement](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md)
 2. Social pressure - we are exposed more than ever to people's expectations on who we should be and what we should do [Social environment shapes behavior and identity through norms and conformity](/notes/social-environment-shapes-behavior-and-identity-through-norms-and-conformity.md)
 3. The "you could have it all" dream - everything is within our grasp, allegedly. But even if everything is possible, it doesn't mean that it's all possible all at once [the American dream](/notes/the-american-dream.md)
 
@@ -161,7 +161,7 @@ The enemy of the essentialist (and it's conversion)
 
 **We don't always have control on which options are available to us, but we are always free to choose among them**. [Freedom of response](/notes/agency-is-the-ability-to-connect-desires-and-actions.md)
 
-To deny our ability to choose is to give others the power and permission to choose for ourselves. [Refusing to choose surrenders that power to others](/notes/refusing-to-choose-surrenders-that-power-to-others.md)
+To deny our ability to choose is to give others the power and permission to choose for ourselves. [Refusing to choose surrenders that power to others](/notes/refusing-to-choose-surrenders-that-power-to-others.md) [Surrendering agency to external forces destroys individual identity](/notes/surrendering-agency-to-external-forces-destroys-individual-identity.md)
 Also, when we deny this ability, we become helpless. We either surrender to nothingness [Facing unlimited options paralyzes decision and breeds helplessness](/notes/facing-unlimited-options-paralyzes-decision-and-breeds-helplessness.md), we simply give up and do nothing, or we become hyper and try to do everything, and say yes to everything.
 
 :::note[CHOOSE The Invincible Power of Choice]
@@ -240,7 +240,7 @@ One way is to keep a journal and review it from time to time, the other is to re
 
 #### PLAY Embrace the Wisdom of Your Inner Child
 
-**Play is essential to our lives**, it restores us to a [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md), enjoying our surroundings and exploring new options [Play](/notes/play.md). It also helps to reduce stress.
+**Play is essential to our lives**, it restores us to a [Openness to new ideas without expert bias](/notes/openness-to-new-ideas-without-expert-bias.md), enjoying our surroundings and exploring new options [Play](/notes/unstructured-play-drives-learning-and-creativity.md). It also helps to reduce stress.
 
 :::note[PLAY Embrace the Wisdom of Your Inner Child]
 
@@ -268,7 +268,7 @@ We need to care for ourselves if we want to avoid burnout, and sleep is one of t
 
 #### SELECT The Power of Extreme Criteria
 
-**When we don't feel like "hell yeah" then we should say no**. It's better to let go of a good opportunity, to make room for the best one [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md) [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md).
+**When we don't feel like "hell yeah" then we should say no**. It's better to let go of a good opportunity, to make room for the best one [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md).
 We should have an explicit, selective criteria to filter opportunities, and generally only consider the top 10%. If there's a doubt, it's a no.
 
 :::note[SELECT The Power of Extreme Criteria]
@@ -360,7 +360,7 @@ Edit is the main essentialist craft, it is to both remove the unnecessary, and a
 #### LIMIT The Freedom of Setting Boundaries
 
 Setting boundaries is a [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md). **When people ask for your help and you always come to their rescue, you're both hurting the things you care about since you don't dedicate time for them**, and you rob of the other person's ability to solve their issues on their own. [One activity displaces another when pursued excessively](/notes/one-activity-displaces-another-when-pursued-excessively.md)
-**Setting [boundaries](/notes/boundaries.md) will actually increase your freedom to act without interference from others' agendas**.
+**Setting [Boundaries reduce ambiguity by clarifying mutual expectations](/notes/boundaries-reduce-ambiguity-by-clarifying-mutual-expectations.md) will actually increase your freedom to act without interference from others' agendas**.
 
 :::note[LIMIT The Freedom of Setting Boundaries]
 

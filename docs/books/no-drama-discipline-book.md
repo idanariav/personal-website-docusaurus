@@ -1,7 +1,7 @@
 ---
 UUID: 20240331173303
 Created: '2024-03-31 17:33'
-Modified: '2026-08-12 06:39'
+Modified: '2026-10-02 13:46'
 tags: []
 Author:
   - '[[Daniel J. Siegel]]'
@@ -18,7 +18,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 15
+Version: 18
 Pages: 289
 Rate: 3
 PublishDate: 2014-09-23T00:00:00.000Z
@@ -125,7 +125,7 @@ The key is that we can do all this, have a "no drama" discipline, one that is su
 
 ### Rethinking Discipline
 
-We should try to avoid [reacting](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) to our child's misbehavior. Especially when we are tired and stress our [default](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md) response would be less than ideal. We need to [Pause](/notes/rest-enables-recovery-and-sustained-performance.md) and ask ourselves three questions:
+We should try to avoid [reacting](/notes/resistance-emerges-when-people-feel-controlled-or-pressured.md) to our child's misbehavior. Especially when we are tired and stress our [default](/notes/under-stress-we-default-to-habits.md) response would be less than ideal. We need to [Pause](/notes/rest-enables-recovery-and-sustained-performance.md) and ask ourselves three questions:
 1. **Why** - why did they act that way? What is causing it? What is their goal?
 2. **What** - what do I want to teach them, what skills are relevant in this situation?
 3. **How** - how will I deliver this message considering the situation and the child's development level.
@@ -218,7 +218,7 @@ Things we should not "spare" our children from (that can make them spoiled):
 We all want to jump quickly to the redirect part, but as we've seen, we first have to connect. Connection requires flexibility since it is deeply dependent on the circumstances and how they interact with our child right now. This requires us to pause before we react, because the best reaction is hardly the first that comes to our mind.
 
 Some techniques to be more flexible:
-1. **Stop the shark music** - when it comes to our children, we tend to over dramatize the consequences of this situation. One bad report grade and we're already thinking about how their future is in danger. This is a form of [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md) driven by [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md). Our default is to add "shark music" as a soundtrack to our interactions that paints every scene as a horror movie. The only way to reduce it's effect is to be [mindful](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) of the present moment, no thoughts about anything else. Focus on how they feel right now, what is actually happening and how can you react in a calm, clear headed way.
+1. **Stop the shark music** - when it comes to our children, we tend to over dramatize the consequences of this situation. One bad report grade and we're already thinking about how their future is in danger. This is a form of [Self criticism is being your own harsh judge](/notes/self-criticism-is-being-your-own-harsh-judge.md) driven by [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md). Our default is to add "shark music" as a soundtrack to our interactions that paints every scene as a horror movie. The only way to reduce it's effect is to be [mindful](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md) of the present moment, no thoughts about anything else. Focus on how they feel right now, what is actually happening and how can you react in a calm, clear headed way.
 2. **Chase the why** - don't be quick to make assumptions. Be [curious](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md) as to what really happened and why. You'll be surprised how often our initial assumptions are wrong. Also, when we are quick to assume we distort the reality to match our assumptions, rather than the other way around. [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md). When we are curious as default, we can gain valuable information on what really happened and why, which can help us a form a much better and effective response.
 3. **Think about the how** - the tone, body language and general way we interact with them matters, not just what we say [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md). A calm, compassionate response will often fair much better than a stressed angry response
 
@@ -249,7 +249,7 @@ A good framework for connection can include these four steps:
 
 Remember the discipline is all about teaching, meaning not only to solve the situation at hand, but help them develop their brains and make better choices in the future. That's the goal of "redirecting", where we shift the attention towards how others felt about their actions, what were their consequences, and what they can do better next time. It works best if we use [Open-ended questions enable deeper understanding and meaningful dialogue](/notes/open-ended-questions-enable-deeper-understanding-and-meaningful-dialogue.md), that triggers the child's creative thinking, instead of telling them what to do or when we forcefully guild them towards a specific decision.
 
-The redirecting would often surface feelings of [Guilt signals when we fail to act on what we control](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md), and we should not protect or distract our child from it, this is precisely the moment of learning, where we utilize the natural reactions of the mind (to feel guilt for something "bad" you've done), to help them internalize their behavior and what to do next time. Without guidance, this feeling might be missed, it is our role to make them aware of it, and help them utilize it.
+The redirecting would often surface feelings of [guilt](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md), and we should not protect or distract our child from it, this is precisely the moment of learning, where we utilize the natural reactions of the mind (to feel guilt for something "bad" you've done), to help them internalize their behavior and what to do next time. Without guidance, this feeling might be missed, it is our role to make them aware of it, and help them utilize it.
 
 Remember that:
 1. **Wait until ready** - There's no point in redirecting if the child is over aroused (emotions are running wild), or under aroused (tired, hungry). We have to wait until they are ready to listen and learn, which often comes after connecting.

@@ -1,7 +1,7 @@
 ---
 UUID: 20231231210509
 Created: '2023-12-31 21:05'
-Modified: '2026-04-17 06:27'
+Modified: '2026-09-30 15:15'
 tags: []
 FullTitle: The Obstacle Is the Way - The Timeless Art of Turning Trials into Triumph
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 10
 Pages: 226
 Reread: 0
 Rate: 5
@@ -69,6 +69,16 @@ Three pillars of stoic philosophy that will allow you not only to withstand obst
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
+1. **The Impediment to Action** – Metaphor. The obstacle is not a wall, but a catalyst; it is fuel for the fire. Supports: The core argument that obstacles are opportunities for growth rather than blockers.
+2. **The "Reverse Clause"** – Strategy. Always maintain an alternative route or strategy so that no single setback is permanent. Supports: The flexibility required in planning to maintain agency.
+3. **Pericles on Fear** – Historical example. The task is not to ignore fear, but to "explain it away" by breaking it down into manageable parts. Supports: The discipline of controlling emotional reactions through rational analysis.
+4. **The "Baggage" Thought Experiment** – Thought experiment. View your own obstacle as if it were someone else's problem, which removes the personal "baggage" and allows for objective decision-making. Supports: The practice of achieving objectivity in stressful situations.
+5. **The Flank Attack** – Military metaphor. Avoid direct, head-on collisions with superior obstacles and instead approach via the "line of least expectation" to find leverage. Supports: The philosophy of using creative,而非 brute-force, action to overcome challenges.
+6. **The Inner Citadel** – Metaphor. A fortress built inside oneself—via practice and effort—that serves as a psychological refuge which no external adversity can destroy. Supports: The cultivation of the Will as an unshakeable inner resource.
+7. **The Pre-Mortem** – Cognitive strategy. Proactively visualize potential failures and worst-case scenarios so that when they arrive, they are anticipated rather than surprising. Supports: The necessity of anticipation in maintaining composure and readiness.
+8. **Amor Fati** – Philosophical practice. Choosing to love everything that happens, including the bad, because suffering is a choice. Supports: The ultimate exercise of Will when external circumstances are beyond our control.
+9. **The Power of Water** – Metaphor. Remaining physically and mentally "loose" (flexible) rather than tight (brittle) allows one to channel energy effectively during crisis. Supports: The ability to maintain composure and respond effectively to external pressure.
+10. **The Marathon** – Analogy. Life is a long-distance process of breaking through sequential lines; avoid sprinting at one obstacle at the cost of endurance. Supports: The need for sustainable persistence and patience in the face of ongoing adversity.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -161,7 +171,7 @@ when faced with a challenge, try to:
 #### Recognize Your Power
 
 **While you don't have complete control on outside circumstances [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md), you do and always have control over your thoughts, beliefs, and reactions to the situation**. This is your power that can't be taken away from you.
-Moreover, you have the power to control the [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md) of what's happening to you. "good" or "bad" are concepts of judgment, not inherent properties of the situation [realism](/notes/realism.md).
+Moreover, you have the power to control the [narrative](/notes/how-we-describe-something-shapes-how-it-is-perceived.md) of what's happening to you. "good" or "bad" are concepts of judgment, not inherent properties of the situation [realism](/notes/realism.md).
 
 :::note[RECOGNIZE YOUR POWER]
 
@@ -246,7 +256,7 @@ Don't focus on the interpretation of events, on reasons and abstract concepts or
 
 #### Think Differently
 
-If we believe we can't do something, we would truly won't be able to, but the reverse is also true. **By believing we can achieve above and beyond what we thought was possible, we have a much better chance to succeed** [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md)
+If we believe we can't do something, we would truly won't be able to, but the reverse is also true. **By believing we can achieve above and beyond what we thought was possible, we have a much better chance to succeed** [self-fulfilling](/notes/expectations-of-ourselves-become-self-fulfilling-through-behavior-shaping.md)
 
 :::note[THINK DIFFERENTLY]
 
@@ -550,7 +560,7 @@ When we stop thinking about ourselves, when we focus on others, on how we can he
 
 #### Meditate on Your Mortality
 
-**[Mortality shapes meaning and motivates acceptance](/notes/mortality-shapes-meaning-and-motivates-acceptance.md) is the greatest obstacle we face, and there is little we can do about it. Therefore it shouldn't be a source of depression or denial, but rather acceptance and motivation**. When everything is finite, it's easier to prioritize, to check whether our actions match our preferences or when we will be on our deathbeds, will we have regret? Make every second count, because we have a finite number of those. [memento mori](/notes/memento-mori.md)
+**[Mortality shapes meaning and motivates acceptance](/notes/mortality-shapes-meaning-and-motivates-acceptance.md) is the greatest obstacle we face, and there is little we can do about it. Therefore it shouldn't be a source of depression or denial, but rather acceptance and motivation**. When everything is finite, it's easier to prioritize, to check whether our actions match our preferences or when we will be on our deathbeds, will we have regret? Make every second count, because we have a finite number of those. [memento mori](/notes/mortality-shapes-meaning-and-motivates-acceptance.md)
 
 :::note[MEDITATE ON YOUR MORTALITY]
 

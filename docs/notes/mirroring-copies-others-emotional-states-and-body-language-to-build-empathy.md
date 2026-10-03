@@ -1,9 +1,9 @@
 ---
 UUID: 20230626191735
 Created: '2023-06-26 19:17'
-Modified: '2026-09-11 05:59'
+Modified: '2026-09-30 14:26'
 tags: []
-Version: 4
+Version: 6
 Description: >-
   A social phenomenon involving the activation of mirror neurons, enabling
   individuals to imitate and empathize with others' emotional states, fostering
@@ -33,7 +33,7 @@ Mirroring is a social phenomenon that is triggered by mirror neurons that fire w
 
 ### Explanation
 
-This is the biological reason for [Empathy means understanding and acting on another's perspective](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md), because, through the mirror neurons, we can sense the other's feelings. Perhaps this is also the reason why [Human is a social being](/notes/human-is-a-social-being.md), because caring and looking at how others behave is embedded within us.
+This is the biological reason for [emotional contagion](/notes/emotions-spread-between-people-through-contagion.md), because, through the mirror neurons, we can sense the other's feelings. Perhaps this is also the reason why [Human is a social being](/notes/human-is-a-social-being.md), because caring and looking at how others behave is embedded within us.
 
 ### Why it Matters
 

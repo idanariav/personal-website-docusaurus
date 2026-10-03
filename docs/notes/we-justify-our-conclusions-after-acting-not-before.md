@@ -1,20 +1,19 @@
 ---
 UUID: 20231228184822
 Created: '2023-12-28 18:48'
-Modified: '2026-04-11 22:29'
+Modified: '2026-10-02 13:45'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Rationalization
 Description: >-
   A cognitive process where individuals justify their actions post hoc, often to
   align their behavior with self-perception, potentially leading to distorted
   beliefs and avoidance of personal accountability.
-new_schema: true
 Topic:
   - '[[Overconfidence and Self-Assessment]]'
 Origin: null
@@ -33,11 +32,15 @@ Rationalization is when we first come to a conclusion, and only after the fact d
 
 ### Explanation
 
-Most often, we use rationalization to justify our behavior (even and especially the bad ones), to maintain [Actions and physical states unconsciously shape our beliefs](/notes/actions-and-physical-states-unconsciously-shape-our-beliefs.md), such that our actions would match our beliefs about ourselves. In essence, that means that we can't just rely on our [Rational System](/notes/system-2-enables-deliberate-analytical-thinking-for-complex-problems.md), because it will always point out (by chance, of course) that we are right [Preferring personal benefits blinds us to others' perspectives](/notes/preferring-personal-benefits-blinds-us-to-others-perspectives.md) [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md).
+Most often, we use rationalization to justify our behavior (even and especially the bad ones), to maintain [Merging actions with identity blocks growth](/notes/merging-actions-with-identity-blocks-growth.md), such that our actions would match our beliefs about ourselves. In essence, that means that we can't just rely on our [Rational System](/notes/system-2-enables-deliberate-analytical-thinking-for-complex-problems.md), because it will always point out (by chance, of course) that we are right [Preferring personal benefits blinds us to others' perspectives](/notes/preferring-personal-benefits-blinds-us-to-others-perspectives.md) [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md).
 
 ### Why it matters
 
+It also corrupts our sense of [agency](/notes/agency-is-the-ability-to-connect-desires-and-actions.md): when we justify after the fact, we start to believe we chose deliberately, when really we're just making sense of something that already happened.
+
 ### Examples
+
+Sunk cost is a specific case of this: once we've invested time or money into a path, we [keep going](/notes/past-costs-irrationally-justify-future-commitment-decisions.md) to avoid admitting the investment was wasted, even though the investment itself says nothing about whether continuing is still the right choice.
 
 ### Supporters
 
@@ -45,9 +48,9 @@ However there are also potential advantages. This is perhaps the reason that [Be
 
 ### Opposers
 
-This method can be abused, your memory can change by being under pressure, by presenting false evidence, by conflicting our memories vs our tendency to be obedient. We can internalize false beliefs that led us to an action, and even make us believe we did something we actually didn't do. [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md).
+This method can be abused, your memory can [change](/notes/we-rewrite-our-memories-every-time-we-access-them.md) by being under pressure, by presenting false evidence, by conflicting our memories vs our tendency to be obedient. We can internalize false beliefs that led us to an action, and even make us believe we did something we actually didn't do. [External influence constrains authentic identity and agency](/notes/external-influence-constrains-authentic-identity-and-agency.md).
 
-Similarly, this can be a tool that hampers [growth](/notes/capabilities-are-malleable-through-effort-and-learning.md) and [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md). We justify the circumstances of our lives because it is convenient, it releases us from the [Guilt signals when we fail to act on what we control](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) of having to do something about it, of suffering the blame knowing that our lives would have been better if we acted differently, causing us to stay in the [status quo](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md)
+Similarly, this can be a tool that hampers [growth](/notes/capabilities-are-malleable-through-effort-and-learning.md) and [Taking active control rather than accepting circumstances passively](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md). We justify the circumstances of our lives because it is convenient, it releases us from the [guilt](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) of having to do something about it, of suffering the blame knowing that our lives would have been better if we acted differently, causing us to stay in the [status quo](/notes/we-prefer-existing-situations-over-alternatives-despite-better-options.md)
 
 ### Open questions
 

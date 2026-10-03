@@ -1,7 +1,7 @@
 ---
 UUID: 20231024060156
 Created: '2023-10-24 06:01'
-Modified: '2026-04-15 22:01'
+Modified: '2026-09-24 08:30'
 tags: []
 Author:
   - '[[Dan Heath]]'
@@ -18,7 +18,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 9
 Pages: 336
 Rate: 5
 PublishDate: 2013-03-26T00:00:00.000Z
@@ -56,9 +56,10 @@ SiteProcssed: true
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen? What is the goal of this book?*
 1. **Decision making is a process** - instead of a single moment of making a decision, it is a process, with different steps, which develops with time, and that can be perfected. I.e use the WRAP
-
+2. **Fewer errors** - we would be less prone to biases and errors when we make our decisions
+3. **Better solutions** - we would be able to take a step back, and come up with better solutions to the situation
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
 1. **Reframe the choice** - convert any “whether or not” question into “what else” questions (e.g., “How can we do this better?” or “What other options exist?”) and list alternative approaches.
@@ -74,9 +75,17 @@ SiteProcssed: true
 
 ### Critique
 
-✅ *by following this method, what will happen?*
-1. **Fewer errors** - we would be less prone to biases and errors when we make our decisions
-2. **Better solutions** - we would be able to take a step back, and come up with better solutions to the situation
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Statistic** – Teenagers make 65% of their decisions as simple "whether or not" binary choices. Supports: Narrow framing frequently prevents people from exploring real alternatives.
+2. **Metaphor** – "The Spotlight" (a spotlight illuminates a single point, leaving the rest of the landscape in darkness). Supports: Our natural decision-making process is limited by confirmation bias and narrow thinking.
+3. **Thought Experiment** – "The Vanishing Options Test" (imagining that neither of the current options is available). Supports: Forcing the removal of preferred choices mandates searching for "outside the box" alternatives.
+4. **Methodology** – "Laddering Up" (searching for solutions by moving from specific experiences to increasingly larger, more abstract circles). Supports: Finding others who have solved your problem is more reliable than reinventing the wheel.
+5. **Scientific/Analytical Concept** – "Base Rates" (The Outside View) (prioritizing descriptive statistics of previous similar events). Supports: Basing decisions on general success rates is more accurate than relying on individual, "special" expert predictions.
+6. **Experimental Evidence** – "Ooching" (using small-scale trials like internships or test-selling a product instead of committing to long-term paths). Supports: Small experiments provide real-world data and validate assumptions faster than prediction.
+7. **Analytical Tool** – "10/10/10" (evaluating a decision’s impact across 10 minutes, 10 months, and 10 years). Supports: Expanding the time horizon counteracts short-term emotional interference.
+8. **Perspective Shift** – "Advice to a Friend" (approaching a personal problem as if advising someone else). Supports: Viewing a decision from an external perspective clarifies priorities and separates identity from the issue.
+9. **Scenario Planning** – "Bookending" (the Premortem/Preparade) (mapping out both the potential for total failure and wild success). Supports: Planning for an entire range of potential futures reduces overconfidence and creates readiness.
+10. **Behavioral System** – "Tripwires" (e.g., deadlines, or offering a “no hard feelings” paycheck to avoid bad hires). Supports: Deliberate, pre-set triggers force re-evaluation and help overcome inertia and complacency.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -104,7 +113,7 @@ This book is relevant only for decisions that are not immediate (like a doctor),
 
 1. **Narrow thinking** - we think in binary terms, instead of looking outside the box and searching for the win win solution [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md)
 2. **Confirmation bias** - we get locked on information that supports our gut decision, ignoring countering information/ [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md)
-3. **Emotions** - either [Past costs irrationally justify future commitment decisions](/notes/past-costs-irrationally-justify-future-commitment-decisions.md), [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md), [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md), or any kind of emotional surge that sways our decision, even though there was no change in information.
+3. **Emotions** - either [Past costs irrationally justify future commitment decisions](/notes/past-costs-irrationally-justify-future-commitment-decisions.md), [Ownership inflates entitlement and distorts judgment](/notes/ownership-inflates-entitlement-and-distorts-judgment.md), [Ownership inflates entitlement and distorts judgment](/notes/ownership-inflates-entitlement-and-distorts-judgment.md), or any kind of emotional surge that sways our decision, even though there was no change in information.
 4. **Overconfidence** - we think how the future will roll out although in fact we don't. [Overestimating abilities blinds us to genuine risks](/notes/overestimating-abilities-blinds-us-to-genuine-risks.md)
 
 These 4 villains have 4 solutions (aka WRAP), each one tailored to a villain:
@@ -343,7 +352,7 @@ To improve our chances of sticking to the plan and getting closer to the higher 
 
 #### Set a Tripwire
 
-We often get [complicancy](/notes/complicancy.md) with our decisions, we feel constrained by [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md) and avoid reexamine our decisions, we stick to a "wait and see" strategy, or to [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md).
+We often get [complicancy](/notes/complacency-is-passive-acceptance-that-prevents-necessary-action.md) with our decisions, we feel constrained by [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md) and avoid reexamine our decisions, we stick to a "wait and see" strategy, or to [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md).
 **Setting a tripwire is a method that forces us to review our decision, and perhaps make changes easier**, like giving new employees a "no hard feelings" quit paycheck if they want to leave, to make sure people don't stay even though they don't want to, when it is also harms the company [Decision points force re-evaluation or action by creating deliberate triggers](/notes/decision-points-force-re-evaluation-or-action-by-creating-deliberate-triggers.md). It is also useful to allow more risk taking because now we will have conditions where we stop the process before it's too late, like thinking about your budget size before entering the casino.
 
 :::note[Quotes]
@@ -361,7 +370,7 @@ We often get [complicancy](/notes/complicancy.md) with our decisions, we feel co
 
 ### Trusting the Process
 
-Implementing the WRAP process, we are much more likely to make better, fairer, and easier to execute decisions.
+Implementing the WRAP process, we are much more likely to make better, fairer, and easier to execute decisions [Judge the process not the outcome](/notes/judge-the-process-not-the-outcome.md).
 
 :::note[Quotes]
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20231113101149
 Created: '2023-11-13 10:11'
-Modified: '2026-08-11 14:02'
+Modified: '2026-09-30 12:22'
 tags: []
 Author:
   - '[[Katy Milkman]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 5
+Version: 7
 Pages: 272
 Rate: 3
 PublishDate: 2021-05-04T00:00:00.000Z
@@ -204,7 +204,7 @@ Most people don't use commitment devices because they naively believe that their
 
 ### Forgetfulness
 
-**Sometimes we fail to act simply because we forget** [Forgetfulness](/notes/forgetfulness.md). In our modern age, when we are exposed to endless interruptions and also expected to do much more than before, it is no surprise we forget. [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md)
+**Sometimes we fail to act simply because we forget** [Forgetting enables growth by clearing space for change](/notes/forgetting-enables-growth-by-clearing-space-for-change.md). In our modern age, when we are exposed to endless interruptions and also expected to do much more than before, it is no surprise we forget. [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md)
 
 Remainders could solve the problem if they are built correctly, which is if they are as detailed and as close to the action as possible. For example, reminding you in the morning what you need to do in the evening is ineffective, but putting the gym clothes next to the car keys is much relevant.
 **This is called "cue based planning", the more we describe the "when" and "how" we will preform the action, the more likely we are to do it.** [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md) [Planning is anticipating the future and preparing action accordingly](/notes/planning-is-anticipating-the-future-and-preparing-action-accordingly.md)
@@ -212,7 +212,7 @@ For example, instead of "I'll floss more" -> "before going to sleep, after brush
 
 Advantages:
 1. **Detailed** - The act of planning in itself increases the likelihood, since information that is reviewed is easier to recall, and it creates a commitment.
-2. **Cue** - planning helps us connect the action to a [Cue](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) in the environment. Now that I'll brush my teeth I will remember to floss. The more noticeable the cue is, the more effective it will be. [What matters most is often less visible than what is salient](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md) You can either create your own cues or use existing ones. Even techniques such as [Abstract information is easier to remember spatially](/notes/abstract-information-is-easier-to-remember-spatially.md) could be useful. [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
+2. **Cue** - planning helps us connect the action to a [Cue](/notes/environmental-stimuli-trigger-automatic-behavioral-responses.md) in the environment. Now that I'll brush my teeth I will remember to floss. The more noticeable the cue is, the more effective it will be. [What matters most is often less visible than what is salient](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md) You can either create your own cues or use existing ones. Even techniques such as [Abstract information is easier to remember spatially](/notes/abstract-information-is-easier-to-remember-spatially.md) could be useful. [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md)
 
 :::note[Quotes]
 
@@ -254,7 +254,7 @@ To build good defaults:
 Counterintuitively, **giving advice is what can help us achieve our own goals**, because:
 1. **Clarity** - we imagine what we would do in that case, which makes the change tangible for us
 2. **self-worth** - We feel valued and relevant, which boosts confidence [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md)
-3. **Cognitive Alignment** - if we say something, we are more likely to believe it in order to prevent internal conflict, so we "convince ourselves". [Actions and physical states unconsciously shape our beliefs](/notes/actions-and-physical-states-unconsciously-shape-our-beliefs.md)
+3. **Cognitive Alignment** - if we say something, we are more likely to believe it in order to prevent internal conflict, so we "convince ourselves". [Merging actions with identity blocks growth](/notes/merging-actions-with-identity-blocks-growth.md)
 
 Overall , giving advice is a [Win-win outcomes align interests and benefit all parties](/notes/win-win-outcomes-align-interests-and-benefit-all-parties.md) because it helps both sides.
 In order to give this benefit to everyone, you can have "council circles" with peers where each one gives advice to someone else. [Peer support enables collaborative growth through shared feedback and mutual learning](/notes/peer-support-enables-collaborative-growth-through-shared-feedback-and-mutual-learning.md)
@@ -288,7 +288,7 @@ The more active we are in the "copy and paste" method, the higher the chance it 
 
 **We tend to imitate more the more similar we are to others**. [representation](/notes/representation.md)
 However, imitation has its limits, if we feel that it is too difficult for us to follow the social norm, we will get discouraged and would actually preform worse, like failing students who are paired with geniuses [creaming](/notes/creaming.md)
-To reduce negative effects, we can focus on [Signaling is displaying qualities to appear worthy or successful](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md), where positive behavior is not mandatory, but is valued.
+To reduce negative effects, we can focus on [Visible behavior spreads through imitation](/notes/visible-behavior-spreads-through-imitation.md), where positive behavior is not mandatory, but is valued.
 
 :::note[Quotes]
 

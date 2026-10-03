@@ -1,13 +1,13 @@
 ---
 UUID: 20230325085746
 Created: '2023-03-25 08:57'
-Modified: '2026-08-17 17:12'
+Modified: '2026-09-24 06:15'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Correlation is not causation.png]]'
 ImageText: >-
   An alarm clock next to arrows showing "Causes" versus "Happens together"
@@ -30,7 +30,7 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-As David Hume said, we tend too quickly to assume [causality](/notes/causality.md) between things even though causality is not something that we can directly observe. We have to remember that two things that go together aren't necessarily [correlated](/notes/correlation.md).
+As David Hume said, we tend too quickly to assume [causality](/notes/we-infer-causality-rather-than-observe-it-directly.md) between things even though causality is not something that we can directly observe. We have to remember that two things that go together aren't necessarily [correlated](/notes/correlation.md).
 
 ### Explanation
 Since all of these cases are possible, we can't assume causation:

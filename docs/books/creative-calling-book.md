@@ -1,7 +1,7 @@
 ---
 UUID: 20260409163439
 Created: '2026-04-09 16:34'
-Modified: '2026-05-14 12:25'
+Modified: '2026-09-26 09:11'
 tags: []
 FullTitle: >-
   Creative Calling - Establish a Daily Practice, Infuse Your World with Meaning,
@@ -31,7 +31,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 6
+Version: 8
 Pages: 289
 Reread: 0
 Rate: 2
@@ -78,6 +78,16 @@ I will find the courage to pursue my creative calling, to get the ball rolling, 
 ### Critique
 
 🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **The "Muscle" Metaphor** – Creativity is compared to a muscle that requires intentional strengthening to function at full potential. Supports: Creativity is a practice that must be developed, not just an innate talent.
+2. **The "Salt" Analogy** – Working on what you love acts like salt, capable of enhancing the quality of every other area of your life. Supports: Pursuing a creative calling is vital for overall wellbeing and life satisfaction.
+3. **"Do the Verb to be the Noun"** – Identity is redefined as an outcome of action; one becomes a writer by writing rather than by claiming the title. Supports: Being a creator is defined by behavior rather than belief.
+4. **The "Starving Artist" Myth** – The concept of the "starving artist" is framed as a self-fulfilling, destructive prophecy rather than a noble necessity. Supports: Financial viability and creative work are not mutually exclusive; earning money enables further creation.
+5. **"First Batch Trash"** – The initial attempts in any creative endeavor are inherently lower quality and intended to be replaced by iterations. Supports: Quality is an outcome of volume and repetition, not initial perfection.
+6. **The "Bus" Metaphor** – Failures are compared to buses—once one has passed, there is no value in chasing it; instead, one must prepare for the next one. Supports: Resilience and moving forward are more productive than dwelling on past mistakes.
+7. **"Creative Gap"** – Beginners experience a psychological friction between their high standards for their work and their currently undeveloped skill level. Supports: Persistence through initial, lower-quality work is the only way to reach professional proficiency.
+8. **"Overnight Success" Reality** – Any perceived "overnight success" is historically evidence of a long-term master plan and years of invisible effort. Supports: Long-term consistency compounds into recognized success.
+9. **The "Canvas" Concept** – You are encouraged to view the world around you as your personal canvas, ready to be acted upon. Supports: Shifting your perspective to an active, creative orientation is a prerequisite for fulfilling one's potential.
+10. **The "10-Year Plan" Principle** – Significant creative achievements are systematically linked to long-term plans rather than random luck. Supports: Success is the cumulative result of dedicated, durable creative habits.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -94,7 +104,7 @@ Despite having a lot of nuggets spread throughout the book, the most I remember 
 
 ### Outline
 
-## 📒 Notes
+## Notes
 
 ### Introduction
 
@@ -102,7 +112,7 @@ We are all creative [we are creative by nature](/notes/we-are-creative-by-nature
 
 Although we are born creative, it takes work to become creative. It's like a muscle that we need to train in order to fulfill our potential. It starts with accepting that we are creative [limiting beliefs are toxic to wellbeing](/notes/limiting-beliefs-are-toxic-to-wellbeing.md), that our ideas are worth while [Self-worth is accurate assessment of your capabilities](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md).
 
-Following your calling is both a boost to your wellbeing, a feeling of [Bursting with life](/notes/bursting-with-life.md), and also an answer to chronic stress that acts as a blocker for growth as it leads to tunnel vision [Chronic stress is harmful](/notes/chronic-stress-is-harmful.md), [stress leads to tunnel vision](/notes/stress-leads-to-tunnel-vision.md). That's why when we're in a criss we see no way out. Our creative calling is the way out, and a way to fulfill our potential.
+Following your calling is both a boost to your wellbeing, a feeling of [Bursting with life](/notes/feeling-bursting-with-life-signals-genuine-flourishing.md), and also an answer to chronic stress that acts as a blocker for growth as it leads to tunnel vision [Chronic stress is harmful](/notes/chronic-stress-is-harmful.md), [stress leads to tunnel vision](/notes/stress-leads-to-tunnel-vision.md). That's why when we're in a criss we see no way out. Our creative calling is the way out, and a way to fulfill our potential.
 
 It's not about creating a masterpiece, it's about living the life we want, and the only way to do it is to start.
 
@@ -123,7 +133,7 @@ It's not about creating a masterpiece, it's about living the life we want, and t
 
 #### Hear Your Call
 
-We are all born creative but this drive is usually suppressed by the education system and job market expectations [conformism squashes creativity](/notes/conformism-squashes-creativity.md). By the time we are older that feeling is bottled deep down, and ignoring this drive is causing us real pain, and a lot of [Indifference](/notes/indifference.md) to life.
+We are all born creative but this drive is usually suppressed by the education system and job market expectations [conformism squashes creativity](/notes/conformism-squashes-creativity.md). By the time we are older that feeling is bottled deep down, and ignoring this drive is causing us real pain, and a lot of [Indifference can be protective or harmful depending on its source](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md) to life.
 
 We need to trust that [Intuition](/notes/intuition-is-trained-expertise-converted-to-automatic-response.md), that inner voice that knows what's good for us, a voice of who we want to be.
 
@@ -307,7 +317,7 @@ On every path towards becoming a good creator, there's a [plateau](/notes/every-
 
 This is where most people quit, and this is unfortunate because they fail to fulfill their potential. There's only one way to get over the plateau, and that is through. To continue on making until it reaches the level of quality you expect from an expert.
 
-Action, not thought (or [rumination](/notes/rumination.md)) is the answer for passing the rut (and achieving high quality)
+Action, not thought (or [rumination](/notes/rumination-is-repeatedly-replaying-problems-without-resolving-them.md)) is the answer for passing the rut (and achieving high quality)
 
 :::note[Make It Till You Make It]
 

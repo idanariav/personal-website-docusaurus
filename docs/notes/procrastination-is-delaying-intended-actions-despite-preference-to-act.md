@@ -1,20 +1,19 @@
 ---
 UUID: 20230403064916
 Created: '2023-04-03 06:49'
-Modified: '2026-04-11 22:26'
+Modified: '2026-10-02 13:41'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 4
+Version: 6
 aliases:
   - Procrastination
   - Procrastination is triggered when an action pushes us away from it
 Description: >-
   The act of delaying actions we intend to perform despite a desire to complete
   them, because something in the task itself pushes us away from doing it.
-new_schema: true
 Topic:
   - '[[Avoidance and Defense Mechanisms]]'
 Origin: '[[Anne-Laure Le Cunff]]'
@@ -35,9 +34,9 @@ Procrastination happens when we delay our actions even though "in a perfect worl
 
 Usually these are also actions that we are obligated to do, for example work or school assignments, but these can also be tasks that we wish to do, like working out or creative writing.
 
-Procrastination is often related to [Distractions pull us towards them as a temptation](/notes/distractions-pull-us-towards-them-as-a-temptation.md), which steals our attention away from what we truly want to do [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md). Sometimes this is self inflicted, that something within us wants to delay the task as much as possible that these distractions become our [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md). 
+Procrastination is often related to [Distractions pull us towards them as a temptation](/notes/distractions-pull-us-towards-them-as-a-temptation.md), which steals our attention away from what we truly want to do [Attention-economy platforms are engineered to exploit psychological vulnerabilities](/notes/attention-economy-platforms-are-engineered-to-exploit-psychological-vulnerabilities.md). Sometimes this is self inflicted, that something within us wants to delay the task as much as possible that these distractions become our [Escapism is withdrawing from difficulty through distraction and avoidance](/notes/escapism-is-withdrawing-from-difficulty-through-distraction-and-avoidance.md). 
 
-Procrastination is often a sign of [intrapersonal conflict](/notes/a-person-is-a-community.md), where we can really feel the two inner forces fighting each other over whether to preform the action or not. Sometimes we are feeling [Guilt signals when we fail to act on what we control](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) and shame for procrastinating.
+Procrastination is often a sign of [intrapersonal conflict](/notes/neglecting-intrapersonal-conflict-harms-wellbeing.md), where we can really feel the two inner forces fighting each other over whether to preform the action or not. Sometimes we are feeling [guilt](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) and [shame](/notes/shame-signals-that-who-we-are-is-unworthy.md) for procrastinating.
 
 The difference between procrastination and distractions is the difference between push and pull. Procrastination is when we are pushed away from a task, and distractions pull us away from a task. Two sides of the same coin.
 
@@ -50,15 +49,17 @@ To understand why we procrastinate, we can use DUST. It stands for the four most
 - **Difficult.** You may find the task too challenging, which may be caused by a lack of confidence [Confidence](/notes/self-worth-is-accurate-assessment-of-your-capabilities.md), a lack of skills, or both. The solution is to move the starting point a bit earlier, meaning to take a [smaller](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md) step.
   • **Unclear.** Sometimes, we procrastinate because the task is not clearly [defined](/notes/ambiguity-is-the-absence-of-clarity-in-values-or-facts.md). We often use vague one-word items in our to-do list, leaving our brains to fill in the blanks. In order to be productive, it's important to have clearly defined actions [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md).
   • **Scary.** Our fear of [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md) can get in the way of our productivity. The biggest changes we want to make and the most exciting projects we want to work are also the most daunting. Our brain is designed in a way to keep us safe. Comfort is good, risk is bad. Procrastination is a way to stay in your comfort zone. A solution is to create an even bigger fear to trump the original one [How we describe something shapes how it is perceived](/notes/how-we-describe-something-shapes-how-it-is-perceived.md).
-  • **Tedious.** Some tasks are just [boring](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md). Need to copy-and-paste lots of numbers into a spreadsheet? Need to clean up some data? Need to write a hundred handwritten notes for an event? There's no way to change the nature of the task itself—even though learning some automation tools can be useful in many cases—but you can change your environment. For example, you could listen to a podcast while doing copy-and-pasting work (Missing:: [Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.md). Or you could create a reward for yourself when you get the task done in order to make it more exciting
+  • **Tedious.** Some tasks are just [boring](/notes/boredom-signals-under-stimulation-and-disconnection-from-intrinsic-motivation.md). Need to copy-and-paste lots of numbers into a spreadsheet? Need to clean up some data? Need to write a hundred handwritten notes for an event? There's no way to change the nature of the task itself—even though learning some automation tools can be useful in many cases—but you can change your environment. For example, you could listen to a podcast while doing copy-and-pasting work [Bundling undesired tasks with enjoyable activities increases motivation](/notes/bundling-undesired-tasks-with-enjoyable-activities-increases-motivation.md). Or you could create a reward for yourself when you get the task done in order to make it more exciting
 
-While these steps will help us avoid self inflicted distractions, we must also [shape](/notes/environmental-design-influences-behavior-through-choice-architecture.md) our environment such that we would also receive less externally caused distractions, such as removing social media from our phones, reducing notifications, blocking certain apps during working hours, etc.
+While these steps will help us avoid self inflicted distractions, we must also [shape](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md) our environment such that we would also receive less externally caused distractions, such as removing social media from our phones, reducing notifications, blocking certain apps during working hours, etc.
 
 Distractions can be either fun or not, and in our control or not. There's nothing to do about distractions that are not within our control. Fun distractions we can use as prizes for making progress, for example I will watch an episode after completing x pages. Not fun distractions we should eliminate.
 
 ### Examples
 
 ### Supporters
+
+Perfectionism is a common driver of this — when we hold ourselves to an unreachable standard, the gap between what we expect and what we can actually produce makes starting feel pointless, so we [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md) instead of act.
 
 ### Opposers
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20250506085115
 Created: '2025-05-06 08:51'
-Modified: '2026-08-05 21:04'
+Modified: '2026-09-30 15:15'
 tags: []
 Author:
   - '[[Shannon Lee]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 233
 Rate: 3
 PublishDate: 2020-10-08T00:00:00.000Z
@@ -152,7 +152,7 @@ In order to learn, to change, to adapt, we have to stay clear from [Judgment add
 
 To have [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md), knowing that you don't always know everything there's to know, that you might be wrong, and above all else avoid [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md).
 
-We need to [Zooming out gains perspective through mental distance](/notes/zooming-out-gains-perspective-through-mental-distance.md), to see ourselves as an external observer, not get trapped in our heads, our judgment, or our emotions, to just notice things as they are.
+We need to [Healthy self-talk prevents spiraling and builds resilience](/notes/healthy-self-talk-prevents-spiraling-and-builds-resilience.md), to see ourselves as an external observer, not get trapped in our heads, our judgment, or our emotions, to just notice things as they are.
 
 When we judge, we are not present, when our mind is filled with thoughts, we are not present. When we are filled with [wishful thinking](/notes/manifesting-imposes-beliefs-onto-reality-rather-than-accepting-it.md) or preconceived plans on how things should go, we are not present.
 
@@ -219,7 +219,7 @@ Relationships are a back-and-forth movement, a reflection, a dance, a flow. By l
 
 1. **Take aim** - find your [Clear direction matters more than speed of progress](/notes/clear-direction-matters-more-than-speed-of-progress.md), write it down, memorize it, and review it daily. It should reenergize you every time you read it, it is a combination of what you want to achieve and why, a mission that resonates with your values. Make sure you make it [clear](/notes/clarity-is-achieved-through-definition-and-presentation.md), actionable and measurable
 2. **Take action**- goals are meaningless if we do nothing to pursue them. We must be [proactive](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md), to avoid [Too much information prevents decision-making](/notes/too-much-information-prevents-decision-making.md) and take action. We can [Starting small reduces resistance and builds momentum for change](/notes/starting-small-reduces-resistance-and-builds-momentum-for-change.md) just to get [Momentum is movement that builds self-reinforcing forward action](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md), because momentum is all that matters. Keep going, keep doing, don't stop for nothing. Action will also lead to improvement [Practice beats talent](/notes/practice-beats-talent.md).
-3. **Affirm** - review daily your core values and the description of the person you wish to be. By affirming it, you can [reframe](/notes/how-we-describe-something-shapes-how-it-is-perceived.md) the experiences in your life in a new light, one that promotes you towards the person you wish to become. Like adding a "yet" when you say "I can't do it" [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md)
+3. **Affirm** - review daily your core values and the description of the person you wish to be. By affirming it, you can [reframe](/notes/how-we-describe-something-shapes-how-it-is-perceived.md) the experiences in your life in a new light, one that promotes you towards the person you wish to become. Like adding a "yet" when you say "I can't do it" [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) [self-fulfilling belief](/notes/expectations-of-ourselves-become-self-fulfilling-through-behavior-shaping.md)
 4. **Be symbolic** - Create symbols that will remind you of the person you wish to become, which could be a memento, a tattoo, a printed prayer, a drawing, or whatever you like. It will cement the person you want to become and will help you maintain your commitment to becoming that person [Symbols reinforce commitment to a chosen identity](/notes/symbols-reinforce-commitment-to-a-chosen-identity.md).
 5. **Journal** - Write about your thoughts, your experiences, and your values. It will help you gain clarity [Journaling enables reflection and self-understanding through written documentation](/notes/journaling-enables-reflection-and-self-understanding-through-written-documentation.md).
 6. **Get physical** - do some form of [fitness](/notes/fitness.md). It will help you connect with your body, it is part of who you are, and if left ignored it will backfire. It is a way to bring harmony to oneself.
@@ -316,5 +316,6 @@ Don't fall for [Deferring happiness to future goals creates present suffering](/
 - In your everyday life, give people the benefit of the doubt, treat them with compassion, accept them for who they are, and live and let live while being the light and the model for what it is to be strongly and unapologetically kind. ([Location 2989](https://readwise.io/to_kindle?action=open&asin=B082RTHHGM&location=2989))
 
 :::
+
 
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20240302181438
 Created: '2024-03-02 18:14'
-Modified: '2026-09-02 16:00'
+Modified: '2026-09-23 12:28'
 tags: []
 Author:
   - '[[Oliver Burkeman]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: '7'
+Version: 10
 Pages: 273
 Rate: 5
 PublishDate: 2021-07-13T00:00:00.000Z
@@ -136,7 +136,7 @@ However, once we arrived to the [Industrial Revolution](/notes/industrial-revolu
 
 **Time became a resource, which forced us to view it as something that have to be well spent**. This prescription is exactly what causes us to make bad use of our time. **We try to master it, instead of experiencing it** [mindfulness](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md). Replacing deep time with "efficient time". With countless methods of productivity time management, we are promised that "if only we would take control of our time, we would achieve the calm existence we are after" [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md), and this kind of living through [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md) instead of the present is a sure way for [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md) and [Disappointment is the gap between expectations and reality](/notes/disappointment-is-the-gap-between-expectations-and-reality.md).
 
-**All productivity is is just a avoidance strategy**, meant to help us avoid [accepting](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) the limited time we have and the acknowledgment that we will never have time to finish all that we wanted. It is like [Flipping assumptions reveals hidden possibilities and better solutions](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md), **the more we dedicate our thoughts towards time management, the more it escapes us and causes stress**. Both work and leisure are tools, two sides of the same coin, that are used to help us forget the deadline of life, aka [Mortality shapes meaning and motivates acceptance](/notes/mortality-shapes-meaning-and-motivates-acceptance.md). Either we strive for the perfect Todo system that will help us accomplish everything (which will never happen), or we numb ourselves with distractions. We strive for endless control on what can't be controlled.
+**All productivity is is just a avoidance strategy**, meant to help us avoid [accepting](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) the limited time we have and the acknowledgment that we will never have time to finish all that we wanted. It is like [Flipping assumptions reveals hidden possibilities and better solutions](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md), **the more we dedicate our thoughts towards time management, the more it escapes us and causes stress**. Both work and leisure are tools, two sides of the same coin, that are used to help us forget the deadline of life, aka [Mortality shapes meaning and motivates acceptance](/notes/mortality-shapes-meaning-and-motivates-acceptance.md). Either we strive for the perfect Todo system that will help us accomplish everything (which will never happen), or we numb ourselves with distractions. We strive for endless [control on what can't be controlled](/notes/feeling-in-control-is-more-important-than-being-in-control.md).
 
 **It is precisely this [Scarcity forces prioritization when resources are limited](/notes/scarcity-forces-prioritization-when-resources-are-limited.md) of time that makes our choices meaningful** [Experiences are unique because they are fleeting and irreplaceable](/notes/experiences-are-unique-because-they-are-fleeting-and-irreplaceable.md), not the perspective that we can "do it all", which causes us to lose focus on what really matters. [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md)
 
@@ -165,7 +165,7 @@ However, once we arrived to the [Industrial Revolution](/notes/industrial-revolu
 
 Also, the more we become efficient, the less we believe that life is a trade off. We believe we can "do it all", so why bother filtering the list? Which ends up in us doing meaningless things instead of the truly essential ones. [Prioritization](/notes/triage-prioritizes-limited-resources-by-allocating-attention-wisely.md)
 
-Convenience is a double edged sword. When we reduce [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) from a process, it also reduces it's meaning. **In friction lies the value of things**. For example, sending an automated birthday message in a click of a button is more efficient, but less valuable than crafting a gift yourself and hand deliver it with a note. It's not the thought that counts, but rather the effort. [Struggle is an inevitable and necessary part of any meaningful growth or achievement](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md)
+Convenience is a double edged sword. When we reduce [friction](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) from a process, it also reduces it's meaning. **In friction lies the value of things**. For example, sending an automated birthday message in a click of a button is more efficient, but less valuable than crafting a gift yourself and hand deliver it with a note. It's not the thought that counts, but rather the effort. [Struggle is an inevitable and necessary part of any meaningful growth or achievement](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md)
 
 Instead of admitting the obvious which is that we can't do more than we are capable of, we continue to pursue the dream of efficient "busyness". Because otherwise we would have to admit that we have to give up on something, and this loss is hurtful for us [loss averse](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md) people. **But this [less is more](/notes/improvement-often-comes-from-removing-rather-than-adding.md) approach, to resist our urge to do everything, is the only way out**.
 
@@ -231,7 +231,7 @@ The bad kind of "procrastination" happens when we get stuck at perfectionism [Pe
 
 Every action requires it attention [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md). And nowadays it is a scarce resource due to the attention economy. Not only that it takes away our time, which is exactly like paying with our lives, it only affects the way we view the world, and in a negative way. It strengthens social divides and hijacks our thoughts and preferences.
 
-And the problem is that attention is not only a necessary condition for life same as food or water, it is life itself. **To live is to [experience](/notes/experiences.md) and experience requires our attention**. A mischlen star meal is as worthless as instant noodles if our mind daydreams.
+And the problem is that attention is not only a necessary condition for life same as food or water, it is life itself. **To live is to [experience](/notes/attention-transforms-existence-into-genuine-experience.md) and experience requires our attention**. A mischlen star meal is as worthless as instant noodles if our mind daydreams.
 
 :::note[The Watermelon Problem]
 
@@ -331,7 +331,7 @@ Instead of living life of flow, of letting things take their time. We have caugh
 
 #### Staying on the Bus
 
-Patience seems as something negative, a form of passiveness, of laziness in a world that focuses on rushing ahead. However nowadays it is more essential than ever to be [patient](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md). Because **rushing ahead stems from the misguided view that we can achieve life without problems, that everything is solvable and fast. However not only that it's not true, we want problems in our lives**.
+Patience seems as something negative, a form of passiveness, of laziness in a world that focuses on [rushing ahead](/notes/rushing-produces-worse-outcomes-than-patience.md). However nowadays it is more essential than ever to be [patient](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md). Because **rushing ahead stems from the misguided view that we can achieve life without problems, that everything is solvable and fast. However not only that it's not true, we want problems in our lives**.
 
 How to be more patient:
 1. **Develop a taste for problems** - the struggle of facing problems and coming up with solutions is what gives our lives meaning. [Adversarial Growth](/notes/progress-emerges-through-cycles-of-destruction-and-reconstruction.md)

@@ -1,7 +1,7 @@
 ---
 UUID: 20231220115735
 Created: '2023-12-20 11:57'
-Modified: '2026-09-02 15:38'
+Modified: '2026-10-02 13:46'
 tags: []
 FullTitle: The Genealogy of Morals
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 10
 Pages: 102
 Reread: 0
 Rate: 4
@@ -85,7 +85,7 @@ In contrast with previous versions, this is an actual "textbook", which much les
 
 ### Preface
 
-**we have never stopped to question morality itself**. Why certain traits, like pity, are considered "good". We took it for granted. a "good" person was judged as of a higher quality than a "bad" person, without considering what negative effects those judgements can have on human development, unity and prosperity. [Judgment adds subjective value to objective events](/notes/judgment-adds-subjective-value-to-objective-events.md)
+**we have never stopped to question morality itself**. Why certain traits, like pity, are considered "good". We took it for granted. a "good" person was judged as of a higher quality than a "bad" person, without considering what negative effects those judgements can have on human development, unity and prosperity. [Accepting others feelings and perspectives without dismissal](/notes/accepting-others-feelings-and-perspectives-without-dismissal.md)
 
 :::note[Preface]
 
@@ -145,7 +145,7 @@ Punishment has so many different purposes, this is a social construct which cont
 
 This process of taming is the cause of the "bad conscience", aka the slave morality. **It is through the brutal actions of large organizations like state and religion that man is no longer free, his animal nature subdued, and it has been tamed for the "betterment" of the state, but not of himself. He lost his freedom and his will to power**. Only through taming values such as altruism can be coerced to be perceived as "good". [Consent to the social contract is coerced, not chosen](/notes/consent-to-the-social-contract-is-coerced-not-chosen.md)
 
-**In this process of taming, the individual has "learned" to view himself, and all his natural instincts as bad, as sinful, and that he deserves punishment**. [Guilt results from social conditioning](/notes/guilt-results-from-social-conditioning.md) [Guilt signals when we fail to act on what we control](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) While the one who needs to punish him, god, has risen to the level of purity, of transcendence, of the ultimate good, which means that the person would never be free of his debt, forever will he have to punish himself, to continue to limit and surrender himself to god, to turn him into an object, a simple low-life tool. [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md)
+**In this process of taming, the individual has "learned" to view himself, and all his natural instincts as bad, as sinful, and that he deserves punishment**. [Guilt results from social conditioning](/notes/guilt-results-from-social-conditioning.md) [guilt](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) While the one who needs to punish him, god, has risen to the level of purity, of transcendence, of the ultimate good, which means that the person would never be free of his debt, forever will he have to punish himself, to continue to limit and surrender himself to god, to turn him into an object, a simple low-life tool. [Objectivity is loss of agency to external control and instrumental treatment](/notes/objectivity-is-loss-of-agency-to-external-control-and-instrumental-treatment.md)
 
 :::note[“GUILT,” “BAD CONSCIENCE,” AND THE LIKE]
 

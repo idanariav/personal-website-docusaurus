@@ -1,7 +1,7 @@
 ---
 UUID: 20220703184558
 Created: '2022-07-03 18:45'
-Modified: '2026-04-26 07:07'
+Modified: '2026-09-19 16:12'
 tags: []
 Author:
   - '[[Chris Voss]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 5
+Version: 6
 Pages: 288
 Rate: 4
 PublishDate: 2016-05-19T00:00:00.000Z
@@ -76,6 +76,16 @@ You will find better solutions for disagreements instead of frustrating compromi
 ### Critique
 
 ✅ *relevant research, metaphors or examples that helps to convey the argument*
+1. **7-38-55 Communication Rule** – Statistical breakdown (7% words, 38% tone, 55% body/face). Supports: The argument that the majority of a message’s meaning is conveyed through non-verbal cues rather than the words themselves.
+2. **Pinocchio Liars** – Behavioral pattern (liars use more words to appear believable). Supports: The argument that negotiators working too hard to appear credible often reveal their deception through an excess of words.
+3. **Late-Night FM DJ Voice** – Tactical technique (low, calm tone mixed with a smile). Supports: The claim that adjusting voice tone and using a smile can intentionally flip a counterpart's emotional switch.
+4. **"The F-Bomb" (Fair)** – Linguistic observation (the use of the word "fair" in negotiation). Supports: The claim that parties use the word "fair" as an emotional weapon to put opponents on the defensive for concessions.
+5. **Precise Financial Anchoring** – Data tactic (using non-round numbers like ₪37,893 vs ₪38,000). Supports: The argument that non-round, specific figures carry more credibility and weight during the negotiation of terms.
+6. **The Tightrope Metaphor** – Metaphor (comparing negotiation to walking a tightrope). Supports: The claim that an obsessive focus on the end goal creates distraction and instability, whereas focusing on the immediate next step prevents catastrophe.
+7. **The "I am Normal" Paradox** – Psychological observation (the hypothesis that the world looks to others as it looks to us). Supports: The argument that the biggest obstacle to understanding a counterpart is the flawed assumption that their worldview mirrors our own.
+8. **"No" as a Safety Mechanism** – Psychological finding (explaining why "No" provides security). Supports: The claim that people feel coerced by forced "Yes" answers, whereas "No" provides the autonomy and control necessary to lower defenses.
+9. **The Three Faces of "Yes"** – Categorization (Counterfeit, Confirmation, and Commitment). Supports: The idea that identifying the type of agreement is crucial because not all consensus indicates genuine, binding alignment.
+10. **The "I," "Me," and "My" Index** – Linguistic observation (those in love with these words are less significant). Supports: The argument that an over-reliance on first-person singular pronouns signals a lack of strategic leverage or importance in a negotiation.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -94,7 +104,7 @@ Although the book might sometimes be too cynical or hypocrite, in the end the ma
 
 ### Intro
 
-**Emotions are not a problem to be solved, it is the solution**. [Emotions drive conflict resolution more than rational arguments](/notes/emotions-drive-conflict-resolution-more-than-rational-arguments.md) [Negotiation is an act of connection](/notes/negotiation-is-an-act-of-connection.md). Negotiation is never only a rational solution, but rather its affected by desires, preferences, and viewpoints.
+**Emotions are not a problem to be solved, it is the solution**. [Emotions drive conflict resolution more than rational arguments](/notes/emotions-drive-conflict-resolution-more-than-rational-arguments.md) [Negotiation is an act of connection](/notes/negotiation-is-an-act-of-connection.md) [Emotions provide decision-relevant information when navigating choices](/notes/emotions-provide-decision-relevant-information-when-navigating-choices.md). Negotiation is never only a rational solution, but rather its affected by desires, preferences, and viewpoints.
 
 Note the tone you are using, your body language, try to be more calm, relax, like a late-at-night radio host. Smile. [Body language conveys meaning as powerfully as words](/notes/body-language-conveys-meaning-as-powerfully-as-words.md)
 
@@ -164,7 +174,7 @@ don't say "I think that"... the discussion is not about you. Say as if you're lo
 
 ### Accusation Audit
 
-Similar to labeling, **its useful to prepare your partner in advance for the worst possible outcome** [Expose your flaws before others discover them](/notes/expose-your-flaws-before-others-discover-them.md), even if it means to exaggerate a little, because then everything that happens will be better than what he expected, and his reactions will be toned down accordingly. It removes any alternative narratives (any other negative arguments, meaning you control the [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md)) and gives a voice to his and your fears about what's going to happen. [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md).
+Similar to labeling, **its useful to prepare your partner in advance for the worst possible outcome** [Expose your flaws before others discover them](/notes/expose-your-flaws-before-others-discover-them.md), even if it means to exaggerate a little, because then everything that happens will be better than what he expected, and his reactions will be toned down accordingly. It removes any alternative narratives (any other negative arguments, meaning you control the [narrative](/notes/how-we-describe-something-shapes-how-it-is-perceived.md)) and gives a voice to his and your fears about what's going to happen. [Vulnerability is emotional openness enabling authentic connection](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md).
 
 so say things like:
 1. I know that you heard about me x, y, z
@@ -172,7 +182,7 @@ so say things like:
 
 ### Seek No
 
-You should be afraid of the word "no", **when your partner says no it gives us a lot of information on what he does want or feel**. [Rejection reveals preferences](/notes/rejection-reveals-preferences.md) It gives him a sense of security and control in the conversation, otherwise if they can't say no, they will either lie, leave or feel coerced.
+You should be afraid of the word "no", **when your partner says no it gives us a lot of information on what he does want or feel**. [Rejection reveals preferences](/notes/rejection-reveals-preferences.md) [Behavior reveals true preferences](/notes/behavior-reveals-true-preferences.md) It gives him a sense of security and control in the conversation, otherwise if they can't say no, they will either lie, leave or feel coerced.
 
 :::note[BEWARE “YES”—MASTER “NO”]
 

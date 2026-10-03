@@ -1,13 +1,13 @@
 ---
 UUID: 20250302065924
 Created: '2025-03-02 06:59'
-Modified: '2026-04-11 22:21'
+Modified: '2026-09-19 16:12'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 3
+Version: 4
 Image: '[[Expose your flaws before others discover them.png]]'
 ImageText: A presentation of your main drawbacks
 Description: >-
@@ -16,7 +16,6 @@ Description: >-
   enhancing connections and reframing narratives.
 aliases:
   - Accusation audit
-new_schema: true
 Topic:
   - '[[Honest Communication]]'
 Origin: '[[Never Split The Difference (book)]]'
@@ -36,12 +35,14 @@ To do an accusation audit means to be [honest](/notes/speaking-truth-about-yours
 It means to be [vulnerable](/notes/vulnerability-is-emotional-openness-enabling-authentic-connection.md), which might sound as a strategically bad move, yet vulnerability is shown to be a sign of strength, and a good way to build strong connections and [Trust enables reliance on others honesty and good intent](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md).
 
 ### Why it matters
-This shows not only that you understand their worldview, and not just trying to sell them something, but this also gives us a chance to [reframe](/notes/how-we-describe-something-shapes-how-it-is-perceived.md) these disadvantages and control the [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md)
+This shows not only that you understand their worldview, and not just trying to sell them something, but this also gives us a chance to [reframe](/notes/how-we-describe-something-shapes-how-it-is-perceived.md) these disadvantages and control the [narrative](/notes/how-we-describe-something-shapes-how-it-is-perceived.md)
 
 ### Examples
 For example, if you have to do a presentation and you know that there are some disadvantages to your pitch that is on everyone's mind, don't focus just on the positives, be open by saying things like "You probably have doubts about our...".
 
 ### Supporters
+
+Doing this well even makes you look sharper — someone who's transparent about their own weaknesses reads as more self-aware and insightful, not less [Transparent self-awareness signals intelligence to others](/notes/transparent-self-awareness-signals-intelligence-to-others.md).
 
 ### Opposers
 

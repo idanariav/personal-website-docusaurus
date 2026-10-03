@@ -1,12 +1,12 @@
 ---
 UUID: 20240626054741
 Created: '2024-06-26 05:47'
-Modified: '2026-09-02 16:53'
+Modified: '2026-09-30 15:15'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 7
+Version: 8
 Image: '[[Inclusion means proactively welcoming and believing in others.png]]'
 ImageText: >-
   A group of people wearing a blue hat, welcoming a new member that also has a
@@ -34,7 +34,7 @@ SiteProcssed: true
 To be inclusive is more than just to allow someone to take part in you are doing, but rather being [proactive](/notes/taking-active-control-rather-than-accepting-circumstances-passively.md) about it. It is to believe in others and in their capabilities to be a contributing member of your, "i.e" our group.
 
 ### Explanation
-This essentially is an empowering move. By [trusting](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) others we allow them to fulfill their potential, both giving them a sense of accomplishment [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md), but also helping yourself along the way [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md). It requires [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md) to accept that you don't always know best, or that you might need the help of others. By letting them take part, we help ourselves.
+This essentially is an empowering move. By [trusting](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) others we allow them to fulfill their potential, both giving them a sense of accomplishment [self-fulfilling expectations](/notes/expectations-of-others-become-self-fulfilling-through-behavior-shaping.md), but also helping yourself along the way [Cooperation is working together toward shared mutual benefit](/notes/cooperation-is-working-together-toward-shared-mutual-benefit.md). It requires [Humility is acknowledging limits of knowledge and fallibility](/notes/humility-is-acknowledging-limits-of-knowledge-and-fallibility.md) to accept that you don't always know best, or that you might need the help of others. By letting them take part, we help ourselves.
 
 ### Why it matters
 It changes how we approach problems too - treating someone as a capable partner rather than an obstacle is what lets you work through things together instead of against each other [People are not the problem](/notes/people-are-not-the-problem.md).

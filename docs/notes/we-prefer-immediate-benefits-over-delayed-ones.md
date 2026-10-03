@@ -1,13 +1,13 @@
 ---
 UUID: 20220701061138
 Created: '2022-07-01 06:11'
-Modified: '2026-04-11 22:29'
+Modified: '2026-09-19 17:58'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 5
+Version: 6
 aliases:
   - Present Bias
   - hyperbolic discounting
@@ -16,7 +16,6 @@ Description: >-
   A cognitive tendency where individuals prioritize immediate rewards over
   future benefits, often leading to decisions that favor short-term
   gratification despite potential long-term consequences.
-new_schema: true
 Topic:
   - '[[Status Quo and Inertia]]'
 Origin: '[[Anne-Laure Le Cunff]]'
@@ -35,11 +34,11 @@ How much do we prefer the present over the future?
 
 ### Explanation
 
-When we have to make a decision between now and the future, we have a bias that originates from our current mentality, emotions and the [Desire perpetuates endless wanting over satisfaction](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md) for immediate [gratification](/notes/distractions-pull-us-towards-them-as-a-temptation.md). That's why we also plan to do a workout "tomorrow", but when tomorrow comes we prefer to binge [Insight Gap](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md).
+When we have to make a decision between now and the future, we have a bias that originates from our current mentality, emotions and the [Impulsivity is acting without conscious deliberation or filter](/notes/impulsivity-is-acting-without-conscious-deliberation-or-filter.md) for immediate [gratification](/notes/distractions-pull-us-towards-them-as-a-temptation.md). That's why we also plan to do a workout "tomorrow", but when tomorrow comes we prefer to binge [Insight Gap](/notes/knowing-the-right-thing-doesnt-mean-we-do-it.md).
 
 ### Why it matters
 
-The ability to [Delay Gratification](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md) is highly correlated with success, achieving goals and sticking to healthy habits. Because when that "tomorrow" comes and we have to choose whether to actually workout as we planned or rest, only by reducing our present bias could we be able to follow our commitments.
+The ability to [Delay Gratification](/notes/patience-enables-persisting-through-delayed-gratification-and-growth.md) is highly correlated with success, achieving goals and sticking to healthy habits. Because when that "tomorrow" comes and we have to choose whether to actually workout as we planned or rest, only by reducing our present bias and exercising [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) could we be able to follow our commitments.
 
 The goal is to align between our present and our future self. This requires some mitigation between our short term desires and our long term goals. Examples:
 

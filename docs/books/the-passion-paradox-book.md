@@ -1,7 +1,7 @@
 ---
 UUID: 20250924104903
 Created: '2025-09-24 10:49'
-Modified: '2026-04-13 06:20'
+Modified: '2026-09-30 11:06'
 tags: []
 FullTitle: >-
   The Passion Paradox - A Guide to Going All In, Finding Success, and
@@ -31,7 +31,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 9
 Pages: 179
 Reread: 0
 Rate: 3
@@ -89,7 +89,16 @@ SiteProcssed: true
 ### Critique
 
 🧩 *relevant research, metaphors or examples that helps to convey the argument*
-1. **Burning bright vs harmonic passion** - The bad version of passion is when we are consumed by it, giving our all until there's nothing left to give. Harmonic passion fuels us, we are enriched by it, it improves our lives.
+1. **The "Fit Fallacy"** – Concept/Metaphor characterizing the misguided belief that true passion yields immediate success and feels perfect. Supports: The idea that searching for "the one" true passion creates fragility, causing people to quit when they encounter inevitable obstacles.
+2. **Dopamine Mechanics** – Scientific observation linking dopamine release to the pursuit of rewards rather than the achievement of them. Supports: The claim that we get hooked on the "chase," leading to addiction and a never-ending cycle of needing more stimulation.
+3. **Athletic/Training Metaphor** – Analogy comparing the management of passion to an athlete training for a competition. Supports: The concept that passion does not require constant day-to-day balance, but rather periodic, intentional periods of rest and recovery to avoid burnout.
+4. **"Burning Bright" vs. "Harmonic" Dichotomy** – Categorization defining the two types of passion (obsessive/consuming vs. enriches/integrated). Supports: The argument that passion is a double-edged sword that must be handled with care to prevent chronic exhaustion.
+5. **The Stoic "Negative Meditation"** – Case study/Practice of reflecting on the fleeting nature of life. Supports: The method of maintaining self-awareness and keeping one's focus on what truly matters to avoid being swept away by obsessive passion.
+6. **The "Go Big or Go Home" Failure Rate** – Observation/Statistical insight noting that people who rush into total commitment often burn out, while incrementalists succeed. Supports: The argument that passions should be grown incrementally rather than pursued by sacrificing safety nets prematurely.
+7. **The "Contamination vs. Redemption" Narrative** – Psychological framework regarding how we construct stories about our lives. Supports: The idea that how we frame past failures determines whether we fall into helplessness or emerge stronger, allowing us to move forward constructively.
+8. **"Zooming Out" Perspective** – Thought experiment/Cognitive tool of intentionally viewing a problem through a broader time frame or external viewpoint. Supports: The strategy of gaining distance and self-awareness to prevent ego-driven decision-making when facing challenges.
+9. **The "Mastery Mindset" Components** – Framework defining positive passion through three attributes (Competence, Autonomy, Relatedness). Supports: The definition of a healthy, sustainable relationship with one’s work that protects against the dark side of passion.
+10. **The "Goal vs. Direction" Distinction** – Conceptual framework characterizing goals as a heading rather than a specific destination. Supports: The process of focusing on consistent daily adherence to steps rather than obsessing over outcome, which helps maintain presence and long-term success.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 1. Our tendency for rationalization can overpower the goal of self awareness. We might be completely sure that we are making deliberate choices that are worth while even though in practice we are being forced to do so by the luring power of our passion. Same as a gambler that justifies "just one more round".
@@ -111,7 +120,7 @@ The book is nice, but even after just finishing it I don't remember much of it. 
 
 ### Introduction
 
-Passion is a double-edged sword. It pulls us in deeply and fuels action, yet it can also lead to dissatisfaction and burnout.
+Passion is a double-edged sword. It pulls us in deeply and fuels action, yet it can also lead to dissatisfaction and burnout. [Passion is a double-edged sword that both fuels and burns](/notes/passion-is-a-double-edged-sword-that-both-fuels-and-burns.md)
 
 ### Passion Must Be Handled with Care
 
@@ -123,7 +132,7 @@ There are two kinds of passion:
 
 Passion began as a word meaning *to suffer*. It had a negative connotation that evolved from being consumed by suffering, to something you suffer for, and in recent decades to the chase itself. [Word meaning varies with history and social context](/notes/word-meaning-varies-with-history-and-social-context.md)
 
-Passion fills us with [dopamine](/notes/dopamine.md), which creates a belief of [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md): "when I achieve x, I'll finally be happy." This is a trap because we derive almost no pleasure from achieving, only from the chase. It becomes an [Addiction is escapism that destroys self-control](/notes/addiction-is-escapism-that-destroys-self-control.md).
+Passion fills us with [dopamine](/notes/dopamine-drives-wanting-not-satisfaction.md), which creates a belief of [Deferring happiness to future goals creates present suffering](/notes/deferring-happiness-to-future-goals-creates-present-suffering.md): "when I achieve x, I'll finally be happy." This is a trap because we derive almost no pleasure from achieving, only from the chase. [We derive pleasure from the chase, not the achievement](/notes/we-derive-pleasure-from-the-chase-not-the-achievement.md) It becomes an [Addiction is escapism that destroys self-control](/notes/addiction-is-escapism-that-destroys-self-control.md).
 
 This also explains why addiction is often an alternative for those who have lost their passion. They are different methods for answering the same need.
 
@@ -143,7 +152,7 @@ Passion often grows from trauma - some psychological pain that drives us to dive
 
 With passion, as with love, we tend to fall for the [fit fallacy](/notes/fit-fallacy.md) - that by following our passion we should see immediate success and feel great. Inevitably, we face obstacles and failures, which makes us say, "This probably wasn't it. It wasn't my one true passion," and we switch in search of a better match [Fixed mindset assumes capabilities are unchangeable from birth](/notes/fixed-mindset-assumes-capabilities-are-unchangeable-from-birth.md).
 
-We fall blindly into [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md), letting it destroy good opportunities just because they aren't perfect 100% of the time [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md). Instead, give yourself the freedom to continue and see whether something fits before quitting.
+We fall blindly into [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md), letting it destroy good opportunities just because they aren't perfect 100% of the time [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md). Instead, give yourself the freedom to continue and see whether something fits before quitting.
 
 A good sign is when your passion meets these three components:
 1. **Competence** - it connects with your skills and improves you and your life in some way [Unique skill combinations create competitive and creative advantage](/notes/unique-skill-combinations-create-competitive-and-creative-advantage.md)
@@ -169,13 +178,13 @@ As time passes, shift more of your time to your passion and less to your safety 
 
 ### When Passion Goes Awry
 
-When we obsess over our passion, we become so [blinded](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) that we cut corners and cross into moral gray areas just to reach our target [whatever it takes](/notes/whatever-it-takes.md).
+When we obsess over our passion, we become so [blinded](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md) that we cut corners and cross into moral gray areas just to reach our target [whatever it takes](/notes/obsessive-pursuit-of-a-goal-excuses-cutting-corners.md).
 
-We tie our [Ego](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md) to our success, even when it's not entirely within our control [unenforceable rule](/notes/unenforceable-rule.md). We then do everything to avoid [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md), even if it means to [decieve](/notes/deception.md) everyone, including ourselves. We hitch our identity to external validation [External motivation crowds out intrinsic drive and sustainability](/notes/external-motivation-crowds-out-intrinsic-drive-and-sustainability.md).
+We tie our [Ego](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md) to our success, even when it's not entirely within our control [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md). We then do everything to avoid [Failure is a necessary part of learning and growth](/notes/failure-is-a-necessary-part-of-learning-and-growth.md), even if it means to [decieve](/notes/denial-is-choosing-a-false-view-to-avoid-painful-truths.md) everyone, including ourselves. We hitch our identity to external validation [External motivation crowds out intrinsic drive and sustainability](/notes/external-motivation-crowds-out-intrinsic-drive-and-sustainability.md).
 
-Even if we achieve success, it will be short-lived because we won't be satisfied. We quickly [become accustomed](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) to the new situation and stay [hungry](/notes/lacking.md) for more. A [Vicious cycle](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) that ends in more and more suffering.
+Even if we achieve success, it will be short-lived because we won't be satisfied. We quickly [become accustomed](/notes/adaptation-returns-happiness-to-baseline-regardless-of-life-changes.md) to the new situation and stay [hungry](/notes/a-persistent-feeling-of-lacking-sustains-endless-pursuit.md) for more. A [Vicious cycle](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) that ends in more and more suffering.
 
-Another dark side of passion is when [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md) motivates us. It’s a good short-term driver but unsustainable long-term. It makes us [loss averse](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md), and we switch from playing to win to playing to avoid losing [winner or loser game](/notes/winner-or-loser-game.md). We focus on not losing what we have instead of advancing and improving.
+Another dark side of passion is when [Fear is a primal survival emotion triggered by perceived danger](/notes/fear-is-a-primal-survival-emotion-triggered-by-perceived-danger.md) motivates us. It’s a good short-term driver but unsustainable long-term. [Fear motivates short-term but is unsustainable long-term](/notes/fear-motivates-short-term-but-is-unsustainable-long-term.md) It makes us [loss averse](/notes/we-prefer-avoiding-losses-over-gaining-equivalent-value.md), and we switch from playing to win to playing to avoid losing [winner game](/notes/winner-take-all-games-reward-standing-out-over-following-best-practices.md) [loser game](/notes/loser-games-are-won-by-avoiding-mistakes-rather-than-outshining-others.md). We focus on not losing what we have instead of advancing and improving.
 
 :::note[When Passion Goes Awry]
 
@@ -239,7 +248,7 @@ To maintain self-awareness:
 	1. *Speak to yourself as a friend* - instead of talking in the first person, think as if you’re giving [Seeking and giving advice both expand our perspective](/notes/seeking-and-giving-advice-both-expand-our-perspective.md) to a friend [Healthy self-talk prevents spiraling and builds resilience](/notes/healthy-self-talk-prevents-spiraling-and-builds-resilience.md).
 	2. *Zoom out* - try to see the big picture by [zooming out](/notes/zooming-out-gains-perspective-through-mental-distance.md). Consider a broader perspective, like a longer time frame or how it affects more than just you.
 	3. *Experience awe* - connect with something bigger than yourself, such as nature or art, through moments of [awe](/notes/awestruck-effect-2bc.md).
-2. **Meditation** - practicing [Meditation strengthens focus and mindfulness through intentional presence](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md) can help you gain [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md). Another form is the Stoic negative meditation, where you reflect on life’s fleetingness as motivation to focus on what matters.
+2. **Meditation** - practicing [Meditation strengthens focus and mindfulness through intentional presence](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md) can help you gain [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md). Another form is the Stoic negative meditation, where you reflect on life’s fleetingness as motivation to focus on what matters. [memento mori](/notes/mortality-shapes-meaning-and-motivates-acceptance.md)
 
 :::note[Self-Awareness and the Power to Choose]
 
@@ -256,11 +265,11 @@ To avoid this trap, examine the [Narrative](/notes/narratives-shape-perception-a
 
 A positive narrative also fosters a [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md), which helps us see obstacles as lessons and be grateful for what we had, even if it’s gone.
 
-There’s no denying it was a big part of your life. Even if you move on, it will always be part of you, shaping who you are today.
+There’s no denying it was a big part of your life. Even if you move on, it will always be part of you, shaping who you are today. [Identity persists across time through psychological continuity](/notes/identity-persists-across-time-through-psychological-continuity.md)
 
 Unfortunately, our identity is also influenced by how others [perceive](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md) us. We can be labeled with an identity that’s hard to shed, and we don’t control how we’re seen. Focus on what you can do. Continue to [signal](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md) and act as the identity you want to become. That’s the best you can do, and hopefully the world will follow.
 
-The ability to [Forget](/notes/forgetfulness.md) and [rewrite](/notes/we-rewrite-our-memories-every-time-we-access-them.md) your life’s narrative is key to living well. Perfect memory is more of a curse than a blessing because the vividness of past experiences never fades and clings to our identity. Forgetting, on the other hand, weakens the past’s grip and helps us move forward and rewrite our story into a positive one.
+The ability to [Forget](/notes/forgetting-enables-growth-by-clearing-space-for-change.md) and [rewrite](/notes/we-rewrite-our-memories-every-time-we-access-them.md) your life’s narrative is key to living well. Perfect memory is more of a curse than a blessing because the vividness of past experiences never fades and clings to our identity. Forgetting, on the other hand, weakens the past’s grip and helps us move forward and rewrite our story into a positive one.
 
 :::note[Moving On]
 

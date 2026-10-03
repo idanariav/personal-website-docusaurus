@@ -1,7 +1,7 @@
 ---
 UUID: 20240619175158
 Created: '2024-06-19 17:51'
-Modified: '2026-08-11 14:23'
+Modified: '2026-09-20 09:52'
 tags: []
 Author:
   - '[[Chris Bailey]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 272
 Rate: 3
 PublishDate: 2018-09-06T00:00:00.000Z
@@ -198,7 +198,7 @@ Also, remember to be [clear](/notes/clarity-is-achieved-through-definition-and-p
 
 #### Taming Distractions
 
-On average our attention spans last for only 40 seconds, while getting back to a task (in terms of focus) takes minutes. Based on that, even if we are distracted only 10% of our day, this could mean that about half of our day goes to waste. And we are distracted a lot. Either by work that throws several projects simultaneously, or fun distractions such as social media. Having [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) is not enough, no one is that powerful. The only way is to block distractions ahead of time [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md).
+On average our attention spans last for only 40 seconds, while getting back to a task (in terms of focus) takes minutes. Based on that, even if we are distracted only 10% of our day, this could mean that about half of our day goes to waste. And we are distracted a lot. Either by work that throws several projects simultaneously, or fun distractions such as social media. Having [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md) is not enough, no one is that powerful. The only way is to block distractions ahead of time [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md).
 
 There are four types of distractions:
 1. Fun/not fun
@@ -271,7 +271,7 @@ To get to Scatterfocus we need to remove distractions, since the mind wants to f
 
 Our brain is the most creative when it is in Scatterfocus mode. It works on unfinished problems in the background, which leads to eureka moments after a good rest or when doing unrelated things.
 
-We can intentionally leave some tasks unfinished so that our brain would process them in the background over time. [Unfinished tasks linger in the mind and reduce focus](/notes/unfinished-tasks-linger-in-the-mind-and-reduce-focus.md)
+We can intentionally leave some tasks unfinished so that our brain would process them in the background over time. [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md)
 
 #### Collecting Dots
 

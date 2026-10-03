@@ -1,12 +1,12 @@
 ---
 UUID: 20240427135742
 Created: '2024-04-27 13:57'
-Modified: '2026-09-19 08:32'
+Modified: '2026-09-19 17:58'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 7
+Version: 8
 Image: >-
   [[Harmful actions reinforce themselves through self-perpetuating feedback
   loops.png]]
@@ -32,7 +32,7 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-A negative cycle is whenever we do an activity which is harmful for our wellbeing, which only [strenghen](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md) our [Desire perpetuates endless wanting over satisfaction](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md) to promote that activity [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md).
+A negative cycle is whenever we do an activity which is harmful for our wellbeing, which only [strenghen](/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action.md) our [Impulsivity is acting without conscious deliberation or filter](/notes/impulsivity-is-acting-without-conscious-deliberation-or-filter.md) to promote that activity [Past choices constrain future options and behavior](/notes/past-choices-constrain-future-options-and-behavior.md).
 
 ### Explanation
 There are two main ways of falling into a negative cycle.

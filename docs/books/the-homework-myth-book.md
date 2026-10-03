@@ -1,7 +1,7 @@
 ---
 UUID: 20240213213303
 Created: '2024-02-13 21:33'
-Modified: '2026-09-02 12:03'
+Modified: '2026-09-22 06:32'
 tags: []
 FullTitle: The Homework Myth - Why Our Kids Get Too Much of a Bad Thing
 Description: >-
@@ -24,7 +24,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 2
+Version: 3
 Pages: 255
 Reread: 0
 Rate: 2
@@ -216,7 +216,7 @@ No homework should be the default, and only on rare cases where it is proven to 
 
 Some alternatives to homework:
 1. **Experiments that can only be done at home** - like interviewing the parent, outdoor activity, etc
-2. **Educational activity** - like playing board games, solving puzzles and crosswords [Play](/notes/play.md)
+2. **Educational activity** - like playing board games, solving puzzles and crosswords [Play](/notes/unstructured-play-drives-learning-and-creativity.md)
 3. **Reading**
 
 **The key to all these activities is that they must be done out of interest**. Once we turn this into a chore, like "read x minutes or pages a day", it loses its value, it will crowed out the joy for the activity itself.

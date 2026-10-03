@@ -1,7 +1,7 @@
 ---
 UUID: 20240812221941
 Created: '2024-08-12 22:19'
-Modified: '2026-08-15 10:11'
+Modified: '2026-10-02 13:41'
 tags: []
 FullTitle: >-
   The Power of Showing Up - How Parental Presence Shapes Who Our Kids Become and
@@ -30,7 +30,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 9
+Version: 10
 Pages: 244
 Reread: 0
 Rate: 3
@@ -98,7 +98,7 @@ However, as usual writing is engaging, clear and encouraging
 
 ### What it means to Show up
 
-We will make mistakes, everybody does, and nobody is a perfect parent [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md). Instead of worrying whether we are doing a good job, all that we need to do is to *show up*, to be present with them mentally, physically, and emotionally [Practice beats perfection](/notes/practice-beats-perfection.md).
+We will make mistakes, everybody does, and nobody is a perfect parent [Perfectionism paralyzes action through unattainable standards](/notes/perfectionism-paralyzes-action-through-unattainable-standards.md) [Perfect is the enemy of good](/notes/perfect-is-the-enemy-of-good.md). Instead of worrying whether we are doing a good job, all that we need to do is to *show up*, to be present with them mentally, physically, and emotionally [Practice beats perfection](/notes/practice-beats-perfection.md).
 
 To be present means to help kids feel the four s's:
 1. **Safe** - protected from harm. To know that even when we mess up, we care about them, and we will try to repair it.
@@ -191,7 +191,7 @@ Feeling seen is when the child believes we "get them", **we are able to empathiz
 2. **Make sense** - To try and figure out what "logic" they were following, what happened that has caused this behavior, how do they see the situation?
 3. **Respond** - To act kindly, respectfully and empathically. Instead of bombarding them with logical lecturing, we can react to the situation through their eyes.
 
-We fail to make them feel seen when we are quick to label them, like "lazy" or "you are just like your father", or when we assume we share the same preferences or see the world the same way [Naming a thing categorizes it, obscuring true understanding](/notes/naming-a-thing-categorizes-it-obscuring-true-understanding.md). It's even worse if we [Shame](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) them for feeling this way. Remember that in the end there's a distinction between if they *won't* act the way you want to or *can't*.
+We fail to make them feel seen when we are quick to label them, like "lazy" or "you are just like your father", or when we assume we share the same preferences or see the world the same way [Naming a thing categorizes it, obscuring true understanding](/notes/naming-a-thing-categorizes-it-obscuring-true-understanding.md). It's even worse if we [Shame](/notes/shame-signals-that-who-we-are-is-unworthy.md) them for feeling this way. Remember that in the end there's a distinction between if they *won't* act the way you want to or *can't*.
 
 One way of being more mindful of their point of view is to approach their behavior with [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md).
 

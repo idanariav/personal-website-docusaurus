@@ -1,7 +1,7 @@
 ---
 UUID: 20220703185406
 Created: '2022-07-03 18:54'
-Modified: '2026-08-18 12:12'
+Modified: '2026-10-02 13:41'
 tags: []
 FullTitle: The Checklist Manifesto - How to Get Things Right
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 208
 Reread: 0
 Rate: 4
@@ -50,7 +50,7 @@ SiteProcssed: true
 ### Clarify
 🔈 *Summary of main ideas*
 1. **Knowledge overload** - Nowadays, our problem is not a lack of knowledge, it is widely available and in abandonce. We fail due to inaptitude, not ignorance. We have difficulties in finding ways to remember and implement all that we know
-2. **Checklists reduce errors** - by thinking about the action in advance, we can increase of chances of avoiding errors by noting explicitly the main risks of error and make sure that we address them. For example, having a checkbox of "make sure to put gloves" before a surgery to reduce risks of infection.
+2. **Checklists reduce errors** - by thinking about the action in advance, we can increase of chances of avoiding errors by noting explicitly the main risks of error and make sure that we address them [Planning is anticipating the future and preparing action accordingly](/notes/planning-is-anticipating-the-future-and-preparing-action-accordingly.md). For example, having a checkbox of "make sure to put gloves" before a surgery to reduce risks of infection.
 3. **Checklists improve cooperation** - similar to the complexity at the individual level, working with others add more degrees of complexity. Using a checklist as a method to "bind" people to a process while allowing them freedom of expression is a good way to verify that cooperation is achieved.
 ### Relate
 
@@ -197,7 +197,7 @@ The list short be short, updatable, and user-facing based on the type of the use
 
 ### Setbacks in Embracing Checklists
 
-sometimes it might feel [embarrassment](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) to use a checklist, as if it is an indication of our lack of expertise [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md). We should view it however as a sign of it. **As makers of checklists, we use our expertise to our fullest by embedding it into a process**. [Explaining ideas simply exposes gaps in understanding](/notes/explaining-ideas-simply-exposes-gaps-in-understanding.md) [Embedding expertise in systems scales its reach](/notes/embedding-expertise-in-systems-scales-its-reach.md)
+sometimes it might feel [embarrassment](/notes/shame-signals-that-who-we-are-is-unworthy.md) to use a checklist, as if it is an indication of our lack of expertise [Mastery requires deliberate practice and hard work, not innate talent](/notes/mastery-requires-deliberate-practice-and-hard-work-not-innate-talent.md). We should view it however as a sign of it. **As makers of checklists, we use our expertise to our fullest by embedding it into a process**. [Explaining ideas simply exposes gaps in understanding](/notes/explaining-ideas-simply-exposes-gaps-in-understanding.md) [Embedding expertise in systems scales its reach](/notes/embedding-expertise-in-systems-scales-its-reach.md)
 
 We have no other choice rather than to use systems for our benefit, because if we don't we will simply fail, which is much worse than any damage to our ego. [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md)
 

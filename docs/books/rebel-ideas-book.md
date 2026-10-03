@@ -1,7 +1,7 @@
 ---
 UUID: 20251106105649
 Created: '2025-11-06 10:56'
-Modified: '2026-09-19 07:27'
+Modified: '2026-09-25 07:03'
 tags: []
 FullTitle: Rebel Ideas - The Power of Diverse Thinking
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 10
 Pages: 277
 Reread: 0
 Rate: 5
@@ -113,7 +113,7 @@ The future is a future of teams [Peer support enables collaborative growth throu
 
 Complex problems require creative solutions, which are built on diversity. We need people who think differently, having more of the same (homogeneity) isn't helpful. Same people who have the same viewpoint will also have the same blindspots [Group Thinking](/notes/diversity-of-perspectives-strengthens-decision-making-and-understanding.md).
 
-Moreover, we are not even aware of our own [blindspots](/notes/blindspots.md), so we don't know what we're missing until someone points it out to us [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md). This is called *perspective blindness*.
+Moreover, we are not even aware of our own [blindspots](/notes/blind-spots-require-external-perspective-to-surface.md), so we don't know what we're missing until someone points it out to us [Attachment distorts how we see the things we cling to](/notes/attachment-distorts-how-we-see-the-things-we-cling-to.md). This is called *perspective blindness*.
 
 People from different cultures sees the world differently [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md),which could be the key to solving hard problems. Like pieces of the puzzle, together you'll have a clear, full picture of reality [Seeing reality without subjective bias reduces distortion](/notes/seeing-reality-without-subjective-bias-reduces-distortion.md).
 
@@ -161,7 +161,7 @@ Companies however recruit based on talent in a way that symbolizes [Biased input
 
 ### Constructive Dissent
 
- A diverse team is meaningless if there's a clear and strict [Hierarchy](/notes/hierarchy.md). We are "programmed" to follow the leader, which makes us hide confronting evidence, even if we know it's true and critical for the operations. For example in the past flight crew would rather risk death than confront the leading pilot.
+ A diverse team is meaningless if there's a clear and strict [Hierarchy](/notes/hierarchy-silences-dissent-and-free-expression.md). We are "programmed" to follow the leader, which makes us hide confronting evidence, even if we know it's true and critical for the operations. For example in the past flight crew would rather risk death than confront the leading pilot.
 
 Leaders, by their mere presence can have a silencing effect, causing their teams to adopt their view, faulty and limited as it may be. There's no surprise then that teams with more freedom to act perform well than teams with constant supervision by a high authority [Micro-management restricts autonomy and inhibits growth](/notes/micro-management-restricts-autonomy-and-inhibits-growth.md).
 
@@ -200,7 +200,7 @@ Innovation and diversity goes hand in hand. Ideas on their own are not that impa
 
 That's why it's useful to be an outsider, because you have a different perspective on the situation, and the most to contribute. You have [Flexability](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md) of thought. Being an outsider also makes you more likely to think [critically](/notes/examining-ideas-rigorously-before-accepting-them-as-true.md) as you are not bound by existing guidelines. [Outsiders challenge assumptions that insiders cannot see](/notes/outsiders-challenge-assumptions-that-insiders-cannot-see.md) To help you think like an outsider, try to [Inverse](/notes/flipping-assumptions-reveals-hidden-possibilities-and-better-solutions.md) your thinking, to take each foundational belief of your business/situation and see whether the opposite is possible. For example, "a taxi service owns cars", the inverse of that is "a carless taxi service", which is exactly what Uber is.
 
-Ideas when shred have a [Actions spread effects across people and time beyond initial cause](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md), they become a [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) that empowers innovation, as opposed to idea silos where their contribution is little to none. That's what makes intelligence a "collective" thing, we are smarter together [collective intelligence](/notes/collective-intelligence.md). Ideas are as beneficial as their [velocity](/notes/velocity.md) through the [Networks](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.md). That's why important discoveries were made almost simultaneously by different people because there peak periods of scientific knowledge sharing. Contrast that with cases of isolated communities which seems to fall behind technologically. The more we create chances to share ideas, for example places where workers from different companies can come and chat, hackathons, online discussion forums [watercooler effect](/notes/watercooler-effect.md), **the faster we spread information and the faster (and better) innovation we get**. Low velocity is therefore a potential [bottleneck](/notes/bottleneck.md) for innovation. Similarly, we must differentiate between *vertical networks* (idea sharing within a company), to *horizontal networks* (idea sharing between companies). Horizontal networks are much stronger because the pool of potential ideas is much larger.
+Ideas when shred have a [Actions spread effects across people and time beyond initial cause](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md), they become a [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) that empowers innovation, as opposed to idea silos where their contribution is little to none. That's what makes intelligence a "collective" thing, we are smarter together [Intelligence is an emergent property of knowledge networks](/notes/intelligence-is-an-emergent-property-of-knowledge-networks.md). Ideas are as beneficial as their [velocity](/notes/velocity.md) through the [Networks](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.md). That's why important discoveries were made almost simultaneously by different people because there peak periods of scientific knowledge sharing. Contrast that with cases of isolated communities which seems to fall behind technologically. The more we create chances to share ideas, for example places where workers from different companies can come and chat, hackathons, online discussion forums [watercooler effect](/notes/watercooler-effect.md), **the faster we spread information and the faster (and better) innovation we get**. Low velocity is therefore a potential [bottleneck](/notes/bottleneck.md) for innovation. Similarly, we must differentiate between *vertical networks* (idea sharing within a company), to *horizontal networks* (idea sharing between companies). Horizontal networks are much stronger because the pool of potential ideas is much larger.
 
 :::note[INNOVATION]
 

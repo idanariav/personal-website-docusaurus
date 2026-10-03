@@ -1,22 +1,21 @@
 ---
 UUID: 20230327064908
 Created: '2023-03-27 06:49'
-Modified: '2026-09-02 16:38'
+Modified: '2026-09-30 14:26'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 6
+Version: 10
 Image: '[[Empathy means understanding and acting on another''s perspective.png]]'
 ImageText: 'A person struggling to lift a boulder, then two people lift it together'
 Description: >-
-  The ability to understand and share the feelings of another by stepping into
-  their perspective, fostering connection while potentially leading to bias
-  towards those similar to oneself.
+  The conscious act of connecting deeply with an individual by stepping into
+  their perspective and acting on what matters to them, fostering connection
+  while potentially leading to bias towards those similar to oneself.
 aliases:
   - Empathy
-  - Emotional Contagion
 Topic:
   - '[[Virtuous Disposition]]'
 Origin: null
@@ -30,7 +29,7 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-Empathy is our ability to place ourselves in the other person's shoes, to identify with their pain, their struggles, and preferences. This requires us to leave our own [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md) and step into theirs. Therefore, **to be empathic is to see the world through their eyes and trying to make it better based on their definition of good, not yours.** Although, understanding them doesn't mean that we agree with them. Empathy is more than just our ability to [mirror](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md) other people, because empathy goes beyond the external layer of displayed emotions into the deep layer of reasons and feelings.
+Empathy is a conscious act of connecting deeply with a specific individual: our ability to place ourselves in their shoes, to identify with their pain, their struggles, and preferences. This requires us to leave our own [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md) and step into theirs. Therefore, **to be empathic is to see the world through their eyes and trying to make it better based on their definition of good, not yours.** Although, understanding them doesn't mean that we agree with them. Empathy is more than just our ability to [mirror](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md) other people, because empathy goes beyond the external layer of displayed emotions into the deep layer of reasons and feelings. It is also not [emotional contagion](/notes/emotions-spread-between-people-through-contagion.md), where a feeling, often a negative one, spreads between people subconsciously and without any effort to understand it — empathy is chosen and directed at someone, contagion just happens.
 
 ### Explanation
 The fact that people are able to be empathetic perhaps it's a sign that we humans are [social being](/notes/human-is-a-social-being.md). It could be argued that the reason that [People are inherently good](/notes/humans-are-good-as-default.md) is because our tendency to empathize causes us to feel pain, so we wish to free ourselves of that pain by solving their problem. However, seeing and sensing too much pain, trying to carry the weight of the world on our shoulders might lead to [Indifference can be protective or harmful depending on its source](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md) as an act of self preservation, blocking empathy from occurring.

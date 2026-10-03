@@ -1,13 +1,13 @@
 ---
 UUID: 20230331132111
 Created: '2023-03-31 13:21'
-Modified: '2026-08-17 16:03'
+Modified: '2026-10-02 13:45'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 6
+Version: 7
 Image: '[[Commodification turns non-tradable values into economic transactions.png]]'
 ImageText: >-
   Three packaged figures on a shelf with price tags, showing a man, woman, and
@@ -35,7 +35,7 @@ SiteProcssed: true
 Commodification is when an object becomes a commodity, meaning that something that was previously non tradable, can now be bought, owned, and sold.
 
 ### Explanation
-Adding a price tag affects our [Incentives shape behavior by making certain actions more attractive](/notes/incentives-shape-behavior-by-making-certain-actions-more-attractive.md) but not in the way we imagined. It creates [Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.md) between our values, and what we do. It is a form of [Doing good gives us permission to do harm](/notes/doing-good-gives-us-permission-to-do-harm.md), by paying for something, even if the price appears as a deterrents, we feel entitled to that thing. It reduces the sense of [Guilt signals when we fail to act on what we control](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) for doing something wrong.
+Adding a price tag affects our [Incentives shape behavior by making certain actions more attractive](/notes/incentives-shape-behavior-by-making-certain-actions-more-attractive.md) but not in the way we imagined. It creates [Alienation means feeling detached from life and others](/notes/alienation-means-feeling-detached-from-life-and-others.md) between our values, and what we do. It is a form of [Doing good gives us permission to do harm](/notes/doing-good-gives-us-permission-to-do-harm.md), by paying for something, even if the price appears as a deterrents, we feel entitled to that thing. It reduces the sense of [guilt](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md) for doing something wrong.
 
 Commodification increases the distance between [Distinguishing appearance from authentic substance reveals hidden conflicts](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md), the thing itself changes when we change how we interact with it. We prefer [Signaling is displaying qualities to appear worthy or successful](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md) over making the effort to be worthy of the actual thing.
 

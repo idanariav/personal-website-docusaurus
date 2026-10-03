@@ -1,7 +1,7 @@
 ---
 UUID: 20231113093558
 Created: '2023-11-13 09:35'
-Modified: '2026-08-11 20:25'
+Modified: '2026-09-22 14:55'
 tags: []
 Author:
   - '[[Lori Gottlieb]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 13
+Version: 14
 Pages: 413
 Rate: 3
 PublishDate: 2019-01-01T00:00:00.000Z
@@ -294,7 +294,7 @@ Dreams are often an indication about our fears. The dream itself is often a meta
 Our life's purpose doesn't have to be a grandiose one, as long as it makes us fill fulfilled, even being a cashier that helps people be more joyful is a worthy cause.
 #### Rita
 
-**The opposite to depression is vitality, to do something, to feel alive**. [Happiness comes from active engagement not passive consumption](/notes/happiness-comes-from-active-engagement-not-passive-consumption.md) First start doing, going out, be in places, interact with others. Happiness will follow.
+**The opposite to depression is vitality, to do something, to feel alive**. [Happiness comes from active engagement not passive consumption](/notes/happiness-comes-from-active-engagement-not-passive-consumption.md) [Vitality](/notes/feeling-bursting-with-life-signals-genuine-flourishing.md) First start doing, going out, be in places, interact with others. Happiness will follow.
 
 #### The UPS Guy
 

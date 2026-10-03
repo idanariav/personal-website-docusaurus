@@ -1,7 +1,7 @@
 ---
 UUID: 20230823165912
 Created: '2023-08-23 16:59'
-Modified: '2026-04-13 06:16'
+Modified: '2026-09-30 12:22'
 tags: []
 FullTitle: Outsmart Your Brain - Why Learning is Hard and How You Can Make It Easy
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 4
 Pages: 336
 Reread: 0
 Rate: 3
@@ -55,14 +55,26 @@ SiteProcssed: true
 5. **You are not alone** - Other people are valuable resource that you can use to improve your learning process. Teachers, other students, parents, all those can give you new perspectives, better understanding, and support.
 ### Relate
 
-⛓ *Life lessons, action items*
-
-### Critique
-
-✅ *by following this method, what will happen?*
+⛓*by following this method, what will happen?*
 1. **Confidence** - confidence is built through successes and the right perspective. Both can be achieved through better learning practices
 2. **Achievements** - most of the techniques in the book are meant to help you be a better learner
 3. **Loving learning** - similarly to confidence, between interested in a topic is not always the reason for our learning, but rather it's outcome.
+
+### Critique
+
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+Based on the book notes provided, here are the most valuable pieces of supporting evidence, structured according to your requirements:
+
+1. **The "Domino's Delivery" Example** – Anecdote. Conversations rely on implicit, shared background knowledge (e.g., assuming "calling Domino's" implies making an order and expecting a delivery); when this is missing, misunderstandings occur. Supports: The claim that understanding requires active connection-making rather than just listening to literal vocabulary.
+2. **The "Hierarchical Lecture Structure" Principle** – Structural Analysis. Lectures are rarely linear; ideas are connected to points made 20 minutes prior. Missing these connections causes a failure to understand, even if one "hears" every word. Supports: The idea that active organizational thinking is necessary to avoid missing layers of meaning in lectures.
+3. **The "Misunderstanding Perception" Trap** – Cognitive Observation. Because we often successfully form _some_ connection between ideas, we incorrectly assume we understand the instructor's intent when we might have connected them differently than intended. Supports: The claim that failing to understand is often invisible to the learner.
+4. **The "Writing vs. Understanding" Trade-off** – Observation. Intense effort to write down every word forces the brain to prioritize speed over processing, leading to superficial recording rather than deep comprehension. Supports: The argument that note-taking must prioritize distilling and paraphrasing over raw volume.
+5. **The Three Goals of Activities (Process, Experience, Concept)** – Categorical Framework. Knowing whether an activity is meant to teach a process (e.g., guitar), provide an experience (e.g., nature), or illustrate a concept (e.g., water resistance) changes what you must focus on to learn. Supports: The claim that deliberate, goal-oriented focus is required to extract value from any experience.
+6. **The "Study Guide" Construction Strategy** – Methodology. Creating a study guide based on exam structure rather than using existing materials forces the learner to organize and synthesize content, which is the act of studying itself. Supports: The argument that generating one's own study materials is superior to passive review.
+7. **The "Future You" Note-Taking Lens** – Thought Experiment. When writing notes, envisioning "future you" creates a constraint that highlights the need for necessary context and explanations that will likely be forgotten. Supports: The strategy of using note-taking as a tool for future knowledge management rather than just immediate survival.
+8. **The "Cramming vs. Distributed Studying" Comparison** – Scientific Finding. Cramming works temporarily but leads to rapid forgetting; distributed study protects retention. Supports: The claim that study habits must prioritize long-term memory maintenance over short-term test performance.
+9. **The "Churchill Planning" Metaphor** – Quote/Historical Reference. "Plans are of little importance, but planning is essential." Plans will change due to circumstance, but the act of planning forces the consideration of goals, limits, and resources. Supports: The claim that the value of a study plan lies in the process of defining goals rather than rigid adherence to a schedule.
+10. **The "Anxiety Attribution" Perspective** – Psychological Insight. You only feel anxious if you both care about the outcome and feel helpless to affect it. Supports: The strategy of addressing anxiety by regaining control through actionable, small steps.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -101,7 +113,7 @@ The main issue is the [Learning should be hard](/notes/learning-should-be-hard.m
 
 ### Chapter 1 - how to Understand a Lecture
 
-**People try to convey maximum meaning in the easiest way possible**. That's why we more often communicate in an abbreviate way, assuming that others are able to connect the dots. [We can't read minds](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md).
+**People try to convey maximum meaning in the easiest way possible**. [Communication compresses meaning and relies on shared assumptions](/notes/communication-compresses-meaning-and-relies-on-shared-assumptions.md) That's why we more often communicate in an abbreviate way, assuming that others are able to connect the dots. [We can't read minds](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md).
 
 Like saying "I called dominos an hour ago, where's my phone?"
 These sentences assume that:
@@ -163,10 +175,10 @@ Activities can have one of three possible goals:
 2 - **experience**. In this case the activity is simply instrumental to the goal. Like walking in a forest to connect to nature. A forest is just a tool meant to create a certain experience, an emotional state or a change in perspective
 3 - **concept**. To give a more physical example of a concept, to make it less abstract. Like jumping in water vs regular jumping to understand air resistance and gravity
 
-Knowing the goal in advance is key to learn more from the activity, because
+Knowing the goal in advance is key to learn more from the activity [Knowing a goal in advance improves learning from an activity](/notes/knowing-a-goal-in-advance-improves-learning-from-an-activity.md), because
 Of two aspects:
 1. **Focus** - we remember what we focus on, and different goals mean different aspects of the activity that we should focus on. [Focus is concentrated cognitive effort that maximizes performance on a single task](/notes/focus-is-concentrated-cognitive-effort-that-maximizes-performance-on-a-single-task.md)
-2. **Mental tagging** - when we create memories, we "tag" them based on the context in which the thought arise. Knowing what we are expected to get out of the lecture will help us make better notes and mental images that will resurface in the right time
+2. **Mental tagging** - when we create memories, we "tag" them based on the context in which the thought arise. [Memories are tagged by the context in which they occur](/notes/memories-are-tagged-by-the-context-in-which-they-occur.md) Knowing what we are expected to get out of the lecture will help us make better notes and mental images that will resurface in the right time
 
 :::note[Quote]
 
@@ -302,7 +314,7 @@ Other methods to keep us from procrastination are:
 
 ### Chapter 12 - how to Keep Focus
 
-1. **Plan your environment** - control the cues in your environment. Go and study in a quiet place. [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
+1. **Plan your environment** - control the cues in your environment. Go and study in a quiet place. [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md)
 2. **Friction** - Make distractions harder to follow. [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md)
 3. **Distancing** - ask yourself in 3rd person what should you do now? [Separating actions from identity allows growth](/notes/separating-actions-from-identity-allows-growth.md)
 4. **multitasking is a myth** - doing two things at once will rob you of your focus for both

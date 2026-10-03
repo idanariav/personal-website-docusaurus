@@ -1,7 +1,7 @@
 ---
 UUID: 20250507084955
 Created: '2025-05-07 08:49'
-Modified: '2026-06-21 17:21'
+Modified: '2026-09-26 09:09'
 tags: []
 FullTitle: >-
   The Way of Play - Using Little Moments of Big Connection to Raise Calm and
@@ -27,7 +27,7 @@ excalidraw-autoexport: png
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 5
+Version: 7
 Pages: 289
 Reread: 0
 Rate: 2
@@ -36,7 +36,7 @@ StartDate: 2026-05-30T00:00:00.000Z
 FinishDate: 2026-06-12T00:00:00.000Z
 Image: ''
 Topic:
-  - '[[Play]]'
+  - '[[Unstructured play drives learning and creativity]]'
 aliases: ''
 Origin: null
 draft: false
@@ -163,7 +163,7 @@ Remember that *behavior is communication* [Behavioralism](/notes/behavior-reveal
 The strategy of "think out loud" is to create a connection by showing them that we understand them, and even that it is possible to understand someone else [Theory of Mind](/notes/understanding-others-requires-attributing-mental-states-like-beliefs-and-intentions-to-them.md)
 
 The step by step:
-1. **Watch and listen** - just notice, be focused on them [notice](/notes/notice.md)
+1. **Watch and listen** - just notice, be focused on them [notice](/notes/noticing-requires-active-attention-not-passive-presence.md)
 2. **Come up with an hypothesis** - What are they trying to do, what is the reason behind it [Curiosity](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md)
 3. **Say it out loud** - Once you formed an hypothesis, say it out loud, show them you understand them. A form of [narrating](/notes/narrating-promotes-understanding-and-connection.md) what you're seeing like a sportscaster.
 
@@ -231,7 +231,7 @@ First, when we see our kid in a disregulated state, we need to understand why. K
 
 In general, we all have tendencies towards being *sensory seeker* or *sensory avoider* per area of life or type of activity. One person might love loud music, people and touch, while the other prefers peace and quiet.
 
-By seeing their reaction to different situations, we can learn their tendencies. It's easy to see cases where they're over situmaled, but under stimulated are harder to catch. [introvert](/notes/introvert.md) [extrovert](/notes/extrovert.md)
+By seeing their reaction to different situations, we can learn their tendencies. It's easy to see cases where they're over situmaled, but under stimulated are harder to catch. [introvert](/notes/introverts-recharge-through-solitude-rather-than-social-stimulation.md) [extrovert](/notes/extrovert.md)
 
 Before trying to change something, just show up, be there and be supportive. Until they will learn to regulate themselves, we will co-regulate with them, be the necessary anchor for them to return to calm [Co-regulation precedes self-regulation](/notes/co-regulation-precedes-self-regulation.md).
 

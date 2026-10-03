@@ -1,7 +1,7 @@
 ---
 UUID: 20240702060545
 Created: '2024-07-02 06:05'
-Modified: '2026-09-11 06:04'
+Modified: '2026-09-22 20:37'
 tags: []
 FullTitle: Selfless - The social Creation of "You"
 Description: >-
@@ -91,7 +91,7 @@ Our identity is not something independent of the world, it's not only difficult 
 
 More than that, we are constructed by our interactions with others as we construct them [Identity is shaped by and shapes our social interactions](/notes/identity-is-shaped-by-and-shapes-our-social-interactions.md). There is no "self" without others, it's like trying to look at ourselves with our own eyes, it's just impossible. We need others to reflect our self to us. Meaning it's a combination of what we send out and how it's interpreted and reflected in the eyes of another. [Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md).
 
-Since our self is dependent on others, there's no surprise that we have [more](/notes/a-person-is-a-community.md) than one self. Who we are depends on the [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md). It's often the people around us who influence which self will come to life in each situation. For example, we can be a parent, a partner, a worker, each with different sets of norms and behaviors, and not just because we choose to act differently, but also because we are shaped by our [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md) with others such that we act differently.
+Since our self is dependent on others, there's no surprise that we have [more](/notes/a-person-is-a-community.md) than one self. Who we are depends on the [Actions and meaning depend on situational and environmental circumstances](/notes/actions-and-meaning-depend-on-situational-and-environmental-circumstances.md). It's often the people around us who influence which self will come to life in each situation [The self reshapes with relationships and circumstances](/notes/the-self-reshapes-with-relationships-and-circumstances.md). For example, we can be a parent, a partner, a worker, each with different sets of norms and behaviors, and not just because we choose to act differently, but also because we are shaped by our [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md) with others such that we act differently.
 
 The effect can also be across time [Identity persists across time through psychological continuity](/notes/identity-persists-across-time-through-psychological-continuity.md). For example, we can be shaped by our ancestors who are long gone or acting differently today because we want to be better for our future (unborn) children. A writer edits differently depending on the audience that one day will read the book, while the audience is affected by the words of the writer, even if they are distant in the past.
 
@@ -125,7 +125,7 @@ The self is nothing more than a container of [Subjective perception filters how 
 #### The search for Self
 Who we are depends a lot on how we are treated. If suddenly everyone would stop obeying the rules of traffic, we would also drive very differently. A person who is always treated with either respect it suspension will treat others differently in return. It as if we all carry a sign on ourselves that we can't read, but we guess is based on how others respond. This is our *self*.
 
-The self, like a nation, is defined not by its borders (a physical body), but rather the social interaction within, the shared [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md), as a state it continues after the death of its current citizens, like a tradition that lives on from one generation to another.
+The self, like a nation, is defined not by its borders (a physical body), but rather the social interaction within, the shared [narrative](/notes/shared-beliefs-make-constructs-real-and-true.md), as a state it continues after the death of its current citizens, like a tradition that lives on from one generation to another.
 
 This is in opposition to the notion of [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md), that there's something in there that we can discover, something fixed that defines who we are, our beliefs, values and tendencies. While some genetic dispositions exist, even they are based on the environment and past experiences [genetic switches](/notes/genetic-switches.md). An angry person might have different ways of expressing their anger. Even our [Core values guide authentic identity and moral action](/notes/core-values-guide-authentic-identity-and-moral-action.md) change over time, and even if they weren't, their meaning usually stems from the social implication it has. What does it mean to be kind, and courageous, to believe in equality or justice in a detached way from others and our community?
 

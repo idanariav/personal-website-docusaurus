@@ -1,13 +1,13 @@
 ---
 UUID: 20240219080836
 Created: '2024-02-19 08:08'
-Modified: '2026-04-11 22:30'
+Modified: '2026-09-20 08:06'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Visibility
   - Tangible
@@ -16,7 +16,6 @@ Description: >-
   The degree to which something can be seen or perceived, influencing our
   beliefs, behaviors, and understanding, often linked to familiarity and
   imitation.
-new_schema: true
 Topic:
   - '[[Selective Evidence]]'
 Origin: null
@@ -37,7 +36,7 @@ Visibility is often literally the measure by which we see something. We are high
 
 As they say "out of sight, out of mind", we are affected by what we see. The more something is visible, the more [familiar](/notes/we-prefer-what-is-familiar-over-what-is-better.md) it is, and the more we believe it is true [Availability bias inflates perceived likelihood of easily recalled events](/notes/availability-bias-inflates-perceived-likelihood-of-easily-recalled-events.md).
 
-Similarly, since we have a great tendency of [imitating](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md) others, the more something is visible, the more likely we are to imitate it. We perceive visible behavior as a social sign, both in the sense of "you should do as I do", and also "here's a [glimpse](/notes/signaling-is-displaying-qualities-to-appear-worthy-or-successful.md) to who I am" [Behavior reveals true preferences](/notes/behavior-reveals-true-preferences.md)
+Similarly, since we have a great tendency of [imitating](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md) others, the more something is visible, the more likely we are to imitate it. We perceive visible behavior as a social sign, both in the sense of "you should do as I do", and also "here's a glimpse to who I am" [Behavior reveals true preferences](/notes/behavior-reveals-true-preferences.md)
 
 Additionally, visibility is much more than eyesight. It is much easier for us to grasp, understand and notice things that are tangible, that are "right there in front of us", than abstract ideas in the future. We prefer [Clarity is achieved through definition and presentation](/notes/clarity-is-achieved-through-definition-and-presentation.md) over [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md).
 

@@ -1,7 +1,7 @@
 ---
 UUID: 20230512070955
 Created: '2023-05-12 07:09'
-Modified: '2026-08-16 22:24'
+Modified: '2026-09-30 12:22'
 tags: []
 FullTitle: The Extended Mind - The Power of Thinking Outside the Brain
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 9
+Version: 10
 Pages: 352
 Reread: 0
 Rate: 3
@@ -100,7 +100,7 @@ The writer was clearly affected by a certain philosopher and wanted to carry on 
 
 believing that our thinking starts and ends with our brain is mistaken. [Thinking extends beyond the brain to environment and society](/notes/thinking-extends-beyond-the-brain-to-environment-and-society.md) Extended thinking, that can increase our [creativity](/notes/creativity-is-combining-existing-ideas-in-new-ways.md). richness and overall quality of our thoughts can be done using 3 things:
 1. **Bodily thinking** - for example, using your hands while thinking or talking increases memory
-2. **Situational thinking** - using cues from the environment can spark new ideas [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
+2. **Situational thinking** - using cues from the environment can spark new ideas [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md)
 3. **Disturbed thinking** - discussions with others can also stir up new thoughts and increase their quality. [discussions as tools for thinking](/notes/discussions-as-tools-for-thinking.md)
 
 :::note[Prolog]
@@ -121,7 +121,7 @@ However, both have led to a misconception of how our brain actually works.
 Our brain is like magpies, a type of bird which build its nest from whatever is around it. Preferably planets, but when that's not available - then metal scraps, plastic products, and even barbed wire.
 
 By using this analogy, we can understand that:
-1. **Inter connectivity** - thought happens no only "in our head" but also by using the world around us. It is a continuous act of sampling and assembling using resources external to our brain. [Knowledge emerges from interconnected beliefs not foundational truths](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.md)
+1. **Inter connectivity** - thought happens no only "in our head" but also by using the world around us. It is a continuous act of sampling and assembling using resources external to our brain. [Knowledge emerges from interconnected beliefs not foundational truths](/notes/knowledge-emerges-from-interconnected-beliefs-not-foundational-truths.md) [Our mind is a processor and not a warehouse](/notes/our-mind-is-a-processor-and-not-a-warehouse.md)
 2. **GIGO** - the types of "external mental resources" affect the nature of quality of the thought that can be produced. [GIGO](/notes/output-quality-depends-on-input-quality.md)
 3. **Expansion** - Intelligent thoughts, and our ability to improve our thinking in general, is also the result of our understanding on how to access and use such external resources.
 

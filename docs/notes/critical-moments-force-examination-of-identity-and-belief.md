@@ -1,12 +1,12 @@
 ---
 UUID: 20230824072647
 Created: '2023-08-24 07:26'
-Modified: '2026-08-18 12:30'
+Modified: '2026-09-19 16:14'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 7
+Version: 8
 Image: '[[Critical moments force examination of identity and belief.png]]'
 ImageText: >-
   A face looking at a broken mirror, showing different personalities reflecting
@@ -30,7 +30,7 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-Identity discovery often occurs during conversations or moments that challenge who we are, that causes us to ask "the big questions", and often lead to [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md). What makes these moments difficult is that our internal [Narratives shape perception and identity by constructing subjective reality](/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality.md) of who we are and what we believe in doesn't match what we have done or who we want to become, therefore creating [intrapersonal conflict](/notes/a-person-is-a-community.md), and breaking our [Merging actions with identity blocks growth](/notes/merging-actions-with-identity-blocks-growth.md). This can also be triggered when we break one of our [Absolute rules trade flexibility for willpower savings](/notes/absolute-rules-trade-flexibility-for-willpower-savings.md)
+Identity discovery often occurs during conversations or moments that challenge who we are, that causes us to ask "the big questions", and often lead to [Stress can be adaptive or harmful depending on perception and context](/notes/stress-can-be-adaptive-or-harmful-depending-on-perception-and-context.md). What makes these moments difficult is that our internal [narrative](/notes/multidimensional-identity-collapses-into-single-fixed-characteristic.md) of who we are and what we believe in doesn't match what we have done or who we want to become, therefore creating [intrapersonal conflict](/notes/neglecting-intrapersonal-conflict-harms-wellbeing.md), and breaking our [Merging actions with identity blocks growth](/notes/merging-actions-with-identity-blocks-growth.md). This can also be triggered when we break one of our [Absolute rules trade flexibility for willpower savings](/notes/absolute-rules-trade-flexibility-for-willpower-savings.md)
 
 ### Explanation
 Challenging moments contains three levels:

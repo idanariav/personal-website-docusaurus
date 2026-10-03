@@ -1,20 +1,19 @@
 ---
 UUID: 20220716081905
 Created: '2022-07-16 08:19'
-Modified: '2026-04-11 22:30'
+Modified: '2026-09-25 18:03'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 2
+Version: 3
 aliases:
-  - When a measure becomes a target it ceases to be a good measure
+  - Goodhart's Law
 Description: >-
   A principle stating that when a measure becomes a target, it loses its
   effectiveness as a measure, often leading to unintended consequences due to
   optimization behaviors.
-new_schema: true
 Topic:
   - '[[Incentives shape behavior by making certain actions more attractive]]'
 Origin: '[[The Curiosity Chronicle by Sahil Bloom]]'
@@ -50,7 +49,7 @@ There are several potential approaches to reduce this problem:
 
 The easy example is in India or France when they wanted to get rid of rodents, and they paid for each rodent brought, so people decided to breed them and the population grew instead of declining.
 
-It is true to our personal lives as well. If we define healthy nutrition as eating a salad, we might count a pasta salad as a salad, thus defeating the purpose [whatever it takes](/notes/whatever-it-takes.md).
+It is true to our personal lives as well. If we define healthy nutrition as eating a salad, we might count a pasta salad as a salad, thus defeating the purpose [whatever it takes](/notes/obsessive-pursuit-of-a-goal-excuses-cutting-corners.md).
 
 ### Supporters
 

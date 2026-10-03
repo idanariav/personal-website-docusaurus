@@ -1,13 +1,13 @@
 ---
 UUID: 20241125074031
 Created: '2024-11-25 07:40'
-Modified: '2026-04-11 22:28'
+Modified: '2026-09-22 20:35'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 5
+Version: 6
 aliases:
   - Unity
   - Unity
@@ -17,7 +17,6 @@ Description: >-
   A profound sense of connection with others or oneself, fostering shared
   identity and purpose, essential for human experience and promoting altruism
   while overcoming individual biases.
-new_schema: true
 Topic:
   - '[[Social Nature]]'
 Origin: null
@@ -42,7 +41,7 @@ A feeling of unity is not limited to people; it can also be for professions, for
 
 ### Why it matters
 
-A feeling of unity allows us to overcome [Preferring personal benefits blinds us to others' perspectives](/notes/preferring-personal-benefits-blinds-us-to-others-perspectives.md), [The individual is the smallest unit of moral worth](/notes/the-individual-is-the-smallest-unit-of-moral-worth.md), and promotes [Altruism](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md). We literally feel how our sense of [self](/notes/self.md) expands from us to include our close [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md) as well.
+A feeling of unity allows us to overcome [Preferring personal benefits blinds us to others' perspectives](/notes/preferring-personal-benefits-blinds-us-to-others-perspectives.md), [The individual is the smallest unit of moral worth](/notes/the-individual-is-the-smallest-unit-of-moral-worth.md), and promotes [Altruism](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md). We literally feel how our sense of [self](/notes/the-self-reshapes-with-relationships-and-circumstances.md) expands from us to include our close [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md) as well.
 
 The ultimate sense of unity comes when we both feel one with ourselves [Achieving internal harmony requires integrating all parts of yourself](/notes/achieving-internal-harmony-requires-integrating-all-parts-of-yourself.md), and one with others.
 

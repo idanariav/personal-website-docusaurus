@@ -1,12 +1,12 @@
 ---
 UUID: 20230404064342
 Created: '2023-04-04 06:43'
-Modified: '2026-08-17 15:48'
+Modified: '2026-09-19 17:58'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 6
+Version: 7
 Image: >-
   [[Bundling undesired tasks with enjoyable activities increases
   motivation.png]]
@@ -30,7 +30,7 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-Temptation Bundling is the idea that if we want to increase the likelihood of doing something that we don't like, we can bundle it together with something that we do like. [Love what is good](/notes/love-what-is-good.md). It reduces the need to activate our [limited willpower](/notes/willpower-is-limited.md) because it is replaced with the natural [Desire perpetuates endless wanting over satisfaction](/notes/desire-perpetuates-endless-wanting-over-satisfaction.md) to do so (to get that dopamine hit). In some sense that reduces the [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) associated with performing the action.
+Temptation Bundling is the idea that if we want to increase the likelihood of doing something that we don't like, we can bundle it together with something that we do like. [Love what is good](/notes/love-what-is-good.md). It reduces the need to activate our [limited willpower](/notes/willpower-is-limited.md) because it is replaced with the natural [Passion is deep desire that sustains intrinsic motivation through difficulty](/notes/passion-is-deep-desire-that-sustains-intrinsic-motivation-through-difficulty.md) to do so (to get that dopamine hit). In some sense that reduces the [Friction is resistance that blocks action and behavior adoption](/notes/friction-is-resistance-that-blocks-action-and-behavior-adoption.md) associated with performing the action.
 
 ### Explanation
 

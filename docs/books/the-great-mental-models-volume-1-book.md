@@ -1,7 +1,7 @@
 ---
 UUID: 20250428074432
 Created: '2025-04-28 07:44'
-Modified: '2026-08-14 17:13'
+Modified: '2026-09-30 11:06'
 tags: []
 FullTitle: 'The Great Mental Models, Volume 1 - General Thinking Concepts'
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 4
+Version: 5
 Pages: 209
 Reread: 0
 Rate: 3
@@ -82,7 +82,7 @@ I would recommend it as a starter book for people who just got into the world of
 
 ### Introduction: Acquiring Wisdom
 
-Being a good decision maker can be similar to a [losers game](/notes/winner-or-loser-game.md), the fewer blind spots we have, the better decision we can make because increased knowledge reduces [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md).
+Being a good decision maker can be similar to a [losers game](/notes/loser-games-are-won-by-avoiding-mistakes-rather-than-outshining-others.md), the fewer blind spots we have, the better decision we can make because increased knowledge reduces [Uncertainty creates anxiety when knowledge and control are incomplete](/notes/uncertainty-creates-anxiety-when-knowledge-and-control-are-incomplete.md).
 
 Since we can't know everything, and we won't have time to know everything, it is useful to have mental models, which serve as a [One-time effort investment yields future benefits](/notes/one-time-effort-investment-yields-future-benefits.md). They are [Content is independent from the medium that transmits it](/notes/content-is-independent-from-the-medium-that-transmits-it.md) ideas that are true in many contexts. For example, ideas from physics are relevant for social interactions as well [Knowledge applied across contexts enables learning generalization](/notes/knowledge-applied-across-contexts-enables-learning-generalization.md).
 
@@ -103,7 +103,7 @@ Sometimes we lack the [Feedback is information that enables behavioral improveme
 
 ### The Map is not the Territory
 
-To [simplify](/notes/distilling-to-essentials-creates-clarity-and-actionability.md) the great [Complexity](/notes/complexity.md) of the world, we create maps, which serve as a proxy for the territory. For example, we make maps for navigations, we use financial reports to measure the company's health, yet we fail when we think the map is a perfect representation of the territory [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md), we are so fixated on the map that we forget that the simplification process removes (vital) information, and freezes it in time. By definition, the map can't contain all the information otherwise, the map would be the same size as the territory itself. A simplified version means less information, and lower quality, it is a limited snapshot of reality [Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md).
+To [simplify](/notes/distilling-to-essentials-creates-clarity-and-actionability.md) the great [Complexity makes ideas harder to understand and implement](/notes/complexity-makes-ideas-harder-to-understand-and-implement.md) of the world, we create maps, which serve as a proxy for the territory. For example, we make maps for navigations, we use financial reports to measure the company's health, yet we fail when we think the map is a perfect representation of the territory [When a measure becomes a target it loses accuracy](/notes/when-a-measure-becomes-a-target-it-loses-accuracy.md), we are so fixated on the map that we forget that the simplification process removes (vital) information, and freezes it in time. By definition, the map can't contain all the information otherwise, the map would be the same size as the territory itself. A simplified version means less information, and lower quality, it is a limited snapshot of reality [Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md).
 
 Unfortunately, we often subconsciously assume that if a map represents one aspect well, it is correct in other elements as well [One good trait makes us assume others are good too](/notes/one-good-trait-makes-us-assume-others-are-good-too.md).
 

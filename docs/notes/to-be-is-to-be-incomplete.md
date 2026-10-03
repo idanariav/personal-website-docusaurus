@@ -1,13 +1,13 @@
 ---
 UUID: 20240709080217
 Created: '2024-07-09 08:02'
-Modified: '2026-09-17 11:06'
+Modified: '2026-09-30 11:42'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 5
+Version: 6
 aliases: []
 Description: >-
   A philosophical concept emphasizing that individuals are perpetually evolving
@@ -37,7 +37,7 @@ Hoping to be complete is as useless as trying to stop a river—by stopping it w
 
 ### Why it matters
 
-Therefore we should [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md), knowing that it's the journey, not the destination that matters [Freedom is a perpetual struggle between failure and transcendence](/notes/freedom-is-a-perpetual-struggle-between-failure-and-transcendence.md). But most of all it requires [Accepting what we cannot control is the path to peace](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) of our limitations, of who we are, and that we are beings limited by time and mental capacity, that live in an ever-changing environment.
+Therefore we should [Focusing on process and consistency yields better results than obsessing over outcomes](/notes/focusing-on-process-and-consistency-yields-better-results-than-obsessing-over-outcomes.md), knowing that it's the journey, not the destination that matters [Freedom is a perpetual struggle between failure and transcendence](/notes/freedom-is-a-perpetual-struggle-between-failure-and-transcendence.md). But most of all it requires [self acceptance is necessary for growth](/notes/self-acceptance-is-necessary-for-growth.md) of our limitations, of who we are, and that we are beings limited by time and mental capacity, that live in an ever-changing environment.
 
 ### Examples
 

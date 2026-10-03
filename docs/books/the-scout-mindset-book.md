@@ -1,7 +1,7 @@
 ---
 UUID: 20250814140256
 Created: '2025-08-14 14:02'
-Modified: '2026-09-19 07:27'
+Modified: '2026-09-24 09:51'
 tags: []
 FullTitle: The Scout Mindset - Why Some People See Things Clearly and Others Don't
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 10
 Pages: 266
 Reread: 0
 Rate: 4
@@ -115,7 +115,7 @@ The belief that we must deceive ourselves to be happy and successful—such as [
 
 #### Two Types of Thinking
 
-We often believe we are clear-headed, yet we fall prey to *motivated reasoning*, a combination of [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md) and [We justify our conclusions after acting, not before](/notes/we-justify-our-conclusions-after-acting-not-before.md). When we encounter evidence that supports our beliefs, we ask, *Can I believe this?* (the answer is usually "yes"). In contrast, when faced with contradictory evidence, we ask, *Must I believe this?* (the answer is usually "no"). We may not even realize we are engaging in self [deception](/notes/deception.md).
+We often believe we are clear-headed, yet we fall prey to *motivated reasoning*, a combination of [Conformation bias makes us accept confirming evidence without scrutiny](/notes/conformation-bias-makes-us-accept-confirming-evidence-without-scrutiny.md) and [We justify our conclusions after acting, not before](/notes/we-justify-our-conclusions-after-acting-not-before.md). When we encounter evidence that supports our beliefs, we ask, *Can I believe this?* (the answer is usually "yes"). In contrast, when faced with contradictory evidence, we ask, *Must I believe this?* (the answer is usually "no"). We may not even realize we are engaging in self [deception](/notes/denial-is-choosing-a-false-view-to-avoid-painful-truths.md).
 
 A scout, on the other hand, asks, *Is it true?* [Truth](/notes/truth.md). They seek to understand what is truly "out there" instead of what they hope to see. They recognize that any knowledge we have of the world, any "map of reality," is merely a [Shallow copies mistake partial representations for complete truth](/notes/shallow-copies-mistake-partial-representations-for-complete-truth.md) of true reality ("the map is not the territory"). Scouts do not need to defend their beliefs; they approach them with [Curiosity is the joy of filling knowledge gaps](/notes/curiosity-is-the-joy-of-filling-knowledge-gaps.md), understanding that improving the map is more important than avoiding being [wrong](/notes/failure-is-a-necessary-part-of-learning-and-growth.md).
 
@@ -137,7 +137,7 @@ What are the benefits of having a soldier's mindset?
 There are emotional benefits:
 1. **Comfort** - It makes life more manageable by framing unachieved good things as *sour grapes* (e.g., "This promotion would have hurt my work-life balance") and achieved bad things as *sweet lemons* (e.g., "This crisis will make me stronger") to avoid disappointment.
 2. **Self-esteem** - You avoid information to protect your [Ego](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md).
-3. **Motivation** - It is harder to work diligently at your startup when you know the low success rates. You ignore harmful information to maintain motivation [deliberate ignorance](/notes/deliberate-ignorance.md).
+3. **Motivation** - It is harder to work diligently at your startup when you know the low success rates. You ignore harmful information to maintain motivation [deliberate ignorance](/notes/deliberate-ignorance-protects-psychological-comfort.md).
 
 There are also social benefits:
 1. **Persuasion** - It is much easier to persuade others if we believe wholeheartedly (even if it is false). [Self-deception strengthens persuasion](/notes/self-deception-strengthens-persuasion.md)
@@ -163,7 +163,7 @@ The problem is that we are not adept at evaluating that trade-off because:
 1. **Overestimating the Soldier Mindset** - We are prone to [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md), which leads us to value short-term benefits from self-delusion—such as a burst of motivation and a boost to our ego—more than the painful actions that will help us grow.
 2. **Underestimating the Scout Mindset** - The scout mindset has [Repeated actions yield exponentially increasing returns over time](/notes/repeated-actions-yield-exponentially-increasing-returns-over-time.md) advantages that are meaningful but take time and repetition to develop. Each choice between short-term or long-term gains may seem insignificant, but over time, choosing the scout mindset will help [form](/notes/repeated-actions-become-automatic-through-habit-formation.md) beneficial habits.
 
-Sticking with a soldier's mindset creates a [vicious cycle](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) because admitting the truth is a painful experience filled with [Shame](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md). This leads us to tell another lie, often a bigger one, which buries us deeper in deception.
+Sticking with a soldier's mindset creates a [vicious cycle](/notes/harmful-actions-reinforce-themselves-through-self-perpetuating-feedback-loops.md) because admitting the truth is a painful experience filled with [Shame](/notes/shame-signals-that-who-we-are-is-unworthy.md). This leads us to tell another lie, often a bigger one, which buries us deeper in deception.
 
 However, it is better to rip off the band-aid sooner rather than later. Remember that people [don't care](/notes/we-overestimate-how-much-others-notice-us.md) or notice your faults as much as you think.
 
@@ -209,7 +209,7 @@ However, there are [thought experiment](/notes/thought-experiment.md) that allow
 
 #### How Sure Are You?
 
-Overconfidence is dangerous. We often revert to [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) of either 100% certainty or 0%. We need to think in terms of ranges of certainty, such as 60% or 70%. This better reflects our degree of confidence in our knowledge.
+Overconfidence is dangerous. We often revert to [Binary thinking reduces complexity to false dichotomies](/notes/binary-thinking-reduces-complexity-to-false-dichotomies.md) of either 100% certainty or 0%. We need to think in terms of ranges of certainty, such as 60% or 70% [probabilistic thinking](/notes/probabilistic-thinking-replaces-binary-certainty-with-degrees-of-confidence.md). This better reflects our degree of confidence in our knowledge.
 
 To test this, we can "wager" how likely we are to be right. We will have no problem betting large sums on things we are completely certain about, but as our confidence decreases, we will likely be willing to bet lower sums.
 

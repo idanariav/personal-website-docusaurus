@@ -1,12 +1,12 @@
 ---
 UUID: 20250226135454
 Created: '2025-02-26 13:54'
-Modified: '2026-09-15 10:02'
+Modified: '2026-09-22 06:32'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: >-
   [[Ideation generates ideas through exploratory thinking freed from
   constraints.png]]
@@ -33,12 +33,12 @@ SiteProcssed: true
 ## Notes
 
 ### Claim
-Ideation is the process of generating new ideas. It is usually the result of using our [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md), which opens up to wide rather than deep form of thinking, letting our mind wander, explore and [Play](/notes/play.md) freely.
+Ideation is the process of generating new ideas. It is usually the result of using our [Relaxation activates inward thinking for creative problem-solving](/notes/relaxation-activates-inward-thinking-for-creative-problem-solving.md), which opens up to wide rather than deep form of thinking, letting our mind wander, explore and [Play](/notes/unstructured-play-drives-learning-and-creativity.md) freely.
 
 ### Explanation
 Interestingly, complete freedom is tempting yet not recommended, we actually do better when there are some [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md) that we have to follow.
 
-Similarly, the level of our creativity is highly impacted by our environment. Due to this, being in a closed space, monotonic, and rigid/hierarchical is harmful to our creative pursuit. Having the ability to think outside the box requires us to literally step out of it [Thinking extends beyond the brain to environment and society](/notes/thinking-extends-beyond-the-brain-to-environment-and-society.md). To change our environment [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md) or shape it based on our preferences [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
+Similarly, the level of our creativity is highly impacted by our environment. Due to this, being in a closed space, monotonic, and rigid/hierarchical is harmful to our creative pursuit. Having the ability to think outside the box requires us to literally step out of it [Thinking extends beyond the brain to environment and society](/notes/thinking-extends-beyond-the-brain-to-environment-and-society.md). To change our environment [Symbolic fresh starts break entrenchment and enable change](/notes/symbolic-fresh-starts-break-entrenchment-and-enable-change.md) or shape it based on our preferences [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md)
 
 ### Why it matters
 

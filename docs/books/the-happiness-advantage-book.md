@@ -1,7 +1,7 @@
 ---
 UUID: 20240101072107
 Created: '2024-01-01 07:21'
-Modified: '2026-09-19 08:31'
+Modified: '2026-09-30 15:15'
 tags: []
 FullTitle: The Happiness Advantage - How a Positive Brain Fuels Success in Work and Life
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 9
 Pages: 258
 Reread: 0
 Rate: 5
@@ -111,7 +111,7 @@ This is **the happiness advantage**
 
 Psychology used to be trapped in the "cult of the average", to seek only what is wrong with people and see how we can restore them "back to normal". The problem is that if we focus on the average, the best case is that we'll get the average. We will miss out those that "there's nothing wrong with them", and explore what brings them to excellence [Best Practice](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md) [Focusing on easy metrics blinds us to what matters](/notes/focusing-on-easy-metrics-blinds-us-to-what-matters.md).
 
-We have found out that **our perception of reality has a great influence on reality itself**. [Perception](/notes/subjective-perception-filters-how-we-see-external-reality.md). It is those who think positively and are grateful for what they have that are able to [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) through the difficulties in life, and can detect the opportunities for success and achieve it. **The world belongs to the optimists** [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md).
+We have found out that **our perception of reality has a great influence on reality itself**. [Perception](/notes/subjective-perception-filters-how-we-see-external-reality.md). It is those who think positively and are grateful for what they have that are able to [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) through the difficulties in life, and can detect the opportunities for success and achieve it. **The world belongs to the optimists** [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md) [self-fulfilling](/notes/expectations-of-ourselves-become-self-fulfilling-through-behavior-shaping.md).
 
 Those who think that happiness should be sacrificed in order to achieve success not only fail to achieve it, but are also much more likely to experience [Depression is chronic despair from helplessness and lost meaning](/notes/depression-is-chronic-despair-from-helplessness-and-lost-meaning.md), anxiety, [Chronic stress is harmful](/notes/chronic-stress-is-harmful.md) and [isolation](/notes/loneliness-is-the-painful-state-of-feeling-disconnected-from-others.md). While it is the opposite, **keeping our brain positive and maintaining social relations is the key not only to happiness but also success**. Heartless grit will only get you down.
 
@@ -176,13 +176,13 @@ Some examples to daily things we can do that improve happiness:
 1. [Meditation strengthens focus and mindfulness through intentional presence](/notes/meditation-strengthens-focus-and-mindfulness-through-intentional-presence.md)
 2. Look forward to something - have something in the future that you just "can't wait to happen" [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md)
 3. Kindness to others [Providing value without expectation of return cultivates wellbeing](/notes/providing-value-without-expectation-of-return-cultivates-wellbeing.md)
-4. Environmental design that supports positivity - like taking a nature walk, putting photos of your loved ones, etc [Environmental design](/notes/environmental-design-influences-behavior-through-choice-architecture.md)
+4. Environmental design that supports positivity - like taking a nature walk, putting photos of your loved ones, etc [Environmental design](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md)
 5. Exercise [physical activity](/notes/physical-activity.md)
-6. Invest in experiences - instead of buying stuff, go for experiences with those you care about [experiences](/notes/experiences.md)
+6. Invest in experiences - instead of buying stuff, go for experiences with those you care about [experiences](/notes/experiential-purchases-increase-happiness-more-than-material-purchases.md)
 7. Do what you're good at - express yourself through your signature strength, your uniqueness [Finding your unique strength creates sustainable advantage](/notes/finding-your-unique-strength-creates-sustainable-advantage.md)
 
 At work, **giving praises, time for socializing** and leisure time during work and having home life balance **is not a "nice to have", it is one of the best return on investment you can make** [People are the most valuable organizational resource](/notes/people-are-the-most-valuable-organizational-resource.md). Also, the more public it is, the more others see that you care for their happiness, that you spread praises, it creates a "[Actions spread effects across people and time beyond initial cause](/notes/actions-spread-effects-across-people-and-time-beyond-initial-cause.md) in the organization.
-The [losada line](/notes/losada-line.md) says that a company has to have a 3:1 positive to negative interaction in order to be successful.
+The [losada line](/notes/positivity-ratios-above-three-to-one-predict-flourishing.md) says that a company has to have a 3:1 positive to negative interaction in order to be successful.
 
 :::note[THE HAPPINESS ADVANTAGE]
 

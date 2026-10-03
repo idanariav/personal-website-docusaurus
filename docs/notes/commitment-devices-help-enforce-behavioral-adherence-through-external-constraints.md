@@ -1,13 +1,13 @@
 ---
 UUID: 20240104130904
 Created: '2024-01-04 13:09'
-Modified: '2026-08-17 16:03'
+Modified: '2026-09-30 12:22'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: >-
   [[Commitment devices help enforce behavioral adherence through external
   constraints.png]]
@@ -36,7 +36,7 @@ SiteProcssed: true
 Commitment devices are as their name suggests tool that can help us commit to what we aspire to do. It can range from keeping a diet, to writing, working out and waking up on time. Since we are prone to [Distractions](/notes/distractions-pull-us-towards-them-as-a-temptation.md) and [We prefer immediate benefits over delayed ones](/notes/we-prefer-immediate-benefits-over-delayed-ones.md), it can be very difficult to commit to a long term goal, especially if it's benefits are far in the future while the costs are high and present.
 
 ### Explanation
-The goal is to improve our [You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md), by making the costs more [tangible](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md). We no longer have to trust our future (or "higher self") to take over and exert [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md), nor do we have to rely on our [willpower](/notes/willpower-is-limited.md) to save us from temptations. With the help of self imposed [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md), we are able to "persuade" our present self to make the right choice [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md).
+The goal is to improve our [You are responsible for what happens under your watch](/notes/you-are-responsible-for-what-happens-under-your-watch.md), by making the costs more [tangible](/notes/what-matters-most-is-often-less-visible-than-what-is-salient.md). We no longer have to trust our future (or "higher self") to take over and exert [Self-control is the capacity to regulate behavior against impulses](/notes/self-control-is-the-capacity-to-regulate-behavior-against-impulses.md), nor do we have to rely on our [willpower](/notes/willpower-is-limited.md) to save us from temptations. With the help of self imposed [Self-imposed limits increase ability to act and creativity](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md), we are able to "persuade" our present self to make the right choice [Choice architecture](/notes/choice-architecture-steers-decisions-by-changing-how-options-are-presented.md).
 
 ### Why it matters
 Commitment devices are powerful because they:

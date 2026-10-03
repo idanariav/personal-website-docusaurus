@@ -1,13 +1,13 @@
 ---
 UUID: 20240101083028
 Created: '2024-01-01 08:30'
-Modified: '2026-09-16 11:54'
+Modified: '2026-09-19 15:45'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 Image: null
 excalidraw-open-md: true
-Version: 7
+Version: 8
 aliases:
   - self worth
   - Confidence
@@ -40,7 +40,7 @@ Without self worth, we don't have [Being kind to yourself strengthens resilience
 
 ### Why it matters
 
-On the other hand, to be confident in oneself is both the result and the cause of [trusting](/notes/trust-enables-reliance-on-others-honesty-and-good-intent.md) ourselves and acting without being limited by fear of judgment. By believing we have something to contribute, we act, which strengthens our self worth in return [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md).
+On the other hand, to be confident in oneself is both the result and the cause of [trusting](/notes/self-trust-is-the-first-step-to-trusting-others.md) ourselves and acting without being limited by fear of judgment. By believing we have something to contribute, we act, which strengthens our self worth in return [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md).
 
 When you feel confident in yourself, when you feel worthy of love, of happiness, that you can be useful somehow to someone, you become your own [Safe Base provides security enabling growth and exploration](/notes/safe-base-provides-security-enabling-growth-and-exploration.md). You have the energy to carry yourself forward, to overcome obstacles [Emotional resilience enables managing hardship and maintaining composure](/notes/emotional-resilience-enables-managing-hardship-and-maintaining-composure.md).
 

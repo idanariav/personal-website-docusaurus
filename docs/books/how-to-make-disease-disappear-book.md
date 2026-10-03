@@ -1,7 +1,7 @@
 ---
 UUID: 20240510111644
 Created: '2024-05-10 11:16'
-Modified: '2026-09-19 08:31'
+Modified: '2026-09-19 10:52'
 tags: []
 Author:
   - '[[Rangan Chatterjee]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 9
 Pages: 278
 Rate: 4
 PublishDate: 2018-05-01T00:00:00.000Z
@@ -152,7 +152,7 @@ Examples:
 #### Screen Free Sabbath
 **One day a week, turn off your screens and live offline**
 
-We have become [addicted](/notes/addiction-is-escapism-that-destroys-self-control.md) to our smartphones, when social media is usually to blame [Our attention is the product that media companies sell](/notes/our-attention-is-the-product-that-media-companies-sell.md). Our social urge to compare ourselves to others is intensified when everyone displays a false image of their lives [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md), along with being extremely hostile with the protection of anonymity.
+We have become [addicted](/notes/attention-economy-platforms-are-engineered-to-exploit-psychological-vulnerabilities.md) to our smartphones, when social media is usually to blame [Attention-economy platforms are engineered to exploit psychological vulnerabilities](/notes/attention-economy-platforms-are-engineered-to-exploit-psychological-vulnerabilities.md). Our social urge to compare ourselves to others is intensified when everyone displays a false image of their lives [Image vs core](/notes/distinguishing-appearance-from-authentic-substance-reveals-hidden-conflicts.md), along with being extremely hostile with the protection of anonymity.
 
 To reduce this stress, we need to stick with digital [Minimalism](/notes/improvement-often-comes-from-removing-rather-than-adding.md). To have at least an hour before going to sleep and after waking up without screens. To try interact as little as possible with your phone, perhaps shutting down notification, and try having one day a week without screens.
 
@@ -352,3 +352,4 @@ Emotionally stressful situations can prevent us from falling asleep well. So try
 **If you choose to take caffeine, do it by lunchtime**
 
 Not only that we can have too much coffee to the level of addiction, but also that it can cause us having trouble falling asleep or affect the quality of our sleep. Since coffee tends to be in your system for around 6 hours, stopping at midday is a good recommendation
+

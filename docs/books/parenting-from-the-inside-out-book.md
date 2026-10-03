@@ -1,7 +1,7 @@
 ---
 UUID: 20260608104558
 Created: '2026-06-08 10:45'
-Modified: '2026-07-03 15:42'
+Modified: '2026-10-02 13:41'
 tags: []
 FullTitle: >-
   Parenting from the Inside Out - How a Deeper Self-Understanding Can Help You
@@ -29,7 +29,7 @@ ASIN: '1585422959'
 sketch-editor-plugin: ''
 Purchased: true
 Fiction: false
-Version: 1
+Version: 2
 Pages: 323
 Reread: 0
 Rate: 2
@@ -158,7 +158,7 @@ There are two ways to process events:
 
 We seek the integration of both, it is essential for a coherent life story. The mental models are shaped by our experiences, and these end up shaping our sense of self.
 
-Only by becoming the authors of our lives we can adopt better mental models. If we learn to tell our own story, we can pass this skill to our kids.
+Only by becoming the authors of our lives we can adopt better mental models [Rewriting our past shapes our future](/notes/rewriting-our-past-shapes-our-future.md). If we learn to tell our own story, we can pass this skill to our kids.
 
 :::note[How We Perceive Reality: Constructing the Stories of Our Lives]
 
@@ -178,7 +178,7 @@ That's because emotions serve as the bridge between the internal and external wo
 
 When we see and [resonate](/notes/resonance-is-being-in-sync-with-reality-and-others.md) with their emotional state, for example sharing their excitement on a new discovery, we encourage integration of their two modes of processing, of providing a positive narrative for their experiences, which improves their wellbeing and mindsight skill. This creates a feeling of [Oneness](/notes/unity-is-the-felt-sense-of-connection-with-others-and-the-world.md) between you.
 
-Alternatively, ignoring their emotional state can lead them to disintegrate, basically a form of [Denial](/notes/denial-is-choosing-a-false-view-to-avoid-painful-truths.md) to avoid those repeated painful experiences, they become unaware of their own emotional state, devoid of emotions and filled with [emptiness](/notes/emptiness.md) and [Indifference](/notes/indifference.md).
+Alternatively, ignoring their emotional state can lead them to disintegrate, basically a form of [Denial](/notes/denial-is-choosing-a-false-view-to-avoid-painful-truths.md) to avoid those repeated painful experiences, they become unaware of their own emotional state, devoid of emotions and filled with [emptiness](/notes/emptiness.md) and [Indifference can be protective or harmful depending on its source](/notes/indifference-can-be-protective-or-harmful-depending-on-its-source.md).
 
 We can't connect with our child if we have unresolved issues, as we tend to project them onto our child or be influenced by them in such a way that we become reactive instead of responding. The spectrum of responses gets bigger the more we are aware of our dispositions [Free will is knowledge](/notes/free-will-is-knowledge.md). Agency requires self knowledge, which means that social connection and awareness goes hand in hand.
 
@@ -199,7 +199,7 @@ Alternatively, when we ignore, brush off, or fake listen to them they feel negle
 There are several "bad" versions of responses
 1. **Gaslighting** - when we try to cancel their experience/feelings [Gaslighting](/notes/dismissing-someones-experience-erodes-their-reality.md)
 2. **Confusion** - when our words and behavior doesn't match. Like saying you're okay while you're crying
-3. **Shame** - when we say things like "why aren't you more like your sister" [Shame](/notes/guilt-signals-when-we-fail-to-act-on-what-we-control.md)
+3. **Shame** - when we say things like "why aren't you more like your sister" [Shame](/notes/shame-signals-that-who-we-are-is-unworthy.md)
 4. **Insignificance** - when we ignore them and they feel without meaning or importance in the world [insignificance causes us to feel small and devoid of meaning](/notes/insignificance-causes-us-to-feel-small-and-devoid-of-meaning.md)
 
 Instead we should approach with respect and empathy, to recognize their point of view. That doesn't mean we have to agree with them or do what they want, just to acknowledge their feelings while staying firm with our boundaries.

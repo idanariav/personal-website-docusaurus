@@ -1,13 +1,13 @@
 ---
 UUID: 20230326190649
 Created: '2023-03-26 19:06'
-Modified: '2026-04-11 22:26'
+Modified: '2026-09-19 16:12'
 tags: []
 excalidraw-plugin: parsed
 excalidraw-autoexport: png
 excalidraw-export-dark: false
 excalidraw-open-md: true
-Version: 5
+Version: 6
 Image: '[[Progress emerges through cycles of destruction and reconstruction.png]]'
 ImageText: >-
   Three winner podiums across time showing CD in 1990, flash drive in 2010, and
@@ -22,7 +22,6 @@ aliases:
   - Post Traumatic Growth
   - Adversarial Growth
   - Obstacles as stepping stones
-new_schema: true
 Topic:
   - '[[Market Dynamics and Competition]]'
   - '[[Growth Through Adversity]]'
@@ -59,7 +58,11 @@ Cameras used film as its source of photography for many years, and this was the 
 
 ### Supporters
 
+[Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md) treats the hard grind of practice as its own small creative destruction — you have to break the current skill level before a better one can form. [Stoic stress inoculation](/notes/stoicism-teaches-detachment-from-external-events-to-maintain-inner-freedom.md) works the same way: deliberately facing hardship in advance so the real thing finds you already rebuilt.
+
 ### Opposers
+
+Not all growth needs destruction — [friction](/notes/struggle-is-an-inevitable-and-necessary-part-of-any-meaningful-growth-or-achievement.md) can block us as easily as adversity can build us, undercutting the idea that difficulty alone drives progress. Zooming into the self, [Learning adds new knowledge layers instead of replacing old understanding](/notes/learning-adds-new-knowledge-layers-instead-of-replacing-old-understanding.md) pushes further: maybe nothing gets torn down at all, we just keep adding layers on top of who we already are.
 
 ### Open questions
 

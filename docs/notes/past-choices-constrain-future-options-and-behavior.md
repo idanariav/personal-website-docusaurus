@@ -1,9 +1,9 @@
 ---
 UUID: 20230403065733
 Created: '2023-04-03 06:57'
-Modified: '2026-09-14 22:57'
+Modified: '2026-09-20 07:00'
 tags: []
-Version: 4
+Version: 5
 aliases:
   - Path Dependence
 Description: >-
@@ -26,7 +26,7 @@ SiteProcssed: true
 
 ### Claim
 
-Path Dependence is the idea that we are highly [limited](/notes/self-imposed-limits-increase-ability-to-act-and-creativity.md) by the choices we made in the past, whether they did or did not create systems that now [forces](/notes/dependency-trades-autonomy-for-connection.md) us to act in a certain way.
+Path Dependence is the idea that we are highly [limited](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) by the choices we made in the past, whether they did or did not create systems that now [forces](/notes/dependency-trades-autonomy-for-connection.md) us to act in a certain way.
 
 ### Explanation
 

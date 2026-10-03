@@ -1,7 +1,7 @@
 ---
 UUID: 20230526072856
 Created: '2023-05-26 07:28'
-Modified: '2026-05-15 08:40'
+Modified: '2026-09-26 08:31'
 tags: []
 FullTitle: Theory of Moral Sentiments
 Description: >-
@@ -27,7 +27,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 368
 Reread: 0
 Rate: 4
@@ -107,7 +107,7 @@ Additionally, there are several factors which affect the level of sympathy we ge
 
 **All people**, selfish as they can be, **have the innate power or inclination to sympathize** with others, as if it is a natural response, without it being in their interest to do so. [Imitation internalizes others' behaviors and mental models at varying depths](/notes/imitation-internalizes-others-behaviors-and-mental-models-at-varying-depths.md)
 
-Since we cannot truly experience what the other person is experiencing, because all experience is subjective. [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md), we imagine ourselves in his place, going though everything that he is going through, and feeling what we believe that *should* be the right emotion in that case. It is not because of facial expressions that we experience sympathy, since we don't share the anger of an angry man, but rather we get angry at him. [Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md)
+Since we cannot truly experience what the other person is experiencing, because all experience is subjective. [Subjective perception filters how we see external reality](/notes/subjective-perception-filters-how-we-see-external-reality.md), we imagine ourselves in his place, going though everything that he is going through, and feeling what we believe that *should* be the right emotion in that case. It is not because of facial expressions that we experience sympathy, since we don't share the anger of an angry man, but rather we get angry at him. [Mirroring copies others emotional states and body language to build empathy](/notes/mirroring-copies-others-emotional-states-and-body-language-to-build-empathy.md) [Emotions spread between people through contagion](/notes/emotions-spread-between-people-through-contagion.md)
 
 Until we know why a person is experiencing those things, every sympathy will remain incomplete, and would be (at least partially) replaced by curiosity or indifference. [Sympathy requires understanding the cause](/notes/sympathy-requires-understanding-the-cause.md)
 
@@ -567,7 +567,7 @@ according to [Plato](/notes/plato-philosopher.md), virtue is the result of harmo
 2. Noble emotions
 3. Pursuit of pleasure
 
-**when each section does it's job properly, without negating the role of the other sections, then we have achieved virtuous actions**. For example, when the reason directs us towards helping someone else, and this is our desire according to the noble emotions, and we enjoy doing it, this is harmony and virtue.
+**when each section does it's job properly, without negating the role of the other sections, then we have achieved virtuous actions**. For example, when the reason directs us towards helping someone else, and this is our desire according to the noble emotions, and we enjoy doing it, this is harmony and virtue [Love what is good](/notes/love-what-is-good.md).
 
 virtue according to [Aristotle](/notes/aristotle-philosopher.md):
 To Aristotle, **virtue lies in proper habits that direct us towards a middle ground between two extremes**. Too much bravery is stupidity, and too little is cowardice.

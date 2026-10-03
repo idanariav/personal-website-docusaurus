@@ -1,7 +1,7 @@
 ---
 UUID: 20220703184228
 Created: '2022-07-03 18:42'
-Modified: '2026-08-19 12:04'
+Modified: '2026-09-30 12:22'
 tags: []
 FullTitle: Atomic Habits - An Easy & Proven Way to Build Good Habits & Break Bad Ones
 Description: >-
@@ -26,7 +26,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 11
+Version: 16
 Pages: 319
 Reread: 1
 Rate: 5
@@ -132,7 +132,7 @@ Although compounding has such a strong effect, it's drawbacks are that it's far 
 
 Habits are a two sided sword. The good ones will improve you drastically, while the bad ones will hurt you drastically on the long run. A 1% daily improvement is 37x in a year. Similarly a 1% drop is 37x weaker by the end of the year.
 
-To know where your habits are taking you, it takes [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md). To recognize where you can improve, it requires [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md) to see what little changes you can do to improve in the long run. Don't accept the [We tend to accept defaults and rarely override them](/notes/we-tend-to-accept-defaults-and-rarely-override-them.md). Each area of your life, as little as can be, can be beneficial or harmful to you. You must find out which is which [Self-knowledge can be driven by data](/notes/self-knowledge-can-be-driven-by-data.md).
+To know where your habits are taking you, it takes [Self-awareness reveals mental and emotional states enabling intentional action](/notes/self-awareness-reveals-mental-and-emotional-states-enabling-intentional-action.md). To recognize where you can improve, it requires [Experimentation](/notes/experimentation-is-the-only-reliable-way-to-improve-and-discover-truth.md) to see what little changes you can do to improve in the long run. Don't accept the [Intentionality is conscious presence that replaces automatic default behavior](/notes/intentionality-is-conscious-presence-that-replaces-automatic-default-behavior.md). Each area of your life, as little as can be, can be beneficial or harmful to you. You must find out which is which [Self-knowledge can be driven by data](/notes/self-knowledge-can-be-driven-by-data.md).
 
 Compounding is not only across time, but across areas as well. For example, if you improve 1% over many different sub tasks, your overall productivity will improve much more than just 1%. [Optimization finds the efficient point balancing outputs and inputs](/notes/optimization-finds-the-efficient-point-balancing-outputs-and-inputs.md), even by just a bit has huge effects. It can serve as a [Multiplier amplifies results through enhanced tools or behaviors](/notes/multiplier-amplifies-results-through-enhanced-tools-or-behaviors.md) in many areas.
 
@@ -272,7 +272,7 @@ Habits are easier to start and maintain once we have a [plan](/notes/planning-is
 
 #### Motivation is Overrated, Environment Often Matters More
 
-We are highly affected by our environment, that is why a [Environmental design influences behavior through choice architecture](/notes/environmental-design-influences-behavior-through-choice-architecture.md) can have huge effects on our habits.
+We are highly affected by our environment, that is why a [well-designed environment](/notes/designing-our-physical-space-makes-desired-behavior-easier-and-unwanted-behavior-harder.md) can have huge effects on our habits.
 
 Our environment is more than a collection of objects, these are cues and contexts that trigger a craving within us. Seeing cookies makes us hungry, seeing the TV distracts us. That's why it's best to fill our environment with positive cues and reduce negative ones.
 
@@ -515,7 +515,7 @@ At first, it will probably take a series of experiments to find out what drives 
 
 #### The Truth about Talent
 
-Some habits are easier depending on the person. For example a short person would have a hard time being a good basketball player. You should choose the habits that corresponds with your personality and [Unique skill combinations create competitive and creative advantage](/notes/unique-skill-combinations-create-competitive-and-creative-advantage.md), and we need to [accept](/notes/accepting-what-we-cannot-control-is-the-path-to-peace.md) that not all habits are a good fit for us, although for every category of activity (like sports, art), there should be a habit that fits [Practice beats talent](/notes/practice-beats-talent.md).
+Some habits are easier depending on the person. For example a short person would have a hard time being a good basketball player. You should choose the habits that corresponds with your personality and [Unique skill combinations create competitive and creative advantage](/notes/unique-skill-combinations-create-competitive-and-creative-advantage.md), and we need to [accept](/notes/self-acceptance-is-necessary-for-growth.md) that not all habits are a good fit for us, although for every category of activity (like sports, art), there should be a habit that fits [Practice beats talent](/notes/practice-beats-talent.md).
 
 To identity which habits are a good fit, ask yourself:
 1. What feels like fun to me, but work to others
@@ -569,7 +569,7 @@ However, even in those cases boredom will eventually come. You will feel bored w
 
 The upside of habits is also their downside. Habits turn actions into automatic, but when they are automatic it is hard to improve. We need to combine habits with [Deliberate Practice is the best way to develop skills](/notes/deliberate-practice-is-the-best-way-to-develop-skills.md). The way to be mindful of what still needs improvement and practice and what we are already "nailing" that we can automate requires [Regular review cycles enable progress tracking and alignment](/notes/regular-review-cycles-enable-progress-tracking-and-alignment.md).
 
-Similarly, our identity should be [flexible](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md) as well. A change in the circumstances requires a change in our identity. If we cling too tight to the old identity, we won't be able to thrive. For example, an athlete that is injured will suffer if they try to hold on to their identity as an athlete despite the circumstances which suggest a different life for them now [self](/notes/self.md)
+Similarly, our identity should be [flexible](/notes/our-beliefs-must-adapt-as-context-and-goals-change.md) as well. A change in the circumstances requires a change in our identity. If we cling too tight to the old identity, we won't be able to thrive. For example, an athlete that is injured will suffer if they try to hold on to their identity as an athlete despite the circumstances which suggest a different life for them now [self](/notes/the-self-reshapes-with-relationships-and-circumstances.md)
 
 :::note[The Downside of Creating Good Habits]
 
@@ -585,3 +585,4 @@ Similarly, our identity should be [flexible](/notes/our-beliefs-must-adapt-as-co
 ### Conclusion - the Secret to Results that Last
 
 The power of habits is when they compound, both over time and between habits. Our goal is not to reach a deadline, but to constantly refine the process.
+

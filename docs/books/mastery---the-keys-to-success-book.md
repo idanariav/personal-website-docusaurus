@@ -1,7 +1,7 @@
 ---
 UUID: 20250525191158
 Created: '2025-05-25 19:11'
-Modified: '2026-09-18 12:14'
+Modified: '2026-09-24 11:54'
 tags: []
 Author:
   - '[[George Leonard]]'
@@ -11,7 +11,7 @@ ReadingStatus: Done
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 3
+Version: 4
 Pages: 193
 Rate: 2
 PublishDate: 1991-02-01T00:00:00.000Z
@@ -97,7 +97,7 @@ Mastery begins with learning the most basic of skills.
 
 #### What is Mastery
 
-The road to mastery is long and unrewarding. Early on you would reach a plateau which seems like mastery is unreachable or so far into the future [Progress and change follow non-linear trajectories with thresholds](/notes/progress-and-change-follow-non-linear-trajectories-with-thresholds.md). Training would be hard and you will feel like you're making zero progress.
+The road to mastery is long and unrewarding. Early on you would reach a [plateau](/notes/every-growth-path-includes-a-plateau.md) which seems like mastery is unreachable or so far into the future [Progress and change follow non-linear trajectories with thresholds](/notes/progress-and-change-follow-non-linear-trajectories-with-thresholds.md). Training would be hard and you will feel like you're making zero progress.
 
 While we all have the potential for greatness [Practice beats talent](/notes/practice-beats-talent.md), it is those with [Grit enables persisting through struggle and challenge](/notes/grit-enables-persisting-through-struggle-and-challenge.md) that stay on the frustrating long path to mastery that achieve it.
 

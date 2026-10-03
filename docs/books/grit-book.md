@@ -1,7 +1,7 @@
 ---
 UUID: 20260602055107
 Created: '2026-06-02 05:51'
-Modified: '2026-09-18 12:14'
+Modified: '2026-09-22 14:53'
 tags: []
 FullTitle: Grit - The Power of Passion and Perseverance
 Description: >-
@@ -28,7 +28,7 @@ ReadingStatus: Done
 ASIN: '1443442313'
 Purchased: true
 Fiction: false
-Version: 2
+Version: 4
 Pages: 368
 Reread: 0
 Rate: 3
@@ -209,9 +209,9 @@ The main components of grit:
 
 #### Interest
 
-Match your job to what captures your attention and curiosity. It will empower both you and your productivity. You are much less likely to quit if you're doing something you enjoy. When they both align, you suddenly feel like you're exactly where you belong [Bursting with life](/notes/bursting-with-life.md).
+Match your job to what captures your attention and curiosity. It will empower both you and your productivity. You are much less likely to quit if you're doing something you enjoy. When they both align, you suddenly feel like you're exactly where you belong [Bursting with life](/notes/feeling-bursting-with-life-signals-genuine-flourishing.md).
 
-You can't discover your interest from just thinking about it, and usually it's not found intentionally. It's often the result of [Play](/notes/play.md). Before you get gritty and deep dive into something, you explore and see what sparks your curiosity. This also means that you need the freedom and the emotional support to do so [Safe Base](/notes/safe-base-provides-security-enabling-growth-and-exploration.md).
+You can't discover your interest from just thinking about it, and usually it's not found intentionally. It's often the result of [Play](/notes/unstructured-play-drives-learning-and-creativity.md). Before you get gritty and deep dive into something, you explore and see what sparks your curiosity. This also means that you need the freedom and the emotional support to do so [Safe Base](/notes/safe-base-provides-security-enabling-growth-and-exploration.md).
 
 We always seek novelty. When we're novices, that novelty means a new area to explore. When we're experts, novelty becomes nuance, the small details [experts notice smaller detail](/notes/experts-notice-smaller-detail.md).
 

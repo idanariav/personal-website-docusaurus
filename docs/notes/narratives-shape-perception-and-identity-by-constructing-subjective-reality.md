@@ -1,13 +1,10 @@
 ---
 UUID: 20230930163407
 Created: '2023-09-30 16:34'
-Modified: '2026-04-11 22:24'
+Modified: '2026-09-30 15:15'
 tags: []
-excalidraw-plugin: parsed
-excalidraw-autoexport: png
 Image: null
-excalidraw-open-md: true
-Version: 3
+Version: 4
 aliases:
   - Narratives
   - Narrative
@@ -15,11 +12,14 @@ Description: >-
   Constructs through which individuals interpret and understand their
   experiences, shaping perceptions of reality, identity, and truth, often
   requiring reevaluation during moments of significant change or crisis.
-new_schema: true
 Topic:
   - '[[Identity Formation]]'
 Origin: null
 URL: null
+Drawings:
+  - >-
+    [[Narratives shape perception and identity by constructing subjective
+    reality (sketch)]]
 draft: false
 SiteProcssed: true
 ---
@@ -41,9 +41,9 @@ Often, when we experience moments of crisis, of great change and doubt, we have 
 
 ### Why it matters
 
-This power can and should be harnessed for good. If we can [replace](/notes/we-rewrite-our-memories-every-time-we-access-them.md) that narrative with something positive, constructive, that allows growth, change, and self empowerment, we can improve our lives drastically. [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md) [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md). Narratives have a [Being emerges from action not belief](/notes/being-emerges-from-action-not-belief.md) mentality. If we tell ourselves we can, we might find the [strengh](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) to do the things needed to make that story true.
+This power can and should be harnessed for good. If we can [replace](/notes/we-rewrite-our-memories-every-time-we-access-them.md) that narrative with something positive, constructive, that allows growth, change, and self empowerment, we can improve our lives drastically. [Capabilities are malleable through effort and learning](/notes/capabilities-are-malleable-through-effort-and-learning.md) [Optimism is choosing to believe outcomes can improve through action](/notes/optimism-is-choosing-to-believe-outcomes-can-improve-through-action.md). Narratives have a [self-fulfilling](/notes/expectations-of-ourselves-become-self-fulfilling-through-behavior-shaping.md) mentality. If we tell ourselves we can, we might find the [strengh](/notes/intrinsic-motivation-drives-action-through-internal-alignment-and-passion.md) to do the things needed to make that story true.
 
-This is the true power of words, of stories [speech acts](/notes/speech-acts.md)
+This is the true power of words, of stories [speech acts](/notes/speech-acts-perform-reality-rather-than-merely-describing-it.md)
 
 ### Examples
 
@@ -56,4 +56,4 @@ This is the true power of words, of stories [speech acts](/notes/speech-acts.md)
 
 ## Visual
 
-![Narratives](/notes/narratives.webp)
+![Narratives shape perception and identity by constructing subjective reality (sketch)](/sketches/narratives-shape-perception-and-identity-by-constructing-subjective-reality-sketch.webp)

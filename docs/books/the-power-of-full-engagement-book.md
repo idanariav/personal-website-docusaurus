@@ -1,7 +1,7 @@
 ---
 UUID: 20241001160941
 Created: '2024-10-01 16:09'
-Modified: '2026-08-15 06:40'
+Modified: '2026-09-24 06:01'
 tags: []
 FullTitle: >-
   The Power of Full Engagement - Managing Energy, Not Time, is the Key to High
@@ -30,7 +30,7 @@ excalidraw-export-transparent: false
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 8
+Version: 10
 Pages: 256
 Reread: 0
 Rate: 3
@@ -184,7 +184,7 @@ While rest and spend cycles assure us that we will be able to work with maximum 
 
 Physical energy is key for any type of activity we wish to do. From creativity to focus, everything relies on our body to provide us with the necessary energy, even if we work in a non physical environment.
 
-It all comes down to [nutrition](/notes/nutrition.md), [breathing](/notes/breathing.md), [Physical activity shapes mental and emotional wellbeing](/notes/physical-activity-shapes-mental-and-emotional-wellbeing.md) and [Sleep is essential for cognitive function and peak performance](/notes/sleep-is-essential-for-cognitive-function-and-peak-performance.md). Nutrition is useful for providing with the resources needed to stay energized, while sleep enables us to repair, cleanup and grow in deep sleep. Exercise helps us keep aging at bay, and increase our overall levels of energy.
+It all comes down to [Nutrition](/notes/nutrition.md), [breathing](/notes/conscious-breathing-regulates-the-nervous-system.md), [Physical activity shapes mental and emotional wellbeing](/notes/physical-activity-shapes-mental-and-emotional-wellbeing.md) and [Sleep is essential for cognitive function and peak performance](/notes/sleep-is-essential-for-cognitive-function-and-peak-performance.md). Nutrition is useful for providing with the resources needed to stay energized, while sleep enables us to repair, cleanup and grow in deep sleep. Exercise helps us keep aging at bay, and increase our overall levels of energy.
 
 1. **Nutrition**
 	1. Focus on healthy, low sugar intakes
@@ -213,7 +213,7 @@ Physical and emotional energy are not only similar, they are connected. When we 
 
 Some key emotional skills to practice are confidence, self control, patience and empathy.
 
-When we recharge, it's the quality, not just the quantity that matters. For example reading a book, doing yoga, taking a [Nature restores mental health and renews focus through immersive presence](/notes/nature-restores-mental-health-and-renews-focus-through-immersive-presence.md), or nurture our [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md) is much better than watching tv [leisure](/notes/leisure.md).
+When we recharge, it's the quality, not just the quantity that matters. For example reading a book, doing yoga, taking a [Nature restores mental health and renews focus through immersive presence](/notes/nature-restores-mental-health-and-renews-focus-through-immersive-presence.md), or nurture our [Deep relationships require trust, listening, and empathy](/notes/deep-relationships-require-trust-listening-and-empathy.md) is much better than watching tv [leisure](/notes/active-leisure-restores-better-than-passive-consumption.md).
 
 As with physical training, to increase our emotional capacity, it starts with [Listening well requires active effort to understand](/notes/listening-well-requires-active-effort-to-understand.md), understanding and respecting others even if we don't agree with them, to train our sense of empathy, to preform giving, and make new connections at workplace.
 
