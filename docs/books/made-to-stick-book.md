@@ -1,7 +1,7 @@
 ---
 UUID: 20230331103942
 Created: '2023-03-31 10:39'
-Modified: '2026-04-22 06:19'
+Modified: '2026-10-03 19:28'
 tags: []
 Author:
   - '[[Chip Heath]]'
@@ -18,7 +18,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 291
 Rate: 4
 PublishDate: 2007-01-02T00:00:00.000Z
@@ -58,7 +58,7 @@ To make a message memorable:
 
 ### Relate
 
-⛓ *Life lessons, action items*
+⛓ *by following this method, what will happen?*
 
 ### Act
 📋*What should I do to achieve the goals set out by this book?*
@@ -75,7 +75,17 @@ To make a message memorable:
 
 ### Critique
 
-✅ *by following this method, what will happen?*
+🧩 *relevant research, metaphors or examples that helps to convey the argument*
+1. **Pomelo Analogy** – Analogy. Comparing a pomelo to a "grapefruit but larger and purple" simplifies the concept by leveraging established mental models. Supports: Analogies connect to pre-built schemas in the audience's mind.
+2. **Wolf vs. Truck Car Advertisement** – Thought Experiment. Comparing an ad where a wolf eats a band versus a car crash ad that emphasizes "it can happen anywhere." Supports: Unexpectedness must be relevant to the core message to be effective.
+3. **Donor Population Discrepancy** – Rhetorical Method. Rephrasing a dry statistic (10% donation rate) into a question highlighting the gap between donor demographics (40%) and reality (10%). Supports: Curiosity can be manufactured by creating knowledge gaps.
+4. **Bambi vs. Shark Danger** – Statistical Analogy. Asserting that a deer ("Bambi") is 300 times more dangerous than a shark because of car accidents. Supports: Vague or dry statistics are less persuasive than vivid, surprising comparisons.
+5. **Starving Child Case Study** – Behavioral Observation. People donate more to a single starving child than to statistics about 1 million children. Supports: Analytical thinking hindered by statistics reduces the emotional response needed for engagement.
+6. **"5 Tips to Reduce Stress" Headlines** – Rhetorical Example. Using headlines that place the reader as the focus and promise direct personal benefit. Supports: Appealing to self-interest is a primary driver of emotional investment.
+7. **Mental Flight Simulator** – Metaphor. The brain treats a well-told story as a "mental flight simulator" that creates the same neural activity as real events. Supports: Stories effectively prepare us for real-world responses through simulation.
+8. **Proverbs** – Conceptual Archetype. Citing proverbs as the "Holy Grail" of messaging because they pack profound meaning into compact phrases. Supports: Sticky ideas must be both simple and profound.
+9. **Engineers and the Factory Floor** – Anecdote. Describing engineers who focus on abstract, internal drawings while workers simply require practical instructions. Supports: The "Curse of Knowledge" makes it difficult for experts to imagine the perspective of novices.
+10. **Maslow’s Identity Alignment** – Theoretical Framework. Applying Maslow’s hierarchy of needs to suggest that messages should target self-actualization or identity. Supports: Messages have a higher success rate when they connect to the person the audience wants to be.
 
 ❌ *the logical jumps, holes or simply cases where it is wrong...*
 
@@ -144,7 +154,7 @@ For example, I can either do a 100 word paragraph on what a pomelo is, or just s
 ### Chapter 2 - Unexpected
 
 humans are used to getting use to. When we begin to perceive something, we are already trying to guess if it similar to something that we've heard and if we can guess the ending. The more similar it is, the less attention we give to it since we can "finish the sentence" without really listening. [Expectations shape wellbeing through the gap between desires and reality](/notes/expectations-shape-wellbeing-through-the-gap-between-desires-and-reality.md)
-That's why your idea has to be surprising, but it can't just be surprising for surprise sake. **When something surprises us, we pay more attention so that we could learn from it for next time**. [Novelty breaks autopilot and sharpens focus](/notes/novelty-breaks-autopilot-and-sharpens-focus.md)
+That's why your idea has to be surprising, but it can't just be surprising for surprise sake. **When something surprises us, we pay more attention so that we could learn from it for next time**. [Novelty breaks autopilot and sharpens focus](/notes/novelty-breaks-autopilot-and-sharpens-focus.md) [Surprise captures attention because it signals a gap in our predictions](/notes/surprise-captures-attention-because-it-signals-a-gap-in-our-predictions.md)
 That unexpected thing we are trying to learn has to be related to your core message.
 Showing an ad about a band that suddenly gets eaten by wolf is surprising but there is no message, so it's a worthless ad. Showing an ad about a nice family car that drives around the neighborhood but suddenly gets slammed by a truck is not only surprising, but also relevant if the core message is "it can happen anywhere, so buckle up".
 
@@ -206,7 +216,7 @@ For example, people tend to donate more when they are shown with a picture of a 
 
 Another way to trigger emotional reaction is to talk about what people care most, which is sometimes their self interest. [Appealing to self-interest triggers stronger emotional investment](/notes/appealing-to-self-interest-triggers-stronger-emotional-investment.md) By "tempting" the audience we can have a strong emotional reaction. Headlines like "5 tips to reduce your stress". Also, by making the reader the focus of the story, talking to him in second person rather than a description of something far away could be very helpful.
 
-However, self interest is not always the solution, we should keep [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md) in mind. People are also after self actualization, a higher purpose, Identity. **By saying messages that connect with who they are or who they want to be, we have a much higher chance of success** [Emotional Contagion](/notes/empathy-means-understanding-and-acting-on-anothers-perspective.md)
+However, self interest is not always the solution, we should keep [Maslow's hierarchy orders needs from basic to self-actualization](/notes/maslows-hierarchy-orders-needs-from-basic-to-self-actualization.md) in mind. People are also after self actualization, a higher purpose, Identity. **By saying messages that connect with who they are or who they want to be, we have a much higher chance of success** [Emotional Contagion](/notes/emotions-spread-between-people-through-contagion.md)
 
 :::note[EMOTIONAL]
 

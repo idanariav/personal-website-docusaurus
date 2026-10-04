@@ -1,7 +1,7 @@
 ---
 UUID: 20221208221323
 Created: '2022-12-08 22:13'
-Modified: '2026-09-02 15:41'
+Modified: '2026-10-03 19:28'
 tags: []
 Author:
   - '[[Daniel H. Pink]]'
@@ -17,7 +17,7 @@ Image: null
 excalidraw-open-md: true
 Purchased: true
 Fiction: false
-Version: 7
+Version: 8
 Pages: 242
 Rate: 3
 PublishDate: 2011-04-05T00:00:00.000Z
@@ -158,7 +158,7 @@ external motivation is problematic because:
 #### And the Special Circumstances when the Do
 
 to give better external motivation:
-1. **As a bonus** - give it undependably after the job has been completed (don't turn this into a habit since it will because a known external motivation) [Unpredictable rewards sustain motivation better than expected ones](/notes/unpredictable-rewards-sustain-motivation-better-than-expected-ones.md) [Habits operate through a four-part loop](/notes/habits-operate-through-a-four-part-loop.md)
+1. **As a bonus** - give it undependably after the job has been completed (don't turn this into a habit since it will because a known external motivation) [Unpredictable rewards sustain motivation better than expected ones](/notes/unpredictable-rewards-sustain-motivation-better-than-expected-ones.md) [Habits operate through a four-part loop](/notes/habits-operate-through-a-four-part-loop.md) [Surprise captures attention because it signals a gap in our predictions](/notes/surprise-captures-attention-because-it-signals-a-gap-in-our-predictions.md)
 2. **Not money** - give cash alternatives (throw a party, give praises and acknowledgments).
 3. **Simple tasks** - save this for only routine tasks
 
