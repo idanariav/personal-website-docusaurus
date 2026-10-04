@@ -1,75 +1,88 @@
 /**
  * Sketches gallery data.
  * Add entries here to populate the Visual Notes gallery page.
- * Images are served from /static/notes/ — use the filename only, e.g. "clarity.webp".
+ * Images are served from /static/sketches/ — e.g. "/sketches/life-is-change-sketch.webp".
  * The `link` field is optional; omit or set to null to render a non-clickable image.
  */
 export const sketches = [
   {
-    title: "Clarity",
-    image: "/notes/clarity.webp",
-    link: "/docs/notes/clarity-is-achieved-through-definition-and-presentation",
+    title: "Good Action Requires Intention",
+    image: "/sketches/good-action-requires-intention-aligned-with-values-sketch.webp",
+    link: "/docs/notes/good-action-requires-intention-aligned-with-values",
   },
   {
-    title: "Curiosity",
-    image: "/notes/curiosity.webp",
-    link: "/docs/notes/curiosity-is-the-joy-of-filling-knowledge-gaps",
+    title: "Mattering",
+    image: "/sketches/mattering-book-2-sketch.webp",
+    link: "/docs/books/mattering-book",
   },
   {
-    title: "Deontology",
-    image: "/notes/deontology.webp",
-    link: "/docs/notes/deontology-treats-morality-as-duties-and-rights-that-transcend-consequences",
+    title: "Narratives Shape Identity",
+    image: "/sketches/narratives-shape-perception-and-identity-by-constructing-subjective-reality-sketch.webp",
+    link: "/docs/notes/narratives-shape-perception-and-identity-by-constructing-subjective-reality",
   },
   {
-    title: "Amor Fati",
-    image: "/notes/amor-fati.webp",
-    link: "/docs/notes/love-your-fate-as-if-you-chose-it",
+    title: "People Are Not the Problem",
+    image: "/sketches/people-are-not-the-problem-sketch.webp",
+    link: "/docs/notes/people-are-not-the-problem",
   },
   {
-    title: "Beginner's Mind",
-    image: "/notes/beginners-mind.webp",
-    link: "/docs/notes/openness-to-new-ideas-without-expert-bias",
+    title: "Sunk Cost",
+    image: "/sketches/past-costs-irrationally-justify-future-commitment-decisions-sketch.webp",
+    link: "/docs/notes/past-costs-irrationally-justify-future-commitment-decisions",
   },
   {
-    title: "Anti-Fragility",
-    image: "/notes/anti-fragility.webp",
-    link: "/docs/notes/some-systems-grow-stronger-through-disorder",
+    title: "Naming Gives Power",
+    image: "/sketches/naming-a-phenomenon-gives-us-power-over-it-sketch.webp",
+    link: "/docs/notes/naming-a-phenomenon-gives-us-power-over-it",
   },
   {
-    title: "Acceptance",
-    image: "/notes/acceptance.webp",
-    link: "/docs/notes/accepting-what-we-cannot-control-is-the-path-to-peace",
+    title: "Negotiation Is Connection",
+    image: "/sketches/negotiation-is-an-act-of-connection-sketch.webp",
+    link: "/docs/notes/negotiation-is-an-act-of-connection",
   },
   {
-    title: "Balance the Extremes",
-    image: "/notes/balance-extremes.webp",
-    link: "/docs/notes/optimal-outcomes-emerge-from-balance-between-extremes-not-absolutes",
+    title: "Truth in the Noise",
+    image: "/sketches/noise-obscures-truth-with-external-interference-and-confusion-sketch.webp",
+    link: "/docs/notes/noise-obscures-truth-with-external-interference-and-confusion",
   },
   {
-    title: "Blank Space",
-    image: "/notes/blank-space.webp",
-    link: "/docs/notes/every-system-needs-empty-space-to-function",
+    title: "Return on Investment",
+    image: "/sketches/people-are-the-most-valuable-organizational-resource-sketch.webp",
+    link: "/docs/notes/people-are-the-most-valuable-organizational-resource",
   },
   {
-    title: "Boundaries",
-    image: "/notes/boundaries.webp",
-    link: "/docs/notes/boundaries",
+    title: "Motivated vs Passionate",
+    image: "/sketches/passion-is-deep-desire-that-sustains-intrinsic-motivation-through-difficulty-sketch.webp",
+    link: "/docs/notes/passion-is-deep-desire-that-sustains-intrinsic-motivation-through-difficulty",
   },
   {
-    title: "Agency",
-    image: "/notes/agency.webp",
-    link: "/docs/notes/agency-is-the-ability-to-connect-desires-and-actions",
+    title: "Overestimating Abilities",
+    image: "/sketches/overestimating-abilities-blinds-us-to-genuine-risks-sketch.webp",
+    link: "/docs/notes/overestimating-abilities-blinds-us-to-genuine-risks",
   },
   {
-    // No matching doc exists yet (docs/notes/5-minute-rule.md is a pre-existing
-    // content gap — referenced by several other notes/books but never authored).
-    title: "5-Minute Rule",
-    image: "/notes/5-minute-rule.webp",
+    title: "Patience",
+    image: "/sketches/patience-enables-persisting-through-delayed-gratification-and-growth-sketch.webp",
+    link: "/docs/notes/patience-enables-persisting-through-delayed-gratification-and-growth",
+  },
+  {
+    title: "A Persistent Feeling of Lacking",
+    image: "/sketches/a-persistent-feeling-of-lacking-sustains-endless-pursuit-sketch.webp",
     link: null,
   },
   {
-    title: "A Task Takes as Much Time as You Give It",
-    image: "/notes/a-task-takes-as-much-time-as-you-give-it.webp",
-    link: "/docs/notes/a-task-takes-as-much-time-as-you-give-it",
+    title: "The 80/20 Principle",
+    image: "/sketches/most-benefits-come-from-a-small-proportion-of-inputs-sketch.webp",
+    link: "/docs/notes/most-benefits-come-from-a-small-proportion-of-inputs",
+  },
+  {
+    title: "Always Be a Kid",
+    image: "/sketches/always-be-a-kid-sketch.webp",
+    link: null,
+  },
+  {
+    title: "Momentum",
+    image: "/sketches/momentum-is-movement-that-builds-self-reinforcing-forward-action-sketch.webp",
+    link: "/docs/notes/momentum-is-movement-that-builds-self-reinforcing-forward-action",
   },
 ];

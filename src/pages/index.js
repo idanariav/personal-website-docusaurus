@@ -20,9 +20,9 @@ function HomepageHero() {
       }
       visual={
         <SketchFrame
-          src={useBaseUrl('/notes/clarity.webp')}
-          alt="Clarity — a hand-drawn map sketch"
-          caption="Clarity"
+          src={useBaseUrl('/sketches/naming-a-phenomenon-gives-us-power-over-it-sketch.webp')}
+          alt="Naming gives power — a hand-drawn sketch"
+          caption="Naming Gives Power"
           captionInside
           rotate={1.5}
           size="lg"
