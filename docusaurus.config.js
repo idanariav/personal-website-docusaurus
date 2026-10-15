@@ -146,7 +146,7 @@ const config = {
       image: "general/website-social-card.png",
       navbar: {
         hideOnScroll: false,
-        title: 'Philosopher\'s Code',
+        title: 'Idan Ariav',
         items: [
           {
             to: '/sketches',
@@ -155,7 +155,7 @@ const config = {
           },
           {
             to: '/blog',
-            label: 'Newsletter',
+            label: 'Past issues',
             position: 'left',
           },
           {
@@ -188,7 +188,7 @@ const config = {
                 to: '/sketches',
               },
               {
-                label: 'Newsletter',
+                label: 'Past issues',
                 to: '/blog',
               },
               {

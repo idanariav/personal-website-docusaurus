@@ -32,7 +32,7 @@ function HomepageHero() {
     >
       <NewsletterForm variant="hero" />
       <div className={styles.finePrint}>
-        Join the journey.
+        One idea, one sketch, straight to your inbox.
       </div>
     </PageHero>
   );
@@ -72,7 +72,7 @@ function AboutStrip() {
         <h2 className={styles.aboutTitle}>A curious person with a pen</h2>
         <p className={styles.aboutBody}>
           I turn complicated ideas into simple visuals — to spark new ways of thinking about
-          life&apos;s challenges. Off the canvas, I build pkm systems to convert thinking into creating.
+          life&apos;s challenges. Off the canvas, I build personal knowledge management (PKM) systems — note-taking setups that turn thinking into creating.
         </p>
         <div className={styles.aboutLinks}>
           <Link to="/about" className={styles.aboutLink}>More about me →</Link>
