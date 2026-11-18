@@ -15,7 +15,7 @@ const config = {
     v4: true
   },
   title: 'Idan Ariav',
-  tagline: 'Helping you convert information into actionable knowledge',
+  tagline: 'Big ideas, drawn simply.',
   favicon: 'general/favicon.ico',
 
   // Set the production url of your site here
@@ -114,13 +114,13 @@ const config = {
     ({
       // Declare some <meta> tags
       metadata: [
-        { name: 'keywords', content: 'personal website, visual notes, practical philosophy, who we are, peaceful living, creative life' },
-        { name: 'description', content: 'Sketches and essays on who we are, peaceful living, and creative life — practical philosophy for everyday life.' },
+        { name: 'keywords', content: 'visual notes, sketches, drawn ideas, practical philosophy, newsletter, who we are, peaceful living, creative life' },
+        { name: 'description', content: 'Big ideas, drawn simply. Hand-drawn sketches on who we are, peaceful living, and creative life — plus Philosopher\'s Code, a newsletter with one idea and one sketch per issue.' },
         { name: 'author', content: 'Idan Ariav' },
         { name: 'robots', content: 'index, follow' }, // Allow indexing
         { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }, // Helps with responsive design
-        { name: 'og:title', content: 'Philosopher\'s Code – Practical Philosophy for everyday life' },
-        { name: 'og:description', content: 'Sketches and essays on who we are, peaceful living, and creative life.' },
+        { name: 'og:title', content: 'Idan Ariav – Big ideas, drawn simply' },
+        { name: 'og:description', content: 'Hand-drawn sketches on who we are, peaceful living, and creative life. One idea, one sketch, straight to your inbox.' },
         { name: 'og:image', content: 'https://idanariav.com/general/website-social-card.png' },
         { name: 'og:url', content: 'https://idanariav.com/' },
         { name: 'og:type', content: 'website' }],
@@ -209,16 +209,8 @@ const config = {
                 href: 'https://www.linkedin.com/in/idan-ariav/',
               },
               {
-                label: 'X (Twitter)',
-                href: 'https://x.com/ariav_idan',
-              },
-              {
                 label: 'GitHub',
                 href: 'https://github.com/idanariav',
-              },
-              {
-                label: 'Medium',
-                href: 'https://medium.com/@idanariav',
               },
             ],
           },

@@ -1,8 +1,10 @@
+import { useState } from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import PageHero from '../components/common/PageHero';
 import SketchFrame from '../components/common/SketchFrame';
+import SketchLightbox from '../components/common/SketchLightbox';
 import NewsletterForm from '../components/newsletter/NewsletterForm';
 import FullFooter from '../components/footer/FullFooter';
 import { sketches as sketchData } from '@site/src/data/sketches';
@@ -32,19 +34,21 @@ function HomepageHero() {
     >
       <NewsletterForm variant="hero" />
       <div className={styles.finePrint}>
-        One idea, one sketch, straight to your inbox.
+        Get <strong>Philosopher&apos;s Code</strong>, my newsletter: one idea, one sketch, straight to your inbox.{' '}
+        <Link to="/blog" className={styles.finePrintLink}>Read past issues →</Link>
       </div>
     </PageHero>
   );
 }
 
-function SketchbookBand() {
+function FavoritesBand() {
   const featured = sketchData.slice(0, 3);
+  const [openIndex, setOpenIndex] = useState(null);
   return (
     <section className={styles.sketchbookSection}>
       <div className={styles.sketchbookInner}>
         <div className={styles.sketchbookHeader}>
-          <h2 className={styles.sketchbookTitle}>Fresh from the sketchbook</h2>
+          <h2 className={styles.sketchbookTitle}>Some of my favorites</h2>
           <Link to="/sketches" className={styles.seeAllLink}>See all visuals →</Link>
         </div>
         <div className={styles.grid}>
@@ -54,12 +58,18 @@ function SketchbookBand() {
               src={useBaseUrl(sketch.image)}
               alt={sketch.title}
               caption={sketch.title}
-              href={sketch.link}
+              onClick={() => setOpenIndex(idx)}
               rotate={idx % 2 === 0 ? -0.8 : 0.7}
             />
           ))}
         </div>
       </div>
+      <SketchLightbox
+        items={featured}
+        index={openIndex}
+        onNavigate={setOpenIndex}
+        onClose={() => setOpenIndex(null)}
+      />
     </section>
   );
 }
@@ -72,11 +82,10 @@ function AboutStrip() {
         <h2 className={styles.aboutTitle}>A curious person with a pen</h2>
         <p className={styles.aboutBody}>
           I turn complicated ideas into simple visuals — to spark new ways of thinking about
-          life&apos;s challenges. Off the canvas, I build personal knowledge management (PKM) systems — note-taking setups that turn thinking into creating.
+          life&apos;s challenges.
         </p>
         <div className={styles.aboutLinks}>
           <Link to="/about" className={styles.aboutLink}>More about me →</Link>
-          <Link to="/docs/welcome" className={styles.aboutLink}>Explore the Knowledge Vault →</Link>
         </div>
       </div>
     </section>
@@ -87,11 +96,11 @@ export default function Home() {
   return (
     <Layout
       title="Idan Ariav"
-      description="Sketches and essays on who we are, peaceful living, and creative life — practical philosophy for everyday life."
+      description="Big ideas, drawn simply. Hand-drawn sketches on who we are, peaceful living, and creative life — plus Philosopher's Code, a newsletter with one idea and one sketch per issue."
       noFooter
     >
       <HomepageHero />
-      <SketchbookBand />
+      <FavoritesBand />
       <AboutStrip />
       <FullFooter />
     </Layout>

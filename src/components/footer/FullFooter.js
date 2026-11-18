@@ -10,7 +10,7 @@ export default function FullFooter() {
   const [exploreGroup, elsewhereGroup] = footer.links;
 
   return (
-    <footer className={styles.footer}>
+    <footer id="subscribe" className={styles.footer}>
       <div className={styles.inner}>
         <div className={styles.columns}>
           <div className={styles.about}>

@@ -4,6 +4,42 @@
   align-items: center;
 }
 
+.success {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  padding: 14px 22px;
+  border-radius: 14px;
+  border: 2px solid var(--ink);
+  background: var(--accent-soft);
+  color: var(--ink);
+  box-sizing: border-box;
+}
+
+.footer.success {
+  border: none;
+  background: var(--footer-input-bg);
+  color: var(--footer-heading);
+}
+
+.button:disabled {
+  opacity: 0.7;
+  cursor: progress;
+}
+
+@media screen and (max-width: 480px) {
+  .hero,
+  .section {
+    flex-wrap: wrap;
+  }
+  .hero .input,
+  .section .input,
+  .hero .button,
+  .section .button {
+    flex: 1 1 100%;
+  }
+}
+
 .input {
   flex: 1;
   min-width: 0;

@@ -11,18 +11,27 @@ export default function SketchFrame({
   size = 'md',
   tape = false,
   href,
+  onClick,
   className,
 }) {
   const frame = (
     <div className={styles.wrapper}>
       {tape && <div className={styles.tape} />}
-      <div className={clsx(styles.frame, styles[size])} style={{ transform: `rotate(${rotate}deg)` }}>
-        <img src={src} alt={alt} className={styles.image} />
+      <div className={clsx(styles.frame, styles[size])} style={{ '--rotate': `${rotate}deg` }}>
+        <img src={src} alt={alt} className={styles.image} loading="lazy" />
         {caption && captionInside && <div className={clsx('caption', styles.captionInside)}>{caption}</div>}
       </div>
       {caption && !captionInside && <div className={clsx('caption', styles.caption)}>{caption}</div>}
     </div>
   );
+
+  if (onClick) {
+    return (
+      <button type="button" onClick={onClick} className={clsx(styles.link, styles.button, className)} aria-label={`View ${caption || alt}`}>
+        {frame}
+      </button>
+    );
+  }
 
   if (href) {
     return (

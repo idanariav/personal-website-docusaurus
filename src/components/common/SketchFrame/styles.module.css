@@ -9,11 +9,44 @@
   display: block;
 }
 
+.button {
+  background: none;
+  border: 0;
+  padding: 0;
+  width: 100%;
+  font: inherit;
+  text-align: inherit;
+  cursor: zoom-in;
+}
+
 .frame {
   background: var(--surface);
   border: 2px solid var(--ink);
   box-sizing: border-box;
   display: block;
+  transform: rotate(var(--rotate, 0deg));
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.link:hover .frame,
+.link:focus-visible .frame {
+  transform: rotate(0deg) translateY(-4px);
+  box-shadow: var(--shadow-sticker-lg);
+}
+
+.link:focus-visible {
+  outline: none;
+}
+
+.link:focus-visible .frame {
+  outline: 3px solid var(--accent);
+  outline-offset: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .frame {
+    transition: none;
+  }
 }
 
 .sm {
